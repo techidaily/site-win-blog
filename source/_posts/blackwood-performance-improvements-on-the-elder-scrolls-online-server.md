@@ -1,7 +1,7 @@
 ---
 title: Blackwood Performance Improvements on The Elder Scrolls Online Server
-date: 2024-08-04 10:23:14
-updated: 2024-08-07 10:47:36
+date: 2024-08-06T09:26:26.527Z
+updated: 2024-08-07T09:26:26.527Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ If you encounter**a crash in BioShock 2 Remastered** , the problem can cause you
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ### Fix 1: Reduce game resolution
 
  Your computer overload may be one of the reasons for the BioShock 2 Remastered crash. Before trying complicated fixes, you can simply reduce the game resolution to see whether the crash can be solved. There are users fix the crash by this simple fix.  
@@ -72,17 +76,31 @@ If you encounter**a crash in BioShock 2 Remastered** , the problem can cause you
 1. Run Steam.
 2. In the**Library** section, right-click on BioShock 2 Remastered and click**Properties** .
 3. Under the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** to the game folder.  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Open file “Bioshock2SP.ini”
 5. Search for “TextureStreamingMemoryLimit” value and change it from 256 to 2048\. It is recommended that you choose a value that is not higher than the memory of your video card.
 6. Change**TextureStreamingDistanceLimit** from whatever it currently is to 10000
 7. Back to Steam, right-click on Bioshock 2 Remastered and click**Properties** .
 8. In the**GENERAL** tab, uncheck “**Enable the Steam Overlay while in-game** “.  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 9. Relaunch the game and check whether the crash will appear or not.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -107,6 +125,9 @@ If you encounter**a crash in BioShock 2 Remastered** , the problem can cause you
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
@@ -114,6 +135,9 @@ If you encounter**a crash in BioShock 2 Remastered** , the problem can cause you
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5:**Reinstall** BioShock 2 Remastered
 
  If none of the fixes above works, it’s time to do a clean uninstall on BioShock 2 Remastered and reinstall it. The broken system file may cause the crash, reinstall the game can clear the corrupted files and provide you smooth gaming experience.

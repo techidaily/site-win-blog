@@ -1,7 +1,7 @@
 ---
 title: Rainbow Six Extraction PC Issues - Now Solved!
-date: 2024-08-05 22:30:34
-updated: 2024-08-07 11:53:55
+date: 2024-08-06T09:26:12.854Z
+updated: 2024-08-07T09:26:12.854Z
 tags:
   - win11
   - win10
@@ -45,12 +45,18 @@ thumbnail: https://thmb.techidaily.com/176a1a151aeb9ebfdcfd4bd623625c32ca353b5d8
 
 _Rainbow Six Extraction_ System Requirements
 
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
 ### 2\. Stop overclocking
 
  The Intel “K” and “X” chips usually mean the chip is unlocked. Many gamers like squeezing out a little extra performance than what you get out of the box. When coupled with good ventilation and cooling, CPU overclocking can reap great results.
 
  But if you’re experiencing Rainbow Six Extraction crashing issues when tweaking the clock speeds, you should stop overclocking and try resetting your processor (and GPU, if appropriate) to default settings.
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Verify your game files
 
  This is a very basic troubleshooting step you should try before heading on to other fixes. Here’s how to do it in Ubisoft Connect PC:
@@ -67,6 +73,9 @@ _Rainbow Six Extraction_ System Requirements
 
  See if this issue persists after you repaired the game files. If this fix doesn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Update your graphics driver
 
  Game crashes can be blamed on   **the incompatibility between your current graphics card driver and this operating system** . Updating your graphics drivers can fix some game issues, such as game crashing.
@@ -77,12 +86,18 @@ _Rainbow Six Extraction_ System Requirements
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -98,6 +113,9 @@ _Rainbow Six Extraction_ System Requirements
 
  To find out the problematic app, you can try[**performing a clean boot**](https://tools.techidaily.com/drivereasy/download/) . This allows your PC to run without any unnecessary startups. If your game stops crashing, then you need to enable the startup item one by one to find the problematic one.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<!-- affiliate ads end -->
 ### 6\. Disable SMT
 
 Some Rainbow Six Extraction players find it helps when they disable SMT.

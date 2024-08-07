@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Starting Up Vanguard Successfully on Valorant - Common Fixes & Tips"
-date: 2024-08-05 20:41:59
-updated: 2024-08-07 11:15:57
+date: 2024-08-06T09:26:03.580Z
+updated: 2024-08-07T09:26:03.580Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/3a086eb5f8446de2870210890acaafe476fc2c59a
 
 For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occurrence. The error pops up when Riot’s anti-cheat program Vanguard fails to start for some reason, causing Valorant to crash. If you, too, are being shut out of the game by the error, don’t worry. This post may help…
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to fix Vanguard Not Initialized
 
  Here are five fixes that have helped other players resolve the**Vanguard Not Initialized** game crash on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -39,6 +42,9 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
@@ -59,12 +65,18 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 To do so:
 
 1. On your keyboard, press the Windows logo key and type**Add or Remove Programs** , then click on**Add or Remove Programs** as it pops up as a result.  
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Add-or-Remove-Programs.png)
 2. In the list of apps and features, locate Riot Vanguard. Then click on it and choose**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/RV.png)
 3. Launch the VALORANT client to prompt Vanguard to reinstall.
 4. Check to see if the Vanguard anti-cheat has not been initialized issue has been resolved. If yes, congrats! If it’s still no joy, please move on to**Fix 4** , below.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<!-- affiliate ads end -->
 ## Fix 4: Set Virtual Disk Service to automatic
 
  According to some players, settings the Virtual Disk service to automatic has helped them get rid of the**Vanguard not initialized** issue.
@@ -75,6 +87,9 @@ To do so:
 3. Scroll down to**Virtual Disk** and double-click on it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/VD.png)
 4. In Startup type, choose**Automatic** . Then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AUT.png)
 5. Open Valorant and check to see if the game crash has been fixed. If the error still throws up, please head on to**Fix 5** , below.
 
@@ -85,8 +100,14 @@ To do so:
 The steps are pretty easy:
 
 1. On your keyboard, press**the Windows logo key** and type**check for updates** , then click on**Check for updates** as it pops up as a matching result.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1.png)
 2. Click**Check for updates** .  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
 4. Restart your computer.

@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Repairing the DirectX Graphics Error ERR_GFX_D3D_INIT on Grand Theft Auto V
-date: 2024-08-06 16:38:39
-updated: 2024-08-07 11:51:54
+date: 2024-08-06T09:26:00.036Z
+updated: 2024-08-07T09:26:00.036Z
 tags:
   - win11
   - win10
@@ -15,12 +15,18 @@ thumbnail: https://thmb.techidaily.com/ef372663750da3323ed4b8491ee9b4b175fd85bfc
 
 ## Size and Mass of the Colliding Objects - Larger Vehicles Can Cause Significant Damage Due to Their Size and Momentum
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-65.png)
 
  Despite some very positive reviews about Armored Core 6: Fires of Rubicon, there are, however, various gamers who reported that they’ve experienced frequent crashes on PC. Even though the devs have released an updated version that was supposed to fix the crashing problem once and for all, the new version is still crashing for some players.
 
  If you’re also seeing crashes with your Armored Core 6: Fires of Rubicon, don’t worry, we have gathered some of the proven fixes that have helped many other gamers with their game crashing problem, and you may want to give them a try as well.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes for the Armored Core 6: Fires of Rubicon crashing issue
 
  You don’t need to try all the following methods: simply work your way down the list until you find the one that does the trick to fix the crashing problem with Armored Core 6: Fires of Rubicon for you.
@@ -56,6 +62,9 @@ Here are the requirements for your reference:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Verify game files
 
  Corrupted or damaged game files could also be the culprits to the crashing of Armored Core 6: Fires of Rubicon, and verifying game files from within Steam helped to fix the crashing problem, according to some gamers in the Steam forum. So the next thing you should do here is to repair the game files. To do so:
@@ -66,6 +75,9 @@ Here are the requirements for your reference:
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)  
 
  Steam will verify the game’s files – this process may take several minutes.
@@ -81,11 +93,20 @@ Here are the requirements for your reference:
  To check if that’s your case, you can try running it as an administrator:
 
 1. Right-click your **Steam** icon and select **Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. Then tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
 
  Now open Armored Core 6: Fires of Rubicon again (it should be opened with administrative permission), to see if it still crashes. If the problem still remains, please move on to the next fix.
@@ -98,6 +119,9 @@ Here are the requirements for your reference:
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  If you’re a tech-savvy gamer, you can spend some time updating your GPU driver manually.
@@ -139,6 +163,9 @@ To do so, first visit the website of your GPU manufacturer:
 2. Select**Graphics Settings** , then**Quality Settings (Detailed)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-60.png)
 3. Select Ray Tracing Quality at the bottom, and set it to  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-61.png)
 4. Select**OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-62.png)
@@ -148,6 +175,9 @@ If Armored Core 6: Fires of Rubicon still crashes, please move on.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
 ## 6\. Make sure your graphics card and CPU are not running hot
 
  An overheated computer environment is also one of the most common reasons why your game crashes. If the ventilation for your computer is rather poor, your machine may run hot. In addition, games usually consume more computer resources than other programs, and therefore add more pressure to your computer’s cooling system. So if your computer is overheated, there’s a bigger chance that your Armored Core 6: Fires of Rubicon crashes easily, among many other PC performance issues.

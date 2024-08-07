@@ -1,7 +1,7 @@
 ---
 title: Solving Unexpected Crashes in Call of Duty Modern Warfare 3
-date: 2024-08-04 14:47:27
-updated: 2024-08-07 12:37:49
+date: 2024-08-06T09:26:03.754Z
+updated: 2024-08-07T09:26:03.754Z
 tags:
   - win11
   - win10
@@ -31,12 +31,18 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
  As many players reported, the dev error 5573 is related to specific operator skins or actions you’re performing. If you’re using other skins or outfits on your operators, try**switching to the Base skin/outfit** and see how it works. This trick should apply to all the players on PC or console. But if it doesn’t help your case, move on to more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  If Vanguard is constantly crashing with a dev error code, there may be something wrong with the game files. To scan and repair any missing or damaged game files, you need to do an integrity check.
 
 1. Launch the Battle.net app.
 2. Select**Call of Duty Vanguard** from the top pane. Click the**gear icon** next to the Play button and click**Scan and Repair** .  
+<!-- affiliate ads begin -->
+<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
 
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
@@ -55,15 +61,24 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4 – Close background applications
 
  If you’re running multiple applications in the background, they might interfere with Vanguard and lead to a fatal dev error like 5573\. To enjoy a smooth gaming experience, it’s recommended you disable all the unnecessary programs such as antivirus, overlay programs or gaming optimization tools like_NZXT CAM, MSI Afterburner_ , and _Razer Cortex_ . Here is how:
 
 1. Right-click any empty space on your taskbar and click**Task Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-8.jpg)
 2. Right-click the resource-demanding process and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
@@ -72,6 +87,9 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
  Launch the game to see if you’re able to play it normally. If not, there’s one more fix you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Fix 5 – Repair corrupt system files
 
  If none of the solutions above works, the last thing you need to do is to check your system. System file corruption will also crash your games and trigger a dev error code. You can check for any missing or damaged system files with a professional PC repair tool like **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  and optimize your computer for maximum performance.
@@ -84,6 +102,9 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  Now the computer’s performance and stability is improved. You can restart Vanguard again to see if the game works without trouble.

@@ -1,7 +1,7 @@
 ---
 title: "Improving Your uTorrent Speed: Quick Fixes & Tweaks"
-date: 2024-08-05 12:49:30
-updated: 2024-08-07 10:53:30
+date: 2024-08-06T09:26:33.105Z
+updated: 2024-08-07T09:26:33.105Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 
  However, if you see the stalled message and find it stops downloading, it could be frustrating.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
+DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/qb-stalled.jpg)
 
  Stalled is a status when your program wants to download, but all connected peers can not seed to you.
@@ -41,6 +45,9 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 
  If your speed/peers were fine, you can restart the qBittorrent. Some users said after reboot the program, the qBittorrent client works like a charm.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
 ### Fix 2: Your ISP might be throttling
 
  If your speed/peers were fine and restarting doesn’t make a difference, check your internet connection. Your ISP might be throttling which leads to Stalled status.
@@ -50,6 +57,9 @@ qBittorrent is a free and open-source torrent client alternative to uTorrrent. T
 1. Test your internet speed without a VPN. Keep the number.
 2. Run your VPN service. If you don’t have VPN,[download and install NordVPN](https://tools.techidaily.com/drivereasy/download/) .
 3. Launch NordVPN and click**Connect** .  
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 4. Test your internet speed with[NordVPN](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -63,11 +73,17 @@ Then you should use NordVPN when downloading torrents with qBittorrent.
 
  You can adjust the install destination to a desirable place, or you can clean up the disc by deleting useless files.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Reinstall the application
 
  Some users install qBittorrent in an external HDD drive. Once you remove the default drive, it might cause the qBittorrent stalled status. It’s because the program couldn’t find the default folder.
 
 1. In the search bar, type control to open the Control Panel.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/control-panel-0.jpg)
 2. Set Control Panel**view by Category** and click**Uninstall a program** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-controlpanel.jpg)
@@ -75,6 +91,9 @@ Then you should use NordVPN when downloading torrents with qBittorrent.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/uninstall-qb.jpg)
 4. Go to[qBittorent webpage](https://www.fosshub.com/qBittorrent.html) , download, and install it in a local drive with enough space.
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Check firewall settings
 
  Sometimes, your firewall and antivirus software is the culprit. You need to give the permission so that qBittorrent can work properly.

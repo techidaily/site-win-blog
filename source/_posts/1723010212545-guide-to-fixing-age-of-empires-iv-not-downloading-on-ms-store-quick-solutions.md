@@ -1,7 +1,7 @@
 ---
 title: Guide to Fixing 'Age of Empires IV' Not Downloading on MS Store - Quick Solutions
-date: 2024-08-06 18:29:56
-updated: 2024-08-07 12:18:16
+date: 2024-08-06T09:26:24.462Z
+updated: 2024-08-07T09:26:24.462Z
 tags:
   - win11
   - win10
@@ -60,6 +60,9 @@ If these simple solutions don’t help, move to the fixes below.
 
  4) In the Settings, choose**Time and language** . Then check**Set time automatically** and check**Sync now** .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-1-1200x471.png)
 
  5) Press the**Windows logo key + R** together. Type**wsreset** and press the Enter key.
@@ -75,6 +78,9 @@ If these simple solutions don’t help, move to the fixes below.
 
 10) Relaunch the app then download and install Age of Empires VI.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your network adapter driver
 
  If the game is stuck in 0 and never gets up while downloading, there might be some issue with your wireless adapter driver. A missing or corrupted driver may be the root of this issue.   **Try updating the driver for your wireless network adapter**  to see if you can resolve it.
@@ -89,6 +95,9 @@ If these simple solutions don’t help, move to the fixes below.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Driver-Easy-Scan-screen.jpg)
 
  3) Click **Update** next to your wireless network adapter to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
@@ -102,6 +111,9 @@ If these simple solutions don’t help, move to the fixes below.
 
 If you can’t install the game, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 3: Disable antivirus software
 
  Though the download appears to be complete, your antivirus or firewall program may block game files during the installation process for safety purposes. Disabling your antivirus program would address the issue.  
@@ -117,6 +129,9 @@ If you can’t install the game, move to the next fix.
 
  If it’s not working, you can move to the next fix. Remember to enable your antivirus to protect your PC.  
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Update your Windows system
 
  If you haven’t updated your Windows system to the latest version, you can give it a try. Some gamers have proved that installing updates for the Windows system is a working fix.
@@ -131,6 +146,9 @@ If you can’t install the game, move to the next fix.
 
 If the problem remains, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ### Fix 5: Reset or reinstall Windows
 
  If you’re still facing problems while downloading or installing, you can perform a Windows reset or maybe even reinstall it together. We all know reinstalling will delete all the data on your hard drive, you should back up all your important files before doing it.

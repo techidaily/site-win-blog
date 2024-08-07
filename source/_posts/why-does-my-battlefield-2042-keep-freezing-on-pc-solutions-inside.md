@@ -1,7 +1,7 @@
 ---
 title: Why Does My Battlefield 2042 Keep Freezing on PC? Solutions Inside
-date: 2024-08-04 17:35:57
-updated: 2024-08-07 12:36:40
+date: 2024-08-06T09:26:23.356Z
+updated: 2024-08-07T09:26:23.356Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/4fdba735ca68de32414a243ab29c0a7ff66726341
 
 It takes time to be an “experienced criminal”, but now**Payday 2 won’t launch** . If you run into Payday 2 performance issues or errors, don’t worry. We’ll show you how to solve**Payday 2 not launching** and**other common issues** in this post.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ## Run Basic Troubleshooting
 
 You may have tried the basic troubleshooting methods such as:
@@ -27,6 +30,9 @@ You may have tried the basic troubleshooting methods such as:
 
  If you haven’t done the basic troubleshooting, then try those before you head to the fixes below. In this post, we’ll show you some solutions you may not have tried yet to get rid of your**Payday 2 not launching issue** .
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 8 fixes to try when Payday 2 won’t launch
 
  You might not need to try them all; simply work your way down the list until you find the one that works.
@@ -48,6 +54,10 @@ For non-mod players, you can skip to the next fix.
 
 1. Press the**Windows** Key +**R** to open the Run box.
 2. Type**%localappdata%** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
+LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/run-box-local.jpg)
 3. Open the**PAYDAY 2** folder.
 4. Rename**WSOCK32.dll** to**WSOCK32.dll** .**old** .
@@ -80,6 +90,10 @@ For non-mod players, you can skip to the next fix.
 
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/Driver-Easy-Scan-1.jpg)
 
  3) Click the**Update** button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -88,6 +102,9 @@ OR
 
  Click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  ).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Free-Pro.jpg)
 
 [**Driver Easy Pro**](https://tools.techidaily.com/drivereasy/download/) comes with**full support** and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click_Update All_ .
@@ -127,6 +144,9 @@ OR
 
 Now you can run your Payday 2 to check if it launches properly.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
 ### Fix 5: Switch to the Right Graphics Card
 
  There’s an issue with Payday 2 using the integrated card instead of the dedicated one. Laptop users should force Payday 2 to use the AMD/Nvidia card instead. Here’s how to do it:
@@ -197,6 +217,9 @@ The following programs are known to cause issues when playing Payday 2:
 2. Type**msconfig** in the Run box and click on the**OK** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/system-config.jpg)
 3. Under the**General** tab, uncheck**Load Startup items** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/load-startup-item.jpg)
 4. Then go to the**Services** tab and check**Hide all Microsoft services** . Then click**Disable all** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/disable-all-start-up.jpg)
@@ -205,14 +228,23 @@ The following programs are known to cause issues when playing Payday 2:
 
  If this doesn’t work for you, you can open the system configuration again and enable all the services. But if a clean reboot helps, you can find out which one is at fault by enabling the services one by one.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 7: Run SFC
 
  System file checker is a Windows tool to check system file corruption. You may use this tool to scan all protected system files and repair those missing or corrupted.
 
 1. Type**cmd** in the Windows search bar.
 2. Choose**Run as administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/cmd.jpg)
 3. In the Command Prompt window, enter the following command:**`sfc /scannow`** . Note that there’s a space between sfc and /.  
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/05/sfc-scannnow.jpg)
 4. Wait for the process to complete.
 

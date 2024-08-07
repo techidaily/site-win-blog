@@ -1,7 +1,7 @@
 ---
 title: Overcoming Performance Hiccups – Tips for a Smooth Experience with Modern Warfare on PC
-date: 2024-08-06 23:43:55
-updated: 2024-08-07 11:28:27
+date: 2024-08-06T09:25:55.133Z
+updated: 2024-08-07T09:25:55.133Z
 tags:
   - win11
   - win10
@@ -17,6 +17,9 @@ thumbnail: https://thmb.techidaily.com/1df433206ff11dec7faaaf54cae7b4a5f98f51a6c
 
 Looking for solutions to optimize Horizon Zero Dawn? This post is here to help you boot FPS, reduce lag, stop stuttering, fix spikes and improve visuals within Horizon Zero Dawn.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ## Before starting
 
 * Make sure you have enough space in your disk drive
@@ -44,6 +47,9 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 3. **[Update graphic driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Install Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Change in-game settings
 
  Changing in-game Display settings will reduce GPU and CPU load to fix spikes and improve visuals in game.
@@ -59,6 +65,9 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/image-8.png)
 
 ### Fix 2: Set as priority
@@ -68,6 +77,9 @@ Looking for solutions to optimize Horizon Zero Dawn? This post is here to help y
 1. Press the **Ctrl + Shift + Esc** together to open **Task Manager** .
 2. Go to the **Details** tab and find Horizon Zero Dawn.
 3. Right-click on it and select **Set priority > Realtime** or **High** .  
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_16-56-17.jpg)
 4. Reboot the game and change Game Settings to **Windowed Full-Screen** mode.
 5. Check the FPS.
@@ -113,8 +125,14 @@ OR
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
 
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Horizon Zero Dawn and check.
 

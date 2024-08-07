@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Cyberpunk 2077 Dark Display Issue: A Comprehensive Guide"
-date: 2024-08-05 12:40:31
-updated: 2024-08-07 11:31:57
+date: 2024-08-06T09:26:18.437Z
+updated: 2024-08-07T09:26:18.437Z
 tags:
   - win11
   - win10
@@ -68,10 +68,16 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter.  
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU and memory-hogging. Take Chrome here, for example, right-click it then click**End task** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
  If you still get the Cyberpunk has flatlined error after closing all the background programs, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Directly run the game executable
 
  Sometimes the Cyberpunk 2077 has flatlined error is just a one-time random bug. In this case, you can try to launch the game by directly clicking the game executable, instead of using Steam. This fix has proven to help many players and it’s super easy, so it’s definitely worth trying!
@@ -83,13 +89,22 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
  A previous interrupted installation or corrupted game files could lead to the Cyberpunk 2077 has flatlined error. You may need to scan and repair your game files through the Steam client to solve the problem. Here’s how:
 
 1. Open your Steam library, find Cyberpunk 2077, right-click it then select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-Properties.png)
 2. Select the**Installed Files** tab and click the**Verify integrity of game files** button.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-1.png)
 3. Steam will scan your local game files and compare them to the files on the server. If there’s anything missing or damaged, Steam will add or replace them in your game folder.
 
  If verifying and repairing your game files doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Update your graphics driver
 
  An outdated or faulty graphics driver could lead to the Cyberpunk 2077 has flatlined error. You may want to make sure your graphics driver is up-to-date and functioning properly.
@@ -109,6 +124,9 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+<!-- affiliate ads begin -->
+<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -116,6 +134,9 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 
  Restart your PC for the new driver to take effect. If updating your graphics driver doesn’t solve your problem, try the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 6: Repair the Microsoft Visual C++ redistributables
 
  Microsoft Visual C++ redistributable installs run-time components to your PC’s Visual C++ libraries. Developers usually put the required redistributable files in the game installer, so you get them bundled with the game installation. If these redistributables are corrupt, it could lead to the Cyberpunk 2077 has flatlined error. Below are the steps to fix the files:
@@ -125,6 +146,9 @@ thumbnail: https://thmb.techidaily.com/93116893fd34c4239c7adfcfb1ed2eb9afdd0b3ec
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-appwiz-cpl.png)
 3. In the pop-up window, scroll down to find the Microsoft Visual C++ redistributable files. You’ll see two redistributable files.
 4. Right-click the first redistributable file, then click**Change** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/change.png)
 5. Click**Repair** . If prompted for permission, click **Yes.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2021/07/repair.png)**

@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Your Sims #4 Visual Malfunctions with Ease
-date: 2024-08-05 20:44:20
-updated: 2024-08-07 10:30:24
+date: 2024-08-06T09:26:17.351Z
+updated: 2024-08-07T09:26:17.351Z
 tags:
   - win11
   - win10
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 
  According to some players, Tiny Tina’s Wonderlands crashes when they have a controller connected. While peripherals can add more fun to games, they might trigger compatibility issues with new titles. So if you’re using any peripherals like   **a wheel, controller, other USB devices or even the second monitor** , simply unplug them and see how thing goes. If the problem persists, check out more solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Run the game on DX11
 
  The game launches in DX12 by default. But if you receive a specific error saying DX12 is not supported, you should force the DX11 mode. This may eliminate the crashes and make your game more stable at a lower performance.
@@ -53,10 +56,16 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
  If you’re not ready to pay, you can click the**Update** button next to the flagged GPU driver to download the correct version of that driver, then you’ll need to install it manually.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -64,6 +73,9 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 
  See if a driver update gives you luck. If the game is still crashing, try the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4 – Verify integrity of game files
 
  Missing or damaged game file is another known culprit of game issues or errors. To see if that’s the reason for Tiny Tina’s Wonderlands crashing, you could use the built-in tool of your game launcher to identify and repair the faulty files easily.
@@ -75,12 +87,18 @@ thumbnail: https://thmb.techidaily.com/997eaaad8fdf1ef3579a61ba5b99adb5daa8955b4
 
  It will take a while for the process to complete. Once done, restart the game to see how it works. If it keeps crashing, there’s the last fix to try.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<!-- affiliate ads end -->
 ### Fix 5 – Stop overclocking
 
  Overclocking your CPU and GPU can give you a significant performance boost, but it can possibly lead to instability issues like a game crash. To rule out this cause, you should just**turn off all the overclocking utilities** and**reset your processor to the default** . If doing this alone doesn’t stop the crashes, try deleting certain game files. This is an effective workaround for Tiny Tina’s Wonderlands not launching or crashing at startup. Here are the steps:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command.
 2. Type**%localappdata%\\Tiny Tina’s Wonderlands\\Saved** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/delete-saved-files.jpg)
 3. Delete all the files.
 

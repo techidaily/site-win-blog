@@ -1,7 +1,7 @@
 ---
 title: How to Repair Unresponsive Sounds in Dying Light – Expert Solutions Revealed
-date: 2024-08-06 20:58:19
-updated: 2024-08-07 10:36:20
+date: 2024-08-06T09:26:03.739Z
+updated: 2024-08-07T09:26:03.739Z
 tags:
   - win11
   - win10
@@ -15,6 +15,9 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
 ## Eight Proven Fixes for Unresponsive Firefox - Get Back to Browsing Today
 
+<!-- affiliate ads begin -->
+<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image.png)
 
  It’s quite a nuisance that you found your Firefox browser not responding to any orders you’ve given; perhaps it was just stuck on certain pages, got freezing from time to time, or presented you with some error message reading “Firefox is already running but is not responding.” Luckily, you’re not alone. Many people have reported a similar situation, and most of the time this problem can be solved easily.
@@ -51,6 +54,9 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  If you’re now experiencing this problem, then you’ve probably seen an error message like this:
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-13.png)
 
  The most straightforward way is to click**Close Firefox** , but sometimes it’ll give no response and Firefox just won’t shut down. In this case, you should:
@@ -81,6 +87,9 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  2) Click**Help** \>**Troubleshooting Information** .
 
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
  3) On the next page, click**Open Folder** next to the**Porfile Folder** item.
@@ -94,6 +103,9 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  4) Click the**up arrow button** to reach the current directory, namely**li2s42lu.default** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-19.png)
 
  Right-click**li2s42lu.default** and select**Properties** .
@@ -102,12 +114,18 @@ thumbnail: https://thmb.techidaily.com/11e98257d7e7257e5883dcc5757d573b33d04f0ec
 
  5) On the**General** tab, make sure the**Read-only** option has not been checked. Then, click**Apply > OK** to save any changes you’ve made.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-21.png)
 
 Now go on to check if the problem remains with your Firefox browser.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### _Firefox is not responding_
 
  If you saw few specific details other than “Firefox is not responding” on the error message you received, and the browser didn’t respond to any of your clicks or keystrokes, then here’re some of the most useful methods you should try.
@@ -144,10 +162,16 @@ If this fix didn’t help, please proceed to the next one.
 
  2) Click**Options** .
 
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-29.png)
 
  3) On the**General** tab, in the results pane, under**Performance** , untick the**Use recommended performance settings** check box. Then, uncheck**Use hardware acceleration when available** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-30.png)
 
 4) Close Firefox and reopen it.
@@ -164,6 +188,15 @@ If this fix didn’t help, please proceed to the next one.
 
  1) Launch Firefox and click**Open menu** at the upper right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
+
+ It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
+
+  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
+
+  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
  2) Click**Options** .
@@ -176,6 +209,9 @@ If this fix didn’t help, please proceed to the next one.
 
  4) Select the two check boxes as shown below, then click**Clear** . (You can decide whether to clear all these data depending on your actual situation.)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-35.png)
 
  When prompted for confirmation, click**Clear Now** .
@@ -190,14 +226,23 @@ If this fix didn’t help, please proceed to the next one.
 
  1) Launch Firefox and click**Open menu** at the upper right corner.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
  2) Click**Help** \>**Troubleshooting Information** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
  3) Under**Try Safe Mode** , click**Restart with Add-ons Disabled…** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-58.png)
 
  When prompted for confirmation, click**Restart** . Then another dialog box will pop up, click**Start in Safe Mode** .
@@ -224,6 +269,9 @@ If this fix didn’t help, please proceed to the next one.
 
  On the**Extensions** tab, click on the**three-dot** button of a certain extension and select**Enable** . Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and see if it works in a proper manner. If it doesn’t, then the extension you’ve enabled just now should be the culprit.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-60-1024x389.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-60-1024x389.png)
 
  Now, apply the above step to all your extensions one by one until you find out whether any of them was actually causing the problem.
@@ -258,6 +306,9 @@ Restart Firefox and see if the not-responding problem goes away.
 
  3) Then Firefox will check automatically whether your version is up-to-date and update it if it isn’t.
 
+<!-- affiliate ads begin -->
+<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-37.png)
 
  In this screenshot, Firefox has been updated to the latest version.
@@ -276,6 +327,9 @@ Restart Firefox and see if the not-responding problem goes away.
 
  2) Click**Help > Troubleshooting Information** .
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
  3) In the upper right corner, under**Give Firefox a tune up** , click**Refresh Firefox…** .

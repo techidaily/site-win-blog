@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] uTorrent Slow Download Speed"
-date: 2024-08-04 15:12:16
-updated: 2024-08-07 12:42:28
+date: 2024-08-06T09:26:25.285Z
+updated: 2024-08-07T09:26:25.285Z
 tags:
   - win11
   - win10
@@ -19,18 +19,27 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 
  You may not have to try them all; just work your way down the list until you find the one that works!
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is surfshark-icon.jpg](https://images.drivereasy.com/wp-content/uploads/2022/07/surfshark-icon.jpg)
 
 **Hiding your IP Address and** **Stopping ISP Throttling is One Click Away**
 
 **[Get Surfshark VPN>>](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fr.brandreward.com%2F%3Fkey%3D3882aba4cadd4473e0195097fdf20855%26url%3Dhttps%253A%252F%252Fsurfshark.com%252Fdeal%252Fbrand%253Fgclid%253DCjwKCAjwwo-WBhAMEiwAV4dybejzozzK1qZimhCj6PdnqzaiMyTCeLVu3aC48qHC8PIG6ZGb4eDIChoCdX4QAvD%255FBwE%26id%3Ddrivereasyen153112)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Hide your IP address with Surfshark VPN
 
  As low as $2.49/mo. 100% money-back guarantee for your first 30 days.
 
 [Get Surshark VPN](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fr.brandreward.com%2F%3Fkey%3D3882aba4cadd4473e0195097fdf20855%26url%3Dhttps%253A%252F%252Fsurfshark.com%252Fdeal%252Fbrand%253Fgclid%253DCjwKCAjwwo-WBhAMEiwAV4dybejzozzK1qZimhCj6PdnqzaiMyTCeLVu3aC48qHC8PIG6ZGb4eDIChoCdX4QAvD%255FBwE%26id%3Ddrivereasyen153112)
 
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<!-- affiliate ads end -->
 ## Table of contents
 
 * [Fix 1. Check Your Internet Speed](https://tools.techidaily.com/drivereasy/download/)
@@ -55,6 +64,9 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 
  If your speed score is fast, chances are your slow download speed has nothing to do with the internet. Read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2\. Restart Your Computer
 
  If the problem wasn’t your internet, it may be your device. The easiest fix to try would be restarting your computer which will close apps running in the background, reset your desktop environment. So if you haven’t yet, give it a shot.
@@ -73,16 +85,25 @@ Slow downloads can cause a lot of annoyance. If you’re trying to download from
 
  3) Go to the**Bandwidth tab** , then set your**Global Upload/Download Rate** and**Number of Connections** as followed:
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-bandwidth-settings.png)
 
  4) Go to the **Queueing**  tab and set the value as followed. Then, click**Apply** .
 
  If you’re downloading multiple files at a time, it would take more time for each file to be downloaded because each file you download will take a piece of your bandwidth.
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-queueing.png)
 
  5) Go to the**Connection** tab, then set the Random port value to**45682** and click**Apply** .
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-connection.png)
 
 6) Apply the settings and restart uTorrent to test the issue.
@@ -107,10 +128,16 @@ If your download speed is still slow, move on and try the next fix.
 
  3) Click the**Quick Connect** button on the map to automatically connect to a server that suits your needs.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-06_14-39-29.png)
 
 4) Now you can download securely and anonymously!
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5\. Allow uTorrent through Firewall
 
  If your download speed drops to zero, it could be Windows Firewall that is blocking your torrent client. In this case, you can add an exception to the Windows firewall to fix the issue:
@@ -123,6 +150,9 @@ If your download speed is still slow, move on and try the next fix.
 
  3) Click**Connections** and check the **Add Windows Firewall exception**  box and then click**Apply** .
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/utorrent-connection.png)
 
  If the box is already checked, or if this didn’t fix the issue, try the fix below.
@@ -135,6 +165,9 @@ If your download speed is still slow, move on and try the next fix.
 
 2) Click**Help** , then**Check for Updates** .
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-03_16-25-29.png)
 
 3) After the update is finished, open uTorrent to test your issue.
@@ -194,6 +227,10 @@ If the problem still exists, read on and try the next fix.
 
  If the number of seeders and peers for the torrent file is small, or the seeds go offline temporarily, your download speed will be slow. So you might want to choose files with more seeders when downloading.
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ## Fix 10\. Add Trackers
 
  Adding more torrent trackers allows you to add more seeds and peers so your download speed will increase.
@@ -202,10 +239,16 @@ If the problem still exists, read on and try the next fix.
 
  2) Right-click on your active downloading torrent and select**Properties** .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-06_11-58-09.png)
 
  3) Copy the tracker list that you found and paste it to the end of the existing tracker list box.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-trackers.png)
 
 ## IMPORTANT: Protect Your Privacy When Torrenting

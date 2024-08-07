@@ -1,7 +1,7 @@
 ---
 title: "Halo Infinite Stability Issues on Windows: Solutions for Smooth Gaming"
-date: 2024-08-04 15:15:16
-updated: 2024-08-07 10:44:18
+date: 2024-08-06T09:26:32.815Z
+updated: 2024-08-07T09:26:32.815Z
 tags:
   - win11
   - win10
@@ -29,10 +29,26 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Fix 1 – Disable peripherals
 
  According to some players, Tiny Tina’s Wonderlands crashes when they have a controller connected. While peripherals can add more fun to games, they might trigger compatibility issues with new titles. So if you’re using any peripherals like   **a wheel, controller, other USB devices or even the second monitor** , simply unplug them and see how thing goes. If the problem persists, check out more solutions below.
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Run the game on DX11
 
  The game launches in DX12 by default. But if you receive a specific error saying DX12 is not supported, you should force the DX11 mode. This may eliminate the crashes and make your game more stable at a lower performance.
@@ -53,10 +69,16 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
  If you’re not ready to pay, you can click the**Update** button next to the flagged GPU driver to download the correct version of that driver, then you’ll need to install it manually.  
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -69,12 +91,18 @@ thumbnail: https://thmb.techidaily.com/35506a9c5eeb39965a6739f4255f2a7fd3073f2c8
  Missing or damaged game file is another known culprit of game issues or errors. To see if that’s the reason for Tiny Tina’s Wonderlands crashing, you could use the built-in tool of your game launcher to identify and repair the faulty files easily.
 
 1. Open the Epic Games Launcher and navigate to the**Library** tab.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/verify-game-files-2.jpg)
 2. Locate Tiny Tina’s Wonderlands. Click the**three-dot icon** and select**Verify** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/verify-game-files.jpg)
 
  It will take a while for the process to complete. Once done, restart the game to see how it works. If it keeps crashing, there’s the last fix to try.
 
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5 – Stop overclocking
 
  Overclocking your CPU and GPU can give you a significant performance boost, but it can possibly lead to instability issues like a game crash. To rule out this cause, you should just**turn off all the overclocking utilities** and**reset your processor to the default** . If doing this alone doesn’t stop the crashes, try deleting certain game files. This is an effective workaround for Tiny Tina’s Wonderlands not launching or crashing at startup. Here are the steps:

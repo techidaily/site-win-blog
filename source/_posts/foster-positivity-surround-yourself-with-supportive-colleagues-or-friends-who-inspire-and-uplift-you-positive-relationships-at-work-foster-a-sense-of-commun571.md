@@ -1,7 +1,7 @@
 ---
 title: Foster Positivity - Surround Yourself with Supportive Colleagues or Friends Who Inspire and Uplift You. Positive Relationships at Work Foster a Sense of Community and Can Help Boost Your Mood and Energy Levels During Challenging Periods.
-date: 2024-08-04 12:28:19
-updated: 2024-08-07 10:49:43
+date: 2024-08-06T09:26:22.203Z
+updated: 2024-08-07T09:26:22.203Z
 tags:
   - win11
   - win10
@@ -31,6 +31,9 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 6. **[Change your power plan](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Optimize NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Check the game’s system requirements
 
  Before you begin to troubleshoot the low FPS issue in Fallout 76, make sure your device meets Fallout 76’s system requirements. If it doesn’t, you may need to upgrade your hardware to improve performance. The system requirements for Fallout 76 on PC are as follows:
@@ -53,6 +56,9 @@ thumbnail: https://thmb.techidaily.com/6aaf83c5a09999402e25379b87750585dedbdeb12
 
  After confirming that your PC is good enough to run the game, continue to the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Disable background applications
 
  The applications running in the backgrounds can eat up your system resources, causing your device to have no sufficient RAM for your game. To free up more system resources and improve your game performance, you can disable all the unnecessary background applications before gaming. Here’s how:
@@ -77,6 +83,9 @@ If this fix doesn’t do the trick, check out the next one.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
@@ -94,8 +103,14 @@ If this method doesn’t work for you, take a look at the next one.
  Lowering the game’s graphics settings can also help you boost FPS. To do so:
 
 1. Launch Fallout 76 and click**SETTINGS** .  
+<!-- affiliate ads begin -->
+<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-settings.jpg)
 2. Select**DISPLAY** , then set the Window mode to**Fullscreen** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-fullscreen.jpg)
 3. Lower the**Quality** settings on**Texture** ,**Water** ,**Lighting** and**Shadow** .
 4. Lower the**Fade** settings on**Actor** /**Item** /**Object** /**Grass** .
@@ -104,6 +119,9 @@ Restart the game to test the game performance.
 
  If you’re still experiencing low FPS in Fallout 76, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 5: Turn off VSync
 
  VSync, or vertical sync, is a graphics technology that synchronizes the frame rate of a game with a gaming monitor’s refresh rate. Many players have confirmed that turning off VSync helps improve their FPS in Fallout 76\. You can give it a shot. Here’s how:
@@ -111,6 +129,9 @@ Restart the game to test the game performance.
 1. On your keyboard, press the**Windows logo key** and**E** at the same time to open**File Explorer** . Then type**Documents\\My Games\\Fallout 76** in the address bar.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/file-explorer-fallout-76.jpg)
 2. Open the**Fallout76Prefs.ini** file.  
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76prefs.jpg)
 3. Use the shortcut key**Ctrl+F** to search the word ‘**iPresentInterval** ‘. Then change “iPresentInterval=1” to “**iPresentInterval=0** “. This will turn off VSync.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-iPresentInterval-0.jpg)
@@ -127,6 +148,9 @@ If this fix doesn’t help, proceed to the next one.
 1. On your keyboard, press the**Windows logo key** and**R** together to invoke The Run dialog box. Then type**powercfg.cpl** in the field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/powercfg.cpl_.jpg)
 2. Under Preferred plans, select**High performance** . (If you don’t see it, expand Hide additional plans.)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/power-plan-high-performance.jpg)
 
 Relaunch Fallout 76 to test the game performance.
@@ -138,10 +162,16 @@ If your FPS is still very low, try the next fix.
  To get the best performance for your game, you can optimize the graphics settings through NVIDIA Control Panel. Here’s how:
 
 1. On your desktop, right-click any empty space and select**NVIDIA Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-manage-3d-settings.jpg)
 3. Navigate to the**Program Settings** and select the**Fallout 76.exe** file from the drop-down list.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/program-settings-fallout76.jpg)
 4. Modify the settings as below:  
  Maximum pre-rendered frames:**1**  

@@ -1,7 +1,7 @@
 ---
 title: How to Optimize Your PC for a Smooth Yakuza 3 Remastered Gaming Experience (No More Crashes)
-date: 2024-08-06 18:53:41
-updated: 2024-08-07 10:58:33
+date: 2024-08-06T09:26:33.126Z
+updated: 2024-08-07T09:26:33.126Z
 tags:
   - win11
   - win10
@@ -29,10 +29,17 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 4. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1 – Disable peripherals
 
  According to some players, Tiny Tina’s Wonderlands crashes when they have a controller connected. While peripherals can add more fun to games, they might trigger compatibility issues with new titles. So if you’re using any peripherals like   **a wheel, controller, other USB devices or even the second monitor** , simply unplug them and see how thing goes. If the problem persists, check out more solutions below.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
 ### Fix 2 – Run the game on DX11
 
  The game launches in DX12 by default. But if you receive a specific error saying DX12 is not supported, you should force the DX11 mode. This may eliminate the crashes and make your game more stable at a lower performance.
@@ -57,6 +64,9 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 
  If you’re not ready to pay, you can click the**Update** button next to the flagged GPU driver to download the correct version of that driver, then you’ll need to install it manually.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -69,8 +79,23 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
  Missing or damaged game file is another known culprit of game issues or errors. To see if that’s the reason for Tiny Tina’s Wonderlands crashing, you could use the built-in tool of your game launcher to identify and repair the faulty files easily.
 
 1. Open the Epic Games Launcher and navigate to the**Library** tab.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/verify-game-files-2.jpg)
 2. Locate Tiny Tina’s Wonderlands. Click the**three-dot icon** and select**Verify** .  
+<!-- affiliate ads begin -->
+<span id="1997795">
+					<video width="250" height="250" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/verify-game-files.jpg)
 
  It will take a while for the process to complete. Once done, restart the game to see how it works. If it keeps crashing, there’s the last fix to try.
@@ -81,6 +106,9 @@ thumbnail: https://thmb.techidaily.com/06e60fe3d947d58be6e231820ad1f116434db798e
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command.
 2. Type**%localappdata%\\Tiny Tina’s Wonderlands\\Saved** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/03/delete-saved-files.jpg)
 3. Delete all the files.
 

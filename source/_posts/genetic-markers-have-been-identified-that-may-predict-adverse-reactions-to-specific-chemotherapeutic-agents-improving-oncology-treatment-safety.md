@@ -1,7 +1,7 @@
 ---
 title: Genetic Markers Have Been Identified that May Predict Adverse Reactions to Specific Chemotherapeutic Agents, Improving Oncology Treatment Safety.
-date: 2024-08-05 23:41:20
-updated: 2024-08-07 11:45:46
+date: 2024-08-06T09:26:14.784Z
+updated: 2024-08-07T09:26:14.784Z
 tags:
   - win11
   - win10
@@ -32,6 +32,9 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
 ### Fix 1: Run Program Compatibility Troubleshooter
 
  Windows has many built-in troubleshooters. The Program Compatibility Troubleshooter can help games that are not downloaded from the Windows 10 Store.  
@@ -54,10 +57,16 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 2. Click**Try an alternative download** below the big green Download button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-28-23.jpg)
 3. Then download the Minecraft.exe and install it.  
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-30-37.jpg)
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<!-- affiliate ads end -->
 ### Fix 3: Check your antivirus software
 
  One common cause for the crashing issue is your antivirus software blocking some features of the game and causing problems. So go to your antivirus software and unblock the game program to fix it.
@@ -66,16 +75,30 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Reinstall the Minecraft
 
  If no fix works, reinstalling Minecraft is a good option to try. The main purpose is that by downloading a fresh copy of the game from the official website and clean the old one completely.
 
 1. Press the**Windows logo key + R** .
 2. Type**appwiz.cpl** and press**Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s4.jpg)
 3. Right-click on **Minecraft** and click **Uninstall** .
 4. Press the**Windows logo key + E** to open File Explorer.
 5. Type**%Appdata%** in the address bar and press**Enter** .  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-37-23.jpg)
 6. Find the Minecraft folder and delete it.
 7. Go to[Minecraft official website](https://www.minecraft.net/en-us/) to download the latest version.
@@ -109,6 +132,9 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  

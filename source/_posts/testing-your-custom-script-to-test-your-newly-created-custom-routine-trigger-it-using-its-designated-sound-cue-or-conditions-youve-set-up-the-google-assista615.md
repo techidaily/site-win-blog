@@ -1,7 +1,7 @@
 ---
 title: "Testing Your Custom Script: To Test Your Newly Created Custom Routine, Trigger It Using Its Designated Sound Cue or Conditions You've Set Up. The Google Assistant Should Now Respond According to the Actions Specified in Your Script."
-date: 2024-08-04 11:12:56
-updated: 2024-08-07 12:35:56
+date: 2024-08-06T09:26:26.917Z
+updated: 2024-08-07T09:26:26.917Z
 tags:
   - win11
   - win10
@@ -15,10 +15,16 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
 ## Noise Pollution Controls: Implement Quiet Zones with Restrictions on Loud Activities After Certain Hours; Encourage Soundproofing in New Constructions, Particularly Residential Buildings. Introduce Noise Barriers and Green Buffers Around High-Noise Areas Such as Industrial Districts or Major Traffic Routes to Absorb and Reduce the Spread of Sound
 
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Fallout76.jpg)
 
  Fallout 76 has been quite popular since it was released. However, some players complain that they**experienced very low FPS** while playing the game. If you’re facing the same problem, don’t worry. Here we’ll tell you how to fix it easily and quickly.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -31,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 6. **[Change your power plan](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Optimize NVIDIA settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 1: Check the game’s system requirements
 
  Before you begin to troubleshoot the low FPS issue in Fallout 76, make sure your device meets Fallout 76’s system requirements. If it doesn’t, you may need to upgrade your hardware to improve performance. The system requirements for Fallout 76 on PC are as follows:
@@ -53,6 +62,9 @@ thumbnail: https://thmb.techidaily.com/dfca7fb0aa6438e6377385ff2f472549907a4325f
 
  After confirming that your PC is good enough to run the game, continue to the following fixes.
 
+<!-- affiliate ads begin -->
+<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<!-- affiliate ads end -->
 ### Fix 2: Disable background applications
 
  The applications running in the backgrounds can eat up your system resources, causing your device to have no sufficient RAM for your game. To free up more system resources and improve your game performance, you can disable all the unnecessary background applications before gaming. Here’s how:
@@ -81,6 +93,9 @@ If this fix doesn’t do the trick, check out the next one.
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -94,8 +109,14 @@ If this method doesn’t work for you, take a look at the next one.
  Lowering the game’s graphics settings can also help you boost FPS. To do so:
 
 1. Launch Fallout 76 and click**SETTINGS** .  
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-settings.jpg)
 2. Select**DISPLAY** , then set the Window mode to**Fullscreen** .  
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-fullscreen.jpg)
 3. Lower the**Quality** settings on**Texture** ,**Water** ,**Lighting** and**Shadow** .
 4. Lower the**Fade** settings on**Actor** /**Item** /**Object** /**Grass** .
@@ -111,6 +132,9 @@ Restart the game to test the game performance.
 1. On your keyboard, press the**Windows logo key** and**E** at the same time to open**File Explorer** . Then type**Documents\\My Games\\Fallout 76** in the address bar.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/file-explorer-fallout-76.jpg)
 2. Open the**Fallout76Prefs.ini** file.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76prefs.jpg)
 3. Use the shortcut key**Ctrl+F** to search the word ‘**iPresentInterval** ‘. Then change “iPresentInterval=1” to “**iPresentInterval=0** “. This will turn off VSync.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-iPresentInterval-0.jpg)
@@ -133,11 +157,17 @@ Relaunch Fallout 76 to test the game performance.
 
 If your FPS is still very low, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Optimize NVIDIA settings
 
  To get the best performance for your game, you can optimize the graphics settings through NVIDIA Control Panel. Here’s how:
 
 1. On your desktop, right-click any empty space and select**NVIDIA Control Panel** .  
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-manage-3d-settings.jpg)

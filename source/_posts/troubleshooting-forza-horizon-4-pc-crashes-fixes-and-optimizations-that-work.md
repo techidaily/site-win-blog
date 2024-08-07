@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Forza Horizon 4 PC Crashes: Fixes and Optimizations That Work"
-date: 2024-08-06 21:35:16
-updated: 2024-08-07 12:14:24
+date: 2024-08-06T09:25:56.908Z
+updated: 2024-08-07T09:25:56.908Z
 tags:
   - win11
   - win10
@@ -37,6 +37,9 @@ You pay for the game, but when you launch Frostpunk, it doesn’t start. The gam
 | HDD       | 8 GB                                                    |
 | GPU       | Nvidia GeForce GTX 970  AMD Radeon RX 580  4 GB of VRAM |
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -56,12 +59,18 @@ You pay for the game, but when you launch Frostpunk, it doesn’t start. The gam
 
 **IMPORTANT** : Be extra careful about what sites you visit, what emails you open and what files you download when your antivirus software is disabled.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 2: Reinstall the game
 
  Fully uninstalling and reinstalling the game is an old easy but effective method. The game profile can be crashed which cause the Frostpunk crash. So doing a clean reinstall can fix the issue.
 
 If it doesn’t work, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Verify games files via Steam
 
  Verify games files can help you solve some common error. Some users says Frostpunk crash can be solved by this method.
@@ -73,6 +82,9 @@ If it doesn’t work, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 5. Relaunch the game and check whether the issue will appear or not.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ### Fix 4: Update your graphics card driver
 
  With outdated or wrong drivers, your game may encounter a crash. So it is very important to update your graphics card drivers. But Windows 10 doesn’t always give you the latest version automatically. Therefore, update your graphics card driver is always a good option.  
@@ -100,10 +112,16 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<!-- affiliate ads end -->
 ### Fix 5: Run as the administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Frostpunk can make full use of its features, so run the game as an administrator to see if this fixes your issue.

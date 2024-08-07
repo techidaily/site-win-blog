@@ -1,7 +1,7 @@
 ---
 title: Bring Back the Beeps and Boops! Rectifying Audio Issues in Minecraft for Windows
-date: 2024-08-05 22:41:34
-updated: 2024-08-07 12:15:57
+date: 2024-08-06T09:26:25.919Z
+updated: 2024-08-07T09:26:25.919Z
 tags:
   - win11
   - win10
@@ -33,6 +33,9 @@ Recently, many Minecraft players have found that there is no sound when they pla
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Refresh your game
 
  Sometimes this might be a temporary glitch, and a simple refresh can solve this.
@@ -41,6 +44,9 @@ Recently, many Minecraft players have found that there is no sound when they pla
 
  Wait several seconds and then check if the no sound issue reappears. If not, it suggests that you’ve fixed this issue. If the Minecraft no sound issue persists, don’t worry! Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 ## Fix 2: Check if you muted Minecraft by accident
 
  Before you try the fixes below, make sure that you didn’t mute your PC or Minecraft by accident. Follow the instructions to check if you muted your PC or Minecraft by accident:
@@ -51,25 +57,43 @@ Recently, many Minecraft players have found that there is no sound when they pla
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap81.jpg)
 3. If there is still no sound in Minecraft, follow the steps below to**check the audio settings of Minecraft** .  
    * Launch Minecraft and click**Options… (or Settings)** .  
+<!-- affiliate ads begin -->
+<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<!-- affiliate ads end -->
    ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap82.jpg)  
    * Click**Music & Sound…** or**Audio** to view the audio settings of the game.  
    ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap84-1.jpg)  
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
    ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap85.jpg)  
    * Make sure all of the audio settings are set to 100%. Click**Done** to save the settings.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<!-- affiliate ads end -->
    ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap86-1.jpg)
 
  Run Minecraft again to check if the no sound issue persists. If so, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Update your audio driver
 
  A missing or outdated audio driver in your computer can cause the Minecraft no sound issue, so make sure your audio driver is up to date.
 
  There are two ways to update your audio driver: **manually** and **automatically** .
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Manually update the driver
 
  You should go to the manufacturer’s website of your sound card, find the latest version of the driver, and install it on your computer. Ensure to download the latest correct driver that is compatible with your computer operating system. This requires time and computer skills.
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Automatically update the driver
 
  If you don’t have the time, patience or computer skills to update your audio driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
@@ -80,6 +104,9 @@ Recently, many Minecraft players have found that there is no sound when they pla
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+<!-- affiliate ads begin -->
+<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
@@ -96,6 +123,9 @@ Recently, many Minecraft players have found that there is no sound when they pla
 1. Launch Minecraft. Then click**Options…** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap82.jpg)
 2. Click**Video Settings…** .  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap104.jpg)
 3. **Move the slider** to change Mipmap Levels. Then click **Done**  to save the changes.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap105-1.jpg)
@@ -111,6 +141,10 @@ Recently, many Minecraft players have found that there is no sound when they pla
 2. Navigate to the**Playback** tab. Select your **default playback device** and then click **Configure** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap107.jpg)
 3. For**Audio channels** , select **Stereo** and click **Next** .  
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap108.jpg)
 4. Check the box next to the**Front left and right** . Then click **Next** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap109.jpg)
@@ -126,14 +160,24 @@ Recently, many Minecraft players have found that there is no sound when they pla
 ### If you downloaded Minecraft from the Microsoft Store
 
 1. On your keyboard, press**the Windows logo key** and type **Minecraft** . In the list of search results, right-click the**MInecraft app** and select **Uninstall**  to uninstall MInecraft.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap116-2.jpg)
 2. Download Minecraft from Microsoft Store and reinstall it on your PC.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
+This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<!-- affiliate ads end -->
 ### If you downloaded Minecraft JAVA Edition from its official website
 
 1. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control** and press **Enter** to open the Control Panel.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap117.jpg)
 2. **View** the Control Panel **by Category** . Click **Uninstall a program** .  
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap118.jpg)
 3. **Right-click** Minecraft and then select **Uninstall** to uninstall it.  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/09/Snap119.jpg)
@@ -149,16 +193,28 @@ Recently, many Minecraft players have found that there is no sound when they pla
 
 To perform a system scan and repair on Windows:
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Use the SFC tool
 
 1. On your keyboard, press the **Windows Logo key** ![](https://images.drivereasy.com/wp-content/uploads/2023/10/windows-logo.png) , type in**command prompt** , and select **Run as administrator.** (If Windows prompts for permission, click **OK** to continue.)  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-admin-1.jpg)
 2. Type in **SFC /Scannow** , and then press **Enter** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<!-- affiliate ads end -->
 ![win 11 command prompt to run sfc 1](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-1.jpg)
 3. It’ll take some time for the SFC to repair the corrupted system files if it detects any.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/win-11-command-prompt-run-sfc-3.png)
 4. When the process is completed, reboot your computer and test Minecraft again to see if sound is restored.
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Utilize Fortect – a dedicated repair tool
 
  While sfc can detect and restore some corrupted system files, it is limited in scope. sfc only scans protected Windows system files and cannot repair other issues outside the core OS. It also cannot optimize the system by cleaning junk files or defragmenting the registry.
@@ -171,6 +227,9 @@ To perform a system scan and repair on Windows:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The full version of Fortect comes with a**60-day money-back guarantee** . If you are not satisfied with it or you don’t need it anymore, contact their support team at[support@fortect.com](https://tools.techidaily.com/drivereasy/download/) .
