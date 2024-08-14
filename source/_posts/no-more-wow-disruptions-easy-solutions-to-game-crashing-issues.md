@@ -1,0 +1,235 @@
+---
+title: "No More WoW Disruptions: Easy Solutions to Game Crashing Issues!"
+date: 2024-08-13T11:40:37.691Z
+updated: 2024-08-14T11:40:37.691Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes No More WoW Disruptions: Easy Solutions to Game Crashing Issues!"
+excerpt: "This Article Describes No More WoW Disruptions: Easy Solutions to Game Crashing Issues!"
+thumbnail: https://thmb.techidaily.com/98776572354897cc2b9eb92b9469126b6b1576e9ed20c23d2405392dbcb37fbd.jpg
+---
+
+## No More Disruptions: Effortless Ways to Prevent League of Legends From Crashing
+
+**League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
+
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+## Try these fixes
+
+ Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+* [Fix 1: Make sure your PC meets meets the system requirements for League of Legends](https://tools.techidaily.com/drivereasy/download/)
+* [Fix 2: Update your drivers](https://tools.techidaily.com/drivereasy/download/)
+* [Fix 3: Install the latest Windows Updates](https://tools.techidaily.com/drivereasy/download/)
+* [Fix 4: Repair corrupted game files](https://tools.techidaily.com/drivereasy/download/)
+* [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
+
+ The game may crash if your PC fails to meet its system requirement.  
+ Check if your PC meets its minimum hardware requirements first:
+
+#### The minimum system requirements for League of Legends
+
+| **Operating System:** | Windows XP (Service Pack 3 ONLY), Windows Vista, Windows 7, Windows 8, or Windows 10 |
+| --------------------- | ------------------------------------------------------------------------------------ |
+| **Processor:**        | **3 GHz** processor (supporting SSE2 instruction set or higher)                      |
+| **Memory:**           | **1 GB** RAM (**2 GB** of RAM for**Windows Vista and newer** )                       |
+| **Graphics:**         | Shader version 2.0 capable video card                                                |
+| **Resolution:**       | Up to**1920 x 1200**                                                                 |
+| **DirectX:**          | **DirectX v9.0c** or better                                                          |
+| **Storage:**          | **12 GB** available hard disk space                                                  |
+
+#### The recommended system requirements for League of Legends
+
+| **Operating System:** | Windows XP (Service Pack 3 ONLY), Windows Vista, Windows 7, Windows 8, or Windows 10                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- |
+| **Processor:**        | **3 GHz** dual-core processor                                                                                                         |
+| **Memory:**           | **2 GB** RAM (**4 GB**  of RAM for Windows Vista and higher)                                                                          |
+| **Graphics:**         | **Nvidia GeForce 8800** / **AMD Radeon HD 5670** or **equivalent video card** (Dedicated GPU with **512 MB or higher Video Memory** ) |
+| **Resolution:**       | Up to**1920 x 1200**                                                                                                                  |
+| **DirectX:**          | **DirectX v9.0c or better**                                                                                                           |
+| **Storage:**          | **16 GB** available hard disk space                                                                                                   |
+
+ You may need to upgrade the hardware of your computer if it fails to meet the system requirement of League of Legends.
+
+ If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
+
+### Fix 2: Update your drivers
+
+ A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
+
+ There are two ways to update your driver:**manually** and **automatically** .
+
+**Update your drivers manually** – You can update your drivers manually by going to the manufacturer’s website, and searching for the latest drivers for your computer.
+
+ Be sure to choose the driver that’s compatible with your exact PC model and your version of Windows.
+
+ **Or**
+
+**Update your drivers automatically** – If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all** .
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ 3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
+
+ This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+
+ You can do it for free if you like, but it’s partly manual.
+
+ If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+### Fix 3: Install the latest Windows Updates
+
+ One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
+
+ 1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
+
+ 2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
+
+3) Wait until Windows downloaded and installed all the updates.
+
+4) Restart Windows and run League of Legends again.
+
+ See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
+
+### Fix 4: Repair corrupted game files
+
+ Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
+
+1) Launch League of Legends and log in.
+
+2) In the upper-right corner, click**the gear button**  to open the game settings.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+ 3) Click**Initiate Full Repair** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
+
+ 4) Click**Yes** to continue. This may take a while.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+### Fix 5: Enable low spec mode
+
+ If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
+
+ If your PC fails to meet the recommended system requirements for League of Legends, you may need to**enable low spec mode** to ensure that League of Legends runs smoothly. Here is how to do it:
+
+1) Launch League of Legends and log in.
+
+2) In the upper-right corner, click**the gear button**  to open the game settings.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
+
+ 3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+Run League of Legends to see if you resolved this issue.
+
+ Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [League of Legends](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-exclusive-review-best-free-videocall-platforms-w-screen-view/"><u>[New] Exclusive Review  Best Free Videocall Platforms W/ Screen View</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-crafting-compelling-vo-for-visual-storytelling-success/"><u>[New] In 2024, Crafting Compelling VO for Visual Storytelling Success</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-projecting-the-financial-footprint-of-music-video-shootouts/"><u>[New] Projecting the Financial Footprint of Music Video Shootouts</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-battlefield-brilliance-unleashed-a-guide-to-top-7-total-war-triumphs/"><u>[Updated] Battlefield Brilliance Unleashed  A Guide to Top 7 Total War Triumphs</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-navigating-through-ez-grabbers-features/"><u>[Updated] Navigating Through EZ Grabber's Features</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/approved-the-complete-angle-manipulation-handbook-for-youtube-videos/"><u>2024 Approved  The Complete Angle Manipulation Handbook for YouTube Videos</u></a></li>
+<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-samsung-galaxy-s23plus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Samsung Galaxy S23+ | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/advanced-file-security-strategies-in-powertoys/"><u>Advanced File Security Strategies in PowerToys</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009141928-dealing-with-the-delayed-drop-heres-how-to-play-football-manager-2022-right-now/"><u>Dealing With the Delayed Drop? Here's How to Play Football Manager 2022 Right Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnose-and-fix-overcoming-launch-failures-in-the-witcher-3-wild-hunt/"><u>Diagnose & Fix: Overcoming Launch Failures In The Witcher 3 Wild Hunt</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-keep-crashing-problem-in-age-of-wonders-planetfall-game-on-personal-computers/"><u>Effective Fixes for Keep-Crashing Problem in Age of Wonders: Planetfall Game on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-minecraft-stalling-once-and-for-all-with-this-six-step-guide/"><u>End Minecraft Stalling Once and For All with This Six-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-fixing-and-preventing-your-ark-software-from-crashing/"><u>Expert Solutions: Fixing and Preventing Your Ark Software From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-overcoming-persistent-freezing-in-call-of-duty-warzone-pc-user-guide-2am/"><u>Expert Solutions: Overcoming Persistent Freezing in Call of Duty Warzone – PC User Guide (2Am)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fifa-21-startup-problems-now-fixed-how-to-launch-the-game-smoothly/"><u>FIFA 21 Startup Problems Now Fixed - How to Launch the Game Smoothly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-constant-fails-solutions-for-ghostwire-tokyo-continuous-pc-crashes/"><u>Fixing Constant Fails - Solutions for Ghostwire: Tokyo Continuous PC Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-crashes-top-solutions-for-stable-war-thunder-gameplay/"><u>Fixing the Crashes: Top Solutions for Stable War Thunder Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/halo-infinite-data-center-connection-errors-heres-how-to-fix-them/"><u>Halo Infinite Data Center Connection Errors? Here's How to Fix Them!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-12-pro-max-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 12 Pro Max Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-call-of-duty-modern-warfare-from-continuously-freezing/"><u>How To Stop Call Of Duty Modern Warfare From Continuously Freezing?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-teach-you-to-transfer-files-from-vivo-y78plus-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways To Teach You To Transfer Files from Vivo Y78+ to Other Android Devices Easily | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-ipad-or-apple-iphone-7-plus-stuck-on-activation-lock-by-drfone-ios/"><u>In 2024, How to Fix iPad or Apple iPhone 7 Plus Stuck On Activation Lock?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-motorola-edge-2023frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Motorola Edge 2023FRP Lock</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-retro-to-modern-radeon-transition/"><u>In 2024, Retro to Modern  Radeon Transition</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-methods-for-jpegpng-to-pdf-file-migration/"><u>IPhone Methods for JPEG/PNG to PDF File Migration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995744194-is-netflix-down-or-is-it-just-me-check-netflix-server-status/"><u>Is Netflix Down Or Is It Just Me – Check Netflix Server Status</u></a></li>
+<li><a href="https://games-able.techidaily.com/navigate-subscription-with-prime-gaming-guide/"><u>Navigate Subscription with Prime Gaming Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/necromunda-hired-gun-continuously-fails-to-start-on-windows/"><u>Necromunda: Hired Gun Continuously Fails to Start on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-issues-with-intel-driver-support-tool-not-functioning-properly/"><u>Overcoming Issues with Intel Driver Support Tool Not Functioning Properly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smoother-playthrough-of-overwatch-after-critical-driver-update/"><u>Smoother Playthrough of Overwatch After Critical Driver Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-mystery-why-assassins-creed-origins-wont-start-up-top-fixes/"><u>Solving the Mystery: Why Assassin’s Creed Origins Won't Start Up – Top Fixes</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-installation-hp-elitebook-amoeba-8460p-driver-update-for-windows-machines/"><u>Step-by-Step Installation: HP Elitebook Amoeba 8460P Driver Update for Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-remedies-for-when-counter-strike-global-offensive-wont-launch/"><u>Step-by-Step Remedies for When Counter-Strike Global Offensive Won't Launch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/transformative-tools-why-teachers-should-welcome-ai-innovations/"><u>Transformative Tools: Why Teachers Should Welcome AI Innovations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-game-freezes-in-oxygen-not-included/"><u>Troubleshooting and Resolving Game Freezes in Oxygen Not Included</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-overcome-dota-2-wont-start-issue-easily/"><u>Troubleshooting Guide: Overcome 'Dota 2 Won't Start' Issue Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-persistent-losing-of-ark-in-your-adventure-game/"><u>Troubleshooting Guide: Resolving Persistent Losing of Ark in Your Adventure Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-pc-issues-outpost-infinity-siege-keeps-crashing/"><u>Troubleshooting Steps to Resolve PC Issues - Outpost: Infinity Siege Keeps Crashing</u></a></li>
+<li><a href="https://techtrends.techidaily.com/troubleshooting-techniques-restoring-and-repairing-a-lost-winhttpdll-component-in-windows-systems/"><u>Troubleshooting Techniques: Restoring and Repairing a Lost Winhttp.dll Component in Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-6-effective-methods-for-fixing-terrarias-lost-connections/"><u>Ultimate Guide: 6 Effective Methods for Fixing Terraria's Lost Connections</u></a></li>
+<li><a href="https://win-forum.techidaily.com/windows-11-launching-failure-master-these-fixes-to-get-your-system-up-and-running/"><u>Windows 11 Launching Failure? Master These Fixes to Get Your System Up and Running</u></a></li>
+</ul></div>

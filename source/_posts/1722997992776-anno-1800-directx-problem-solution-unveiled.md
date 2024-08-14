@@ -1,0 +1,243 @@
+---
+title: Anno 1800 DirectX Problem Solution Unveiled!
+date: 2024-08-13T11:41:31.783Z
+updated: 2024-08-14T11:41:31.783Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Anno 1800 DirectX Problem Solution Unveiled!
+excerpt: This Article Describes Anno 1800 DirectX Problem Solution Unveiled!
+thumbnail: https://thmb.techidaily.com/55eea1dea20c971ad29aa0a8be4aa55c4b1ce451943a850955e0879da3d83a3f.jpg
+---
+
+## DirectX Troubles in Anno 1800? Here's How You Can Fix It
+
+**Anno 1800 crashes with a DirectX error** ? You’re certainly not alone. While this can be quite frustrating, it’s often not hard to fix at all…
+
+## How to fix Anno 1800 DirectX error
+
+ Here are 4 fixes that have helped other users resolve the**Anno 1800 crashes with a DirectX error** . You may not have to try them all; just work your way down the list until you find the one that works for you.
+
+1. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Switch DirectX versions](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Check if your PC meets the system requirements for Anno 1800](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 1: Update your graphics driver
+
+ Perhaps one of the most common causes of a DirectX error on Anno 1800 is an outdated or corrupt graphics driver. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the **[FREE](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) or the[](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+ 3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+<!-- affiliate ads begin -->
+<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ You can also do it for free if you like, but it’s partly manual.
+
+4) Restart your computer for the changes to take effect.
+
+5) Play Anno 1800 and check to see if the DirectX error is resolved. If yes, then great! If it still occurs, please move on to **Fix 2** , below.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<!-- affiliate ads end -->
+### Fix 2: Install the latest game patch
+
+ The developers of Anno 1800, Unisoft, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **[Ubisoft official website](https://www.ubisoft.com/en-us/)**  , check for the latest patch, download and install it. Then check if it fixes the Anno 1800 game crash problem.
+
+ If there is no patches available, or the patch fails to address the problem, then please try **Fix 3** , below.
+
+---
+
+### Fix 3: Switch DirectX versions
+
+ DirectX is a suite of components in Windows that allows heavy multimedia apps such as games to interact with your video and audio cards. Some players suggest that switching the two DirectX versions help resolve the error: if you’re running DirectX 11 or below, it’s recommended that you update it to DirectX 12 (the latest version by the time of writing), and vice versa.
+
+1. **[How to check DirectX version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/)
+2. **[How to update DirectX to DirectX 12](https://tools.techidaily.com/drivereasy/download/)**
+3. **[How to switch DirectX 12 to DirectX 11](https://tools.techidaily.com/drivereasy/download/)**
+
+#### **How to check DirectX version**
+
+ If you’re not sure what DirectX version you are running, you can follow the steps below to check it out.
+
+ 1) On your keyboard, press **the Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) , then copy & paste **dxdiag** into the box and click **dxdiag** .
+<!-- affiliate ads begin -->
+<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c67d93681f.jpg)
+
+ 2) Check out your **DirectX version** in the first page of the report.
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c68438b612.jpg)
+
+ 3) If you’re running DirectX 11 or below and Anno 1800 crashes, you can try[**updating DirectX 12**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem. If you’re running DirectX and Anno 1800 crashes, you can try[**switching to DirectX 11**](https://tools.techidaily.com/drivereasy/download/) to see if it fixes the problem.
+
+#### How to update DirectX to the latest version
+
+ 1) On your keyboard, press **the Windows logo key**  and type **check** . Then click **Check for updates** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c4354e7779.jpg)
+<!-- affiliate ads begin -->
+<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) Click **Check for updates** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b3c43ed42ba1.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+
+ 3) Follow the on-screen instructions so that **Windows Update** will automatically download & install the latest **DirectX** for you (included in the updates).
+
+ 4) Restart your computer for the change to take effect.
+
+ 5) Check to see if Anno 1800 DirectX error crashes problem is resolved. If not, please try**Fix 4** .
+
+#### **How to switch DirectX 12 to DirectX 11**
+
+ 1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) and **R** at the same time, then type**C:\\Users\\user\\Documents\\Anno 1800\\config** and press **Enter** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-236.png)
+
+2) Open the engine.ini file.
+
+3) Change**DeviceType: DX 12** to**DX 11** and**Adapter: 1** to**Adapter: 0** .
+
+4) Check to see if Anno 1800 DirectX error crashes problem is resolved. If not, please try**Fix 4** .
+
+---
+
+### Fix 4: Check if your PC meets the system requirements for Anno 1800
+
+ Anno 1800 may also crash with a DirectX if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Anno 1800.
+
+**Minimum:**
+
+| **Operating System:** | **Windows 7/8.1/10 – 64-Bit**                         |
+| --------------------- | ----------------------------------------------------- |
+| **CPU:**              | **Intel Core i5-3470 3.2 GHz or AMD FX-6350 3.9 GHz** |
+| **Graphics Card:**    | **GeForce GTX 670 or Radeon R9 285**                  |
+| **Memory:**           | **8 GB**                                              |
+| **Hard Drive:**       | **At least 60 GB of free space**                      |
+
+**Recommended:**
+
+| **Operating System:** | **Windows 10 – 64-Bit**                                     |
+| --------------------- | ----------------------------------------------------------- |
+| **CPU:**              | **Intel Core i5-4690K 3.5 GHz or AMD Ryzen 5 1400 3.5 GHz** |
+| **Graphics Card:**    | **Nvidia GeForce GTX 970 or AMD Radeon RX 480**             |
+| **Memory:**           | **8GB**                                                     |
+| **Hard Drive:**       | **At least 60 GB of free space**                            |
+
+ If you’re not sure whether your PC meets the system requirements for Anno 1800 or not, just follow the instructions below to check the specs of your PC:
+
+ 1) On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ 2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+ 3) Click the **Display** tab and you can check what **graphics card** your PC is using.
+
+ 4) Close DirectX. You may need to upgrade the hardware of your computer if it fails to meet the system requirement of Anno 1800.
+
+---
+
+ Hopefully you have successfully resolved the Anno 1800 DirectX error issue by now. If you have any questions, ideas or suggestions, please let me know in the comments. Thanks for reading!
+
+* [DirectX](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-discover-the-art-of-live-discord-recording/"><u>[New] In 2024, Discover the Art of Live Discord Recording</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-youtube-meets-facebook-1080p-live-mastery-guide/"><u>[Updated] 2024 Approved  YouTube Meets Facebook  1080P Live Mastery Guide</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-ipiccy-photo-editor-features-tutorial-and-review-for-2024/"><u>[Updated] IPiccy Photo Editor Features, Tutorial and Review for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-optimize-visibility-choosing-the-right-hashtags-today/"><u>2024 Approved  Optimize Visibility  Choosing the Right Hashtags Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-3-wont-launch-here-are-the-steps-for-a-smooth-installation/"><u>Baldur's Gate 3 Won’t Launch? Here Are the Steps for a Smooth Installation!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comparing-brazilian-and-european-portugueseback-buttonfilter-button/"><u>Comparing Brazilian And European PortugueseBack ButtonFilter Button</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-diablo-immortal-pc-crashes-expert-tips-and-solutions-for-smooth-gaming/"><u>Defeat Diablo Immortal PC Crashes: Expert Tips and Solutions for Smooth Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-repair-restoring-your-hp-monitor-functionality-step-by-step-fixes/"><u>DIY Repair: Restoring Your HP Monitor Functionality - Step-by-Step Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dragon-quest-xi-freezes-fixed-solving-the-game-crash-problem/"><u>Dragon Quest XI Freezes Fixed: Solving the Game Crash Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-players-struggling-to-start-valorant-on-windows-computers/"><u>Effective Fixes for Players Struggling to Start Valorant on Windows Computers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/te-your-channels-popularity-with-12-key-growth-techniques-for-2024/"><u>Elevate Your Channel's Popularity with 12 Key Growth Techniques for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expedited-srt-to-txt-conversion-2023s-efficient-method-for-2024/"><u>Expedited SRT to TXT Conversion  2023'S Efficient Method for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-and-solutions-how-to-stop-formula-1-2020-game-from-frequent-pc-crashes/"><u>Fix & Solutions: How to Stop Formula 1 2020 Game From Frequent PC Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-minecraft-top-5-solutions-for-the-black-screen-problem/"><u>Fix Your Minecraft: Top 5 Solutions for the Black Screen Problem !</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-resolve-resident-evil-village-pc-game-crashes/"><u>Fixes and Solutions: How To Resolve Resident Evil Village PC Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-restore-your-windows-11-taskbar-functionality/"><u>Fixing the Issue: How to Restore Your Windows 11 Taskbar Functionality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-use-phone-clone-to-migrate-your-oppo-reno-9a-data-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Use Phone Clone to Migrate Your Oppo Reno 9A Data? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/persistent-crashes-for-tormented-souls-pc-version-solutions-inside/"><u>Persistent Crashes for Tormented Souls PC Version: Solutions Inside!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-playtime-hiccups-in-call-of-duty-vanguard-a-guide-to-unfreeze-your-experience/"><u>Resolving Playtime Hiccups in Call of Duty: Vanguard – A Guide to Unfreeze Your Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/sea-of-thieves-crash-fixes-effective-strategies-to-prevent-game-disruptions/"><u>Sea of Thieves Crash Fixes: Effective Strategies to Prevent Game Disruptions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-oxygen-not-included-problems-with-these-expert-tips-to-avoid-crashes/"><u>Solve Your Oxygen Not Included Problems with These Expert Tips to Avoid Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-overcoming-the-darkness-a-solution-for-rainbow-six-siege-pc-problems/"><u>Step-by-Step Troubleshooting: Overcoming the Darkness – A Solution for Rainbow Six Siege PC Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-dota-2-game-crash-issues/"><u>Troubleshooting and Resolving Dota 2 Game Crash Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-why-cant-i-launch-call-of-duty-black-ops-4/"><u>Troubleshooting Guide: Why Can't I Launch Call of Duty Black Ops 4?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-preventing-palworld-from-crashing-on-windows-and-mac/"><u>Troubleshooting Tips: Preventing Palworld From Crashing on Windows and Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-how-to-stop-your-game-from-freezing-on-cod-vanguard-free/"><u>Ultimate Guide: How to Stop Your Game From Freezing on COD: Vanguard - FREE</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/unlocking-video-treasures-securely-capturing-igtv-videos-on-windows-and-macos-for-2024/"><u>Unlocking Video Treasures  Securely Capturing IGTV Videos on Windows & MacOS for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unstick-the-gears-advanced-tips-for-a-smooth-run-with-last-epoch-on-pc-insights-from-2024-experts/"><u>Unstick the Gears: Advanced Tips for a Smooth Run with Last Epoch on PC - Insights From 2024 Experts</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/unveiling-solutions-overcoming-macs-system-halt/"><u>Unveiling Solutions: Overcoming Mac's System Halt</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-visual-bug-fixes-tips-for-successful-texture-loading-restoration/"><u>Warzone Visual Bug Fixes - Tips for Successful Texture Loading Restoration</u></a></li>
+</ul></div>

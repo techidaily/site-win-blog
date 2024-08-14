@@ -1,0 +1,263 @@
+---
+title: Expert Tips to Successfully Start Far Cry 6 on Your PC Despite Hurdles
+date: 2024-08-13T11:39:51.780Z
+updated: 2024-08-14T11:39:51.780Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Expert Tips to Successfully Start Far Cry 6 on Your PC Despite Hurdles
+excerpt: This Article Describes Expert Tips to Successfully Start Far Cry 6 on Your PC Despite Hurdles
+thumbnail: https://thmb.techidaily.com/baabb0210a0e9d1dfef8f1a18fa201bad1a8f950b33fad191c1a3f8c1897f172.jpg
+---
+
+## How To Successfully Start Far Cry N6 on Your PC – No More Worry
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry.png)
+
+ Does nothing happen when you click on Play? You’re definitely not alone here. Many Far Cry 6 players are reporting the same. If Far Cry 6 won’t launch, below are some troubleshooting steps for you.
+
+## Far Cry 6 won’t launch? Here’s why
+
+* **You’re using Windows 11.** Ubisoft recommends using Windows 10 if possible instead.
+* **Your system is not up to date.** Make sure you perform a complete Windows update.
+* **The GPU driver (sometimes your audio drivers, too) is faulty, outdated.** Always keep your GPU driver updated to the latest game-ready version.
+* **Conflicting apps (especially third-party antivirus software).** Restart your PC without any start-ups.
+* **Overlay features.** It’s recommended to disable all overlays.
+* **Lack of administrative privileges.** Run Far Cry 6 and your launcher as an administrator.
+* **The game itself is buggy.** Wait for the next game patch if nothing is wrong on your end. Or **[contact Ubisoft Support](https://www.ubisoft.com/en-gb/help/contact)**  for further assistance.
+
+ Please make sure you’re running the latest version of the Windows system and avoid any kind of overclocking before heading to the fixes below.
+
+## How to fix Far Cry 6 not launching on PC?
+
+ Below are some exact troubleshooting steps to fix the ‘Far Cry 6 not launching’ issue. You don’t have to try them all; just walk your way down until you find the one that works for you.
+
+1. **[Make sure your gear meets the minimum requirements](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run your game as admin](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Verify your games files](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Update your GPU driver](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Disable background applications](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<!-- affiliate ads end -->
+### Fix 1\. Make sure your gear meets the minimum requirements
+
+ If your system does not meet the requirements, this will most likely be the cause of any performance issues you may be experiencing.
+
+ Note that the minimum requirement depends on your game settings. For example, you will need a much more powerful processor and video card with Ray-Tratracing on.
+
+#### Minimum requirements (**30fps** )
+
+| OS         | Windows 10                                                 |
+| ---------- | ---------------------------------------------------------- |
+| Processor  | AMD Ryzen 3 1200 @ 3\. Ghz or Intel Core i5-4460 @ 3.1 Ghz |
+| Memory     | 8 GB (Dual-channel mode)                                   |
+| Video card | AMD RX 460 (4 GB) or NVIDIA GeForce GTX 960 (4 GB)         |
+| DirectX    | DirectX 12                                                 |
+| Hard Drive | 60 GB available storage                                    |
+
+#### Recommended requirements (60fps)
+
+| OS         | Windows 10 (64-bit versions)                                |
+| ---------- | ----------------------------------------------------------- |
+| Processor  | AMD Ryzen 5 3600X @ 3.8 Ghz or Intel Core i7-7700 @ 3.6 Ghz |
+| Memory     | 16 GB (Dual-channel mode)                                   |
+| Video card | AMD RX Vega 64 (8 GB) or NVIDIA GeForce GTX 1080 (8 GB)     |
+| DirectX    | DirectX 12                                                  |
+| Hard Drive | 60 GB available storage                                     |
+
+#### Recommended 2K configuration (60fps, Raytracing Off)
+
+| OS         | Windows 10 (64-bit versions)                                 |
+| ---------- | ------------------------------------------------------------ |
+| Processor  | AMD Ryzen 5 3600X @ 3.8 Ghz or Intel Core i7-9700K @ 3.6 Ghz |
+| Memory     | 16 GB (Dual-channel mode)                                    |
+| Video card | AMD RX 5700XT (8 GB) or NVIDIA GeForce RTX 2070 Super (8 GB) |
+| DirectX    | DirectX 12                                                   |
+| Hard Drive | 60 GB available storage                                      |
+
+#### Recommended 2K configuration (60fps, Raytracing On)
+
+| OS         | Windows 10 (64-bit versions)                                  |
+| ---------- | ------------------------------------------------------------- |
+| Processor  | AMD Ryzen 5 5600X @ 3.7 Ghz or Intel Core i5-10600K @ 4.1 Ghz |
+| Memory     | 16 GB (Dual-channel mode)                                     |
+| Video card | AMD RX 6900XT (16 GB) or NVIDIA GeForce RTX 3070 (8 GB)       |
+| DirectX    | DirectX 12                                                    |
+| Hard Drive | 60 GB available storage                                       |
+
+#### Recommended 4K configuration (30fps, Raytracing On)
+
+| OS         | Windows 10 (64-bit versions)                                               |
+| ---------- | -------------------------------------------------------------------------- |
+| Processor  | AMD Ryzen 5 5900X @ 3.7 Ghz or Intel Core i7-10700K @ 3.8 Ghz              |
+| Memory     | 16 GB (Dual-channel mode)                                                  |
+| Video card | AMD RX 6800 (16 GB) or NVIDIA GeForce RTX 3080 (10 GB) DirectX: DirectX 12 |
+| DirectX    | DirectX 12                                                                 |
+| Hard Drive | 60 GB available storage                                                    |
+
+<!-- affiliate ads begin -->
+<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
+EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<!-- affiliate ads end -->
+### Fix 2\. Run your game as admin
+
+ In case lacking administrative privileges cause your Far Cry 6 not to start, we recommend that you run the game executable file and game launcher (Ubisoft Connect / Epic Games Launcher) as an administrator.
+
+1. Close any game-related apps. Then Right-click your Ubisoft Connect and select **Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/properties.jpg)
+2. Go to the **Compatibility**  tab and  
+![run ubisoft as admin](https://images.drivereasy.com/wp-content/uploads/2021/10/run-as-admin.jpg)
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<!-- affiliate ads end -->
+3. Click **Apply** \> **OK** .
+4. Also, repeat step 1\~2 for the Far Cry.exe file.
+
+ Try restarting the game and see if it helps with the ‘Far Cry 6 not launching’ issue. If not, don’t worry since we have a few more fixes to try.
+
+### Fix 3\. Verify your games files
+
+ Corrupted game files can cause your game not to launch, and it’s easily done by verifying your game files. Here’s how:
+
+ Close Ubisoft Connect, and then go to _**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher**_ and delete the **Cache** folder.
+
+ Launch Ubisoft Connect and check if Far Cry 6 still crashes like before. If this method doesn’t work, you can **uninstall** Ubisoft Connect to further troubleshoot the problem. But remember to [make a backup](https://www.ubisoft.com/en-us/help/connectivity-and-performance/article/manually-backing-up-ubisoft-connect-pc-save-files/000063179) beforehand.
+
+ To **install** Ubisoft Connect PC:
+
+1. Download the latest version of [Ubisoft Connect PC](https://ubi.li/4vxt9) .
+2. Run the installer you downloaded with administrator rights.
+3. Follow the on-screen instructions to complete the installation.
+
+### Fix 4\. Update your GPU driver
+
+ If you’re using a faulty or outdated GPU driver, you will get constant game crashes while playing Far Cry 6\. This is especially the case if you’re using a 30-series graphics card.
+
+ AMD and NVIDIA keep releasing new drivers to add more features or fix some known bugs. To make sure it works to its best in-game performance, you will always need to ensure it’s up to date.
+
+ You can update your graphics driver manually, by visiting the manufacturer’s website ([NVIDIA](https://tools.techidaily.com/drivereasy/download/) /[AMD](https://www.amd.com/en/support) ), finding the latest correct installer, and installing it step-by-step. But if you don’t have the time or patience to install it manually, you can do that automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<!-- affiliate ads end -->
+4. Restart your PC for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5\. Turn off overlays
+
+ It’s reported by some players that turning off all overlays helps with the crashing issue. You can follow the steps below to disable them.
+
+1. Launch Ubisoft Connect, and go to **Settings** .
+2. Under the General tab, untick the **Enable in-game overlay for supported games** and **Display FPS counter in game** .  
+![Enable in-game overlay for supported games](https://images.drivereasy.com/wp-content/uploads/2021/10/in-game-overlay.jpg)
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Try Far Cry 6 again to test the issue.
+
+### Fix 6\. Disable background applications
+
+ Some Microsoft services or third-party software may interfere with your Far Cry 6\. If that’s the case, you may need to close all background programs and reboot your system.
+
+1. Press the **Windows**  and **R** key at the same time to invoke the Run box.
+2. Type in _**msconfig**_ and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.jpg)
+3. Choose **Selective startup** , and uncheck **Load startup items** .  
+![Uncheck Load startup item](https://images.drivereasy.com/wp-content/uploads/2021/10/load-start-ups-no.jpg)
+4. Reboot your system.
+
+ If everything works fine without any background apps running, you might need to find the problematic one by[performing a clean boot](https://tools.techidaily.com/drivereasy/download/) .
+
+#### Some apps that are worth noticing
+
+ Below is a list of some software that is known to have issues with Ubisoft games.
+
+| **Fullscreen overlays**                | Overwolf                          |
+| -------------------------------------- | --------------------------------- |
+| **Hardware monitoring software**       | MSI Afterburner, Riva Tuner       |
+| **Peer-to-Peer software**              | BitTorrent, uTorrent              |
+| **RGB Controllers or game optimizers** | Razer Synapse, SteelSeries Engine |
+| **Streaming application**              | OBS, XSplit Gamecaster            |
+| **Software impacting applications**    | f.lux, Nexus Launcher             |
+| **VPN software**                       | Hamachi                           |
+| **Video chat services**                | Skype                             |
+| **Virtualizing software**              | Vmware                            |
+| **VoIP applications**                  | Discord, TeamSpeak                |
+
+---
+
+ Does your Far Cry 6 finally start? Feel free to leave us a comment if you have any questions or suggestions. We would like to help with the ‘Far Cry 6 not launching’ issue, but if it keeps giving you a hard time, you may need to wait for the next game patch.
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-degrees-matter-rotating-videos-for-social-glory-for-2024/"><u>[New] Degrees Matter  Rotating Videos for Social Glory for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-infographic-top-insights-into-fifa-football-videos-on-youtube/"><u>[New] Infographic - Top Insights Into FIFA Football Videos On YouTube</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-premier-playstation-simulators-top-5-selection/"><u>[New] Premier PlayStation Simulators  Top 5 Selection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-sifu-techniques-to-prevent-stuttering-and-dropped-frames-in-pc-gaming/"><u>Boosting 'Sifu': Techniques to Prevent Stuttering and Dropped Frames in PC Gaming</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/breakthrough-backdrop-selection-revolutionize-your-tiktok-videos-for-2024/"><u>Breakthrough Backdrop Selection  Revolutionize Your TikTok Videos for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/bring-life-to-your-posts-animating-text-on-insta-stories/"><u>Bring Life to Your Posts  Animating Text on Insta Stories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-fans-rejoice-solve-the-unforeseen-stoppages-in-cod-mw3-for-a-better-gaming-experience/"><u>Call of Duty Fans Rejoice! Solve the Unforeseen Stoppages in COD MW3 for a Better Gaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/concealed-crusaders-conflict-with-clarion-champion-for-2024/"><u>Concealed Crusader's Conflict with Clarion Champion for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/elevate-pc-performance-with-updated-windows-intell-drivers/"><u>Elevate PC Performance with Updated Windows Intell Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-gameplay-smoothness-tips-for-boosting-fps-on-ring-of-elysium/"><u>Enhance Gameplay Smoothness: Tips for Boosting FPS on Ring of Elysium</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/final-cut-pros-top-effect-enhancers-the-essential-10/"><u>Final Cut Pro's Top Effect Enhancers  The Essential 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-issue-warzone-game-images-failing-to-appear/"><u>Fixed Issue: Warzone Game Images Failing to Appear</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-performance-enhancements-solving-halo-infinites-frame-rate-fluctuations/"><u>Game Performance Enhancements: Solving Halo Infinite's Frame Rate Fluctuations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010212545-guide-to-fixing-age-of-empires-iv-not-downloading-on-ms-store-quick-solutions/"><u>Guide to Fixing 'Age of Empires IV' Not Downloading on MS Store - Quick Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-thx-surround-sound-issues-on-both-windows-10-and-11-computers/"><u>How to Fix Thx Surround Sound Issues on Both Windows 10 and 11 Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-past-cold-war-game-stalling-at-start-up-for-both-desktop-and-gaming-consoles/"><u>How to Get Past 'Cold War' Game Stalling at Start-Up for Both Desktop and Gaming Consoles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-issue-of-non-launching-overwatch-game/"><u>How to Resolve the Issue of Non-Launching Overwatch Game</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-lava-agni-2-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How To Leave a Life360 Group On Lava Agni 2 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-10-password-cracking-tools-for-realme-12-5g-by-drfone-android/"><u>In 2024, Top 10 Password Cracking Tools For Realme 12 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-maintenance-of-your-gaming-experience-avoiding-crashes-in-forza-horizon-5-on-windows-machines/"><u>Mastering the Maintenance of Your Gaming Experience: Avoiding Crashes in Forza Horizon 5 on Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-overwatch-2-startup-errors-with-these-7-fixes/"><u>Overcoming Overwatch 2 Startup Errors with These 7 Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resident-evil-village-and-pc-lag-here-are-the-ultimate-fixes-you-need-to-try/"><u>Resident Evil Village and PC Lag? Here Are the Ultimate Fixes You Need to Try!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-quest-for-smooth-gaming-fixing-new-world-slowdowns-and-connection-hiccups/"><u>Resolve Your Quest for Smooth Gaming: Fixing New World Slowdowns & Connection Hiccups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-battle-royale-bugs-fixing-call-of-duty-warzone-disc-reading-issues-5031-for-pc/"><u>Solving Battle Royale Bugs: Fixing Call of Duty Warzone Disc Reading Issues (5.0/3.1) for PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-pc-game-crash-problem-for-forza-horizon-4-a-step-by-step-guide/"><u>Solving the PC Game Crash Problem for 'Forza Horizon 4': A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-methods-to-prevent-nioh-2-from-unexpectedly-shutting-down/"><u>Step-by-Step Methods to Prevent Nioh ˈ2 From Unexpectedly Shutting Down</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-stability-issues-in-alan-wake-2/"><u>Step-by-Step Solutions for Stability Issues in Alan Wake 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/successfully-overcoming-boot-up-hurdles-a-guide-for-football-manager-2021-users-facing-load-errors/"><u>Successfully Overcoming Boot-Up Hurdles: A Guide for Football Manager 2021 Users Facing Load Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-incompatibility-errors-in-valheim-for-windows-users/"><u>Troubleshooting Incompatibility Errors in Valheim for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-gta-v-gears-game-crashing-issues/"><u>Ultimate Guide: Resolving GTA V Gear's Game-Crashing Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-solving-noticeable-frame-rate-reductions-a-step-by-step-guide/"><u>Understanding and Solving Noticeable Frame Rate Reductions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unveiling-fixes-for-cyberpunk-2077s-ominous-black-screen-conundrum/"><u>Unveiling Fixes for Cyberpunk 2077'S Ominous Black Screen Conundrum</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-tecno-pova-6-pro-5g-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Tecno Pova 6 Pro 5G Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
