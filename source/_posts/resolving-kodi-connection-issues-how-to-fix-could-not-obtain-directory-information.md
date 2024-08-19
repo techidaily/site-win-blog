@@ -1,7 +1,7 @@
 ---
 title: "Resolving Kodi Connection Issues: How to Fix 'Could Not Obtain Directory Information'"
-date: 2024-08-06T09:25:49.017Z
-updated: 2024-08-07T09:25:49.017Z
+date: 2024-08-18T18:08:52.157Z
+updated: 2024-08-19T18:08:52.157Z
 tags:
   - win11
   - win10
@@ -221,3 +221,40 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-expert-choice-top-10-windows-and-pc-tiktok-editors/"><u>[New] In 2024, Expert Choice  Top 10 Windows & PC TikTok Editors</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-the-importance-of-understanding-asmr-media/"><u>[Updated] 2024 Approved  The Importance of Understanding ASMR Media</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-bending-reality-advanced-distortion-methods-for-ps-users/"><u>[Updated] Bending Reality  Advanced Distortion Methods for PS Users</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-harmonious-hits-the-timeless-and-inescapable-tiktok-soundtracks-folk-pop-collaboration/"><u>[Updated] Harmonious Hits  The Timeless and Inescapable TikTok Soundtracks (Folk-Pop Collaboration)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-earnings-enigma-the-revenue-of-a-youtuber/"><u>[Updated] In 2024, Earnings Enigma  The Revenue of a YouTuber</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-skyrocketing-your-contents-view-count-title-and-tag-mastery/"><u>[Updated] Skyrocketing Your Content's View Count  Title & Tag Mastery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battle-against-crashes-in-state-of-decay-2-updated-fixes-and-workarounds-for-gamers/"><u>Battle Against Crashes in 'State of Decay 2' - Updated Fixes & Workarounds for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077s-fps-optimization-achieved-gameplay-now-smooth/"><u>Cyberpunk 2077'S FPS Optimization Achieved - Gameplay Now Smooth</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994588195-dealing-with-frequent-outlook-crashes-on-your-windows-computer/"><u>Dealing with Frequent Outlook Crashes on Your Windows Computer.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-prevent-recurring-disruptions-in-genshin-impact-gameplay-on-personal-computers/"><u>Effective Solutions to Prevent Recurring Disruptions in Genshin Impact Gameplay on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-tips-for-overcoming-lag-frustrations-in-dying-light/"><u>Effective Tips for Overcoming Lag Frustrations in Dying Light</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experts-reveal-how-to-fix-cyberpunk-2077s-input-delay-for-optimal-performance/"><u>Experts Reveal How to Fix Cyberpunk 2077'S Input Delay for Optimal Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-stutter-and-lag-in-slimerancher-2-for-optimal-gaming-experience-on-your-computer/"><u>Fixing Stutter and Lag in Slimerancher 2 for Optimal Gaming Experience on Your Computer</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-latest-epson-wf-1077-drivers-for-windows-pcs-windows-108187-supported/"><u>Get the Latest Epson WF-1077 Drivers for Windows PCs (Windows 10/8.1/8/7 Supported)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-addressing-escape-from-tarkovs-connection-failed-by-anti-cheat/"><u>Guide: Addressing Escape From Tarkov's 'Connection Failed by Anti-Cheat'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-ts-stutter-free-gameplay-resolving-launch-crashes-on-your-computer-2024-edition/"><u>Hitman T's Stutter-Free Gameplay: Resolving Launch Crashes on Your Computer, 2024 Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-solve-frequent-haltings-during-steam-downloads/"><u>How to Prevent and Solve Frequent Haltings During Steam Downloads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-lag-and-hitching-in-fortnite-on-your-pc/"><u>How to Resolve Lag and Hitching in Fortnite on Your PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-forgot-apple-iphone-11-pro-max-backup-password-heres-what-to-do-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 11 Pro Max Backup Password? Heres What to Do</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-why-does-the-pokemon-go-battle-league-not-available-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, Why does the pokemon go battle league not available On Motorola Moto G24 | Dr.fone</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-xbox-ultimate-screen-capture-tips-for-2024/"><u>Mastering Xbox  Ultimate Screen Capture Tips for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-interruptions-solving-performance-issues-and-pc-crashing-in-the-witcher-3/"><u>No More Interruptions: Solving Performance Issues & PC Crashing in The Witcher 3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/origins-digital-login-gateway-fully-operational-again-post-outage/"><u>Origin's Digital Login Gateway Fully Operational Again Post-Outage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012140079-overcame-far-cry-6-pc-startup-error-read-our-guide-for-a-seamless-gaming-experience/"><u>Overcame Far Cry 6 'PC Startup Error' - Read Our Guide for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-optimization-for-a-smooth-experience-in-wrc-10-avoiding-the-notorious-fia-series-game-crashes/"><u>PC Optimization for a Smooth Experience in WRC 10: Avoiding the Notorious FIA Series Game Crashes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/perfecting-music-in-instagram-videos-and-stories/"><u>Perfecting Music in Instagram Videos & Stories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-red-dead-redemption-2-fixes-for-frame-rate-drops-and-performance-lags/"><u>Resolved: Red Dead Redemption 2 - Fixes for Frame Rate Drops & Performance Lags</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-hitman-3-stability-issues-on-pc-effective-strategies-for-gamers/"><u>Resolving HITMAN 3 Stability Issues on PC - Effective Strategies for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-problem-of-unsuccessful-ryzen-master-drivers-installation/"><u>Resolving the Problem of Unsuccessful Ryzen Master Drivers Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-diablo-immortal-from-freezing-on-your-computer-expert-pc-game-optimization-tutorial-2amz-2024/"><u>Stop Diablo Immortal From Freezing on Your Computer - Expert PC Game Optimization Tutorial (2Amz) 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unstuck-in-palworld-effective-methods-to-resolve-load-and-startup-problems-quickly/"><u>Unstuck in Palworld? Effective Methods to Resolve Load and Startup Problems Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valheim-game-starts-properly-how-to-fix-the-issue/"><u>Valheim Game Starts Properly: How to Fix the Issue</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-microsoft-edge-holds-the-crown-in-gaming-browsers/"><u>Why Microsoft Edge Holds the Crown in Gaming Browsers</u></a></li>
+</ul></div>

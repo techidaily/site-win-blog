@@ -1,0 +1,222 @@
+---
+title: "How to Fix and Play: Overcoming Launch Difficulties with Skyrim"
+date: 2024-08-18T19:22:43.907Z
+updated: 2024-08-19T19:22:43.907Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes How to Fix and Play: Overcoming Launch Difficulties with Skyrim"
+excerpt: "This Article Describes How to Fix and Play: Overcoming Launch Difficulties with Skyrim"
+thumbnail: https://thmb.techidaily.com/92035b859f2a33cbba619018ad1ce9e04183738fea2a2a1a7fe9a2df3a6ca28a.jpg
+---
+
+## Destiny 2 Compatible with PC? How to Fix the Launch Error Quickly
+
+**Destiny 2** is a popular game in the world. But many players even **can’t launch the game** . This can be very frustrating, some players have reported that they just bought the game yesterday but the game won’t launch when they want to play. It’s worse than having a bad game experience because they don’t have a chance to play.
+
+ But don’t worry. The following methods have helped many players fix the won’t launch issue.
+
+## Check if you meet the minimum specifications
+
+ If you’re pretty sure about the specifications, you can jump to[fixes](https://tools.techidaily.com/drivereasy/download/) .
+
+### **Minimum System Requirement**
+
+| **Supported OS** | Windows 7, Windows 8.1, Windows 10 (64bit versions required)                   |
+| ---------------- | ------------------------------------------------------------------------------ |
+| **Processor**    | Intel Core i3 3250 3.5 GHz or Intel Pentium G4560 3.5 GHz/ AMD FX-4350 4.2 GHz |
+| **RAM**          | 6 GB                                                                           |
+| **Video Card**   | NVIDIA GeForce GTX 660 2GB or GTX 1050 2GB / AMD Radeon HD 7850 2 GB           |
+| **Hard Drive**   | 105 GB                                                                         |
+
+### Recommended **System Requirement**
+
+| **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)              |
+| ---------------- | ----------------------------------------------------------------------------- |
+| **Processor**    | Intel® Core i5 2400 3.4 GHz or i5 7400 3.5 GHz / AMD Ryzen R5 1600X 3.6 GHz   |
+| **RAM**          | 8 GB                                                                          |
+| **Video Card**   | NVIDIA® GeForce® GTX 970 4GB or GTX 1060 6GB / AMD R9 390 8GB Memory 8 GB RAM |
+| **Hard Drive**   | 105 GB                                                                        |
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [Change the compatibility and Run as administrator](https://tools.techidaily.com/drivereasy/download/)
+2. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
+3. [End other processes](https://tools.techidaily.com/drivereasy/download/)
+4. [Reinstall your game/ Battle.net client](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Change the compatibility and Run as administrator
+
+ The privilege issue and compatibility mode might be the reason for this problem. With high integrity access, Destiny 2 can make full use of its features, running its function properly. Also, if the game is compatible with the system, it won’t have issues. So change its compatibility mode and run it as an administrator to see if this fixes the won’t launch issue.
+
+1. Navigate to the game installation folder.
+2. Right-click on**Destiny 2 launcher.exe** and click**Properties** .
+3. In the Compatibility tab, click **Run this program in compatibility mode for** . Then choose the system in the drop-down menu.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
+4. In the same tab, check**Run as Administrator** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/ad-in-compatible.jpg)
+5. Click**Apply > OK** .
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<!-- affiliate ads end -->
+6. Run Destiny 2 and check the issue is solved or not.
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Update your driver
+
+ It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter Destiny 2 won’t launch issue. So it’s really important to keep your drivers updating to get a better gaming experience.
+
+ There are two ways you can update your driver: manually and automatically.
+
+**[Option 1 – Manually](https://tools.techidaily.com/drivereasy/download/)**  – You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
+
+OR
+
+**[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/fixed-destiny-2-wont-launch-pc/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
+
+#### **Option 1 –** **Download and install the driver manually**
+
+ You can download graphics drivers from the manufacturer official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
+
+#### **Option 2 – Automatically update drivers**
+
+ If you don’t have time or patience to manually update your graphics drivers, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the **FREE** or the **Pro** version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a **30-day money back guarantee** ):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd1-1.jpg)
+3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/amd-1.jpg)
+4. Relaunch the game and check to see if it could launch properly.
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
+<!-- affiliate ads end -->
+
+**Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
+ Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+### Fix 3: End other processes
+
+ After clicking the **Play** button, Destiny 2 didn’t launch. You may open the **Task Manager** , end background processes, then reboot the game.
+
+1. Press the **Ctrl + Shift + Esc** key together on your keyboard to open the **Task Manager** .
+2. In the **Processes** tab, choose the process and click **End task** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/end-task.jpg)
+3. Reboot Destiny 2.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+### Fix 4: Reinstall your game/ Battle.net client
+
+ If none of the fixes above worked for you, reinstalling your game and/or Battle.net is very likely the solution to your problem. It’s not ideal at all but a way to try.
+
+1. Press the**Windows logo key + Pause** key together.  
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/control.jpg)
+2. Set Control Panel**view by Category** and click**Uninstall a program** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/uninstall-1.jpg)
+3. Right-click on Battle.net and click**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/battle.jpg)
+4. [Download](https://www.blizzard.com/en-us/download/?platform=windows) the latest version and install it.
+
+---
+
+ Hopefully, this article helped in resolving your issue! If none of the solutions here worked for you, we recommend reaching out to the game’s developer for further support.
+
+ Feel free to leave a comment below if you have any questions and suggestions.
+
+* [Destiny 2](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-syncing-vimeo-and-instagram-the-ultimate-guide/"><u>[New] 2024 Approved  Syncing Vimeo and Instagram  The Ultimate Guide</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-fix-confirmed-shorts-are-showing-up-for-2024/"><u>[New] Fix Confirmed  Shorts Are Showing Up for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-how-to-keep-up-the-snapstreak-game/"><u>[New] In 2024, How To Keep Up the Snapstreak Game</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-complete-guide-to-capturing-ps4-games-via-obs/"><u>[Updated] 2024 Approved  Complete Guide to Capturing PS4 Games via OBS</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-times-tail-in-snapchat-video-backtracking-guide/"><u>[Updated] 2024 Approved  Time's Tail in Snapchat  Video Backtracking Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-optimizing-hashtag-performance-on-facebook-ads-for-2024/"><u>[Updated] Optimizing Hashtag Performance on Facebook Ads for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-picking-a-champion-in-video-software-vlcmx-for-2024/"><u>[Updated] Picking a Champion in Video Software  VLC/MX for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-speedy-file-assessment-on-windows-pcs/"><u>[Updated] Speedy File Assessment on Windows PCs</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-fostering-duets-tiktok-vocal-pairings/"><u>2024 Approved  Fostering Duets  TikTok Vocal Pairings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-your-multiversus-crashing-woes-a-guide-to-the-8-most-effective-remedies/"><u>Banish Your MultiVersus Crashing Woes: A Guide to the 8 Most Effective Remedies</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/beyond-the-screen-a-dive-into-vr-filmmaking-for-2024/"><u>Beyond the Screen  A Dive Into VR Filmmaking for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/borderlands-3-stability-boosted-effortless-fixes-to-prevent-game-crashes/"><u>Borderlands 3 Stability Boosted: Effortless Fixes to Prevent Game Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/cant-use-your-microphone-on-google-meet-for-windows-heres-why/"><u>Can’t Use Your Microphone on Google Meet for Windows? Here's Why</u></a></li>
+<li><a href="https://win-blog.techidaily.com/detailed-walkthrough-resolving-installation-problems-with-robocop-rogue-city-on-personal-computers/"><u>Detailed Walkthrough: Resolving Installation Problems with 'RoboCop: Rogue City' On Personal Computers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-90-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor 90</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-breakdown-and-critique-of-the-lenovo-yoga-a940-ultrabook-experience/"><u>Expert Breakdown and Critique of the Lenovo Yoga A940 Ultrabook Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-full-gameplay-disruptions-a-players-guide-to-stabilizing-horizon-forbidden-west-on-pc/"><u>Fixing Full Gameplay Disruptions: A Player's Guide to Stabilizing 'Horizon Forbidden West' On PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-problems-that-prevented-red-dead-redemption-2-from-opening-successfully/"><u>Fixing the Problems That Prevented Red Dead Redemption 2 From Opening Successfully</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/goofy-bliss-classic-film-revisited/"><u>Goofy Bliss  Classic Film Revisited</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-correctly-resolve-csglobal-offensive-initialization-issues/"><u>How to Correctly Resolve CS:Global Offensive Initialization Issues</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-auto-lock-greyed-out-on-iphone-6-plus-drfone-by-drfone-ios/"><u>How To Fix Auto Lock Greyed Out on iPhone 6 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-your-sims-4-visual-malfunctions-with-ease/"><u>How to Resolve Your Sims #4 Visual Malfunctions with Ease</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-honor-magic-vs-2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Honor Magic Vs 2 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oppo-f25-pro-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Oppo F25 Pro 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hp-display-problems-expert-tips-and-tricks-for-restoring-screen-functionality/"><u>HP Display Problems: Expert Tips and Tricks for Restoring Screen Functionality</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-2-ways-to-transfer-text-messages-from-xiaomi-redmi-13c-to-iphone-1514131211x8-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 2 Ways to Transfer Text Messages from Xiaomi Redmi 13C to iPhone 15/14/13/12/11/X/8/ | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-complete-guide-on-unlocking-iphone-12-mini-with-a-broken-screen-by-drfone-ios/"><u>In 2024, Complete Guide on Unlocking iPhone 12 mini with a Broken Screen?</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-gaming-evolved-streaming-xbox-content-on-facebook/"><u>In 2024, Gaming Evolved  Streaming Xbox Content on Facebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/masterclass-overcoming-connection-loss-problems-in-escape-from-tarkov/"><u>Masterclass: Overcoming Connection Loss Problems in Escape From Tarkov</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-granblue-fantasy-overcoming-the-challenge-of-a-stuck-relink-feature/"><u>Mastering Granblue Fantasy: Overcoming the Challenge of a Stuck Relink Feature</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/mastering-mobile-media-the-art-of-filming-with-a-smartphone-for-2024/"><u>Mastering Mobile Media  The Art of Filming with a Smartphone for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-multiversus-launch-problems-expert-advice-for-windows-users/"><u>Mastering MultiVersus Launch Problems: Expert Advice for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-how-to-keep-your-minecraft-dungeons-game-from-freezing-on-desktop/"><u>Mastering Stability: How to Keep Your Minecraft Dungeons Game From Freezing on Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-muted-play-restoring-sound-to-your-roblox-experience-on-windows-systems/"><u>No More Muted Play: Restoring Sound to Your Roblox Experience on Windows Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/resolving-connectivity-problems-wireless-mouse-malfunction-in-windows-operating-systems/"><u>Resolving Connectivity Problems - Wireless Mouse Malfunction in Windows Operating Systems</u></a></li>
+<li><a href="https://games-able.techidaily.com/secrets-to-procuring-and-planting-minecraft-realms/"><u>Secrets to Procuring & Planting Minecraft Realms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-fixing-modern-warfare-stutter-and-lag-issues-in-pc-version/"><u>Solution Found: Fixing 'Modern Warfare' Stutter and Lag Issues in PC Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-when-granblue-fantasys-re-link-feature-wont-start/"><u>Solving the Issue When Granblue Fantasy's Re-Link Feature Won't Start</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/spotlight-must-see-lgbtqplus-tv-shows-currently-available-on-netflix/"><u>Spotlight: Must-See LGBTQ+ TV Shows Currently Available on Netflix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-chrome-stuttering-simple-solutions-for-a-smoother-windows-10-experience/"><u>Stop Chrome Stuttering: Simple Solutions for a Smoother Windows 10 Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-get-your-logitech-g-hub-up-and-running-in-windows-os/"><u>Troubleshooting Guide: How to Get Your Logitech G Hub Up and Running in Windows OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-sony-vegas-media-studio-frequent-crashes-and-solutions/"><u>Troubleshooting Sony Vegas Media Studio Frequent Crashes & Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-launching-resident-evil-village-successfully/"><u>Troubleshooting Steps for Launching Resident Evil Village Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-your-game-of-thrones-how-to-stop-gears-5-from-crashing/"><u>Troubleshooting Tips: Resolving Your Game of Thrones - How to Stop Gears 5 From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-assassins-creed-origins-launch-issues-updated-tips/"><u>Ultimate Fixes for Assassin's Creed Origins Launch Issues - Updated Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-nioh-2-complete-edition-crashes/"><u>Ultimate Guide: Resolving Nioh 2 Complete Edition Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-smoother-gaming-experience-advanced-techniques-to-maintain-high-frame-rates-and-resolve-lags/"><u>Unlock Smoother Gaming Experience: Advanced Techniques to Maintain High Frame Rates and Resolve Lags</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001248811-watch-dogs-legion-and-the-unresolved-pc-stability-issues-solutions-at-hand/"><u>Watch Dogs Legion and the Unresolved PC Stability Issues - Solutions at Hand!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/watch-dogs-legion-update-eliminates-pc-crashing-problems-game-stability-enhanced/"><u>Watch Dogs Legion Update Eliminates PC Crashing Problems - Game Stability Enhanced</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Vivo Y28 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/what-can-you-achieve-with-chatgpt-exploring-the-horizons-of-generative-artificial-intelligence/"><u>What Can You Achieve with ChatGPT? Exploring the Horizons of Generative Artificial Intelligence</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-is-my-battlefield-talkie-crashing-overcoming-common-compatibility-issues-on-pcs/"><u>Why Is My Battlefield Talkie-Crashing? Overcoming Common Compatibility Issues on PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-against-the-stray-crash-glitch-6-proven-repairs-for-your-gaming-pc/"><u>Winning Against the Stray Crash Glitch: 6 Proven Repairs for Your Gaming PC</u></a></li>
+</ul></div>
