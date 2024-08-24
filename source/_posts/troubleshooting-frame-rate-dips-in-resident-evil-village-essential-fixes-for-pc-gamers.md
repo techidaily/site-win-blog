@@ -1,0 +1,180 @@
+---
+title: Troubleshooting Frame Rate Dips in Resident Evil Village - Essential Fixes for PC Gamers
+date: 2024-08-23T12:41:46.410Z
+updated: 2024-08-24T12:41:46.410Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Troubleshooting Frame Rate Dips in Resident Evil Village - Essential Fixes for PC Gamers
+excerpt: This Article Describes Troubleshooting Frame Rate Dips in Resident Evil Village - Essential Fixes for PC Gamers
+thumbnail: https://thmb.techidaily.com/919573cc608b6cdec882b8be060a2b2c2cf20857c29aeec82d8f35e1cc72f6d6.jpg
+---
+
+## No More Mouse Troubles in Resident Evil Village! Here's the Fix You Need
+
+Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
+
+## Try these fixes
+
+ You don’t have to try them all; just work your way down the list until you find the one that works for you.
+
+1. [Download an invisible cursor theme](https://tools.techidaily.com/drivereasy/download/)
+2. [Change resolution](https://tools.techidaily.com/drivereasy/download/)
+3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
+4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix 1: Download an invisible cursor theme file
+
+ To solve the mouse cursor that appears on the black bars in-game issue, download an invisible cursor theme file would do the job.
+
+ This might be the easiest way to do it, but you have to restore it back when you’re done playing.
+
+1. [Download](http://www.jholjhaal.com/wp-content/uploads/2013/05/HiddenCursor.cur) the blank mouse cursor file.
+2. Press the**Window logo key + I** together and click**Devices** .  
+![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
+3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
+4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
+5. Click**Apply** . Your mouse cursor will disappear.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
+6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+### Fix 2: Change resolution
+
+ Many players have found out the best resolution to solve this cursor issue is**16:9** . That means if you have 1680: 1050, select 1600 x 900 instead. If you run the game with a 16: 10 monitor, the black bar would appear on the bottom of your screen and the desktop mouse becomes visible. The game would be unplayable because of sensitivity and aiming issues.
+
+1. Launch the game.
+2. Go to**Options > Display** .
+3. Choose**Screen Resolution** that fits your PC, remember the 16: 9 works better.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-14-23.jpg)
+4. Make sure you’re in full screen, not borderless window.
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<!-- affiliate ads end -->
+
+**Note** : This fix might let the image lose a lot of quality.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+### Fix 3: Change mouse settings
+
+ Change the in-game mouse settings might help. Players have proved that the max sensitivity is not 10 and you can set the number go beyond 10.
+
+ Maxing your**Mouse Sensitivity** ,**Movement Camera Sensitivity with Mouse** and**DPI of mouse** in game.
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-8.png)
+
+If this fix brings no luck, move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Update device driver
+
+ Keeping your drivers updated is important to your PC. If driver on your PC is outdated or corrupted, you may encounter crashes or other issues that won’t let you enjoy the game. To prevent potential risks, you need to update your device driver regularly.
+
+There are two ways you can update your device drivers:
+
+**Manual driver update** – You can update your drivers manually by going to the manufacturer’s website for your graphics card, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version. Or you can use Windows update, but Windows doesn’t give you the latest drivers.
+
+ A**utomatic driver update** – If you don’t have the time, patience or computer skills to update your video and monitor drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for your exact device, and your Windows version, and it will download and install them correctly:
+
+ Driver Easy will automatically recognize your system and find the correct driver for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
+3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+---
+
+ That’s it, hope this post would help. If you have any ideas, you’re welcome to drop a comment below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-iphone-plus-android-tutorial-screen-recording-google-meets/"><u>[New] 2024 Approved  IPhone + Android Tutorial  Screen Recording Google Meets</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-comprehensive-guide-to-srgb-and-rgb/"><u>[New] Comprehensive Guide to Srgb & Rgb</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-masterclass-in-image-detail-removing-obscuring-elements-with-photopea/"><u>[Updated] Masterclass in Image Detail  Removing Obscuring Elements with Photopea</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-thrifty-pc-frame-buffer-tools-for-2024/"><u>[Updated] Thrifty PC Frame Buffer Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-visual-ventures-free-themes-to-elevate-your-channel/"><u>[Updated] Visual Ventures  FREE Themes to Elevate Your Channel</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-zte-nubia-flip-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on ZTE Nubia Flip 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battle-against-microsoft-edges-stability-problems-in-windows-11-solutions-explored/"><u>Battle Against Microsoft Edge's Stability Problems in Windows 11: Solutions Explored</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-delay-effective-solutions-for-high-ping-in-bless-unleashed-for-windows-users/"><u>Beat the Delay: Effective Solutions for High Ping in Bless Unleashed for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breeze-through-resolving-steam-disk-corruption-a-user-friendly-approach/"><u>Breeze Through Resolving Steam Disk Corruption: A User-Friendly Approach</u></a></li>
+<li><a href="https://extra-information.techidaily.com/capturing-every-moment-in-motion-with-polaroids-new-release-for-2024/"><u>Capturing Every Moment in Motion with Polaroid's New Release for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/closer-look-techniques-for-minecraft-exploration-for-2024/"><u>Closer Look Techniques for Minecraft Exploration for 2024</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/cutting-edge-techniques-for-quick-czech-comprehension/"><u>Cutting-Edge Techniques for Quick Czech Comprehension</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/elevate-and-explore-top-wins11-apps-and-games-guide-for-2024/"><u>Elevate and Explore  Top Wins11 Apps & Games Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-resolving-frame-drops-and-delays-in-guilty-gear-strive/"><u>Expert Tips for Resolving Frame Drops and Delays in Guilty Gear Strive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/five-easy-steps-to-overcome-initial-load-issues-in-genshin-impact/"><u>Five Easy Steps to Overcome Initial Load Issues in Genshin Impact</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-why-outriders-failed-to-launch/"><u>Fixing the Issue: Why Outriders Failed to Launch</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Samsung Galaxy M34? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-nokia-c02-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Nokia C02 If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-ubisoft-connect-failing-errors-for-gamers/"><u>How to Fix 'Ubisoft Connect Failing' Errors for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-armored-core-6-fires-of-rubicon-crashing-on-pc/"><u>How to Fix Armored Core 6: Fires of Rubicon Crashing on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-persistent-crashing-in-back-4-blood-for-a-smooth-pc-gaming-experience/"><u>How to Fix Persistent Crashing in Back 4 Blood for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-share-location-in-messenger-on-lava-agni-2-5g-drfone-by-drfone-virtual-android/"><u>How to Share Location in Messenger On Lava Agni 2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-praey-for-the-gods-from-crashing-on-your-computer/"><u>How To Stop 'Praey for the Gods' From Crashing On Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006615485-immortals-of-fenyx-rising-game-now-stable-crashing-issue-solved/"><u>Immortals of Fenyx Rising Game Now Stable - Crashing Issue Solved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improving-gaming-experience-tips-to-fix-unstable-frame-rates/"><u>Improving Gaming Experience: Tips to Fix Unstable Frame Rates</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-unveiling-high-definition-with-lgs-31mu97-b-digital-cinema-screen/"><u>In 2024, Unveiling High Definition with LG's 31MU97-B Digital Cinema Screen</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-tecno-spark-10c-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Tecno Spark 10C Phones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-art-of-resolving-directdraw-mishaps-in-software-applications/"><u>Mastering the Art of Resolving DirectDraw Mishaps in Software Applications</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-stutter-free-gameplay-for-mass-effect-legendary-collection-on-pc/"><u>Optimizing Stutter-Free Gameplay for Mass Effect Legendary Collection on PC</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolved-windows-issues-hp-printer-1020-driver-update/"><u>Resolved Windows Issues: HP Printer 1020 Driver Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-the-directx-error-in-anno-1800/"><u>Resolved: How to Fix the DirectX Error in Anno 1800</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-frostpunk-shutting-down-issue-for-a-smoother-gaming-experience/"><u>Resolving the Frostpunk Shutting Down Issue for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/slash-the-strain-on-your-system-6-techniques-to-diminish-zooms-cpu-usage/"><u>Slash the Strain on Your System: 6 Techniques to Diminish Zoom's CPU Usage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-fixes-for-overlay-not-capturing-your-screen/"><u>Solution Found: Fixes for Overlay Not Capturing Your Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-stabilizing-your-diablo-3-gaming-experience/"><u>Solution Found: Stabilizing Your Diablo 3 Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-batman-arkham-knights-sudden-system-failures-and-serious-glitches/"><u>Solving Batman: Arkham Knight's Sudden System Failures & Serious Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-increasing-cs-2-gameplay-smoothness-and-reducing-lag/"><u>Step-by-Step Solution for Increasing CS 2 Gameplay Smoothness and Reducing Lag</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-updated-method-to-bypass-realme-narzo-n53-frp-by-drfone-android/"><u>The Updated Method to Bypass Realme Narzo N53 FRP</u></a></li>
+<li><a href="https://howto.techidaily.com/top-10-fixes-for-phone-keep-disconnecting-from-wi-fi-on-infinix-note-30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Top 10 Fixes for Phone Keep Disconnecting from Wi-Fi On Infinix Note 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-solutions-to-stop-vrchat-from-freezing-on-your-windows-computer/"><u>Top 8 Solutions to Stop VRChat From Freezing on Your Windows Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-stop-warframe-from-crashing-continuously/"><u>Troubleshooting Guide: How to Stop Warframe From Crashing Continuously</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-manor-lords-pc-stability-problems-a-guide/"><u>Troubleshooting Manor Lords PC Stability Problems: A Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-fraudulent-chatgpt-clones-that-threaten-to-hijack-your-information/"><u>Unveiling the Fraudulent ChatGPT Clones That Threaten to Hijack Your Information</u></a></li>
+<li><a href="https://win-blog.techidaily.com/yakuza-like-a-dragon-perfect-your-skills-with-this-all-inclusive-pc-gameplay-guide/"><u>Yakuza: Like a Dragon - Perfect Your Skills with This All-Inclusive PC Gameplay Guide</u></a></li>
+</ul></div>

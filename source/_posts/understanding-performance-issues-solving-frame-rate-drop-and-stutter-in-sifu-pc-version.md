@@ -1,0 +1,219 @@
+---
+title: "Understanding Performance Issues: Solving Frame Rate Drop & Stutter in Sifu (PC Version)"
+date: 2024-08-23T12:35:03.429Z
+updated: 2024-08-24T12:35:03.429Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Understanding Performance Issues: Solving Frame Rate Drop & Stutter in Sifu (PC Version)"
+excerpt: "This Article Describes Understanding Performance Issues: Solving Frame Rate Drop & Stutter in Sifu (PC Version)"
+thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8a7742b128774ee55042b67a.jpg
+---
+
+## No More Lags: Resolving FPS Drops, Eradicating Gameplay Hiccups & Boosting Performance
+
+![GTFO FPS drops on PC](https://images.drivereasy.com/wp-content/uploads/2021/12/GTFO-FPS-drops-on-PC.jpg "GTFO")
+
+GTFO
+
+ GTFO, an extrame cooperative horror shooter, is finally ready for release after two years of early access. On December 9 at the Game Awards, 10 Chambers revealed that GTFO 1.0 has arrived. As more and more PC gamers come back to play the game, many of them are bothered by**GTFO FPS drop issue on their PC** . If you find yourself on the same boat, don’t worry. You’ve come to the right place. After reading this article, you shloud be able to fix the GTFO performance issues and boost the GTFO in-game FPS easily!
+
+## Try these fixes
+
+ Here’s a list of fixes that have helped other PC gamers fix the GTFO FPS drop issues. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
+
+1. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Set the Power Plan of your PC for high performance](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Modify graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
+
+## Install the latest game patch
+
+ 10 Chambers, the developers of GTFO, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
+
+ Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Update your graphics driver
+
+ If you haven’t updated your graphics driver for a long time, you should update or reinstall the driver, because the outdated or faulty graphics driver may trigger GTFO FPS dropping issue.
+
+There are mainly two methods for you to update the graphics driver:
+
+**Manually –** To update your graphics driver to the latest version, you’ll need to visit the manufacturer’s website, download the exact driver, and then install it manually.
+
+* **[NVIDIA](https://tools.techidaily.com/drivereasy/download/)**
+* **[AMD](https://www.amd.com/en/support)**
+* **[Intel](https://downloadcenter.intel.com/)**
+
+**Automatically –**  If you don’t have the time, patience or computer skills to update your drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for your graphics card, and your Windows version, and it will download and install them correctly:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
+3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
+ Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
+4. Once the driver is updated, reboot your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Set the power plan of your PC for high performance
+
+ Windows power plans are designed to manage how your computer consumes and conserves power. You may encouter FPS drops when your computer is using the balanced or power saver plan.
+
+ In most cases, the power plan on a PC is set to **Balanced** by default, which may limits the operating capacity of your graphics card and CPU.
+
+ If you’re experiencing peformance issues like FPS dropping, try modifying the power plan on your PC for Best Performance. Here is how to do it:
+
+1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
+![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
+2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
+![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
+ Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Modify graphics card settings
+
+ Tweaking your graphics card settings in Nvidia or AMD control panel would also boost the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
+
+**For Nvidia users** , follow the steps below:
+
+1. **Right-click** on your desktop and select **NVIDIA Control Panel** from the context menu.
+2. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add **GTFO** from the program list.
+3. In the **Specify the settings for this program** section, modify following settings:  
+**Max Frame Rate** : Set it to a frame rate below your monitor’s current refresh rate.  
+**Preferred refresh** **rate** : set it to “Highest available”  
+**OpenGL rendering GPU** : Set it to your Nvidia GPU  
+**Maximum pre-rendered frames** : set it to 1  
+**Power Management** : “Prefer Maximum Performance”  
+**Low Latency Mode** : “Ultra”  
+**Vertical sync** : “Fast”  
+**Texture filtering – Quality** : “Performance”
+4. Click **Apply** to save the changes.
+
+**For AMD users** , follow the steps below:
+
+1. Open **AMD Radeon Settings** .
+2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
+![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
+
+ Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Disable overlays
+
+ Overlays are handy, but according to many PC gamers, they sometimes may interfere with GTFO and even introduces performance issues and compatibility issues. If the fixes above didn’t give you a obvious FPS boost, then try disabling overlays before playing the game.
+
+ There’re many apps that provide overlay features. Here I’ll take the Steam Overlay as an example to show you how to turn the in-game overlay off in Steam:
+
+1. Launch **Steam** and go to your **LIBRARY** , then right click on GTFO game title and click **Properties…** .  
+![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+ If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
+
+ Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Disable background recording and Xbox Game Bar
+
+ Those who love sharing game highlight videos would love Xbox Game Bar and the background recording feature in Windows 10 and Windows 11\. However, once thesefeatures are enabled, they’ll constantly run in the background, hogging tons of resources.
+
+ If you’ve enabled background recording and Xbox Game Bar, and you’re suffering from in-game FPS drops, try disabling them:
+
+1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
+![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
+2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
+![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
+3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+Launch GTFO to see you can play it smoothly.
+
+---
+
+ Hopefully, one of the fixes in the aritcle helped you fix the GTFO performance issues. Feel free to leave us a comment below if you have any questions or suggestions on this issue. Thanks for reading!
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [windows 11](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-the-innovators-playbook-recording-shows-in-the-cloud-for-2024/"><u>[New] The Innovator’s Playbook  Recording Shows in the Cloud for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/among-us-load-screen-jammed-top-fixes-to-resume-playing-without-delay/"><u>Among Us Load Screen Jammed? Top Fixes to Resume Playing Without Delay</u></a></li>
+<li><a href="https://facebook.techidaily.com/assessing-the-hidden-dangers-of-social-media-quizzes/"><u>Assessing the Hidden Dangers of Social Media Quizzes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723809007156-boost-your-sites-visibility-with-optimized-menu-functionality-and-direct-linkedin-facebook-youtube-connectivity/"><u>Boost Your Site's Visibility with Optimized Menu Functionality and Direct LinkedIn, Facebook, YouTube Connectivity!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discovering-the-features-of-copernic-for-seamless-image-retrieval/"><u>Discovering the Features of Copernic for Seamless Image Retrieval</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722993699536-halo-infinite-blackout-blues-heres-how-to-fix-it-once-and-for-all/"><u>Halo Infinite Blackout Blues? Here's How to Fix It Once and For All!</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-realme-12-pro-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Realme 12 Pro 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-androidprocessmedia-has-stopped-on-nubia-red-magic-9-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android.Process.Media Has Stopped on Nubia Red Magic 9 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-sons-of-the-forest-crashing-issues-on-your-pc-step-by-step-tips/"><u>How to Fix Sons of the Forest Crashing Issues on Your PC – Step-by-Step Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012512084-how-to-overcome-cyberpunk-2077s-non-launching-error-solved/"><u>How to Overcome Cyberpunk #2077'S Non-Launching Error - Solved!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-tecno-camon-20-premier-5g-phone-forgot-password-by-drfone-android-unlock-android-unlock/"><u>How to Unlock Tecno Camon 20 Premier 5G Phone Forgot Password</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-asus-rog-phone-8-look-no-further-drfone-by-drfone-virtual-android/"><u>In 2024, Looking For A Location Changer On Asus ROG Phone 8? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/innovative-fb-ad-campaigns-boosting-patient-care-for-2024/"><u>Innovative FB Ad Campaigns Boosting Patient Care for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/latest-tips-to-get-league-of-legends-running-smoothly-again-202n-update/"><u>Latest Tips to Get League of Legends Running Smoothly Again - 202N Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-april-patch-breaks-free-from-reconnect-bug-chains-what-you-need-to-know/"><u>League of Legends April Patch Breaks Free From Reconnect Bug Chains - What You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximize-your-sites-accessibility-swiftly-navigate-to-the-top-and-seamlessly-connect-with-facebook-linkedin-and-youtube-through-our-expanding-toggle-menu/"><u>Maximize Your Site's Accessibility - Swiftly Navigate to the Top and Seamlessly Connect with Facebook, LinkedIn, and YouTube Through Our Expanding Toggle Menu!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-challenge-of-missing-files-in-windows-expert-tips-and-mistake-free-strategies/"><u>Overcoming the Challenge of Missing Files in Windows: Expert Tips & Mistake-Free Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-wallpaper-engine-crashes-tips-and-solutions-for-windows-11-users/"><u>Overcoming Wallpaper Engine Crashes: Tips & Solutions for Windows 11 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008164792-pc-gaming-woes-fix-your-game-from-constantly-crashing-in-the-new-world/"><u>PC Gaming Woes: Fix Your Game From Constantly Crashing in the New World</u></a></li>
+<li><a href="https://program-issues.techidaily.com/say-goodbye-to-game-interruptions-top-9-fixes-for-ark-survival-ascendeds-stability-issues-on-pc/"><u>Say Goodbye to Game Interruptions: Top 9 Fixes for ARK: Survival Ascended's Stability Issues on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simplifying-business-operations-the-impact-of-enterprise-search-systems/"><u>Simplifying Business Operations: The Impact of Enterprise Search Systems</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-removing-applications-from-your-mac/"><u>Step-by-Step Guide: Removing Applications From Your Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/terraria-stability-issues-try-these-2024-fixes-and-tricks/"><u>Terraria Stability Issues? Try These 2024 Fixes & Tricks!</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-data-from-poco-x6-pro-by-fonelab-android-recover-data/"><u>The way to get back lost data from Poco X6 Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-warzone-graphics-issues/"><u>Troubleshooting Guide: Fixing Warzone Graphics Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-fix-euro-truck-simulator-2-pc-stability-issues/"><u>Troubleshooting Guide: How to Fix Euro Truck Simulator 2 PC Stability Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-resolving-issues-with-utorrents-connection-and-download-functionality/"><u>Troubleshooting: Resolving Issues with uTorrent's Connection and Download Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-resolving-rainbow-six-sieges-server-connectivity-issues/"><u>Ultimate Troubleshooting Guide: Resolving Rainbow Six Siege's Server Connectivity Issues</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlock-the-best-tools-a-curated-list-of-leading-iphone-text-data-rescue-software-top-8-picks/"><u>Unlock the Best Tools: A Curated List of Leading iPhone Text Data Rescue Software Top 8 Picks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unveiling-the-secrets-of-image-text-recognition-an-exploration-of-ocr-technology/"><u>Unveiling the Secrets of Image Text Recognition: An Exploration of OCR Technology</u></a></li>
+</ul></div>

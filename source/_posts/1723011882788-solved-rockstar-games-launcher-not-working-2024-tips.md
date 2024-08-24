@@ -1,0 +1,456 @@
+---
+title: "[SOLVED] Rockstar Games Launcher Not Working - 2024 Tips"
+date: 2024-08-23T12:37:12.935Z
+updated: 2024-08-24T12:37:12.935Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes [SOLVED] Rockstar Games Launcher Not Working - 2024 Tips
+excerpt: This Article Describes [SOLVED] Rockstar Games Launcher Not Working - 2024 Tips
+thumbnail: https://thmb.techidaily.com/d62db7dc37a0ea486bf30f13066f1f2f1060eddc2d95bbca5778077eceeabf38.jpg
+---
+
+## Black Screen Error Cleared in Epic Games Launcher - Solutions Inside
+
+The Epic Games Launcher is such a wonderful platform that you can play your favorite games there. But chances are, you might encounter a black screen once you open the launcher. If that’s your case, don’t worry, here are some working fixes for you.
+
+![Epic Games Launcher black screen](https://images.drivereasy.com/wp-content/uploads/2020/09/Picture1-1200x924.png)
+
+## Try these fixes
+
+ You might not need to try them all; simply work your way down the list until you find the one that works for you.
+
+1. **[Reset your screen resolution](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Run the launcher as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Adjust compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Run compatibility troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Allow the launcher through the firewall](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Change your DNS server to the Google Public DNS](https://tools.techidaily.com/drivereasy/download/)**
+8. **[Flush the DNS cache](https://tools.techidaily.com/drivereasy/download/)**
+9. **[Change high DPI settings](https://tools.techidaily.com/drivereasy/download/)**
+10. **[Use a VPN](https://tools.techidaily.com/drivereasy/download/)**
+
+---
+
+## Fix 1: Reset your screen resolution
+
+ Your screen resolution adjusts to fit the screen but it might default to the wrong view. In this case, you can reset it.
+
+Here’s how you can do this:
+
+ 1) Right-click on the empty space from your desktop and select**Display settings** .
+
+![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-1.png)
+
+ 2) Scroll down to**Display resolution** and click on the**down arrow** button.
+
+![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-2-2.png)
+
+ 3) Scroll down and choose**1280×768** .
+
+![reset screen resolution](https://images.drivereasy.com/wp-content/uploads/2020/09/display-settings-3-2.png)
+
+ After resetting the resolution, open the launcher to check if it’s loading correctly. If not, try the next fix.
+
+---
+
+## Fix 2: Run the launcher as an administrator
+
+ Many issues can be fixed by running the program as an administrator. So for the black screen when opening Epic Games Launcher issue, you can try this too. To do this, you can:
+
+ 1) Right-click on the launcher shortcut from your desktop and select**Run as administrator** .
+
+![run Epic Games Launcher as administrator](https://images.drivereasy.com/wp-content/uploads/2020/09/run-epic-games-launcher-as-administrator.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
+ 2) Open the launcher to see if the screen is in black. If it is, move on to the next fix.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<!-- affiliate ads end -->
+## Fix 3: Update your graphics driver
+
+ When you have a black screen, whether on your computer or any app, your outdated or faulty graphics driver might be the culprit. If you can’t remember when was the last time you updated your graphics driver, then you should do it. And you can benefit a lot from updating the graphics driver. Because it can fix performance bottlenecks and introduce improvements that make games run significantly faster.
+
+ There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<!-- affiliate ads end -->
+### Option 1 – Manually update your graphics driver
+
+[NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , and[Intel](https://downloadcenter.intel.com/product/80939/Graphics-Drivers) keep updating drivers. To get them, you need to go to the official websites, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the drivers manually.
+
+ Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
+
+### **Option 2 – Automatically update your graphics driver** (recommended)
+
+ Manually updating drivers can be a challenge. You’ll need to identify your system specs, find the drivers, and then download and install them. If that sounds a lot, consider doing it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
+
+ 1) **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![update drivers automatically](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-driver-easy-1.png)
+
+ 3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, restart your computer for them to take effect.
+
+---
+
+## Fix 4: Adjust compatibility mode
+
+ Adjusting the compatibility mode has been tested to work for many gamers. So it’s worth a try.
+
+ 1) Right-click on the launcher shortcut from your desktop and select**Properties** .
+
+![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
+
+<!-- affiliate ads begin -->
+<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<!-- affiliate ads end -->
+ 2) Select the tab**Compatibility** and check the box**Run this program in compatibility mode for:** and make sure that**Windows 8** is selected. Then check the box**Disable fullscreen optimizations** . After that, click**Apply > OK** .
+
+![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-4.png)
+
+ 3) After applying the changes, open the launcher, and check if the problem is resolved. If not, proceed to the next fix.
+
+---
+
+## Fix 5: Run compatibility troubleshooter
+
+ Running the compatibility troubleshooter can help you find out the root of the problem and probably fix it. Here’s how to do this:
+
+ 1) Right-click on the launcher shortcut and select**Properties** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-1.png)
+
+ 2? Select the tab**Compatibility** and click**Run compatibility troubleshooter** . (Make sure that you’ve unchecked any boxes under the Compatibility tab.)
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-1-1.png)
+
+ 3) Once the window**Program Compatibility Troubleshooter** pops up, click**Try recommended settings** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-2-1.png)
+
+ 4) Click**Test the program** and you’ll be directed to the launcher.
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<!-- affiliate ads end -->
+ 5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-4.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
+
+ Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
+
+ DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
+ PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<!-- affiliate ads end -->
+ 6) If there’s no black screen on the launcher, then congratulations! You can choose**Yes, save these settings for this program** . Till then, enjoy your games.
+
+ If the problem persists, then select**No, try again using different settings** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-5.png)
+
+ 7) Uncheck the box **The program worked in earlier versions of Windows but won’t install or run now** . Then check the box**The program opens but doesn’t display correctly** and click**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-6-1.png)
+
+ 8) Check the box **Error message saying the problem needs to run in 256 colors or 8-bit color mode** . Then click**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-10.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 9) Check**Yes, try again using different settings,** and click**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-8.png)
+
+ 10) Click**Test the program…** \>**Next** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-11-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+ 11) Click**Yes, save these settings for this program** .
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-12.png)
+
+<!-- affiliate ads begin -->
+<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+12) Now, the issue is fixed.
+
+![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
+
+ If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
+
+---
+
+## Fix 6: Allow the launcher through the firewall
+
+ There is a possibility that your firewall blocks the launcher. So if this is your case, you’re supposed to allow the launcher through the firewall.
+
+ 1) In the**Search** box, type**firewall** . From the results, click**Firewall & network protection** .
+
+![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
+ 2) Scroll down and click**Allow an app through firewall** .
+
+![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-2.png)
+
+ 3) Go through the list and check if**Epic Games Launcher** is added to it.
+
+ If not, click**Change settings** and follow the on-screen instructions to add**Epic Games Launch** to the list and let it through the firewall.
+
+![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-3.png)
+
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you’ve done all of these, and still it’s a black screen when you open the launcher. Then try the next method.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<!-- affiliate ads end -->
+## Fix 7: Change your DNS server to the Google Public DNS
+
+ Sometimes changing the DNS server can fix many issues. So here you can also do this to fix the black screen issue.
+
+ 1) In the**Search** box, type**control panel** and click**Control Panel** from the results.
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/open-control-panel-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Click**Network and Internet** . (Note: make sure that it’s**View by: Category** .)
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet.png)
+
+ 3) Click**Network and Sharing Center** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-2.png)
+
+ 4) Click on your**Connections** , whether it’s**Ethernet, Wifi or others** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-3.png)
+
+ 5) Click**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-4.png)
+
+ 6) Click**Internet Protocol Version 4 (TCP /IPv4)** **\> Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/network-and-internet-5.png)
+
+ 7) Click**Use the following DNS server addresses:** .  
+ In**Preferred DNS server:** section, type**8888** .  
+ In**Alternate DNS server:** section, type**8844** .  
+ Then click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
+VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
+
+Key features:
+
+•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
+•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
+•	Visual effects, advanced color correction and trendy Instagram-like filters   
+•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
+•	Non-linear editing: edit several files with simultaneously 
+•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
+•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
+•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
+•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+</a>
+<!-- affiliate ads end -->
+---
+
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<!-- affiliate ads end -->
+## Fix 8: Flush the DNS cache
+
+ If you’ve changed the DNS server to Google Public DNS and still the app just displays a black screen, then you’re supposed to clear your DNS cache.
+
+To do this, simply follow the instructions below:
+
+ 1) Press **Windows logo key + R**  together on your keyboard. Type **cmd**  and press **Shift + Ctrl + Enter** at the same time.
+
+![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) When a prompt appears, simply click **Yes** .
+
+ 3) Type the command **ipconfig /flushdns** and hit **Enter** .
+
+![flush the DNS cache](https://images.drivereasy.com/wp-content/uploads/2020/09/flush-DNS-cache.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<!-- affiliate ads end -->
+ After successfully clearing your DNS cache, try opening your launcher again to check if it fixes the issue.
+
+---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 9: Change high DPI settings
+
+ 1) Right-click on the launcher’s shortcut and select**Properties** .
+
+![change high DPI settings Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ 2) Select the**Compatibility** tab and click**Change high DPI settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings.png)
+
+ 3) Check the box**Override high DPI scaling behavior** and click**OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-high-DPI-settings-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+---
+
+## Fix 10: Use a VPN
+
+ Many players reported that using a VPN when opening the launcher fixed the issue. So you can give it a shot. But be advised: lots of problems may arise if you use a free VPN. Therefore, we suggest you use a paid VPN.
+
+Below is the VPN we would like to recommend:
+
+* **[NordVPN](https://tools.techidaily.com/drivereasy/download/)**
+
+ There are reports claiming that using a VPN might result in accounts being banned. To be safe, consider it as the last resort.
+
+---
+
+ Found this post helpful? Then don’t forget to support us by using the creator code **` DRIVEREASY `**  . In connection with Epic Games’ Support-A-Creator Program, we may receive a commission from your in-game purchases, at no additional cost to you.
+
+**How can you support us?**
+
+ 1) Visit the[Epic Games Store](https://www.epicgames.com/store/en-US/) to see what games are available.  
+ 2) At checkout, enter the creator tag **`DRIVEREASY`**  . Your support is much appreciated!
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/image-4.png)
+
+* [black screen](https://tools.techidaily.com/drivereasy/download/)
+* [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-digital-footprints-on-instagram-effective-photo-watermarking/"><u>[New] 2024 Approved  Digital Footprints on Instagram  Effective Photo Watermarking</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premium-tvs-for-ps5-and-xbox-series-x-gamers-dreams/"><u>[New] Premium TVs for PS5 & Xbox Series X Gamers' Dreams</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-analyzing-huawei-p10s-impact-on-mobile-photography-trends/"><u>[Updated] Analyzing Huawei P10's Impact on Mobile Photography Trends</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-content-creation-in-the-digital-age-audio-vs-visual/"><u>2024 Approved  Content Creation in the Digital Age  Audio vs Visual</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-expertise-in-hdr-perfecting-dynamic-range-in-photoshop/"><u>2024 Approved  Expertise in HDR  Perfecting Dynamic Range in Photoshop</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-unlocking-a-world-of-possibits-with-macbook-airs-screen-recording-feature/"><u>2024 Approved  Unlocking a World of Possibits with MacBook Air's Screen Recording Feature</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024-guide-boost-your-wow-frame-rate-and-fix-low-fps-issues/"><u>2024 Guide: Boost Your WoW Frame Rate & Fix Low FPS Issues!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-iii-not-starting-up-expert-fixes-for-a-smooth-launch/"><u>Baldur's Gate III Not Starting Up? Expert Fixes for a Smooth Launch</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/best-pokemons-for-pvp-matches-in-pokemon-go-for-nokia-c110-drfone-by-drfone-virtual-android/"><u>Best Pokemons for PVP Matches in Pokemon Go For Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997951244-boost-your-elden-ring-gaming-experience-solving-fps-drop-and-stutter-issues-in-minutes/"><u>Boost Your Elden Ring Gaming Experience: Solving FPS Drop & Stutter Issues in Minutes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/check-for-overheating/"><u>Check for Overheating</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-fixes-for-counter-strike-2-failure-to-start-correctly/"><u>Common Fixes for Counter-Strike 2 Failure to Start Correctly</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-iphone-7-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking iPhone 7 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-the-code-no-more-freezing-in-rocket-league/"><u>Cracking the Code: No More Freezing in Rocket League</u></a></li>
+<li><a href="https://win-blog.techidaily.com/create-a-custom-action-to-create-custom-actions-visit-(httpsdevelopersgooglecomassistantsdkdocsweb-discovery)-and-click-on-web-discovery-follow-the-instruct471/"><u>Create a Custom Action: To Create Custom Actions, Visit <https://developers.google.com/assistant/sdk/docs/web-discovery> and Click on Web Discovery. Follow the Instructions Provided by Web Disco to Generate an App Engine URL for Your Action</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-fix-your-dota-2-vac-banning-problems/"><u>Effective Solutions to Fix Your Dota 2 VAC Banning Problems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1722968539043-effortless-updates-and-downloads-for-lenovo-thinkpad-drivers-safe-as-can-be/"><u>Effortless Updates and Downloads for Lenovo ThinkPad Drivers – Safe as Can Be!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-gaming-performance-conquering-frame-drops-and-unlocking-peak-fps-efficiency/"><u>Elevate Your Gaming Performance: Conquering Frame Drops & Unlocking Peak FPS Efficiency</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-game-lag-and-crashes-in-multiversus-a-comprehensive-guide-to-8-fixes/"><u>End Game Lag and Crashes in MultiVersus: A Comprehensive Guide to 8 Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-eliminating-lag-in-dota-2-fresh-tips-from-2024/"><u>Expert Advice on Eliminating Lag in Dota 2 - Fresh Tips From 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-praey-for-the-gods-pc-game-crashes-effective-solutions/"><u>Fix Praey for the Gods PC Game Crashes: Effective Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-relink-functionality-failures-in-granblue-fantasy-gameplay/"><u>Fixing 'Relink' Functionality Failures in Granblue Fantasy Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-elite-dangerous-pc-freezing-issues-top-solutions-explored/"><u>Fixing Elite Dangerous PC Freezing Issues - Top Solutions Explored</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-stuck-on-loading-screen-in-red-dead-redemption-2-tips-and-solutions/"><u>Fixing the 'Stuck on Loading Screen' In Red Dead Redemption 2 - Tips & Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-to-play-how-to-resolve-deathloop-not-starting-problems-effectively/"><u>Get to Play: How to Resolve Deathloop Not Starting Problems Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-your-windows-11-taskbar-back-on-track-a-step-by-step-guide/"><u>Getting Your Windows 11 Taskbar Back on Track: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-obs-not-capturing-your-screen-a-complete-guide/"><u>How to Fix OBS Not Capturing Your Screen: A Complete Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-your-division-2-crash-issues-instantly-and-effortlessly/"><u>How to Resolve Your Division 2 Crash Issues Instantly & Effortlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-solve-the-fifa-21-crash-problem-for-windows-users-detailed-guide/"><u>How to Solve the FIFA 21 Crash Problem for Windows Users - Detailed Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-huawei-nova-y71-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Huawei Nova Y71 Phones? | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-tweet-time-machine-capturing-the-essence-of-twitters-videos/"><u>In 2024, Tweet Time Machine  Capturing the Essence of Twitter's Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/leading-videography-programs-using-pictures-as-content-for-2024/"><u>Leading Videography Programs Using Pictures as Content for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-game-crash-issues-tips-for-a-smooth-dead-by-daylight-experience-in-2eighty-four/"><u>Overcoming Game Crash Issues: Tips for a Smooth Dead By Daylight Experience in 2Eighty-Four</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-preventing-assassins-creed-valhalla-from-crashing-on-desktops/"><u>Resolved: Fixes for Preventing Assassin's Creed Valhalla From Crashing on Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-windows-asteryoggles-troubleshoot-non-launching-steam-titles-on-pcs/"><u>Resolving Windows Asteryoggles: Troubleshoot Non-Launching Steam Titles on PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restoring-audibility-in-twitch-streams-effective-troubleshooting-techniques/"><u>Restoring Audibility in Twitch Streams: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-problem-when-your-razer-synapse-remains-closed/"><u>Solving the Problem When Your Razer Synapse Remains Closed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-crashes-expert-advice-on-making-helldivers-2-work-flawlessly-on-your-computer/"><u>Stop the Crashes: Expert Advice on Making Helldivers 2 Work Flawlessly on Your Computer</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-solving-a-non-responsive-alienware-command-center/"><u>Troubleshooting Tips: Solving a Non-Responsive Alienware Command Center</u></a></li>
+</ul></div>

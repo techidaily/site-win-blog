@@ -1,0 +1,209 @@
+---
+title: "Resolving the KurtzPel App Freezing Problem: A Step-by-Step Guide"
+date: 2024-08-23T12:43:29.268Z
+updated: 2024-08-24T12:43:29.268Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Resolving the KurtzPel App Freezing Problem: A Step-by-Step Guide"
+excerpt: "This Article Describes Resolving the KurtzPel App Freezing Problem: A Step-by-Step Guide"
+thumbnail: https://thmb.techidaily.com/954afef8b3467f4a3bd6be4e616e7e9c0c40d6a5dfa6d1b3e758e9ac9f354ba6.jpg
+---
+
+## Fall Guys for PC - Resolve Freezing Problems Quickly
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/fall-guys-feature-img-1200x675.jpg)
+
+**Fall Guys** is lit, but it’s still a new game, which means players should expect a series of game errors, such as crashing, lagging and freezing. If Fall Guys keeps**freezing** during your game, you can try these methods to fix it.
+
+## Try these fixes
+
+ You may not need to try all of them. Simply work your way down until you find the one that does the trick.
+
+1. [**Lower in-game settings**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Disable Steam overlay**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Verify your game files**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Stop overclocking your hardware**](https://tools.techidaily.com/drivereasy/download/)
+6. [**Disable your peripherals**](https://tools.techidaily.com/drivereasy/download/)
+7. **[Check if it’s a server problem](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Lower in-game settings
+
+ Sometimes your game freezes when it’s graphically too challenging for your computer. If you’re not sure whether your gaming rig meets the game requirements, try**lowering the in-game settings** and see how it goes. This can also root out some compatibility issues when a new game is still improving on optimization.
+
+#### Fall Guys: Ultimate Knockout system requirements (Minimum)
+
+| **Supported OS** :  | Windows 10 64-bit only               |
+| ------------------- | ------------------------------------ |
+| **Processor** :     | Intel Core i5 or AMD equivalent      |
+| **RAM:**            | 8 GB                                 |
+| **Graphics Card** : | NVIDIA GTX 660 or AMD Radeon HD 7950 |
+
+You can lower your in-game graphics settings according to the list below:
+
+* Preset: Custom
+* Resolution: 1920×1080 60Hz
+* Windowed: Off
+* V-Sync: Off
+* Texture Detail: Half Res
+* Shadows Detail: Low
+* Motion Blur: Off
+* Bloom: Off
+* Depth Of Field: Off
+* Ambient Occlusion: None
+* Antialiasing: None
+* Anisotropic Filtering: Off
+* Screen Space Reflections: None
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/fall-guys-low-settings.jpg)
+
+ If Fall Guys still freezes at the lowest graphics settings, please take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<!-- affiliate ads end -->
+### Fix 2: Disable Steam overlay
+
+ Some gamers reported that the freezing issue might be related to the Steam Overlay feature, so you can try to disable this function and see whether it helps or not.
+
+Here’s how:
+
+1. Open Steam client and click**Steam** on the top left corner. Select**Settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
+2. Navigate to the**In-Game** tab, uncheck these boxes to disable the overlay feature. Click**OK** to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
+3. Launch Fall Guys and see if it freezes again.
+
+ If this fix doesn’t give you any luck, please move on to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3: Update your graphics driver
+
+ In some cases, you’ll have glitches during the game if you’re using a**faulty or outdated graphics driver** . That’s why updating your graphics driver is usually the thumb rule when troubleshooting game errors. Driver updates not only repair bugs but often come with a performance boost.**Updating your graphics driver** could be a potential fix to the freezing issue.
+
+ You can update your graphics drivers manually, by going to the manufacturer’s website ([**NVIDIA**](https://tools.techidaily.com/drivereasy/download/)   **/[AMD](https://www.amd.com/en/support)**  ) and searching for the most recent correct driver. If you don’t have the time, patience or computer skills to update your video and monitor drivers manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  :
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
+3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<!-- affiliate ads end -->
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your graphics driver, restart your computer and check if Fall Guys freezes again.
+
+ If updating the graphics driver does you no good, please continue to the next method.
+
+### Fix 4: Verify your game files
+
+ Corrupted game files can also cause your game to behave abnormally. So you can run some tests to verify the integrity of your game files.
+
+And here’s how to do it:
+
+1. Open the Steam client and navigate to the**LIBRARY** tab.**Right-click** Fall Guys and select **Properties** .
+2. Navigate to the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** . Then wait until the process to complete.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/fall-guys-verify-game-files.jpg)
+3. Launch Fall Guys and test your gameplay.
+
+If the issue reappears, simply check out the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<!-- affiliate ads end -->
+### Fix 5: Stop overclocking your hardware
+
+ Many people would like to exploit the full potential of their hardware by overclocking. It’s true that overclocking gives you a zero-cost performance boost, but the instability it brings along is also prominent.
+
+ If you’re overclocking your CPU or GPU, you can try stopping it before launching Fall Guys, by closing apps like**MSI Afterburner** and**Intel XTU** or by**restoring BIOS settings** .
+
+If you’re not overclocking, go on and try the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="720" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Disable your peripherals
+
+ If you’re using peripherals (e.g. controllers) with Fall Guys, try disabling them before starting the game. There’re reports that gamers stop having crashes or freezes after disconnecting their peripherals.
+
+ This usually indicates a driver issue with your peripherals. You can try installing or updating drivers for your peripherals, either by visiting the manufacturer’s website, or by using[Driver Easy](https://tools.techidaily.com/drivereasy/download/) , a smart driver downloader.
+
+ If the freezing issue is not peripheral-related, take a look at the last method.
+
+### Fix 7: Check if it’s a server problem
+
+ If you tried all the methods above and none of them works, you should then check if it’s just a server problem. Fall Guys is still a new game, and the surge of players could crash the server from time to time. You can check out the[Fall Guys Server Owl Twitter](https://twitter.com/fallguysowl?lang=en) to see if the server’s down. Or you can visit the[Fall Guys support page](https://support.fallguys.com/hc/en-us) and consult the staff.
+
+---
+
+ So these are the solutions to your Fall Guys freezing issue. Hopefully, your game has stopped freezing and you can easily grab a crown now. As always, if you got any questions or suggestions, please feel free to leave a message.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-brainy-brigade-top-11-quiz-channels/"><u>[New] 2024 Approved  Brainy Brigade  Top 11 Quiz Channels</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-ignite-engagement-on-twitch-alive-tweeting-techniques/"><u>[New] Ignite Engagement on Twitch  Alive Tweeting Techniques</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-instagram-acclaim-the-easy-guide-for-followers/"><u>[New] Instagram Acclaim  The Easy Guide for Followers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-twitter-vids-to-mp3-easy-extraction-techniques/"><u>[New] Twitter Vids to MP3  Easy Extraction Techniques</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-living-life-fully-on-facebook-tips-for-active-engagement/"><u>2024 Approved  Living Life Fully on Facebook  Tips for Active Engagement</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/asus-notebook-drivers-free-download-and-update-instructions/"><u>ASUS Notebook Drivers: Free Download and Update Instructions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cortana-not-responding-a-step-by-step-guide-to-get-it-back-on-track/"><u>Cortana Not Responding? A Step-by-Step Guide to Get It Back on Track</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-graphics-glitch-ensuring-proper-gpu-utilization-on-windows-11/"><u>Cyberpunk 2077 Graphics Glitch: Ensuring Proper GPU Utilization on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-strategies-for-success-navigating-the-world-of-roller-champions-crossplay-on-pc-a-2024-update/"><u>Expert Strategies for Success: Navigating the World of Roller Champions Crossplay on PC - A 2024 Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-elden-rings-startup-black-screen-glitch/"><u>Expert Tips for Fixing Elden Ring’s Startup Black Screen Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-wont-start-check-your-save-files-and-resolve-issues/"><u>Game Won't Start? Check Your Save Files & Resolve Issues</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-missing-call-logs-from-oppo-by-fonelab-android-recover-call-logs/"><u>How To  Restore Missing Call Logs from Oppo</u></a></li>
+<li><a href="https://techidaily.com/how-to-hard-reset-honor-90-gt-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Honor 90 GT Without Password | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ie-troubles-tackled-ensuring-smooth-website-loading/"><u>IE Troubles Tackled: Ensuring Smooth Website Loading</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-jpgpng-images-transformation-iphones-pdf-creation-guide/"><u>In 2024, JPG/PNG Images Transformation  IPhone's PDF Creation Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/itunes-error-resolved-pandora-points-out-potential-trouble-with-your-audio-settings/"><u>ITunes Error Resolved: Pandora Points Out Potential Trouble with Your Audio Settings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lost-connection-woes-in-terraria-master-these-6-fixes-to-get-back-on-track/"><u>Lost Connection Woes in Terraria? Master These 6 Fixes to Get Back on Track!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-stability-7-crucial-tips-to-prevent-diablo-iv-crashes-across-consoles-and-pc/"><u>Master the Art of Stability: 7 Crucial Tips to Prevent Diablo IV Crashes Across Consoles and PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/problem-solved-re-establishing-link-with-world-of-warcraft-servers/"><u>Problem Solved: Re-Establishing Link with World of Warcraft Servers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-game-nightmares-proven-methods-to-stop-state-of-decay-2-from-freezing-up/"><u>Resolve Your Game Nightmares: Proven Methods to Stop State of Decay 2 From Freezing Up</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-ghostrunners-critical-crashes-in-windows-10-a-step-by-step-guide/"><u>Resolving Ghostrunner's Critical Crashes in Windows 10: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-swtor-game-startup-problems-a-comprehensive-guide/"><u>Resolving SWTOR Game Startup Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-resolving-the-critical-bug-known-as-fatal-error-ark/"><u>Step-by-Step Guide: Resolving the Critical Bug Known as 'Fatal Error Ark'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-frustration-effective-fixes-to-stop-age-of-ashes-from-pc-crashing/"><u>Stop the Frustration: Effective Fixes to Stop 'Age of Ashes' From PC Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-guide-why-your-windows-spatial-audio-isnt-working/"><u>Troubleshoot Guide: Why Your Window's Spatial Audio Isn't Working</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-lag-in-the-latest-avatar-the-game/"><u>Troubleshooting Lag in the Latest 'Avatar: The Game'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-fixing-exit-code-0-issues-in-minecraft/"><u>Troubleshooting Tips for Fixing Exit Code 0 Issues in Minecraft</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-hyper-v-potential-installation-instructions-for-windows-11-users/"><u>Unlocking Hyper-V Potential: Installation Instructions for Windows 11 Users</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/your-guide-to-premium-metaverse-goggles-and-headsets-for-2024/"><u>Your Guide to Premium Metaverse Goggles & Headsets for 2024</u></a></li>
+</ul></div>
