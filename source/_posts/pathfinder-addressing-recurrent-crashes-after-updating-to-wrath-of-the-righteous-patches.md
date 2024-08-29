@@ -1,0 +1,237 @@
+---
+title: "Pathfinder: Addressing Recurrent Crashes After Updating to Wrath of the Righteous Patches"
+date: 2024-08-28T05:57:11.375Z
+updated: 2024-08-29T05:57:11.375Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Pathfinder: Addressing Recurrent Crashes After Updating to Wrath of the Righteous Patches"
+excerpt: "This Article Describes Pathfinder: Addressing Recurrent Crashes After Updating to Wrath of the Righteous Patches"
+thumbnail: https://thmb.techidaily.com/3f22ae9e837b10e05053cf12480b5c15e8d166c20b49b11db4fda3e3ee1b2757.jpg
+---
+
+## How to Stop Pathfinder: Wrath of the Righteeous From Suddenly Crashing - Issues Resolved
+
+![Pathfinder: Wrath of the Righteous keeps crashing on PC](https://images.drivereasy.com/wp-content/uploads/2021/09/Pathfinder-Wrath-of-the-Righteous-keeps-crashing-on-PC-1200x675.jpg)
+
+ A screenshot of Pathfinder: Wrath of the Righteous from Steam
+
+ If**Pathfinder: Wrath of the Righteous keeps crashing** on your Windows PC, don’t worry. Although it’s quite frustrating, you’re definitely not the only person that experiences this issue. The good news is you’ve come to the right place, and you should be able to fix this issue easily after reading this article.
+
+## The system requirements of Pathfinder: Wrath of the Righteous for Windows PC
+
+ Ensure that your PC meets the system requirements of Pathfinder: Wrath of the Righteous first. If you don’t know the system requirements of the game, just take a quick glance at the table below:
+
+| System requirements | Minimum                                  | Recommended                     |
+| ------------------- | ---------------------------------------- | ------------------------------- |
+| **OS:**             | Windows 7 64bit                          | Windows 10 64bit                |
+| **Processor:**      | Intel(R) Core(TM) i3-2310M CPU @ 2.10GHz | Intel Core i7 CPU 920 @ 2.67GHz |
+| **Memory:**         | 6 GB RAM                                 | 8 GB RAM                        |
+| **Graphics:**       | Intel(R) Intel HD Graphics 620           | NVIDIA GeForce GTX 1050 Ti      |
+| **Storage:**        | 50 GB available space                    | 50 GB available space           |
+
+ Pathfinder: Wrath of the Righteous system requirements
+
+ If your PC fails to meet the system requirements of the game, you may need to upgrade your PC first.
+
+ If the game keeps crashing on your powerful PC, just read on and try the fixes below.
+
+## Try these fixes
+
+ Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all. Just work your way down the list until you find the one that works for you.
+
+1. **[Verify integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Install the latest game patch](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
+6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
+## Verify integrity of game files
+
+ The game may not work as expected if some important game files are missing or corrupted, as the game file corruption usually lead to game crashes.
+
+ If it’s the case, you need to veirfy and repair game files in Steam. Here’s how to do it:
+
+1. Launch **Steam** and go to your **Library** .
+2. **Right-click** on **Pathfinder: Wrath of the Righteous** and select **Properties** .  
+![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
+
+ Depending on the size of the game files, it may take some time to verify all your game files.
+
+ Run Pathfinder: Wrath of the Righteous after the verifying process is complete and see if the game crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Update your graphics driver
+
+ Graphics driver is essential to the functioning of video games. If Pathfinder: Wrath of the Righteous keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
+
+ If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the **[FREE](https://tools.techidaily.com/drivereasy/download/)**  or the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+**Note** : You can do it for free if you like, but it’s partly manual.
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. Restart your PC for the changes to take effect.
+
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+## Install the latest game patch
+
+ The developer of Pathfinder: Wrath of the Righteous releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
+
+ If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
+
+ Launch Pathfinder: Wrath of the Righteous again and check if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
+
+## Disable overlays
+
+ Overlays sometimes would interfere with the game and even block the game files. You can try disabling Steam Overlay for Pathfinder: Wrath of the Righteous and see if the game crashes again:
+
+1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Pathfinder: Wrath of the Righteous_ . Then select **Properties** .  
+![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
+2. Uncheck **Enable Steam Overlay while in-game** .  
+![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+ If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
+
+ Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Temporarily disable anti-virus software
+
+ Many 3rd party antivirus software often block important game files. Once some important game files are blocked, the game would crash.
+
+ You can try adding both the game folder and Steam as an exception to your third-party antivirus application. If necessary, temporarily disable the 3rd party antivirus software before playing the game.
+
+ Launch Pathfinder: Wrath of the Righteous and see if the game crashes after you disabled the anti-virus software on your PC.
+
+If this fix didn’t work, try the next fix to perform a clean boot.
+
+## Perform a clean boot
+
+ Pathfinder: Wrath of the Righteous will crash if there’s a certain app conflicting with it. If you’re not sure which app is conflicting with the game, you need to perform a clean boot to find it out.
+
+Here’s how to do it:
+
+1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
+![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
+2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
+3. Select the **Startup** tab and click **Open Task Manager** .  
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
+4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+</a>
+<!-- affiliate ads end -->
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
+5. Go back to the **System Configuration** window and click **OK** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<!-- affiliate ads end -->
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
+6. Click **Restart** to restart your PC.  
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
+![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
+
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
+**Restart** your PC and launch Pathfinder: Wrath of the Righteous to check if the game crashes again. If not, open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
+
+ After enabling each services, you need to restart your PC to apply the changes.
+
+ Once you find out the problematic software that crashes Pathfinder: Wrath of the Righteous, you can **uninstall** it to avoid game crashing issues in the future.
+
+ If the crashing issue reappears after you disabled all the 3rd party apps and services, try reinstalling Pathfinder: Wrath of the Righteous.
+
+ Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
+
+**Tips:**
+
+ If these common fixes didn’t help you fix the Pathfinder: Wrath of the Righteous crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article: [How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
+
+---
+
+ Hopefully, one of the fixes above helped you fix the Pathfinder: Wrath of the Righteous crashing issue. Feel free to drop a line in the comment area below if you have any questions or suggestions. Thanks for reading!
+
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-masterclass-syncing-your-social-media-with-urls/"><u>[New] 2024 Approved  Masterclass  Syncing Your Social Media with URLs</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-increasing-your-youtube-traffic-with-100kplus-view-goals/"><u>[New] Increasing Your YouTube Traffic with 100K+ View Goals</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-3d-worlds-on-your-android-mastering-vr-and-360-videos/"><u>[Updated] 3D Worlds on Your Android  Mastering VR & 360 Videos</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-chroma-control-made-simple-with-these-11-expert-tips-for-2024/"><u>[Updated] Chroma Control Made Simple with These 11 Expert Tips for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-craft-your-own-story-10-best-cost-free-ios-photo-collage-tools/"><u>[Updated] Craft Your Own Story  10 Best, Cost-Free iOS Photo Collage Tools</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-innovative-high-definition-software-top-8-free-listings/"><u>[Updated] Innovative High Definition Software  Top 8 FREE Listings</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-profitable-pursuits-on-youtube-the-non-ad-revenue-roadmap/"><u>[Updated] Profitable Pursuits on YouTube  The Non-Ad Revenue Roadmap</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-fast-fixes-to-restore-your-oculus-link-from-a-disruptive-black-screen-glitch/"><u>6 Fast Fixes to Restore Your Oculus Link From a Disruptive Black Screen Glitch</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-error-code-963-on-google-play-of-nokia-c110-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Error Code 963 on Google Play Of Nokia C110 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012394773-achieve-maximum-power-with-mass-effect-legendary-eds-first-person-shooter-rewards/"><u>Achieve Maximum Power with Mass Effect Legendary Ed.'s First-Person Shooter Rewards</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-pc-stability-issues-resolved/"><u>Assassin's Creed Valhalla - PC Stability Issues Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-issues-with-battlenet-a-comprehensive-fix-guide/"><u>Battling Issues with Battle.Net - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-fortnite-startup-issues-effortless-fix-steps-inside/"><u>Conquer Fortnite Startup Issues: Effortless Fix Steps Inside</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/crackling-speaker-issue-in-windows-operating-systems-117-a-comprehensive-fix/"><u>Crackling Speaker Issue in Windows Operating Systems 11/7: A Comprehensive Fix</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/empowering-home-efficiency-through-chatgpt-utilization/"><u>Empowering Home Efficiency Through ChatGPT Utilization</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-graphics-performance-in-valheim-a-comprehensive-guide-to-fixing-low-fps-202n4-edition/"><u>Enhancing Graphics Performance in Valheim: A Comprehensive Guide to Fixing Low FPS (202N4 Edition)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-unfixable-tackling-alan-wake-expert-advice-players/"><u>Fixing the Unfixable? Tackling Alan Wake 지미클러스트 - Expert Advice Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-chivalry-2-high-ping-and-lag-issues-2024-tips/"><u>How to Fix Chivalry 2 High Ping and Lag Issues [2024 Tips]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-midgard-tribes-crash-a-step-by-step-guide/"><u>How to Fix the Midgard Tribes Crash - A Step-by-Step Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor 70 Lite 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/in-depth-analysis-of-modern-warfare-3s-frame-rate-drops-and-stuttering-challenges-a-2024-review/"><u>In-Depth Analysis of Modern Warfare 3'S Frame Rate Drops and Stuttering Challenges - A 2024 Review</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/journey-through-ipodverse-mastering-iphones-podcast-downloads-for-2024/"><u>Journey Through iPodverse  Mastering iPhone's Podcast Downloads for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-launch-errors-a-modern-guide-to-starting-hogwarts-legacy-seamlessly-224/"><u>Mastering Launch Errors: A Modern Guide to Starting Hogwarts Legacy Seamlessly (2#24)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-league-of-legends-expert-tips-to-eliminate-the-games-troublesome-black-screen/"><u>Mastering League of Legends : Expert Tips to Eliminate the Game's Troublesome Black Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-flight-simulator-2020-eliminate-those-frustrating-pc-crashes-once-and-for-all/"><u>Microsoft Flight Simulator 2020: Eliminate Those Frustrating PC Crashes Once and for All</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-initialization-issues-a-guide-to-running-fall-guys-smoothly-without-crashes/"><u>Overcoming Initialization Issues: A Guide to Running Fall Guys Smoothly Without Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-lag-expert-advice-to-speed-up-ubisoft-connect-file-downloads/"><u>Overcoming Lag: Expert Advice to Speed Up Ubisoft Connect File Downloads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-constant-dayz-game-crashes-with-these-easy-fixes/"><u>Say Goodbye to Constant DayZ Game Crashes with These Easy Fixes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-valheim-lag-issues-quick-ping-reduction-tips-for-winpc/"><u>Solve Your Valheim Lag Issues - Quick Ping Reduction Tips for WinPC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/strategies-for-effortless-insertion-of-videos-into-youtube-compilations-for-2024/"><u>Strategies for Effortless Insertion of Videos Into YouTube Compilations for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-how-to-resolve-recurring-discord-app-failures/"><u>Troubleshooting Tips: How to Resolve Recurring Discord App Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unstuck-dota-2-boot-up-solutions-for-when-the-game-gets-stuck-on-initial-load/"><u>Unstuck Dota 2 Boot-Up: Solutions For When the Game Gets Stuck on Initial Load</u></a></li>
+</ul></div>

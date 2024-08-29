@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Possibilities with Hyperlink in MS Excel: Discover 6 Key Ways to Use It"
-date: 2024-08-28 23:23:32
-updated: 2024-08-29 11:34:11
+date: 2024-08-28T05:42:43.716Z
+updated: 2024-08-29T05:42:43.716Z
 tags:
   - excel
 categories:
@@ -27,6 +27,9 @@ With the HYPERLINK function, you can enter a file path or URL with the sheet, ce
 
  Excel offers its own [built-in linking feature in the toolbar](https://tech-revival.techidaily.com/enhance-your-at-home-workflow-with-these-6-ingenious-uses-of-chatgpt/). But the HYPERLINK function lets you do more, like a link to a workbook on your company intranet, shared server, another drive, or even a bookmark in a Word document. Let's look at everything you can do with this versatile function.
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  What Is the HYPERLINK Function?
 
  HYPERLINK in Excel is a function for [creating clickable links](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/) to all sorts of places and objects. You could, of course, do some of the same things that HYPERLINK does using the Link tool in Excel. However, a [formula](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) gives you finer control of the link, and HYPERLINK is a simple function to learn that can get you comfortable with creating formulas in general. Additionally, HYPERLINK lets you link directly to a specific cell or defined name.
@@ -41,6 +44,14 @@ With the HYPERLINK function, you can enter a file path or URL with the sheet, ce
 
 Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.techidaily.com/new-secure-and-unshakable-direct-url-addition-on-your-tiktok-profile/) 
 
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  1\. Link to a Cell in the Spreadsheet
 
  To link to a certain cell in the current spreadsheet, you'll include the file name, sheet name, and cell reference. Notice that you place the file name in brackets and the entire argument in quotes.
@@ -51,6 +62,9 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link within the current sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkCurrentSheet-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<!-- affiliate ads end -->
  To link to the same file, sheet, and cell, but use a friendly name for the link like "Go to A6", you can use this formula:
 
 =HYPERLINK("[HTG_Desktop.xlsx]Sheet1!A6","Go to A6")
@@ -67,6 +81,9 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link to a cell in another sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherSheet-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can also insert the [CELL function](https://support.microsoft.com/en-us/office/cell-function-51bd39a5-f338-4dbe-a33f-955d67c2b2cf) as the `location` argument rather than typing the file name. Here's the formula for linking to the same cell as above:
 
 =HYPERLINK(CELL("address",Sheet2!B2))
@@ -79,6 +96,12 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK and CELL functions with a cell as display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherSheetCELLText-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<!-- affiliate ads end -->
 ##  3\. Link to a Defined Name
 
  Maybe you'd like to link to a [named range of cells](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) in the current or another Excel workbook. In this case, you'll add brackets around the path directly before the defined name.
@@ -89,18 +112,30 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link a defined name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkCurrentDefinedName-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
  To link to the defined name Totals in a different workbook, you'll enter the complete path in brackets followed by the cell range name like this:
 
 =HYPERLINK("[C:\\Users\Sandy\Desktop\MyDataEntryForm.xlsx]Totals")
 
 ![HYPERLINK function to link a defined name in another sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDefinedName-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  To use something different for the display text, in either example, simply add it to the second argument:
 
 =HYPERLINK("[HTG_Desktop.xlsx]Scores","Go There")
 
 ![HYPERLINK function to link a defined name with display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDefinedNameText-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  4\. Link to a Workbook on Another Drive
 
 [Linking to an Excel file](https://extra-approaches.techidaily.com/new-reviewing-the-unseen-facebooks-privacy-and-security-guide/) on a different drive on your computer is another option. You can also link directly to a cell or named range if needed.
@@ -177,3 +212,36 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-beginners-guide-to-iphone-video-capture/"><u>[Updated] Beginner's Guide to Iphone Video Capture</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-from-device-to-desktop-fastest-file-transfers-to-your-computer/"><u>[Updated] From Device to Desktop  Fastest File Transfers to Your Computer</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-the-infographic-lens-on-2017s-youtube-numerical-truths/"><u>2024 Approved  The Infographic Lens on 2017'S Youtube Numerical Truths</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992858068-2024s-definitive-guide-to-solving-biomutants-pc-stability-and-eliminating-crashes-for-gamers/"><u>2024'S Definitive Guide to Solving Biomutant's PC Stability and Eliminating Crashes for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/adobe-troubleshooting-guide-fixing-application-launch-problem-with-error-message-0xc0000022/"><u>Adobe Troubleshooting Guide: Fixing Application Launch Problem with Error Message 0Xc0000022</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722989876587-bid-farewell-to-stutter-in-overwatch-quick-fixes-inside/"><u>Bid Farewell to Stutter in Overwatch – Quick Fixes Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-black-ops-4-performance-boost-eliminating-lag-and-fps-decreases-for-a-smoother-playthrough/"><u>Call of Duty: Black Ops 4 Performance Boost - Eliminating Lag and FPS Decreases for a Smoother Playthrough</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clearing-up-the-confusion-dealing-with-black-screens-on-discord-during-presentations/"><u>Clearing Up the Confusion: Dealing with Black Screens on Discord During Presentations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007308347-difficulties-initializing-diablo-ii-resurrected-heres-what-you-need-to-know/"><u>Difficulties Initializing Diablo II: Resurrected? Here’s What You Need to Know!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/digital-dynamo-unleashing-videoviral-impact/"><u>Digital Dynamo  Unleashing #VideoViral Impact</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/easy-methods-for-retrieving-asus-routers-wi-fi-driver-software/"><u>Easy Methods for Retrieving ASUS Router's Wi-Fi Driver Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-stop-no-rest-for-the-wicked-from-crashing-on-windows/"><u>Effective Solutions to Stop 'No Rest for the Wicked' From Crashing on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-black-screen-problems-in-call-of-duty-wwii-on-windows-solution-guide/"><u>How to Fix 'Black Screen' Problems in Call of Duty: WWII on Windows - Solution Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-cannot-establish-opengl-context-for-qsurfaceformat/"><u>How to Fix 'Cannot Establish OpenGL Context for QSurfaceFormat'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-stuck-shader-compilation-error-in-cod-black-ops-cold-war/"><u>How to Overcome the Stuck Shader Compilation Error in COD Black Ops Cold War</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-oppo-reno-9a-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Oppo Reno 9A in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-fixing-pc-instability-during-starfield-gameplay-an-expert-guide/"><u>Master the Art of Fixing PC Instability During Starfield Gameplay: An Expert Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-3-gameplay-restored-effective-fixes-for-the-memorable-error-12707/"><u>Modern Warfare 3 Gameplay Restored: Effective Fixes for the Memorable Error 12707</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-issues-with-the-nvidia-control-panel-not-opening-or-crashing/"><u>Navigating Through Issues With the Nvidia Control Panel Not Opening or Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/new-and-improved-bioshock-2-say-goodbye-to-game-interruptions/"><u>New and Improved BioShock 2 - Say Goodbye to Game Interruptions!</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/newcard-screen-blackout-problem/"><u>NewCard Screen Blackout Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-made-easy-resolving-the-ascent-stability-issues-and-continuous-freezes/"><u>PC Gaming Made Easy - Resolving 'The Ascent' Stability Issues and Continuous Freezes</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/prime-tv-streaming-and-local-channel-bundles/"><u>Prime TV Streaming & Local Channel Bundles</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/-resize-youtube-videos-to-right-aspect-ratio-on-mac-for-2024/"><u>Quick Resize YouTube Videos to Right Aspect Ratio on Mac for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012172491-resolving-dota-2-stability-issues-step-by-step-solutions/"><u>Resolving Dota 2 Stability Issues - Step-by-Step Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-troubleshooting-cannot-reach-live-config-servers-mistake/"><u>Solving the Issue: Troubleshooting 'Cannot Reach Live Config Servers' Mistake</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-fixing-finals-not-releasing-tips-for-202e/"><u>Step-by-Step Solutions for Fixing Finals Not Releasing - Tips for 202E</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-discord-latency-comprehensive-troubleshooting-guide/"><u>Stop Discord Latency: Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/which-linguistic-powerhouse-wins-comparing-chatgpt-to-huggingface-capabilities/"><u>Which Linguistic Powerhouse Wins? Comparing ChatGPT to HuggingFace Capabilities</u></a></li>
+</ul></div>

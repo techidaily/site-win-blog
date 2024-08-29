@@ -1,7 +1,7 @@
 ---
 title: 1. Top 5 Features Excel Users Hope to Enhance
-date: 2024-08-26 21:19:37
-updated: 2024-08-29 12:37:29
+date: 2024-08-28T05:41:57.889Z
+updated: 2024-08-29T05:41:57.889Z
 tags:
   - excel
 categories:
@@ -41,6 +41,10 @@ Lucas Gouveia / How-To Geek | [selinofoto](https://www.shutterstock.com/image-ph
 
 ![Dollar sign built out of yellow LEGO bricks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/a40e8d94.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
+WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<!-- affiliate ads end -->
 _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-made-by-brick-743325682)_
 
  Moreover, Microsoft no longer supports one-time purchases. So, while you'll still get security updates, you won't get any new features, and once you've set it up on your computer, Microsoft won't help you with any other issues you have.
@@ -49,16 +53,25 @@ _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-m
 
  Since Microsoft's primary competitor, Google, offers users the best version of its spreadsheet software for free, it would seem right for Microsoft to strive to do the same. On the other hand, if Microsoft can't offer it for free, there should be better options available for those who want to use only Excel, such as subscription plans for individual programs.
 
+<!-- affiliate ads begin -->
+<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Excel Shouldn't Break Your Computer
 
  Excel is notorious for the vast memory it consumes on your computer, especially if you're trying to work on a spreadsheet with complex formatting or operations. If you're on a lower-spec device, you can forget about creating an all-singing-all-dancing spreadsheet without causing your system to slow or crash. While my [tips to speed up your spreadsheet](https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/) might help, adding advanced tools, such as macros or add-ins, can cause frustrating issues with the program's performance.
 
 ![Man looking at laptop screen with frustrated expression.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/frustrated-man-laptop.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
 _[fizkes / Shutterstock.com](https://www.shutterstock.com/image-photo/frustrated-black-male-student-work-laptop-1463228459)_
 
  Many people who use Excel don't necessarily need to use all of its advanced features, so a slimline version of the program for quick and easy spreadsheet work would address its well-known complexity and performance issues. Those of us who do want to use Excel to its full capacity should be able to do so without worrying about it crashing our devices.
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
 ##  Excel Should Spot Human Errors
 
  Yes, Excel will sometimes flag formula inconsistencies (for example, if you have a column of formulas and one cell contains a formula that is different from the others), but one single typo in a formula could destroy a whole spreadsheet's functionality. Excel is too sensitive to errors without offering too much of a solution to overcome such sensitivity.
@@ -67,6 +80,9 @@ _[fizkes / Shutterstock.com](https://www.shutterstock.com/image-photo/frustrated
 
 ![Copilot and Cortana logos with an alert icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/copilot-and-cortana-logos-with-an-alert-icon.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek
 
  I'm sure some big corporations would agree.
@@ -87,6 +103,18 @@ Lucas Gouveia / How-To Geek
 
 ![An Excel spreadsheet with an error message reading 'You can't do that to a merged cell.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/merge-error-2.png) 
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="1080" height="1620" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Instead, it's better to use the [Center Across Selection](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g73-5g-by-drfone-android/) tool, which results in the cells being merged but the cells' structures being retained.
 
  Since I discovered this alternative and better way to present my data in Excel, I've not once used the program's Merge And Center tool, and I would bet that others would be of the same view. So, instead of having the Merge And Center icon in the Home tab on the ribbon, Excel should have the Center Across Selection option as a default tool, not least because this supports the spreadsheet's long-term structural integrity more than the Merge And Center option does.
@@ -109,3 +137,73 @@ Lucas Gouveia / How-To Geek
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/among-us-gaming-perfection-your-ultimate-guide-to-avoid-crashes-and-glitches-2veled-by-experts-for-gamers/"><u>'Among Us' Gaming Perfection: Your Ultimate Guide to Avoid Crashes & Glitches - 2Veled by Experts for Gamers</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ssential-asmr-channel-discoveries/"><u>[New] Essential ASMR Channel Discoveries</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-capturing-every-moment-unveiling-5-exceptional-streamer-webcams/"><u>[Updated] 2024 Approved  Capturing Every Moment  Unveiling 5 Exceptional Streamer Webcams</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-embellish-your-discord-conversations-like-a-pro/"><u>[Updated] 2024 Approved  Embellish Your Discord Conversations Like a Pro</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-facebooks-rivalry-with-social-media-comparing-tiktok-and-snap/"><u>[Updated] 2024 Approved  Facebook's Rivalry with Social Media  Comparing TikTok & Snap</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-comparative-study-of-youtubes-and-dailymentions/"><u>[Updated] Comparative Study of YouTubes and DailyMentions</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-discover-the-spectrum-of-hand-tracking-for-2024/"><u>[Updated] Discover The Spectrum of Hand Tracking for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-juggling-youtube-success-and-full-time-work-a-guide/"><u>[Updated] Juggling YouTube Success & Full-Time Work  A Guide</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-saying-thanks-access-to-otu-creations-freepaid/"><u>[Updated] Saying Thanks  Access to OTU Creations (Free/Paid)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-fabricate-comical-artwork-adobe-style/"><u>2024 Approved  Fabricate Comical Artwork, Adobe Style</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-optimal-use-of-zoom-on-chrome-os-devices/"><u>2024 Approved  Optimal Use of Zoom on Chrome OS Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-blues-comprehensive-solutions-for-stable-fifa-21-gameplay-on-pc/"><u>Beat the Blues: Comprehensive Solutions for Stable FIFA 21 Gameplay on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-issues-resolve-freezing-in-google-chrome-on-windows-10-easily/"><u>Bypassing Issues: Resolve Freezing in Google Chrome on Windows 10 Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/civilization-vi-wont-start-fix-your-game-with-these-tips-for-windows-10-users/"><u>Civilization VI Wont Start? Fix Your Game with These Tips for Windows 10 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010154676-cyberpunk-2077-no-longer-freezes-issues-resolved/"><u>Cyberpunk 2077 No Longer Freezes: Issues Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/direct-x-errors-on-fifa-20-solutions-for-a-seamless-experience/"><u>DIRECT X Errors on FIFA 20: Solutions for a Seamless Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/directdraw-complications-cracked-expert-tips-for-smooth-resolution-steps/"><u>DirectDraw Complications Cracked: Expert Tips for Smooth Resolution Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722998832947-elden-ring-players-rejoice-multiplayer-feature-fixed/"><u>Elden Ring Players Rejoice: Multiplayer Feature Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-performance-tweaks-overcoming-pc-lag-challenges-in-the-latest-yakuza-3-version/"><u>Enhanced Performance Tweaks: Overcoming PC Lag Challenges in the Latest Yakuza 3 Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/error-resolution-in-rainbow-six-siege-detailed-steps-to-fix-the-notorious-3-0x0001000b-issue/"><u>Error Resolution in Rainbow Six Siege: Detailed Steps to Fix the Notorious 3-0X0001000B Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-to-resolve-the-notorious-ntdlldll-file-crash-problem-on-pcs-with-win11win10/"><u>Expert Advice to Resolve the Notorious ntdll.dll File Crash Problem on PCs with Win11/Win10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-correcting-error-code-23-on-apex-legends-learn-the-solution/"><u>Expert Tips for Correcting Error Code 23 on Apex Legends - Learn the Solution!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-prevent-and-fix-microsoft-edge-crashing-on-your-windows-11-device/"><u>Expert Tips to Prevent and Fix Microsoft Edge Crashing on Your Windows 11 Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-steams-frequent-crashes-instantly-a-simple-step-by-step-guide/"><u>Fix Steam's Frequent Crashes Instantly: A Simple Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-true-colors-crash-in-life-is-strange-the-complete-solution-walkthrough/"><u>Fixing 'True Colors' Crash in Life Is Strange – The Complete Solution Walkthrough</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-civilization-6-running-again-in-windows-10-a-step-by-step-guide-to-solving-launch-errors/"><u>Getting Civilization 6 Running Again in Windows 10 – A Step-by-Step Guide to Solving Launch Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-performance-lags-in-dying-light-2-for-a-smooth-pc-gaming-experience/"><u>How to Fix Performance Lags in Dying Light 2 for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-darkest-dungeon-2-from-crashing-frequently-pc-solved/"><u>How to Stop Darkest Dungeon 2 From Crashing Frequently (PC) - Solved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-far-cry-6-from-freezing-or-crashing-on-your-computer/"><u>How to Stop Far Cry 6 From Freezing or Crashing on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-skywalkers-favorite-game-battlefront-ii-from-crashing-on-pc/"><u>How to Stop Skywalker's Favorite Game, Battlefront II, From Crashing on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-your-frostpunk-game-from-unexpectedly-crashing/"><u>How to Stop Your Frostpunk Game From Unexpectedly Crashing</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-alternative-to-cyberlink-a-comparative-study-of-recording-software/"><u>In 2024, Alternative to Cyberlink  A Comparative Study of Recording Software</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-comic-crafting-mastering-7-cheeky-content-strategies/"><u>In 2024, Comic Crafting  Mastering 7 Cheeky Content Strategies</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-cutting-edge-top-11-list-of-soundscape-capturers/"><u>In 2024, Cutting-Edge Top 11 List of Soundscape Capturers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-effective-ways-to-fix-checkra1n-error-31-on-iphone-se-2022-by-drfone-ios/"><u>In 2024, Effective Ways To Fix Checkra1n Error 31 On iPhone SE (2022)</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-exclusive-roundup-high-quality-zero-price-livestream-software-list/"><u>In 2024, Exclusive Roundup  High-Quality, Zero-Price LiveStream Software List</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gigglegrid-generate-memes-with-ease-and-speed/"><u>In 2024, GiggleGrid  Generate Memes with Ease and Speed</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Realme Narzo 60 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Spy on Text Messages from Computer & Vivo V27 Pro | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-card-on-nubia-red-magic-9-proplus-online-without-jailbreak-by-drfone-android/"><u>In 2024, How to Unlock SIM Card on Nubia Red Magic 9 Pro+ online without jailbreak</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-pattern-locks-are-unsafe-secure-your-oneplus-nord-ce-3-lite-5g-phone-now-with-these-tips-by-drfone-android/"><u>In 2024, Pattern Locks Are Unsafe Secure Your OnePlus Nord CE 3 Lite 5G Phone Now with These Tips</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unveiling-the-secrets-to-choosing-movie-trailers-music/"><u>In 2024, Unveiling the Secrets to Choosing Movie Trailers' Music</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/master-stitching-gopro-content-in-extended-panorama-videos/"><u>Master Stitching GoPro Content in Extended Panorama Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nvidia-geforce-trouble-your-ultimate-guide-for-correcting-code-0x0003/"><u>NVIDIA GeForce Trouble? Your Ultimate Guide for Correcting Code 0X0003</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-connectivity-hurdles-iphone-not-detected-by-itunes-on-your-pc-with-windows-10/"><u>Overcoming Connectivity Hurdles: IPhone Not Detected by iTunes on Your PC with Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overwatch-graphic-glitch-fixed-enhanced-gaming-experience-with-updated-drivers/"><u>Overwatch Graphic Glitch Fixed: Enhanced Gaming Experience with Updated Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/preventing-star-wars-battlefront-ii-from-crashing-on-your-computer-solutions-inside/"><u>Preventing Star Wars Battlefront II From Crashing on Your Computer - Solutions Inside!</u></a></li>
+<li><a href="https://data-recovery.techidaily.com/1723262378040-qualcomms-affordable-snapdragon-x-elite-get-your-compact-desktop-development-kit-starting-preorders-today/"><u>Qualcomm's Affordable Snapdragon X Elite: Get Your Compact Desktop Development Kit – Starting Preorders Today</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/ranchers-revelry-best-friendly-farming-titles-for-gathering-pals-for-2024/"><u>Ranchers' Revelry  Best Friendly Farming Titles for Gathering Pals for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-security-breach-warning-in-gaming-software/"><u>Resolved: Fixing the 'Security Breach' Warning in Gaming Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-preventing-fifa-21-from-starting/"><u>Resolved: Issues Preventing FIFA 21 From Starting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restore-sound-in-evil-genius-2-a-step-by-step-guide-for-gamers/"><u>Restore Sound in 'Evil Genius 2': A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-frozen-pages-easy-steps-to-prevent-chrome-crashes-on-windows-11/"><u>Say Goodbye to Frozen Pages: Easy Steps to Prevent Chrome Crashes on Windows 11</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-re-enable-voice-chat-in-co-op-game-back-4-blood/"><u>Solution Found: Re-Enable Voice Chat in Co-Op Game 'Back 4 Blood'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-sea-of-thieves-stuck-on-launch-dilemma-today/"><u>Solve Your Sea of Thieves Stuck on Launch Dilemma Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-pc-crashes-ultimate-guide-to-troubleshooting-outriders-freezing-issues/"><u>Solving PC Crashes: Ultimate Guide to Troubleshooting Outriders Freezing Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-splitgate-lags-tips-to-improve-frame-rate-and-eliminate-stutter/"><u>Solving Splitgate Lags: Tips to Improve Frame Rate and Eliminate Stutter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-fix-continuous-crashes-in-rainbow-six-siege-pc-version/"><u>Step-by-Step Guide to Fix Continuous Crashes in Rainbow Six Siege PC Version</u></a></li>
+<li><a href="https://extra-information.techidaily.com/stepwise-strategies-for-high-quality-time-lapse-videos-in-gopro-studio/"><u>Stepwise Strategies for High Quality Time Lapse Videos in GoPro Studio</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tarkov-error-103003-explained-a-detailed-walkthrough-to-restore-gameplay/"><u>Tarkov Error 103003 Explained - A Detailed Walkthrough to Restore Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996261757-the-mystery-behind-immortals-fenyx-risings-postponement-is-finally-solved/"><u>The Mystery Behind Immortals: Fenyx Rising's Postponement Is Finally Solved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-drops-in-frames-per-second-fps-during-f1-2021-on-pc-gaming/"><u>Troubleshooting Drops in Frames Per Second (FPS) During F1 2021 on PC Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-failed-game-starts-by-verifying-integrity-of-game-data/"><u>Troubleshooting Failed Game Starts by Verifying Integrity of Game Data</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-silent-usb-headphones-in-windows-7/"><u>Troubleshooting Guide: Fixing Silent USB Headphones in Windows 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-keeping-your-pcs-palworld-game-from-crashing/"><u>Ultimate Troubleshooting: Keeping Your PC's PalWorld Game From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-your-palworld-eos-account-a-guide-to-resolving-the-notorious-login-failure-with-6-key-fixes/"><u>Unlock Your Palworld EOS Account: A Guide to Resolving the Notorious Login Failure with 6 Key Fixes</u></a></li>
+</ul></div>

@@ -1,7 +1,7 @@
 ---
 title: "Leveraging Excel's Power: Comprehensive Techniques for Utilizing the Image Feature"
-date: 2024-08-26 17:33:14
-updated: 2024-08-29 12:55:17
+date: 2024-08-28T05:41:36.470Z
+updated: 2024-08-29T05:41:36.470Z
 tags:
   - excel
 categories:
@@ -37,6 +37,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
  You can insert BMP, GIF, ICO, JPG, PNG, TIFF, and WEBP image formats.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<!-- affiliate ads end -->
 ##  Use the IMAGE Function in Excel
 
  Now that you know how to build the formula and understand the supported image file formats, let's look at some examples using the IMAGE function with the picture below.
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![Image example for the IMAGE function in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Image-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In this first example, we'll insert the image without alt text or optional sizing using this formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png")
@@ -53,6 +59,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![IMAGE function in Excel with no optional arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Default-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Next, we'll include the alt text "dog" and use the sizing option 1 to keep the image in the cell but ignore the aspect ratio with this formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","dog",1)
@@ -61,6 +70,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![IMAGE function with alt text and sizing option 1](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing1AltText-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<!-- affiliate ads end -->
  Now, we'll use the following formula with the alt text and sizing option 2 to keep the image's original size:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","dog",2)
@@ -69,6 +81,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![IMAGE function with alt text and sizing option 2](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing2AltText-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Finally, we'll remove the alt text leaving empty quotation marks for the argument. And we'll use a custom size for our image with 3 for the sizing, 280 pixels for the height, and 500 pixels for the width. Here's the formula:
 
 =IMAGE("https://www.howtogeek.com/wp-content/uploads/2021/10/MicrosoftWord-OverlayImages.png","",3,280,500)
@@ -77,6 +92,9 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
 
 ![IMAGE function without alt text and sizing option 3](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Sizing3NoAltText-ExcelIMAGEFunction.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Adding an image in Excel was never difficult; however, the [introduction of the IMAGE function](https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-se-2020-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/) means you can place a picture within a cell and keep it there in whatever size you want.
 
  For more on images in Excel, check out how to [quickly remove all pictures](https://fox-helps.techidaily.com/2024-approved-your-guide-to-the-top-8-tablets-for-next-level-photo-enhancements/) in your sheet or how to [get rid of the background in a picture](https://win-dash.techidaily.com/efficient-printing-with-toshiba-free-driver-downloads-for-windows-users/).
@@ -101,3 +119,58 @@ thumbnail: https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-prime-10-video-edits-boost-your-webcam-experience/"><u>[New] 2024 Approved  Prime 10 Video Edits  Boost Your Webcam Experience</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-transform-into-a-social-media-star-by-mimicking-yourself-on-tiktok/"><u>[New] In 2024, Transform Into a Social Media Star by Mimicking Yourself on TikTok</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-picks-timeless-melodies-from-iconic-animes/"><u>[New] Top Picks  Timeless Melodies From Iconic Animes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-minecraft-stuck-on-loading-screen/"><u>[SOLVED] Minecraft Stuck on Loading Screen</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-2024-approved-the-path-to-pure-audio-pazera-free-tool-review/"><u>[Updated] 2024 Approved  The Path to Pure Audio  Pazera Free Tool Review</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-in-2024-unlock-video-potential-leading-tools-turning-youtubes-to-avis/"><u>[Updated] In 2024, Unlock Video Potential  Leading Tools Turning YouTubes to Avis</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-straightforward-guide-to-flipper-sound-manipulation-on-windows-os/"><u>2024 Approved  Straightforward Guide to Flipper Sound Manipulation on Windows OS</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-itel-p40plus-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Itel P40+ | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/best-lenovo-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Lenovo Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013262746-cod-modern-warfare-continuous-freezing-issues-now-resolved/"><u>COD: Modern Warfare Continuous Freezing Issues Now Resolved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/connectivity-repair-tips-for-your-astro-a50-with-the-central-command-hub/"><u>Connectivity Repair Tips for Your Astro A50 with the Central Command Hub</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-call-of-duty-modern-warfare-dev-error-604-essential-fixes-for-gamers-on-pc-and-xbox/"><u>Defeat Call of Duty: Modern Warfare Dev Error ✖️604 - Essential Fixes for Gamers on PC and Xbox!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/echoes-in-the-digital-abyss-understanding-vr-ar-and-mr/"><u>Echoes in the Digital Abyss  Understanding VR, AR, and MR</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-fixes-for-windows-audio-glitch-eliminating-crackle-on-win11-and-win7-devices/"><u>Effective Fixes for Window's Audio Glitch: Eliminating Crackle on Win11 and Win7 Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-whatsapps-sound-transfers-for-2024/"><u>Exploring WhatsApp's Sound Transfers for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-apple-iphone-12-mini-drfone-by-drfone-virtual-ios/"><u>Fake the Location to Get Around the MLB Blackouts on Apple iPhone 12 mini | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-2024-issues-in-phasmophobia-game-crashes-tips-and-solutions/"><u>Fixing 2024 Issues in Phasmophobia Game Crashes - Tips and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-call-of-duty-wwii-problem-with-error-code-017356/"><u>Fixing Call of Duty: WWII Problem with Error Code √017356</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-non-responsive-steam-issues-expert-advice-for-gamers/"><u>Fixing Non-Responsive Steam Issues: Expert Advice for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-more-frames-per-second-in-fallout-76-effective-solutions-and-advice-for-gamers/"><u>Get More Frames per Second in Fallout 76 - Effective Solutions and Advice for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gpu-not-detected-by-cyberpunk-2077-heres-the-solution-for-windows-10-users/"><u>GPU Not Detected by Cyberpunk 2077? Here's the Solution for Windows 10 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999855510-how-to-fix-division-2-not-launching-2024-tips/"><u>How to Fix Division 2 Not Launching - 2024 Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-assassins-creed-valhalla-from-frequently-crashing-on-your-pc/"><u>How to Stop Assassin's Creed: Valhalla From Frequently Crashing on Your PC</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-watch-avchd-mts-video-on-xiaomi-civi-3-by-aiseesoft-video-converter-play-mts-on-android/"><u>How to watch AVCHD MTS video on Xiaomi Civi 3?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-poco-x6-pro-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Poco X6 Pro Fingerprint Lock</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-disable-youtubes-automatic-video-playback-trigger/"><u>In 2024, Disable YouTube's Automatic Video Playback Trigger</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-vivo-s17-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-how-to-start-a-facebook-giveaway-post/"><u>In 2024, How to Start a Facebook Giveaway Post</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-unlock-the-potential-of-hd-videos-on-android-devices/"><u>In 2024, Unlock the Potential of HD Videos on Android Devices</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-film-techniques-flawless-virtual-backdrops-integration/"><u>Instagram Film Techniques  Flawless Virtual Backdrops Integration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-resident-evil-village-a-step-by-nstep-guide-to-solve-launching-problems/"><u>Mastering Resident Evil Village: A Step-by-nStep Guide to Solve Launching Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-solving-frequent-crashing-problems-in-pc-version-of-hearthstone/"><u>Optimizing Performance: Solving Frequent Crashing Problems in PC Version of Hearthstone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992177292-overcome-apex-legends-not-launching-easy-and-fast-fixes-available/"><u>Overcome Apex Legends Not Launching - Easy & Fast Fixes Available!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-rockstar-games-launcher-hurdles-expert-fixes-for-gaming/"><u>Overcome Rockstar Games Launcher Hurdles: Expert Fixes for Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-recurring-famine-problems-to-prevent-dread-crashes-during-pc-playthrough/"><u>Overcoming Recurring Famine Problems to Prevent Dread Crashes During PC Playthrough</u></a></li>
+<li><a href="https://win-blog.techidaily.com/phasmophobia-loading-stagnation-at-90-screen-issue-game-patch-addressed/"><u>Phasmophobia Loading Stagnation at 90%% Screen Issue Game Patch Addressed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-to-upgrade-your-utorrents-slow-file-transfer-rate/"><u>Quick Solutions to Upgrade Your uTorrent's Slow File Transfer Rate</u></a></li>
+<li><a href="https://review-topics.techidaily.com/remove-google-frp-lock-on-magic-6-lite-by-drfone-android-unlock-remove-google-frp/"><u>Remove Google FRP lock on Magic 6 Lite</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-successfully-start-civilization-6-on-your-new-windows-11-pc/"><u>Resolved! How to Successfully Start Civilization 6 on Your New Windows 11 PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-crashes-and-errors-a-guide-to-optimizing-heart-of-iron-4/"><u>Resolving Crashes and Errors: A Guide to Optimizing Heart of Iron 4</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/secrets-to-successful-twitpicingvideo-edition/"><u>Secrets to Successful Twitpicing—Video Edition</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/sonys-nw-ws623-examined-for-style-and-functionality/"><u>Sony's NW-WS623 Examined for Style and Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-and-running-chatgpt-on-your-pc/"><u>Step-by-Step Guide: Setting Up & Running ChatGPT on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-ascent-from-hanging-a-guide-to-stabilizing-the-game-on-desktop-systems/"><u>Stop Ascent From Hanging: A Guide to Stabilizing the Game on Desktop Systems</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-xiaomi-13-ultra-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Xiaomi 13 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-6-appsservices-to-trace-any-vivo-v29-pro-location-by-mobile-number-drfone-by-drfone-virtual-android/"><u>Top 6 Apps/Services to Trace Any Vivo V29 Pro Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-continuous-crashes-in-hell-let-loose-for-desktop-systems/"><u>Troubleshooting Continuous Crashes in Hell Let Loose for Desktop Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-persistent-crashes-in-fireteam-elite-on-pc-platforms/"><u>Troubleshooting Tips: Resolving Persistent Crashes in Fireteam Elite on PC Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-football-manager-2019-unexpected-closing-issues/"><u>Ultimate Guide: Resolving Football Manager 2019 Unexpected Closing Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-for-resident-evil-village-crashing-on-windows-10/"><u>Ultimate Troubleshooting Tips for Resident Evil Village Crashing on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-tutorial-for-implementing-hyper-v-in-windows-10-systems-efficiently/"><u>Ultimate Tutorial for Implementing Hyper-V in Windows 10 Systems Efficiently</u></a></li>
+</ul></div>

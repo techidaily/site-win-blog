@@ -1,0 +1,210 @@
+---
+title: Untangle Slow uTorrent Downloads with Proven Optimization Techniques
+date: 2024-08-28T05:54:03.080Z
+updated: 2024-08-29T05:54:03.080Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Untangle Slow uTorrent Downloads with Proven Optimization Techniques
+excerpt: This Article Describes Untangle Slow uTorrent Downloads with Proven Optimization Techniques
+thumbnail: https://thmb.techidaily.com/e85743b34dfe1708fd7baeaabbf4be530a9d0acc972c34955c94cad23467f1e0.jpg
+---
+
+## Battling Persistent PC Issues with Tower of Fantasy – Solutions Unveiled
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-featured.jpg)
+
+ Tower of Fantasy is finally out. We don’t know if it’s going to be the Genshin Killer, but what we do know is the launch wasn’t that smooth and many PC players are reporting**a crashing issue** . If you happen to be on the same boat, don’t worry. We’ve already got some working fixes for you to try.
+
+## Try these fixes
+
+ You may not need to try all of them. Simply work your way down until you find the one that does the charm.
+
+1. [**Modify config files to fix launching issues**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Run in compatibility mode**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Modify your Registry**](https://tools.techidaily.com/drivereasy/download/)
+6. **[Check for corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Modify config files to fix launching issues
+
+ Though Tower of Fantasy is not a demanding title, it is reported to have launching issues on some low end PCs. If you can’t seem to launch the game, you can try to modify some config files to make it work.
+
+1. On your keyboard, press**Win+R** (the Windows key and the R key) to invoke the Run box. Type or paste**%Appdata%** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-appdata.jpg)
+2. Go to **Local > Hotta > Saved > Config > WindowsNoEditor** . Right click**GameUserSettings.ini** and rename it to**GameUserSettings.ini.backup.**  
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-config-1.jpg)
+3. **Right-click the empty** area and create a new .txt file with the name**GamerUserSettings.ini** . Edit the file and paste the following:  
+[D3DRHIPreference]  
+bPreferD3D12InGame=False  
+
+ Then press**Ctrl+S** to save the changes.
+
+Now you can restart Tower of Fantasy and check the results.
+
+If the game still crashes, take a look at the next fix.
+
+### Fix 2:**Update your graphics driver**
+
+ Some wanders reported a Vega Integrate Graphics crashing issue, which means the**game crashes could be driver-related** . If you are using a buggy or outdated graphics driver, you may run into performance issues with new titles. Always make sure you’re using the latest correct graphics driver.
+
+ You can update your graphics driver manually, by visiting the GPU manufacturer’s website, downloading the latest correct driver and installing manually. But if you don’t have the time or patience to do that manually, you can use **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to update automatically:
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating all the drivers, restart your PC and check the gameplay in Tower of Fantasy.
+
+ If the latest drivers can’t stop the crash, you can check out the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<!-- affiliate ads end -->
+### Fix 3: Install all Windows updates
+
+ You should also make sure your system has all the system updates. Normally Windows will schedule that for you, but you need to confirm it manually when you’re experiencing computer issues.
+
+1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
+2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
+
+ To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
+
+If Tower of Fantasy still crashes, you can try the next fix below.
+
+### Fix 4: Run in compatibility mode
+
+ In some cases, the constant crashes indicate a compatibility issue. According to the feedback, running the game in compatibility mode is a potential fix to the problem. So you can give it a shot and see how things go. This is worth a shot especially if you’re on Windows 11.
+
+1. Go to the**installation path** of Tower of Fantasy (e.g._C:\\Tower Of Fantasy\\Launcher_ ).  
+ Right click**tof\_launcher.exe** and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-0.jpg)
+2. In the pop-up window, navigate to the**Compatibility** tab, set to**run this program in compatibility mode for Windows 8** . Then check the box next to**Disable fullscreen optimizations** and**Run this program as an administrator** . In the end, click**OK** to save the changes.  
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-1.jpg)
+3. Now you can test the gameplay in Tower of Fantasy.
+
+ If this fix doesn’t work for you, undo the settings and continue to the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+### Fix 5: Modify your Registry (Advanced)
+
+ This fix requires a certain level of computer knowledge. Proceed with caution. (If you don’t know what you’re doing, skip this one and jump to the next fix.)
+
+ Some players found a possible solution to the crash by**disabling TDR** (Timeout Detection and Recovery) of the graphics driver in Registry. You can try the same and see how this goes.
+
+1. On your keyboard, press**Win+R** . Type or paste**regedit** and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/windows-r-regedit.jpg)
+2. In the address bar, type or paste **Computer\\HKEY\_LOCAL\_MACHINE\\SYSTEM\\CurrentControlSet\\Control\\GraphicsDrivers** and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
+3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
+4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
+5. Now reboot your PC and launch Tower of Fantasy.
+
+ If TdrLevel didn’t fix the issue, rename TdrLevel to**TdrDelay** , select the**Decimal** option and set Value data to**10** and try again after reboot.
+
+If this fix doesn’t give you luck, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 6: Check for corrupted system files
+
+ If none of the fixes above work for you, chances are you’re looking at**a system issue** . We all use our computer differently, so it’s hard to determine what went wrong exactly: could be a faulty driver, or it might be corrupted system files. Either way, you can first run a scan with a system repair tool.
+
+**[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is a professional Windows repair tool that can scan your system’s overall status, diagnose your system configuration, identify faulty system files, and repair them automatically. It gives you entirely fresh system components with just one click, so you don’t have to reinstall Windows and all your programs, and you don’t lose any personal data or settings.
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
+2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
+3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<!-- affiliate ads end -->
+ Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+---
+
+ Hopefully this post helps you fix the Tower of Fantasy crashing issue. If you have any ideas or suggestions, feel free to give us a shout in the comments below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-tips.techidaily.com/new-superior-ringtones-roundup-elite-download-hubs/"><u>[New] Superior Ringtones Roundup  Elite Download Hubs</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-tailored-guide-to-following-and-watching-facebook-broadcasts-for-2024/"><u>[New] Tailored Guide to Following and Watching Facebook Broadcasts for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-tech-vanguard-apoyser-vs-other-top-screen-capture-tools-for-2024/"><u>[New] Tech Vanguard  Apoyser vs Other Top Screen Capture Tools for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-maximize-your-content-with-these-top-5-obs-tips/"><u>[Updated] 2024 Approved  Maximize Your Content with These Top 5 OBS Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-capturing-piscine-adventures-5-superior-camers/"><u>2024 Approved  Capturing Piscine Adventures - 5 Superior Camers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-grandest-picture-tweaker-suite/"><u>2024 Approved  Grandest Picture Tweaker Suite</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-making-a-buzz-aesthetic-strategies-for-podcast-brands/"><u>2024 Approved  Making a Buzz  Aesthetic Strategies for Podcast Brands</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-forza-horizon-amoads-loading-screen-glitch-7-essential-fixes-for-gamers/"><u>Beat Forza Horizon Amoad's Loading Screen Glitch: 7 Essential Fixes for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-how-to-quickly-fix-warzones-dev-error-asterisk-error-code-6634/"><u>Call of Duty: How to Quickly Fix Warzone's Dev Error Asterisk Error Code 6634</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crusader-kings-ii-wont-start-troubleshooting-solutions-inside/"><u>Crusader Kings II Won't Start? Troubleshooting Solutions Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-preventing-the-remastered-resident-evil-4-game-from-freezing-or-crashing/"><u>Expert Advice: Preventing the Remastered Resident Evil 4 Game From Freezing or Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722991513223-fix-for-when-warzone-ignores-your-gpu-on-windows-10-devices-now-solved/"><u>Fix for When Warzone Ignores Your GPU on Windows 10 Devices - Now Solved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-common-issues-why-your-discord-audio-isnt-working-during-screen-shares/"><u>Fixing Common Issues: Why Your Discord Audio Isn't Working During Screen Shares</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-issues-how-to-stop-microsoft-flight-simulator-2-cuase-from-crashing-your-pc/"><u>Fixing Issues: How to Stop Microsoft Flight Simulator 2 Cuase From Crashing Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/forza-horizon-4-wont-start-master-these-strategies-for-a-smooth-playback-experience/"><u>Forza Horizon 4 Won't Start? Master These Strategies for a Smooth Playback Experience!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-past-the-stuck-loader-expert-tips-for-madden-22-gameplay-fixes/"><u>Getting Past the Stuck Loader: Expert Tips for Madden 22 Gameplay Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-common-problems-with-twitch-livestreams-discover-our-top-7-tips/"><u>How to Fix Common Problems With Twitch Livestreams - Discover Our Top 7 Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-palworld-session-search-glitches-quickly/"><u>How to Repair Palworld Session Search Glitches Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-crashing-on-your-windows-computer/"><u>How to Stop Age of Wonders: Planetfall From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-essential-techniques-for-screen-capturing-on-various-os-and-gadgets/"><u>In 2024, Essential Techniques for Screen Capturing on Various OS & Gadgets</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-vivo-s18-pro-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Vivo S18 Pro Phones? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-iphone-14-pro-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, iPhone 14 Pro iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-solved-network-troubles-and-how-to-fix-them/"><u>League of Legends: Solved Network Troubles & How To Fix Them</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-troubleshooting-solving-assassins-creed-odyssey-pc-game-crashes/"><u>Master Troubleshooting: Solving Assassin's Creed Odyssey PC Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-performance-enabling-gpu-usage-in-cyberpunk-2077-on-windows-10-devices/"><u>Maximizing Performance: Enabling GPU Usage in Cyberpunk 2077 on Windows 10 Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-unable-to-locate-launch-point-hurdle-in-fortnite-for-smooth-gaming/"><u>Overcoming the 'Unable to Locate Launch Point' Hurdle in Fortnite for Smooth Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-system-failures-in-watch-dogs-legion-for-windows-users/"><u>Resolving Persistent System Failures in Watch Dogs: Legion for Windows Users</u></a></li>
+<li><a href="https://discover-alternatives.techidaily.com/revolutionizing-user-experience-how-ai-driven-marketing-tools-are-shaping-the-future-of-seo/"><u>Revolutionizing User Experience: How AI-Driven Marketing Tools Are Shaping the Future of SEO</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-guide-removing-nvidia-geforce-experience-on-your-pc/"><u>Simple Guide: Removing Nvidia GeForce Experience on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-addressing-non-functional-content-warnings-during-voice-chats/"><u>Step-by-Step Solution: Addressing Non-Functional Content Warnings During Voice Chats</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-when-your-corsair-icue-isnt-working-on-windows-1011/"><u>Step-by-Step Solution: When Your Corsair iCUE Isn't Working on Windows 10/11</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-visual-journey-of-iphone-photos-with-leading-lines/"><u>The Visual Journey of iPhone Photos with Leading Lines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-non-functional-spatial-sound-on-your-pc-win11-and-win10-solutions/"><u>Troubleshooting Non-Functional Spatial Sound on Your PC - Win11 and Win10 Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/understanding-tags-defining-the-act-of-labeling-things-and-people/"><u>Understanding Tags – Defining the Act of Labeling Things and People</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/unlocking-personalized-content-potential-the-cookiebot-driven-edge-for-your-website/"><u>Unlocking Personalized Content Potential: The Cookiebot-Driven Edge for Your Website</u></a></li>
+</ul></div>

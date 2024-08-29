@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Converting Your Excel Spreadsheet Into a PDF File"
-date: 2024-08-27 15:22:49
-updated: 2024-08-29 10:42:40
+date: 2024-08-28T05:41:59.054Z
+updated: 2024-08-29T05:41:59.054Z
 tags:
   - excel
 categories:
@@ -33,6 +33,9 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Excel - Page Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/page-setup.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you're using Office 2008 or later, navigate to the Page Layout tab. Here, you'll see several options grouped under the Page Setup section. Here are the first three:
 
 * **Margins:** How large the whitespace is between the edge of a document and the first cell
@@ -45,6 +48,9 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Excel - Header and Footer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/header-footer.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You also have the option to change the background of your printout. To do this, click the [Background](https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/) button in Page Setup. You can select an image from your laptop or from the cloud, and this image will be tiled across your entire sheet.
 
 Related: [How to Print an Excel Spreadsheet with a Background](https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/) 
@@ -65,12 +71,18 @@ Related: [How to Print an Excel Spreadsheet with a Background](https://article-p
 
 ![Excel - Scale to Fit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/scale-to-fit.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<!-- affiliate ads end -->
 ##  Sheet Options
 
  The last menu you should pay attention to is Sheet Options. These are settings that affect the appearance of your final printed sheet. To access the full sheet options, click on the arrow on the lower-left corner of Sheet Options sections.
 
 ![Excel - Sheet Options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/sheet-options.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Here's an overview of the various customizations you can do in this menu:
 
 * **Print Titles:** You can freeze specific rows and columns of the sheet in place so that they appear on every page, such as headers and labels.
@@ -98,10 +110,16 @@ Related: [How to Print a Worksheet with Comments in Excel](https://android-locat
 
 ![Excel - Save as PDF](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/save-as-pdf.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<!-- affiliate ads end -->
  You could also print the file as a PDF. Microsoft has a [built-in PDF printer](https://some-knowledge.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-for-free/) called Microsoft Print to PDF that you can select in the printer dropdown menu. If you have another PDF drive, such as Adobe PDF, Foxit, or PDF Xchange, you can use one of those as well. Before you click "Print", look through your print preview to make sure everything looks correct.
 
 ![Excel - Print as PDF](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/print-as-pdf.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<!-- affiliate ads end -->
 Related: [How to Print to PDF in Windows: 4 Tips and Tricks](https://some-knowledge.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-for-free/)
 
 <ins class="adsbygoogle"
@@ -118,3 +136,46 @@ Related: [How to Print to PDF in Windows: 4 Tips and Tricks](https://some-knowle
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/inematic-dialogue-assembler-for-2024/"><u>[New] Cinematic Dialogue Assembler for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-optical-stabilization-advantage-in-mobile-cinematography/"><u>[New] Optical Stabilization Advantage in Mobile Cinematography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-the-realm-of-ring-vs-reality-stream/"><u>[Updated] In 2024, The Realm of Ring vs Reality Stream</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-latest-overhaul-sonys-s6500-hd-and-bd-player-review/"><u>[Updated] Latest Overhaul  Sony's S6500 HD & BD Player Review</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/21-pioneering-metaverse-ventures-for-insightful-discussion/"><u>21 Pioneering Metaverse Ventures for Insightful Discussion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-optimized-expert-tips-to-fix-crashes-and-lag-for-an-uninterrupted-adventure/"><u>Baldur's Gate Optimized! Expert Tips to Fix Crashes and Lag for an Uninterrupted Adventure</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/building-brands-through-innovative-design-work/"><u>Building Brands Through Innovative Design Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-dev-error-6034-in-call-of-duty-modern-warfare-pc-and-xbox-users-manual/"><u>Bypass Dev Error 6034 in Call of Duty: Modern Warfare – PC & Xbox User's Manual</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012974263-century-age-of-ashes-fixed-pc-version-no-more-crashes/"><u>Century: Age of Ashes - Fixed PC Version No More Crashes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-unexpected-closures-of-geforce-experience-expert-tips-on-error-diagnosis-and-fixes-for-enthusiast-gamers/"><u>Dealing with Unexpected Closures of GeForce Experience: Expert Tips on Error Diagnosis and Fixes for Enthusiast Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-the-steam-error-woes-unlocking-tips-for-content-file-roadblocks/"><u>End the Steam Error Woes: Unlocking Tips for Content File Roadblocks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-eliminate-genshin-impacts-error-4201-get-back-into-the-game/"><u>Expert Tips to Eliminate Genshin Impact's Error 4201 – Get Back Into the Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/farming-simulator-22-performance-tips-how-to-address-and-prevent-pc-fps-dip/"><u>Farming Simulator 22 Performance Tips: How to Address and Prevent PC FPS Dip</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/full-review-of-the-latest-powerdirector-app-24-for-2024/"><u>Full Review of the Latest PowerDirector App - '24 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-and-move-past-error-code-4201-in-your-genshin-impact-gameplay/"><u>How to Fix and Move Past Error Code 4201 in Your Genshin Impact Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-speed-up-launch-time-for-star-wars-battlefront-2-on-desktop-systems/"><u>How to Speed Up Launch Time for Star Wars Battlefront 2 on Desktop Systems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-7-online-here-are-6-easy-ways-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 7 Online? Here are 6 Easy Ways</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/in-2024-top-5-ai-voice-generators-online-supports-all-browsers/"><u>In 2024, Top 5 AI Voice Generators Online (Supports All Browsers)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-unleash-creativity-on-snapchat-with-immersive-boomerangs/"><u>In 2024, Unleash Creativity on Snapchat with Immersive Boomerangs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/instantly-resolving-your-steam-platform-stability-problems-step-by-step/"><u>Instantly Resolving Your Steam Platform Stability Problems – Step-by-Step</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/1715701194645-internal-recording-feature-screen-capture-for-huaweis-mate-and-p-series-phones/"><u>Internal Recording Feature  Screen Capture for Huawei's Mate & P Series Phones.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/new-realm-persistent-frosts-and-chilling-dilemmas-how-to-address-them/"><u>New Realm: Persistent Frosts and Chilling Dilemmas - How to Address Them?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-pauses-overcoming-the-troublesome-crashing-problem-of-persona-3-reload-on-your-desktop/"><u>No More Pauses: Overcoming the Troublesome Crashing Problem of Persona 3 Reload on Your Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-far-cry-5s-constant-boot-loop-with-these-expert-hacks/"><u>Overcome Far Cry 5'S Constant Boot Loop with These Expert Hacks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-startup-problems-for-playstation-4-avatar-frontiers-of-pandora-edition/"><u>Overcoming Startup Problems for PlayStation 4: Avatar - Frontiers of Pandora Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-users-rejoice-resolved-how-the-new-world-game-continuously-fails-to-load/"><u>PC Users Rejoice: Resolved! How the 'New World' Game Continuously Fails to Load</u></a></li>
+<li><a href="https://extra-information.techidaily.com/prime-mkv-deck-for-pcandroid-users/"><u>Prime MKV Deck for PC/Android Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issue-preventing-left-4-dead-2-from-crashing-on-your-pc/"><u>Resolved Issue: Preventing Left 4 Dead 2 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-internet-explorer-cant-show-website/"><u>Resolved: Fixes for 'Internet Explorer Can't Show Website'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-warzone-visual-issues-a-step-by-step-guide-on-loading-textures/"><u>Resolving Warzone Visual Issues: A Step-by-Step Guide on Loading Textures</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/score-big-with-these-8-low-cost-3d-video-apps-for-pcmac/"><u>Score Big with These 8 Low-Cost 3D Video Apps for PC/Mac</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/the-temperature-of-the-hot-reservoir-heat-addition-is-30c-which-is-equivalent-to-30-plus-27315-30315-k/"><u>The Temperature of the Hot Reservoir (Heat Addition) Is 30°C, Which Is Equivalent to 30 + 273.15 = 303.15 K</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-download-timeout-errors-effectively/"><u>Troubleshooting and Resolving Download Timeout Errors Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-gta-5-why-it-keeps-crashing-and-how-to-fix-it/"><u>Troubleshooting GTA 5: Why It Keeps Crashing and How to Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-successfully-starting-your-payday-2-game-on-windows/"><u>Troubleshooting Guide: Successfully Starting Your Payday 2 Game on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-lag-and-connection-problems-in-modern-gaming-worlds/"><u>Troubleshooting Lag & Connection Problems In Modern Gaming Worlds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-fixing-the-acrocefexe-error-message/"><u>Understanding and Fixing the Acrocef.exe Error Message</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-the-football-manager-2022-launch-hitches-now-resolved/"><u>Understanding the Football Manager 2022 Launch Hitches - Now Resolved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-pc-freezing-fixes-expert-tips-and-tweaks-to-enjoy-smooth-gaming/"><u>Warzone PC Freezing Fixes: Expert Tips and Tweaks to Enjoy Smooth Gaming</u></a></li>
+</ul></div>

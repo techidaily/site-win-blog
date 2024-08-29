@@ -1,7 +1,7 @@
 ---
 title: "Critical Digital Safety Practices Your Tech Support Hopes You Heed: A 10-Point Guide"
-date: 2024-08-28 21:54:58
-updated: 2024-08-29 11:20:32
+date: 2024-08-28T05:40:37.524Z
+updated: 2024-08-29T05:40:37.524Z
 tags:
   - windows
 categories:
@@ -38,10 +38,16 @@ thumbnail: https://thmb.techidaily.com/b432bdff253fde3d555eb0e4e70a3a08238022a0a
 
  Instead, if you click on a link that lands you at a login page, close the browser tab or window, open a fresh one, and type in the address for the website yourself (or, if you're using an app, re-open it). Once you've logged in to the right website, you can check your notifications from your account there.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<!-- affiliate ads end -->
 ##  Use Strong Passwords and Two-Factor Authentication (And Don't Share Them!)
 
 ![An illustration of someone using their phone for 2FA.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/08/586e508f.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  You should always use a unique password for every website, service, or app you use, and [make sure they are strong](https://extra-hints.techidaily.com/crafting-authenticity-in-client-testimonial-videos-for-2024/).
@@ -50,14 +56,23 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  Of course, you can't be expected to remember all of these different passwords, so you should [use a password manager](https://facebook-video-content.techidaily.com/updated-how-to-create-facebook-video-ads-with-free-video-creation-kit-for-2024/) to keep track of them. You should also [enable two-factor authentication wherever possible](https://extra-approaches.techidaily.com/updated-premiere-visionary-film-glimpses/), so that even if your password is leaked, attackers still won't be able to access your accounts.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<!-- affiliate ads end -->
 ##  Don't Ignore Windows Security Prompts (UAC)
 
 ![UAC prompting us to allow the Audacity install.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/10/uac-audacity.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Every Windows user has seen these annoying security prompts from User Account Control (UAC). Whenever a change needs to be made to the system, one of these alerts will pop up and ask an Administrator to approve the action. While they're annoying, you shouldn't ignore them, and carefully read the information they display before dismissing them or allowing the change.
 
  This is because viruses and malware will usually need some kind of Administrator access to burrow deep into your system. These prompts are designed to stop them from doing this. Make sure you check that the application requesting access is from a verified publisher, and from a source you trust. Importantly, make sure you understand why the prompt has been triggered: if a UAC security prompt pops up from an unknown program or when you haven't taken any action, you should decline it and [check your system for viruses](https://fox-hovers.techidaily.com/new-2024-approved-discover-the-power-of-a-different-voice-easy-alteration-guide-for-free-fire-players-free/).
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
 ##  Keep Your Work and Private Life Separate
 
  You don't want your employer to know all the details about your personal life, and your employer doesn't want you to be accidentally leaking company information through your social media profiles. Keep your work and private lives separate by using different email accounts and profiles for each. This helps prevent information from leaking, for example, by making it more difficult for you to accidentally put your dating schedule in the work calendar, or email a sensitive financial report to your yoga class.
@@ -78,6 +93,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
  The best way to do this is to contact them via another communication method. If you receive a suspicious email from a known address, give that person a call directly to confirm that they've asked. If you receive an odd phone call claiming to be from someone you know, hang up and drop them a WhatsApp to check if they made the call before calling them back.
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Don't Download Strange Software or Attachments, and never Run Macros
 
  Viruses masquerading as legitimate downloads are everywhere on the Internet, just waiting for someone to click on them. Avoid unknown sources of apps and stick to Apple, Android, and Windows App stores whenever you can.
@@ -88,6 +106,9 @@ _[Google](https://www.google.com/landing/2step/#tab=why-you-need-it)_
 
 ![Antivirus on Laptop and Smartphone](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/antivirus-on-laptop-smartphone.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [Shutterstock/Rawpixel](https://www.shutterstock.com/image-photo/antivirus-alert-firewall-hacker-protection-safety-424650670?src=238a3caf-f9da-4497-92aa-c65983b6fce5-1-1)
 
  Installing a [good antivirus package](https://video-capture.techidaily.com/2024-approved-nvidia-game-capturer-simple-gaming-sessions/) is a proactive measure that you can take to help prevent malware from getting onto your devices. [Windows Defender](https://change-location.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-vivo-y27-5g-drfone-by-drfone-virtual-android/) is a good, free, default option that ships with Windows 10 and 11\. Commercial antivirus suites offer additional functionality like [VPNs](https://extra-guidance.techidaily.com/2024-approved-masterclass-in-3d-color-grading-with-custom-luts/) for extra protection.
@@ -122,3 +143,43 @@ _[Master1305/Shutterstock.com](https://www.shutterstock.com/image-photo/young-st
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-modern-warfare-2-fps-drops-and-stuttering-on-windows/"><u>[Fixed] Modern Warfare 2 FPS Drops and Stuttering on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/issue-resolved-how-to-stop-call-of-duty-black-ops-cold-war-from-crashing-on-your-computer-year-2024/"><u>[Issue Resolved] How to Stop Call of Duty: Black Ops Cold War From Crashing on Your Computer (Year 2024)</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-rapid-restoration-snapped-shenanigans-for-2024/"><u>[New] Rapid Restoration  Snapped Shenanigans for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-the-benefits-of-tubebuddy-manage-your-youtube-channel/"><u>[New] The Benefits of TubeBuddy | Manage Your YouTube Channel</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-3-techniques-for-capturing-sports-spectacles/"><u>[New] Top 3 Techniques for Capturing Sports Spectacles</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-demystifying-premiere-pros-corrections-for-overexposed-iphone-videos/"><u>[Updated] In 2024, Demystifying Premiere Pro's Corrections for Overexposed iPhone Videos</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-how-to-capture-your-feed-on-devices-using-obs-studio/"><u>[Updated] In 2024, How to Capture Your Feed on Devices Using OBS Studio</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/1716070174820-updated-in-2024-instant-mac-screen-savior-free/"><u>[Updated] In 2024, Instant Mac Screen Savior - Free!</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-recording-iphone-7-display-a-comprehensive-guide/"><u>[Updated] Recording iPhone 7 Display  A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-bypass-expenses-relish-films-anywhere-free-player/"><u>2024 Approved  Bypass Expenses, Relish Films Anywhere (FREE Player)</u></a></li>
+<li><a href="https://video-capture.techidaily.com/controlling-bitrate-overload-in-obs/"><u>Controlling Bitrate Overload in OBS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-when-multiversus-wont-open-on-your-pc-a-user-friendly-guide/"><u>Effective Fixes When MultiVersus Won't Open on Your PC: A User-Friendly Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722991917357-fortnite-black-screen-dilemma-on-windows-discover-proven-strategies-to-restore-gameplay/"><u>Fortnite Black Screen Dilemma on Windows? Discover Proven Strategies to Restore Gameplay.</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-zte-nubia-z60-ultra-drfone-by-drfone-virtual-android/"><u>How Do I Stop Someone From Tracking My ZTE Nubia Z60 Ultra? | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-xs-without-losing-any-content-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone XS without Losing Any Content? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-error-code-0xc19001e1-in-windows-11-a-detailed-tutorial/"><u>How to Repair Error Code 0xC19001E1 in Windows 11: A Detailed Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-non-functioning-of-steelseries-gg-software-on-your-pc/"><u>How to Resolve Non-Functioning of SteelSeries GG Software on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-tips-eliminating-game-crashes-in-fifa-20-when-played-on-pc/"><u>Master Tips: Eliminating Game Crashes in FIFA 20 When Played on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nba-2k21-for-pc-stability-tips-how-to-prevent-the-game-from-crashing/"><u>NBA 2K21 for PC Stability Tips - How to Prevent the Game From Crashing</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/optimize-social-vids-for-maximum-view-size-for-2024/"><u>Optimize Social Vids for Maximum View Size for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-dreamlight-valley-errors-on-your-computer-with-these-6-quick-fixes/"><u>Overcome Dreamlight Valley Errors on Your Computer with These 6 Quick Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-windows/"><u>Overcoming Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rapid-resolution-techniques-for-assassins-creed-valhalla-performance-issues/"><u>Rapid Resolution Techniques for 'Assassin's Creed: Valhalla' Performance Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restore-the-soundscape-fixing-audio-glitches-in-your-lost-ark-adventure/"><u>Restore the Soundscape: Fixing Audio Glitches in Your Lost Ark Adventure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-fixing-fall-guys-freezes-and-lag-issues-in-pc-version/"><u>Solved: Fixing 'Fall Guys' Freezes and Lag Issues in PC Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-audio-glitches-and-problems-in-halo-infinite-gameplay/"><u>Solving Audio Glitches and Problems in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tips-for-stabilizing-the-sovled-warno-experience-and-preventing-pc-issues/"><u>Step-by-Step Tips for Stabilizing the [SOVLED] Warno Experience and Preventing PC Issues</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/the-tapestry-translator-looms-screen-recording-guide-for-2024/"><u>The Tapestry Translator  Loom’s Screen Recording Guide for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/troubleshooting-resolving-no-audio-in-obs/"><u>Troubleshooting  Resolving No Audio in OBS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-persistent-firefox-lag-issues/"><u>Troubleshooting & Resolving Persistent Firefox Lag Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-overcoming-lunar-client-malfunctions-on-desktop-computers/"><u>Troubleshooting Guide for Overcoming Lunar Client Malfunctions on Desktop Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-resolving-after-effects-software-crashes-in-windows-11-and-10-environments/"><u>Troubleshooting Tips for Resolving After Effects Software Crashes in Windows 11 & 10 Environments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solutions-for-eliminating-lag-issues-while-playing-resident-evil-village-pc/"><u>Ultimate Solutions for Eliminating Lag Issues While Playing Resident Evil Village [PC]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004687038-ultimate-troubleshooting-tips-for-fixing-call-of-duty-modern-warfare-dev-error-6034-play-without-glitches/"><u>Ultimate Troubleshooting Tips for Fixing Call of Duty: Modern Warfare (Dev Error 6034) - Play Without Glitches!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-victory-over-shadows-defeating-nba-2k21s-endless-black-loading-phase-2c4/"><u>Unlocking Victory Over Shadows: Defeating NBA 2K21's Endless Black Loading Phase (2C4)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vrchat-troubleshooting-made-easy-how-to-fix-a-non-functional-app/"><u>VRChat Troubleshooting Made Easy – How to Fix a Non-Functional App</u></a></li>
+</ul></div>

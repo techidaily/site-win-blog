@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Efficiency with Excel's Subtotal Feature: An In-Depth Tutorial for Professionals and Students Alike"
-date: 2024-08-26 19:41:16
-updated: 2024-08-29 11:58:54
+date: 2024-08-28T05:42:42.559Z
+updated: 2024-08-29T05:42:42.559Z
 tags:
   - excel
 categories:
@@ -93,6 +93,12 @@ Related: [How to Sum a Column in Microsoft Excel](https://techtrends.techidaily.
 
 ![SUBTOTAL function excluding hidden rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/AverageExcludeHidden-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ###  Notes on the SUBTOTAL Function
 
  Here are a few things to keep in mind when using the SUBTOTAL function in Excel:
@@ -113,6 +119,9 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal in the Outline menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/OutlineSubtotal-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<!-- affiliate ads end -->
  When the Subtotal box opens, choose how you want to add the subtotals.
 
 * **At Each Change In** **:** Select the column you want to use for the grouping. Here, we picked Month so that a new group is created when the Month changes in the sheet.
@@ -127,6 +136,9 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal for the Sum function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSum-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<!-- affiliate ads end -->
  As another example, we'll use student grades. We'll use the Subtotal and Group features to display an average grade for each student. Here's the process.
 
  Select the rows, go to Data, and pick "Subtotal" in the Outline drop-down menu.
@@ -135,14 +147,23 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal settings for the Average function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSettingsAverage-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  We now have our rows grouped by student with an average grade for each and an overall average at the bottom. Again, you can use the buttons on the left to collapse and expand the groups.
 
 ![Subtotal for the Average function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalAverage-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<!-- affiliate ads end -->
  If you decide to ungroup the rows after you use the Subtotal feature, the rows return to normal. However, those containing the SUBTOTAL function used by Excel remain for you to continue using or simply delete if you prefer.
 
 ![Subtotal average for ungrouped rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalAverageUngrouped-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The Subtotal feature can become complex if you plan to use many groups. However, these basic examples should help get you started if you're interested in this function.
 
  One thing to note is that you can't [add an Excel table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/) subtotal with this feature. If you have your data in a table, you can either insert the Excel formula for SUBTOTAL as described earlier or [convert your table to a cell range](https://video-capture.techidaily.com/new-2024-approved-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture/) to use the feature. If you choose the latter, you'll lose the table functionality.
@@ -169,3 +190,57 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-social-media-savvy-tips-and-tricks-for-captivating-storytelling/"><u>[New] 2024 Approved  Social Media Savvy  Tips and Tricks for Captivating Storytelling</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-exploring-youtubes-earnings-mechanism-through-cpm-analysis/"><u>[New] In 2024, Exploring YouTube's Earnings Mechanism Through CPM Analysis</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-visionary-voices-top-10-most-engaged-internet-creators/"><u>[New] Visionary Voices  Top 10 Most Engaged Internet Creators</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-audio-from-visuals-making-mp3s-from-instagram-content/"><u>[Updated] In 2024, Audio From Visuals  Making Mp3s From Instagram Content</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dynamic-shots-infusing-energy-into-your-youtube-videos/"><u>[Updated] In 2024, Dynamic Shots  Infusing Energy Into Your YouTube Videos</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-observers-lens-reportage/"><u>[Updated] Observer's Lens Reportage</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-most-known-ways-to-find-someone-on-tinder-for-vivo-v30-by-name-drfone-by-drfone-virtual-android/"><u>4 Most-Known Ways to Find Someone on Tinder For Vivo V30 by Name | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/8-best-free-websites-for-3d-text-psd-files/"><u>8 Best Free Websites for 3D Text PSD Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-the-sims-4-graphics-failure-effective-strategies-for-a-smooth-playthrough/"><u>Addressing the 'Sims 4 Graphics Failure: Effective Strategies for a Smooth Playthrough'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/among-us-players-rejoice-conquering-the-notorious-game-load-stagnation-permanently/"><u>Among Us Players Rejoice: Conquering the Notorious Game Load Stagnation Permanently</u></a></li>
+<li><a href="https://driver-download.techidaily.com/corsair-h115i-drivers-not-working-in-windows-solutions-for-w8-w10-and-w11-users/"><u>Corsair H115i Drivers Not Working in Windows? Solutions for W8, W10 & W11 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-a-frozen-ps4-effective-fixes-and-troubleshooting-steps/"><u>Dealing with a Frozen PS4: Effective Fixes and Troubleshooting Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-prevent-crashing-during-your-robocop-pc-gaming-experience/"><u>Effective Solutions to Prevent Crashing During Your RoboCop PC Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-solutions-for-fixing-the-problems-with-msi-dragon-center-not-working/"><u>Efficient Solutions for Fixing the Problems with MSI Dragon Center Not Working</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-unwanted-flashes-solutions-for-screen-stutter-issues/"><u>Eliminating Unwanted Flashes - Solutions for Screen Stutter Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-the-rebirth-of-avatar-navigating-and-solving-pandora-crashes-in-windows-edition/"><u>Experience the Rebirth of Avatar: Navigating and Solving Pandora Crashes in Windows Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-handling-gtfo-program-interruptions/"><u>Expert Advice on Handling GTFO Program Interruptions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-asterisk-76-server-connection-issues-heres-how-to-resolve-them-on-windows/"><u>Fallout Asterisk 76 Server Connection Issues? Here's How to Resolve Them on Windows!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-nt-miss-anything-troubleshooting-pc-audio-issues-for-the-game/"><u>Fallout N't Miss Anything: Troubleshooting PC Audio Issues for the Game</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-gt-neo-5-se-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix Unfortunately Settings Has Stopped on Realme GT Neo 5 SE Quickly | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-football-manager-2019-a-comprehensive-solution-to-stability-problems/"><u>Fix Your Football Manager 2019: A Comprehensive Solution to Stability Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-resolve-gta-v-wont-start-issue/"><u>Fixes & Solutions: How to Resolve 'GTA V Won't Start' Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-wrc-10-to-run-without-issues-on-windows-fixes-for-frequent-pc-interruptions-during-play/"><u>Getting WRC 10 to Run Without Issues on Windows - Fixes for Frequent PC Interruptions During Play</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-3-connection-woes-discover-quick-remedies-today/"><u>Hitman 3 Connection Woes? Discover Quick Remedies Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-stable-playback-of-palworld-without-interruptions-on-your-laptop-or-pc/"><u>How to Ensure Stable Playback of Palworld Without Interruptions on Your Laptop or PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-constant-crashes-in-battlefront-ii-on-your-computer-proven-strategies/"><u>How to Fix Constant Crashes in Battlefront II on Your Computer: Proven Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-failed-to-connect-with-anti-cheat-errors-in-the-game-escape-from-tarkov/"><u>How to Overcome 'Failed to Connect with Anti-Cheat' Errors in the Game, Escape From Tarkov</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-forza-horizon-4-wont-launch-error-top-tips-and-solutions/"><u>How to Resolve 'Forza Horizon 4 Won't Launch' Error | Top Tips and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-restore-outlooks-network-accessibility/"><u>How to Successfully Restore Outlook's Network Accessibility</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-be-selective-stop-instagram-suggested-updates/"><u>In 2024, Be Selective  Stop Instagram Suggested Updates</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-transform-your-shots-into-art-with-top-10-grids/"><u>In 2024, Transform Your Shots Into Art with Top 10 Grids</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/1722974743520-install-the-latest-epson-wf-2630-drivers-on-your-pc-running-windows-7-8-or-10-heres-how/"><u>Install the Latest Epson WF-2630 Drivers on Your PC Running Windows 7, 8, or 10 - Here's How</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-apex-legends-troubleshooting-eliminate-error-code-23-now/"><u>Mastering Apex Legends Troubleshooting: Eliminate Error Code 23 Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-update-woes-heres-how-you-can-resolve-out-of-date-drivers-easily/"><u>Minecraft Update Woes? Here's How You Can Resolve Out-of-Date Drivers Easily</u></a></li>
+<li><a href="https://extra-support.techidaily.com/navigating-the-google-podcast-submission-guide-for-2024/"><u>Navigating the Google Podcast Submission Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-dragon-age-origins-stuttering-and-freezing-optimized-for-windows-nplus6/"><u>Overcome Dragon Age: Origins Stuttering & Freezing - Optimized for Windows N+6</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-city-skylines-2-when-it-fails-to-launch-correctly/"><u>Quick Fixes for City Skylines 2 When It Fails to Launch Correctly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcome-the-darkness-comprehensive-guide-to-fixing-minecrafts-pitch-black-screens/"><u>Resolved: Overcome the Darkness - Comprehensive Guide to Fixing Minecraft's Pitch-Black Screens</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-call-of-duty-modern-warfares-startup-problems-a-step-by-step-guide-players/"><u>Resolving Call of Duty: Modern Warfare's Startup Problems: A Step-by-Step Guide Players</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/simple-steps-for-incorporating-videos-into-articles/"><u>Simple Steps for Incorporating Videos Into Articles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackle-the-trouble-proven-fixes-for-continuous-battlfield-2e42-crashes-on-pc/"><u>Tackle the Trouble: Proven Fixes for Continuous BattlField 2E42 Crashes on PC</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-pathway-to-seamless-system-enhancement-in-macos-11-big-sur-for-2024/"><u>The Pathway to Seamless System Enhancement in macOS 11 Big Sur for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-risk-of-rain-2-preventing-game-crashes-effectively/"><u>Troubleshooting Risk of Rain 2: Preventing Game Crashes Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-freezing-and-stuttering-issues-in-outriders-pc/"><u>Troubleshooting Steps to Resolve Freezing and Stuttering Issues in Outriders (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-when-prey-the-predator-fails-to-launch-on-pc/"><u>Troubleshooting Steps When 'Prey the Predator' Fails to Launch on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-the-mordhau-game-crash-dilemma/"><u>Troubleshooting Steps: Resolving the Mordhau Game Crash Dilemma</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-opaque-phase-in-halo-infinite-gaming/"><u>Troubleshooting the Opaque Phase in Halo Infinite Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-solving-starfield-cannot-startup-on-steam-or-xbox/"><u>Troubleshooting Tips: Solving 'Starfield Cannot Startup on Steam or Xbox'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-correcting-uninitialized-vanguard-errors-within-valorant/"><u>Understanding and Correcting Uninitialized Vanguard Errors Within VALORANT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wolcen-lords-of-mayhem-pc-game-crash-issue-resolved/"><u>Wolcen: Lords of Mayhem PC Game Crash Issue Resolved</u></a></li>
+</ul></div>

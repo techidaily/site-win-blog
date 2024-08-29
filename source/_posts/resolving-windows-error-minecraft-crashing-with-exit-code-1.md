@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows Error: Minecraft Crashing with Exit Code 1"
-date: 2024-08-28 16:20:58
-updated: 2024-08-29 12:47:44
+date: 2024-08-28T05:41:15.503Z
+updated: 2024-08-29T05:41:15.503Z
 tags:
   - windows
 categories:
@@ -28,6 +28,9 @@ thumbnail: https://thmb.techidaily.com/848032c0813eed1e619997cdd0bea2d2fe7603582
 
 _Minecraft_ is still one of the most popular games on the planet, but it's far from perfect. Sometimes the game will crash with the "Exit Code 1" error, leaving it in an unplayable state. Fortunately, it's a common issue, and we will show you how to fix it in no time.
 
+<!-- affiliate ads begin -->
+<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Use the Correct Mod Version
 
  One of the main reasons you're running into the Exit Code 1 error on _Minecraft_ is because your mod version doesn't match the _Minecraft_ version installed on your computer. All of the mods you're using should be the same as the version of _Minecraft_ you're using.
@@ -46,6 +49,9 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Mods folder in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mods-folder-in-the-file-explorer.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In the mods folder, go through the names of all the mods and check the version number. If you find a mod with a different version number than the _Minecraft_ version installed on your computer, it's probably the culprit behind the error.
 
 ![Mod version in the File Explorer.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/mod-version-in-the-file-explorer.jpg) 
@@ -58,12 +64,18 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Different mod versions on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/different-mod-versions-on-the-curseforge-website.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Click the "Download" button.
 
 ![Download option on the CurseForge website.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-curseforge-website.jpg) 
 
  After that, replace the new downloaded mod with the old problematic version, which is present in the mods folder. Then, restart your computer and try launching _Minecraft_ again.
 
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<!-- affiliate ads end -->
 ##  Detect and Delete the Problematic Mod
 
  The error message can also occur even though the mods you are using are up-to-date. In this case, the problem might be with a particular mod's files. That mod might be conflicting with _Minecraft_ and causing the issue.
@@ -80,6 +92,9 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Check for Updates option on the AMD Software Adrenaline Edition app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-on-the-amd-software-adrenaline-edition-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  If your computer has an NVIDIA graphics driver, download and install the [GeForce Experience app](https://www.nvidia.com/en-us/geforce/geforce-experience/) or [the newer NVIDIA app](https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-lava-blaze-curve-5g-drfone-by-drfone-android/). Switch to the "Drivers" tab and click the "Check for Update" button. The program will go online to check for [updates to your NVIDIA graphics driver](https://iphone-location.techidaily.com/6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-se-drfone-by-drfone-virtual-ios/). If it finds any, you will be given the option to download it.
 
 ![Check for Updates option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/check-for-updates-option-in-the-geforce-experience-app.jpg) 
@@ -88,14 +103,23 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Download option on the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/download-option-on-the-geforce-experience-app.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<!-- affiliate ads end -->
  Once the download process is complete, choose the "Express Installation" option and then follow the on-screen instructions to complete the NVIDIA graphics driver installation process.
 
 ![Express Installation option in the GeForce Experience app.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/express-installation.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you have an Intel graphics driver, you can visit the [Intel official website](https://www.intel.com/content/www/us/en/search.html#sort=relevancy&f:@tabfilter=[Downloads]&f:@stm%5F10385%5Fen=[Graphics]) and download the latest update for your graphics driver. The downloaded file will be in an executable format, which you can install like any other Windows application.
 
  Once you've updated the graphics driver on your computer, restart it and launch _Minecraft_ to check for the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ##  Edit the _Minecraft_ Launcher Path
 
  The Exit Code 1 error can also occur due to your Windows username if it contains any special characters. These special characters can sometimes prevent the Minecraft launcher from finding the game directory, which ultimately results in the error.
@@ -128,12 +152,18 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Browse option in the Edit window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/browse-option-in-the-edit-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<!-- affiliate ads end -->
  If you haven't modified the Java installation path, then navigate to the following location and select the "Java.exe" file. Then, click "Open."
 
         `C:\Program Files\Java\jre-1.8\bin`
     
 ![Open option in the Open File window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/open-option-in-the-open-file-window.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<!-- affiliate ads end -->
  Click the "Save" button.
 
 ![Save option in the Edit Installation window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/save-option-in-the-edit-installation-window.jpg) 
@@ -148,10 +178,16 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
 
 ![Saves folder in the Minecraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/saves-folder-in-the-minecraft-folder.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After that, return to the "Roaming" folder, and delete the ".Minecraft" folder. This will [uninstall Minecraft from your computer](https://youtube-docs.techidaily.com/ed-in-2024-strategies-for-using-youtube-to-boost-classroom-engagement/).
 
 ![Delete option to delete the Mincraft folder.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/delete-option-to-delete-the-mincraft-folder.jpg) 
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After that, restart your computer and open the _Minecraft_ launcher. Then, log in with your [Microsoft account](https://sim-unlock.techidaily.com/in-2024-sim-unlock-vivo-y17s-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/) and follow the instructions to install the game on your computer.
 
 ![Minecraft log in page.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/minecraft-log-in-page.jpg) 
@@ -180,3 +216,45 @@ _Minecraft_ is still one of the most popular games on the planet, but it's far f
      data-ad-slot="8358498916"
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-modern-warfare-2-fps-drops-and-stuttering-on-windows/"><u>[Fixed] Modern Warfare 2 FPS Drops and Stuttering on Windows</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-pristine-screenshot-tool-free-and-simple/"><u>[New] In 2024, Pristine Screenshot Tool - Free and Simple</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-sonic-skills-mac-recording-tips/"><u>[New] In 2024, Sonic Skills  Mac Recording Tips</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-future-fables-top-30-quotes-on-tomorrows-realities/"><u>[Updated] 2024 Approved  Future Fables  Top 30 Quotes on Tomorrow's Realities</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-broad-overview-delving-into-google-podcasts-application/"><u>[Updated] Broad Overview  Delving Into Google Podcasts Application</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-pro-tools-for-creatives-comprehensively-evaluating-ae-plugins/"><u>[Updated] Pro Tools for Creatives  Comprehensively Evaluating AE Plugins</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-top-10-must-have-terraria-extensions-for-2024/"><u>[Updated] Top 10 Must-Have Terraria Extensions for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-broad-overview-the-mechanics-of-google-podcast-app/"><u>2024 Approved  Broad Overview  The Mechanics of Google Podcast App</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-iphone-luminance-mastering-dark-imagery/"><u>2024 Approved  IPhone Luminance  Mastering Dark Imagery</u></a></li>
+<li><a href="https://blog-min.techidaily.com/4-ways-to-transfer-music-from-infinix-hot-40-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>4 Ways to Transfer Music from Infinix Hot 40 to iPhone | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-division-2-glitches-with-these-quick-and-effective-solutions/"><u>Beat Division 2 Glitches with These Quick and Effective Solutions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clear-your-game-startup-hurdle-in-helldivers-a-fix-for-the-blackout-beginning/"><u>Clear Your Game Startup Hurdle in Helldivers √: A Fix for the Blackout Beginning</u></a></li>
+<li><a href="https://win-blog.techidaily.com/embark-on-a-thrilling-days-gone-first-person-shooter-journey-exclusively-for-pc-players/"><u>Embark On A Thrilling 'Days Gone' First-Person Shooter Journey, Exclusively for PC Players!</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/enhance-your-learning-experience-with-these-5-ways-to-use-chatgpt-at-school/"><u>Enhance Your Learning Experience with These 5 Ways to Use ChatGPT at School</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-increase-frames-per-second-fps-in-the-f1-2021-racing-simulator-for-pc-players/"><u>Expert Tips to Increase Frames Per Second (FPS) in the F1 2021 Racing Simulator for PC Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-v-fix-overcoming-the-d3d-initialization-error-errgfxd3dinit/"><u>Grand Theft Auto V Fix: Overcoming the D3D Initialization Error (ERR_GFX_D3D_INIT)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-linking-your-apple-homepod-with-television-devices/"><u>Guide: Linking Your Apple HomePod with Television Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-msodll-not-found-or-missing-errors/"><u>How to Fix Mso.dll Not Found or Missing Errors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-lightning-fast-windows-photo-inspector/"><u>In 2024, Lightning-Fast Windows Photo Inspector</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-tips-eliminating-game-crashes-in-fifa-20-when-played-on-pc/"><u>Master Tips: Eliminating Game Crashes in FIFA 20 When Played on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-multiversus-pc-trouble-a-guide-for-smooth-gameplay-launches/"><u>Mastering MultiVersus PC Trouble: A Guide for Smooth Gameplay Launches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-overcoming-persistent-frontier-crashes-in-windows-environment/"><u>Mastering Stability: Overcoming Persistent 'Frontier' Crashes in Windows Environment</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/must-haves-in-a-high-performance-gaming-device/"><u>Must-Haves in a High-Performance Gaming Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nba-2k21-for-pc-stability-tips-how-to-prevent-the-game-from-crashing/"><u>NBA 2K21 for PC Stability Tips - How to Prevent the Game From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-pcs-performance-fixing-high-cpu-drain-in-phasmophobia/"><u>Optimizing Your PC's Performance: Fixing High CPU Drain in Phasmophobia</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-windows/"><u>Overcoming Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-fixing-fall-guys-freezes-and-lag-issues-in-pc-version/"><u>Solved: Fixing 'Fall Guys' Freezes and Lag Issues in PC Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-audio-glitches-and-problems-in-halo-infinite-gameplay/"><u>Solving Audio Glitches and Problems in Halo Infinite Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/taming-temperature-spikes-during-high-performance-gaming/"><u>Taming Temperature Spikes During High-Performance Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-definitive-answer-to-your-windows-computers-zoom-black-screen-nightmare-expert-advice-and-fixes/"><u>The Definitive Answer to Your Windows Computer's Zoom Black Screen Nightmare - Expert Advice & Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-solutions-to-resolve-stuttering-and-lag-in-baldurs-gate/"><u>Top 6 Solutions to Resolve Stuttering and Lag in Baldur's Gate</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-pc-lag-in-halo-infinite-discover-7-effective-ways-to-ensure-smooth-gameplay/"><u>Troubleshoot PC Lag in Halo Infinite: Discover 7 Effective Ways to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-overcoming-lunar-client-malfunctions-on-desktop-computers/"><u>Troubleshooting Guide for Overcoming Lunar Client Malfunctions on Desktop Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-resolving-after-effects-software-crashes-in-windows-11-and-10-environments/"><u>Troubleshooting Tips for Resolving After Effects Software Crashes in Windows 11 & 10 Environments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-pc-users-overcoming-cs2-game-crashes/"><u>Ultimate Fixes for PC Users: Overcoming CS2 Game Crashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlocking-insights-into-rcas-video-doorbell-camera-a-detailed-performance-review/"><u>Unlocking Insights Into RCA's Video Doorbell Camera: A Detailed Performance Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vrchat-troubleshooting-made-easy-how-to-fix-a-non-functional-app/"><u>VRChat Troubleshooting Made Easy – How to Fix a Non-Functional App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722989095343-yakuza-like-a-dragon-triumphs-in-steam-experience-the-epic-journey/"><u>Yakuza: Like A Dragon Triumphs in Steam - Experience the Epic Journey</u></a></li>
+</ul></div>
