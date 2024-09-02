@@ -1,0 +1,235 @@
+---
+title: "Revitalizing Your Rust Project: Bid Farewell to Non-Responsive Errors"
+date: 2024-09-01T08:47:44.908Z
+updated: 2024-09-02T08:47:44.908Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Revitalizing Your Rust Project: Bid Farewell to Non-Responsive Errors"
+excerpt: "This Article Describes Revitalizing Your Rust Project: Bid Farewell to Non-Responsive Errors"
+thumbnail: https://thmb.techidaily.com/3fcb347d205cfe9b7a3f6b4b1ca723a231574eb0dba8c64f2b9f80cb0b9c338e.jpg
+---
+
+## Heroes of the Storm Connectivity Fixed – Restart Your Adventure
+
+Constantly getting this error message **‘ _Connection to the Battle.net game server has been lost. Please exit and try again._ ‘** ? You’re not alone there. Many Call of Duty players find this random disconnection quite annoying and have a hard time finding a real solution. But here in this post, you will learn every possible way that has been proved helpful to other gamers.
+
+## Why am I getting this error message?
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/featured_-1200x653.jpg)
+
+ This error occurs when you have an issue with your connection to the Call of Duty servers. Either the server is down or there’s something wrong with your Internet connection or network settings.
+
+ The most possible causes of ‘ **_Connection to the Battle.net game server has been lost_**  ‘ are as follows:
+
+* The server is down
+* Firewall/antivirus interruption
+* Insufficient bandwidth
+* Unstable internet connection
+* Outdated device drivers
+* Software confliction
+* etc.
+
+## How to fix ‘ **_Connection to the Battle.net game server has been lost_**  ‘?
+
+ Before you try any of these fixes below, please make sure to[check the game server status](https://support.activision.com/onlineservices) and restart your modem and router to rule out any possible connection issues.
+
+ If the game servers are working just fine but the ‘ **_Connection to the Battle.net game server has been lost_**  ‘ error persists after restarting your network, you may want to try the following fixes.
+
+1. [Allow your game to run through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
+2. [Perform a network reset](https://tools.techidaily.com/drivereasy/download/)
+3. [Change your DNS server](https://tools.techidaily.com/drivereasy/download/)
+4. [Update your device drivers](https://tools.techidaily.com/drivereasy/download/)
+5. [Use a VPN](https://tools.techidaily.com/drivereasy/download/)
+
+ Note: The screenshots below have been mostly taken from a Windows 10 operating system. If you are using Windows 11, please be aware that the visual appearance of your screen may vary slightly, but the steps to perform the task remain consistent.
+
+### Fix 1\. Allow your game to run through Windows Firewall
+
+ Check for any firewall and antivirus restrictions that may hinder your connection. As reported by some gamers, turning off firewall restrictions and uninstalling antivirus software worked for them immediately.
+
+ First, uninstall your antivirus software in case simply disabling them might not work. Once complete, try restarting your game to check if the error ‘ **_Connection to the Battle.net game server has been lost_**  ‘ disappears.
+
+ If this method doesn’t work for you, it might be your Windows Firewall settings that stop your game from functioning properly. Here’s how to allow your game to run through Windows Firewall:
+
+1. On your keyboard, press the**Windows + R** key to open the Run dialog box.
+2. Type in**firewall.cpl** and press**Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
+3. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
+<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<!-- affiliate ads end -->
+![allow app run through firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/allow.jpg)
+4. Look for your game e.g. **Call of Duty: Black Ops Cold War** , and make sure the box to its left is checked, as well as the two boxes to the right i.e.**Private** &**Public** .
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ As you know Public network is an unsafe territory, do not allow any third-party application of unknown origin on any public network in your computer settings.
+
+If your game isn’t on the list, follow these steps:
+
+1. Click on **Change settings > Allow another app…**  
+![change settings](https://images.drivereasy.com/wp-content/uploads/2021/07/add-program.gif)
+2. Click**Browse** to locate your game (**BlackOpsColdWar.exe** ) and click**Add** once selected.
+3. Once added, tick both the**Private** and**Public** boxes for the application.
+4. Restart your Battle.net and play the game again the test the issue.
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+### Fix 2\. Perform a network reset
+
+ If the fix above didn’t fix your problem, the problem is not caused by your antivirus software or firewall interruption. You may want to follow these steps to reset your network quickly:
+
+1. In the Windows search box, type **cmd** . Under **Command Prompt** , select **Run as administrator** .  
+_![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-admin-cmd.jpg)_
+2. Click **OK** to confirm your action.
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+3. Once the Command Prompt window is open, type the following 5 command lines (press **Enter**  after entering each command line):  
+
+**`netsh winsock reset`**  
+**`netsh int ip reset`**  
+**`ipconfig /release`**  
+**`ipconfig /renew`**  
+**`ipconfig /flushdns`**  
+
+![reset network](https://images.drivereasy.com/wp-content/uploads/2021/07/reset.png)
+4. Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 3\. Change your DNS server
+
+1. On your keyboard, press the **Windows + R** key at the same time to open the Run dialog box.
+2. Type in **ncpa.cpl** and press **Enter** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
+3. Right-click your current network connection, and select **Properties** .  
+![properties of network connection](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.png)
+4. Double-click **Internet Protocol Version 4 (TCP/IPv4)** .  
+![ipv4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPV4-2.jpg)
+5. Select **Use the following DNS server addresses** and fill in the Google DNS servers:  
+
+**Preferred DNS server: 8.8.8.8**  
+**Alternate DNS server: 8.8.4.4**  
+
+![change DNS server](https://images.drivereasy.com/wp-content/uploads/2021/07/following-DNS.jpg)
+6. Click **OK** to apply.
+
+<!-- affiliate ads begin -->
+<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4\. Update your device drivers
+
+ It’s also recommended by[Activision](https://eu.battle.net/support/en/article/31024) that you should update your device drivers (including your Network adapter driver) to check if the **‘_Connection to the Battle.net game server has been lost_**  ‘ problem is caused by corrupted/outdated drivers.
+
+ If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with **[Driver Eas](https://tools.techidaily.com/drivereasy/download/) [y](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. **Driver Easy handles it all.**
+
+ You can update your drivers automatically with either the **[Free](https://tools.techidaily.com/drivereasy/download/)**  or the **[Pro version](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+
+![](https://images.drivereasy.com/wp-content/uploads/2023/03/Driver-Easy-download-needed.jpg)
+3. Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Or click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)
+4. Once your drivers are up to date, restart your computer for the changes to take full effect.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5\. Use a VPN
+
+ It has now been confirmed that some ISPs are having trouble routing to Blizzard and Battle.net servers. It’s very unlikely that you will switch to a different ISP, but there’s still a way to change the routing – using a VPN.
+
+ Every VPN results in much higher latency and slower speeds (both upload and download). The higher latency is the primary issue for most online games, as there will be a noticeable delay from your input to when the server recognizes it.
+
+ Obviously, the farther the VPN server is from you and the game’s server, the higher the latency. So when you look for a great VPN with less latency, you go with these with more servers in your country.
+
+ If you’re looking for some great VPNs that work perfectly with your games, we recommend a paid VPN since it has more stable servers, and many free VPNs come with a data limit, so choose a VPN depending on your personal use:
+
+* [Nord VPN](https://tools.techidaily.com/drivereasy/download/) (5,000+ servers; paid)[85% Off Coupon](https://tools.techidaily.com/drivereasy/download/)
+* [Hotspot Shield](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=http%3A%2F%2Fhotspotshield.com&id=drivereasy-en-150813) (3,200 servers; 500MB of free data per day)
+* [Surfshark VPN](https://shop-links.co/link/?exclusive=1&publisher_slug=itechdaily19598&url=https%3A%2F%2Fr.brandreward.com%2F%3Fkey%3D3882aba4cadd4473e0195097fdf20855%26url%3Dhttp%253A%252F%252Fsurfshark.com%26id%3Ddrivereasy-en-150813) (3,200 servers; paid)
+
+---
+
+ Hopefully, you have fixed your ‘Connection to Blizzard Game Server Lost’ issue by now. But if the connection error persists, you can contact[Activision](https://support.activision.com/) for further help.
+
+* [Blizzard](https://tools.techidaily.com/drivereasy/download/)
+* [game error](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-three-methods-for-capturing-ps4-gaming-moments-for-2024/"><u>[New] Three Methods for Capturing PS4 Gaming Moments for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-unlocking-the-secrets-to-altering-your-networks-showcase-picture/"><u>[New] Unlocking the Secrets to Altering Your Network's Showcase Picture</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010504135-solved-epic-games-launcher-wont-open-quickly-and-easily/"><u>[SOLVED] Epic Games Launcher Won't Open | Quickly & Easily</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-elevate-storytelling-free-soundtrack-options-available-in-2024/"><u>[Updated] Elevate Storytelling - Free Soundtrack Options Available, In 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-mastering-the-art-of-captivating-vimeo-staff-picks/"><u>[Updated] In 2024, Mastering the Art of Captivating Vimeo Staff Picks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-pathway-to-prominence-on-social-media-for-2024/"><u>[Updated] The Pathway to Prominence on Social Media for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-visualsizetweak-mastering-your-instagram-media/"><u>2024 Approved  VisualSizeTweak  Mastering Your Instagram Media</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-frustration-with-these-fixes-for-ghostwire-tokyos-reliable-playtime-on-desktops/"><u>Banish Frustration with These Fixes for Ghostwire: Tokyo's Reliable Playtime on Desktops</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/become-a-periscope-expert-with-our-full-guide-for-2024/"><u>Become a Periscope Expert with Our Full Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breeze-through-successful-discord-installation-after-initial-failure/"><u>Breeze Through Successful Discord Installation After Initial Failure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-the-issue-successful-setup-of-far-cry-6-on-a-computer-system/"><u>Bypassing the Issue: Successful Setup of Far Cry 6 on a Computer System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dread-hunger-continues-to-disrupt-gameplay-on-windows-systems/"><u>Dread Hunger Continues to Disrupt Gameplay on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/duo-of-excellence-how-it-takes-two-not-launched-is-revolutionizing-collaboration/"><u>Duo of Excellence: How 'It Takes Two Not Launched' Is Revolutionizing Collaboration</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/elevating-health-ambitions-a-step-by-step-approach-using-chatgpt-assistance/"><u>Elevating Health Ambitions: A Step-by-Step Approach Using ChatGPT Assistance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elite-hackers-guide-to-squashing-cod-boicw-bug-8g6mnq0p-xbox-live-error-solved/"><u>Elite Hackers' Guide to Squashing COD BOICW Bug 8^G6MNQ0P - Xbox Live Error Solved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-overcome-modern-warfare-2-stability-problems-on-desktops/"><u>Expert Advice - Overcome Modern Warfare 2 Stability Problems on Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-overcoming-continuous-crashes-during-beat-saber-sessions/"><u>Expert Advice: Overcoming Continuous Crashes During Beat Saber Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-resolving-windows-1110-spatial-audio-issues/"><u>Fixes & Solutions: Resolving Windows 11/10 Spatial Audio Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-pc-issues-with-star-wars-jedi-fallen-order-common-errors-solved/"><u>How to Fix PC Issues with Star Wars Jedi: Fallen Order - Common Errors Solved</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-guide-to-unlock-your-oppo-reno-10-proplus-5g-by-drfone-android/"><u>In 2024, Full Guide to Unlock Your Oppo Reno 10 Pro+ 5G</u></a></li>
+<li><a href="https://windows11.techidaily.com/invisible-disk-hiding-tricks-in-win11w10/"><u>Invisible Disk Hiding Tricks in Win11/W10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/join-the-battle-arena-the-definitive-pc-guide-to-roller-champions-crossplay/"><u>Join the Battle Arena: The Definitive PC Guide to Roller Champions Crossplay</u></a></li>
+<li><a href="https://media-tips.techidaily.com/maximizing-your-mac-essential-features-and-uses-of-the-ps3-video-converter/"><u>Maximizing Your Mac: Essential Features and Uses of the PS3 Video Converter</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/proiphone-photo-techniques-for-beginners/"><u>Proiphone Photo Techniques for Beginners</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcoming-the-google-chrome-wont-launch-issue/"><u>Resolved: Overcoming the 'Google Chrome Won't Launch' Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-top-fixes-for-eliminating-heart-of-iron-iv-game-crashes-and-glitches/"><u>Resolved: Top Fixes for Eliminating Heart of Iron IV Game Crashes and Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-pc-gaming-issues-preventing-final-fantasy-xv-from-crashing/"><u>Resolving PC Gaming Issues: Preventing Final Fantasy XV From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/silent-blocky-world-uncover-why-minecraft-sounds-are-missing-and-how-to-bring-them-back/"><u>Silent Blocky World? Uncover Why Minecraft Sounds Are Missing and How to Bring Them Back</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-how-to-get-days-gone-running-on-your-pc/"><u>Solution Found: How to Get Days Gone Running on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-troubleshooting-the-fortnite-ls-0013-startup-glitch/"><u>Solution Found: Troubleshooting the Fortnite LS-0013 Startup Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-steps-browser-compatibility-with-ie-and-web-pages/"><u>Solution Steps: Browser Compatibility with IE and Web Pages</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-network-delays-lags-and-decreased-frame-rates-in-the-cod-black-ops-4-experience/"><u>Solving Network Delays, Lags & Decreased Frame Rates in the COD: Black Ops 4 Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-strategies-to-prevent-maplestory-from-crashing-on-windows-11/"><u>Top Strategies to Prevent MapleStory From Crashing on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-overcome-ps4-freezing-issues-with-easy-steps/"><u>Troubleshoot and Overcome PS4 Freezing Issues with Easy Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fixing-game-not-launching-issues-confirm-your-installation/"><u>Troubleshooting: Fixing 'Game Not Launching' Issues - Confirm Your Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-launching-problems-with-valorant-in-2eighty-four/"><u>Ultimate Fixes for Launching Problems with Valorant in 2Eighty-Four</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-fixing-the-root-causes-of-everspace-ii-pc-instability/"><u>Understanding and Fixing the Root Causes of Everspace II PC Instability</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/unlocking-secrets-to-dell-scanner-issues/"><u>Unlocking Secrets to Dell Scanner Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/untangle-slow-utorrent-downloads-with-proven-optimization-techniques/"><u>Untangle Slow uTorrent Downloads with Proven Optimization Techniques</u></a></li>
+</ul></div>

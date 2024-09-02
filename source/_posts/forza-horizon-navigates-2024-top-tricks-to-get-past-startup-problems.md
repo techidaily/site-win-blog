@@ -1,0 +1,217 @@
+---
+title: "Forza Horizon Navigates 2024: Top Tricks to Get Past Startup Problems"
+date: 2024-09-01T08:47:37.250Z
+updated: 2024-09-02T08:47:37.250Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Forza Horizon Navigates 2024: Top Tricks to Get Past Startup Problems"
+excerpt: "This Article Describes Forza Horizon Navigates 2024: Top Tricks to Get Past Startup Problems"
+thumbnail: https://thmb.techidaily.com/799b62d064a45ec31383dad7a037b165e61e53db2f1095b1f1474aef4ef5c21f.png
+---
+
+## Minecraft Won't Load? Master Hacks to Get Past Persistent Start-Up Problems
+
+Some players are reporting that they can’t get past the Mojang screen. It looks like it’s hard to fix, and this problem can persist for months. If you’re one of them, don’t worry. In this post, you’ll find all the possible fixes with detailed troubleshooting steps.
+
+## Try these fixes
+
+ You don’t have to try them all; just walk your way down until you find the one that works.
+
+1. **[Uninstall your antivirus software](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Don’t use free VPNs](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Update your device drivers](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Remove the adware](https://tools.techidaily.com/drivereasy/download/)**
+5. **[End the runtime broker](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Uninstall your antivirus software
+
+ Many things can cause Minecraft stuck on the loading screen issue, but one of the most known issues is your antivirus software. Many antivirus software is incompatible with Minecraft and should be uninstalled from your system.
+
+ Disabling these antivirus apps won’t always work, so you can uninstall them temporarily to check if this is the culprit of your game.
+
+The known problematic software are:
+
+* AVG Antivirus
+* BitDefender
+* ByteFence
+* Comcast Constant Guard
+* McAfee Anti-virus/Intel Security
+* Norton Antivirus
+* etc.
+
+ You can view[the full list](https://minecrafthopper.net/help/known-incompatible-software/) of known incompatible software here.
+
+<!-- affiliate ads begin -->
+<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Don’t use free VPNs
+
+ Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
+
+### Fix 3: Update your device drivers
+
+ Just in case, make sure all your drivers are up to date. Outdated or corrupted device drivers are outdated or corrupted (especially your graphics driver) can lead to a lot of issues such as Minecraft being stuck on the loading screen.
+
+There are mainly two ways to update your device drivers:
+
+**Option 1 – Manually –** you’ll need to visit the manufacturer’s website to download the latest driver and install them manually ([Learn How](https://tools.techidaily.com/drivereasy/download/) ). For example, you’ll need to go to the[NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , or[Intel](https://downloadcenter.intel.com/) driver download page, and find the exact driver for your device, then download and install them on your computer.
+
+**Note:** Windows Device Manager won’t always deliver the latest updates.[Learn Why…](https://tools.techidaily.com/drivereasy/download/)
+
+**Option 2 – Automatically –** Updating your drivers can be easily done within a few clicks with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You don’t have to know anything about computers. Just perform a quick scan and Driver Easy will detect all the outdated drivers and update them all automatically.
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/) [](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/scan.png)
+3. Click **Update** next to your graphics card to download the latest driver, and then install it manually (you can do this in the Free version).  
+<!-- affiliate ads begin -->
+<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
+<span class="text-ad-content">
+	#1 Rated Parental Control Software.<br/>
+	Monitor & Control all PC Activity!<br/>
+		<cite style="color:green">sentrypc.com/parental-controls/</cite>
+	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Or click **Update All**  to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you get 30-day money back guarantee and full technical support.)  
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 4: Remove the adware
+
+ Many players find removing the adware helped them get past the forever-loading Majong screen. You can use the free utility AdwCleaner to remove useless adware:
+
+1. Go to the[](https://www.malwarebytes.com/adwcleaner/) [Malwarebytes official website](https://www.malwarebytes.com/adwcleaner/) and download the AdwCleaner to your computer.
+2. Follow the on-screen instructions to complete the installation.
+3. Run a scan and remove any malware found.
+4. Restart the computer and see if Minecraft launches then.
+
+ Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<!-- affiliate ads end -->
+### Fix 5: End the runtime broker
+
+ This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
+
+1. Launch your Minecraft.
+2. On your keyboard, press the**Ctrl + Shift + Esc** at the same time to open the Task Manager.
+3. Look for Minecraft and click the arrow beside it.
+4. Click on the**Runtime Broker** , and click**End Task** .
+
+ If you want a permanent fix, you can try uninstalling some apps that use runtime broker.
+
+1. Right-click the**Start** menu (the Windows logo) and select**Windows PowerShell (Admin).**  
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/admin.jpg)  
+
+ If you are on Windows 11, it will be**Terminal (Amin)** .  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
+2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+3. Restart your PC to see if Minecraft can load normally.
+
+If this method doesn’t work for you, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<!-- affiliate ads end -->
+### Fix 6: Run Minecraft Launcher in compatibility mode
+
+ Many find running Minecraft launcher in compatibility mode helped solve the Minecraft stuck on the loading screen issue. This method has varying success, but it’s worth trying. Here’s how to do it:
+
+1. Go to the folder where you installed the Minecraft Launcher.
+2. Right-click Minecraft Launcher and select**Properties** .
+3. Go to the**Compatibility** tab, and select**Windows 7** for the**Compatibility mode** . Also, remember to check the**Disable fullscreen optimizations** box.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
+4. Click**Apply** \>**OK** .
+
+ Now you can launch your Minecraft again to see if this issue has been resolved by now.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<!-- affiliate ads end -->
+### Fix 7: Perform a clean reinstall
+
+ Minecraft stuck on the loading screen might be triggered by some important files in your Minecraft folder. Performing a clean uninstall might fix that. To do that, you’ll need to delete all the Minecraft data.
+
+1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
+![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
+2. Right-click Minecraft, and select**Uninstall** .
+3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
+4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
+5. Once done, delete the**.Minecraft** folder.
+6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
+
+---
+
+ Did one of the fixes above solve your problem? Feel free to share your own troubleshooting experience with us in the comment below.
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Minecraft](https://tools.techidaily.com/drivereasy/download/)
+* [Windows](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-clearing-up-disrupted-visual-playback-online/"><u>[Updated] Clearing Up Disrupted Visual Playback Online</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-racing-rivals-clash-black-gopro-vs-ghost-s-drift-edition/"><u>2024 Approved  Racing Rivals Clash  Black GoPro Vs. Ghost-S Drift Edition</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-social-forecast-in-graphs-2023-edition-unveiled/"><u>2024 Approved  Social Forecast in Graphs  2023 Edition Unveiled</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/a-complete-guide-to-oem-unlocking-on-samsung-galaxy-m34-5g-by-drfone-android/"><u>A Complete Guide To OEM Unlocking on Samsung Galaxy M34 5G</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/ace-the-green-screen-scene-with-these-tips/"><u>Ace the Green Screen Scene with These Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995610140-back-4-blood-wont-open-here-are-the-solutions-for-all-your-windows-needs/"><u>Back 4 Blood Won't Open? Here Are the Solutions for All Your Windows Needs!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-enhance-horizon-zero-dawns-performance-and-speed-up-frame-rate/"><u>Boost Your Gameplay: Enhance Horizon Zero Dawn's Performance & Speed Up Frame Rate</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-play-mkv-movies-on-edge-40-neo-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can I play MKV movies on Edge 40 Neo?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-technical-terrors-a-guide-to-preventing-dragon-age-origins-crashes-on-windows-10/"><u>Conquer Technical Terrors: A Guide to Preventing Dragon Age: Origins Crashes on Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722972033710-download-and-update-amd-radeon-rx-480-drivers-with-simple-steps/"><u>Download and Update AMD Radeon RX 480 Drivers with Simple Steps</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/effortless-techniques-to-troubleshoot-and-repair-your-i2c-hid-driver-problems/"><u>Effortless Techniques to Troubleshoot and Repair Your I2C HID Driver Problems</u></a></li>
+<li><a href="https://media-tips.techidaily.com/effortless-transition-from-rmvb-to-avi-top-conversion-tools-reviewed-for-you/"><u>Effortless Transition From RMVB to AVI: Top Conversion Tools Reviewed for You</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elite-dangerous-no-longer-crashes-after-update-tips-and-tricks/"><u>Elite Dangerous No Longer Crashes After Update: Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-rectifying-directdraw-compatibility-concerns/"><u>Expert Advice on Rectifying DirectDraw Compatibility Concerns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-guide-eliminating-the-dark-scene-in-helldivers-ii-upon-boot-up/"><u>Fixed Guide: Eliminating the Dark Scene in Helldivers II upon Boot-Up</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-drop-frames-enhancing-fps-in-rainbow-six-extraction-for-smoother-play/"><u>Fixing Drop Frames: Enhancing FPS in Rainbow Six Extraction for Smoother Play</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-modern-warfare-3-pc-crashes-simple-solutions/"><u>Fixing Modern Warfare 3 PC Crashes: Simple Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-optimization-success-stability-and-performance-upgrades-to-mass-effect-legendary-series/"><u>Game Optimization Success! Stability & Performance Upgrades to Mass Effect Legendary Series</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-iphone-se-2020-camera-roll-photos-and-photo-stream-pictures-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted iPhone SE (2020) Camera Roll Photos and Photo Stream Pictures? | Stellar</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-step-by-step-guide-to-excellent-ipadiphone-interview-podcast-recording/"><u>In 2024, Step-by-Step Guide to Excellent iPad/iPhone Interview Podcast Recording</u></a></li>
+<li><a href="https://win-blog.techidaily.com/logitech-g403-keyboard-free-drivers-and-latest-updates-for-windows/"><u>Logitech G403 Keyboard: Free Drivers and Latest Updates for Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-smooth-performance-for-dying-light-tackling-frame-rate-problems-head-on/"><u>Master the Art of Smooth Performance for Dying Light: Tackling Frame Rate Problems Head-On</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-discord-performance-strategies-to-curb-elevated-cpu-usage/"><u>Mastering Discord Performance: Strategies to Curb Elevated CPU Usage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-sea-of-thieves-escaping-the-vexing-load-time-errors/"><u>Mastering the Sea of Thieves: Escaping the Vexing Load Time Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-dota-2-freezes-during-load-fixes-applied/"><u>Resolved: Dota 2 Freezes During Load - Fixes Applied</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-your-finals-game-crashes-expert-troubleshooting-tips/"><u>Solving Your 'Finals' Game Crashes: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/spotlight-on-shared-screen-space-for-2024/"><u>Spotlight on Shared Screen Space for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/strategies-for-dealing-with-ark-crashes-successfully/"><u>Strategies for Dealing with ARK Crashes Successfully</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-to-zte-nubia-flip-5g-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/"><u>The Ultimate Guide to ZTE Nubia Flip 5G Pattern Lock Screen Everything You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011966123-trouble-with-football-manager-2023-heres-how-to-fix-it/"><u>Trouble with Football Manager 2023? Here's How to Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unfreeze-your-battle-royale-fixes-for-cold-war-freezes-on-cod-bo/"><u>Unfreeze Your Battle Royale: Fixes for Cold War Freezes on COD BO</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-your-thaumaturge-game-fixes-for-pc-startup-failures-and-glitches/"><u>Unlock Your Thaumaturge Game: Fixes for PC Startup Failures & Glitches</u></a></li>
+</ul></div>

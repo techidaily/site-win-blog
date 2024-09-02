@@ -1,0 +1,190 @@
+---
+title: Quick Guide to Achieving Higher FPS on Apex Legends - Top 6 Strategies Inside!
+date: 2024-09-01T08:42:52.776Z
+updated: 2024-09-02T08:42:52.776Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Quick Guide to Achieving Higher FPS on Apex Legends - Top 6 Strategies Inside!
+excerpt: This Article Describes Quick Guide to Achieving Higher FPS on Apex Legends - Top 6 Strategies Inside!
+thumbnail: https://thmb.techidaily.com/6bf5f8c3a7d4525074ba1b28f14c511bc7c37f5e8a7742b128774ee55042b67a.jpg
+---
+
+## Apex Legends Error Alert: Demystifying the 'Leaf' Issue in the 2022 Patch - Fixes Inside
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/5db3fyzhzw851-1200x471.png)
+
+ The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
+
+## Try these fixes…
+
+ You don’t have to try them all; just work your way down the list until you find the one that does the trick!
+
+[1: Check your Internet connection](https://tools.techidaily.com/drivereasy/download/)
+
+[2: Install all the game updates](https://tools.techidaily.com/drivereasy/download/)
+
+[3: Configure your DNS settings](https://tools.techidaily.com/drivereasy/download/)
+
+[4: Update your network driver](https://tools.techidaily.com/drivereasy/download/)
+
+[5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
+
+## Fix 1: Check your Internet connection
+
+ The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
+
+* Try to **power cycle your router and modem** . Unplug the power cables from your router and your modem, leave them disconnected for at least 30 seconds, then plug the cables back into both devices. When your Internet is working again, check if you still get the error code leaf.
+* If you’re playing Apex Legends on Wi-Fi, make sure there’s no overcrowding. In other words, **if your Wi-Fi is connected to multiple devices, disconnect the ones you don’t need at the moment.**  
+ (Also if possible,**play on** **a wired connection** . It’d provide a more stable and reliable connection.)
+* If you have low-speed Internet, it could lead to an unstable Internet connection. You can google “Internet speed test” and pick a tool to**test your Internet speed** . However, when your Internet connection is unreasonably slow, consider contacting your Internet provider for help.
+
+ If your Internet connection is valid but you still don’t get response from the Apex Legends servers, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 2: Install all the game updates
+
+ This one may seem obvious, but it did help some players to solve the error code leaf when they try to join a match on Apex Legends, so you may want to make sure your game is updated all the time.
+
+ The good new is, the Origin client and the Steam client will automatically download available updates and install them for you, so you don’t actually have to worry. However, if you’ve turned off the automatic updating option at some point before, make sure you turn it on or manually install the updates for your Apex Legends.
+
+ If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
+
+## Fix 3: Configure your DNS settings
+
+ When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
+
+1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
+2. Click**Change adapter options** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
+3. Right-click**the network you’re using** , then click**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
+4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
+5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+ **Preferred DNS server: 8.8.8.8**  
+ **Alternate DNS server: 8.8.4.4**  
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
+
+## Fix 4: Update your network driver
+
+ If your network driver is outdated or faulty, it could be responsible for the code leaf server connection issue. You may want to update your network adapter driver to make sure it’s functioning properly.
+
+ There are two ways you can get the right driver for your network adapter:**manually** or**automatically** .
+
+**Manual driver update** – You can update the network adapter driver[](https://tools.techidaily.com/drivereasy/download/) [via Device Manager](https://tools.techidaily.com/drivereasy/download/) . Note that Windows doesn’t update its database very frequently. That said, it’s possible that your network adapter driver needs an update, but Device Manager can’t do it for you if it doesn’t detect a new version in the Windows database.
+
+**Automatic driver update** – If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your exact network adapter and your Windows version, then it will download and install it correctly:
+
+ 1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+
+ 2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+ 3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+</a>
+<!-- affiliate ads end -->
+## Fix 5: Switch to another server
+
+ We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
+
+1. Launch Apex Legends.
+2. When you see the main page with the Continue button in the middle, wait for at least 1 minute. DO NOT press any keys or click any button on the screen.
+3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
+4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
+5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+<!-- affiliate ads begin -->
+<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<!-- affiliate ads end -->
+
+---
+
+ Hopefully this article solves the error code leaf for you and you can now join a match on Apex Legends! Please feel free to leave a comment if you have any suggestions or questions.
+
+* [Apex Legends](https://tools.techidaily.com/drivereasy/download/)
+* [game error](https://tools.techidaily.com/drivereasy/download/)
+* [network issue](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-destiny-2-wont-launch-pc/"><u>[Fixed] Destiny 2 Won’t Launch PC</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-dive-into-gaming-how-to-build-and-prosper-on-youtube/"><u>[New] 2024 Approved  Dive Into Gaming  How to Build and Prosper on YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-creating-a-viral-youtube-sensation-simplified-action-plan-for-2024/"><u>[New] Creating a Viral YouTube Sensation  Simplified Action Plan for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-bringing-text-to-life-a-guide-to-dynamic-animation-methods/"><u>[New] In 2024, Bringing Text to Life  A Guide to Dynamic Animation Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-dread-hunger-keeps-crashing-on-pc/"><u>[SOLVED] Dread Hunger Keeps Crashing on PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-critical-choices-for-perfect-snaps/"><u>[Updated] Critical Choices for Perfect Snaps</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-innovative-tricks-for-captivating-boomerangs/"><u>[Updated] In 2024, Innovative Tricks for Captivating Boomerangs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-navigating-the-social-sea-comprehensive-30-tips-for-success/"><u>[Updated] Navigating the Social Sea  Comprehensive 30 Tips for Success</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-ultimate-gathering-of-heartfelt-weddings-youtube-and-vimeo-edition-for-2024/"><u>[Updated] The Ultimate Gathering of Heartfelt Weddings - Youtube & Vimeo Edition for 2024</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/a-comprehensive-guide-to-icloud-unlock-from-apple-iphone-se-2020-online-by-drfone-ios/"><u>A Comprehensive Guide to iCloud Unlock From Apple iPhone SE (2020) Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008596947-assassins-creed-odyssey-pc-version-now-stable-and-crash-free/"><u>Assassin's Creed Odyssey PC Version Now Stable and Crash-Free</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/best-iphone-models-for-gamers/"><u>Best iPhone Models for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/black-ops-cold-war-game-crash-heres-what-to-do-with-error-code-0xc00n0005/"><u>Black Ops Cold War Game Crash? Here's What To Do With Error Code 0XC00n0005!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gaming-quick-fixes-for-slow-steam-running-issues/"><u>Boost Your Gaming: Quick Fixes for Slow Steam Running Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/download-and-play-days-gone-on-your-pc-today/"><u>Download and Play 'Days Gone' On Your PC Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-getting-past-pc-boot-errors-in-saints-row-game/"><u>Expert Tips: Getting Past PC Boot Errors in Saints Row Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-5-stability-issues-heres-how-you-can-fix-the-game-crashes/"><u>Grand Theft Auto 5 Stability Issues? Here's How You Can Fix the Game Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-vivo-y02t-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/incorporate-a-parenthetical-definition-to-clarify-each-term-once-per-section-it-appears-eg-also-known-as-harmony-lenders-individuals-providing-funding-witho542/"><u>Incorporate a Parenthetical Definition to Clarify Each Term Once per Section It Appears (E.g., (Also Known as Harmony Lenders, Individuals Providing Funding without Expecting Repayment Terms)).</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722987710767-kodi-cant-connect-heres-your-solution-for-the-directory-information-failure/"><u>Kodi Can't Connect? Here's Your Solution for the Directory Information Failure!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/latest-android-update-unveils-revamped-google-assistant-app-icon/"><u>Latest Android Update Unveils Revamped Google Assistant App Icon</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-connection-drops-and-lags-a-guide-for-new-world-players/"><u>Overcoming Connection Drops & Lags: A Guide for 'New World' Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-persistent-game-crash-issue-in-halo-infinite-on-your-windows-computer/"><u>Resolving the Persistent Game Crash Issue in Halo Infinite on Your Windows Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/skyrim-quiet-dilemma-heres-how-to-restore-game-sound/"><u>Skyrim Quiet Dilemma? Here's How to Restore Game Sound</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-game-crash-issues-in-cod-vanguard-top-methods-for-seamless-gaming/"><u>Solve Game-Crash Issues in COD: Vanguard – Top Methods for Seamless Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-itunes-not-detecting-your-iphone-device-on-windows-10-systems/"><u>Solving iTunes Not Detecting Your iPhone Device on Windows 10 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-repairing-minecraft-error-with-exiting-code-0/"><u>Step-by-Step Guide to Repairing Minecraft Error with Exiting Code 0</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-solutions-for-the-zoom-cant-start-video-issue/"><u>Top 5 Solutions for the 'Zoom Can't Start Video' Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-oculus-links-blackout-fast-with-these-easy-solutions/"><u>Troubleshoot Oculus Link’s Blackout Fast with These Easy Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-fixing-pc-crashes-in-starfield-a-comprehensive-guide/"><u>Troubleshooting and Fixing PC Crashes in Starfield: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-excessive-cpu-usage-on-discord-a-2e4-guide/"><u>Troubleshooting Excessive CPU Usage on Discord: A 2E4 Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fallout-76-server-connectivity-problems-for-windows-users/"><u>Troubleshooting Fallout 76 Server Connectivity Problems for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-dragon-age-origins-freezing-problems-in-windows-11/"><u>Troubleshooting Guide: Fixing Dragon Age: Origins Freezing Problems in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-the-issue-of-witcher-3-wild-hunt-failing-to-start/"><u>Troubleshooting Guide: Resolving the Issue of Witcher 3: Wild Hunt Failing to Start</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-low-frames-per-second-in-counter-strike-2-maximize-pc-performance/"><u>Troubleshooting Low Frames Per Second in Counter-Strike 2: Maximize PC Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-why-cant-i-hear-during-a-discord-video-call/"><u>Troubleshooting Steps: Why Can’t I Hear During a Discord Video Call?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-issues-with-starting-farming-simulator-22/"><u>Troubleshooting Tips: Resolving Issues with Starting Farming Simulator 22</u></a></li>
+<li><a href="https://win-blog.techidaily.com/updated-yakuza-3-for-pc-users-say-goodbye-to-unexpected-freezes-and-errors/"><u>Updated Yakuza 3 for PC Users: Say Goodbye to Unexpected Freezes and Errors</u></a></li>
+</ul></div>

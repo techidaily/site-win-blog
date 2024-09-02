@@ -1,0 +1,220 @@
+---
+title: "Bid Farewell to Lag: Winning Strategies for Optimal Fortnite Playback"
+date: 2024-09-01T08:41:49.614Z
+updated: 2024-09-02T08:41:49.614Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Bid Farewell to Lag: Winning Strategies for Optimal Fortnite Playback"
+excerpt: "This Article Describes Bid Farewell to Lag: Winning Strategies for Optimal Fortnite Playback"
+thumbnail: https://thmb.techidaily.com/49eb34034b62afdae5c87e2035f3de3aceeb872b525f1dc02b937f5f16ccbcf5.jpg
+---
+
+## Definitive Strategies for Stable MapleStory Gaming on Windows 10 - Update Your Skills
+
+![Steam ??MapleStory](https://cdn.cloudflare.steamstatic.com/steam/apps/216150/capsule_616x353.jpg?t=1629920252)
+
+ MapleStory is classic, and it’s still active after so many years. But the game doesn’t work so well on the latest systems, and every now and then when players try to be nostalgic, they find themselves facing issues like**not launching** or**crashing randomly** .
+
+ But don’t worry if you’re on the same boat. Here we’ve gathered several fixes that proved to be working. Try them and relive your childhood right away.
+
+## Try these fixes
+
+ You might not need to try them all. Simply work your way down until you find the one that does the trick.
+
+1. [**Repair game installation**](https://tools.techidaily.com/drivereasy/download/)
+2. [**Check compatibility settings**](https://tools.techidaily.com/drivereasy/download/)
+3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+4. [**Edit the registry**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Make sure Windows is up to date**](https://tools.techidaily.com/drivereasy/download/)
+6. [**Use a VPN**](https://tools.techidaily.com/drivereasy/download/)
+7. **[Run on a virtual machine](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Repair game installation
+
+ First you need to make sure you have the latest version, and check if your game files are intact. You can do a quick check to find out.
+
+Here’s how to do it on Nexon Launcher:
+
+1. Open Nexon Launcher and click the**gear icon** to open settings.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-verify-1.jpg)
+2. In the left pane, select**Game Configure** . Under**Repair / Uninstall** , click**Repair Installation** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-verify-2.jpg)
+3. Once done, restart your game and test the results.
+
+If this doesn’t help you, check out the next fix below.
+
+### Fix 2: Check compatibility settings
+
+ To run ancient programs on Windows 10, you might need to change some compatibility settings. Some players reported that running with admin rights and using Windows 7 settings could work. You can try the same and see how it goes.
+
+To do so, simply follow these instructions:
+
+1. Go to the installation path of MapleStory. Then open the**appdata** folder.
+2. Find all the .exe files inside this folder. One by one, right click the**.exe** file and select**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-compatibility-1.jpg)
+3. Navigate to the**Compatibility** tab, Under**Compatibility mode** , check the box and select Windows 7\. Under**Settings** , check the box before**Run this program as an administrator** .  
+<!-- affiliate ads begin -->
+<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-compatibility-2.jpg)
+4. After you finish with all the .exe files, restart the game and check if it crashes again.
+
+ If this method doesn’t help, you can take a look at the next one. (You might want to undo these steps so that they won’t affect the following fixes.)
+
+### Fix 3: Update your graphics driver
+
+ The constant crashes could indicate that you’re using**a broken or outdated graphics driver** . Besides performance boost, the latest driver comes with bug fixes that tackle most of the compatibility issues. If you don’t know whether your video driver is up to date, definitely give it a check.
+
+ You can update your graphics driver manually, by visiting the manufacturer’s website ([NVIDIA](https://www.nvidia.com/Download/index.aspx) /[AMD](https://www.amd.com/en/support) /[Intel](https://www.intel.com/content/www/us/en/download-center/home.html) ), finding the latest correct installer and installing step by step. But if you don’t have the time or patience to update manually, you can do it automatically with[**Drive Easy**](https://tools.techidaily.com/drivereasy/download/) .
+
+1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
+![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
+3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ After updating your drivers, do a reboot and check if MapleStory stops crashing.
+
+ If the latest drivers don’t do the trick for you, you can move on to the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 4: Edit the registry
+
+ Another possible fix lies in the registry. You might be able to stop the crash by changing display settings in the registry:
+
+1. On your keyboard, press**Win+R** (the Windows logo key and the R key) and type or paste**regedit** . Click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
+2. In the address bar, paste **ComputerHKEY\_LOCAL\_MACHINESOFTWAREWOW6432NodeWizetMapleStory** and press**Enter** . Double click**soScreenMode**  and change the value to**3** . Click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
+The ultimate burning program for all your needs!</a>
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-registry.jpg)
+3. Now enter the game and test the gameplay.
+
+ If this trick doesn’t give you luck, you can undo it and continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<!-- affiliate ads end -->
+### Fix 5: Make sure Windows is up to date
+
+ You also need to check if you’re on the latest system. Windows updates sometimes improve the compatibility of legacy software.
+
+Here’s how you can check for updates manually:
+
+1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
+2. Scroll down and select**Update & Security** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
+3. Click**Windows Update** .  
+<!-- affiliate ads begin -->
+<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
+4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<!-- affiliate ads end -->
+ To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
+
+ Once you’ve installed all the updates, restart your PC and start MapleStory.
+
+ If this method doesn’t work for you, simply try the next one below.
+
+### Fix 6:**Use a VPN**
+
+ It may sound strange, but there’re players mentioning that the game crash could be triggered by disconnection. If that’s your case, you can use a VPN to workaround this issue. VPN servers tend to have a more stable connection.
+
+ But be advised that we don’t recommend free VPNs since they’re after your personal information. Even the cheapest plan gives you a decent privacy protection.
+
+And here’re some VPNs we like:
+
+* **[NordVPN](https://tools.techidaily.com/drivereasy/download/)**
+* **[CyberGhost VPN](https://tools.techidaily.com/drivereasy/download/)**
+* **[SurfShark VPN](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 7: Run on a virtual machine
+
+ There’s no easy way to say this. But instead of wasting any more time troubleshooting, you might as well set up a Windows 7 virtual machine. You can use the built-in Hyper-V, or[VMware Workstation Pro](https://r.brandreward.com/?key=3882aba4cadd4473e0195097fdf20855&url=https%3A%2F%2Fwww.vmware.com%2Fproducts%2Fworkstation-pro%2Fworkstation-pro-evaluation.html&id=drivereasy-en-152886) . Both of them deliver great performance on Windows.
+
+---
+
+ Hopefully this post helps you fix the MapleStory crashing issue. If you have any questions or ideas, feel free to leave a comment down below.
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-beyond-expression-understanding-snapchat-emojis-deeply-for-2024/"><u>[New] Beyond Expression  Understanding Snapchat Emojis Deeply for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-empower-everyday-narratives-free-extensions-and-mobile-magic-for-2024/"><u>[Updated] Empower Everyday Narratives – Free Extensions & Mobile Magic for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-picshots-secrets-easy-peasy-collage-formation/"><u>[Updated] Picshot's Secrets  Easy-Peasy Collage Formation</u></a></li>
+<li><a href="https://location-fake.techidaily.com/10-best-fake-gps-location-spoofers-for-nokia-c12-plus-drfone-by-drfone-virtual-android/"><u>10 Best Fake GPS Location Spoofers for Nokia C12 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/amd-vega-64-driver-latest-version-step-by-step-guide-for-windows-users/"><u>AMD Vega 64 Driver Latest Version: Step-by-Step Guide for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-list-of-strikethrough-functions-using-keyboard-commands-across-ms-office-suite-google-document-editor-and-gmail-interface/"><u>Complete List of Strikethrough Functions Using Keyboard Commands Across MS Office Suite, Google Document Editor & Gmail Interface</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-steps-to-make-excel-open-predefined-workbooks-upon-initialization/"><u>Easy Steps to Make Excel Open Predefined Workbooks Upon Initialization</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-for-cross-referencing-values-in-multiple-excel-sheets/"><u>Effective Strategies for Cross-Referencing Values in Multiple Excel Sheets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-for-cycling-content-formats-within-microsoft-excel-cells/"><u>Effective Strategies for Cycling Content Formats Within Microsoft Excel Cells</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-techniques-for-choosing-multiple-cells-at-once-in-excel-spreadsheets/"><u>Effortless Techniques for Choosing Multiple Cells at Once in Excel Spreadsheets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-of-financial-functionality-era-for-microsoft-excel-users/"><u>End of Financial Functionality Era for Microsoft Excel Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-your-data-skills-simple-techniques-for-editing-columns-and-rows-in-microsoft-excel/"><u>Enhance Your Data Skills: Simple Techniques for Editing Columns & Rows in Microsoft Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-scripting-with-python-new-features-in-microsoft-excel/"><u>Enhanced Scripting with Python: New Features in Microsoft Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/excel-analysis-mastery-effective-strategies-for-using-pivot-tables-to-interpret-your-data/"><u>Excel Analysis Mastery: Effective Strategies for Using Pivot Tables to Interpret Your Data</u></a></li>
+<li><a href="https://win-blog.techidaily.com/excel-guide-a-step-by-step-tutorial-on-displaying-gridlines-rows-and-columns/"><u>Excel Guide: A Step-by-Step Tutorial on Displaying Gridlines, Rows & Columns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-implementing-accounting-currency-format-in-microsoft-excel-spreadsheets/"><u>Expert Tips for Implementing Accounting Currency Format in Microsoft Excel Spreadsheets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-personalizing-your-office-2016-title-bar-appearance/"><u>Guide: Personalizing Your Office 2016 Title Bar Appearance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-effectively-copy-your-excel-data-tips-for-making-full-and-partial-copies-including-formula-replication-options/"><u>How To Effectively Copy Your Excel Data: Tips for Making Full and Partial Copies, Including Formula Replication Options</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-videos-from-v30t-by-fonelab-android-recover-video/"><u>How to Rescue Lost Videos from V30T</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y100-5g-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y100 5G to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-8-plus-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 8 Plus To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/identifying-and-marking-discrepancies-between-rows-using-microsoft-excel/"><u>Identifying and Marking Discrepancies Between Rows Using Microsoft Excel</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-comprehensive-guide-to-top-tier-skype-recorder-tech/"><u>In 2024, Comprehensive Guide to Top-Tier Skype Recorder Tech</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-crafting-a-superior-livestream-with-top-providers/"><u>In 2024, Crafting a Superior Livestream with Top Providers</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-xiaomi-civi-3-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Xiaomi Civi 3</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-ultimate-playlist-to-share-on-fb-stories/"><u>In 2024, The Ultimate Playlist to Share on FB Stories</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721463742417-iphone-and-icloud-backup-problems-explore-9-troubleshooting-tactics-now/"><u>IPhone & iCloud Backup Problems: Explore 9 Troubleshooting Tactics Now!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/japejungle-design-original-content-instantly-for-2024/"><u>JapeJungle  Design Original Content Instantly for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/join-forces-with-friends-from-facebook-for-easy-office-doc-editing-at-docscom/"><u>Join Forces with Friends From Facebook for Easy Office Doc Editing at Docs.com</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-debugging-uncover-hidden-circular-references-in-your-excel-spreadsheets/"><u>Master the Art of Debugging: Uncover Hidden Circular References in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-data-merging-comprehensive-guide-to-joining-cells-in-microsoft-excel/"><u>Mastering Data Merging: Comprehensive Guide to Joining Cells in Microsoft Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-dual-screen-work-in-excel-a-comprehensive-guide/"><u>Mastering Dual-Screen Work in Excel: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-equation-writing-with-office-201/"><u>Mastering Equation Writing with Office 201</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-excel-a-complete-tutorial-on-cloning-conditional-format-styles/"><u>Mastering Excel: A Complete Tutorial on Cloning Conditional Format Styles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-excel-techniques-for-disabling-or-erasing-pre-set-table-formatting-effects/"><u>Mastering Excel: Techniques for Disabling or Erasing Pre-Set Table Formatting Effects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-weighted-averages-with-excel-essential-tutorial-for-accurate-data-analysis/"><u>Mastering Weighted Averages with Excel: Essential Tutorial for Accurate Data Analysis</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-pc-video-dubbing-made-easy-top-software-options-for-2024/"><u>New PC Video Dubbing Made Easy Top Software Options for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/offline-access-to-online-document-editing-via-microsoft-office-suite/"><u>Offline Access to Online Document Editing via Microsoft Office Suite</u></a></li>
+<li><a href="https://win-able.techidaily.com/step-by-step-guide-on-switching-between-row-and-column-formats-in-excel/"><u>Step-by-Step Guide on Switching Between Row and Column Formats in Excel</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-redmi-k70-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Redmi K70</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-bots-that-transform-your-twitch-broadcasting-experience/"><u>Top Bots That Transform Your Twitch Broadcasting Experience</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/-hub-significance-crafting-memorable-names-for-2024/"><u>Video Hub Significance  Crafting Memorable Names for 2024</u></a></li>
+</ul></div>
