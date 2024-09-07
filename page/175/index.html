@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"win-blog.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9028</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9579</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9028</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9579</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,28 +750,29 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-excels-features-how-to-personalize-and-utilize-the-status-bar/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/02374ddd20d049e41c0d0fe41e4dbd023d73e596f3add5f5b8f6d266eddb08ec.png" alt="Mastering Excel&#39;s Features: How to Personalize and Utilize the Status Bar" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fatal-issues-resolved-optimizing-gameplay-and-stability-for-tales-of-arise-in-unreal-engine-user-ive-overcome-the-major-issues-with-tales-of-arise-running-o479/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f8511b1b508552460f630419c51d2d616ebcbf19dbd124bdf2e50582d197ea31.jpg" alt="Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I&#39;ve Overcome the Major Issues with &#39;Tales of Arise&#39; Running on Unreal Engine 4" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-excels-features-how-to-personalize-and-utilize-the-status-bar/">
-                            Mastering Excel&#39;s Features: How to Personalize and Utilize the Status Bar
+                        <a href="/fatal-issues-resolved-optimizing-gameplay-and-stability-for-tales-of-arise-in-unreal-engine-user-ive-overcome-the-major-issues-with-tales-of-arise-running-o479/">
+                            Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I&#39;ve Overcome the Major Issues with &#39;Tales of Arise&#39; Running on Unreal Engine 4
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Mastering Excel’s Features: How to Personalize and Utilize the Status BarThe status bar at the bottom of Excel’s window can t...
+                            <p>This Article Describes Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I’ve Overcome the Major Issues with ‘Tales of Arise’ Running on Unreal Engine 4</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:38 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:53:05 GMT+0800">
                 
                     2024-08-28
                 
@@ -729,7 +787,7 @@
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -744,7 +802,17 @@
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -752,7 +820,7 @@
         
     </div>
 
-    <a href="/mastering-excels-features-how-to-personalize-and-utilize-the-status-bar/">Read more<span class="seo-reader-text">Mastering Excel&#39;s Features: How to Personalize and Utilize the Status Bar</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fatal-issues-resolved-optimizing-gameplay-and-stability-for-tales-of-arise-in-unreal-engine-user-ive-overcome-the-major-issues-with-tales-of-arise-running-o479/">Read more<span class="seo-reader-text">Fatal Issues Resolved: Optimizing Gameplay and Stability for Tales of Arise in Unreal Engine # User: I&#39;ve Overcome the Major Issues with &#39;Tales of Arise&#39; Running on Unreal Engine 4</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -768,29 +836,29 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/mastering-data-organization-a-comprehensive-guide-to-using-microsoft-excels-sort-feature/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a056aaed74ee36c6a269ef696.jpg" alt="Mastering Data Organization: A Comprehensive Guide to Using Microsoft Excel&#39;s Sort Feature" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723012657495-beating-anno-1800s-troublesome-directx-error-resolved/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f91806cf12974c661e4f3ab93d8.jpg" alt="Beating Anno 1800’S Troublesome DirectX Error - Resolved" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/mastering-data-organization-a-comprehensive-guide-to-using-microsoft-excels-sort-feature/">
-                            Mastering Data Organization: A Comprehensive Guide to Using Microsoft Excel&#39;s Sort Feature
+                        <a href="/1723012657495-beating-anno-1800s-troublesome-directx-error-resolved/">
+                            Beating Anno 1800’S Troublesome DirectX Error - Resolved
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Mastering Data Organization: A Comprehensive Guide to Using Microsoft Excel’s Sort FeatureQuick Links
-About the Excel SORT Fo...
+                            <p>This Article Describes Beating Anno 1800’S Troublesome DirectX Error - Resolved</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:37 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:53:04 GMT+0800">
                 
                     2024-08-28
                 
@@ -805,7 +873,7 @@ About the Excel SORT Fo...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -820,7 +888,17 @@ About the Excel SORT Fo...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -828,7 +906,7 @@ About the Excel SORT Fo...
         
     </div>
 
-    <a href="/mastering-data-organization-a-comprehensive-guide-to-using-microsoft-excels-sort-feature/">Read more<span class="seo-reader-text">Mastering Data Organization: A Comprehensive Guide to Using Microsoft Excel&#39;s Sort Feature</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723012657495-beating-anno-1800s-troublesome-directx-error-resolved/">Read more<span class="seo-reader-text">Beating Anno 1800’S Troublesome DirectX Error - Resolved</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -844,30 +922,29 @@ About the Excel SORT Fo...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/leveraging-excels-power-comprehensive-techniques-for-utilizing-the-image-feature/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/4c64599e932018a17c352685488bbe982ee82f5fc1c73b73894ec43a1b1c5c03.jpg" alt="Leveraging Excel&#39;s Power: Comprehensive Techniques for Utilizing the Image Feature" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solving-the-issue-reducing-cpu-consumption-in-god-of-war-game/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/c11b89b923631ed5d512ccc32ee592a5fb46939b31266627ae16098d24a9cb49.jpg" alt="Solving the Issue: Reducing CPU Consumption in God of War Game" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/leveraging-excels-power-comprehensive-techniques-for-utilizing-the-image-feature/">
-                            Leveraging Excel&#39;s Power: Comprehensive Techniques for Utilizing the Image Feature
+                        <a href="/solving-the-issue-reducing-cpu-consumption-in-god-of-war-game/">
+                            Solving the Issue: Reducing CPU Consumption in God of War Game
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Leveraging Excel’s Power: Comprehensive Techniques for Utilizing the Image FeatureQuick Links
-About the IMAGE Function 
-Use t...
+                            <p>This Article Describes Solving the Issue: Reducing CPU Consumption in God of War Game</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:36 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:53:02 GMT+0800">
                 
                     2024-08-28
                 
@@ -882,7 +959,7 @@ Use t...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -897,7 +974,17 @@ Use t...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -905,7 +992,7 @@ Use t...
         
     </div>
 
-    <a href="/leveraging-excels-power-comprehensive-techniques-for-utilizing-the-image-feature/">Read more<span class="seo-reader-text">Leveraging Excel&#39;s Power: Comprehensive Techniques for Utilizing the Image Feature</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solving-the-issue-reducing-cpu-consumption-in-god-of-war-game/">Read more<span class="seo-reader-text">Solving the Issue: Reducing CPU Consumption in God of War Game</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -921,29 +1008,29 @@ Use t...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/extracting-month-and-year-from-dates-using-microsoft-excel-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b707c0511382e78c7bbc2631c8c2ac749bfdb8b7dcef137c48ff3983d7a66e67.jpg" alt="Extracting Month and Year From Dates Using Microsoft Excel: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-fix-continuous-crashes-in-helldivers-ii-for-windows-users-trusted-techniques/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/80b6560d97681f28de9031de7e7f0da06668db1bd1c9f1454bedac4faec3fc61.jpg" alt="How to Fix Continuous Crashes in Helldivers II for Windows Users - Trusted Techniques" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/extracting-month-and-year-from-dates-using-microsoft-excel-a-step-by-step-guide/">
-                            Extracting Month and Year From Dates Using Microsoft Excel: A Step-by-Step Guide
+                        <a href="/how-to-fix-continuous-crashes-in-helldivers-ii-for-windows-users-trusted-techniques/">
+                            How to Fix Continuous Crashes in Helldivers II for Windows Users - Trusted Techniques
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Extracting Month and Year From Dates Using Microsoft Excel: A Step-by-Step GuideQuick Links
-Get the Month or Year With Date F...
+                            <p>This Article Describes How to Fix Continuous Crashes in Helldivers II for Windows Users - Trusted Techniques</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:35 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:53:01 GMT+0800">
                 
                     2024-08-28
                 
@@ -958,7 +1045,7 @@ Get the Month or Year With Date F...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -973,7 +1060,17 @@ Get the Month or Year With Date F...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -981,7 +1078,7 @@ Get the Month or Year With Date F...
         
     </div>
 
-    <a href="/extracting-month-and-year-from-dates-using-microsoft-excel-a-step-by-step-guide/">Read more<span class="seo-reader-text">Extracting Month and Year From Dates Using Microsoft Excel: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-fix-continuous-crashes-in-helldivers-ii-for-windows-users-trusted-techniques/">Read more<span class="seo-reader-text">How to Fix Continuous Crashes in Helldivers II for Windows Users - Trusted Techniques</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -997,30 +1094,29 @@ Get the Month or Year With Date F...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expert-tips-on-building-and-personalizing-funnel-charts-with-microsoft-excel-tools/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png" alt="Expert Tips on Building &amp; Personalizing Funnel Charts with Microsoft Excel Tools" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/expert-advice-for-apex-legends-error-resolution-cracking-down-on-error-code-23/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/20ab7f66584fa785dda09306687fe5514b5df7248e5883b6a60111ac7e9c70d6.jpg" alt="Expert Advice for Apex Legends Error Resolution - Cracking Down on Error Code 23" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expert-tips-on-building-and-personalizing-funnel-charts-with-microsoft-excel-tools/">
-                            Expert Tips on Building &amp; Personalizing Funnel Charts with Microsoft Excel Tools
+                        <a href="/expert-advice-for-apex-legends-error-resolution-cracking-down-on-error-code-23/">
+                            Expert Advice for Apex Legends Error Resolution - Cracking Down on Error Code 23
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Expert Tips on Building &amp; Personalizing Funnel Charts with Microsoft Excel ToolsQuick Links
-When to Use a Funnel Chart 
-C...
+                            <p>This Article Describes Expert Advice for Apex Legends Error Resolution - Cracking Down on Error Code 23</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:33 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:53:00 GMT+0800">
                 
                     2024-08-28
                 
@@ -1035,7 +1131,7 @@ C...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -1050,7 +1146,17 @@ C...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1058,7 +1164,7 @@ C...
         
     </div>
 
-    <a href="/expert-tips-on-building-and-personalizing-funnel-charts-with-microsoft-excel-tools/">Read more<span class="seo-reader-text">Expert Tips on Building &amp; Personalizing Funnel Charts with Microsoft Excel Tools</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/expert-advice-for-apex-legends-error-resolution-cracking-down-on-error-code-23/">Read more<span class="seo-reader-text">Expert Advice for Apex Legends Error Resolution - Cracking Down on Error Code 23</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1074,29 +1180,29 @@ C...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/excel-tips-effectively-identifying-and-marking-outlying-values-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/90c049846794e5aed031591412d4826aac7c7bd6532c5bd0d695b676cbba88c9.jpg" alt="Excel Tips: Effectively Identifying and Marking Outlying Values – A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-guide-overcoming-far-cry-6-pc-instability-problems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d01c44a9ae23f7efe9fb5e1960e68d56b4d2035c87f626ffb448d9a10326cec7.png" alt="Troubleshooting Guide: Overcoming Far Cry 6 PC Instability Problems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/excel-tips-effectively-identifying-and-marking-outlying-values-a-step-by-step-guide/">
-                            Excel Tips: Effectively Identifying and Marking Outlying Values – A Step-by-Step Guide
+                        <a href="/troubleshooting-guide-overcoming-far-cry-6-pc-instability-problems/">
+                            Troubleshooting Guide: Overcoming Far Cry 6 PC Instability Problems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Excel Tips: Effectively Identifying and Marking Outlying Values – A Step-by-Step GuideQuick Links
-Set Up a Quick Conditional ...
+                            <p>This Article Describes Troubleshooting Guide: Overcoming Far Cry 6 PC Instability Problems</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:32 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:52:59 GMT+0800">
                 
                     2024-08-28
                 
@@ -1111,7 +1217,7 @@ Set Up a Quick Conditional ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -1126,7 +1232,17 @@ Set Up a Quick Conditional ...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1134,7 +1250,7 @@ Set Up a Quick Conditional ...
         
     </div>
 
-    <a href="/excel-tips-effectively-identifying-and-marking-outlying-values-a-step-by-step-guide/">Read more<span class="seo-reader-text">Excel Tips: Effectively Identifying and Marking Outlying Values – A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-guide-overcoming-far-cry-6-pc-instability-problems/">Read more<span class="seo-reader-text">Troubleshooting Guide: Overcoming Far Cry 6 PC Instability Problems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1150,30 +1266,29 @@ Set Up a Quick Conditional ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/excel-techniques-to-determine-the-countdown-in-days-to-any-occasion/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/12/excel-grey-background.png.png" alt="Excel Techniques to Determine the Countdown in Days to Any Occasion" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/reporting/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/91d880ab7920ac263b2bbc42f64c84854115542d15d4b0d06e6a3ab502cdbe2d.jpg" alt="Reporting" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/excel-techniques-to-determine-the-countdown-in-days-to-any-occasion/">
-                            Excel Techniques to Determine the Countdown in Days to Any Occasion
+                        <a href="/reporting/">
+                            Reporting
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Excel Techniques to Determine the Countdown in Days to Any OccasionQuick Links
-A Quick Summary of Date-Related Functions 
-Som...
+                            <p>This Article Describes Reporting</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:31 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:52:57 GMT+0800">
                 
                     2024-08-28
                 
@@ -1188,7 +1303,7 @@ Som...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -1203,7 +1318,17 @@ Som...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1211,7 +1336,7 @@ Som...
         
     </div>
 
-    <a href="/excel-techniques-to-determine-the-countdown-in-days-to-any-occasion/">Read more<span class="seo-reader-text">Excel Techniques to Determine the Countdown in Days to Any Occasion</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/reporting/">Read more<span class="seo-reader-text">Reporting</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1227,29 +1352,29 @@ Som...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/efficiently-locating-and-mastering-necessary-microsoft-excel-formulas-tips-and-tricks-for-professionals/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929bead105231f3c88d9fbf7ea6.jpg" alt="Efficiently Locating and Mastering Necessary Microsoft Excel Formulas: Tips &amp; Tricks for Professionals" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solutions-to-get-armored-core-vis-fires-of-rubicon-game-up-and-running-successfully/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/be96a560d136aae29d0d1d935d5244e5292b9067e58872c0b73ef94229888129.jpg" alt="Solutions to Get Armored Core VI&#39;s &#39;Fires of Rubicon&#39; Game Up and Running Successfully" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/efficiently-locating-and-mastering-necessary-microsoft-excel-formulas-tips-and-tricks-for-professionals/">
-                            Efficiently Locating and Mastering Necessary Microsoft Excel Formulas: Tips &amp; Tricks for Professionals
+                        <a href="/solutions-to-get-armored-core-vis-fires-of-rubicon-game-up-and-running-successfully/">
+                            Solutions to Get Armored Core VI&#39;s &#39;Fires of Rubicon&#39; Game Up and Running Successfully
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Efficiently Locating and Mastering Necessary Microsoft Excel Formulas: Tips &amp; Tricks for ProfessionalsQuick Links
-Access ...
+                            <p>This Article Describes Solutions to Get Armored Core VI’s ‘Fires of Rubicon’ Game Up and Running Successfully</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:30 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:52:56 GMT+0800">
                 
                     2024-08-28
                 
@@ -1264,7 +1389,7 @@ Access ...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -1279,7 +1404,17 @@ Access ...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1287,7 +1422,7 @@ Access ...
         
     </div>
 
-    <a href="/efficiently-locating-and-mastering-necessary-microsoft-excel-formulas-tips-and-tricks-for-professionals/">Read more<span class="seo-reader-text">Efficiently Locating and Mastering Necessary Microsoft Excel Formulas: Tips &amp; Tricks for Professionals</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solutions-to-get-armored-core-vis-fires-of-rubicon-game-up-and-running-successfully/">Read more<span class="seo-reader-text">Solutions to Get Armored Core VI&#39;s &#39;Fires of Rubicon&#39; Game Up and Running Successfully</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1303,30 +1438,29 @@ Access ...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-strategies-to-shrink-image-based-ms-office-files/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/05/ofs_top-650x275.png" alt="Effective Strategies to Shrink Image-Based MS Office Files" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/helldivers-2-launch-problems-how-to-fix-the-initial-black-screen-hurdle/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef3054d20b60fdb2ab68b2e719b.png" alt="Helldivers 2 Launch Problems: How to Fix the Initial Black Screen Hurdle" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-strategies-to-shrink-image-based-ms-office-files/">
-                            Effective Strategies to Shrink Image-Based MS Office Files
+                        <a href="/helldivers-2-launch-problems-how-to-fix-the-initial-black-screen-hurdle/">
+                            Helldivers 2 Launch Problems: How to Fix the Initial Black Screen Hurdle
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Effective Strategies to Shrink Image-Based MS Office FilesQuick Links
-Compress Pictures in Your Office Document 
-Remove Editi...
+                            <p>This Article Describes Helldivers 2 Launch Problems: How to Fix the Initial Black Screen Hurdle</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:28 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:52:55 GMT+0800">
                 
                     2024-08-28
                 
@@ -1341,7 +1475,7 @@ Remove Editi...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -1356,7 +1490,17 @@ Remove Editi...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1364,7 +1508,7 @@ Remove Editi...
         
     </div>
 
-    <a href="/effective-strategies-to-shrink-image-based-ms-office-files/">Read more<span class="seo-reader-text">Effective Strategies to Shrink Image-Based MS Office Files</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/helldivers-2-launch-problems-how-to-fix-the-initial-black-screen-hurdle/">Read more<span class="seo-reader-text">Helldivers 2 Launch Problems: How to Fix the Initial Black Screen Hurdle</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1380,30 +1524,29 @@ Remove Editi...
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/dynamic-charting-techniques-using-dropdown-menus-in-microsoft-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/an-excel-spreadsheet-with-a-3d-chart-and-the-excel-logo.jpg" alt="Dynamic Charting Techniques Using Dropdown Menus in Microsoft Excel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/troubleshooting-steps-when-you-cant-launch-discord-successfully/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/815d7d8c09f8175fd88f64c74fcffe4ff27128461391bb250305d7aa226764d0.jpg" alt="Troubleshooting Steps When You Can’t Launch Discord Successfully" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/dynamic-charting-techniques-using-dropdown-menus-in-microsoft-excel/">
-                            Dynamic Charting Techniques Using Dropdown Menus in Microsoft Excel
+                        <a href="/troubleshooting-steps-when-you-cant-launch-discord-successfully/">
+                            Troubleshooting Steps When You Can’t Launch Discord Successfully
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            Dynamic Charting Techniques Using Dropdown Menus in Microsoft ExcelQuick Links
-Step 1: Create a Drop-down List 
-Step 2: Creat...
+                            <p>This Article Describes Troubleshooting Steps When You Can’t Launch Discord Successfully</p>
+
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Wed Aug 28 2024 05:41:27 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:52:54 GMT+0800">
                 
                     2024-08-28
                 
@@ -1418,7 +1561,7 @@ Step 2: Creat...
                     
                         
                         <li>
-                            <a href="/categories/tech/">tech</a>&nbsp;
+                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
                         </li>
                     
                     
@@ -1433,7 +1576,17 @@ Step 2: Creat...
                     
                         <li>
                             
-                            <a href="/tags/excel/">excel</a>&nbsp;
+                            <a href="/tags/win11/">win11</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win10/">win10</a>&nbsp;
+                        </li>
+                    
+                        <li>
+                            | 
+                            <a href="/tags/win7/">win7</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1441,7 +1594,7 @@ Step 2: Creat...
         
     </div>
 
-    <a href="/dynamic-charting-techniques-using-dropdown-menus-in-microsoft-excel/">Read more<span class="seo-reader-text">Dynamic Charting Techniques Using Dropdown Menus in Microsoft Excel</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/troubleshooting-steps-when-you-cant-launch-discord-successfully/">Read more<span class="seo-reader-text">Troubleshooting Steps When You Can’t Launch Discord Successfully</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1451,7 +1604,7 @@ Step 2: Creat...
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/174/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/173/">173</a><a class="page-number" href="/page/174/">174</a><span class="page-number current">175</span><a class="page-number" href="/page/176/">176</a><a class="page-number" href="/page/177/">177</a><span class="space">&hellip;</span><a class="page-number" href="/page/903/">903</a><a class="extend next" rel="next" href="/page/176/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/174/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/173/">173</a><a class="page-number" href="/page/174/">174</a><span class="page-number current">175</span><a class="page-number" href="/page/176/">176</a><a class="page-number" href="/page/177/">177</a><span class="space">&hellip;</span><a class="page-number" href="/page/958/">958</a><a class="extend next" rel="next" href="/page/176/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

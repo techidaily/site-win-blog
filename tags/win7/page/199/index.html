@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -248,7 +305,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"win-blog.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -591,7 +648,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9028</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9579</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -629,74 +686,74 @@
               
                 
                     
-                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-27'>
+                    <li class="article-item space-y-2 px-6 pt-10 pb-2 text-xl relative border-l-2 border-border-color" date-is='08-28'>
                 
                     
-                        <a href="/call-of-duty-how-to-quickly-fix-warzones-dev-error-asterisk-error-code-6634/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Call of Duty: How to Quickly Fix Warzone&#39;s Dev Error Asterisk Error Code 6634</span>
+                        <a href="/call-of-dutys-latest-firepower-the-most-recent-battlefield-arsenal-revealed/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Call of Duty&#39;s Latest Firepower: The Most Recent Battlefield Arsenal Revealed!</span>
                         </a>
                     
               
                 
                     
-                        <a href="/maximizing-performance-enabling-gpu-usage-in-cyberpunk-2077-on-windows-10-devices/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Maximizing Performance: Enabling GPU Usage in Cyberpunk 2077 on Windows 10 Devices</span>
+                        <a href="/effective-fixes-for-kodi-connectivity-issues-and-lost-directory-data-retrieval/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Effective Fixes for Kodi Connectivity Issues and Lost Directory Data Retrieval</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fixing-common-issues-why-your-discord-audio-isnt-working-during-screen-shares/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fixing Common Issues: Why Your Discord Audio Isn&#39;t Working During Screen Shares</span>
+                        <a href="/cyberpunk-2077-display-issues-resolved-no-more-black-screens/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Cyberpunk 2077 Display Issues Resolved - No More Black Screens</span>
                         </a>
                     
               
                 
                     
-                        <a href="/fixing-issues-how-to-stop-microsoft-flight-simulator-2-cuase-from-crashing-your-pc/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Fixing Issues: How to Stop Microsoft Flight Simulator 2 Cuase From Crashing Your PC</span>
+                        <a href="/smooth-gaming-in-the-latest-new-world-patch-say-goodbye-to-freezes/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Smooth Gaming in the Latest New World Patch – Say Goodbye to Freezes</span>
                         </a>
                     
               
                 
                     
-                        <a href="/troubleshooting-non-functional-spatial-sound-on-your-pc-win11-and-win10-solutions/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Troubleshooting Non-Functional Spatial Sound on Your PC - Win11 and Win10 Solutions</span>
+                        <a href="/diagnosing-and-fixing-launch-difficulties-in-outriders-on-desktop-systems-2022-edition/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Diagnosing and Fixing Launch Difficulties in Outriders on Desktop Systems: 2022 Edition</span>
                         </a>
                     
               
                 
                     
-                        <a href="/step-by-step-solution-when-your-corsair-icue-isnt-working-on-windows-1011/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Step-by-Step Solution: When Your Corsair iCUE Isn&#39;t Working on Windows 10/11</span>
+                        <a href="/unlock-your-full-battle-royale-experience-solving-call-of-duty-warzone-texture-loading-errors/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Unlock Your Full Battle Royale Experience - Solving Call of Duty Warzone Texture Loading Errors</span>
                         </a>
                     
               
                 
                     
-                        <a href="/forza-horizon-4-wont-start-master-these-strategies-for-a-smooth-playback-experience/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Forza Horizon 4 Won&#39;t Start? Master These Strategies for a Smooth Playback Experience!</span>
+                        <a href="/hearthstone-stability-issues-resolved-for-desktop-users-guide-and-tips/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Hearthstone Stability Issues Resolved for Desktop Users - Guide &amp; Tips</span>
                         </a>
                     
               
                 
                     
-                        <a href="/simple-guide-removing-nvidia-geforce-experience-on-your-pc/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Simple Guide: Removing Nvidia GeForce Experience on Your PC</span>
+                        <a href="/red-dead-redemption-2-and-pc-compatibility-troubleshooting-common-crash-errors/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Red Dead Redemption 2 and PC Compatibility – Troubleshooting Common Crash Errors</span>
                         </a>
                     
               
                 
                     
-                        <a href="/expert-advice-preventing-the-remastered-resident-evil-4-game-from-freezing-or-crashing/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Expert Advice: Preventing the Remastered Resident Evil 4 Game From Freezing or Crashing</span>
+                        <a href="/restoring-spatial-audio-a-step-by-step-fix-for-windows-users/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Restoring Spatial Audio: A Step-by-Step Fix for Windows Users</span>
                         </a>
                     
               
                 
                     
-                        <a href="/crusader-kings-ii-wont-start-troubleshooting-solutions-inside/" class="block overflow-hidden w-fit">
-                            <span class="article-title mb-0.5 text-2xl">Crusader Kings II Won&#39;t Start? Troubleshooting Solutions Inside</span>
+                        <a href="/guilty-gear-strive-on-pc-how-to-diagnose-and-repair-frequent-game-crashes/" class="block overflow-hidden w-fit">
+                            <span class="article-title mb-0.5 text-2xl">Guilty Gear Strive on PC - How to Diagnose and Repair Frequent Game Crashes</span>
                         </a>
                     
               
@@ -710,7 +767,7 @@
 
 <div class="tag-paginator">
 	<div class="paginator">
-    <a class="extend prev" rel="prev" href="/tags/win7/page/198/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/win7/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win7/page/197/">197</a><a class="page-number" href="/tags/win7/page/198/">198</a><span class="page-number current">199</span><a class="page-number" href="/tags/win7/page/200/">200</a><a class="page-number" href="/tags/win7/page/201/">201</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win7/page/882/">882</a><a class="extend next" rel="next" href="/tags/win7/page/200/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/tags/win7/page/198/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/tags/win7/">1</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win7/page/197/">197</a><a class="page-number" href="/tags/win7/page/198/">198</a><span class="page-number current">199</span><a class="page-number" href="/tags/win7/page/200/">200</a><a class="page-number" href="/tags/win7/page/201/">201</a><span class="space">&hellip;</span><a class="page-number" href="/tags/win7/page/937/">937</a><a class="extend next" rel="next" href="/tags/win7/page/200/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
 </div>

@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"win-blog.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9028</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9579</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9028</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9579</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,21 +750,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/bring-back-the-boom-solutions-for-noise-problems-in-fallout-4-pc-games/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/377e38553991337f1398bdbfe5a8f44bdc61d9fc38dd827fd098be11d1cb15df.png" alt="Bring Back the Boom: Solutions for Noise Problems in Fallout 4 PC Games" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/simple-solutions-for-correcting-javascript-issues-in-discord/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/ef8036d25906bf8bc672642e846b12e7bf455ea76b0df7385d290b38eb25840e.jpg" alt="Simple Solutions for Correcting JavaScript Issues in Discord" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/bring-back-the-boom-solutions-for-noise-problems-in-fallout-4-pc-games/">
-                            Bring Back the Boom: Solutions for Noise Problems in Fallout 4 PC Games
+                        <a href="/simple-solutions-for-correcting-javascript-issues-in-discord/">
+                            Simple Solutions for Correcting JavaScript Issues in Discord
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Bring Back the Boom: Solutions for Noise Problems in Fallout 4 PC Games</p>
+                            <p>This Article Describes Simple Solutions for Correcting JavaScript Issues in Discord</p>
 
                         
                     </div>
@@ -715,7 +772,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:42 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:45 GMT+0800">
                 
                     2024-09-01
                 
@@ -763,7 +820,7 @@
         
     </div>
 
-    <a href="/bring-back-the-boom-solutions-for-noise-problems-in-fallout-4-pc-games/">Read more<span class="seo-reader-text">Bring Back the Boom: Solutions for Noise Problems in Fallout 4 PC Games</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/simple-solutions-for-correcting-javascript-issues-in-discord/">Read more<span class="seo-reader-text">Simple Solutions for Correcting JavaScript Issues in Discord</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,21 +836,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-tips-how-to-stop-pacific-drive-from-freezing-and-crashing-on-windows-or-mac/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/de7e32da454b1a64d1a9e174bd2f0af6c1c09ee741804b69375cf4ed02faf5de.jpg" alt="Troubleshooting Tips: How to Stop Pacific Drive From Freezing and Crashing on Windows or Mac" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/ultimate-fix-for-nwstoreexe-application-errors-a-detailed-walkthrough/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/51dee520b6548ad713de001f9d872ff359ce7157fc9657d20a61cd8374fcc9ae.jpg" alt="Ultimate Fix for &#39;nw_store.exe Application&#39; Errors - A Detailed Walkthrough" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-tips-how-to-stop-pacific-drive-from-freezing-and-crashing-on-windows-or-mac/">
-                            Troubleshooting Tips: How to Stop Pacific Drive From Freezing and Crashing on Windows or Mac
+                        <a href="/ultimate-fix-for-nwstoreexe-application-errors-a-detailed-walkthrough/">
+                            Ultimate Fix for &#39;nw_store.exe Application&#39; Errors - A Detailed Walkthrough
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Tips: How to Stop Pacific Drive From Freezing and Crashing on Windows or Mac</p>
+                            <p>This Article Describes Ultimate Fix for ‘nw_store.exe Application’ Errors - A Detailed Walkthrough</p>
 
                         
                     </div>
@@ -801,7 +858,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:41 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:43 GMT+0800">
                 
                     2024-09-01
                 
@@ -849,7 +906,7 @@
         
     </div>
 
-    <a href="/troubleshooting-tips-how-to-stop-pacific-drive-from-freezing-and-crashing-on-windows-or-mac/">Read more<span class="seo-reader-text">Troubleshooting Tips: How to Stop Pacific Drive From Freezing and Crashing on Windows or Mac</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/ultimate-fix-for-nwstoreexe-application-errors-a-detailed-walkthrough/">Read more<span class="seo-reader-text">Ultimate Fix for &#39;nw_store.exe Application&#39; Errors - A Detailed Walkthrough</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,21 +922,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/effective-solutions-for-unstalling-your-qbittorrent-client/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e0a34c7a81fb8279e0e4f8e61ff399b11932a0b059873f4809f00d7b660fc375.jpg" alt="Effective Solutions for Unstalling Your qBittorrent Client" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-prevent-and-repair-phasmophobia-game-glitches-latest-tips/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/a7c3b7288a2ba7cb90e6052babba4915f51445892d0c27222e3c559cd653e7a3.png" alt="How to Prevent and Repair Phasmophobia Game Glitches - Latest Tips" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/effective-solutions-for-unstalling-your-qbittorrent-client/">
-                            Effective Solutions for Unstalling Your qBittorrent Client
+                        <a href="/how-to-prevent-and-repair-phasmophobia-game-glitches-latest-tips/">
+                            How to Prevent and Repair Phasmophobia Game Glitches - Latest Tips
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Effective Solutions for Unstalling Your qBittorrent Client</p>
+                            <p>This Article Describes How to Prevent and Repair Phasmophobia Game Glitches - Latest Tips</p>
 
                         
                     </div>
@@ -887,7 +944,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:40 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:42 GMT+0800">
                 
                     2024-09-01
                 
@@ -935,7 +992,7 @@
         
     </div>
 
-    <a href="/effective-solutions-for-unstalling-your-qbittorrent-client/">Read more<span class="seo-reader-text">Effective Solutions for Unstalling Your qBittorrent Client</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-prevent-and-repair-phasmophobia-game-glitches-latest-tips/">Read more<span class="seo-reader-text">How to Prevent and Repair Phasmophobia Game Glitches - Latest Tips</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,21 +1008,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/expert-tips-on-fixing-launch-problems-with-cs-go/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/c225407e5eb523ea35626965d7952f3e8eff461a435028604a3c634507f598f5.png" alt="Expert Tips on Fixing Launch Problems with CS: GO" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/call-of-duty-wwii-windows-playthrough-fixing-the-persistent-black-screen-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/71cc290356f3f99c9cda8196a719a0c624802590499d0fd5973548883928ea07.jpg" alt="Call of Duty: WWII Windows Playthrough: Fixing the Persistent Black Screen Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/expert-tips-on-fixing-launch-problems-with-cs-go/">
-                            Expert Tips on Fixing Launch Problems with CS: GO
+                        <a href="/call-of-duty-wwii-windows-playthrough-fixing-the-persistent-black-screen-problem/">
+                            Call of Duty: WWII Windows Playthrough: Fixing the Persistent Black Screen Problem
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Expert Tips on Fixing Launch Problems with CS: GO</p>
+                            <p>This Article Describes Call of Duty: WWII Windows Playthrough: Fixing the Persistent Black Screen Problem</p>
 
                         
                     </div>
@@ -973,7 +1030,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:38 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:41 GMT+0800">
                 
                     2024-09-01
                 
@@ -1021,7 +1078,7 @@
         
     </div>
 
-    <a href="/expert-tips-on-fixing-launch-problems-with-cs-go/">Read more<span class="seo-reader-text">Expert Tips on Fixing Launch Problems with CS: GO</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/call-of-duty-wwii-windows-playthrough-fixing-the-persistent-black-screen-problem/">Read more<span class="seo-reader-text">Call of Duty: WWII Windows Playthrough: Fixing the Persistent Black Screen Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,21 +1094,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/smooth-sailing-through-detroit-become-humans-expert-fixes-for-pc-crashes-and-more/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e82fc931c219f7513127b179f23a3c2e354e06d4a6b22046a96709ecae17c234.jpg" alt="Smooth Sailing Through ‘Detroit: Become Humans’ – Expert Fixes for PC Crashes and More!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/tackling-high-resource-use-by-wsappx-diagnosis-and-optimization-strategies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4eb72915c915cf8500790273e3fd63ebe88ce7c63c0f02718069fe502283f706.jpg" alt="Tackling High Resource Use by WSAPPX: Diagnosis and Optimization Strategies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/smooth-sailing-through-detroit-become-humans-expert-fixes-for-pc-crashes-and-more/">
-                            Smooth Sailing Through ‘Detroit: Become Humans’ – Expert Fixes for PC Crashes and More!
+                        <a href="/tackling-high-resource-use-by-wsappx-diagnosis-and-optimization-strategies/">
+                            Tackling High Resource Use by WSAPPX: Diagnosis and Optimization Strategies
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Smooth Sailing Through ‘Detroit: Become Humans’ – Expert Fixes for PC Crashes and More!</p>
+                            <p>This Article Describes Tackling High Resource Use by WSAPPX: Diagnosis and Optimization Strategies</p>
 
                         
                     </div>
@@ -1059,7 +1116,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:37 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:39 GMT+0800">
                 
                     2024-09-01
                 
@@ -1107,7 +1164,7 @@
         
     </div>
 
-    <a href="/smooth-sailing-through-detroit-become-humans-expert-fixes-for-pc-crashes-and-more/">Read more<span class="seo-reader-text">Smooth Sailing Through ‘Detroit: Become Humans’ – Expert Fixes for PC Crashes and More!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/tackling-high-resource-use-by-wsappx-diagnosis-and-optimization-strategies/">Read more<span class="seo-reader-text">Tackling High Resource Use by WSAPPX: Diagnosis and Optimization Strategies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,21 +1180,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/solving-the-acrocefexe-program-failure-a-step-by-step-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/0065578452a99a584186a97c84004b198beda17f3d048ac4c37464f22c69f0f1.jpg" alt="Solving the acrocef.exe Program Failure: A Step-by-Step Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/fix-guide-what-to-do-if-you-cant-launch-avatar-frontiers-of-pandora/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b9b7665577f766113660c4c3c2e978c3705b755579fa83e6d4b9ffe0b41b7175.jpg" alt="Fix Guide - What to Do If You Can’t Launch Avatar: Frontiers of Pandora" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/solving-the-acrocefexe-program-failure-a-step-by-step-guide/">
-                            Solving the acrocef.exe Program Failure: A Step-by-Step Guide
+                        <a href="/fix-guide-what-to-do-if-you-cant-launch-avatar-frontiers-of-pandora/">
+                            Fix Guide - What to Do If You Can’t Launch Avatar: Frontiers of Pandora
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Solving the acrocef.exe Program Failure: A Step-by-Step Guide</p>
+                            <p>This Article Describes Fix Guide - What to Do If You Can’t Launch Avatar: Frontiers of Pandora</p>
 
                         
                     </div>
@@ -1145,7 +1202,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:36 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:38 GMT+0800">
                 
                     2024-09-01
                 
@@ -1193,7 +1250,7 @@
         
     </div>
 
-    <a href="/solving-the-acrocefexe-program-failure-a-step-by-step-guide/">Read more<span class="seo-reader-text">Solving the acrocef.exe Program Failure: A Step-by-Step Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/fix-guide-what-to-do-if-you-cant-launch-avatar-frontiers-of-pandora/">Read more<span class="seo-reader-text">Fix Guide - What to Do If You Can’t Launch Avatar: Frontiers of Pandora</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,21 +1266,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-steps-resolving-issues-with-a-nonfunctional-paradox-launcher/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/a830d2a24e442aebcbf388f14e166b1639967eaf0747a09da8301ee779ce2acf.jpg" alt="Troubleshooting Steps: Resolving Issues with a Nonfunctional Paradox Launcher" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/1723009808735-no-more-mouse-troubles-in-resident-evil-village-heres-the-fix-you-need/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/fa134e33a19af2a6d89131747e3b5172ee7c3295829397bcf7ff50f7e4bad5d7.png" alt="No More Mouse Troubles in Resident Evil Village! Here&#39;s the Fix You Need" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-steps-resolving-issues-with-a-nonfunctional-paradox-launcher/">
-                            Troubleshooting Steps: Resolving Issues with a Nonfunctional Paradox Launcher
+                        <a href="/1723009808735-no-more-mouse-troubles-in-resident-evil-village-heres-the-fix-you-need/">
+                            No More Mouse Troubles in Resident Evil Village! Here&#39;s the Fix You Need
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Steps: Resolving Issues with a Nonfunctional Paradox Launcher</p>
+                            <p>This Article Describes No More Mouse Troubles in Resident Evil Village! Here’s the Fix You Need</p>
 
                         
                     </div>
@@ -1231,7 +1288,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:34 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:37 GMT+0800">
                 
                     2024-09-01
                 
@@ -1279,7 +1336,7 @@
         
     </div>
 
-    <a href="/troubleshooting-steps-resolving-issues-with-a-nonfunctional-paradox-launcher/">Read more<span class="seo-reader-text">Troubleshooting Steps: Resolving Issues with a Nonfunctional Paradox Launcher</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/1723009808735-no-more-mouse-troubles-in-resident-evil-village-heres-the-fix-you-need/">Read more<span class="seo-reader-text">No More Mouse Troubles in Resident Evil Village! Here&#39;s the Fix You Need</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,21 +1352,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/why-does-century-age-of-ashes-keep-crashing-solutions-and-tips-for-gamers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/92b52bcf62734b2a9c93d0aaee5e581aafbb53c0651a85c9e09e34c344274922.jpg" alt="Why Does Century: Age of Ashes Keep Crashing? Solutions and Tips for Gamers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/solve-stardew-valleys-persistent-pc-crashing-problem-easily/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/078ec5c6b19df307c3d053f03815c7d21ecece8ed3226ebe1d118a70909568e6.jpg" alt="Solve Stardew Valley&#39;s Persistent PC Crashing Problem Easily" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/why-does-century-age-of-ashes-keep-crashing-solutions-and-tips-for-gamers/">
-                            Why Does Century: Age of Ashes Keep Crashing? Solutions and Tips for Gamers
+                        <a href="/solve-stardew-valleys-persistent-pc-crashing-problem-easily/">
+                            Solve Stardew Valley&#39;s Persistent PC Crashing Problem Easily
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Why Does Century: Age of Ashes Keep Crashing? Solutions and Tips for Gamers</p>
+                            <p>This Article Describes Solve Stardew Valley’s Persistent PC Crashing Problem Easily</p>
 
                         
                     </div>
@@ -1317,7 +1374,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:33 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:35 GMT+0800">
                 
                     2024-09-01
                 
@@ -1365,7 +1422,7 @@
         
     </div>
 
-    <a href="/why-does-century-age-of-ashes-keep-crashing-solutions-and-tips-for-gamers/">Read more<span class="seo-reader-text">Why Does Century: Age of Ashes Keep Crashing? Solutions and Tips for Gamers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/solve-stardew-valleys-persistent-pc-crashing-problem-easily/">Read more<span class="seo-reader-text">Solve Stardew Valley&#39;s Persistent PC Crashing Problem Easily</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,21 +1438,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/reviving-game-sounds-comprehensive-guide-to-resolving-robloxs-no-sound-challenge-for-windows-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/295eb1a512b03cd4604053efc700e515a23fe08d7898031d0786b31b79d36b64.jpg" alt="Reviving Game Sounds: Comprehensive Guide to Resolving Roblox&#39;s No Sound Challenge for Windows Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/resolved-origin-application-failing-to-launch-on-windows-11-systems/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b0d6f56b3e6efb0ac5881b741c9c12ef541c2aef549de1d2cc8ab07a2bd3f133.jpg" alt="Resolved: &#39;Origin&#39; Application Failing to Launch on Windows 11 Systems" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/reviving-game-sounds-comprehensive-guide-to-resolving-robloxs-no-sound-challenge-for-windows-users/">
-                            Reviving Game Sounds: Comprehensive Guide to Resolving Roblox&#39;s No Sound Challenge for Windows Users
+                        <a href="/resolved-origin-application-failing-to-launch-on-windows-11-systems/">
+                            Resolved: &#39;Origin&#39; Application Failing to Launch on Windows 11 Systems
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Reviving Game Sounds: Comprehensive Guide to Resolving Roblox’s No Sound Challenge for Windows Users</p>
+                            <p>This Article Describes Resolved: ‘Origin’ Application Failing to Launch on Windows 11 Systems</p>
 
                         
                     </div>
@@ -1403,7 +1460,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:32 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:34 GMT+0800">
                 
                     2024-09-01
                 
@@ -1451,7 +1508,7 @@
         
     </div>
 
-    <a href="/reviving-game-sounds-comprehensive-guide-to-resolving-robloxs-no-sound-challenge-for-windows-users/">Read more<span class="seo-reader-text">Reviving Game Sounds: Comprehensive Guide to Resolving Roblox&#39;s No Sound Challenge for Windows Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/resolved-origin-application-failing-to-launch-on-windows-11-systems/">Read more<span class="seo-reader-text">Resolved: &#39;Origin&#39; Application Failing to Launch on Windows 11 Systems</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,21 +1524,21 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/lost-in-silence-uncovering-and-repairing-no-audio-problems-in-skyrim/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fedee62792e7be872d16bace959.jpg" alt="Lost in Silence? Uncovering and Repairing No Audio Problems in Skyrim" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/improve-your-ark-scorched-earth-experience-with-proven-fps-optimization-strategies-for-pc-users/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d0111f28dd3d983ea5a260fddb9a6bea79bc1de4dd5cf7f39a57f89da5a5decf.jpg" alt="Improve Your ARK: Scorched Earth Experience with Proven FPS Optimization Strategies for PC Users" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/lost-in-silence-uncovering-and-repairing-no-audio-problems-in-skyrim/">
-                            Lost in Silence? Uncovering and Repairing No Audio Problems in Skyrim
+                        <a href="/improve-your-ark-scorched-earth-experience-with-proven-fps-optimization-strategies-for-pc-users/">
+                            Improve Your ARK: Scorched Earth Experience with Proven FPS Optimization Strategies for PC Users
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Lost in Silence? Uncovering and Repairing No Audio Problems in Skyrim</p>
+                            <p>This Article Describes Improve Your ARK: Scorched Earth Experience with Proven FPS Optimization Strategies for PC Users</p>
 
                         
                     </div>
@@ -1489,7 +1546,7 @@
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Sun Sep 01 2024 08:37:30 GMT+0800">
+            <span class="home-article-date" data-date="Sun Sep 01 2024 08:49:33 GMT+0800">
                 
                     2024-09-01
                 
@@ -1537,7 +1594,7 @@
         
     </div>
 
-    <a href="/lost-in-silence-uncovering-and-repairing-no-audio-problems-in-skyrim/">Read more<span class="seo-reader-text">Lost in Silence? Uncovering and Repairing No Audio Problems in Skyrim</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/improve-your-ark-scorched-earth-experience-with-proven-fps-optimization-strategies-for-pc-users/">Read more<span class="seo-reader-text">Improve Your ARK: Scorched Earth Experience with Proven FPS Optimization Strategies for PC Users</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1604,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/85/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/84/">84</a><a class="page-number" href="/page/85/">85</a><span class="page-number current">86</span><a class="page-number" href="/page/87/">87</a><a class="page-number" href="/page/88/">88</a><span class="space">&hellip;</span><a class="page-number" href="/page/903/">903</a><a class="extend next" rel="next" href="/page/87/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/85/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/84/">84</a><a class="page-number" href="/page/85/">85</a><span class="page-number current">86</span><a class="page-number" href="/page/87/">87</a><a class="page-number" href="/page/88/">88</a><span class="space">&hellip;</span><a class="page-number" href="/page/958/">958</a><a class="extend next" rel="next" href="/page/87/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>

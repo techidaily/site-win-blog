@@ -61,6 +61,63 @@
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-duotone-900.woff2" as="font" crossorigin type="font/woff2">
     <link rel="preload" href="https://cloudflare-cdn.techidaily.com/webfonts/fa-thin-100.woff2" as="font" crossorigin type="font/woff2">
 
+    <!-- tailwind.css -->
+    <script src="https://cloudflare-cdn.techidaily.com/js/libs/tailwindcss.v3.4.5.js" crossorigin></script> 
+    <script>
+    try {
+        tailwind.config = {
+          theme: {
+            extend: {
+              spacing: {
+                unit: "38px",
+              },
+              margin: {
+                "spacing-unit": "38px",
+              },
+              maxWidth: {
+                content: "1280px",
+                "has-toc-content": "120%",
+              },
+              zIndex: {
+                1: 1001,
+                2: 1002,
+                3: 1003,
+                4: 1004,
+                5: 1005,
+                6: 1006,
+                7: 1007,
+                8: 1008,
+                9: 1009,
+              },
+              borderRadius: {
+                none: "0px",
+                xsmall: "4px",
+                small: "9px",
+                medium: "14px",
+                large: "18px",
+                xlarge: "24px",
+                xxlarge: "48px",
+              },
+              fontFamily: {
+                chinese: ["sans-serif"],
+                english: ["Satoshi-Variable", "sans-serif"],
+                default: [
+                  "Satoshi-Variable",
+                  "system-ui",
+                  "sans-serif",
+                ],
+              },
+              fontSize: {
+                default: "16px"
+              },
+              lineHeight: {
+                default: "1.5"
+              }
+            }
+          }
+        }        
+    } catch (e) {}
+    </script>   
 
     <!--- Page Info-->
     
@@ -246,7 +303,7 @@
 
     <script id="hexo-configurations">
     window.config = {"hostname":"win-blog.techidaily.com","root":"/","language":"en"};
-    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1000px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
+    window.theme = {"articles":{"style":{"font_size":"16px","line_height":1.5,"image_border_radius":"0px","image_alignment":"center","image_caption":false,"link_icon":true,"title_alignment":"left","headings_top_spacing":{"h1":"5rem","h2":"4rem","h3":"2.8rem","h4":"2.5rem","h5":"2.2rem","h6":"2rem"}},"word_count":{"enable":true,"count":true,"min2read":true},"author_label":{"enable":true,"auto":false,"list":[]},"code_block":{"copy":true,"style":"mac","font":{"enable":false,"family":null,"url":null}},"toc":{"enable":true,"max_depth":3,"number":false,"expand":true,"init_open":false},"copyright":{"enable":true,"default":"cc_by_nc_sa"},"lazyload":true,"recommendation":{"enable":false,"title":"Recommend","limit":3,"mobile_limit":2,"placeholder":"/images/wallhaven-wqery6-light.webp","skip_dirs":[]}},"colors":{"primary":"#A31F34","secondary":null,"default_mode":"light"},"global":{"fonts":{"chinese":{"enable":false,"family":null,"url":null},"english":{"enable":false,"family":null,"url":null}},"content_max_width":"1280px","sidebar_width":"210px","hover":{"shadow":true,"scale":false},"scroll_progress":{"bar":false,"percentage":true},"website_counter":{"url":"https://cn.vercount.one/js","enable":false,"site_pv":true,"site_uv":true,"post_pv":true},"single_page":true,"preloader":true,"open_graph":true,"google_analytics":{"enable":true,"id":"G-NYMH9T25CD"}},"home_banner":{"enable":true,"style":"fixed","image":{"light":"/images/wallhaven-wqery6-light.webp","dark":"/images/wallhaven-wqery6-dark.webp"},"title":"Enjoy life easier but more creative!","subtitle":{"text":[],"hitokoto":{"enable":false,"api":"https://v1.hitokoto.cn"},"typing_speed":100,"backing_speed":80,"starting_delay":500,"backing_delay":1500,"loop":true,"smart_backspace":true},"text_color":{"light":"#fff","dark":"#d1d1b6"},"text_style":{"title_size":"2.8rem","subtitle_size":"1.5rem","line_height":1.2},"custom_font":{"enable":false,"family":null,"url":null},"social_links":{"enable":false,"style":"default","links":{"github":null,"instagram":null,"zhihu":null,"twitter":null,"email":null},"qrs":{"weixin":null}}},"plugins":{"feed":{"enable":true},"aplayer":{"enable":false,"type":"fixed","audios":[{"name":null,"artist":null,"url":null,"cover":null,"lrc":null}]},"mermaid":{"enable":false,"version":"9.3.0"}},"version":"2.6.1","navbar":{"auto_hide":true,"color":{"left":"#f78736","right":"#367df7","transparency":35},"width":{"home":"1200px","pages":"1000px"},"links":{"Home":{"path":"/","icon":"fa-regular fa-house"},"Tools":{"path":"https://tools.techidaily.com","icon":"fa-regular fa-archive"},"Links":{"icon":"fa-regular fa-link","submenus":{"HowTo":"https://howto.techidaily.com","Mobile Images":"https://img0mobiles.techidaily.com"}},"Privacy":{"path":"/privacy","icon":"fa-regular fa-shield-halved"},"Terms&Conditions":{"path":"/terms_conditions","icon":"fa-regular fa-file-contract"},"About":{"path":"/about","icon":"fa-regular fa-user"}},"search":{"enable":false,"preload":true}},"page_templates":{"friends_column":2,"tags_style":"blur"},"home":{"sidebar":{"enable":true,"position":"left","first_item":"menu","announcement":null,"show_on_mobile":true,"links":null},"article_date_format":"auto","categories":{"enable":true,"limit":3},"tags":{"enable":true,"limit":3}},"footerStart":"2017/8/17 11:45:14"};
     window.lang_ago = {"second":"%s seconds ago","minute":"%s minutes ago","hour":"%s hours ago","day":"%s days ago","week":"%s weeks ago","month":"%s months ago","year":"%s years ago"};
     window.data = {"masonry":false};
   </script>
@@ -624,7 +681,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9028</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9579</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -665,7 +722,7 @@
         <div class="label text-third-text-color text-sm">Categories</div>
     </div>
     <div class="item tag-count-item flex flex-col justify-center items-center w-20">
-        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9028</div>
+        <div class="number text-2xl sm:text-xl text-second-text-color font-semibold">9579</div>
         <div class="label text-third-text-color text-sm">Posts</div>
     </div>
 </div>
@@ -693,31 +750,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-overcome-code-6-issues-in-warzone-and-modern-warfare-for-pc-players/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/1e30b9de50d4ae50235fbe2427c86509d2c0711d92ede6d59da5c3ba818ec4d8.jpg" alt="How to Overcome Code 6 Issues in Warzone and Modern Warfare for PC Players" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-weighted-averages-with-excel-essential-tutorial-for-accurate-data-analysis/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/d0c9b7047797b18daa1e1aa41be92c363eb13ba8f8bfa2b570a90a8bfa430bd1.jpg" alt="Mastering Weighted Averages with Excel: Essential Tutorial for Accurate Data Analysis" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-overcome-code-6-issues-in-warzone-and-modern-warfare-for-pc-players/">
-                            How to Overcome Code 6 Issues in Warzone and Modern Warfare for PC Players
+                        <a href="/mastering-weighted-averages-with-excel-essential-tutorial-for-accurate-data-analysis/">
+                            Mastering Weighted Averages with Excel: Essential Tutorial for Accurate Data Analysis
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How to Overcome Code 6 Issues in Warzone and Modern Warfare for PC Players</p>
-
+                            Mastering Weighted Averages with Excel: Essential Tutorial for Accurate Data AnalysisQuick Links What is a Weighted Average? ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:59 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:27 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -730,7 +786,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -745,17 +801,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -763,7 +809,7 @@
         
     </div>
 
-    <a href="/how-to-overcome-code-6-issues-in-warzone-and-modern-warfare-for-pc-players/">Read more<span class="seo-reader-text">How to Overcome Code 6 Issues in Warzone and Modern Warfare for PC Players</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-weighted-averages-with-excel-essential-tutorial-for-accurate-data-analysis/">Read more<span class="seo-reader-text">Mastering Weighted Averages with Excel: Essential Tutorial for Accurate Data Analysis</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -779,31 +825,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/fixing-halo-infinite-how-to-resolve-the-notorious-black-screen-problem/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/b1b16b978e702d1684a58d03b101e8cae7dbba962afe3131815c9477f19cbcf4.jpg" alt="Fixing Halo Infinite: How to Resolve the Notorious Black Screen Problem" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-excel-techniques-for-disabling-or-erasing-pre-set-table-formatting-effects/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/eea9086dc7bf337d2bb499bc698c2b462f09146348f5ebcda0ff8ce585d15359.jpg" alt="Mastering Excel: Techniques for Disabling or Erasing Pre-Set Table Formatting Effects" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/fixing-halo-infinite-how-to-resolve-the-notorious-black-screen-problem/">
-                            Fixing Halo Infinite: How to Resolve the Notorious Black Screen Problem
+                        <a href="/mastering-excel-techniques-for-disabling-or-erasing-pre-set-table-formatting-effects/">
+                            Mastering Excel: Techniques for Disabling or Erasing Pre-Set Table Formatting Effects
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Fixing Halo Infinite: How to Resolve the Notorious Black Screen Problem</p>
-
+                            Mastering Excel: Techniques for Disabling or Erasing Pre-Set Table Formatting EffectsQuick Links Clear a Table’s Formatting i...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:57 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:26 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -816,7 +861,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -831,17 +876,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -849,7 +884,7 @@
         
     </div>
 
-    <a href="/fixing-halo-infinite-how-to-resolve-the-notorious-black-screen-problem/">Read more<span class="seo-reader-text">Fixing Halo Infinite: How to Resolve the Notorious Black Screen Problem</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-excel-techniques-for-disabling-or-erasing-pre-set-table-formatting-effects/">Read more<span class="seo-reader-text">Mastering Excel: Techniques for Disabling or Erasing Pre-Set Table Formatting Effects</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -865,31 +900,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-sovled-warno-downfalls-a-comprehensive-guide-to-fixing-game-crashes-on-windows-computers/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e35b5be1f091e9309ed35244938c575401125e5d762e94ab1bade24154e68d3e.jpg" alt="Overcoming [SOVLED] Warno Downfalls: A Comprehensive Guide to Fixing Game Crashes on Windows Computers" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-excel-a-complete-tutorial-on-cloning-conditional-format-styles/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b1cba008df1c48de3d3ce1280dbcf873e7a62b2d4e310b5139d32185695685f2.jpg" alt="Mastering Excel: A Complete Tutorial on Cloning Conditional Format Styles" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-sovled-warno-downfalls-a-comprehensive-guide-to-fixing-game-crashes-on-windows-computers/">
-                            Overcoming [SOVLED] Warno Downfalls: A Comprehensive Guide to Fixing Game Crashes on Windows Computers
+                        <a href="/mastering-excel-a-complete-tutorial-on-cloning-conditional-format-styles/">
+                            Mastering Excel: A Complete Tutorial on Cloning Conditional Format Styles
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming [SOVLED] Warno Downfalls: A Comprehensive Guide to Fixing Game Crashes on Windows Computers</p>
-
+                            Mastering Excel: A Complete Tutorial on Cloning Conditional Format StylesQuick Links Copy Formatting Using Format Painter Co...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:56 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:25 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -902,7 +936,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -917,17 +951,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -935,7 +959,7 @@
         
     </div>
 
-    <a href="/overcoming-sovled-warno-downfalls-a-comprehensive-guide-to-fixing-game-crashes-on-windows-computers/">Read more<span class="seo-reader-text">Overcoming [SOVLED] Warno Downfalls: A Comprehensive Guide to Fixing Game Crashes on Windows Computers</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-excel-a-complete-tutorial-on-cloning-conditional-format-styles/">Read more<span class="seo-reader-text">Mastering Excel: A Complete Tutorial on Cloning Conditional Format Styles</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -951,31 +975,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/civilization-conquerors-unite-overcoming-the-sid-meiers-civ-vi-crashing-challenge/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/368a70a14b371c8e08eacb0b3d4a99240a39fbb092918116ea6d8f331f8e83e6.jpg" alt="Civilization Conquerors Unite: Overcoming the Sid Meier&#39;s Civ VI Crashing Challenge" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-equation-writing-with-office-201/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/09/00_lead_image_ink_equation.png" alt="Mastering Equation Writing with Office 201" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/civilization-conquerors-unite-overcoming-the-sid-meiers-civ-vi-crashing-challenge/">
-                            Civilization Conquerors Unite: Overcoming the Sid Meier&#39;s Civ VI Crashing Challenge
+                        <a href="/mastering-equation-writing-with-office-201/">
+                            Mastering Equation Writing with Office 201
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Civilization Conquerors Unite: Overcoming the Sid Meier’s Civ VI Crashing Challenge</p>
-
+                            Mastering Equation Writing with Office 201One of the new features in Office 2016 is “Ink Equation”. This feature allows you ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:55 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:23 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -988,7 +1011,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1003,17 +1026,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1021,7 +1034,7 @@
         
     </div>
 
-    <a href="/civilization-conquerors-unite-overcoming-the-sid-meiers-civ-vi-crashing-challenge/">Read more<span class="seo-reader-text">Civilization Conquerors Unite: Overcoming the Sid Meier&#39;s Civ VI Crashing Challenge</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-equation-writing-with-office-201/">Read more<span class="seo-reader-text">Mastering Equation Writing with Office 201</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1037,31 +1050,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/resolve-your-2024-garrys-mod-crashing-issues-with-these-expert-strategies/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/80bf249edf159410e9b0aa240c01664195ceb40e24ab3ca2d1256f5edd3745fb.jpg" alt="Resolve Your 2024 Garry&#39;s Mod Crashing Issues with These Expert Strategies" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-dual-screen-work-in-excel-a-comprehensive-guide/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/b271e3424a506666cfc32d0840f08d97d7b8b324df271cfd9aff178b05822fa5.jpg" alt="Mastering Dual-Screen Work in Excel: A Comprehensive Guide" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/resolve-your-2024-garrys-mod-crashing-issues-with-these-expert-strategies/">
-                            Resolve Your 2024 Garry&#39;s Mod Crashing Issues with These Expert Strategies
+                        <a href="/mastering-dual-screen-work-in-excel-a-comprehensive-guide/">
+                            Mastering Dual-Screen Work in Excel: A Comprehensive Guide
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Resolve Your 2024 Garry’s Mod Crashing Issues with These Expert Strategies</p>
-
+                            Mastering Dual-Screen Work in Excel: A Comprehensive GuideQuick Links Using the Split Screen Function Creating Four Equal Qu...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:54 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:22 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -1074,7 +1086,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1089,17 +1101,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1107,7 +1109,7 @@
         
     </div>
 
-    <a href="/resolve-your-2024-garrys-mod-crashing-issues-with-these-expert-strategies/">Read more<span class="seo-reader-text">Resolve Your 2024 Garry&#39;s Mod Crashing Issues with These Expert Strategies</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-dual-screen-work-in-excel-a-comprehensive-guide/">Read more<span class="seo-reader-text">Mastering Dual-Screen Work in Excel: A Comprehensive Guide</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1123,31 +1125,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/achieve-smooth-gaming-on-the-ascent-strategies-to-improve-frame-rates-and-cut-out-freezing-moments/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a047b864a8cf5c572968e745b4.jpg" alt="Achieve Smooth Gaming on &#39;The Ascent&#39;: Strategies to Improve Frame Rates and Cut Out Freezing Moments" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/mastering-data-merging-comprehensive-guide-to-joining-cells-in-microsoft-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485eda34d7682bda60157d137f8e.png" alt="Mastering Data Merging: Comprehensive Guide to Joining Cells in Microsoft Excel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/achieve-smooth-gaming-on-the-ascent-strategies-to-improve-frame-rates-and-cut-out-freezing-moments/">
-                            Achieve Smooth Gaming on &#39;The Ascent&#39;: Strategies to Improve Frame Rates and Cut Out Freezing Moments
+                        <a href="/mastering-data-merging-comprehensive-guide-to-joining-cells-in-microsoft-excel/">
+                            Mastering Data Merging: Comprehensive Guide to Joining Cells in Microsoft Excel
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Achieve Smooth Gaming on ‘The Ascent’: Strategies to Improve Frame Rates and Cut Out Freezing Moments</p>
-
+                            Mastering Data Merging: Comprehensive Guide to Joining Cells in Microsoft ExcelQuick Links Concatenate Using an Ampersand in ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:53 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:21 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -1160,7 +1161,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1175,17 +1176,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1193,7 +1184,7 @@
         
     </div>
 
-    <a href="/achieve-smooth-gaming-on-the-ascent-strategies-to-improve-frame-rates-and-cut-out-freezing-moments/">Read more<span class="seo-reader-text">Achieve Smooth Gaming on &#39;The Ascent&#39;: Strategies to Improve Frame Rates and Cut Out Freezing Moments</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/mastering-data-merging-comprehensive-guide-to-joining-cells-in-microsoft-excel/">Read more<span class="seo-reader-text">Mastering Data Merging: Comprehensive Guide to Joining Cells in Microsoft Excel</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1209,31 +1200,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/how-to-ensure-your-graphics-card-supports-call-of-duty-warzone-on-windows-11/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/852a46d71ad08464710a61d161bf50e16562d6afe64893bd392e2b875addd5c7.jpg" alt="How To Ensure Your Graphics Card Supports Call of Duty: Warzone on Windows 11" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/master-the-art-of-debugging-uncover-hidden-circular-references-in-your-excel-spreadsheets/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/f1ffd26bf18ec2f3f07bb311617c7b3e636e8a179af5ecea0375024bbfa660a4.jpg" alt="Master the Art of Debugging: Uncover Hidden Circular References in Your Excel Spreadsheets" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/how-to-ensure-your-graphics-card-supports-call-of-duty-warzone-on-windows-11/">
-                            How To Ensure Your Graphics Card Supports Call of Duty: Warzone on Windows 11
+                        <a href="/master-the-art-of-debugging-uncover-hidden-circular-references-in-your-excel-spreadsheets/">
+                            Master the Art of Debugging: Uncover Hidden Circular References in Your Excel Spreadsheets
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes How To Ensure Your Graphics Card Supports Call of Duty: Warzone on Windows 11</p>
-
+                            Master the Art of Debugging: Uncover Hidden Circular References in Your Excel SpreadsheetsQuick Links What Are Circular Refer...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:51 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:20 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -1246,7 +1236,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1261,17 +1251,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1279,7 +1259,7 @@
         
     </div>
 
-    <a href="/how-to-ensure-your-graphics-card-supports-call-of-duty-warzone-on-windows-11/">Read more<span class="seo-reader-text">How To Ensure Your Graphics Card Supports Call of Duty: Warzone on Windows 11</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/master-the-art-of-debugging-uncover-hidden-circular-references-in-your-excel-spreadsheets/">Read more<span class="seo-reader-text">Master the Art of Debugging: Uncover Hidden Circular References in Your Excel Spreadsheets</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1295,31 +1275,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/troubleshooting-guide-stop-deathloop-from-crashing-on-your-computer/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/18d1ae3b93316df7253b6d9ca3430e2e7b9da85a6ae22dbb42da5be064fc57fa.png" alt="Troubleshooting Guide: Stop Deathloop From Crashing on Your Computer" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/join-forces-with-friends-from-facebook-for-easy-office-doc-editing-at-docscom/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2010/07/image236.png" alt="Join Forces with Friends From Facebook for Easy Office Doc Editing at Docs.com" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/troubleshooting-guide-stop-deathloop-from-crashing-on-your-computer/">
-                            Troubleshooting Guide: Stop Deathloop From Crashing on Your Computer
+                        <a href="/join-forces-with-friends-from-facebook-for-easy-office-doc-editing-at-docscom/">
+                            Join Forces with Friends From Facebook for Easy Office Doc Editing at Docs.com
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Troubleshooting Guide: Stop Deathloop From Crashing on Your Computer</p>
-
+                            Join Forces with Friends From Facebook for Easy Office Doc Editing at Docs.comWould you like to collaborate and share Office ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:50 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:19 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -1332,7 +1311,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1347,17 +1326,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1365,7 +1334,7 @@
         
     </div>
 
-    <a href="/troubleshooting-guide-stop-deathloop-from-crashing-on-your-computer/">Read more<span class="seo-reader-text">Troubleshooting Guide: Stop Deathloop From Crashing on Your Computer</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/join-forces-with-friends-from-facebook-for-easy-office-doc-editing-at-docscom/">Read more<span class="seo-reader-text">Join Forces with Friends From Facebook for Easy Office Doc Editing at Docs.com</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1381,31 +1350,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/1723005387613-kofxv-pc-compatibility-issues-solved/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/f1a263c48a30403473697d2181558146e92bb208f913d3a258e1502b44a08c19.jpg" alt="KOFXV PC Compatibility Issues - Solved!" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/identifying-and-marking-discrepancies-between-rows-using-microsoft-excel/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/05/MS-excel-logo-675.png" alt="Identifying and Marking Discrepancies Between Rows Using Microsoft Excel" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/1723005387613-kofxv-pc-compatibility-issues-solved/">
-                            KOFXV PC Compatibility Issues - Solved!
+                        <a href="/identifying-and-marking-discrepancies-between-rows-using-microsoft-excel/">
+                            Identifying and Marking Discrepancies Between Rows Using Microsoft Excel
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes KOFXV PC Compatibility Issues - Solved!</p>
-
+                            Identifying and Marking Discrepancies Between Rows Using Microsoft ExcelQuick Links Find Row Differences in Excel Highlight ...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:49 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:18 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -1418,7 +1386,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1433,17 +1401,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1451,7 +1409,7 @@
         
     </div>
 
-    <a href="/1723005387613-kofxv-pc-compatibility-issues-solved/">Read more<span class="seo-reader-text">KOFXV PC Compatibility Issues - Solved!</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/identifying-and-marking-discrepancies-between-rows-using-microsoft-excel/">Read more<span class="seo-reader-text">Identifying and Marking Discrepancies Between Rows Using Microsoft Excel</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1467,31 +1425,30 @@
 
                 
                     <div id="home-article-thumbnail" class="basis-1/3 lg:basis-1/4 xl:basis-1/5 relative flex justify-center items-center overflow-hidden rounded-large">
-                        <a href="/overcoming-blackout-on-your-persona-cuatro-personajes-de-la-accion-tips-for-a-crisp-visual-experience/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
-                            <img src="https://thmb.techidaily.com/e5896cf8bd138a267d00eafc99f462dd02faf3099304ebd5a4c58885b5043e0a.jpg" alt="Overcoming Blackout on Your Persona Cuatro Personajes De La Acción: Tips for a Crisp Visual Experience" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
+                        <a href="/how-to-effectively-copy-your-excel-data-tips-for-making-full-and-partial-copies-including-formula-replication-options/" class="w-28 h-28 md:w-32 md:h-32 lg:w-36 lg:h-36 xl:w-48 xl:h-48 max-w-28 max-h-28 md:max-w-32 md:max-h-32 lg:max-w-36 lg:max-h-36 xl:max-w-48 xl:max-h-48 p-2">
+                            <img src="https://thmb.techidaily.com/4116c8792bda40459f2d1e2a1bd6affbce6e7196ef5949783c79461a680de11c.jpg" alt="How To Effectively Copy Your Excel Data: Tips for Making Full and Partial Copies, Including Formula Replication Options" class="relative w-full h-full rounded-full object-cover dark:brightness-75 transition-all ring ring-gray-50" />
                         </a>
                     </div>
                 
                 <div class="flex flex-col gap-5 px-7 pb-7 basis-2/3 lg:basis-3/4 xl:basis-4/5  pt-5">
                     <h3 class="home-article-title">
-                        <a href="/overcoming-blackout-on-your-persona-cuatro-personajes-de-la-accion-tips-for-a-crisp-visual-experience/">
-                            Overcoming Blackout on Your Persona Cuatro Personajes De La Acción: Tips for a Crisp Visual Experience
+                        <a href="/how-to-effectively-copy-your-excel-data-tips-for-making-full-and-partial-copies-including-formula-replication-options/">
+                            How To Effectively Copy Your Excel Data: Tips for Making Full and Partial Copies, Including Formula Replication Options
                         </a>
                     </h3>
 
                     <div class="home-article-content markdown-body">
                         
-                            <p>This Article Describes Overcoming Blackout on Your Persona Cuatro Personajes De La Acción: Tips for a Crisp Visual Experience</p>
-
+                            How To Effectively Copy Your Excel Data: Tips for Making Full and Partial Copies, Including Formula Replication OptionsSay yo...
                         
                     </div>
 
                     <div class="home-article-meta-info-container">
     <div class="home-article-meta-info">
         <span><i class="fa-solid fa-calendars"></i>&nbsp;
-            <span class="home-article-date" data-date="Tue Aug 27 2024 21:35:48 GMT+0800">
+            <span class="home-article-date" data-date="Wed Aug 28 2024 05:42:17 GMT+0800">
                 
-                    2024-08-27
+                    2024-08-28
                 
             </span>
         </span>
@@ -1504,7 +1461,7 @@
                     
                         
                         <li>
-                            <a href="/categories/ProgramIssues/">ProgramIssues</a>&nbsp;
+                            <a href="/categories/tech/">tech</a>&nbsp;
                         </li>
                     
                     
@@ -1519,17 +1476,7 @@
                     
                         <li>
                             
-                            <a href="/tags/win11/">win11</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win10/">win10</a>&nbsp;
-                        </li>
-                    
-                        <li>
-                            | 
-                            <a href="/tags/win7/">win7</a>&nbsp;
+                            <a href="/tags/excel/">excel</a>&nbsp;
                         </li>
                     
                 </ul>
@@ -1537,7 +1484,7 @@
         
     </div>
 
-    <a href="/overcoming-blackout-on-your-persona-cuatro-personajes-de-la-accion-tips-for-a-crisp-visual-experience/">Read more<span class="seo-reader-text">Overcoming Blackout on Your Persona Cuatro Personajes De La Acción: Tips for a Crisp Visual Experience</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
+    <a href="/how-to-effectively-copy-your-excel-data-tips-for-making-full-and-partial-copies-including-formula-replication-options/">Read more<span class="seo-reader-text">How To Effectively Copy Your Excel Data: Tips for Making Full and Partial Copies, Including Formula Replication Options</span>&nbsp;<i class="fa-solid fa-angle-right"></i></a>
 </div>
 
                 </div>
@@ -1547,7 +1494,7 @@
 
     <div class="home-paginator px-7 py-5">
         <div class="paginator">
-    <a class="extend prev" rel="prev" href="/page/225/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/224/">224</a><a class="page-number" href="/page/225/">225</a><span class="page-number current">226</span><a class="page-number" href="/page/227/">227</a><a class="page-number" href="/page/228/">228</a><span class="space">&hellip;</span><a class="page-number" href="/page/903/">903</a><a class="extend next" rel="next" href="/page/227/"><i class="fa-regular fa-angle-right"></i></a>
+    <a class="extend prev" rel="prev" href="/page/225/"><i class="fa-regular fa-angle-left"></i></a><a class="page-number" href="/">1</a><span class="space">&hellip;</span><a class="page-number" href="/page/224/">224</a><a class="page-number" href="/page/225/">225</a><span class="page-number current">226</span><a class="page-number" href="/page/227/">227</a><a class="page-number" href="/page/228/">228</a><span class="space">&hellip;</span><a class="page-number" href="/page/958/">958</a><a class="extend next" rel="next" href="/page/227/"><i class="fa-regular fa-angle-right"></i></a>
 </div>
 
     </div>
