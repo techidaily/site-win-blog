@@ -1,0 +1,422 @@
+---
+title: "Ultimate Guide: Solving Dota 2 Performance Issues & Latency"
+date: 2024-09-06T01:23:06.288Z
+updated: 2024-09-07T01:23:06.288Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Ultimate Guide: Solving Dota 2 Performance Issues & Latency"
+excerpt: "This Article Describes Ultimate Guide: Solving Dota 2 Performance Issues & Latency"
+thumbnail: https://thmb.techidaily.com/088a2140549716da6b5748cac96819433a88c8dbf67bc5c9abb78e2279e38684.jpg
+---
+
+## Troubleshooting Tips for Naraka:Bladepoint Performance Issues Resolved
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/yjwj_en_1280_1024_c81e728d9d4c2f636f067f89cc14862c-1200x960.jpg)
+
+ Naraka: Bladepoint is finally back with the global release! But just like any other new releases, we’re seeing reports of bugs and errors. Many players reported the game**keeps crashing on PC** . The good news is there are some known fixes available. Read on and find out what they are…
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Try these fixes…
+
+[1: Close background programs](https://tools.techidaily.com/drivereasy/download/)
+
+[2: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
+
+[3: Verify your game files](https://tools.techidaily.com/drivereasy/download/)
+
+[4: Repair system files](https://tools.techidaily.com/drivereasy/download/)
+
+[5: Increase the virtual memory on your PC](https://tools.techidaily.com/drivereasy/download/)
+
+[6: Keep your system up-to-date](https://tools.techidaily.com/drivereasy/download/)
+
+[7: Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
+
+[*Known issues on Sonic studio virtual mixer driver](https://tools.techidaily.com/drivereasy/download/)
+
+ Before we dive into anything advanced, make sure you’ve tried to restart the game and your PC to see if it’s just a one-time random error.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## System requirements
+
+| **Minimum**          | **Recommended**                                                                                                |                                                                                                                |
+| -------------------- | -------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| **OS**               | Windows 10 (64-bit)                                                                                            | Windows 10 (64-bit)                                                                                            |
+| **Processor**        | Intel i5 4th generation or AMD FX 6300 or equivalent                                                           | Intel i7 7th generation or equivalent                                                                          |
+| **Memory**           | 8 GB RAM                                                                                                       | 16 GB RAM                                                                                                      |
+| **Graphics**         | NVIDIA GeForce GTX 750TI or equivalent                                                                         | NVIDIA GeForce GTX 1060 6G or equivalent                                                                       |
+| **DirectX**          | Version 11                                                                                                     | Version 11                                                                                                     |
+| **Network**          | Broadband Internet connection                                                                                  | Broadband Internet connection                                                                                  |
+| **Storage**          | 20 GB available space                                                                                          | 20 GB available space                                                                                          |
+| **Additional Notes** | a) Can run at 720p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience. | a) Can run at 1080p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience |
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 1: Close background programs
+
+ Naraka: Bladepoint is likely to crash when too many programs are running in the background and taking up all the resources. You can shut down the background programs via Task Manager:
+
+1. Right-click your taskbar, then click**Task Manager** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
+2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
+
+If this doesn’t solve your problem, try the next fix.
+
+## Fix 2: Update your graphics driver
+
+ A faulty or outdated graphic driver is one of the most common reasons for Naraka: Bladepoint keeps crashing on PC. You may want to make sure yours is up-to-date and functioning properly.
+
+ There are two ways to keep your graphics card driver up-to-date. One is to manually update it via Device Manager. If Device Manager fails to detect an available update, you can also search on the manufacturer’s website. Be sure to choose only the driver that is compatible with your Windows version.
+
+**Automatic driver update** – If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system and find the correct driver for your exact graphics card and your Windows version, then it will download and install it correctly:
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
+2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
+
+## Fix 3: Verify your game files
+
+ If any of the game files of Naraka: Bladepoint on your PC are missing or corrupted, the game can crash at any point during the gameplay. You can use the game launcher to verify the integrity of your game files. Here’s how:
+
+**On Steam** :
+
+1. Open your Steam library and find Naraka: Bladepoint. Right-click the game then click**Properties** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
+2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
+3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+**On Epic Games** :
+
+1. Open your library and find Naraka: Bladepoint. Click the**three-dot icon** next to the game title.
+2. In the dropdown menu, click**Verify** .
+3. Epic Games Launcher will complete the scan and repair. It might take a while depending on the game’s size.
+
+ If verifying your game files doesn’t fix the crashing issue, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 4: Repair system files
+
+ In addition to game files, corrupted system files could also cause Naraka: Bladepoint to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues. This tool can be handy, but most of the time manual repair is required.
+
+ You may need a more powerful tool to repair your system, and we recommend giving **[Fortect](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) a try. It’s a professional system repair software that specializes in solving program and security issues found on your PC. Fortect can also diagnose your Windows problems and fix corrupted system files and services without affecting your data.
+
+1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
+2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
+3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
+ Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 5: Increase the virtual memory on your PC
+
+ The developer suggests that insufficient virtual memory could interfere with the game’s performance, and lead to the crashing issue. You can check your virtual memory (paging file size) first, then configure the settings if needed.
+
+**To check your virtual memory** :
+
+1. Press the**Windows logo key** and**R** on your keyboard to invoke the Run box.
+2. Paste**sysdm.cpl** in the box, then click OK.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
+3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
+4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
+5. Now you’ll see the paging file size on your PC.  
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**To manually allocate paging file size** :
+
+ If you want to increase your virtual memory to fix the crashing issue, or for a better gaming experience, follow the steps below:
+
+1. UNCHECK the box of**Automatically manage paging file size for all drives** , then select**Custom size** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
+2. Use the below formulas to calculate the values you should set:  
+
+_**1GB = 1024 MB**_  
+ _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
+_**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
+3. If you don’t know how much RAM you have, press the**Windows key** and**R** to invoke the Run box. Then type in**msinfo32** and click**OK** . You’ll find the information in the pop-up window.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
+4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
+<!-- affiliate ads begin -->
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
+5. Restart your PC to let the changes take effect.
+
+If your game still crashes, try the next fix.
+
+## Fix 6: Keep your system up-to-date
+
+ If your system isn’t updated regularly, there could be compatibility issues which cause the game to crash. Make sure that you always install the available updates. Here’s how:
+
+1. In the search bar next to your Start button, type**update** , then click C**heck for updates** .  
+ (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
+2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
+3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
+4. Restart your PC to let it take effect.
+
+If this doesn’t solve your problem, try the last fix.
+
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Fix 7: Perform a clean boot
+
+ A clean boot will start your PC with the minimum sets of drivers and services that Windows requires to run.
+
+ By doing a clean boot, you can identify if any background program was interfering with Naraka: Bladepoint and causing the crashing issue.
+
+**Here’s how to perform a clean boot:**
+
+1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
+2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
+3. Switch to the**Startup** tab, click**Open Task Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
+4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
+5. Restart your PC.
+
+ If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
+  
+**Here’s how to find out which one(s):**
+
+1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
+2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+ Then click**Apply** and**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
+3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
+4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
+
+ NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
+
+ If you don’t find any problematic services, you’ll need to test the startup items.**Here’s how:**
+
+1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
+2. Switch to the**Startup** tab, and**enable the first five startup items** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
+3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+4. Repeat until you find the startup item that’s conflicting with the game.
+5. Disable the problem program and reboot your PC.
+
+## Known issues on Sonic studio virtual mixer driver
+
+ Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
+
+---
+
+ Hopefully this article is helpful! Please feel free to leave a comment down below if you have any questions or suggestions.
+
+* [Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/)
+* [game crash](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-craft-top-notch-episodes-learn-podcast-editing-secrets-with-garageband/"><u>[New] Craft Top-Notch Episodes Learn Podcast Editing Secrets with GarageBand</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-top-10-extensions-for-maxed-out-terria/"><u>[New] Top 10 Extensions for Maxed-Out Terria</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-top-eco-friendly-filming-tech-mastery-guide-for-2024/"><u>[New] Top Eco-Friendly Filming Tech Mastery Guide for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-top-tips-for-maximizing-iphone-xs-cinematic-shots/"><u>[New] Top Tips for Maximizing iPhone X's Cinematic Shots</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-engaging-presentations-tips-for-uploading-youtube-videos-into-slides/"><u>[Updated] Engaging Presentations Tips for Uploading YouTube Videos Into Slides</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-the-ig-boom-technique-how-to-amass-a-massive-follower-count-quickly/"><u>[Updated] In 2024, The IG Boom Technique How to Amass a Massive Follower Count Quickly</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-your-views-the-ultimate-8-fb-movie-download-guide/"><u>[Updated] Streamline Your Views The Ultimate #8 FB Movie Download Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-combat-firefox-video-lag-with-these-techniques/"><u>2024 Approved Combat Firefox Video Lag with These Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-navigate-to-the-premier-android-tools-for-ps2-games/"><u>2024 Approved Navigate to the Premier Android Tools for PS2 Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722990600139-amazon-prime-video-not-working-heres-how-to-fix-it-quickly/"><u>Amazon Prime Video Not Working? Here's How to Fix It Quickly!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arcadegeddon-pc-performance-optimized-say-no-more-frequent-crashes/"><u>Arcadegeddon PC Performance Optimized: Say No More Frequent Crashes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/avoid-potential-pitfalls-with-a-healthy-skepticism-of-ai/"><u>Avoid Potential Pitfalls with a Healthy Skepticism of AI</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-guide-to-obtaining-the-latest-sound-blaster-z-drivers-compatible-with-windows-10/"><u>Easy Guide to Obtaining the Latest Sound Blaster Z Drivers Compatible with Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-age-of-empires-iv-non-downloadingnon-installing-issues-on-the-microsoft-app-store/"><u>Effective Solutions to Age of Empires IV Non-Downloading/Non-Installing Issues on the Microsoft App Store</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-prevent-baldurs-gate-iii-from-crashing-on-your-pc/"><u>Effective Solutions to Prevent Baldur's Gate III From Crashing on Your PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/enhancing-os-compatibility-for-adobes-creative-suite/"><u>Enhancing OS Compatibility for Adobe's Creative Suite</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-tips-for-handling-fortnite-error-code-84-unable-to-link-up-with-fellow-gamers/"><u>Essential Tips for Handling Fortnite Error Code #84 - Unable To Link Up With Fellow Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-dealing-with-a-non-responsive-rocket-league-game/"><u>Expert Tips for Dealing with a Non-Responsive Rocket League Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-critical-errors-resolving-no-rest-for-the-wicked-crashes-in-windows/"><u>Fixing Critical Errors: Resolving 'No Rest for the Wicked' Crashes in Windows</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-honor-100-is-unlocked-by-drfone-android/"><u>How To Check if Your Honor 100 Is Unlocked</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-palworld-when-it-wont-start-easy-steps-you-can-take-now/"><u>How to Fix Palworld When It Won't Start: Easy Steps You Can Take Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-your-msi-mystic-light-up-and-running-on-windows-platforms/"><u>How to Get Your MSI Mystic Light Up and Running on Windows Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-samsung-galaxy-a05-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Samsung Galaxy A05 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-oppo-f23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Oppo F23 5G | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-from-iphone-15-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID From iPhone 15 Making It Possible</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-fix-addressing-team-fortress-1-not-starting-issues/"><u>Mastering the Fix: Addressing Team Fortress 1 Not Starting Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-online-account-access-issues-corrected/"><u>Resolved: Online Account Access Issues Corrected</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-the-enshrouded-crash-issues-a-seamless-adventure-on-your-computer/"><u>Solved! The Enshrouded Crash Issues – A Seamless Adventure on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-mw3-startup-problems-easy-steps-for-a-smooth-gameplay-experience/"><u>Solving MW3 Startup Problems - Easy Steps for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/supercharge-your-channel-with-smart-youtube-collaborations/"><u>Supercharge Your Channel with Smart YouTube Collaborations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-strategies-fixing-rust-applications-when-they-freeze-expert-advice/"><u>Top Strategies: Fixing Rust Applications When They Freeze - Expert Advice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-resolve-control-application-errors-swiftly-and-effectively/"><u>Troubleshoot & Resolve Control Application Errors Swiftly & Effectively!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-deadly-developer-mistakes-for-a-smoother-call-of-duty-experience/"><u>Troubleshooting Deadly Developer Mistakes for a Smoother Call of Duty Experience</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/troubleshooting-guide-resolving-mass-effect-legendary-edition-pc-and-xbox-game-crashes/"><u>Troubleshooting Guide: Resolving Mass Effect Legendary Edition PC and Xbox Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-resolving-logitech-setup-problems-on-your-pc/"><u>Troubleshooting Tips for Resolving Logitech Setup Problems on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-fix-recurring-overwatch-2-pc-instability-issues/"><u>Ultimate Guide to Fix Recurring Overwatch 2 PC Instability Issues</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/unlocking-potential-with-facebooks-live-a-comprehensive-guide-for-creators-for-2024/"><u>Unlocking Potential with Facebook’s LIVE A Comprehensive Guide for Creators for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-to-successfully-starting-armored-core-vi-addressing-fires-of-rubicon-boot-issues/"><u>Unlocking the Secrets to Successfully Starting Armored Core VI: Addressing 'Fires of Rubicon' Boot Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-enables-successful-boot-of-civilization-6-game-on-new-windows-11-platforms/"><u>Update Enables Successful Boot of Civilization 6 Game on New Windows 11 Platforms</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-say-goodbye-to-shaky-footage-8-free-online-video-stabilizers-2024-review/"><u>Updated Say Goodbye to Shaky Footage 8 Free Online Video Stabilizers (2024 Review)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/upgrade-needed-enhance-your-cpu-to-run-vanguard-successfully/"><u>Upgrade Needed: Enhance Your CPU to Run Vanguard Successfully</u></a></li>
+<li><a href="https://fake-location.techidaily.com/what-is-geo-blocking-and-how-to-bypass-it-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>What is Geo-Blocking and How to Bypass it On Vivo T2 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-my-lunar-client-keep-freezing-solutions-to-restore-stability/"><u>Why Does My Lunar Client Keep Freezing? Solutions to Restore Stability</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-11-without-taskbar-chat-the-consequences-for-you-as-a-user/"><u>Windows 11 Without Taskbar Chat: The Consequences for You as a User?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wipe-out-the-glitches-in-fia-world-rally-championship-wrc-sweepstakes-pc-version/"><u>Wipe Out the Glitches in FIA World Rally Championship (WRC) Sweepstakes, PC Version</u></a></li>
+</ul></div>

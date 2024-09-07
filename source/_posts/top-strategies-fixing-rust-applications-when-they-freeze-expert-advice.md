@@ -1,7 +1,7 @@
 ---
 title: "Top Strategies: Fixing Rust Applications When They Freeze - Expert Advice"
-date: 2024-09-01T08:54:03.744Z
-updated: 2024-09-02T08:54:03.744Z
+date: 2024-09-06T01:18:38.166Z
+updated: 2024-09-07T01:18:38.166Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Top Strategies: Fixing Rust Applications When T
 thumbnail: https://thmb.techidaily.com/7fed1c054c54c404a50983c16bd1d7d403eb3f6cb3fe1e73cdb94850018ef126.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Expert Advice on Fixing Your Dragon Quest XI System Freeze – No More Interruptions
 
 You won’t be happy when you’re playing Dragon Quest 11 with a random crashing issue. The crashes may happen when you through a scene, wait for loading screen or even at the startup. Don’t worry, you’re not alone. Here are some fixes you can try.
@@ -37,6 +43,12 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 | Graphics  | NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56 |
 | Storage   | 32 GB available space                           |
 
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -44,6 +56,12 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
@@ -57,22 +75,54 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
 4. Under**Virtual memory** , click**Change** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/3-2.jpg)
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 7. Reboot your computer can check whether the crash will appear or not.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Delete specific files from the save folder
 
@@ -84,14 +134,8 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5. Reboot your computer and check the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
@@ -122,10 +166,6 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.

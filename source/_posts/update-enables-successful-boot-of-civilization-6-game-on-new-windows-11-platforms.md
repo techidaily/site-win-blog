@@ -1,7 +1,7 @@
 ---
 title: Update Enables Successful Boot of Civilization 6 Game on New Windows 11 Platforms
-date: 2024-09-01T08:54:10.370Z
-updated: 2024-09-02T08:54:10.370Z
+date: 2024-09-06T01:18:38.054Z
+updated: 2024-09-07T01:18:38.054Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Update Enables Successful Boot of Civilization 6
 thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8c7743ea30004b41e37daeda.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Star Citizen Now Stable - No More Crashes on Windows Platforms
 
 As soon as you load into the game, Star Citizen crashes immediately. This could be frustrating but don’t worry, this post could help.
@@ -29,12 +35,24 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 6. [Increase page file size](https://tools.techidaily.com/drivereasy/download/)
 7. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Disconnect any peripheral devices
 
  To the Star Citizen crashing issue, you need to disconnect any external devices. It’s because the crash could be caused by the conflicting device.
 
  If the issue is still there after moving off the peripheral devices, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Disable Win 10 Xbox gaming overlay
 
  Many users had reported that disabling the Windows10 Xbox gaming overlay would solve the problem. After disabling this feature, Star Citizen won’t crash again.
@@ -45,12 +63,18 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Kill background programs
 
@@ -63,16 +87,10 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
@@ -91,12 +109,15 @@ So, there are two ways that you can update your graphics driver:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The PRO version comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -109,19 +130,12 @@ So, there are two ways that you can update your graphics driver:
 2. Click**Settings > Character reset** .
 3. Click**Reset Request** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Increase page file size
 
  This tip has worked for some users. By increasing page file size on your SSD, leaving enough room for the game is a pretty important element that affects how Star Citizen runs.
 
  Make sure you have enough free space on SSD and run the game in low settings with V-sync off.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Reset or reinstall Windows
 
  If all else fails, you may have to[reset Windows](https://tools.techidaily.com/drivereasy/download/) , or maybe even[reinstall it](https://tools.techidaily.com/drivereasy/download/) together. We all know reinstalling will delete all the data on your hard drive, you have to[back up all your important files](https://tools.techidaily.com/drivereasy/download/) before doing it.  

@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Call of Duty WWII Error 4128: Tips and Solutions for Gamers"
-date: 2024-09-01T08:53:10.322Z
-updated: 2024-09-02T08:53:10.322Z
+date: 2024-09-06T01:18:39.005Z
+updated: 2024-09-07T01:18:39.005Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Overcoming Call of Duty WWII Error 4128: Tips a
 thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209e0df21f919437f2401fbd1a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixing the Launch Problems of Hitman 3 for PC Gamers - Solutions Found
 
 After a long wait, the[new Hitman installment](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793) is finally here. While being the first AAA title released in 2021, Hitman 3 is not immune from issues. Upon its arrival, many gamers start reporting a**game not launching** error. But don’t worry if you happen to be on the same boat. Down below we’ve put together some working fixes to help restore your assassin identity. Try them and get your game working right away.
@@ -42,6 +48,12 @@ Now you can try to launch Hitman 3 using the Epic Games launcher.
 
  If verifying game files doesn’t help, you can take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Run Epic Games as administrator
 
  If there’s nothing wrong with your game files, the next thing you should do is check for permission issues. Granting the Epic Games launcher the administrator access could be a potential fix in this regard.
@@ -54,10 +66,25 @@ Here’s how:
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Launch Hitman 3 from game folder
 
@@ -66,7 +93,10 @@ Here’s how:
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
@@ -94,13 +124,13 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -108,6 +138,12 @@ After updating your GPU driver, you can check if Hitman 3 is working now.
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Install all Windows updates
 
  Aside from drivers, it’s also important to keep your system up to date, which means you should make sure all the system updates are installed, as they usually provide more than just some minor bug fixes.
@@ -119,23 +155,32 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
 
+<!-- affiliate ads begin -->
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Check if it’s a server issue
 
  If you’ve tried all the methods above and none seem to work, then maybe it’s your fault at all. After the game was launched, there’re lots of complaints that the carry over server is down and the game is not connecting. So you might need to be patient before a hotfix is released. And to learn more about the Hitman 3 updates, you can check out the IOI[Twitter](https://twitter.com/iointeractive?lang=en) .

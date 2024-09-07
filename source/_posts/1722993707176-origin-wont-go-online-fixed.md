@@ -1,7 +1,7 @@
 ---
 title: Origin Won't Go Online [FIXED]
-date: 2024-09-01T08:53:21.365Z
-updated: 2024-09-02T08:53:21.365Z
+date: 2024-09-06T01:18:38.830Z
+updated: 2024-09-07T01:18:38.830Z
 tags:
   - win11
   - win10
@@ -29,6 +29,12 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 4. [**Reset your hosts file**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset your Internet connection settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Check your computer for viruses or malware
 
  Perhaps you’re having a connection issue with Origin because there is a virus or malware on your computer. They may change your Internet settings or corrupt your computer file so Origin can’t go online. You should run your antivirus software to scan your computer for viruses and malware.
@@ -55,6 +61,18 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
+<!-- affiliate ads begin -->
+<span id="1982596">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbc8d302569.jpg)
 
@@ -64,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reset your hosts file
 
  Maybe your Origin client can’t get online because your hosts file was changed. You should try resetting your hosts file to fix this issue.
@@ -82,12 +97,39 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd1c77cbb2.png)
 4. Double click**hosts** .  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd2e1b6cf2.jpg)
 5. Select**Notepad** , then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbec88bf79c.jpg)
 6. **Delete** **all the content** of the file, then copy and paste the**following text** into the file.  
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 # Copyright (c) 1993-2006 Microsoft Corp  
 
@@ -132,13 +174,13 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbeef28c918.jpg)
 7. Click**File** , then click**Save** .  
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf0306507c.jpg)
 8. Check to see if this works for you.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 
 If not, then you may need to…
 
@@ -150,12 +192,18 @@ If not, then you may need to…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd68d188b6f7.png)
 2. Right click**Command Prompt** in the list of results, then select**Run as administrator** .  
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6a6691c908.jpg)
 3. Type the following lines of command at Command Prompt, and after typing each line, press**Enter** on your keyboard.  
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ipconfig /release  
 

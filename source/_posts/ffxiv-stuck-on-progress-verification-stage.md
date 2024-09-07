@@ -1,7 +1,7 @@
 ---
 title: FFXIV Stuck on Progress Verification Stage
-date: 2024-09-01T08:55:58.486Z
-updated: 2024-09-02T08:55:58.486Z
+date: 2024-09-06T01:18:36.363Z
+updated: 2024-09-07T01:18:36.363Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes FFXIV Stuck on Progress Verification Stage
 thumbnail: https://thmb.techidaily.com/130efd155dd3113027502bebb58cb6e6e0e86e94cc569dcea85fd93839ec481a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Overcome Stuttering Issues in Sifu on PC - Effective Solutions Inside
 
 ![SIFU fps drops on PC](https://images.drivereasy.com/wp-content/uploads/2022/02/SIFU-fps-drops-on-PC.jpg)
@@ -33,6 +39,12 @@ Sifu
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The French studio Sloclap releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -42,7 +54,16 @@ Sifu
  Launch Sifu and check if the in-game FPS is back to normal. If the FPS still drops, or if there are no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Update your graphics driver
 
@@ -62,15 +83,18 @@ There are mainly two methods for you to update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Optimize in-game graphics settings
 
  Optimizing the graphics settings is another effcient fix that may boost the in-game FPS, especially if your PC barely meets the minimum system requirements of Sifu. If you have a powerful PC, you can skip this fix.
@@ -100,7 +124,10 @@ There are mainly two methods for you to update the graphics driver:
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Modify graphics card settings
 
@@ -125,9 +152,6 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
@@ -139,6 +163,12 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Launch Sifu to check if you gain a better PFS. If this doesn’t work on your powerful PC, then try seting the Windows power plan to**Ultimate Performance** , a power plan that is not widely known, which is designed to make the most out of high end setups.
 
  The Ultimate Performance option doesn’t appear on the power plan list? Just follow the steps below to unhide it:
@@ -152,7 +182,10 @@ There are mainly two methods for you to update the graphics driver:
  Lauch the game to see if Sifu’s in-game FPS improves after changing the power plan. If you didn’t see much in-game FPS boosts, read on and try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Disable overlays
 
@@ -160,9 +193,6 @@ There are mainly two methods for you to update the graphics driver:
 
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 would constantly run in the background once enabled, hogging tons of resources. To gain a better FPS, you may need to disable them. Here is how to do it:
@@ -170,13 +200,22 @@ There are mainly two methods for you to update the graphics driver:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Click **Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Launch Sifu to see you can play it smoothly.
 
 ---

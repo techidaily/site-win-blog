@@ -1,7 +1,7 @@
 ---
 title: "How to Address and Correct Modern Warfare 3 Error 12707: A Detailed Guide"
-date: 2024-09-01T08:56:04.917Z
-updated: 2024-09-02T08:56:04.917Z
+date: 2024-09-06T01:18:36.254Z
+updated: 2024-09-07T01:18:36.254Z
 tags:
   - win11
   - win10
@@ -39,41 +39,59 @@ thumbnail: https://thmb.techidaily.com/f445e6a75f6d950eb81c085e5f2bce4ee758de9e9
 2. Type**taskmgr** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14b463b359.jpg)
 3. In the**Process** tab, select any process related with**Discord** , and click**End task** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14c2e4d7a7.jpg)  
  You’ll need to repeat this several times to end Discord task if there are more than one processes for Discord.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Then close**Task Manager** .
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Delete Discord folders
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type_**%AppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Bonus Tip: Update available device drivers
 
  The missing or outdated device drivers can bring your computer various problems, such as Discord not working or sound problems. So you should keep your device drivers up to date.
@@ -95,14 +113,25 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)

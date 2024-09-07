@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting 'Sons of the Forest' For PC: Tips and Tricks for Uninterrupted Gaming"
-date: 2024-09-01T08:56:12.707Z
-updated: 2024-09-02T08:56:12.707Z
+date: 2024-09-06T01:18:36.130Z
+updated: 2024-09-07T01:18:36.130Z
 tags:
   - win11
   - win10
@@ -81,13 +81,28 @@ Here’s how to use Fortect to run a Windows repair:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 5. Launch CoD, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix** 3, below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3:**Make sure your PC meets the specs for Vanguard**
 
@@ -110,22 +125,25 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If your PC specs have been up to the mark but Call of Duty: Vanguard still crashes, please move on to **Fix 4** , below to begin troubleshooting.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 4: Scan & repair Vanguard game files
 
  Call of Duty: Vanguard may crash if certain game files are missing or corrupt. To see if this is the case, you should run a scan & repair to verify its integrity. If any files are missing or found damaged, the tool will repair them for you.
@@ -137,7 +155,10 @@ To check the specs of your PC:
 4. Launch Vanguard again and check to see if the crashing issue still occurs.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 5: Disable overlays
 
@@ -147,6 +168,12 @@ To check the specs of your PC:
 
 Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Close background apps
 
  Another fix you could try is to close unnecessary background apps. This is because third-party apps running in the background may compete for CPU, memory and potentially interfere with the performance of the Vanguard game, causing your game to crash.
@@ -158,26 +185,24 @@ Cod Vanguard crashing still not resolved? Please try Fix 6, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123.png)
 3. Restart your computer.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Test the gameplay in Vanguard and see if the crashing issue is fixed. If yes, congrats! If it’s still no joy, please move on to**Fix 7** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 7: Make sure your system is up to date
 
@@ -188,6 +213,12 @@ Here are the steps:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/checkforupdates.png)
 2. Click **Check for updates** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
 4. Restart your computer.

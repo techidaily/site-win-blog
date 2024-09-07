@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Dealing with a Non-Responsive Rocket League Game
-date: 2024-09-01T08:53:59.816Z
-updated: 2024-09-02T08:53:59.816Z
+date: 2024-09-06T01:18:38.231Z
+updated: 2024-09-07T01:18:38.231Z
 tags:
   - win11
   - win10
@@ -13,6 +13,18 @@ excerpt: This Article Describes Expert Tips for Dealing with a Non-Responsive Ro
 thumbnail: https://thmb.techidaily.com/1fd143d9eb4d07db9c9ac9863a1f2f928a907a725320b5c8de27b0428ee29e3e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Expert Tips for Fixing Crashes in Football Manager 201 Grove Your Game with These Solutions
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_18-02-48.jpg)
@@ -34,6 +46,12 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 7. **[Change the power option](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall your game and Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Meet_FM19_ ‘s minimum specs
 
 #### **What are the minimum specs?**
@@ -53,6 +71,12 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-11-45-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-33-01.jpg)
@@ -68,7 +92,10 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
  Make sure that your computer meets the minimum requirements, then move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: End unnecessary background programs
 
@@ -78,15 +105,15 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-01.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-08.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)**  Right-click the resource-consuming process and select **End task** .
 
@@ -112,13 +139,16 @@ _**Football Manager 2019 (FM19)**_ keeps crashing at startup? Or it closes unexp
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-03.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-37-07.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -141,20 +171,32 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-25-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **5)** Relaunch your game after the process is finished.
 
  You should now be able to launch your game and actually play! If not, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5:**Delete the Preferences and Caches Folder**
 
  Game cache files could also affect the performance of your game. Try clearing the_FM19_ Cache and Preferences folder to see if it fixes your issue. Here is how to do it:
@@ -169,12 +211,24 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-17.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Delete the**Preferences** and**Cache folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-41-21.jpg)
 
  Try launching_FM19_ again to see if this has resolved your issue. If it’s not, read on and check the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Set Game Launch Options
 
  Game Launch Options allow you to change game settings before launching it. It’s helpful if your issue is caused by improper in-game settings, and you can’t run your game at all. Here are two options to try:
@@ -194,26 +248,35 @@ If your game still crashes, then go ahead with the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-26.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)**  Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)** Type**\-renderer\_direct3D9** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-48-02.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **7)** Launch_FM19_ through Steam.
 
@@ -227,13 +290,16 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)**  Right-click**Football Manager 2019** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-38-40-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-31-1.jpg)
@@ -242,15 +308,36 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-47-38-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)** Type**\-small\_screen -windowed** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-49-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Try launching your game again. If your problem still exists, don’t fret. There are still 2 more fixes to try.
 
+<!-- affiliate ads begin -->
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Change the power option
 
  Windows sets all computers to the Balanced power plan by default, so your computer may sometimes slow down to save energy, causing_FM19_ to crash. Try changing your power plan to High Performance to see if it fixes your problem. Follow the instructions below:
@@ -263,27 +350,24 @@ If you still have the problem, try running your game in Windowed mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-12-04-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Under View by, select**Large icons** , then click **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-14-19-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-40-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Restart your computer and your game.
 
 If your game is still unplayable, move on to the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 8: Reinstall_FM19_ and Steam
 
  FM19 crashing issue may happen because the game or the game launcher is not properly installed on your computer. Although it’s rare, you should still rule out the possibility.
@@ -299,13 +383,16 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)**  Right-click**Football Manager 2019** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-54-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Relaunch Steam, then download and install_Football Manager 2019_ .
 
 If the game still crashes, try reinstalling the game launcher.
@@ -321,23 +408,41 @@ If the game still crashes, try reinstalling the game launcher.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-37.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-13-14-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_18-00-57-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/) [](https://store.steampowered.com/about/)**  and install Steam.
 
 **7)** Right-click the **Steam icon**  and select **Open file location** .
@@ -345,14 +450,20 @@ If the game still crashes, try reinstalling the game launcher.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-23-03-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2121335/18498" target="_top" id="2121335">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121335/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **9)**  Relaunch your Steam and_FM19_ .
 

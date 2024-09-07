@@ -1,7 +1,7 @@
 ---
 title: IPhone and iTunes Compatibility Troubleshooting in Windows 11 - Now Fixed!
-date: 2024-09-01T08:56:08.855Z
-updated: 2024-09-02T08:56:08.855Z
+date: 2024-09-06T01:18:36.191Z
+updated: 2024-09-07T01:18:36.191Z
 tags:
   - win11
   - win10
@@ -13,10 +13,28 @@ excerpt: This Article Describes IPhone and iTunes Compatibility Troubleshooting 
 thumbnail: https://thmb.techidaily.com/a770835b076eb6b9f15ef9eaa24a0d7865dfb16a5caaa3e52196c91037b09546.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Age of Empires II Troubleshooting for Windows 11 Users - Solved
 
 It’s frustrating when you experience the launching problem when playing Age of Empires 2 on your Windows 10 device. But don’t worry, here is a general guide that can help rule out common causes of this issue. Check it out.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all, just work your way down the list until you find the one that works for you.
@@ -35,6 +53,12 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-21-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
@@ -49,10 +73,22 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-27-44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **5)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-29-02-1.jpg)
@@ -61,9 +97,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 If AoE still won’t launch, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Often times when a game fails, the main culprit behind this is your graphics card driver. You may be using a faulty graphics driver or it’s outdated, which causes the game to crash.
@@ -86,16 +119,10 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of your game files
 
  Corrupt or missing game files can also cause your game to fail. If you’re playing the game on Steam, you can verify the integrity of your game files. Follow the instructions below:
@@ -106,23 +133,38 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-42-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Right-click **Age of Empires II** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-15.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall your game
 
  This issue might happen if your game isn’t properly installed on your PC. Try reinstalling it to see if that’s the issue for you. Follow the instructions below:
@@ -139,7 +181,10 @@ If AoE still won’t launch, move on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** Click **Uninstall** .
 
@@ -161,19 +206,37 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
@@ -181,10 +244,6 @@ If the issue continues to occur, go to the next solution.
 
 If your game still won’t load, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 5: Check for Windows updates
 
  If your game won’t launch at all, it’s not likely that out-of-date Windows components are the core issue, but you should rule out the possibility. Follow the instructions below:

@@ -1,7 +1,7 @@
 ---
 title: "Enshrouded Game Fixed: Now Running Smoothly on Your Computer"
-date: 2024-09-01T08:53:04.135Z
-updated: 2024-09-02T08:53:04.135Z
+date: 2024-09-06T01:18:39.110Z
+updated: 2024-09-07T01:18:39.110Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
 Star Wars Jedi: Fallen Order, an action-adventure game, was released on November 15, 2019\. I bet most players (not to mention the Star Wars fans) would enjoy the experience of waving a lightsaber and slaughtering enemies, despite a few game issues that might put a damper on it. One of the most commonly-seen problem is crashing – whether on startup or in the middle of the game – and it’s also the most annoying one. So what can you possibly do to fix this issue? Read on and find the answers.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## System Requirements for Star Wars Jedi: Fallen Order
 
  Before you get down to trying every resolution, you should first verify if your computer can handle this game. Now go on to check your PC specs and compare them with what’s required for Star Wars Jedi:
@@ -43,6 +49,12 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
  Once you confirm that your gear is up for running Star Wars Jedi, move down and try out the fixes below. However, if your computer doesn’t meet the requirements for this game, please upgrade some of your hardware components first.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to fix Star Wars Jedi: Fallen Order crash
 
  Here are 6 fixes that have proved useful to many players. You can try any of them selectively, or you can try them one by one; just work your way down the list until you find the one that works.
@@ -77,15 +89,24 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if the crashing problem reoccurs. If it does, please try out the next method, below.
@@ -100,22 +121,22 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you should be able to run the game under administrative privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of game files
 
  Chances are the crashing issue has been triggered by a corrupted game file. If that’s indeed the cause, you should attempt to verify the integrity of all the game files, using the built-in tool of Steam, Origin, or Epic Games Launcher.
@@ -130,9 +151,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click **Star Wars Jedi: Fallen Order** and select **Properties** .
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
@@ -140,7 +158,10 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1025.png)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) Wait for the process to complete. When finished, exit Steam and then reopen it. Run Star Wars Jedi and see if it keeps crashing.
 
@@ -160,6 +181,12 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-65.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) In the drop-down menu, click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
@@ -170,9 +197,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Close unnecessary programs
 
  If there’s a program in your PC that conflicts with Star Wars Jedi, you’ll probably fail to run the game. Although this kind of software clashes don’t occur very often, it’s still worth trying to close unnecessary programs.
@@ -184,20 +208,26 @@ To completely shut down a program:
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
@@ -213,6 +243,12 @@ To completely shut down a program:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -221,6 +257,18 @@ To completely shut down a program:
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Wait for more updates
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.

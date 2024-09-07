@@ -1,7 +1,7 @@
 ---
 title: "Upgrade Needed: Enhance Your CPU to Run Vanguard Successfully"
-date: 2024-09-01T08:54:01.116Z
-updated: 2024-09-02T08:54:01.116Z
+date: 2024-09-06T01:18:38.205Z
+updated: 2024-09-07T01:18:38.205Z
 tags:
   - win11
   - win10
@@ -13,12 +13,42 @@ excerpt: "This Article Describes Upgrade Needed: Enhance Your CPU to Run Vanguar
 thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045614c3b78e873505ea40a4e5.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Successfully Install Minecraft on Your Windows 11 Device - Solved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/Minecraft-not-installing.png)
 
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Minecraft is a sandbox-style game with open online play fosters creativity, which attracts a large number of players to dive into this game. However, users start to complain that this game cannot even be installed on Windows 11\. This can be quite frustrating. If you’re on the same boat, no worries. Here we’ve put together some fixes for you to try.
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Before getting started…
 
  Before tweaking the settings below, we suggest you**restart your computer** . Rebooting is a troubleshooting step and quick fix to many issues by wiping away the current state of the software, flushing RAM and clearing up temporary files and processes.
@@ -27,6 +57,12 @@ thumbnail: https://thmb.techidaily.com/4da3de972356b3a0046491847cf09381445449045
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-library-1200x834.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 If that doesn’t work for you, try the fixes below.
 
 ## Try these fixes…
@@ -48,12 +84,15 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/windows-11-privacy-and-security.png)
 3. Click**Firewall & network protection** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/firewall-and-network-protection.png)
 4. Scroll down and find**Allow an app through firewall** . Then click it.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/allow-an-app-through-firewall.png)
 5. Make sure Minecraft is on the list and the**Private** and**Public** options are checked. If it’s not on the list, that means Minecraft doesn’t have access and you’ll need to click on the**Change settings** button. Then follow the on-screen instructions to add the Minecraft executable file to the list.
@@ -61,7 +100,10 @@ If that doesn’t work for you, try the fixes below.
  After applying the changes, try installing Minecraft and check if it’s working properly. If your problem persists, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 2\. Download & install all Windows updates
 
@@ -75,17 +117,17 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/check-for-updates.png)
 4. Click **Restart now**  to restart your PC or you can **Schedule the restart** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/restart-after-windows-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then try to double-click on the downloaded package and see if you can install Minecraft now. If you’ve still having the issue, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## 3\. Update your device drivers
 
  Therefore, you’re supposed to always make sure that your device drivers are properly updated.
@@ -97,9 +139,6 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
@@ -109,6 +148,12 @@ If that doesn’t work for you, try the fixes below.
 
  After updating drivers, restart your computer. Upon the reboot, try to install Minecraft to see if you can do it successfully. If it fails, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 4\. Run Windows Store troubleshooter
 
  When you have any issues on your system, you can try running the corresponding troubleshooter to see if it helps detect your issues and hopefully fix them.
@@ -119,7 +164,10 @@ If that doesn’t work for you, try the fixes below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/troubleshoot-windows-11.png)
 3. Click**Other troubleshooters** .  
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/other-troubleshooter.png)
@@ -127,17 +175,20 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/microsoft-store-apps-run-troubleshooter.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
  Then wait for it to detect and troubleshoot your issues. If it fails to identify them, try the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 5\. Run a full scan of your PC
 
  If all else fails, it’s time you check whether you have missing or corrupted system files, which will negatively affect your system’s performance and even trigger some errors. In this situation, you can use the System File Checker (SFC) tool to run the command sfc /scannow. But most of the time it only scans major files and may miss minor issues.
@@ -150,9 +201,6 @@ If that doesn’t work for you, try the fixes below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues when using Fortect, feel free to contact their support team.
 
  Upon the completion of the repair, try to install Minecraft and you should be able to do it successfully.

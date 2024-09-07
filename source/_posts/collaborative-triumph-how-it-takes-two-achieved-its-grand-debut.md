@@ -1,7 +1,7 @@
 ---
 title: "Collaborative Triumph: How 'It Takes Two' Achieved Its Grand Debut"
-date: 2024-09-01T08:53:53.324Z
-updated: 2024-09-02T08:53:53.324Z
+date: 2024-09-06T01:18:38.336Z
+updated: 2024-09-07T01:18:38.336Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/yjwj_en_1280_1024_c81e728d9d4c2f636f067f89cc14862c-1200x960.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Naraka: Bladepoint is finally back with the global release! But just like any other new releases, we’re seeing reports of bugs and errors. Many players reported the game**keeps crashing on PC** . The good news is there are some known fixes available. Read on and find out what they are…
 
 ## Try these fixes…
@@ -52,6 +58,12 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 | **Storage**          | 20 GB available space                                                                                          | 20 GB available space                                                                                          |
 | **Additional Notes** | a) Can run at 720p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience. | a) Can run at 1080p/60fps; b) It’s recommended to install the game on an SSD for a more streamlined experience |
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Close background programs
 
  Naraka: Bladepoint is likely to crash when too many programs are running in the background and taking up all the resources. You can shut down the background programs via Task Manager:
@@ -59,6 +71,12 @@ thumbnail: https://thmb.techidaily.com/f495fdc30704bb5311bdcea6bec28c308373dbaff
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU, memory, and network-hogging. Take Chrome here, for example, right-click it then click**End task** .  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
 If this doesn’t solve your problem, try the next fix.
@@ -74,6 +92,12 @@ If this doesn’t solve your problem, try the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -84,7 +108,10 @@ If this doesn’t solve your problem, try the next fix.
  Restart your PC for the new driver to take effect. If your game still crashes after you updated the graphics driver, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 3: Verify your game files
 
@@ -95,11 +122,14 @@ If this doesn’t solve your problem, try the next fix.
 1. Open your Steam library and find Naraka: Bladepoint. Right-click the game then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Steam-right-click-Properties-2.jpg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
 3. Steam will scan your local game files and compare them with those on the servers. If anything seems to be wrong, Steam will automatically fix it for you.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **On Epic Games** :
 
@@ -109,9 +139,6 @@ If this doesn’t solve your problem, try the next fix.
 
  If verifying your game files doesn’t fix the crashing issue, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 4: Repair system files
 
  In addition to game files, corrupted system files could also cause Naraka: Bladepoint to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues. This tool can be handy, but most of the time manual repair is required.
@@ -124,8 +151,20 @@ If this doesn’t solve your problem, try the next fix.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Increase the virtual memory on your PC
 
  The developer suggests that insufficient virtual memory could interfere with the game’s performance, and lead to the crashing issue. You can check your virtual memory (paging file size) first, then configure the settings if needed.
@@ -136,23 +175,29 @@ If this doesn’t solve your problem, try the next fix.
 2. Paste**sysdm.cpl** in the box, then click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **To manually allocate paging file size** :
 
@@ -168,22 +213,29 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 3. If you don’t know how much RAM you have, press the**Windows key** and**R** to invoke the Run box. Then type in**msinfo32** and click**OK** . You’ll find the information in the pop-up window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-msinfo32.jpg)
 4. Calculate and fill in the**Initial size and Maximum size** , click**Set** then click**OK** . For example, I have 8 GB RAM, so my initial size would be 8\*1024\*1.5=12,288 MB, and my maximum size would be 8\*1024\*3=24576 MB  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/custom-size.jpg)
 5. Restart your PC to let the changes take effect.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your game still crashes, try the next fix.
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 6: Keep your system up-to-date
 
@@ -193,24 +245,24 @@ If your game still crashes, try the next fix.
  (If you don’t see the search bar, click the Start button and you’ll find it in the pop-up menu.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 7: Perform a clean boot
 
@@ -224,15 +276,48 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If Naraka: Bladepoint doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
   
@@ -241,9 +326,6 @@ If this doesn’t solve your problem, try the last fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
@@ -258,6 +340,12 @@ If this doesn’t solve your problem, try the last fix.
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
@@ -266,9 +354,6 @@ If this doesn’t solve your problem, try the last fix.
  Known compatibility issues from Sonic studio virtual mixer driver have been found, per the developer, and the current workaround is to disable this device. If you want to check if you have this device or want to disable it, go to**Sound Settings >> Manage sound devices** . If you have Sonic studio virtual mixer, you’ll be able to see it there and disable it if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-09-03_11-07-51.jpg)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ---
 
  Hopefully this article is helpful! Please feel free to leave a comment down below if you have any questions or suggestions.

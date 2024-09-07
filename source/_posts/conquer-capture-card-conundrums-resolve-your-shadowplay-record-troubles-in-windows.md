@@ -1,7 +1,7 @@
 ---
 title: Conquer Capture Card Conundrums - Resolve Your ShadowPlay Record Troubles in Windows
-date: 2024-09-01T08:54:41.393Z
-updated: 2024-09-02T08:54:41.393Z
+date: 2024-09-06T01:18:37.567Z
+updated: 2024-09-07T01:18:37.567Z
 tags:
   - win11
   - win10
@@ -28,18 +28,45 @@ In some cases, the culprit is NVIDA Streamer service, especially when it’s off
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b3de585a.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 2) Right-click **NVIDIA Streamer Service**  and click **Restart**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c2314a11508.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) See if your Shadowplay can record now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2: Reinstall NVIDIA Driver
 
 In some cases, GeForce Experience install programs that are not graphics driver on your PC. So you should reinstall NVIDIA display driver all over again. You can go to NVIDIA support website to search for and download the latest version of display driver available. Or you can update your video card driver via Device Manager or Windows Update. If you don’t have the time, patience or computer skills to update your drivers manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/). Driver Easy will automatically recognize your system and find the correct drivers for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing. You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks (and you get full support and a 30-day money back guarantee): 1)[**Download**](https://tools.techidaily.com/drivereasy/download/)and install Driver Easy. 2) Run Driver Easy and click the**Scan Now**button. Driver Easy will then scan your computer and detect any problem drivers. ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9a8fa563d.png)3) Click the**Update**button next to the flagged NVIDIA device to automatically download and install the correct version of its driver (you can do this with the FREE version). Or click**Update All**to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/)– you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59bf9b0348294.jpg)4) Restart your PC for the change to take effect. See if Shadowplay works well.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3: Upgrade GeForce Experience
 
@@ -47,21 +74,17 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c23613857ca.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 2) Right-click NVIDIA GeForce Experience and click**Uninstall**. Follow the on-screen instructions to uninstall it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c236ca3feba.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4: Enable desktop capture
 
@@ -70,7 +93,10 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3) See if your Shadowplay can record now.
 

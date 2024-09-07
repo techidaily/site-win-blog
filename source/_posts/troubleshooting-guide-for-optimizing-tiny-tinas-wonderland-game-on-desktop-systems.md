@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Optimizing Tiny Tina's Wonderland Game on Desktop Systems
-date: 2024-09-01T08:51:40.037Z
-updated: 2024-09-02T08:51:40.037Z
+date: 2024-09-06T01:18:40.427Z
+updated: 2024-09-07T01:18:40.427Z
 tags:
   - win11
   - win10
@@ -21,6 +21,12 @@ A screenshot of Farming Simulator 22 from Steam
 
  Giants Software launched the latest Farming simulator this week, blowing up the Steam charts. However, as tons of virtual farmers rushed in to plant crops, raise livestock, and manage their businesses, more and more players are reporting that Farming Simulator 22 FPS drops on their PCs. If you find yourself in the same boat, don’t worry. You’ve landed on the right page. After reading this article, you should be able to fix this issue easily!
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved the Farming Simulator 22 FPS drops for other PC players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -33,6 +39,12 @@ A screenshot of Farming Simulator 22 from Steam
 6. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Install the latest game patch
 
  Giants Software, the developers of Farming Simulator 22 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -42,7 +54,10 @@ A screenshot of Farming Simulator 22 from Steam
  Launch Farming Simulator 22 to see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patches available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Update your graphics driver
 
@@ -64,13 +79,13 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
@@ -78,6 +93,12 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Set the Power Plan of your PC for high performance
 
  A power plan is a set of system and hardware settings on Windows OS. It’s designed to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -92,7 +113,10 @@ There are mainly two methods for you to update the graphics driver:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Launch Farming Simulator 22 and check if you get a better PFS. If the Farming Simulator 22 FPS drops again, try the next fix, below.
 
@@ -138,6 +162,12 @@ There are mainly two methods for you to update the graphics driver:
 
  Re-launch Farming Simulator 22 after you modify the in-game graphics settings to check if its FPS still drops, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Modify graphics card settings
 
  Tweaking your graphics card settings in Nvidia or AMD control panel may also improve the in-game FPS. If you didn’t modify your graphics card settings, then you should give it a try.
@@ -162,10 +192,25 @@ There are mainly two methods for you to update the graphics driver:
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Launch Farming Simulator 22 and see if the in-game FPS increases. If not, move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Disable overlays
 
  According to many PC gamers, overlays sometimes may interfere with FS 22 and even introduce performance issues and compatibility issues. If the fixes above you tried didn’t give you an obvious FPS boost, then you can try disabling the in-game overlay before playing the game.
@@ -177,16 +222,10 @@ There are mainly two methods for you to update the graphics driver:
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay feature in those apps before you restart the game.
 
  Launch Farming Simulator 22 again after you disable all the in-game overlays and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Disable background recording and Xbox Game Bar (Windows 10)
 
  The background recording and Xbox Game Bar feature in Windows 10 is convenient for those who love sharing game highlight videos. However, once enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -198,11 +237,20 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Launch Farming Simulator 22 to see if you can play it smoothly.
 
 ---

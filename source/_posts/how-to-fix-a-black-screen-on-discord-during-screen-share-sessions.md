@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Black Screen on Discord During Screen Share Sessions
-date: 2024-09-01T08:52:14.744Z
-updated: 2024-09-02T08:52:14.744Z
+date: 2024-09-06T01:18:39.876Z
+updated: 2024-09-07T01:18:39.876Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes How to Fix a Black Screen on Discord During Scre
 thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196b34a2ea4b98d961a480d427.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Trouble with Black Screens in Far Cry 6? Here's How to Fix It
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6.jpg)
@@ -48,11 +54,23 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 2. Navigate to the**Games** tab, click Far Cry 6 and select**Properties** . Then click**Verify Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6-ubisoft-verify-files.jpg)
 3. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, relaunch the game to check if the black screen issue still occurs.
 
 If the issue remains, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  The black screen issue may occur if you’re using a faulty or outdated graphics driver. To fix the potential problem and ensure your game works properly, you’ll need to make sure your graphics driver is up to date.
@@ -67,11 +85,14 @@ There are mainly two ways to update your graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  Once you’ve updated your graphics driver, restart your PC and launch Far Cry 6 again to see if your problem is resolved.
@@ -79,7 +100,10 @@ There are mainly two ways to update your graphics driver:
 If you still encounter black screen issues, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
@@ -88,13 +112,13 @@ If you still encounter black screen issues, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
@@ -109,16 +133,27 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-three-lines.jpg)
 2. Click**Settings** .  
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
 3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Launch Far Cry 6 again to see if your problem disappears.
 
 If this fix doesn’t do the trick, take a look at the next one.
@@ -139,25 +174,23 @@ If this fix doesn’t do the trick, take a look at the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 
  After rebooting your PC, launch Far Cry 6 to see if the black screen issue still occurs. If not, you can try to enable services one by one until you find the problematic software. Then restart your computer to apply the changes.
 
@@ -166,7 +199,10 @@ If this fix doesn’t do the trick, take a look at the next one.
  If the black screen issue remains after you disabled all the programs and services, try the last fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 7: Reinstall Far Cry 6
 
@@ -177,6 +213,12 @@ If this fix doesn’t do the trick, take a look at the next one.
 1. Open Ubisoft Connect and select**Games** . Then hover over Far Cry 6 and an**arrow** will appear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-far-cry-6.jpg)
 2. **Click** the arrow that appears to expand the drop-down menu, then select**Uninstall** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/uninstall-far-cry-6.jpg)
 3. Once the process is complete, try reinstalling the game.
 

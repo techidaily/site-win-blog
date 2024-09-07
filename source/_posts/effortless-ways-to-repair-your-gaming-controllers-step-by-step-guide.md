@@ -1,7 +1,7 @@
 ---
 title: Effortless Ways to Repair Your Gaming Controllers | Step-by-Step Guide
-date: 2024-09-01T08:56:15.306Z
-updated: 2024-09-02T08:56:15.306Z
+date: 2024-09-06T01:18:36.084Z
+updated: 2024-09-07T01:18:36.084Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/3e5b59b546c87eb154c3a82ef5392a8a6adfe5198
 
 Battle.net is your destination for playing Blizzard & Activision games. However, there are circumstances when you cannot even open the program. That’s a nightmare! But we are here to help. In this guide, we’ll walk you through 6 methods to troubleshoot this issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Not all methods are necessary; simply work your way down the list until you find the one that works for you.  
@@ -33,6 +39,12 @@ Battle.net is your destination for playing Blizzard & Activision games. However,
 
 _Image source: battle.net_
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Run Battle.net as an administrator and in compatibility mode
 
  When a program fails to launch, it may due to the lack of administrative rights. All you have to do is try to open your Battle.net as an administrator. In addition, running it in compatibility mode is aslo one way to fix common issues. Simply follow the steps below.
@@ -46,6 +58,12 @@ _Image source: battle.net_
 
  After applying the changes, open Battle.net. When the UAC prompt shows up, simply click**Yes** . If it isn’t opening, don’t fret! Below are some other methods you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2\. Allow Battle.net through Windows Firewall
 
  Windows Firewall is an important part of a layered security model that helps protect your computer from malicious attacks by blocking unauthorized network traffic flowing into or out of the local device. However, sometimes it may mistakenly identify your legitimate programs such as Battle.net as security threats and prevent them from launching. To verify if that’s your case, you should perform the steps as follows to manually add Battle.net to your Windows Firewall whitelist.
@@ -58,29 +76,44 @@ _Image source: battle.net_
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-2.jpg)
 4. Scroll down and check if Battle.net is on the list. If it isn’t, proceed to add it to the exception list.
+<!-- affiliate ads begin -->
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Click on the**Change settings** button.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-3.jpg)
 6. Click**Allow another app…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click**Browse…** and go to the installation folder.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  If you have no idea of where the installation folder is, simply right-click on the shortcut and select**Open file location** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-find-out-where-Battle.net-is-installed.jpg)
 8. Find**Battle.net.exe** and click on it. Then click**Open** .  
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-6.jpg)
 9. When it’s located, click**Add** .  
@@ -91,7 +124,10 @@ _Image source: battle.net_
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Now open Battle.net. If it isn’t opening, try the next fix below.
 
@@ -104,9 +140,6 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, right-click the programs that are most likely to cause interference, such as Razer Synapse and those that are eating up your resources. Then select **End task** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
@@ -121,20 +154,20 @@ Now open Battle.net. If it isn’t opening, try the next fix below.
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click**Check for updates** . Then it will start checking for updates. When updates are available, follow the on-screen instructions to download and install them for your system.  
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After you’ve finished the process, restart your PC and try to launch the agent. If it still fails to open properly, try the next fix below.
 
 ## 5\. Update your drivers
@@ -152,16 +185,23 @@ You can update your drivers via the Device Manager:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/how-to-open-the-Device-Manager-Run-Command）.png)
 3. Click on the**arrow >** to expand the section. Then right-click on the device that you’re going to update the driver for and select**Update driver** .  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-update-drivers-via-the-Device-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 Then follow the on-screen instructions to get the updates.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your drivers (recommended)
 
  If updating drivers on your own seems like a tedious task for you, you can use a dedicated driver updater **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  to help you do the work without hassle. It’s a useful and legitimate tool that scans for any missing or outdated drivers, then downloads and installs the latest ones for your system, direct from the device manufacturers. With Driver Easy, updating drivers is just a matter of a few mouse clicks.
@@ -172,7 +212,10 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  This requires the Pro version which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
@@ -180,12 +223,10 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -200,7 +241,16 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-open-the-Command-Prompt-as-an-administrator.jpg)
 2. Click**Yes** when you receive a prompt.
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3. Now copy and paste the following command, and then press**Enter** .  
 
@@ -210,7 +260,10 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-run-the-system-file-checker.jpg)
 5. Now type**sfc /scannow** and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you see a message that says “Verification 100% complete”, type**exit** and press Enter.  
@@ -218,7 +271,10 @@ Then follow the on-screen instructions to get the updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/use-System-File-Checker-to-repair-corrupted-files.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  However, if that fails to fix an underlying problem, you’ll need a more advanced tool to help you with that. **[Fortect](https://tools.techidaily.com/drivereasy/download/)**  is such a tool that specializes in Windows repair. It’ll help replace damaged or missing Windows files with healthy ones and restore your PC back to its greatness. And it’s more than that. Fortect can protect and remove malware from your PC, as well as detect threatening apps before it’s too late!
 
@@ -230,9 +286,6 @@ Then follow the on-screen instructions to get the updates.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect which comes with and full technical support. If you encounter any issues when using Fortect, do not hesitate to contact their support team.
 
  After the repair, try to launch Battle.net. If, unfortunately, it still fails to open, you’ll need to consider**uninstalling and reinstalling the Battle.net app** .
@@ -242,12 +295,15 @@ Then follow the on-screen instructions to get the updates.
 
 ![how to uninstall an app](https://images.drivereasy.com/wp-content/uploads/2021/06/control-appwiz.cpl_.png)
 3. Locate**Battle.net** . Right-click it and click**Uninstall/Change** .  
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/reinstall-Battle.net_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When you’re prompted for further confirmation, simply click Yes and proceed. After it’s successfully uninstalled. Go to the place where the Battle.net-Setup.exe file was installed and delete it. Then download and install it from the[official website](https://www.blizzard.com/en-us/download/confirmation?product=bnetdesk) .
 
 ---

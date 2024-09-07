@@ -1,7 +1,7 @@
 ---
 title: "Cod: Modern Warfare - Expert Advice on Avoiding Frequent Crashes"
-date: 2024-09-01T08:53:41.393Z
-updated: 2024-09-02T08:53:41.393Z
+date: 2024-09-06T01:18:38.529Z
+updated: 2024-09-07T01:18:38.529Z
 tags:
   - win11
   - win10
@@ -30,6 +30,18 @@ Team Fortress 2 (TF2)**keeps crashing** to the desktop during gameplay? If you�
 7. **[Run TF2 in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Team Fortress 2 and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Meet the minimum system specs
 
  If you can’t launch**Team Fortress 2** at all, it’s very likely that your computer doesn’t meet the game’s minimum requirements.
@@ -48,6 +60,12 @@ Team Fortress 2 (TF2)**keeps crashing** to the desktop during gameplay? If you�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_16-50-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123467/16836" target="_top" id="2123467">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123467" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123467/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)**  Type **dxdiag**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_16-50-31.jpg)
@@ -56,6 +74,12 @@ Team Fortress 2 (TF2)**keeps crashing** to the desktop during gameplay? If you�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_16-50-35.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Make sure your PC meets the requirements, then move on to the fix below.
 
 ### Fix 2: Close background programs
@@ -68,23 +92,28 @@ Overloading is one of the most common causes of game crashing issues.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-01-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-08-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Right-click the resource-consuming process and select **End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-35-20-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 **4)** Launch Team Fortress 2 again to see if it still crashes.
 
 If the problem persists, try fix 3, below.
@@ -118,9 +147,6 @@ There are two ways you can get the latest correct driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-05-25.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -132,7 +158,10 @@ There are two ways you can get the latest correct driver:
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Verify the integrity of game files
 
@@ -146,12 +175,27 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)**  Right-click **Team Fortress 2** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-18.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -171,6 +215,12 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134248/18498" target="_top" id="2134248">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134248" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134248/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)**  Right-click **Team Fortress 2** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-08-18.jpg)
@@ -195,15 +245,18 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-04-19_14-04-04.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Delete the contents in the folder.
 
 **4)** Launch TF2 to see if it works now.
 
 If not, try the solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Run TF2 in compatibility mode
 
  Sometimes, Windows updates may not be compatible with Team Fortress 2, causing it to stop working. If you’ve updated your computer recently, try running your game in compatibility mode to see if it fixes your issue.
@@ -214,39 +267,39 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Go to **steamapps** \> **common** \> **Team Fortress 2** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-56.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **3 )** Right-click **hl2.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-16-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-16-07.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **5)**  Click the list box below to select**Windows 8** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-16-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **6)** Relaunch your game to check if your issue had been resolved.
 
@@ -270,12 +323,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-18-38.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<span id="1982570">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982570.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982570">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982570.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982570%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982570/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)**  Right-click**Team Fortress 2**  and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-18-45.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Relaunch Steam, then download and install Team Fortress 2.
 
  Now, try launching TF2 again. If the crash issue still happens, you’ll need to reinstall Steam.
@@ -286,19 +354,25 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** On your keyboard, press the **Windows logo** key and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-11-45-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://review-au.sjv.io/c/5597632/2098701/14409" target="_top" id="2098701">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098701" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098701/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)** Type control, then press the Enter key on your keyboard.
 
@@ -309,21 +383,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-13-14.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **6)**  Right-click **Steam** , then**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_18-00-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  **7)[Download](https://store.steampowered.com/about/)**  and install Steam again.
 
 **8)** Right-click the **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-15-52-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123480/16836" target="_top" id="2123480">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123480" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123480/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-23-03.jpg)

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Terraria Stability: Avoid Game Crashes With Our Expert Tips"
-date: 2024-09-01T08:52:17.511Z
-updated: 2024-09-02T08:52:17.511Z
+date: 2024-09-06T01:18:39.817Z
+updated: 2024-09-07T01:18:39.817Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Mastering Terraria Stability: Avoid Game Crashe
 thumbnail: https://thmb.techidaily.com/89441e52c524b595c11d3154d801c69d4c1e26e0cadba6aa4959212fd46b070e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Master the Art of Stability: Fix VRChat PC Issues in Just 8 Steps
 
 Recently, many users have been reporting that VRChat just keeps crashing all the time. What a bummer! But don’t worry, for it’s not hard to fix it at all. Try these quick fixes below to bring your VRChat back to life again.
@@ -34,18 +40,6 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 
  Alternatively, you can go to[**VRChat’s official website**](https://www.vrchat.com/) . Log in and go to the**AVATARS** tab and select the**Reset to Default Avatar** option.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Verify your game files
 
  If VRChat keeps crashing while other games run perfectly, the culprit could be corrupt game files. Try verifying your VRchat game files in Steam:
@@ -56,6 +50,12 @@ Recently, many users have been reporting that VRChat just keeps crashing all the
 3. Select the **Installed Files** tab and click **Verify integrity of game files** .  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Update your GPU drivers
 
  For game players, the GPU driver plays a significant role in improving your game performance and ensuring a wonderful gaming experience. If the graphics card driver is outdated or corrupt, you will bump into various game issues such as the game crashing or not launching, and in your particular case – VRChat crashing.
@@ -68,10 +68,6 @@ There are two ways for you to update your drivers:
 
  Option 2 – **[Automatically (Recommended](https://www.drivereasy.com/knowledge/fix-vrchat-crashing/#o2)**  ) – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Option 1: Update your graphics driver manually
 
  Graphics card manufacturers like NVIDIA and AMD keep releasing new drivers to fix bugs and improve performance, so you can always get the latest driver on their official website.
@@ -79,23 +75,15 @@ There are two ways for you to update your drivers:
 * [NVIDIA Driver Downloads](https://www.nvidia.com/Download/index.aspx?lang=en-us)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/NVIDIA-driver-1.jpg)
 * [AMD Driver Downloads](https://www.amd.com/en/support)  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/AMD-driver-downloads-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  Once you’ve downloaded the correct drivers for your system, double-click the downloaded file and follow the on-screen instructions to install the driver. After that, don’t forget to restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Option 2: Update your graphics driver automatically
 
@@ -109,6 +97,12 @@ There are two ways for you to update your drivers:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
@@ -116,9 +110,6 @@ There are two ways for you to update your drivers:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Allow VRChat through firewalls
 
  VRChat crashing issue can also be caused by firewall blocking, so you need to allow your VRChat through Windows Firewall and any installed third-party antivirus applications.
@@ -129,29 +120,48 @@ There are two ways for you to update your drivers:
 2. Type **control firewall.cpl**  and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-44.png)
 3. From the left navigation pane, click **Allow an app or feature through Windows Defender Firewall** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-46.png)
 4. Scroll down and check if **VRChat** is on the list.
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5. If not, click the **Change settings** button.  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-47.png)
 6. Click **Allow another app…** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-4.jpg)
 7. Click **Browse…** and go to the installation folder for**VRChat** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-allow-a-program-through-Windows-Firewall-5.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  If you don’t know what the installation folder is for your VRChat, simply right-click on its shortcut and select **Open file location** .
 8. Find **VRChat.exe** and follow the on-screen instructions to make sure VRChat is added to the list and tick **Domain** , and **Public** . Once you’re done, click **OK** .
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Step 2: Add VRChat as an exception in the Antivirus application
 
@@ -166,7 +176,16 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 * **[AVG Antivirus](https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Antivirus-scan-exclusions)**
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975648">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 5: Delete VRChat files
 
@@ -175,6 +194,18 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. On your Windows search bar, type **cmd** . Right-click Command Prompt from the results and select **Run as administrator** .  
 ![how to open Command Prompt as an admin](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-Command-Prompt-Run-as-administrator.jpg)  
 
+<!-- affiliate ads begin -->
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You’ll be prompted for permission. Click **Yes** to open the Command Prompt.
 2. Copy this command with**Ctrl + C** , and paste it into the cmd window by right-clicking in the window.  
 
@@ -191,9 +222,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  You can also check its **[support article](https://help.vrchat.com/kb/article/17-i-crashedcant-launch-vrchatother-issues/)**  to learn how to do it manually if the command doesn’t work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Create a VRChat account
 
  If the methods above failed to help, then you can try creating a new VRChat account then link your Steam/Oculus account with your VRChat account on[VRChat official website](https://www.vrchat.com/) .
@@ -204,6 +232,12 @@ To merge your Steam account with your VRChat account:
 2. Open your quick menu, then select**Settings** .
 3. Click**Upgrade Account** near the bottom of that menu, then follow the instructions on the screen to merge your accounts.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 7: Turn off SteamVR Beta
 
  SteamVR is the ultimate tool for experiencing VR content on the hardware of your choice. However, many users reported that SteamVR Beta has caused their VRChat to crash.

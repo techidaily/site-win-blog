@@ -1,7 +1,7 @@
 ---
 title: Mastering Call of Duty WW2 Gameplay - Getting Rid of the Frustrating Error 4128
-date: 2024-09-01T08:53:23.981Z
-updated: 2024-09-02T08:53:23.981Z
+date: 2024-09-06T01:18:38.794Z
+updated: 2024-09-07T01:18:38.794Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Mastering Call of Duty WW2 Gameplay - Getting Ri
 thumbnail: https://thmb.techidaily.com/3f74865abe3cde83f5178213b8f2028e6688a23ca37959ec467d0c79369ad79b.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Untangling the Problems in Call of Duty: WWII - Decoding Error 4128
 
 Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and you’re certainly not the only one who faces it. Many players are reporting this issue. But the good news is that you can fix it. This article is going to show you how to fix the error code 4128 quickly and easily.
@@ -34,7 +40,10 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 * **[PlayStation 4](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fixes for COD PC Players
 
@@ -60,6 +69,12 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-110.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Relaunch Steam and enter your account name and password. Then, try launching your game again to test your issue. If you still receive the error code, don’t worry. There are still 6 fixes to try.
 
 #### Fix 2: Restart your computer
@@ -101,7 +116,10 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-199.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -119,24 +137,14 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 **2)** Right-click the**Steam icon** , and then select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-789.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click **Steam** , and then select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 **4)** Select **Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
@@ -145,20 +153,20 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)** Click **DELETE ALL BROWSER COOKIES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 **7)** Click **OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **8)** Restart your game to test your issue.
 
  Hope it runs smoothly now. If your problem persists, try the fix 5, below.
@@ -193,13 +201,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -212,12 +223,21 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **2)** Right-click the**steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115910/19272" target="_top" id="2115910">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115910" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115910/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
@@ -227,6 +247,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
@@ -235,27 +261,48 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-890.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 **7)**  Follow the on-screen instructions to uninstall your Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **8)** [](https://store.steampowered.com/about/) **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click your **Steam icon**  and select **Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **11)** Restart your game to see if this fixed the error code issue.
 
 Hopefully, your game works correctly now. Enjoy!
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fixes for Xbox One Players
 
  If you’re gaming with your Xbox One and the error code 4128 appears while you’re gaming, check the fixes below.
@@ -291,7 +338,10 @@ Hopefully, your game works correctly now. Enjoy!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Select**Settings** .
 
@@ -301,6 +351,18 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-90-1024x562.png)
 
+<!-- affiliate ads begin -->
+<span id="1982456">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **4)** Select**Update console.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
@@ -315,9 +377,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 **2)** Select**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-92.png)
@@ -327,15 +386,15 @@ Hopefully, your game works correctly now. Enjoy!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-90-1024x562.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)** Select**Console info.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 **5)** Select**Reset console** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-97.png)
@@ -344,6 +403,18 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-99.png)
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After resetting your console, restart your game to test your issue. If your problem persists, check the fix below.
 
 #### Fix 5: Reinstall your game
@@ -354,16 +425,10 @@ Hopefully, your game works correctly now. Enjoy!
 
 ![This image has an empty alt attribute; its file name is xbox-one-controller-2206687_1920-1024x671.jpg](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Select**My games & apps** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-95.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 **3)** Press the**A button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
@@ -373,16 +438,31 @@ Hopefully, your game works correctly now. Enjoy!
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-107-1024x439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **5)** Select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-108.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **6)** After the game is uninstalled, insert**the game disc** into the drive to download and install Call of Duty: WW2.
 
 Hope one of the fixes above worked for you.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fixes for PlayStation 4 Players
 
  If you get the error code 4128 on your display while you’re gaming on your PlayStation 4, here are some fixes that might help.
@@ -425,21 +505,30 @@ Hope one of the fixes above worked for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1080.png)
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Select **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **4)** Restart your game to see if this resolved your issues.
 
@@ -462,26 +551,35 @@ Hope one of the fixes above worked for you.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **5)**  Press the **PS button** on your controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1094.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **6)** Select **Restore to Default Settings** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1095.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **7)**  Select **Yes**  and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1096.png)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **8)** Restart your game to see if this fix worked.
 
  Hopefully, this article helped in resolving your problem! If you have any questions or suggestions, please feel free to leave a comment below.

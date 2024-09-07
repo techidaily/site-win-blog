@@ -1,7 +1,7 @@
 ---
 title: Cujnv1984George Orwell's 1 984 – An Unflinching Examination of the Dangers Posed by Totalitarianism that Remains Relevant in Light of Contemporary Political Landscapes and Has a Lasting Impact on Societal Discourse
-date: 2024-09-01T08:51:34.744Z
-updated: 2024-09-02T08:51:34.744Z
+date: 2024-09-06T01:18:40.503Z
+updated: 2024-09-07T01:18:40.503Z
 tags:
   - win11
   - win10
@@ -17,10 +17,22 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 
 ![F1-2021-keeps-crashing](https://images.drivereasy.com/wp-content/uploads/2021/07/F1-2021-keeps-crashing.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  In F1 2021, you’ll enjoy the thrilling story experience ‘Braking Point’, two-player Career, and get even closer to the grid with ‘Real-Season Start’.
 
 **F1 2021 keeps crashing on your PC** ? You’re not alone. Recently, we’ve seen many PC players reporting that F1 2021 keeps crashing on their PC, which makes the game unplayable. But don’t worry. You should be able to fix this issue on your own after reading this article.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## The system requirements of F1 2021
 
  Before trying anything more complicated, you should ensure that your PC meets the system requirements of F1 2021\. Take a quick glance at the system requirements of F1 2021 if you don’t know the system requirements:
@@ -37,6 +49,12 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 
  If your PC fails to meet the system requirements of the game, you may need to upgrade your PC first. If your PC meets the system requirements but F1 2021 still keeps crashing on your PC, just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Although the causes of F1 2021 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether F1 2021 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -49,7 +67,10 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Verify integrity of game files
 
@@ -59,15 +80,18 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 2. **Right-click** on **F1 2021** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch F1 2021 and check if this fix works. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If F1 2021 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -83,12 +107,18 @@ thumbnail: https://thmb.techidaily.com/0b724e890933179083e665890982beb41082b155e
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. Restart your PC for the changes to take effect.
 
@@ -111,6 +141,12 @@ Here’s how to do it:
 1. On your keyboard, press **the Windows logo key** and **I** at the same time to open **Windows Settings** . Then click **Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
 2. Click **Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Check for updates Windows 10](https://images.drivereasy.com/wp-content/uploads/2021/05/Check-for-updates-Windows-10.jpg)
 
  If there are no updates related to MS Visual C++, you can download its installation files via the links below on your own and manually install them on your PC.
@@ -119,9 +155,6 @@ Here’s how to do it:
 
  Restart your PC after you installed the Visual C++ Redistributables. Then run F1 2021 and see if the game crashes. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would block the game files, which may also lead to the game crashing issues.
@@ -133,7 +166,10 @@ Here’s how to do it:
 If this fix didn’t work, try the next fix to perform a clean boot.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Perform a clean boot
 
@@ -144,23 +180,25 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1424529">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Restart** your PC and launch F1 2021 to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixes for OBS Studio Crashing Problems in Windows 11/10 - Latest Tips
-date: 2024-09-01T08:54:28.152Z
-updated: 2024-09-02T08:54:28.152Z
+date: 2024-09-06T01:18:37.777Z
+updated: 2024-09-07T01:18:37.777Z
 tags:
   - win11
   - win10
@@ -43,6 +43,12 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -75,10 +81,25 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -89,9 +110,6 @@ There’re mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Reset your preferences
 
  According to Adobe, resetting your preferences is a useful fix to stop Premiere Pro from crashing. If you haven’t tried this fix yet, just give it a shot.
@@ -102,7 +120,10 @@ It’s quite easy to reset your preferences. Here’s how:
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
@@ -116,13 +137,16 @@ It’s quite easy to reset your preferences. Here’s how:
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
 If this fix doesn’t work, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Remove media cache files
 
  Some corrupted media cache files may also trigger Premiere Por crashing issue. If it’s the case, you need to remove media cache files. Here is how to do it:
@@ -131,13 +155,24 @@ If this fix doesn’t work, try the next fix, below.
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 See if this fix stops the crashing. If not, try the next fix, below.
 
@@ -149,13 +184,16 @@ See if this fix stops the crashing. If not, try the next fix, below.
 2. Select any other applications and programs that take up a large amount of**CPU** or**memory** , then click**End task** to close it.  
 ![Close CPU memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/03/Close-CPU-memory-hogging-applications.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If Premiere Pro works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Premiere Pro from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Check for overheating components
 
  Premiere Pro utilizes both CPU and GPU to perform heavy computations. If Premiere Pro runs on your computer for a long time, your computer may get overheated, especially when its cooling system is not working properly. Once your computer got overheated, Premiere Pro may crash without warning. If it’s the case, you need to cool your computer down.
@@ -167,12 +205,33 @@ To cool down your computer, you may need to
 * Use a**better cooling system** for your computer if yours is not powerful enough.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 7: Update / reinstall Premier Pro
 
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
  In most cases, keeping Premier Pro, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes on this article didn’t help you fix the Premiere crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article:[How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .

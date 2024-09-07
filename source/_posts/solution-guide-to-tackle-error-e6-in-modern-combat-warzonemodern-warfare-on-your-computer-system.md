@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide to Tackle Error E6 in Modern Combat: Warzone/Modern Warfare on Your Computer System"
-date: 2024-09-01T08:53:06.637Z
-updated: 2024-09-02T08:53:06.637Z
+date: 2024-09-06T01:18:39.069Z
+updated: 2024-09-07T01:18:39.069Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/58c0c03589ad5318adbacb770fdc6992f0cc68979
 
 Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes that have helped many gamers. In this guide, you’ll learn how to bring your game back to normal and what you can do to avoid bumping into the same issues again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Before getting started
 
  Before you head on to the following fixes, make sure your PC ([how to check my PC specs?](https://tools.techidaily.com/drivereasy/download/) ) meets the**minimum requirements for Star Wars: Battlefield 2** .
@@ -30,6 +36,12 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **DirectX**   | Version 11                                          | Version 11                                          |
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  If “**Yes my gear is up for running Star Wars: Battlefront 2** “, here are 8 crashing fixes for you to try. You might not need to try them all; just work down the list until you find the one that does the trick.
@@ -44,7 +56,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 8. **[Disable Discord In-Game Overlay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 1: Repair your game
 
@@ -61,9 +76,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/My-game-library.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click your**Star Wars: Battlefront 2** .
 
  3) Select**Repair** .
@@ -82,6 +94,12 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Select**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** … button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify.png)
@@ -91,7 +109,16 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
@@ -112,12 +139,21 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **OR**
 
  Click**Update All** to update all of your drivers automatically (feel free to try the **[Pro version](https://tools.techidaily.com/drivereasy/download/) ,** which comes with**Full Support** and a**30-day Money-Back Guarantee** . You will be prompted to upgrade when you click Update All).
@@ -140,7 +176,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Revert back to DX11
 
@@ -156,9 +195,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 **Note:** If you find reverting to DX11 makes your game laggy, you can edit**BootOptions.ini** again to enable DX12.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run as administrator
 
  When the game keeps crashing, you can always run both your game launcher and game.exe file as administrator. To make sure your game runs smoothly, you can run your game as an administrator permanently.
@@ -169,16 +205,18 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/compatibility.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Apply** \>**OK** .
 
  4) Go to your game installation folder and run your game exe file as administrator too.
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 6: Disable antivirus software temporarily
 
  Since Battlefront 2 consumes a lot of memory and CPU usage when it’s running, many third-party antivirus applications may regard it as a potential threat and cause Battlefront 2 crashing issues.
@@ -198,9 +236,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 If the game keeps crashing, you can try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Perform a clean boot
 
  There might be some other conflicting services that stop your Battlefront 2 from working normally. To check if this is your issue, you’ll need to perform a clean boot.
@@ -211,6 +246,12 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
@@ -220,17 +261,15 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)

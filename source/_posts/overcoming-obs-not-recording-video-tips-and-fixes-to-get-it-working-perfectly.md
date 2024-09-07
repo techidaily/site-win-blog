@@ -1,7 +1,7 @@
 ---
 title: "Overcoming OBS Not Recording Video: Tips and Fixes to Get It Working Perfectly"
-date: 2024-09-01T08:55:24.847Z
-updated: 2024-09-02T08:55:24.847Z
+date: 2024-09-06T01:18:36.880Z
+updated: 2024-09-07T01:18:36.880Z
 tags:
   - win11
   - win10
@@ -13,10 +13,28 @@ excerpt: "This Article Describes Overcoming OBS Not Recording Video: Tips and Fi
 thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d47bf8afae9f7fe02b3355e59.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Beating Wrath of the Righteous Controller Glitches: Expert Tips and Tricks to Get Back in Action on Pathfinder
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Pathfinder-Wrath-of-the-Righteous-Free-Download-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
 
 ## Try these fixes…
@@ -31,6 +49,18 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 
 [4: Update your keyboard driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 1: Check for hardware issues
 
  When your keyboard stops working in-game, the first thing you can do is to rule out the possibility of a faulty device. Here are some general troubleshooting steps you can try:
@@ -42,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 
 If you didn’t find any hardware issues, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,9 +82,6 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
@@ -65,14 +89,8 @@ If you didn’t find any hardware issues, try the next fix.
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
 5. **Delete the Rewired\_DirectInput.dll file** .
 6. Relaunch the game and test the issue.
@@ -80,9 +98,10 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 4: Update your keyboard driver
 
@@ -100,13 +119,22 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---

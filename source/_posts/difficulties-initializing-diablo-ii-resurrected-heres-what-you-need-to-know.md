@@ -1,7 +1,7 @@
 ---
 title: "Difficulties Initializing Diablo II: Resurrected? Here’s What You Need to Know"
-date: 2024-09-01T08:51:36.026Z
-updated: 2024-09-02T08:51:36.026Z
+date: 2024-09-06T01:18:40.483Z
+updated: 2024-09-07T01:18:40.483Z
 tags:
   - win11
   - win10
@@ -13,10 +13,22 @@ excerpt: "This Article Describes Difficulties Initializing Diablo II: Resurrecte
 thumbnail: https://thmb.techidaily.com/b958a593c95d29eeb474585a5be149c96a0df966aa058115e3b977f5c8f6fa50.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Cortana Malfunctioning? Here's What You Need to Know
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab9c0b620709.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Cortana not working?**  I believe it’s one of your pet hates. Don’t panic. Usually it’s an easy problem to fix.
 
 ## How do I fix Cortana not working?
@@ -33,6 +45,12 @@ thumbnail: https://thmb.techidaily.com/b958a593c95d29eeb474585a5be149c96a0df966a
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -42,7 +60,10 @@ Check your region and language settings on your computer:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  2) Click **Time** **& language** .
 
@@ -52,21 +73,18 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 5) Try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
@@ -75,20 +93,20 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ## Method 4: Update your Microphone driver and audio driver
 
  This problem could be also caused by an old or incorrect Microphone driver or audio driver. You can update your drivers to solve this problem.
@@ -115,8 +133,26 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982508">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -129,13 +165,16 @@ Or click  **Update All** to automatically download and install the correct versi
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4) Try Cortana again to see if it works.
 
 * [Cortana](https://tools.techidaily.com/drivereasy/download/)

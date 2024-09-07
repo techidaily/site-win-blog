@@ -1,7 +1,7 @@
 ---
 title: "Fixing Issues with Missing Textures in Call of Duty: Warzone"
-date: 2024-09-01T08:55:50.702Z
-updated: 2024-09-02T08:55:50.702Z
+date: 2024-09-06T01:18:36.476Z
+updated: 2024-09-07T01:18:36.476Z
 tags:
   - win11
   - win10
@@ -19,6 +19,12 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
  Lately, players complained that Call of Duty Warzone became unplayable with the dev error 6328\. If you happen to be on the same boat, don’t worry. While the Warzone crashes with a fatal error have been commonplace especially after the update, there is something you can do to fix it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 6 fixes that have helped other gamers with_Warzone dev error 6328_ . You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -30,6 +36,18 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 5. **[Delete the game cache files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1 – Reboot your network
 
  Many players reported the Warzone dev error 6328 can be caused by network glitches. To see if that’s the case, try troubleshooting your router and modem.
@@ -38,10 +56,22 @@ thumbnail: https://thmb.techidaily.com/66ccde26d86877f06eba74ce71d6ed3e3e1b37f9f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 modem
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 wireless router
 
  Now check if the error goes away. If not, take a look at the next fix below.
@@ -67,6 +97,12 @@ wireless router
 
  Check how Warzone works. If the driver update doesn’t give you luck, move on to the third solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3 – Run Warzone on DirectX 11
 
  If Warzone dev error 6328 constantly occurs and the game keeps crashing, you could switch to the DirectX 11 mode, which, as other users reported, gives a smoother gameplay. Here is how to do this:
@@ -75,21 +111,11 @@ wireless router
 2. Select**Call of Duty: MW** on the left pane and click**Options > Game Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Increase virtual memory
 
  Virtual memory serves as additional RAM when your computer gets low on memory. Increasing the virtual memory could be a helpful boost when you’re running resource-demanding applications like COD Warzone.
@@ -99,23 +125,44 @@ wireless router
 2. Click**Settings** under the Performance section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
+<!-- affiliate ads begin -->
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-4-1.jpg)
 5. Select**C drive** and check **Custom size** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 5 – Delete the game cache files
 
@@ -127,7 +174,10 @@ wireless router
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 6 – Adjust the in-game graphics settings
 
@@ -137,10 +187,19 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Save the changes and restart Warzone to test. Then the game should be running perfectly without the 6328 error code.
 

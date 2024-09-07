@@ -1,7 +1,7 @@
 ---
 title: Rust Crashes? Here's How You Can Prevent Unexpected Shutdowns in Your Programs
-date: 2024-09-01T08:51:49.266Z
-updated: 2024-09-02T08:51:49.266Z
+date: 2024-09-06T01:18:40.282Z
+updated: 2024-09-07T01:18:40.282Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Rust Crashes? Here's How You Can Prevent Unexpec
 thumbnail: https://thmb.techidaily.com/b276d15100b00816b238513de19cf5dbb90f578402c4c455ac709e533cfa60c1.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Stop Unexpected PC Shutdowns: Learn the 6 Best Ways to Solve Stray Crashing Problems
 
 The Stray is a hit in July. As a cat lover, I’m obsessed with the game, however, the game crashing, freezing, and not launching is pushing me away. We just wanna run around like a cat. It’s common to see crashings when a game is newly released, except waiting for a new patch, there’s something we can try to fix the game issue.
@@ -35,14 +41,23 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**Stray** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. Click **the LOCAL FILES tab** , then click **Verify integrity of game files…**  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 3. After the verification, launch Stray and see if it makes difference.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Put commands in the launch option
 
  You can fix the Stray crashing issue by putting commands in the Launch option. There are three commands, you can try it one-by-one to see which one fix your problem.
@@ -50,14 +65,19 @@ If it doesn’t work, move to the next fix.
 1. In Steam, right-click on Stray and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
@@ -66,6 +86,12 @@ If it doesn’t work, move to the next fix.
 
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Open Oculus app
 
  Still facing the problem? If you have the Oculus app installed on your PC, launch this app and the crashing will be fixed. We don’t know why, but it did work for many players.
@@ -74,16 +100,10 @@ If it doesn’t work, move to the next fix.
 2. Open the Oculus app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/oculus-app.jpg)
 3. Back to Steam and click**Play** to launch Stray.
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. You should be able to play the game.
 
  If you don’t have the Oculus app or it doesn’t work for you, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphic driver
 
  Updating your graphics driver would help you fix the Stray crashing issue. There’re mainly 2 ways you can update your graphics driver: manually or automatically.
@@ -106,14 +126,16 @@ If it doesn’t work, move to the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Download and install file from GitHub
 
  This fix has fixed Stray Fatal Error for many gamers. It is mainly for Windows 7 users whose computer does not support Stray.**This workaround is not guaranteed.** But some Windows 10 and Windows 11 users found this fix works fine on their PC.**So you can try it at your own risk.**
@@ -122,29 +144,56 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Download**dxvk-1.10.2.tar.gz** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-1.jpg)
 3. You need unzip tool (e.g. WinRAR) to extract the file.
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6: Lower graphic settings
 
  Some gamers reported lowering the graphics settings in the Stray would fix the random game crashing on Stray.

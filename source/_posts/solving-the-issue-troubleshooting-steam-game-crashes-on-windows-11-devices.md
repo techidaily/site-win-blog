@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Troubleshooting Steam Game Crashes on Windows 11 Devices"
-date: 2024-09-01T08:54:33.502Z
-updated: 2024-09-02T08:54:33.502Z
+date: 2024-09-06T01:18:37.694Z
+updated: 2024-09-07T01:18:37.694Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 **After Effects keeps crashing on your Windows computer?** Don’t worry… Although it’s frustrating, you’re definitely not the only one to run into this problem. Lots of Windows users have reported the very same issue recently. The good news is, you’ve landed in the right spot and you should be able to fix it pretty easily.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Although the causes of this issue vary, here we’ve put together some fixes that proved working for many Windows users. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -48,11 +54,20 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 2. Click the**GPU information** button in the Fast previews section and switch GPU to CPU.  
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  In most cases, the broken or outdated graphics driver is the main culprit behind the After Effects crashing issues.
@@ -69,6 +84,12 @@ thumbnail: https://thmb.techidaily.com/c10f5fc3a26c6243fb8c4940c266b426236bd87cd
 
 There’re mainly two ways you can update your graphics drivers:
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -86,7 +107,10 @@ There’re mainly two ways you can update your graphics drivers:
 **Or**
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
@@ -106,9 +130,6 @@ There’re mainly two ways you can update your graphics drivers:
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -118,6 +139,12 @@ There’re mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139115/17108" target="_top" id="2139115">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139115" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139115/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 3: Purge memory & disk cache
 
  After Effect is a demanding (resource intensive) application. It may crash if your computer is running out of memory, or if your hard disk drive is almost full. To get After Effects work again, you can try purging memory and cache. Here is how to do it:
@@ -125,16 +152,31 @@ There’re mainly two ways you can update your graphics drivers:
 1. Launch After Effects and go to**Edit** \>**Purge** \>**All Memory** &**Disk Cache…** .  
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
+  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Delete the temp folder of After Effects
 
  When After Effects failed to override its temp folder, it may crash. Some users fixed the After Effects crashing by deleting its temp folder, and if you haven’t tried this fix yet, you should give it a shot. Don’t worry, after you delete its temp folder, After Effect will create a new one. To delete the temp folder of After Effects, follow the steps below:
@@ -145,7 +187,10 @@ There’re mainly two ways you can update your graphics drivers:
 ![Delete the temp folder of After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Delete-the-temp-folder-of-After-Effects.jpg)
 4. Launch After Effects to see if this issue persists.
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 If After Effects still crashes, try the next fix, below.
@@ -161,7 +206,10 @@ If After Effects still crashes, try the next fix, below.
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Conclusion
 

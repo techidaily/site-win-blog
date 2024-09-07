@@ -1,0 +1,525 @@
+---
+title: Overcome Diablo 3 Crashing Problems with These Proven Fixes
+date: 2024-09-06T01:24:08.964Z
+updated: 2024-09-07T01:24:08.964Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: This Article Describes Overcome Diablo 3 Crashing Problems with These Proven Fixes
+excerpt: This Article Describes Overcome Diablo 3 Crashing Problems with These Proven Fixes
+thumbnail: https://thmb.techidaily.com/c6b4aa7955ba2d8b8f78045fdb4fec883a94ff6f2b309e9331565432f2ce8641.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Stop Paladins From Crashing with These Proven Fixes
+
+_Paladins_ keeps crashing in the mid-game? You’re not alone! Many players are reporting it. But the good news is that you can fix it. Here is a list of solutions that have proved useful to many players.
+
+## Why does _Paladins_ keep crashing?
+
+ You may run into issues of crashing for several reasons. Common causes of the game crash are hardware issues, incompatible drivers, corrupt game files, or overheating. Besides, running multiple programs on your computer at the same time can hog your resources and cause your game to fail… but don’t worry. Check the solutions below.
+
+## Make sure your PC meets the minimum system requirements
+
+ The minimum system requirements need to be met to run _Paladins_ smoothly, otherwise, you’re likely to run into game issues like freezing, lagging and crashing. So, make sure your computer meets the minimum system requirements before you start troubleshooting:
+
+| **OS:**        | Windows 7 64-bit or newer               |
+| -------------- | --------------------------------------- |
+| **Processor:** | Core 2 Duo 2.4 GHz or Athlon X2 2.7 GHz |
+| **Graphics:**  | Nvidia GeForce 8800 GT                  |
+| **Memory:**    | 4 GB RAM                                |
+| **Storage:**   | 30 GB available space                   |
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## How to fix_Paladins_ crashing?
+
+ You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
+
+1. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+2. [**End unnecessary background programs**](https://tools.techidaily.com/drivereasy/download/)
+3. **[Run Paladins as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+4. [**Verify the integrity of your game files**](https://tools.techidaily.com/drivereasy/download/)
+5. [**Set your PC power plan to High-performance**](https://tools.techidaily.com/drivereasy/download/)
+6. [**Adjust your virtual memory**](https://tools.techidaily.com/drivereasy/download/)
+7. [**Check for Windows updates**](https://tools.techidaily.com/drivereasy/download/)
+8. [**Reinstall Steam**](https://tools.techidaily.com/drivereasy/download/)
+
+### Fix1: Update your graphics driver
+
+ The_Paladins_ crashing issue is most likely to occur if you’re using the wrong graphics driver or it’s out of date. So, updating your graphics driver should always be your go-to option when something goes wrong with your game. There are two ways you can do this:
+
+* [**Option 1 – Download and install the driver manually**](https://tools.techidaily.com/drivereasy/download/)
+* [**Option 2 – Automatically update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
+
+#### Option 1 – Download and install the driver manually
+
+ The manufacturer of your graphics card keeps updating the driver. To get the latest correct driver, you need to go to the manufacturer website, find the driver corresponding with your specific flavor of Windows version (for example, Windows 32 bit) and download the driver manually.
+
+ Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
+
+#### Option 2 – Automatically update your graphics driver
+
+ If you don’t have the time, patience or computer skills to update the graphics driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct driver for it. You don’t need to know exactly what system your computer is running, you don’t need to risk downloading and installing the wrong driver, and you don’t need to worry about making a mistake when installing.
+
+ You can update your drivers automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 clicks:
+
+ **1)[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/scan-5.png)
+
+**3)** Click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/显卡更新图片-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You can do it for free if you like, but it’s partly manual.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+**4)** Restart your PC and the game.
+
+ If this didn’t resolve the issue, then move on and try the next fix.
+
+### Fix 2: End unnecessary background programs
+
+ Some programs running on the background may conflict with Steam or_Paladins_ , causing the crashing issue to occur. So, you should close unnecessary programs during gameplay. Here is how to do it:
+
+* **[If you’re on Windows 7…](https://tools.techidaily.com/drivereasy/download/)**
+* **[If you’re on Windows 8 or 10…](https://tools.techidaily.com/drivereasy/download/)**
+
+#### If you’re on Windows 7…
+
+**1)**  Right-click your taskbar and select **Start Task Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-763-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)** Click the **Processes** tab. Then, check your current **CPU and memory usage** to see what processes are consuming your resources most.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-794-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Right-click the process you want to end and select **End Process Tree** .
+
+ Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-809-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Try launching _Paladins_ again to see if this has resolved your issue. If not, try **[fix 3](https://tools.techidaily.com/drivereasy/download/)**  , below.
+
+---
+
+#### If you’re on Windows 8 or 10…
+
+**1)**  Right-click your taskbar and select **Task Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-762-1.png)
+
+**2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-805-1.png)
+
+**3)**  Right-click the process you want to end and select **End task** .
+
+ Don’t close any program that you’re not familiar with. It may be critical for the functioning of your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-810-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Try launching_Paladins_ to see if it works properly now. If your issue persists, check the next fix.
+
+### Fix 3: Run_Paladins_ as an administrator
+
+ Windows runs programs in user mode by default. Under this mode,_Paladins_ may not be able to access certain game files. To see if that’s the cause of the_Paladins_ crashing, try running your game as an administrator to give it high integrity access. Follow the instructions below:
+
+**1)**  If you’re running Steam now, right-click the **Steam icon** on the taskbar and select **Exit** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-342-1.png)
+
+**2)**  Right-click the **Steam icon**  and select **Run as administrator** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-352-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1983545">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Click **Yes** .
+
+**4)** Launch_Paladins_ from Steam.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-353-1.png)
+
+ Hope this worked for you. If your game crashes again, then go ahead with the next fix.
+
+### Fix 4: Verify the integrity of your game files
+
+ You’re likely to run into the crashing issue on_Paladins_ when a certain game file is damaged or missing. To fix it, try verifying the integrity of your game files on Steam. Here is how to do it:
+
+**1)** Run Steam.
+
+**2)** Click**LIBRARY** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-355-604x79-1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Right-click**Paladins** and select**Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1021.png)
+
+**4)** Click the**LOCAL FILES** tab, then click**VERIFY INTEGRITY OF GAME FILES** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1022.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**5)** This could take several minutes. Wait for the process to be complete. (Steam will fix corrupted files if it detects any.) Then, relaunch your game to test your issue.
+
+ If_Paladins_ crashes again, then try the next fix.
+
+### Fix 5: Set your PC power plan to High-Performance
+
+ The power plan on all computers is set to Balanced by default. So, your computer sometimes might slow down automatically to save energy and cause_Paladins_ to crash.
+
+ If that’s the problem for you, you’ll need to change your power plan to High Performance. Follow the instructions below:
+
+**1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-737-1.png)
+
+**2)** Under **View by,** click **Large icons** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-720-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Select **Power Options.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-721-1-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Select **High Performance** .
+
+**What’re the differences?**
+**Balanced:**  Balanced automatically adjust your CPU’s speed according to your computer’s need.  
+**High Performance:** High Performance mode keeps your PC running at high speeds most of the time. Note that your computer will generate more heat under the High Performance mode.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-738-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**5)** Restart your computer and your game.
+
+ This should fix the_Paladins_ crashing. If it didn’t, move on to the fix below.
+
+### Fix 6: Adjust your virtual memory
+
+ Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage. If the size of your virtual memory is not big enough to save temporary files, your programs such as_Paladins_ are likely to crash.
+
+ Follow the instructions below to adjust the size of your virtual memory and see if this is causing your problem:
+
+**1)** On your keyboard, press the **Windows logo** key and type **advanced system settings.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-884-1.png)
+
+**2)** Click **View advanced system settings.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-882-1.png)
+
+**3)** Click **Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-881.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)**  Click the **Advanced**  tab, and then click **Change** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-880-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/pasted-image-0-3-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**6)** Click your **C drive** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-879-1.png)
+
+**7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
+
+ Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-909-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**8)** Click **Set** , and then click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-877-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**9)** Restart your computer and your game.
+
+ If_Paladins_ is still unplayable, read on and check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 7: Check for Windows updates
+
+ Windows updates can address bugs related to both hardware and software. So make sure you’ve installed all the new Windows updates to keep_Paladins_ running smoothly. Here is how to do it:
+
+**1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-575-1.png)
+
+**2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-576-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Restart your computer after the update is complete, then try running_Paladins_ again. If the crashing issue happens again, try the fix, below.
+
+### Fix 8: Reinstall Steam
+
+ If none of the fixes above worked for you, reinstalling Steam is very likely the solution to your issue. Here is how to do it:
+
+**1)** Right-click the **Steam icon** and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-365-1.png)
+
+**2)**  Right-click the **steamapps**  folder and select **Copy** . Then, place the copy in another location to back it up.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-366-1.png)
+
+**3)**  On your keyboard, press the **Windows logo**  key and type **control** . Then, click **Control Panel** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-361-1.png)
+
+**4)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-374-1-1.png)
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-364-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
+
+**7)** Right-click the **Steam icon** and select **Open file location** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-365-2.png)
+
+**8)**  Move the backup **steamapps**  folder you create before to your current directory location.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-366-2.png)
+
+ Hopefully, you can play_Paladins_ without crashing now! Enjoy your game! If you have any questions or suggestions, feel free to leave a comment below.
+
+* [crash](https://tools.techidaily.com/drivereasy/download/)
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Steam](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/solved-steam-cant-log-in/"><u>[SOLVED] Steam Can’t Log In</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-giggles-guidebook-planning-7-funny-video-frameworks/"><u>2024 Approved Giggles Guidebook Planning 7 Funny Video Frameworks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-seamless-gameplay-solving-low-fps-problems-in-fallout-76-using-new-techniques/"><u>Achieve Seamless Gameplay: Solving Low FPS Problems in Fallout 76 Using New Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/auditory-aesthetics-guide-media-sound-choices-for-2024/"><u>Auditory Aesthetics Guide Media Sound Choices for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-tips-for-solving-maplestory-lag-issues-in-windows-10-updated-guide/"><u>Comprehensive Tips for Solving MapleStory Lag Issues in Windows 10 – Updated Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-gaming-hurdles-effective-fixes-for-tales-of-arise-crashing-problems/"><u>Conquer Gaming Hurdles: Effective Fixes for 'Tales of Arise' Crashing Problems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-edge-2023-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Edge 2023 has native HEVC support?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002042458-easily-troubleshoot-and-solve-discord-overlay-errors-today/"><u>Easily Troubleshoot and Solve Discord Overlay Errors Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-stabilizing-your-ark-software-and-avoiding-system-collapses/"><u>Effective Fixes for Stabilizing Your ARK Software and Avoiding System Collapses</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-apex-legends-2022-leaf-error-code-tips-and-tricks/"><u>Effective Solutions to Apex Legends 2022 Leaf Error Code - Tips and Tricks</u></a></li>
+<li><a href="https://techtrends.techidaily.com/effective-solutions-repairing-and-preventing-screen-burn-in-across-various-displays/"><u>Effective Solutions: Repairing and Preventing Screen Burn-In Across Various Displays</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enshrouded-game-fixed-now-running-smoothly-on-your-computer/"><u>Enshrouded Game Fixed: Now Running Smoothly on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-fixes-for-csgo-login-errors-get-back-into-game-now/"><u>Essential Fixes for CSGO Login Errors - Get Back Into Game Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-gaming-faster-roblox-launch-issues-solved-latest-tips-players/"><u>Get Back to Gaming Faster: Roblox Launch Issues Solved - Latest Tips Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hogwarts-legacy-crash-free-guide-8-must-try-fixes-to-get-the-game-running-on-your-pc/"><u>Hogwarts Legacy Crash-Free Guide: 8 Must-Try Fixes to Get the Game Running on Your PC</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-easily-unlock-oppo-screen-by-drfone-android/"><u>How To Easily Unlock Oppo Screen?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-far-cry-6-freezing-problems-in-windows-update-guide/"><u>How to Fix Far Cry 6 Freezing Problems in Windows - Update Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-persistent-crashes-of-fortnite-in-your-pc-updated-guide-april-2024/"><u>How to Fix the Persistent Crashes of Fortnite in Your PC (Updated Guide, April 2024)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-steelseries-gg-engine-problems-in-windows-operating-system/"><u>How to Resolve SteelSeries GG Engine Problems in Windows Operating System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-solve-your-lost-ark-not-launching-problems-tips-for-2/"><u>How to Solve Your Lost Ark Not Launching Problems - Tips for 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improving-your-gaming-experience-address-stuttering-and-low-fps-in-new-world/"><u>Improving Your Gaming Experience: Address Stuttering & Low FPS in New World</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-realme-12-proplus-5g-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Realme 12 Pro+ 5G FRP</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transforming-mundane-interviews-into-memorable-experienrances/"><u>In 2024, Transforming Mundane Interviews Into Memorable Experienrances</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-call-of-duty-ww2-gameplay-getting-rid-of-the-frustrating-error-4128/"><u>Mastering Call of Duty WW2 Gameplay - Getting Rid of the Frustrating Error 4128</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-troubleshooting-steps-preventing-the-king-of-fighters-xv-from-abruptly-closing-during-your-pc-battles/"><u>Mastering Troubleshooting Steps: Preventing 'The King of Fighters XV' From Abruptly Closing During Your PC Battles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-3-debugged-solving-error-12707-in-the-games-memory/"><u>Modern Warfare 3 Debugged - Solving Error 12707 in the Game's Memory</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimized-resolving-frame-rate-issues-in-resident-evil-village-pc-gaming/"><u>Optimized: Resolving Frame Rate Issues in Resident Evil Village PC Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722993707176-origin-wont-go-online-fixed/"><u>Origin Won't Go Online [FIXED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-call-of-duty-wwii-error-4128-tips-and-solutions-for-gamers/"><u>Overcoming Call of Duty WWII Error 4128: Tips and Solutions for Gamers</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/proven-pathways-to-peeling-away-pesky-backdrops-with-affinity-photo-tools-for-2024/"><u>Proven Pathways to Peeling Away Pesky Backdrops with Affinity Photo Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-startup-problems-with-the-nier-replica-remaster/"><u>Resolving Startup Problems with the NieR Replica Remaster</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-issue-how-to-prevent-frequent-freezing-in-thunder-tier-1-game-on-pc/"><u>Resolving the Issue: How to Prevent Frequent Freezing in Thunder Tier 1 Game on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/score-exceptional-value-premium-selection-of-tribit-sound-products-slashed-for-prime-day-extravaganza/"><u>Score Exceptional Value: Premium Selection of Tribit Sound Products Slashed for Prime Day Extravaganza</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-to-tackle-error-e6-in-modern-combat-warzonemodern-warfare-on-your-computer-system/"><u>Solution Guide to Tackle Error E6 in Modern Combat: Warzone/Modern Warfare on Your Computer System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-puzzle-of-sluggish-play-in-the-sims-4-advanced-fixes-for-pc-gamers/"><u>Solving the Puzzle of Sluggish Play in The Sims 4 - Advanced Fixes for PC Gamers</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/syncing-webcam-footage-with-screen-recording-for-2024/"><u>Syncing Webcam Footage with Screen Recording for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/the-easy-way-to-remove-an-apple-id-from-your-macbook-for-your-iphone-7-plus-by-drfone-ios/"><u>The Easy Way to Remove an Apple ID from Your MacBook For your iPhone 7 Plus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-escape-from-tarkovs-server-disconnection-problems/"><u>Troubleshooting ‘Escape From Tarkov’s Server Disconnection Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-msi-afterburners-failure-to-detect-gpu-on-windows-1011/"><u>Troubleshooting Guide: Resolving MSI Afterburner's Failure to Detect GPU on Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-helldivers-2s-notorious-blue-screen-error/"><u>Troubleshooting Steps for Helldivers 2'S Notorious Blue Screen Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-wsappx-solutions-for-reducing-cpu-and-disk-overuse/"><u>Troubleshooting WSAPPX: Solutions for Reducing CPU and Disk Overuse</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-frequent-zoom-freezes-on-windows-1110-tips-and-tricks/"><u>Ultimate Fixes for Frequent Zoom Freezes on Windows 11/10 - Tips & Tricks!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-for-preventing-fifa-21-from-crashing-on-windows-pcs/"><u>Ultimate Troubleshooting Guide for Preventing FIFA 21 From Crashing on Windows PCs</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/unlock-your-boost-mobile-iphone-se-2022-before-the-plan-expires-by-drfone-ios/"><u>Unlock Your Boost Mobile iPhone SE (2022) Before the Plan Expires</u></a></li>
+<li><a href="https://win-blog.techidaily.com/updated-fnaf-security-fix-ensures-smooth-gaming-experience-on-windows/"><u>Updated FNAF Security Fix Ensures Smooth Gaming Experience on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/war-thunder-optimization-top-strategies-for-a-seamless-high-fps-experience/"><u>War Thunder Optimization: Top Strategies for a Seamless High-FPS Experience</u></a></li>
+</ul></div>

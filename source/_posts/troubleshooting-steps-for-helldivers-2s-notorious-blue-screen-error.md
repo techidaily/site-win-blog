@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Helldivers 2'S Notorious Blue Screen Error
-date: 2024-09-01T08:52:53.065Z
-updated: 2024-09-02T08:52:53.065Z
+date: 2024-09-06T01:18:39.271Z
+updated: 2024-09-07T01:18:39.271Z
 tags:
   - win11
   - win10
@@ -26,6 +26,12 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 5. **[Launch the game in your game folder](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Allow your game to run through Firewall](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1\. Quit MSI Afterburner
 
  Many players find it helps when they stop using MSI Afterburner. On your keyboard, press the**Ctrl + Shift + Esc** , and then end the related process in**Task Manager** .
@@ -33,7 +39,16 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Update your graphics driver
 
@@ -56,12 +71,21 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -70,8 +94,10 @@ There are mainly two methods for you to update the graphics driver:
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3\. Verify the game integrity
 
@@ -83,20 +109,20 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 4\. Force Outriders to run in DX11
 
  When you click the Play button, and you’ll be prompted to choose DirectX 12 or DirectX 11\. You can try playing the game in DX11 this way or you can force Outriders to run in DX11 so that you don’t need to do this every time:
@@ -107,11 +133,20 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### 5\. Launch the game in your game folder
 
  This method has helped many players solve the Unreal Game crashes. If you don’t know the exact installation location of your game, here’s how to do it:
@@ -130,9 +165,6 @@ The ultimate burning program for all your needs!</a>
 
  Granting enough access and running the game directly worked for many other players. If Outriders is still crashing with ‘Unreal process has crashed: UE4-Madness error’, you can try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 6\. Allow your game to run through Firewall
 
  If the issue persists, you can check if it’s caused by an over-protective Firewall or your Antivirus software (you can temporarily uninstall your antivirus software). To make sure the Windows Defender Firewall is not blocking your game, here’s how:
@@ -143,10 +175,22 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)

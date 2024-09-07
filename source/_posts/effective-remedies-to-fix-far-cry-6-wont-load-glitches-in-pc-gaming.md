@@ -1,7 +1,7 @@
 ---
 title: Effective Remedies to Fix 'Far Cry 6 Won't Load' Glitches in PC Gaming
-date: 2024-09-01T08:54:30.893Z
-updated: 2024-09-02T08:54:30.893Z
+date: 2024-09-06T01:18:37.738Z
+updated: 2024-09-07T01:18:37.738Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Effective Remedies to Fix 'Far Cry 6 Won't Load'
 thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f6337924778efc705315343e4f909c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## DirectX Glitches in Battlefield 2042? Here's How to Fix Them
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/featured-image-battlefield-2042-launch-article.jpg.adapt_.crop16x9.431p.jpg)
@@ -21,6 +27,12 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
  The developers are investigating the issues, and hopefully, we will get a definitive fix when they roll out the new updates. Before that, we have gathered some fixes that have solved the errors for some players for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Battlefield 2042 system requirements
 
 | **Minimum**      | **Recommended**                                 |                                                  |
@@ -33,6 +45,12 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 | **Storage**      | 100 GB                                          | 100 GB SSD                                       |
 | **DirectX**      | Version 12                                      | Version 12                                       |
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes…
 
 [1: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
@@ -45,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 
 [5: Clear game cache](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
  DirectX errors in Battlefield 2042 usually suggest a driver issue. Some of the error messages directly ask you to install the latest graphics driver.
@@ -64,9 +79,6 @@ thumbnail: https://thmb.techidaily.com/fa8cb6ca311af8694c1fd2b592b0789e69f633792
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -95,19 +107,31 @@ If this doesn’t solve your problem, try the next fix.
 1. In the search bar next to your Start button, type**update** , then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will search for available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115926/19272" target="_top" id="2115926">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115926" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115926/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If you encounter issues while using the Windows Update client, you can[manually download the updates from the Microsoft website](https://www.microsoft.com/en-us/software-download/windows10) .
 
  If updating your system doesn’t solve the errors for you, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 4: Force-run DirectX 12
 
@@ -122,6 +146,12 @@ If this doesn’t solve your problem, try the next fix.
 
  If force-running DirectX 12 for Battlefield 2042 doesn’t help, move on to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
+  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 5: Clear game cache
 
  Broken game cache could also trigger the DirectX errors in Battlefield 2042\. Even if it’s not the root cause, clearing game cache may help improve game performance and fix some random crashes. Here’s how:
@@ -134,22 +164,19 @@ If this doesn’t solve your problem, try the next fix.
 2. Copy and paste**%ProgramData%/Origin** in the textbox, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-36-26.jpg)
 3. **Delete** every folder and file here**EXCEPT FOR the Local Content folder** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-38-09.jpg)
 4. Open the Run box again by pressing the**Windows key** and**R** on your keyboard.
 5. Type in**%AppData%** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Run-appdata.jpg)
 6. In the pop-up window,**delete the Origin folder** .  
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-53-59.jpg)
 7. Navigate to**C:\\Users\\Your Username\\AppData\\Local** , and**delete the Origin folder** there as well.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 8. Reboot your PC and run Battlefield 2042 via Origin.
 
 #### EA desktop app
@@ -157,13 +184,22 @@ If this doesn’t solve your problem, try the next fix.
 1. Launch the EA app. Click the**three-line icon** on the top-left corner, select**Help** then click**App Recovery** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-35.jpg)
 2. Click**Clear Cache** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-46.jpg)
 3. If you’re having trouble opening the EA app, you can click the**Start button** ,**expand the EA folder** , and click**APP Recovery** .  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_17-15-31.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ---
 
  Hopefully this article helps! Please feel free to leave a comment down below if you have any questions or suggestions.

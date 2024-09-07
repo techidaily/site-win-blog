@@ -1,7 +1,7 @@
 ---
 title: "Fixing Critical Errors: Resolving 'No Rest for the Wicked' Crashes in Windows"
-date: 2024-09-01T08:54:05.098Z
-updated: 2024-09-02T08:54:05.098Z
+date: 2024-09-06T01:18:38.150Z
+updated: 2024-09-07T01:18:38.150Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 
 **Fortnite login failed on your PC?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only one to experience this problem. Thousands of Fortnite players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Fixes to try:**
 
  Here’s a list of fixes that have resolved this problem for other Fortnite players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -46,10 +52,28 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 3. **Turn on** the toggle next to **Auto update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-2-step-3.png)
 4. Restart Epic Games Launcher.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. If a patch is available, it will be detected by the Epic Games Launcher and the latest Fortnite patch will be automatically downloaded and installed when you launch Fortnite.
 
  Run Fortnite again to check if you can log into the game or not. If it not, or there was no new game patch available, move on to Fix 2, below.
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2: Reboot your network
 
  By rebooting your network, your Internet connection speed may be back to normal. So maybe it will also resolve this issue. Here is how to do it:  
@@ -57,10 +81,19 @@ thumbnail: https://thmb.techidaily.com/fb5f458ad35f6a8088f1d0bc0256a6dfcf5f90caa
 1. **Unplug** your modem (and your wireless router, if it’s a separate device) from power for **60 seconds** .  
 ![modem](https://images.drivereasy.com/wp-content/uploads/2018/10/modem.jpg)  
 ![wireless router](https://images.drivereasy.com/wp-content/uploads/2018/10/wireless-router.jpg)
-2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+2. **Plug in** your network devices again and wait until the indicator lights are back to its normal state.
 3. Try launching Fortnite again.
 
 See if you can log in or not. if not, try the next fix, below.
@@ -73,11 +106,14 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reset Winsock data
 
 **Winsock** is a programming interface and supporting program in Windows operating system that defines how Windows network software should access network services. **R** **esetting Winsock data** may be helpful for dealing with some network connection issues. Here is how to do it:
@@ -86,18 +122,28 @@ See if you can log in or not. if not, try the next fix, below.
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
 
  Launch Fortnite after you restart your PC to see if you can log in or not. If you fail to log in, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5: Flush your DNS and Renew your IP
 
  Fortnite login failed issue is also probably caused by the DNS and IP issues. **Try flushing your DNS and renewing your IP** and maybe this issue will be resolved. Here is how to do it:
@@ -107,32 +153,44 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2121331/18498" target="_top" id="2121331">
+  <img src="//a.impactradius-go.com/display-ad/18498-2121331" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121331/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 #### To renew your IP
 
 1. On your keyboard, press**the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl** , **Shift**  and **Enter**  on your keyboard at the same time to **run the Command Prompt as administrator** . You will be prompted for permission. Click **Yes** to run the **Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/10/Fix-5-step-1.jpg)
 2. Type the command line**ipconfig /release**  and press **Enter**  on your keyboard.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![ipconfig release](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-release.jpg)
 3. Type the command line**ipconfig /renew**  and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
+<!-- affiliate ads begin -->
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Update your network driver
 
  If the network driver on your PC is missing or outdated, it may cause Fortnite login failed issue. **Try updating your network driver** to see if this issue persists.
@@ -154,8 +212,10 @@ See if you can log in or not. if not, try the next fix, below.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Driver-Easy-Scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -165,9 +225,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Avoid wireless interference
 
  If you failed to log into Fortnite when your PC connects to the Internet via your Wi-Fi network, this issue is also probably caused by **wireless interference** . Follow the instructions below to avoid wireless interference and improve your Wi-Fi signal:
@@ -188,29 +245,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Fix 9: Change the DNS server
 
 **Google Public DNS** provides you with **a speed boost** and **an increased security.** Try changing the DNS server in your PC to the Google Public DNS addresses to see if this issue can be resolved. Here is how to do it:
@@ -218,27 +255,52 @@ Key features:
 1. On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control** and press **Enter** to open the Control Panel.  
 ![Win + R to open control panel](https://images.drivereasy.com/wp-content/uploads/2018/10/control.jpg)
 2. **View** the Control Panel **by Category** . Click **View network status and tasks** .  
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![Ethernet properties 2](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties-2.jpg)
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -252,6 +314,12 @@ See if you can log in or not. If not, try the next fix.
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Launch Fortnite to see if you can log in or not.
 
  Hopefully one of the fixes above resolved this issue for you. Please leave your comment below if you have any questions or suggestion.

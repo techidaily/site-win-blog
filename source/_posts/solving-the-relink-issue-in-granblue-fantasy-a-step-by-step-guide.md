@@ -1,7 +1,7 @@
 ---
 title: Solving the 'Relink' Issue in Granblue Fantasy - A Step-by-Step Guide
-date: 2024-09-01T08:52:41.104Z
-updated: 2024-09-02T08:52:41.104Z
+date: 2024-09-06T01:18:39.455Z
+updated: 2024-09-07T01:18:39.455Z
 tags:
   - win11
   - win10
@@ -13,12 +13,36 @@ excerpt: This Article Describes Solving the 'Relink' Issue in Granblue Fantasy -
 thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abeb6dec26820e9ae291c1ae1c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Tower of Fantasy on PC - Ultimate Fix Guide to Stop the Constant Crashing
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-featured.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Tower of Fantasy is finally out. We don’t know if it’s going to be the Genshin Killer, but what we do know is the launch wasn’t that smooth and many PC players are reporting**a crashing issue** . If you happen to be on the same boat, don’t worry. We’ve already got some working fixes for you to try.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try all of them. Simply work your way down until you find the one that does the charm.
@@ -37,8 +61,26 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 1. On your keyboard, press**Win+R** (the Windows key and the R key) to invoke the Run box. Type or paste**%Appdata%** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-appdata.jpg)
 2. Go to **Local > Hotta > Saved > Config > WindowsNoEditor** . Right click**GameUserSettings.ini** and rename it to**GameUserSettings.ini.backup.**  
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-config-1.jpg)
 3. **Right-click the empty** area and create a new .txt file with the name**GamerUserSettings.ini** . Edit the file and paste the following:  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 [D3DRHIPreference]  
 bPreferD3D12InGame=False  
 
@@ -48,9 +90,6 @@ Now you can restart Tower of Fantasy and check the results.
 
 If the game still crashes, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 2:**Update your graphics driver**
 
  Some wanders reported a Vega Integrate Graphics crashing issue, which means the**game crashes could be driver-related** . If you are using a buggy or outdated graphics driver, you may run into performance issues with new titles. Always make sure you’re using the latest correct graphics driver.
@@ -65,7 +104,10 @@ If the game still crashes, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -74,7 +116,10 @@ If the game still crashes, take a look at the next fix.
  If the latest drivers can’t stop the crash, you can check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
@@ -85,13 +130,22 @@ If the game still crashes, take a look at the next fix.
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
 If Tower of Fantasy still crashes, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Run in compatibility mode
 
  In some cases, the constant crashes indicate a compatibility issue. According to the feedback, running the game in compatibility mode is a potential fix to the problem. So you can give it a shot and see how things go. This is worth a shot especially if you’re on Windows 11.
@@ -102,12 +156,21 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 2. In the pop-up window, navigate to the**Compatibility** tab, set to**run this program in compatibility mode for Windows 8** . Then check the box next to**Disable fullscreen optimizations** and**Run this program as an administrator** . In the end, click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/tower-of-fantasy-compatibility-1.jpg)
 3. Now you can test the gameplay in Tower of Fantasy.
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If this fix doesn’t work for you, undo the settings and continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Modify your Registry (Advanced)
 
  This fix requires a certain level of computer knowledge. Proceed with caution. (If you don’t know what you’re doing, skip this one and jump to the next fix.)
@@ -120,13 +183,13 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-1.jpg)
 3. Right click the empty space and create a**DWORD (32-bit) Value** . Then name it**TdrLevel** .  
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-2.jpg)
 4. Double-click**TdrLevel** to edit the value. Select**Hexadecimal** and set**Value data** to**0** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/08/regedit-tdrlevel-3.jpg)
 5. Now reboot your PC and launch Tower of Fantasy.
 
@@ -134,11 +197,6 @@ If Tower of Fantasy still crashes, you can try the next fix below.
 
 If this fix doesn’t give you luck, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 6: Check for corrupted system files
 
  If none of the fixes above work for you, chances are you’re looking at**a system issue** . We all use our computer differently, so it’s hard to determine what went wrong exactly: could be a faulty driver, or it might be corrupted system files. Either way, you can first run a scan with a system repair tool.
@@ -149,6 +207,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.

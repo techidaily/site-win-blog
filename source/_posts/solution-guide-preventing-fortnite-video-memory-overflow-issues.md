@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Preventing Fortnite Video Memory Overflow Issues"
-date: 2024-09-01T08:55:02.938Z
-updated: 2024-09-02T08:55:02.938Z
+date: 2024-09-06T01:18:37.233Z
+updated: 2024-09-07T01:18:37.233Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Solution Guide: Preventing Fortnite Video Memor
 thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff32ad0111bfbaa0c8293dac8c.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Quick Solutions: Overcome Issues Preventing Your Game From Starting
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/genshin-impact-featured-image-1.jpg)
@@ -38,13 +44,22 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 1. Go to the game’s installation folder. Right-click the**GenshinImpact.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Choose the**Compatibility** tab. Then tick**Disable fullscreen optimizations** and**Run the program as an administrator** and click**OK** .  
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-genshin-as-administrator-1.jpg)
 
  After you apply the settings, launch the Genshin Impact file directly from the folder and see if it opens correctly. If not, check out the second fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  One of the most common causes of Genshin Impact not launching is a corrupted or outdated graphics driver. GPU manufacturers will keep releasing driver updates along with new game patches. So if you haven’t updated your graphics driver for a while, definitely do it now to see if that fixes your issue.
@@ -67,11 +82,6 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update**  button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it. Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/amd-6800xt.jpg)
@@ -81,6 +91,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
  If Genshin Impact doesn’t launch and you’re receiving specific errors like 0xc000007b or MSVCP140.dll cannot be found, installing the latest DirectX files and Visual C++ files might resolve your issue.
@@ -89,7 +105,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/directx.jpg)
 2. Open the downloaded file and follow the wizard to install DirectX runtime components.
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 3. Go to the[Visual C++ download page](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) and download the latest Visual C++ redistributable package for your Windows.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-page.jpg)
@@ -97,7 +116,10 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
 
@@ -108,21 +130,39 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 1. In the Windows search box, type**system configuration** and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-4.jpg)
 2. Select the**Services** tab. Then tick**Hide all Microsoft services** and click**Disable all** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 3. Choose the**Startup tab** and click**Open Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  After the computer starts up, launch Genshin Impact to check if the issue persists. If it works without trouble,**enable the services one or a few like four or five at a time** . If the game works fine, there is no problem with these services. Then repeat the steps until you’ve checked all the services.
 
@@ -136,14 +176,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 2. Under the General tab, tick**Normal startup** and click**OK** .  
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<span id="1630055">
+					<video width="192" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/normal-startup.jpg)
 3. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 5 – Repair the game files
 
@@ -154,12 +206,24 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-1.jpg)
 3. Select**Repair Game Files** from the left and click**Repair Now** .  
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Wait for the process to finish and restart the game, which should be working as expected.
 

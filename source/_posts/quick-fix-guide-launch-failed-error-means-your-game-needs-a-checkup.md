@@ -1,0 +1,490 @@
+---
+title: "Quick Fix Guide: 'Launch Failed' Error Means Your Game Needs a Checkup"
+date: 2024-09-06T01:21:16.290Z
+updated: 2024-09-07T01:21:16.290Z
+tags:
+  - win11
+  - win10
+  - win7
+categories:
+  - ProgramIssues
+description: "This Article Describes Quick Fix Guide: 'Launch Failed' Error Means Your Game Needs a Checkup"
+excerpt: "This Article Describes Quick Fix Guide: 'Launch Failed' Error Means Your Game Needs a Checkup"
+thumbnail: https://thmb.techidaily.com/ef0c500c1ff8cdea11d6b2ce7132e969a27a23353363cc6a48d15e2d1d290c96.jpg
+---
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120866/26400?prodsku=mars" target="_top" id="2120866">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120866/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+## Call of Duty: Black Ops 4 Launch Woes? Discover Effective Fixes for a Seamless Play
+
+There is nothing more frustrating than buying a video game and not being able to play it. Recently, many_Call of Duty: Black Ops 4_ players are reporting the Black Ops 4 not launching issue on PC.
+
+ This problem may occur for various reasons, most of which are hard to detect because of the number of unique hardware and software settings you have.
+
+ But don’t worry. Here is a general guide to help rule out common issues. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
+
+## Fixes to try
+
+1. **[Run the game as an administrator](https://tools.techidaily.com/drivereasy/download/)**
+2. **[Rule out driver issues](https://tools.techidaily.com/drivereasy/download/)**
+3. **[Reset your in-game settings](https://tools.techidaily.com/drivereasy/download/)**
+4. **[Delete game cache files](https://tools.techidaily.com/drivereasy/download/)**
+5. **[Check for software conflicts](https://tools.techidaily.com/drivereasy/download/)**
+6. **[Update Windows components](https://tools.techidaily.com/drivereasy/download/)**
+7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
+
+### Fix 1: Run the game as an administrator
+
+**_BO4_** not launching issue might happen when it’s not able to access certain game files and folders under a standard user account. Although it’s rare that this causes the launching issue, you should rule out the possibility. Follow the instructions below:
+
+**1)** Right-click the **Battle.net icon** on your desktop and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-22-28.jpg)
+
+**2)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-04.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115927/19272" target="_top" id="2115927">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115927" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115927/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Relaunch_BO4_ from the Blizzard.net app to test your issue.
+
+If your issue persists, don’t fret. Move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 2: Rule out driver issues
+
+ Your graphics card (GPU) is the most important component when it comes to determining gaming performance.
+
+ If you’ve updated your graphics driver recently, it’s possible that the new driver is incompatible with your game. Try **[rolling back to the previously installed driver](https://tools.techidaily.com/drivereasy/download/)**  to see if that’s the core issue.
+
+ If rolling back the driver didn’t help, or if you haven’t updated the driver for a long time, chances are the graphics driver you’re using is outdated or it gets corrupted somehow. In this case, try **[updating your graphics driver to the latest version](https://tools.techidaily.com/drivereasy/download/)**  to see if this resolved the Black Ops 4 not launching error. Follow the instructions below:
+
+#### Option 1 – Roll back your graphics driver
+
+**1)**  On your keyboard, press the **Windows logo key** and **R** at the same time.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-30.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)** Type **devmgmt.msc** , then click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-37.jpg)
+
+**3)** Double-click **Display adapters** . Then, right-click **your graphics card** and select **Properties** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-58-50.jpg)
+
+**4)** Click **Roll Back Driver** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-08.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ If you can’t click the button, or if rolling back to the previous version didn’t fix your issue, then move on and try updating your graphics driver.
+
+---
+
+#### Option 2 – Update your graphics driver if you haven’t already done so
+
+ If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
+
+ Driver Easy will automatically recognize your system and find the correct driver for it. You don’t need to know exactly what system your computer is running, you don’t need to be troubled by the wrong driver you would be downloading, and you don’t need to worry about making a mistake when installing.
+
+ You can update your driver automatically with either the FREE or the Pro version of Driver Easy. But with the Pro version it takes just 2 steps (and you get full support and a 30-day money back guarantee):
+
+**1)** **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
+
+**2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-22_9-48-11.jpg)
+
+**3)** Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-11-28_12-21-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ You can do it for free if you like, but it’s partly manual.
+
+**The Pro version of Driver Easy** comes with full technical support.  
+ If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+ Relaunch your game to test your issue. If your game is still unplayable, then go ahead with the next solution.
+
+### Fix 3: Reset in-game settings
+
+ Improper in-game settings may also crash your game. If you’ve recently changed BO4 settings and the game isn’t working since then, you’ll need to restore in-game settings to default. Here is how to do it:
+
+**1)** Launch the **Blizzard Battele.net** .
+
+**2)** Click **BLIZZARD** , then **Settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)**  Click the **Game Settings tab** \>**Reset in-Game Options** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)**  Click **Reset** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_15-00-05.jpg)
+
+**5)** Click **Done** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+ Try launching your game to see if this helped. If your issue persists, move on to the next fix below.
+
+### Fix 4: Delete game cache files
+
+ Clearing game cache files can improve your gaming performance and allow the game to start when it will not otherwise work. So if Black Ops 4 won’t launch on your PC,
+
+**1)** On your keyboard, press the **Ctrl, Shift and Esc keys** at the same time to open Task Manager.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_17-55-07.jpg)
+
+**2)**  On the **Processes** tab, right-click the **Blizzard-related program** (such as **Blizzard battle.net App,** agent.exe and **Blizzard Update Agent** ), then click **End task** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-701.png)
+
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** On your keyboard, press the **Windows logo Key and R**  st the same time to open the Run dialog.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
+
+**4)**  Type **%ProgramData%** and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-04_12-31-14.jpg)
+
+**5)**  Highlight and delete the **Blizzard Entertainment**  and **Battle.net folder** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-505.png)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Relaunch your game to test the issue.
+
+ If_BO4_ still won’t launch, don’t fret. There are still 2 more fixes to try.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+### Fix 5: Check for software conflicts
+
+ Some programs or services running on your PC may conflict with**_Black Ops 4_** , resulting in the launching error.
+
+ To see if that’s the problem for you, try closing unnecessary programs during gameplay. If your game still won’t launch then, try performing a clean boot to stop non-Microsoft services from running on the background.
+
+Here is how:
+
+* **[Close unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
+* **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+#### Close unnecessary programs
+
+**1)**  Right-click your taskbar and select **Task Manager** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-14-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)**  Right-click the resource-consuming process and select **End task** .
+
+ Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-24.jpg)
+
+**3)** Relaunch your game to test your issue.
+
+If your issue continues to occur, try performing a clean boot on your PC.
+
+---
+
+#### Perform a clean boot
+
+ The screenshots below are from Windows 7, but the same steps will also apply to Windows 8 and 10\. There will just be cosmetic differences in the actual screens displayed. (Or, you can check this article to see **[how to perform a clean boot on Windows 10](https://tools.techidaily.com/drivereasy/download/)**  .)
+
+**1)**  On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-36.jpg)
+
+**2)**  Type **msconfig** . Then, on your keyboard, press the **Enter, Shift**  and **Ctrl**  keys at the same time to run System configuration as administrator.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15.jpg)
+
+**3)** Uncheck the box next to **Load startup items** . Then click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-44.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115949/19272" target="_top" id="2115949">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115949" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-53.jpg)
+
+**5)** Click **Disable all** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-01.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1977006">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**6)** Click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-10.jpg)
+
+**7)**  Click the **Startup tab.**
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-18.jpg)
+
+**8)**  Uncheck the box next to the program that you want to prevent it from auto-launching, and then click **OK** .
+
+ Only disable programs that you know that you don’t need to launch automatically at startup. You should keep your antivirus launching automatically for safety.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-36.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**9)** Click **Restart** and wait for your computer to restart.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-45.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**10)**  After your computer restarts, relaunch your game to test your issue.
+
+**If your game runs correctly** , that means one of the services or programs on your PC conflicts with your game.
+
+ To narrow down the problematic service or program, repeat steps 1-4, then disabled the upper half of the services (the lower half of the services being enabled). Next, restart your PC to see if the game runs properly.
+
+ If the issue reappears, then the problematic service is among the lower half of the services – you can then follow the same logic and focus on the lower half of the services until you isolate the one that causes the error.
+
+ Once you’ve identified the problematic service, you can contact the game developer for assistance, or just run your game with the service disabled.
+
+ Whether this helped you find the problematic program or not, don’t forget to **[reset your computer to start normally](https://tools.techidaily.com/drivereasy/download/)**  .
+
+#### Reset your computer to start normally
+
+**1)**  On your keyboard, press the **Windows logo key** and **R** at the same time.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-36-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**2)**  Type **msconfig**  and click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-32-15-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Click the button next to **Normal startup,**  and then click **Apply** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-37-21.jpg)
+
+**4)**  Click the **Services tab** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-38-25.jpg)
+
+**5)**  Click **Enable all,** then click **OK** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-39-34.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**6)**  Click **Restart** . (Your computer will start normally after you finish this step.)
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-40-28.jpg)
+
+If your game still won’t launch, move on to the next fix.
+
+### Fix 6: Update Windows components
+
+ Windows releases regular updates to fix bugs. It’s probable that a recent update is conflicting with your game and a new update is needed to fix it. Here’s how to check for Windows updates:
+
+**1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-02.jpg)
+
+**2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-18_15-31-06.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+**3)** Restart your computer and the game after the update is complete.
+
+If the issue persists, try the fix, below.
+
+### Fix 7: Reinstall the game
+
+ If none of the fixes above worked for you, it could be the game’s installation files at fault. Try uninstalling the game, then restart your PC to download and install_Call of duty: Black Ops 4_ .
+
+ Hopefully, this article helped. Please let me know if you have any questions, or if you manage to resolve this issue in some other way. I would love your thoughts!
+
+* [games](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 10](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 7](https://tools.techidaily.com/drivereasy/download/)
+* [Windows 8](https://tools.techidaily.com/drivereasy/download/)
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="autorelaxed"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="1223367746"></ins>
+
+
+
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7571918770474297"
+     data-ad-slot="8358498916"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-tips-for-finding-christian-choir-songs-online-and-personalizing-them/"><u>[New] In 2024, Tips for Finding Christian Choir Songs Online & Personalizing Them</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/astering-the-art-of-design-selecting-ideal-dimensions-for-yt-branding/"><u>[New] Mastering the Art of Design Selecting Ideal Dimensions for YT Branding</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-bringing-your-vision-alive-transferring-vids-from-premiere-for-2024/"><u>[Updated] Bringing Your Vision Alive Transferring Vids From Premiere for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-your-video-their-feast-how-to-craft-gifs-from-vimeo-videos/"><u>[Updated] Your Video, Their Feast How to Craft GIFs From Vimeo Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-avoiding-career-pitfalls-in-graphic-artistry/"><u>2024 Approved Avoiding Career Pitfalls in Graphic Artistry</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-exceptional-online-tv-services-featuring-community-broadcasts/"><u>2024 Approved Exceptional Online TV Services Featuring Community Broadcasts</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-mastering-fast-thumbnail-design-for-valorants-highlighted-screenshots/"><u>2024 Approved Mastering Fast Thumbnail Design for Valorant's Highlighted Screenshots</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-vivid-chroma-optimizer/"><u>2024 Approved Vivid Chroma Optimizer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/alien-squads-ultimate-battle-fixes-for-fireteam-elite-continuous-pc-malfunctions/"><u>Alien Squad's Ultimate Battle - Fixes for 'Fireteam Elite' Continuous PC Malfunctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breaking-down-the-postponement-of-guilty-gear-strive-launch-dates/"><u>Breaking Down the Postponement of Guilty Gear Strive Launch Dates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cod-modern-warfare-3-how-to-get-your-mobile-app-up-and-running-again-after-crashing/"><u>COD Modern Warfare 3: How to Get Your Mobile App Up and Running Again After Crashing</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-an-engaging-review-vlog-for-everyday-items/"><u>Crafting an Engaging Review Vlog for Everyday Items</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-nvidia-drivers-solutions-for-non-functioning-control-panels/"><u>Dealing with NVIDIA Drivers: Solutions for Non-Functioning Control Panels</u></a></li>
+<li><a href="https://win-answers.techidaily.com/effortless-solutions-to-stop-chrome-from-crashing-in-windows-11/"><u>Effortless Solutions to Stop Chrome From Crashing in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/escape-loop-completed-celebrating-deathloops-triumphant-launch-day/"><u>Escape Loop Completed: Celebrating Deathloop's Triumphant Launch Day</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fixes-for-stability-improvements-in-helldivers-2-for-desktop-players/"><u>Expert Fixes for Stability Improvements in Helldivers 2 for Desktop Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-how-to-stop-wallpaper-engine-from-crashing-in-windows-11-and-10/"><u>Fix: How to Stop Wallpaper Engine From Crashing in Windows 11 & 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-jurassic-world-evolution-crashes-a-comprehensive-guide/"><u>Fixing Jurassic World Evolution Crashes: A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/fixing-lg-monitor-drivers-solutions-compatible-with-windows-10-7-and-81/"><u>Fixing LG Monitor Drivers: Solutions Compatible with Windows 10, 7 & 8.1</u></a></li>
+<li><a href="https://fox-that.techidaily.com/iphone-app-icon-errors-discover-reliable-fixes-for-reappearance/"><u>IPhone App Icon Errors? Discover Reliable Fixes For Reappearance!</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/master-the-art-of-visuals-on-tiktok-with-smart-background-choices/"><u>Master the Art of Visuals on TikTok with Smart Background Choices</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/minecraft-realms-an-expensive-luxury-or-essential-upgrade/"><u>Minecraft Realms: An Expensive Luxury or Essential Upgrade?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-to-reduce-frame-rate-fluctuations-and-lag-in-cod-black-ops-iv/"><u>Optimizing Performance to Reduce Frame Rate Fluctuations and Lag in COD Black Ops IV</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-pc-instability-expert-tips-for-stable-gameplay-in-black-desert-online/"><u>Overcome PC Instability: Expert Tips for Stable Gameplay in Black Desert Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-connectivity-hurdles-in-new-world-fixing-common-errors/"><u>Overcoming Connectivity Hurdles in New World: Fixing Common Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-made-easy-overcoming-crashes-in-forza-horizon-4/"><u>PC Gaming Made Easy: Overcoming Crashes in Forza Horizon 4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-issues-with-pacific-drive-startup-problems/"><u>Resolving Issues with Pacific Drive Startup Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-making-your-logitech-g-hub-functional-again-on-windows/"><u>Step-by-Step Guide: Making Your Logitech G Hub Functional Again on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-outriders-from-freezing-due-to-unreal-engine-issues-fixing-ue4-madness-errors-once-and-for-all/"><u>Stop Outriders From Freezing Due to Unreal Engine Issues - Fixing 'UE4-Madness' Errors Once and For All</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/top-9-essential-technology-gadgets-for-students-academic-success/"><u>Top 9 Essential Technology Gadgets for Students' Academic Success</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-battlefield-2042-and-directx-errors-our-step-by-step-solution-helps/"><u>Trouble with Battlefield 2042 and DirectX Errors? Our Step-by-Step Solution Helps!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-to-eliminate-frames-per-second-fps-issues-in-assassins-creed-valhalla-on-pc/"><u>Troubleshooting Tips to Eliminate Frames Per Second (FPS) Issues in Assassin's Creed Valhalla on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-resolving-constant-beat-saber-app-crashes/"><u>Troubleshooting: Resolving Constant Beat Saber App Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-how-to-stop-your-slime-rancher-2-adventure-from-crashing/"><u>Ultimate Fixes: How to Stop Your Slime Rancher 2 Adventure From Crashing</u></a></li>
+</ul></div>

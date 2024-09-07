@@ -1,7 +1,7 @@
 ---
 title: Ultimate Strategies for Mastering Roller Champions Crossplay
-date: 2024-09-01T08:52:35.920Z
-updated: 2024-09-02T08:52:35.920Z
+date: 2024-09-06T01:18:39.528Z
+updated: 2024-09-07T01:18:39.528Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Ultimate Strategies for Mastering Roller Champio
 thumbnail: https://thmb.techidaily.com/1b264feb60401b06f1b5b9d369aaa689e44f7f3921972fa9eb3d747a1df53b5a.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Simple Fixes for Persistent Outriders Game Crashes - Get Back in Action
 
 The Outriders is finally out! However, many players encountered Outriders crashing when they accessed inventory or menu. If you have the same issue, don’t worry, and just try the fixes here to get it solved.
@@ -38,12 +44,30 @@ Here are the steps:
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  One of the most common causes of game crashes is an outdated or faulty graphics driver. If Outriders keeps crashing your PC, you should check if your graphics driver is up-to-date. If not, definitely update it now.
@@ -63,13 +87,16 @@ There are mainly two ways you can update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -83,9 +110,6 @@ There are mainly two ways you can update the graphics driver:
 2. Select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
 **Enable FPS Limit** :_On_  
@@ -93,9 +117,6 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -103,18 +124,33 @@ There are mainly two ways you can update the graphics driver:
 1. Open Steam and navigate to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Verify the integrity of game files
 
  Missing or damaged game files can also ruin your gaming experience. To scan and repair the faulty game files and cache quickly, you can use Steam’s built-in tool.
@@ -123,15 +159,33 @@ Still no luck with DX12? Then check out the next method below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** and select**Properties** .  
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1899850">
+					<video width="486" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1899850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14483-1899850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1899850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:304px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Felectronicx.pxf.io%2Fc%2F5597632%2F1899850%2F14483'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1899850/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Once done, start Outriders and test the game.
 
  If all the steps above couldn’t stop Outriders from crashing,**reinstallation** is the last resort. The constant crashes can be triggered by the issues during your previous installation and a thorough reinstallation would just refresh the whole thing.

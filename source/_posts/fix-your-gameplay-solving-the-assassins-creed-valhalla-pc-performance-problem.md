@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Gameplay: Solving the Assassin’s Creed Valhalla PC Performance Problem"
-date: 2024-09-01T08:52:42.490Z
-updated: 2024-09-02T08:52:42.490Z
+date: 2024-09-06T01:18:39.435Z
+updated: 2024-09-07T01:18:39.435Z
 tags:
   - win11
   - win10
@@ -32,6 +32,12 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  It’s always recommended to check Assassin’s Creed: Valhalla game updates, and install the latest game patch to solve the issue. You can find more information about Assassin’s Creed: Valhalla[news & updates](https://www.ubisoft.com/en-us/game/assassins-creed/valhalla/news-updates) on Ubisoft.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 2 – Reboot your network
 
  First, make sure you’re using an Ethernet connection to get a stable network all the time. Then you can try restarting the network. This will help fix Internet connection problems, improve slow-moving connections.
@@ -51,7 +57,10 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
  Now you can reconnect the Internet and launch Assassin’s Creed Valhalla again to test the issue. If the game is still lagging a lot, check the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 3 – Update the device drivers
 
@@ -71,22 +80,28 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115935/19272" target="_top" id="2115935">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115935" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115935/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full suppor** t and a**30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Play the game to check if Assassin’s Creed Valhalla lagging issue still persists with your new network driver. If the driver update doesn’t do the trick, you can go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4 – Disable VRR and V-Sync/FreeSync
 
@@ -96,6 +111,12 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Display-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Scroll down and select**Graphics settings** (in the**Multiple displays** section).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics.jpg)
@@ -104,6 +125,12 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graohics.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Note: If you’re using a gaming console, you can turn off VRR by going to**Settings** \>**Display & sound** \>**Video output** \>**Video modes** \> uncheck the**Allow** **Variable Refresh Rates** box.
 
  4) Open the**NVIDIA control panel** .
@@ -116,9 +143,6 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
  8) Click**Apply** .
 
 **Note:** If you’re using an AMD graphics card, open**AMD** **Radeon Settings** \>**Display** \> turn off**AMD FreeSync** .
@@ -126,7 +150,10 @@ There are two ways for you to update the device drivers:
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 5 – Change your DNS settings
 
@@ -137,14 +164,20 @@ There are two ways for you to update the device drivers:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  2) Expand**View by:** and select**Category** . Then, click**View network status and tasks** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/status.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) On the left pane, click**Change adapter settings** .
 
@@ -154,16 +187,10 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) Double-click Internet Protocol Version 4 (TCP/IPv4) to view its properties.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/IPV4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Select**Use the following DNS server addresses** .
 
  For the Preferred DNS server, enter**8.8.8.8** ; for the Alternate DNS server, enter**8.8.4.4** . Then click**OK** .
@@ -174,6 +201,12 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/CMD.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then click Yes if you’re prompted for permission.
 
  8) Type the following command, and press**Enter** .
@@ -184,6 +217,12 @@ There are two ways for you to update the device drivers:
 
  Now play your Assassin’s Creed Valhalla again to see if the lagging issue still persists.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 6 – Clean all your temp files
 
  If you notice the game lagging lot but failed to reduce it with the fixes above, you should try clearing temporary and junk files on a regular basis. These files might slow down your PC. Here’s how:
@@ -192,12 +231,21 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-305.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Press **Ctrl + A** to select all the files, then hit the **Delete** button on your keyboard to remove them. (This won’t delete your personal files.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
 
@@ -207,9 +255,6 @@ There are two ways for you to update the device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-306.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click**Continue** if prompted for permission.
 
  5) Select all the files and press**Delete** .

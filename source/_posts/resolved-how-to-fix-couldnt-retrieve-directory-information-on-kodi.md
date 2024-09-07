@@ -1,7 +1,7 @@
 ---
 title: Resolved! How to Fix 'Couldn’t Retrieve Directory Information' On Kodi
-date: 2024-09-01T08:55:54.571Z
-updated: 2024-09-02T08:55:54.571Z
+date: 2024-09-06T01:18:36.415Z
+updated: 2024-09-07T01:18:36.415Z
 tags:
   - win11
   - win10
@@ -13,10 +13,22 @@ excerpt: This Article Describes Resolved! How to Fix 'Couldn’t Retrieve Direct
 thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706dfa4d55a382cb32e354e1f132.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Resolved: 'You Do Not Have Permission to Play' Error in Fortnite - How to Fix It
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/permission-1024x569.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Did you receive the message “You do not have permission to play Fortnite” when you launch the game? The error is confusing and annoying. Don’t worry, you’re not alone. This post will help you solve the error.
 
  💗If you like this post, please enter**DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
@@ -26,6 +38,12 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
 1. [Unlink the email you’ve used previously](https://tools.techidaily.com/drivereasy/download/)
 2. [Update your game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Unlink the email you’ve used previously
 
  The error could be related to your previous account. If your Epic Games account has linked to other accounts, you may meet this “You do not have permission to play Fortnite” error. The issue seems to come from a mismatch between accounts.
@@ -38,17 +56,29 @@ thumbnail: https://thmb.techidaily.com/73077bb518e58764d0d667c24acb26e31ce2706df
  If you can’t remember which email you’ve used for Epic Games, you can click**Forgot your password?** and send you it to every old email you have.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/forget-1.jpg)
 4. Sign in when you find the email and unlink from the long-forgotten Epic account.
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Log in to the Epic Games account you want it associated with and connect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your game
 
  If you haven’t updated the game for ages and you meet this issue, you may update your game patches. Since it is more than likely a server problem and there’s also have some problem that prevents users’ login, the Fortnite developer group would solve the issue in the latest version.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Bonus: Update your driver
 
@@ -78,14 +108,20 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.

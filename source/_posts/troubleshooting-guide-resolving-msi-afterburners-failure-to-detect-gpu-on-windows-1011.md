@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving MSI Afterburner's Failure to Detect GPU on Windows 10/11"
-date: 2024-09-01T08:53:14.739Z
-updated: 2024-09-02T08:53:14.739Z
+date: 2024-09-06T01:18:38.935Z
+updated: 2024-09-07T01:18:38.935Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: "This Article Describes Troubleshooting Guide: Resolving MSI Afterburne
 thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad2bc2f894ad55f60508b5e77.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115913/19272" target="_top" id="2115913">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115913" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115913/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Troubleshooting Guide: Origin Application Not Starting on Windows 11 - Issue Resolved
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap2-2-300x109.png)
@@ -49,18 +55,48 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap4-4.png)
 
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Delete all the files and folders in this folder **except for the LocalContent folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap5.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130532/26400" target="_top" id="2130532">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130532/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  5) On your keyboard, press**the Windows logo key** and **R** at the same time to open the Run dialog. Then type **%AppData%**  and press **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap6-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  6) In the pop-up window, delete the**Origin**  folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap274.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  7) Click**AppData** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap275.png)
@@ -69,6 +105,12 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/006.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  9) Delete the**Origin**  folder in the **Local** folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/007.png)
@@ -79,10 +121,6 @@ thumbnail: https://thmb.techidaily.com/de7c313fd07e2524cf8d55d82a6066b369ed71aad
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### **Fix 2: update your graphics driver to the latest version**
 
  This issue is probably caused by your outdated graphics driver. Updating your graphics driver to the latest version can make your game run smoother and prevents many issues or errors.
@@ -115,12 +153,27 @@ Or
 
 ![Driver Easy Scan Screen](https://images.drivereasy.com/wp-content/uploads/2019/12/Driver-Easy-Scan-screen.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Update** next to your graphics card to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Update-graphics-driver.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact Driver Easy’s support team at[**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -133,14 +186,32 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click**Try recommended settings** to test-run program using recommended compatibility settings. Follow the on-screen instructions to see whether this troubleshooting option works or not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-1-1-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) If it still doesn’t work, then run the Program Compatibility Troubleshooter again and**select the second option** **to choose compatibility settings based on problems you notice** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/pasted-image-2-1-1.png)
@@ -157,6 +228,18 @@ Or
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 4: Add Origin as an exception to your third-party antivirus application**
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Origin.
@@ -170,8 +253,10 @@ Or
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### **Fix 5: Perform a clean boot**
 
@@ -186,42 +271,45 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap17-2-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Select the**Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 6: Install the latest Windows updates**
 
  Sometimes this issue may occur if you didn’t install the latest Windows updates on your PC. Try performing Windows Update and this issue may get resolved. Here is how to do it:
@@ -230,10 +318,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap1-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  2) Click **Check for updates** to update your Windows system.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap267.png)
@@ -244,6 +328,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Fix 7: Reinstall Origin**
 
  If all the fixes above still don’t work, it’s time to uninstall Origin and reinstall it.
@@ -256,9 +352,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap7-1-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ii. View Control Panel by **Category** , and then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap8-3-1.png)
@@ -267,9 +360,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap268.png)
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 iv. Restart your Windows system when it is completed.
 
  2) **[Download](https://www.dm.origin.com/download)**  the latest version of Origin and then double-click the file you downloaded to reinstall it.

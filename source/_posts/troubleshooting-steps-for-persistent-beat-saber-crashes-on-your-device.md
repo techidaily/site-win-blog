@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Persistent Beat Saber Crashes on Your Device
-date: 2024-09-01T08:52:22.781Z
-updated: 2024-09-02T08:52:22.781Z
+date: 2024-09-06T01:18:39.732Z
+updated: 2024-09-07T01:18:39.732Z
 tags:
   - win11
   - win10
@@ -19,6 +19,12 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -56,7 +62,10 @@ The outdated or broken graphics driver often crashes the game.
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 2: Verify the game files
 
@@ -65,16 +74,10 @@ The outdated or broken graphics driver often crashes the game.
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -83,6 +86,12 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -90,19 +99,21 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
@@ -112,10 +123,34 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.

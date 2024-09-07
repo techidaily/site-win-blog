@@ -1,7 +1,7 @@
 ---
 title: "Fortnite and PC Playability : Solutions for Freezing Issues During Gaming"
-date: 2024-09-01T08:55:35.612Z
-updated: 2024-09-02T08:55:35.612Z
+date: 2024-09-06T01:18:36.677Z
+updated: 2024-09-07T01:18:36.677Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/4aac991e64509d68ac8489b0b42db25368d487df0
 
 Only got a**black screen** at startup or during the thrilling gameplay in Resident Evil Village? You’re definitely not alone! This is one of the known bugs and devs are rolling out a patch. But you might want to fix it on your own. In this post, we’ve got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Not all solutions are necessary, so just work the list down until you find the one that solves your problem.
@@ -37,17 +43,26 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-fiels.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then Steam will start to verify your game files. This will take several minutes to repair or redownload any corrupted or missing game files. Wait until the process is finished.
 
 If this didn’t solve your problem, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## 2\. Download and install Windows updates
 
  Windows updates are used to keep Windows and several other Microsoft programs updated. They also include feature enhancements and security updates to protect your system from malware and malicious attacks. To take full advantage of Windows updates, follow the instructions below to download and install them:
@@ -56,6 +71,12 @@ If this didn’t solve your problem, try the next fix below.
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
@@ -71,7 +92,10 @@ If this didn’t solve your problem, try the next fix below.
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120863/26400?prodsku=Mercury" target="_top" id="2120863">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120863" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120863/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
@@ -83,6 +107,12 @@ If this didn’t solve your problem, try the next fix below.
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can instead do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . (Also check: users’[reviews](https://tools.techidaily.com/drivereasy/download/) on Driver Easy)
@@ -95,21 +125,32 @@ If this didn’t solve your problem, try the next fix below.
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC. Then click on the PLAY button to check if you can boot up the game.
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Run your game as admin
 
@@ -127,16 +168,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
 ![run Resident Evil Village as an administrator ](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator-Compatibility.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  After applying the changes, launch your game and it should be running with administrative privileges.
 
 ## 5\. Disable HDR
@@ -148,14 +183,20 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Find the**config** file and open it.
 

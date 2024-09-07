@@ -1,7 +1,7 @@
 ---
 title: "Resolving Launch Failures with Your Pacfific Drive: Expert Advice & Fixes"
-date: 2024-09-01T08:56:10.118Z
-updated: 2024-09-02T08:56:10.118Z
+date: 2024-09-06T01:18:36.172Z
+updated: 2024-09-07T01:18:36.172Z
 tags:
   - win11
   - win10
@@ -21,6 +21,12 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 
  Check your system specifications first. If you’re sure about it, **jump to the[fixes](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### **Minimum system requirement**
 
 | **Supported OS** | Windows 7, Windows 8.1, Windows 10 (64bit versions required)                         |
@@ -30,6 +36,18 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 | **Video Card**   | NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM) |
 | **Hard Drive**   | 30 GB                                                                                |
 
+<!-- affiliate ads begin -->
+<span id="1983539">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Recommended**system requirement**
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)                                                |
@@ -39,10 +57,6 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 | **Video Card**   | NVIDIA GeForce GTX 670 (or GTX 760 / GTX 960) or AMD Radeon HD 7970 (or R9 280x \[2GB VRAM\] / R9 380 / Fury X) |
 | **Hard Drive**   | 47 GB                                                                                                           |
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -54,6 +68,12 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 5. **[Reinstall Microsoft Visual C++ Redistributable Package](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Uplay](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Disable your Antivirus software
 
  It has been proved by many users that some antivirus software like Bitdefender is the reason for the Rainbow Six Siege won’t launch issue. Antivirus software forbidden the game and cause the problem.  
@@ -68,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/95080ee1192e9ec99602ccecb30de670936b2e86c
 
 If the game is still crashing, try the next fix.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 2: Run as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Rainbow Six Siege can make full use of its features, running its function properly. So run the game as an administrator to see if this fixes your issue.
@@ -80,11 +97,14 @@ If the game is still crashing, try the next fix.
 3. Click the**Compatibility** tab and check**Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Run the game and check the issue is solved or not.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter Rainbow Six Siege won’t launch issue. So it’s really important to keep your drivers updating to get a better gaming experience.
@@ -113,6 +133,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it launch properly.
@@ -121,7 +147,16 @@ OR
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Verify game cache
 
@@ -133,16 +168,16 @@ OR
 3. Choose Local files and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Start rainbow six and Uplay will open and ask to link your account
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Then your game will start automatically!
 
 **Note** : If it doesn’t work, you may restart Steam before doing step 4.  
  If it’s still not working, you can move to the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 5: Reinstall Microsoft Visual C++ Redistributable Package
 
@@ -151,25 +186,28 @@ OR
 1. Type “control panel” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Find the newest Microsoft Visual C++ Redistributable. Right-click on it and click**Change** .  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/change.jpg)
 4. Click Repair. Then follow the on-screen instructions.  
 **Note** : You probably have several of them installed so try and do that Repair for all of them if needed and reboot your computer when asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/repair.jpg)
 5. Launch Rainbow Six Siege to check.
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
+  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: If your computer don’t have Microsoft Visual C++ 201X Redistributable software, you can go to[Microsoft official website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Uplay
 
  If your game launches for a few seconds but nothing happened, reinstalling Uplay may be the fix for you. When the Uplay app was outdated or not function correctly, the game may not launch properly. So a clean uninstalling then installing Uplay may help.
@@ -181,6 +219,18 @@ OR
 3. Right-click on**Uplay** and click**Uninstall/Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay.jpg)
 4. After uninstalling uPlay. Go to the[Uplay official website](https://uplay.ubisoft.com/en-GB) to download the latest version.
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 5. Install Uplay.
 6. Log in Uplay, run Rainbow Six Siege to check.
 

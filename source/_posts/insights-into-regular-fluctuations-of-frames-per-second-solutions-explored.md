@@ -1,7 +1,7 @@
 ---
 title: Insights Into Regular Fluctuations of Frames Per Second - Solutions Explored
-date: 2024-09-01T08:51:33.479Z
-updated: 2024-09-02T08:51:33.479Z
+date: 2024-09-06T01:18:40.521Z
+updated: 2024-09-07T01:18:40.521Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/b5dfde40e2a9ad5275b840b5f0fbb161aac4de7d7
 
 Only got a**black screen** at startup or during the thrilling gameplay in Resident Evil Village? You’re definitely not alone! This is one of the known bugs and devs are rolling out a patch. But you might want to fix it on your own. In this post, we’ve got you covered.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Not all solutions are necessary, so just work the list down until you find the one that solves your problem.
@@ -29,6 +35,24 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
 
 ![Resident Evil Village black screen ](https://images.drivereasy.com/wp-content/uploads/2021/05/featured-image.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<span id="1982459">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## 1\. Verify integrity of game files
 
  Making sure that your game files is usually the first step to take when troubleshooting the issues you’re having with your Steam games. The feature, verifying integrity of game files allows you to achieve the goal:
@@ -37,17 +61,26 @@ Only got a**black screen** at startup or during the thrilling gameplay in Reside
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select the**LOCAL FILES** tab. Then click**Verify integrity of game files…** .  
   
 ![Resident Evil Village verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-fiels.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Then Steam will start to verify your game files. This will take several minutes to repair or redownload any corrupted or missing game files. Wait until the process is finished.
 
 If this didn’t solve your problem, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Download and install Windows updates
 
  Windows updates are used to keep Windows and several other Microsoft programs updated. They also include feature enhancements and security updates to protect your system from malware and malicious attacks. To take full advantage of Windows updates, follow the instructions below to download and install them:
@@ -56,17 +89,10 @@ If this didn’t solve your problem, try the next fix below.
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
   
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  After the reboot, try to launch your game to check if you can get into the main screen successfully.
 
  Still no luck? Don’t worry, there are a few other fixes you can try.
@@ -87,9 +113,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your graphics driver manually, you can instead do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . (Also check: users’[reviews](https://tools.techidaily.com/drivereasy/download/) on Driver Easy)
@@ -107,12 +130,27 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC. Then click on the PLAY button to check if you can boot up the game.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<span id="1983446">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983446.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983446">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983446.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983446%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983446/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## 4\. Run your game as admin
 
@@ -122,17 +160,32 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Find your game’s executable. Make sure to right-click it and select**Properties** .  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
 ![run Resident Evil Village as an administrator ](https://images.drivereasy.com/wp-content/uploads/2021/05/run-as-an-administrator-Compatibility.png)
@@ -147,17 +200,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
   
 ![Resident Evil Village disable HDR](https://images.drivereasy.com/wp-content/uploads/2021/05/resident-evil-village-properties-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
  2) Select the**LOCAL FILES** tab. Then click**Browse…** and you’ll be brought to the game’s installation directory.  
   
 ![disable HDR Resident Evil Village](https://images.drivereasy.com/wp-content/uploads/2021/05/browse-local-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
  3) Find the**config** file and open it.
 
  4) Locate**HDRMode** and set the value to**False** .

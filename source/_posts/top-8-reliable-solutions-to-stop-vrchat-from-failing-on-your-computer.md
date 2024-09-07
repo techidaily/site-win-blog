@@ -1,7 +1,7 @@
 ---
 title: Top 8 Reliable Solutions to Stop VRChat From Failing on Your Computer
-date: 2024-09-01T08:51:44.039Z
-updated: 2024-09-02T08:51:44.039Z
+date: 2024-09-06T01:18:40.361Z
+updated: 2024-09-07T01:18:40.361Z
 tags:
   - win11
   - win10
@@ -13,6 +13,12 @@ excerpt: This Article Describes Top 8 Reliable Solutions to Stop VRChat From Fai
 thumbnail: https://thmb.techidaily.com/06e8346e5608d987194209ad6987c897b2a9a9792c4b565af91b063377adb915.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Preventing Star Wars Battlefront II From Crashing on Your Computer - Solutions Inside
 
 Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes that have helped many gamers. In this guide, you’ll learn how to bring your game back to normal and what you can do to avoid bumping into the same issues again.
@@ -30,6 +36,12 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 | **DirectX**   | Version 11                                          | Version 11                                          |
 | **Storage**   | 60 GB available space                               | 60 GB available space                               |
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  If “**Yes my gear is up for running Star Wars: Battlefront 2** “, here are 8 crashing fixes for you to try. You might not need to try them all; just work down the list until you find the one that does the trick.
@@ -65,7 +77,16 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/repair-game.png)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1982461">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 4) Wait for the process to complete.
 
@@ -80,7 +101,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/properties.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115929/19272" target="_top" id="2115929">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115929" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115929/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Select**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES** … button.
 
@@ -91,7 +115,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
  Restart Steam and play your Battlefront 2 again to test the issue. If the game keeps crashing randomly, you can repair the game manually.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: Update your device drivers
 
@@ -111,13 +138,22 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 **OR**
 
  Click**Update All** to update all of your drivers automatically (feel free to try the **[Pro version](https://tools.techidaily.com/drivereasy/download/) ,** which comes with**Full Support** and a**30-day Money-Back Guarantee** . You will be prompted to upgrade when you click Update All).
@@ -127,9 +163,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 4) Restart your PC for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Reset Battlefront 2
 
  If you fail to stop your Battlefront 2 from crashing, you can try to reset your Battlefront 2 settings. Sometimes your game crashing can be triggered by certain settings. Here’s how to do it:
@@ -142,6 +175,12 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  This fix works for most PC users, but if this doesn’t work for your case, don’t worry. There’re a few more fixes you can try.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Revert back to DX11
 
  Many Battlefront 2 players find reverting to DX11 helps reduce random crashes. Here’s how to do it:
@@ -167,7 +206,10 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/compatibility.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  3) Click**Apply** \>**OK** .
 
@@ -175,9 +217,6 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
  This works for many PC players, but if it doesn’t do the trick for you, don’t be upset.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable antivirus software temporarily
 
  Since Battlefront 2 consumes a lot of memory and CPU usage when it’s running, many third-party antivirus applications may regard it as a potential threat and cause Battlefront 2 crashing issues.
@@ -197,6 +236,12 @@ Your**Star Wars: Battlefront 2 keeps crashing** ? We’ve put together 8 fixes t
 
 If the game keeps crashing, you can try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 7: Perform a clean boot
 
  There might be some other conflicting services that stop your Battlefront 2 from working normally. To check if this is your issue, you’ll need to perform a clean boot.
@@ -207,9 +252,6 @@ If the game keeps crashing, you can try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
@@ -219,7 +261,16 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
@@ -230,7 +281,10 @@ If the game keeps crashing, you can try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  7) Restart your PC and launch your Battlefront 2 to see if the game launches normally.
 

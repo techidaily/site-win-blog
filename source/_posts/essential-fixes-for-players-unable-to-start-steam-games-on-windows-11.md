@@ -1,7 +1,7 @@
 ---
 title: Essential Fixes for Players Unable to Start Steam Games on Windows 11
-date: 2024-09-01T08:53:55.906Z
-updated: 2024-09-02T08:53:55.906Z
+date: 2024-09-06T01:18:38.287Z
+updated: 2024-09-07T01:18:38.287Z
 tags:
   - win11
   - win10
@@ -13,10 +13,22 @@ excerpt: This Article Describes Essential Fixes for Players Unable to Start Stea
 thumbnail: https://thmb.techidaily.com/105583134b01cefeafa4fc25f0d100c3206487cae2d19190125a50a9ecf80d6e.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Eliminate Lag and Boost Frame Rates: Essential Fixes to Improve War Thunder Gameplay This Year
 
 Lately, many players have been complaining about War Thunder low FPS after the new update. If you’re also troubled by this annoying problem, don’t worry. Read this guide to see how you can fix it easily & quickly!
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not try them all; simply work your way through the list until you find the one that does the trick.
@@ -28,6 +40,12 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 5. **[Adjust the in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall War Thunder](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1 – Use dedicated GPU
 
  If you get a high-end graphics card for your PC but still sees the significant FPS drops in War Thunder, chances are that the dedicated GPU is not used, and you should manually select it to tackle the computer’s graphical needs. Here’s how:
@@ -52,9 +70,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  The War Thunder low FPS issue is possibly caused by an outdated or a faulty graphics driver. To gain a smooth and optimal gaming experience, you should update your graphics driver on a regular basis.
@@ -81,15 +96,18 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -112,7 +130,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -120,10 +141,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Change your computer’s power plan
 
  Windows set your computer to the Balanced power plan by default. There’s no problem with this option, but if you constantly run into the decreased gaming performance like FPS drops, you should adjust the power settings.
@@ -133,7 +150,10 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/w4-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Select**Small icons** from the drop-down menu next to**View by** and click**Power Options** .
 
@@ -144,12 +164,21 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 5 – Adjust the in-game graphics settings
 
  High or ultra graphics settings sometimes won’t give you the visual effect as you want, but make the game perform worse, especially if your rig is barely above the minimum requirements. If so, the very solution is to lower the settings.
@@ -159,7 +188,16 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 **2)** Turn off**VSync** . Then, set each option under**Advanced Settings** to the lowest, as shown in the picture below.
 
@@ -169,6 +207,12 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 6 – Reinstall War Thunder
 
  If none of the methods above helps you out, you should consider reinstalling the game in case there are some in-depth stubborn issues.
@@ -177,13 +221,16 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Right-click**War Thunder** from the game list and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **3)** Click**Delete** to confirm.
 
  After the uninstallation completes, exit Steam. Also, you need to remove the remaining game files.

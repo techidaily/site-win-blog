@@ -1,7 +1,7 @@
 ---
 title: Fixing Offline Origin Problem – It Works Again
-date: 2024-09-01T08:52:43.871Z
-updated: 2024-09-02T08:52:43.871Z
+date: 2024-09-06T01:18:39.414Z
+updated: 2024-09-07T01:18:39.414Z
 tags:
   - win11
   - win10
@@ -13,12 +13,24 @@ excerpt: This Article Describes Fixing Offline Origin Problem – It Works Again
 thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664a6546275ff549ce8b039784.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixing Offline Origin Problem – It Works Again
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf77b0c44d.png)
 
  Your Origin client can’t get online? Don’t worry… You’re not the only one. Many Origin users have had the same issue occurring on their computers. But more importantly, you should be able to fix this issue very easily
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,6 +41,12 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
 4. [**Reset your hosts file**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset your Internet connection settings**](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 1: Check your computer for viruses or malware
 
  Perhaps you’re having a connection issue with Origin because there is a virus or malware on your computer. They may change your Internet settings or corrupt your computer file so Origin can’t go online. You should run your antivirus software to scan your computer for viruses and malware.
@@ -36,8 +54,10 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
  If this resolves your problem, great! But if not, there are still other fixes you can try…
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 2: Temporarily disable your antivirus
 
@@ -59,6 +79,12 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbc8d302569.jpg)
 
@@ -69,7 +95,10 @@ thumbnail: https://thmb.techidaily.com/d6313d0eee0e4c3ddd1586c5d7e829ff31ae93664
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115948/19272" target="_top" id="2115948">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115948" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115948/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 4: Reset your hosts file
 
@@ -87,6 +116,12 @@ To do so:
 4. Double click**hosts** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd2e1b6cf2.jpg)
 5. Select**Notepad** , then click**OK** .  
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbec88bf79c.jpg)
 6. **Delete** **all the content** of the file, then copy and paste the**following text** into the file.  
 
@@ -132,17 +167,11 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbeef28c918.jpg)
 7. Click**File** , then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf0306507c.jpg)
 8. Check to see if this works for you.
 
 If not, then you may need to…
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reset your Internet connection settings
 
  You may having issues with your computer Internet connection so . You should try resetting them and see if this works for you.
@@ -151,13 +180,19 @@ If not, then you may need to…
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd68d188b6f7.png)
 2. Right click**Command Prompt** in the list of results, then select**Run as administrator** .  
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6a6691c908.jpg)
 3. Type the following lines of command at Command Prompt, and after typing each line, press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ipconfig /release  
 
 ipconfig /renew  

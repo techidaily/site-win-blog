@@ -1,7 +1,7 @@
 ---
 title: Banish Your Outriders Game Crashes - Fixing the 'UE4 Madness' Unreal Engine Bug Successfully
-date: 2024-09-01T08:52:06.510Z
-updated: 2024-09-02T08:52:06.510Z
+date: 2024-09-06T01:18:39.992Z
+updated: 2024-09-07T01:18:39.992Z
 tags:
   - win11
   - win10
@@ -33,7 +33,10 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
  Now you can try launching your Outriders again to see if the problem has gone. But if the Unreal Engine crashing persists, you may want to try the following fixes.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2\. Update your graphics driver
 
@@ -66,6 +69,12 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 3\. Verify the game integrity
 
  Another possible cause of ‘**Unreal process has crashed: UE4-Madness error** ‘ in Outriders is corrupted or missing game files. To check if this is causing the Unreal Engine to crash, you can try this simple troubleshooting:
@@ -76,19 +85,31 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 4\. Force Outriders to run in DX11
 
@@ -101,10 +122,19 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 5\. Launch the game in your game folder
 
  This method has helped many players solve the Unreal Game crashes. If you don’t know the exact installation location of your game, here’s how to do it:
@@ -113,9 +143,6 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/browse.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
@@ -126,6 +153,12 @@ There are mainly two methods for you to update the graphics driver:
 
  Granting enough access and running the game directly worked for many other players. If Outriders is still crashing with ‘Unreal process has crashed: UE4-Madness error’, you can try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 6\. Allow your game to run through Firewall
 
  If the issue persists, you can check if it’s caused by an over-protective Firewall or your Antivirus software (you can temporarily uninstall your antivirus software). To make sure the Windows Defender Firewall is not blocking your game, here’s how:
@@ -136,20 +169,26 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
+  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
 
  Now you can launch your game again to check the ‘Unreal process has crashed: UE4-Madness error’ is gone.

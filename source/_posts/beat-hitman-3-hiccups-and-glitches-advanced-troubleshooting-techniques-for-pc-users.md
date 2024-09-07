@@ -1,7 +1,7 @@
 ---
 title: Beat Hitman 3 Hiccups & Glitches - Advanced Troubleshooting Techniques for PC Users
-date: 2024-09-01T08:51:59.681Z
-updated: 2024-09-02T08:51:59.681Z
+date: 2024-09-06T01:18:40.115Z
+updated: 2024-09-07T01:18:40.115Z
 tags:
   - win11
   - win10
@@ -17,6 +17,12 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -82,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -92,7 +95,10 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
@@ -107,18 +113,33 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2123470/16836" target="_top" id="2123470">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123470" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123470/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -129,21 +150,33 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
@@ -157,9 +190,6 @@ thumbnail: https://thmb.techidaily.com/ae6df8d795ccb00d61125315956262434c01d350a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
