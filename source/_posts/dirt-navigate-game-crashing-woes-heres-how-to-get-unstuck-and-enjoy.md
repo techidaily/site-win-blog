@@ -1,7 +1,7 @@
 ---
 title: Dirt Navigate Game Crashing Woes? Here's How to Get Unstuck & Enjoy
-date: 2024-09-10T15:24:42.686Z
-updated: 2024-09-11T15:24:42.686Z
+date: 2024-09-13T16:54:28.298Z
+updated: 2024-09-16T21:10:56.345Z
 tags:
   - win11
   - win10
@@ -19,27 +19,10 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -51,26 +34,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 4. **[Disable Steam overlay](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 1: Update your graphics driver
 
@@ -91,53 +54,11 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Verify the game files
 
@@ -150,19 +71,12 @@ The outdated or broken graphics driver often crashes the game.
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 3: Install the latest game patch
 
@@ -172,19 +86,12 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Disable Steam Overlay
 
@@ -194,6 +101,13 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
@@ -230,8 +144,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,56 +151,16 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-live-action-to-youtube-recording-your-device-display/"><u>[New] 2024 Approved From Live Action to YouTube Recording Your Device Display</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-vibrant-voices-audible-updates-to-whatsapp/"><u>[New] 2024 Approved Vibrant Voices Audible Updates to WhatsApp</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-preparing-your-environment-zoom-room-configuration-tips/"><u>[New] Preparing Your Environment Zoom Room Configuration Tips</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-how-to-optimize-zoom-effectiveness-during-your-google-meet/"><u>[Updated] How to Optimize Zoom Effectiveness During Your Google Meet</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-sky-high-savings-the-least-expensive-drones-on-market/"><u>2024 Approved Sky-High Savings The Least Expensive Drones on Market</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-ultimate-list-of-free-got-tune-sources/"><u>2024 Approved Ultimate List of Free GoT Tune Sources</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011561495-battlefield-5-launch-failures-unlock-the-quick-and-effective-solutions-june-2024-edition/"><u>Battlefield 5 Launch Failures? Unlock the Quick and Effective Solutions - June 2024 Edition!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-effective-solutions-to-tackle-2024s-warzone-display-glitches/"><u>Boost Your Gameplay: Effective Solutions to Tackle 2024'S Warzone Display Glitches</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquer-the-wait-how-to-smooth-out-gameplay-by-fixing-high-lag-issues-in-back-4-blood/"><u>Conquer the Wait: How to Smooth Out Gameplay by Fixing High Lag Issues in Back 4 Blood</u></a></li>
-<li><a href="https://network-issues.techidaily.com/correcting-win11-monitors-absence-of-fullscreen/"><u>Correcting Win11 Monitor's Absence of Fullscreen</u></a></li>
-<li><a href="https://win-answers.techidaily.com/davinci-resolve-not-opening-heres-what-you-need-to-do-for-a-quick-solution/"><u>DaVinci Resolve Not Opening? Here's What You Need to Do for a Quick Solution</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-overcoming-gray-zone-warfare-crashes-in-pc-edition/"><u>Effective Solutions for Overcoming Gray Zone Warfare Crashes in PC Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-preventing-discords-packet-loss-dilemma/"><u>Effective Solutions for Preventing Discord's Packet Loss Dilemma</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/effective-techniques-to-overcome-stuck-recovery-mode-on-your-iphone/"><u>Effective Techniques to Overcome 'Stuck' Recovery Mode on Your iPhone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elevating-your-fps-on-valheim-comprehensive-202ammo-the-latest-techniques-to-enhance-your-gaming-smoothness/"><u>Elevating Your FPS on Valheim - Comprehensive 202Ammo, the Latest Techniques to Enhance Your Gaming Smoothness.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminating-unexpected-shutdowns-and-crashes-during-the-witcher-3-gaming-sessions/"><u>Eliminating Unexpected Shutdowns and Crashes During The Witcher 3 Gaming Sessions</u></a></li>
-<li><a href="https://games-able.techidaily.com/facilitating-ps5-multiplayer-links/"><u>Facilitating PS5 Multiplayer Links</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/flawlessrecorder-suite-w10-edition/"><u>FlawlessRecorder Suite W10 Edition</u></a></li>
-<li><a href="https://driver-install.techidaily.com/get-easy-installation-broadcom-bt400-drivers-for-windows/"><u>Get Easy Installation: Broadcom BT400 Drivers for Windows</u></a></li>
-<li><a href="https://howto.techidaily.com/google-play-services-wont-update-12-fixes-are-here-on-motorola-edge-40-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Google Play Services Wont Update? 12 Fixes are Here on Motorola Edge 40 | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/how-to-fix-windows-10-boot-issue-the-ultimate-guide-to-restoring-functional-f8-key/"><u>How to Fix Windows 10 Boot Issue: The Ultimate Guide to Restoring Functional F8 Key</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-hidefake-snapchat-location-on-your-vivo-v30-lite-5g-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Vivo V30 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-cloud-sync-failed-on-steam-expert-tips-and-fixes/"><u>How to Overcome 'Cloud Sync Failed' On Steam: Expert Tips & Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-rainbow-six-extraction-from-freezing-or-crashing-on-your-computer/"><u>How to Stop Rainbow Six Extraction From Freezing or Crashing on Your Computer</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-dose-life360-notify-me-when-someone-checks-my-location-on-honor-90-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Dose Life360 Notify Me When Someone Checks My Location On Honor 90 Pro? | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-forgot-apple-iphone-12-pro-backup-password-heres-what-to-do-drfone-by-drfone-ios/"><u>In 2024, Forgot Apple iPhone 12 Pro Backup Password? Heres What to Do | Dr.fone</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximize-your-snapshots-on-android/"><u>In 2024, Maximize Your Snapshots on Android</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-smooth-discordean-experiences-advanced-troubleshooting-tips/"><u>Mastering Smooth Discordean Experiences: Advanced Troubleshooting Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-crashes-expert-tips-for-a-smooth-guilty-gear-strive-experience-on-windows/"><u>No More Crashes: Expert Tips for a Smooth Guilty Gear Strive Experience on Windows</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/nostalgia-packed-guide-unveiling-the-timeless-charm-of-super-mario-bros-in-a-vintage-game-and-watch-device/"><u>Nostalgia-Packed Guide: Unveiling the Timeless Charm of Super Mario Bros. In a Vintage Game & Watch Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-performance-tips-for-reducing-cpu-usage-in-phasmophobia/"><u>Optimizing Performance: Tips for Reducing CPU Usage in Phasmophobia</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-platform-hurdles-the-much-anticipated-la-noire-now-launches-on-windows-devices/"><u>Overcome Platform Hurdles: The Much-Anticipated 'L.A. Noire' Now Launches on Windows Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-initialization-errors-in-nier-automata-remastered-game/"><u>Overcoming Initialization Errors in NieR Automata Remastered Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-startup-problems-launching-origin-successfully-in-windows-11/"><u>Overcoming Startup Problems: Launching 'Origin' Successfully in Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-game-crash-during-endgame-heres-how-you-can-stop-it/"><u>PC Game Crash During Endgame? Here's How You Can Stop It!</u></a></li>
-<li><a href="https://extra-support.techidaily.com/photographic-journey-to-cinematic-expression-using-pixizs-tools-for-2024/"><u>Photographic Journey to Cinematic Expression Using Pixiz's Tools for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-league-of-legends-rejoin-the-game-glitch-update-2024/"><u>Resolved League of Legends 'Rejoin the Game' Glitch Update - 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-addressing-the-security-breach-alert-in-your-favorite-game/"><u>Resolved: Addressing the 'Security Breach' Alert in Your Favorite Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-overcoming-connection-issues-with-steams-online-services/"><u>Resolved: Overcoming Connection Issues with Steam's Online Services</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-granblue-fantasy-issues-troubleshooting-the-relink-feature/"><u>Resolving Granblue Fantasy Issues: Troubleshooting the 'Relink' Feature</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-chrome-from-freezing-in-windows-11-effective-strategies/"><u>Stop Chrome From Freezing in Windows 11: Effective Strategies</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/tailoring-twitter-video-thumbnails-a-step-by-step-guide/"><u>Tailoring Twitter Video Thumbnails A Step-by-Step Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-building-brand-awareness-best-practices-for-snapchat/"><u>In 2024, Building Brand Awareness Best Practices for Snapchat</u></a></li>
+<li><a href="https://fox-access.techidaily.com/nikon-1j5-takes-video-to-the-next-level-with-its-4k-features-for-2024/"><u>Nikon 1J5 Takes Video to the Next Level with Its 4K Features for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-troubleshooting-tips-for-the-persistent-crashes-in-gas-station-manager-game/"><u>PC Troubleshooting Tips for the Persistent Crashes in Gas Station Manager Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/roller-champions-2024-crossplay-strategies-and-tips-for-aspiring-pc-gamers/"><u>Roller Champions 2024 Crossplay Strategies and Tips for Aspiring PC Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011275996-say-goodbye-to-madden-22-loading-deadlock-proven-fixes-and-tips-inside/"><u>Say Goodbye to Madden 22 Loading Deadlock: Proven Fixes & Tips Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solving-bloodhunts-crashes-and-skips-on-windows/"><u>Troubleshooting Guide: Solving Bloodhunt's Crashes and Skips on Windows</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unlocking-the-secrets-of-high-conversion-rates-in-youtube-banner-designs-for-2024/"><u>Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-perform-a-successful-streaming-on-twitch-for-2024/"><u>Updated How To Perform a Successful Streaming on Twitch for 2024</u></a></li>
 </ul></div>
-
-
-
 

@@ -1,7 +1,7 @@
 ---
 title: Common Reasons Behind Gas Station Game Crashing Episodes on Personal Computers (PC)
-date: 2024-09-10T15:22:39.162Z
-updated: 2024-09-11T15:22:39.162Z
+date: 2024-09-11T05:44:39.220Z
+updated: 2024-09-16T18:07:31.476Z
 tags:
   - win11
   - win10
@@ -17,33 +17,10 @@ thumbnail: https://thmb.techidaily.com/cd918524a7d7688c6ef6414ad8dfa9dc1bddfeb0b
 
 Released on March 26, 2021,**It Takes Two** is currently topping the Steam charts as the global top seller. The game features a friend pass system, which means you can invite a friend online to play the game with you after you purchase the game. For many players, it is by far the best cooperative experience they ever had. However, there are still some players complaining that**It Takes Two crashes on their PC** . If you’re running into the same issue, don’t worry, you’ve come to the right place.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes
 
@@ -65,41 +42,7 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 2. Click the**Installed Files** tab, then click**Verify integrity of game files** . Wait for the verification to be completed.  
 ![Steam - how to verify integrity of game files](https://www.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 2: Update graphics driver
 
@@ -111,19 +54,12 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 
 There are mainly two ways you can update your graphics drivers:
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Option 1: Manually
 
@@ -157,8 +93,23 @@ There are mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
 
@@ -173,20 +124,6 @@ There are mainly two ways you can update your graphics drivers:
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
@@ -206,20 +143,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If this issue persists after you stop overclocking, try the next fix, below.
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ## Fix 6: Update or reinstall DirectX files
 
  Most games require DirectX 11 to run properly, and It Takes Two is no exception. If there’s a problem with DirectX, the game would crash on startup. If that’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -228,20 +151,6 @@ There are mainly two ways you can update your graphics drivers:
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
 
@@ -261,8 +170,6 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,49 +177,20 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/1723006139210-pathfinder-wrath-of-the-righteous-error-free-gaming-experience-achieved/"><u>'Pathfinder: Wrath of the Righteous' Error-Free Gaming Experience Achieved!</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-2024-approved-examining-recordcasts-capabilities-through-honest-lenses/"><u>[New] 2024 Approved Examining RecordCast's Capabilities Through Honest Lenses</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/new-unleash-the-past-sharing-snaps-from-your-camera-roll-for-2024/"><u>[New] Unleash the Past - Sharing Snaps From Your Camera Roll for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-unmasking-falsified-follower-fabrications-on-feeds/"><u>[Updated] 2024 Approved Unmasking Falsified Follower Fabrications on Feeds</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-amplify-sales-discover-the-leading-15-facebook-monitoring-tools/"><u>[Updated] In 2024, Amplify Sales Discover the Leading 15 Facebook Monitoring Tools</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-unique-vlogging-conversation-pieces/"><u>[Updated] In 2024, Unique Vlogging Conversation Pieces</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722992481669-beat-the-lag-advanced-fixes-for-improving-fallout-nuked-earths-quality-how-to-optimize-your-fps-now/"><u>Beat the Lag: Advanced Fixes for Improving Fallout Nuked Earth's Quality - How to Optimize Your FPS Now</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/boosting-office-productivity-how-to-integrate-chatgpt-into-your-daily-routine/"><u>Boosting Office Productivity: How to Integrate ChatGPT Into Your Daily Routine</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquer-steam-server-errors-with-these-proven-fixing-techniques/"><u>Conquer Steam Server Errors with These Proven Fixing Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-battlenet-launcher-failures-on-microsoft-windows-systems/"><u>Effective Fixes for 'Battle.net Launcher' Failures on Microsoft Windows Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-resolving-your-sea-of-thieves-sudden-crashes/"><u>Expert Guide: Resolving Your Sea of Thieves Sudden Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-pc-start-up-problem-with-cod-black-ops-cold-war-expert-tips/"><u>Fix Your PC Start-Up Problem with Cod: Black Ops Cold War - Expert Tips</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-missing-your-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>How to identify missing your hardware drivers with Windows Device Manager on Windows 11</u></a></li>
-<li><a href="https://techidaily.com/how-to-reset-poco-x6-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X6 Without the Home Button | Dr.fone</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-exploring-the-best-audio-capture-technology-for-apple-devices/"><u>In 2024, Exploring the Best Audio Capture Technology for Apple Devices</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-pc-screen-to-tecno-spark-20c-phones-drfone-by-drfone-android/"><u>In 2024, How to Mirror PC Screen to Tecno Spark 20C Phones? | Dr.fone</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/in-2024-step-by-step-to-mastering-adobes-cloud-storage-capabilities-and-options/"><u>In 2024, Step-by-Step to Mastering Adobe's Cloud Storage Capabilities & Options</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-smooth-gameplay-steps-to-prevent-overwatch-from-stalling-and-freezing/"><u>Mastering Smooth Gameplay: Steps to Prevent Overwatch From Stalling and Freezing</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/moviecraft-analysis-in-depth-exploration/"><u>MovieCraft Analysis – In-Depth Exploration</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011399287-multiversus-stability-issues-solved-discover-the-8-most-effective-fixes/"><u>MultiVersus Stability Issues Solved: Discover the 8 Most Effective Fixes</u></a></li>
-<li><a href="https://meme-emoji.techidaily.com/new-2024-approved-how-to-make-your-own-emoji-in-2-ways-step-by-step-guide/"><u>New 2024 Approved How to Make Your Own Emoji in 2 Ways Step-By Step Guide</u></a></li>
-<li><a href="https://ai-driven-video-production.techidaily.com/new-2024-approved-tiktok-video-reversal-made-easy-a-beginners-guide-2023-edition/"><u>New 2024 Approved TikTok Video Reversal Made Easy A Beginners Guide 2023 Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-pc-gaming-experience-for-fluid-playthrough-of-assassins-creed-valhalla-stuttering-no-more/"><u>Optimizing PC Gaming Experience for Fluid Playthrough of Assassin's Creed Valhalla – Stuttering No More</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-your-ark-system-breakdowns-with-these-proven-fixes/"><u>Overcome Your ARK System Breakdowns With These Proven Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-robloxs-stubborn-loading-phase-proven-fixes/"><u>Overcoming Roblox's Stubborn Loading Phase: Proven Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-technical-issues-in-insurgency-solving-the-ongoing-sandstorm-crash-problem/"><u>Overcoming Technical Issues in Insurgency: Solving the Ongoing 'Sandstorm' Crash Problem</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-dayzones-performance-issues-a-2024-guide-to-stable-play/"><u>Resolving DayZones Performance Issues: A 2024 Guide to Stable Play</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-rocket-league-startup-problems-a-step-by-step-guide/"><u>Resolving Rocket League Startup Problems – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-found-no-more-everspace-2-crashes-on-pc-optimize-your-gameplay-now/"><u>Solution Found! No More Everspace 2 Crashes on PC – Optimize Your Gameplay Now</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/solutions-to-spy-on-xiaomi-redmi-note-12r-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>Solutions to Spy on Xiaomi Redmi Note 12R with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-valheims-lag-issues-for-windows-users-tips-and-tricks/"><u>Solving Valheim's Lag Issues for Windows Users - Tips & Tricks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-7-solutions-to-bypass-the-frozen-load-moment-in-forza-horizon-5/"><u>Top 7 Solutions to Bypass the Frozen Load Moment in Forza Horizon 5</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-smoothing-out-v-gameplay-lag-on-your-computer/"><u>Troubleshooting Steps for Smoothing Out 'V' Gameplay Lag on Your Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-stop-v-rising-from-freezing-or-crashing-on-pc/"><u>Troubleshooting Tips: Stop V Rising From Freezing or Crashing on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-fixes-to-get-the-hit-ps4-game-days-gone-running-on-your-computer/"><u>Ultimate Fixes to Get the Hit PS4 Game, Days Gone Running on Your Computer</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/innacle-10-sound-superchargers-pc-mac-and-phones/"><u>[New] Pinnacle 10 Sound Superchargers PC, Mac & Phones</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-a-primer-on-using-azures-voice-to-text-service/"><u>2024 Approved A Primer on Using Azure's Voice-to-Text Service</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-persistent-loading-screens-in-minecraft-fixes-that-work/"><u>Dealing With Persistent Loading Screens in Minecraft – Fixes That Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2-troubleshooting-getting-reconnected-after-losing-server-access-solved/"><u>Destiny 2 Troubleshooting: Getting Reconnected After Losing Server Access [SOLVED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-windows-instability-with-everscape-2-a-comprehensive-guide/"><u>Diagnosing and Repairing Windows Instability with Everscape 2 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-optimize-minecraft-graphics-and-fix-stutters-on-windows-and-macs-latest-techniques/"><u>How to Optimize Minecraft Graphics and Fix Stutters on Windows & Macs - Latest Techniques</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-poco-x6-pro-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on Poco X6 Pro</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-6-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 6</u></a></li>
+<li><a href="https://facebook.techidaily.com/post-away-from-pics-lessons-learned-in-disconnecting/"><u>Post Away From Pics: Lessons Learned in Disconnecting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-solution-for-pc-bugs-mastering-assassins-creed-odyssey-stability/"><u>Seamless Solution for PC Bugs: Mastering Assassin's Creed Odyssey Stability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-instagram-with-8-unique-unboxing-video-ideas/"><u>Transform Your Instagram with 8 Unique Unboxing Video Ideas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-entry-point-not-detected-hurdle-in-fortnite-gaming/"><u>Troubleshooting the 'Entry Point Not Detected' Hurdle in Fortnite Gaming</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unlock-the-secrets-to-effective-ai-communication-tailored-strategies-for-fitness-enthusiasts-on-chatgpt-prompt-writing/"><u>Unlock the Secrets to Effective AI Communication: Tailored Strategies for Fitness Enthusiasts on ChatGPT Prompt Writing</u></a></li>
 </ul></div>
-
-
-
 

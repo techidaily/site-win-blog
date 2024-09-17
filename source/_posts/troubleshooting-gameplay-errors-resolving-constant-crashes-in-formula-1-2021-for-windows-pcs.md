@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Gameplay Errors: Resolving Constant Crashes in Formula 1 2021 for Windows PCs"
-date: 2024-09-10T15:25:01.922Z
-updated: 2024-09-11T15:25:01.922Z
+date: 2024-09-16T06:24:44.421Z
+updated: 2024-09-16T22:41:57.866Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/4d82cc5d4830160f77be1be23b3b0d5c8cbc630ac
 
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -50,36 +47,8 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
-
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -94,34 +63,8 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
@@ -149,37 +92,17 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123482/16836" target="_top" id="2123482">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123482" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123482/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5 – Set launch options
 
@@ -193,34 +116,27 @@ So does the crash go away now? If not, there is the last fix to try.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -240,8 +156,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -249,61 +163,18 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/onstructive-approaches-to-defeating-digital-trolls/"><u>[New] Constructive Approaches to Defeating Digital Trolls</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-in-2024-maximize-your-ios-for-ps2-gaming-with-best-emulators/"><u>[New] In 2024, Maximize Your IOS for PS2 Gaming with Best Emulators</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-itunes-not-recognizing-iphone-on-windows-11/"><u>[SOLVED] iTunes Not Recognizing iPhone on Windows 11</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-elevate-your-facebook-voice-with-gratuitous-enhancement-tools/"><u>[Updated] Elevate Your Facebook Voice with Gratuitous Enhancement Tools</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-mastering-time-lapse-android-tips-and-tricks/"><u>[Updated] Mastering Time-Lapse Android Tips & Tricks</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-navigate-facebooks-video-playback-like-a-pro/"><u>[Updated] Navigate Facebook's Video Playback Like a Pro</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-subtitles-that-shine-discover-the-best-free-online-tools/"><u>2024 Approved Subtitles That Shine - Discover the Best Free Online Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/banish-left-4-dead-2-game-breaking-closes-with-easy-fixes/"><u>Banish Left 4 Dead 2 Game-Breaking Closes with Easy Fixes!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011579434-batman-arkham-knight-gameplay-issues-fix-your-crashingfatal-error-woes-here/"><u>Batman: Arkham Knight Gameplay Issues? Fix Your Crashing/Fatal Error Woes Here!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boosting-lost-ark-frame-rates-fixes-for-persistent-lag-and-slowdown-concerns/"><u>Boosting Lost Ark Frame Rates: Fixes for Persistent Lag and Slowdown Concerns</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dragon-age-inquisition-not-opening-expert-guide-to-overcome-common-startup-issues/"><u>Dragon Age Inquisition Not Opening: Expert Guide to Overcome Common Startup Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-fixes-for-when-steam-games-wont-start-after-upgrading-to-windows-11/"><u>Effective Fixes for When Steam Games Won't Start After Upgrading to Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhanced-bioshock-2-revisited-patched-issues-and-superior-performance-guaranteed/"><u>Enhanced Bioshock 2 Revisited – Patched Issues and Superior Performance Guaranteed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhancing-baldurs-gate-iii-strategies-to-manage-and-fix-elevated-cpu-usage/"><u>Enhancing Baldur's Gate III - Strategies to Manage and Fix Elevated CPU Usage</u></a></li>
-<li><a href="https://win-blog.techidaily.com/experience-seamless-gaming-overcoming-common-roblox-launch-glitches/"><u>Experience Seamless Gaming: Overcoming Common Roblox Launch Glitches</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-correcting-failed-installations-of-ds4-device-drivers-in-windows/"><u>Expert Advice: Correcting Failed Installations of DS4 Device Drivers in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fast-solutions-how-to-get-steamvr-up-and-running-again/"><u>Fast Solutions: How To Get SteamVR Up and Running Again</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-ubisoft-connect-issues-a-comprehensive-guide/"><u>Fixing Ubisoft Connect Issues : A Comprehensive Guide</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/gamings-top-titan-an-in-depth-review-of-why-xbox-one-x-stands-alone-atop-the-console-hierarchy/"><u>Gaming's Top Titan: An In-Depth Review of Why Xbox One X Stands Alone Atop the Console Hierarchy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-ready-to-play-last-epoch-on-pc-addressing-the-release-hurdles-of-2024/"><u>Get Ready to Play Last Epoch on PC – Addressing the Release Hurdles of 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-your-gta-5-running-smoothly-again-fixing-the-launch-problem/"><u>Get Your GTA 5 Running Smoothly Again - Fixing the Launch Problem</u></a></li>
-<li><a href="https://win-blog.techidaily.com/getting-past-the-hurdles-with-call-of-duty-modern-warfare-3-launch-issues-and-solutions/"><u>Getting Past the Hurdles with Call of Duty: Modern Warfare 3 Launch Issues & Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-the-stuttering-problem-in-fallout-76-gameplay/"><u>How to Fix the Stuttering Problem in Fallout 76 Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-sony-vegas-pro-from-continuously-crashing/"><u>How to Prevent Sony Vegas Pro From Continuously Crashing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-discord-from-closing-unexpectedly-a-complete-walkthrough/"><u>How to Stop Discord From Closing Unexpectedly - A Complete Walkthrough</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-htc-u23-pro-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock HTC U23 Pro PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Best Phone Monitoring Apps for Samsung Galaxy A05 | Dr.fone</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-step-by-step-tutorial-how-to-bypass-vivo-s17t-frp-by-drfone-android/"><u>In 2024, Step-by-Step Tutorial How To Bypass Vivo S17t FRP</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/leading-titles-unveiling-the-top-8-mobile-games-to-play-now/"><u>Leading Titles: Unveiling the Top 8 Mobile Games to Play Now</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-game-effective-techniques-to-prevent-freezing-in-minecraft-on-your-windows-or-mac-updated-for-players/"><u>Mastering the Game: Effective Techniques to Prevent Freezing in Minecraft on Your Windows or Mac, Updated for Players</u></a></li>
-<li><a href="https://games-able.techidaily.com/navigating-the-benefits-of-quick-resume-on-new-xbox-console/"><u>Navigating the Benefits of Quick Resume on New Xbox Console</u></a></li>
-<li><a href="https://win-blog.techidaily.com/navigating-the-problematic-launch-sequence-of-armored-core-vi-a-deep-dive-into-fixing-fires-of-rubicon-boot-errors/"><u>Navigating the Problematic Launch Sequence of Armored Core VI: A Deep-Dive Into Fixing Fires of Rubicon Boot Errors</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-freezes-overcome-ark-community-survivals-pc-downloads-and-play-smoothly-again/"><u>No More Freezes! Overcome ARK: Community Survival's PC Downloads & Play Smoothly Again</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-players-rejoice-as-death-stranding-bugs-are-squashed/"><u>PC Players Rejoice as Death Stranding Bugs Are Squashed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-troubles-heres-how-you-can-stop-praey-from-crashing/"><u>PC Troubles? Here's How You Can Stop Praey From Crashing!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/scavengers-crashing-on-pc-solved/"><u>Scavengers Crashing On PC [SOLVED]</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-preventing-fortnite-video-memory-overflow-issues/"><u>Solution Guide: Preventing Fortnite Video Memory Overflow Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-battlenet-wont-open-dilemma-with-these-tips-2024-update/"><u>Solve Your Battle.net Won’t Open Dilemma with These Tips - 2024 Update</u></a></li>
-<li><a href="https://win-blog.techidaily.com/subnautica-fixed-below-zero-stability-issues-resolved-for-smooth-pc-gaming/"><u>Subnautica [FIXED]: Below Zero Stability Issues Resolved for Smooth PC Gaming</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-black-desert-online-pc-crashes-solutions-for-smoother-gameplay/"><u>Troubleshooting Black Desert Online PC Crashes: Solutions for Smoother Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-preventing-the-mass-effect-legendary-edition-from-crashing-on-pc-and-xbox/"><u>Troubleshooting Steps: Preventing the Mass Effect Legendary Edition From Crashing on PC and Xbox</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-ps4-system-crashes-with-easy-fix-steps/"><u>Ultimate Guide: Resolving PS4 System Crashes with Easy Fix Steps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-to-arma-3-crashes-in-2e4-latest-tips-and-hacks/"><u>Ultimate Troubleshooting Guide to Arma 3 Crashes in 2E4 | Latest Tips and Hacks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unraveling-and-resolving-nvidia-geforce-error-0x0003-a-detailed-tutorial/"><u>Unraveling and Resolving NVIDIA GeForce Error 0X0003: A Detailed Tutorial</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/updated-how-to-find-the-best-instrumental-background-music-for-videos-in-2024/"><u>Updated How to Find The Best Instrumental Background Music for Videos, In 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/users-can-now-log-into-origin-after-fixing-previous-online-connection-hurdle/"><u>Users Can Now Log Into Origin After Fixing Previous Online Connection Hurdle</u></a></li>
-<li><a href="https://win-blog.techidaily.com/zenith-of-zest-triple-legged-tower-insight/"><u>Zenith of Zest: Triple-Legged Tower Insight</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-effortless-video-extraction-with-funimate-tools/"><u>[New] 2024 Approved Effortless Video Extraction with Funimate Tools</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-seamless-social-sharing-upload-a-twt/"><u>[New] Seamless Social Sharing Upload a Twt</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-journey-towards-facebooks-premium-verified-emblem-for-2024/"><u>[Updated] Journey Towards Facebook's Premium Verified Emblem for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-panorama-pixels-cutting-edge-photo-assembler/"><u>2024 Approved Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-savvy-how-to-download-status-vids-on-fb/"><u>2024 Approved Social Media Savvy How to Download Status Vids on FB</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-uncovered-by-tom-top-picks-and-performance-tips/"><u>Advanced Hardware Uncovered by Tom: Top Picks and Performance Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-to-get-saints-row-game-up-and-launching-on-pc-platforms/"><u>Easy Fixes to Get Saints Row Game Up and Launching on PC Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fixes-for-windows-11-taskbar-not-working-easy-diy-troubleshooting-steps/"><u>Expert Fixes for Windows 11 Taskbar Not Working - Easy DIY Troubleshooting Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-smoothing-out-gameplay-and-achieving-high-frame-rates-fps-this-year/"><u>Expert Tips for Smoothing Out Gameplay & Achieving High Frame Rates (FPS) This Year</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-pre-launch-challenges-essential-advice-for-lifesaving-company-fixes/"><u>Overcoming Pre-Launch Challenges: Essential Advice for Lifesaving Company Fixes</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/understanding-hue-and-saturation-gopro-studio-edition-for-2024/"><u>Understanding Hue and Saturation GoPro Studio Edition for 2024</u></a></li>
 </ul></div>
-
-
-
 

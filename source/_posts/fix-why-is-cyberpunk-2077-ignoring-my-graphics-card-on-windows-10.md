@@ -1,7 +1,7 @@
 ---
 title: "Fix: Why Is Cyberpunk 2077 Ignoring My Graphics Card on Windows 10?"
-date: 2024-09-10T15:24:02.365Z
-updated: 2024-09-11T15:24:02.365Z
+date: 2024-09-15T19:18:44.420Z
+updated: 2024-09-17T03:19:56.289Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/9e69a0e784bd3ae3dd472d66f7b82a73a597b4e83
 
 It seems that strings of bugs come along with the release of[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47) , as many players are reporting**a game not using GPU issue** . While this problem might seem weird, it’s not hard to fix at all. Here we’ll wake you through the fixes and get your GPU working right away.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -33,20 +30,6 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
@@ -85,53 +68,21 @@ To do so, first visit the website of your graphics card manufacturer:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424528">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -143,18 +94,12 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
@@ -163,56 +108,16 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Install all Windows updates
 
@@ -239,8 +144,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,53 +151,23 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/fixed-age-of-empires-2-wont-launch-on-windows-10/"><u>[FIXED] Age of Empires 2 Won’t Launch on Windows 10</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/new-2024-approved-framerate-and-quality-in-game-recorders-explored/"><u>[New] 2024 Approved Framerate and Quality in Game Recorders Explored</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-the-ultimate-farming-revamp-7-14-mod-comparison-guide/"><u>[New] 2024 Approved The Ultimate Farming Revamp #7-14 Mod Comparison Guide</u></a></li>
-<li><a href="https://some-skills.techidaily.com/updated-transform-your-footage-with-fast-and-flawless-trims-in-windows-11/"><u>[Updated] Transform Your Footage with Fast & Flawless Trims in Windows 11</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/2024-approved-content-choice-conundrum-is-podcasting-right-or-should-you-go-for-youtube/"><u>2024 Approved Content Choice Conundrum Is Podcasting Right, Or Should You Go for YouTube?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battlefield-2042-fps-fix-solving-drops-and-stutter-issues-on-your-gaming-pc/"><u>Battlefield 2042 FPS Fix: Solving Drops and Stutter Issues on Your Gaming PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-lag-top-tips-to-accelerate-your-steam-gameplay/"><u>Beat the Lag: Top Tips to Accelerate Your Steam Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquer-ghost-recon-breakpoint-glitches-with-ease-and-speed/"><u>Conquer 'Ghost Recon Breakpoint' Glitches with Ease & Speed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquer-zooms-cpu-drain-your-ultimate-fixes-and-tweaks-revealed/"><u>Conquer Zoom's CPU Drain: Your Ultimate Fixes and Tweaks Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conquering-the-unresponsive-battlenet-challenge-a-detailed-fixing-guide/"><u>Conquering the Unresponsive Battle.net Challenge - A Detailed Fixing Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-resolving-cs2-lag-issues-and-smoothing-out-gameplay/"><u>Effective Solutions: Resolving CS2 Lag Issues and Smoothing Out Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/efficiently-managing-high-resource-usage-in-cyberpunk-2077-a-comprehensive-guide/"><u>Efficiently Managing High Resource Usage in Cyberpunk 2077: A Comprehensive Guide</u></a></li>
-<li><a href="https://blue-screen-error.techidaily.com/expert-advice-on-handling-kernel-level-heap-damage-for-optimal-performance/"><u>Expert Advice on Handling Kernel Level Heap Damage for Optimal Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-fixing-bugs-and-crashes-in-nwstoreexe-efficiently/"><u>Expert Advice: Fixing Bugs and Crashes in NW_store.exe Efficiently</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-and-fixes-for-persistent-crashing-in-the-game-persona-4-golden/"><u>Expert Tips and Fixes for Persistent Crashing in the Game, Persona 4 Golden</u></a></li>
-<li><a href="https://win-blog.techidaily.com/god-of-war-comes-to-life-with-a-new-first-person-shooter-gameplay-now-on-pc/"><u>God of War Comes to Life with a New First-Person Shooter Gameplay - Now on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-to-resolving-assassins-creed-odyssey-pc-malfunctions-swift-and-simple-solutions-available/"><u>Guide to Resolving 'Assassin's Creed Odyssey' PC Malfunctions – Swift and Simple Solutions Available!</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/how-does-openais-shap-e-enhance-machine-learning-interpretation/"><u>How Does OpenAI's Shap-E Enhance Machine Learning Interpretation?</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-activate-and-use-life360-ghost-mode-on-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How To Activate and Use Life360 Ghost Mode On Infinix GT 10 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-top-12-prominent-nokia-c12-plus-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Nokia C12 Plus Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/mastering-lock-screen-settings-how-to-enable-and-disable-on-nokia-105-classic-by-drfone-android/"><u>Mastering Lock Screen Settings How to Enable and Disable on Nokia 105 Classic</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-smooth-playthroughs-tackling-new-worlds-lag-and-jitter-problems/"><u>Mastering Smooth Playthroughs: Tackling New World’s Lag and Jitter Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-freezing-problems-in-fallout-3-when-running-on-windows-10-systems/"><u>Overcoming Freezing Problems in Fallout 3 When Running on Windows 10 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-freezing-problems-when-playing-nier-reincarnation-a-comprehvew-guide/"><u>Overcoming Freezing Problems When Playing NieR Re[In]carnation – A Comprehvew Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-initial-loading-problems-with-the-elder-scrolls-online-effective-fixes-and-strategies/"><u>Overcoming Initial Loading Problems with The Elder Scrolls Online: Effective Fixes and Strategies</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/photo-fables-the-best-ios-and-android-text-apps-for-pictures/"><u>Photo Fables The Best iOS & Android Text Apps for Pictures</u></a></li>
-<li><a href="https://win-blog.techidaily.com/qc35-ii-deep-dive-elevating-your-listening-experience/"><u>QC35 II Deep Dive - Elevating Your Listening Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/roblox-loading-issues-resolved-overcoming-stuck-screens/"><u>Roblox Loading Issues Resolved – Overcoming Stuck Screens</u></a></li>
-<li><a href="https://win-blog.techidaily.com/say-goodbye-to-freezing-frames-fixing-fallout-4-glitches-for-seamless-playtime/"><u>Say Goodbye to Freezing Frames: Fixing Fallout 4 Glitches for Seamless Playtime</u></a></li>
-<li><a href="https://blog-min.techidaily.com/seamless-mkv-to-avi-transformation-for-mac-users-expert-tips-and-tricks/"><u>Seamless MKV to AVI Transformation for Mac Users: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-division-2-crash-woes-quickly-with-these-simple-steps/"><u>Solve Your Division 2 Crash Woes Quickly with These Simple Steps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-issue-stable-gameplay-avoid-escape-from-tarkov-crashes-on-pc/"><u>Solved Issue: Stable Gameplay - Avoid Escape From Tarkov Crashes on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-correct-the-error-0xc1901e1-in-windows-11/"><u>Step-by-Step Guide to Correct the 'Error 0xC1901E1' In Windows 11</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-fix-for-missing-shelldll-error-messages-in-windows-systems/"><u>The Ultimate Fix for Missing Shell.dll Error Messages in Windows Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-high-disk-space-and-cpu-load-by-wsappx-tips-and-fixes/"><u>Troubleshooting High Disk Space and CPU Load by WSAPPX: Tips & Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-snapchat-camera-problem-no-input-detected-solution/"><u>Troubleshooting Snapchat Camera Problem: No Input Detected Solution</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-the-fixed-football-manager-2022-pc-freezing-problems/"><u>Troubleshooting Tips for the Fixed Football Manager 2022 PC Freezing Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723004973688-untangling-the-problems-in-call-of-duty-wwii-decoding-error-4128/"><u>Untangling the Problems in Call of Duty: WWII - Decoding Error 4128!</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/virtual-paths-to-fitness-ranking-elite-treadmills/"><u>Virtual Paths to Fitness Ranking Elite Treadmills</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-for-designing-an-engaging-youtube-teaser/"><u>[Updated] In 2024, Best Practices for Designing an Engaging YouTube Teaser</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-tailor-your-insta-experience-no-more-suggestions/"><u>[Updated] Tailor Your Insta Experience No More Suggestions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-blackout-troubleshooting-top-tips-to-restore-your-game-visuals/"><u>Cyberpunk 2077 Blackout Troubleshooting – Top Tips to Restore Your Game Visuals</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discovering-hidden-secrets-access-and-display-hidden-files-in-macos-via-terminal/"><u>Discovering Hidden Secrets: Access and Display Hidden Files in macOS via Terminal</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-13c-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 13C Pattern Lock Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/gptzero-guide-detecting-synthetic-text-with-ease/"><u>GPTZero Guide: Detecting Synthetic Text with Ease</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-c65-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco C65 Phone that is Locked?</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-smart-7-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Smart 7 to iPad | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-srgb-advantages-over-regular-rgb/"><u>In 2024, Srgb Advantages Over Regular Rgb</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-in-multiversus-mastering-the-top-8-strategies-for-reliable-gaming/"><u>No More Crashes in MultiVersus: Mastering the Top 8 Strategies for Reliable Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezes-resolving-tribes-of-midgard-stability-problems/"><u>No More Freezes - Resolving 'Tribes of Midgard' Stability Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-pc-reducing-new-worlds-cpu-consumption/"><u>Optimizing Your PC: Reducing 'New World's CPU Consumption</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-starting-problems-with-outriders-game-for-pc-users/"><u>Overcoming Starting Problems with Outriders Game for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-get-your-utorrent-running-again-with-7-key-fixes/"><u>Troubleshooting: How To Get Your Utorrent Running Again With 7 Key Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wrc-10-on-pc-overcome-crashing-problems-and-optimize-your-racing-experience-for-windows/"><u>WRC 10 on PC - Overcome Crashing Problems & Optimize Your Racing Experience for Windows</u></a></li>
 </ul></div>
-
-
-
 

@@ -1,7 +1,7 @@
 ---
 title: Effective Ways to Fix Your Video Card Error When Playing The Sims 4
-date: 2024-09-10T15:28:46.643Z
-updated: 2024-09-11T15:28:46.643Z
+date: 2024-09-13T20:15:56.106Z
+updated: 2024-09-16T20:39:31.522Z
 tags:
   - win11
   - win10
@@ -29,33 +29,10 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 [**Download Now**](https://www.fortect.com/go/route-dz.php?channel=dz&d=t&banner=drivereasyen87812)
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ## Try these fixes…
 
@@ -97,35 +74,8 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 ### Fix 3: Disable Windows Firewall
 
@@ -135,68 +85,29 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4: Update the network drivers
 
@@ -213,40 +124,14 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-714.png)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-715.png)
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 4. Run Minecraft and check whether you can connect to the world.
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -254,20 +139,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 If this fix can’t help, you can move to the next.
 
 ---
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Change the settings
 
@@ -289,19 +160,12 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 7: Use a VPN
 
@@ -315,6 +179,13 @@ If this fix can’t help, you can move to the next.
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
 
@@ -344,8 +215,6 @@ If this fix can’t help, you can move to the next.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -353,52 +222,14 @@ If this fix can’t help, you can move to the next.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/avatar-frontiers-of-pandora-improve-gameplay-with-these-essential-tweaks-for-better-frame-rates-and-smoother-graphics/"><u>'Avatar: Frontiers of Pandora' – Improve Gameplay with These Essential Tweaks for Better Frame Rates & Smoother Graphics</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-step-by-step-save-movs-on-windows-10/"><u>[New] In 2024, Step-by-Step Save MOVs on Windows 10</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-instaboomtown-building-community-with-loop-videos/"><u>[New] InstaBoomtown Building Community with Loop Videos</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-thriving-in-the-facebook-ecosystem-money-making-strategies/"><u>[New] Thriving in the Facebook Ecosystem Money-Making Strategies</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-superior-fb-extra-tools-video-grabs-firefox-version/"><u>[Updated] 2024 Approved Superior FB Extra Tools Video Grabs, Firefox Version</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-depth-app-examination-azs-recording-and-alternatives-for-2024/"><u>[Updated] In-Depth App Examination - AZ's Recording & Alternatives for 2024</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/updated-innovating-sound-quality-top-6-recommendations-for-streamers-for-2024/"><u>[Updated] Innovating Sound Quality Top 6 Recommendations for Streamers for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-legal-free-fb-tunes-downloader/"><u>[Updated] Legal, Free FB Tunes Downloader</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ed-verifying-ad-revenue-for-channels/"><u>[Updated] Verifying Ad Revenue for Channels</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-pixel-perfect-free-mobile-photography-booster/"><u>2024 Approved Pixel Perfect Free Mobile Photography Booster</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/be-a-social-media-wizard-best-tweeter-video-tools/"><u>Be a Social Media Wizard Best Tweeter Video Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-street-fighter-6-crashes-expert-fixes-to-keep-you-fighting/"><u>Beat Street Fighter 6 Crashes: Expert Fixes to Keep You Fighting</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-buffering-effective-ways-to-tackle-latency-issues-in-forza-horizon-5/"><u>Beat the Buffering: Effective Ways to Tackle Latency Issues in Forza Horizon 5</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-xiaomi-redmi-a2plus-device-sim-by-drfone-android/"><u>Easily Unlock Your Xiaomi Redmi A2+ Device SIM</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011803020-effortless-steps-get-your-discord-overlay-back-up-and-running-now/"><u>Effortless Steps: Get Your Discord Overlay Back Up and Running Now</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-a-seamless-jurassic-world-evolution-gaming-experience-no-more-crashes/"><u>Expert Tips for a Seamless Jurassic World Evolution Gaming Experience - No More Crashes!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/halo-infinite-pc-version-solving-the-constant-crash-issues/"><u>Halo Infinite PC Version: Solving the Constant Crash Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-restore-windows-spotlight-feature-when-it-stops-working-on-windows-11/"><u>How to Restore Window's Spotlight Feature When It Stops Working on Windows 11</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-syncing-to-success-unveiling-youtubes-musical-shortcuts/"><u>In 2024, Syncing to Success Unveiling YouTube's Musical Shortcuts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-diablo-4-performance-fix-the-crashes-with-these-7-simple-steps-on-any-console/"><u>Mastering Diablo 4 Performance: Fix the Crashes with These 7 Simple Steps on Any Console</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-motion-blur-aadobe-photoshop-tutorial-for-2024/"><u>Mastering Motion Blur AAdobe Photoshop Tutorial for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-smooth-gameplay-in-eldn-ring-swift-solutions-for-frame-rate-drop-offs-and-hiccups/"><u>Mastering Smooth Gameplay in Eldn Ring: Swift Solutions for Frame Rate Drop-Offs & Hiccups</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gamers-rejoice-detroit-become-human-now-plays-smoothly-no-more-pc-crashes/"><u>PC Gamers Rejoice: Detroit: Become Human Now Plays Smoothly, No More PC Crashes!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-gaming-relief-resolve-r-type-final-2s-crashing-dilemma-with-these-tips/"><u>PC Gaming Relief: Resolve R-Type Final 2'S Crashing Dilemma with These Tips</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/propel-your-virtual-presence-with-these-gadgets/"><u>Propel Your Virtual Presence with These Gadgets</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-to-stop-ghost-recon-breakpoint-from-crashing-instantly/"><u>Quick Solutions to Stop Ghost Recon Breakpoint From Crashing Instantly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/smooth-sailing-with-the-repaired-fnaf-security-breach-game-for-pc-say-goodbye-to-crashes/"><u>Smooth Sailing with the Repaired FNAF Security Breach Game for PC – Say Goodbye to Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-found-why-google-chrome-was-unresponsive-and-how-to-solve-it/"><u>Solution Found: Why Google Chrome Was Unresponsive and How to Solve It</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-fortnite-lag-woes-with-these-proven-techniques/"><u>Solve Your Fortnite Lag Woes with These Proven Techniques</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/top-20-country-anthems-from-tiktoks-chillest-stations-for-2024/"><u>Top 20 Country Anthems From TikTok's Chillest Stations for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-strategies-to-overcome-directx-troubles-and-play-battlefield-2e22-smoothly/"><u>Top Strategies to Overcome DirectX Troubles and Play Battlefield 2E22 Smoothly</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/troubleshoot-and-rectify-non-responsive-printer-on-nt/"><u>Troubleshoot and Rectify Non-Responsive Printer on NT</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-pc-crashes-while-playing-hearthstone/"><u>Troubleshooting Guide: Eliminating PC Crashes While Playing Hearthstone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolve-lost-ark-game-failure-on-start-up-guide/"><u>Troubleshooting Steps: Resolve 'Lost Ark' Game Failure on Start-Up – Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-a-frozen-qbittorent-session/"><u>Troubleshooting: Steps to Resolve a Frozen qBittorent Session</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-purchasing-and-downloading-oculus-quest-2-games/"><u>Ultimate Guide: Purchasing & Downloading Oculus Quest ^2 Games</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unfreeze-pathfinder-gaming-experience-wrath-of-the-righteous-troubleshooting-tips-for-pc-users/"><u>Unfreeze Pathfinder Gaming Experience: Wrath of the Righteous Troubleshooting Tips for PC Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlocking-a-smooth-experience-resolving-continuous-pc-malfunctions-during-the-enhanced-metro-exodus/"><u>Unlocking a Smooth Experience: Resolving Continuous PC Malfunctions During the Enhanced Metro Exodus</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-monetary-spectrum-a-glimpse-into-mr-beasts-world/"><u>[New] 2024 Approved Monetary Spectrum A Glimpse Into Mr. Beast’s World</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/exploring-the-capabilities-of-sj-cam-s6-for-2024/"><u>Exploring the Capabilities of SJ-CAM S6 for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-oppo-a18-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Oppo A18 to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-release-saga-of-immortals-fenyx-rising-finally-ends-detailed-analysis-inside/"><u>The Release Saga of Immortals Fenyx Rising Finally Ends - Detailed Analysis Inside!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-smooth-gameplay-tips-for-fixing-fortnite-loading-glitches/"><u>Unlock Smooth Gameplay - Tips for Fixing Fortnite Loading Glitches!</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-2024-approved-5-excellent-free-options-to-rotate-mov-files/"><u>Updated 2024 Approved 5 Excellent Free Options to Rotate MOV Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valheim-wont-start-heres-how-to-resolve-the-game-launch-problems/"><u>Valheim Won't Start ? Here's How to Resolve the Game Launch Problems</u></a></li>
 </ul></div>
-
-
-
 

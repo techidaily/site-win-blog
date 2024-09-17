@@ -1,7 +1,7 @@
 ---
 title: "Victory over Glitches: Tips & Solutions for a Smooth Diablo 3 Gaming Experience"
-date: 2024-09-10T15:23:49.814Z
-updated: 2024-09-11T15:23:49.814Z
+date: 2024-09-10T20:45:13.000Z
+updated: 2024-09-16T22:31:36.162Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 
  With Psychonauts 2 released recently, some players have reported that the game keeps crashing on their PC while in-game or at launch. If you’re facing the same issue, don’t worry. In this post, you’ll learn how to fix Psychonauts 2 crashing issues easily and quickly.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -37,20 +34,6 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 4. **[Launch the game in DX11 mode](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check your firewall and antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Psychonauts 2](https://tools.techidaily.com/drivereasy/download/)**
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 1: Make sure your PC meets the minimum requirements
 
@@ -86,6 +69,13 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 
 If the issue persists, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of game files
 
  If the game’s files are missing or corrupted, you may experience crashing while playing Psychonauts 2\. To fix the issue, you can have Steam verify that the game’s files are installed correctly on your computer. Here’s how:
@@ -95,25 +85,19 @@ If the issue persists, go ahead with the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties.jpg)
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
 Once done, relaunch Psychonauts 2 to see if the problem is resolved.
 
 If the crashing issue remains, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Launch the game in DX11 mode
 
@@ -129,19 +113,12 @@ If the crashing issue remains, continue to the next fix.
 
 If this fix doesn’t do the trick, try the next fix.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 5: Check your firewall and antivirus settings
 
@@ -153,102 +130,36 @@ Allow Psychonauts 2 through Windows Firewall:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
+  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
 
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
 
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135356/19272" target="_top" id="2135356">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135356" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135356/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
 ### Fix 6: Reinstall Psychonauts 2
 
@@ -266,8 +177,6 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -275,49 +184,23 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-maximizing-profits-from-short-youtube-videos/"><u>[Updated] In 2024, Maximizing Profits From Short YouTube Videos</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-key-disparities-in-360-degree-and-vr-videos/"><u>[Updated] The Key Disparities in 360-Degree & VR Videos</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-top-10-game-recorder-software-list/"><u>[Updated] Top 10 Game Recorder Software List</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-mac-and-windows-compatible-srt-boosters-the-elite-list-of-10/"><u>2024 Approved Mac & Windows Compatible SRT Boosters The Elite List of 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ace-your-gaming-solve-apex-legends-load-failures-fast-and-easy/"><u>Ace Your Gaming: Solve Apex Legends Load Failures Fast & Easy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-dragons-dogma-2-crash-on-pc-with-these-proven-fixes-a-step-by-step-walkthrough/"><u>Beat Dragon's Dogma 2 Crash on PC with These Proven Fixes: A Step-by-Step Walkthrough</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elevating-your-fps-on-valheim-comprehensive-202ammo-the-latest-techniques-to-enhance-your-gaming-smoothness/"><u>Elevating Your FPS on Valheim - Comprehensive 202Ammo, the Latest Techniques to Enhance Your Gaming Smoothness.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723009240635-elevation-keeping-the-injured-body-part-elevated-above-heart-level-when-possible-encourages-fluid-drainage-and-reduces-edema-swelling/"><u>Elevation: Keeping the Injured Body Part Elevated Above Heart Level, when Possible, Encourages Fluid Drainage and Reduces Edema (Swelling).</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723004507464-epic-games-launcher-black-screen-trouble-heres-how-you-can-get-it-working-again/"><u>Epic Games Launcher Black Screen Trouble? Here’s How You Can Get It Working Again</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-for-rapid-repair-of-a-non-functional-epic-games-launcher/"><u>Expert Advice for Rapid Repair of a Non-Functional Epic Games Launcher</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-resolving-pc-game-crashes-in-the-world-of-dauntless/"><u>Expert Advice: Resolving PC Game Crashes in the World of Dauntless</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-successfully-launching-grand-theft-auto-5-when-it-refuses-to-open/"><u>Expert Tips for Successfully Launching Grand Theft Auto 5 When It Refuses to Open</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-on-getting-past-the-deadlock-when-your-deathloop-wont-start/"><u>Expert Tips on Getting Past the Deadlock - When Your Deathloop Won't Start</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994747909-fix-your-civilization-6-startup-troubles-under-windows-10-with-these-simple-solutions/"><u>Fix Your Civilization 6 Startup Troubles Under Windows 10 With These Simple Solutions!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixed-a-step-by-step-guide-when-doom-eternal-refuses-to-open-on-your-pc/"><u>Fixed! A Step-by-Step Guide When DOOM Eternal Refuses to Open on Your PC</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/how-to-change-your-apple-id-password-on-your-iphone-15-pro-by-drfone-ios/"><u>How To Change Your Apple ID Password On your iPhone 15 Pro</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-restore-wiped-videos-on-motorola-edge-2023-by-fonelab-android-recover-video/"><u>How to restore wiped videos on Motorola Edge 2023</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-frequent-crashes-in-world-of-tanks-blitz/"><u>How to Stop Frequent Crashes in 'World of Tanks Blitz'</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-easy-ways-to-factory-reset-a-locked-apple-iphone-se-2020-without-itunes-drfone-by-drfone-ios/"><u>In 2024, 3 Easy Ways to Factory Reset a Locked Apple iPhone SE (2020) Without iTunes | Dr.fone</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-an-airtag-from-your-apple-id-account-from-iphone-14-by-drfone-ios/"><u>In 2024, How to Remove an AirTag from Your Apple ID Account From iPhone 14?</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-use-allshare-cast-to-turn-on-screen-mirroring-on-oppo-a38-drfone-by-drfone-android/"><u>In 2024, How To Use Allshare Cast To Turn On Screen Mirroring On Oppo A38 | Dr.fone</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-step-by-step-backlink-blueprint-for-channel-growth/"><u>In 2024, Step-by-Step Backlink Blueprint for Channel Growth</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/leading-external-cddvd-burners-and-players-for-2e24-your-buying-comparison-chart/"><u>Leading External CD/DVD Burners and Players for 2E24 - Your Buying Comparison Chart</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-smooth-discordean-experiences-advanced-troubleshooting-tips/"><u>Mastering Smooth Discordean Experiences: Advanced Troubleshooting Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/mastering-technology-top-reviews-of-new-hardware-features-by-tom-systems/"><u>Mastering Technology: Top Reviews of New Hardware Features by Tom Systems</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/mastering-the-connection-linking-oculus-quest-2-to-a-handheld-device-efficiently/"><u>Mastering the Connection: Linking Oculus Quest 2 to a Handheld Device Efficiently</u></a></li>
-<li><a href="https://win-blog.techidaily.com/navigating-around-nwstoreexe-issues-strategies-for-smooth-operation/"><u>Navigating Around NW_Store.exe Issues: Strategies for Smooth Operation</u></a></li>
-<li><a href="https://ai-video.techidaily.com/new-translate-video-from-japanese-to-english-online-for-free/"><u>New Translate Video From Japanese to English Online for Free</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-collapses-essential-tips-for-stabilizing-a-crash-prone-rust-application/"><u>No More Collapses: Essential Tips for Stabilizing a Crash-Prone Rust Application.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-news-yet-why-is-diablo-immortal-still-not-out-for-desktop/"><u>No News Yet: Why Is Diablo Immortal Still Not Out for Desktop?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-overcoming-connection-issues-with-steams-online-services/"><u>Resolved: Overcoming Connection Issues with Steam's Online Services</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-granblue-fantasy-issues-troubleshooting-the-relink-feature/"><u>Resolving Granblue Fantasy Issues: Troubleshooting the 'Relink' Feature</u></a></li>
-<li><a href="https://driver-download.techidaily.com/resolving-startech-device-drivers-troubles-on-windows-11-8-and-7-a-comprehensive-guide/"><u>Resolving StarTech Device Drivers Troubles on Windows 11, 8 & 7: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-strategies-for-when-minecraft-wont-start-properly/"><u>Solution Strategies for When Minecraft Won't Start Properly</u></a></li>
-<li><a href="https://techtrends.techidaily.com/troubleshooting-missing-zlibdll-error-a-comprehensive-guide/"><u>Troubleshooting Missing zlib.dll Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-excellent-cameras-facing-panel-first-choice/"><u>[New] Excellent Cameras Facing Panel First Choice</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-triggering-instant-play-for-youtube-videos-on-social-media/"><u>[New] Triggering Instant Play for YouTube Videos on Social Media</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-lose-yourself-to-laughter-best-10-jokes-for-2024/"><u>[Updated] Lose Yourself to Laughter Best 10 Jokes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-lag-from-your-street-fighter-groove-expert-fixes-for-a-smooth-gaming-experience/"><u>Banish LAG From Your Street Fighter Groove: Expert Fixes for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/effective-strategies-for-implementing-user-tags-in-office-365-team-chats-and-comments/"><u>Effective Strategies for Implementing User Tags in Office 365 Team Chats and Comments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-frequent-crashes-in-praey-for-the-overlord-when-played-on-pc/"><u>Expert Tips to Resolve Frequent Crashes in Praey for the Overlord When Played on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnite-woes-defeated-a-step-by-step-solution-to-eliminating-the-windows-blackout-glitch/"><u>Fortnite Woes Defeated? A Step-by-Step Solution to Eliminating the Windows Blackout Glitch</u></a></li>
+<li><a href="https://android-location.techidaily.com/how-to-fake-gps-on-android-without-mock-location-for-your-oneplus-nord-n30-se-drfone-by-drfone-virtual/"><u>How to Fake GPS on Android without Mock Location For your OnePlus Nord N30 SE | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-effortless-capture-procedure-guiding-you-through-macos-screen-record/"><u>In 2024, Effortless Capture Procedure Guiding You Through macOS Screen Record</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-expertise-in-image-colors-pro-techniques-revealed/"><u>In 2024, Expertise in Image Colors Pro Techniques Revealed</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-precision-in-proiphone-close-up-a-guide-to-professional-results/"><u>In 2024, Precision in Proiphone Close-Up A Guide to Professional Results</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-the-ultimate-guide-to-improving-chromebook-tone-with-top-voice-extensions/"><u>In 2024, The Ultimate Guide to Improving Chromebook Tone with Top Voice Extensions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-flight-simulator-2020-overcome-update-issues-and-get-back-in-the-sky/"><u>Microsoft Flight Simulator 2020 - Overcome Update Issues & Get Back In The Sky</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-installation-hurdles-successfully-starting-far-cry-6-on-your-computer/"><u>Overcoming Installation Hurdles – Successfully Starting Far Cry 6 on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-your-fortnite-endless-loop-of-the-load-screen/"><u>Resolved: Troubleshooting Your Fortnite Endless Loop of the Load Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-windows-pc-screen-shimmer-in-google-chrome-a-comprehensive-2024-update/"><u>Ultimate Guide: Resolving Windows PC Screen Shimmer in Google Chrome - A Comprehensive 2024 Update</u></a></li>
 </ul></div>
-
-
-
 

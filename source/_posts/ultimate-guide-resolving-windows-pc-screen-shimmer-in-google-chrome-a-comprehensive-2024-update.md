@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving Windows PC Screen Shimmer in Google Chrome - A Comprehensive 2024 Update"
-date: 2024-09-10T15:21:27.465Z
-updated: 2024-09-11T15:21:27.465Z
+date: 2024-09-15T03:02:13.575Z
+updated: 2024-09-17T07:01:28.175Z
 tags:
   - win11
   - win10
@@ -19,13 +19,10 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  If you’re experiencing this frustrating issue now, take a deep breath and try the fixes below.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -53,19 +50,12 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 3: Hard reset Chrome
 
@@ -77,85 +67,44 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-491.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **3)** On your keyboard, press the**Windows logo** key and**R** at the same time to invoke the Run dialog.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-61.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **4)** Type**%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data** in the box and click**OK** .
 
 ![This image has an empty alt attribute; its file name is image-501.png](https://images.drivereasy.com/wp-content/uploads/2019/05/image-501.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **5)** Copy the**Default** folder and place the copy in another location to back it up. Then, delete the original Default folder.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-493.png)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Try opening Chrome to test your issue. If you still can’t launch Chrome properly, don’t worry. Move on to fix 4, below.
 
@@ -171,19 +120,6 @@ Reset Chrome in safe mode
  Open Chrome, then click the **menu button** and select **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-28-36.jpg)
 3. **Click Advanced at the bottom.**  
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Click **Advanced** at the bottom.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-10.jpg)
@@ -210,37 +146,22 @@ Reset Chrome in safe mode
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-499.png)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Right-click**Google Chrome** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-500.png)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **4)** Download and install **[Chrome](https://www.google.com/chrome/)**  .
 
@@ -258,8 +179,6 @@ Reset Chrome in safe mode
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,48 +186,16 @@ Reset Chrome in safe mode
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/024-approved-iosandroid-comparison-youtube-app-explored/"><u>[New] 2024 Approved IOS/Android Comparison YouTube App Explored</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-call-of-duty-warzone-crashing-on-pc-2024/"><u>[SOLVED] Call of Duty Warzone Crashing on PC - 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/2024-approved-a-step-by-step-approach-for-flawless-instagrams/"><u>2024 Approved A Step-by-Step Approach for Flawless Instagrams</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-motorola-defy-2-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Motorola Defy 2 Hard Reset | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/6-simple-methods-to-restore-oculus-links-working-display/"><u>6 Simple Methods to Restore Oculus Link's Working Display</u></a></li>
-<li><a href="https://howto.techidaily.com/8-solutions-to-solve-youtube-app-crashing-on-google-pixel-7a-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Solutions to Solve YouTube App Crashing on Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013654381-beat-saber-not-working-heres-how-you-can-stop-it-from-freezing-and-crashing/"><u>Beat Saber Not Working? Here's How You Can Stop It From Freezing and Crashing!</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/breaking-down-instagrams-timeframe-per-video/"><u>Breaking Down Instagram's Timeframe Per-Video</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-steps-to-overcome-directx-errors-while-playing-fifa-nineteene/"><u>Easy Steps to Overcome DirectX Errors While Playing FIFA ˈnineteēne</u></a></li>
-<li><a href="https://win-blog.techidaily.com/efficient-tweaks-advanced-techniques-to-optimize-shaders-in-swbfii/"><u>Efficient Tweaks: Advanced Techniques to Optimize Shaders in SWBFII</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-of-the-ascent-crashing-problems-a-comprehensive-guide-for-players/"><u>End of 'The Ascent' Crashing Problems: A Comprehensive Guide for Players</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhance-counter-strike-global-offensive-gaming-with-these-frame-rate-fixes-no-more-fps-fluctuations/"><u>Enhance Counter-Strike Global Offensive Gaming with These Frame Rate Fixes - No More FPS Fluctuations!</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/expertly-reviewed-elite-selection-of-uninterruptible-power-supplies/"><u>Expertly Reviewed, Elite Selection of Uninterruptible Power Supplies</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-launch-issues-with-crusader-kings-ii-solutions-inside/"><u>Fixing Launch Issues with Crusader Kings II - Solutions Inside</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-naraka-bladepoint-gameplay-disruption-expert-advice/"><u>Fixing the 'Naraka: Bladepoint' Gameplay Disruption - Expert Advice</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-halo-infinites-dark-screen-flaw-problem-no-more/"><u>How to Fix Halo Infinite's Dark Screen Flaw – Problem No More</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-circle-everything-you-need-to-know-on-tecno-spark-20c-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Circle Everything You Need to Know On Tecno Spark 20C | Dr.fone</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-passfab-apple-iphone-6-backup-unlocker-top-4-alternatives-drfone-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 6 Backup Unlocker Top 4 Alternatives | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-tales-of-arise-a-guide-to-debugging-ue4-critical-failures-successfully/"><u>Mastering Tales of Arise: A Guide to Debugging UE4 Critical Failures Successfully</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-cpu-usage-for-a-smoother-phasmophobia-gaming-experience/"><u>Optimizing CPU Usage for a Smoother Phasmophobia Gaming Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-twitch-errors-a-comprehensive-guide-to-fixing-non-loading-live-videos/"><u>Overcome Twitch Errors: A Comprehensive Guide to Fixing Non-Loading Live Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/possible-solutions-to-restore-deleted-call-logs-from-xiaomi-redmi-12-by-fonelab-android-recover-call-logs/"><u>Possible solutions to restore deleted call logs from Xiaomi Redmi 12</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722995215946-ps4-stuck-a-complete-guide-to-unfreeze-your-console-easy-steps/"><u>PS4 Stuck? A Complete Guide to Unfreeze Your Console - Easy Steps!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-solutions-overcome-fortnite-sign-in-failures-now/"><u>Quick Solutions: Overcome Fortnite Sign-In Failures Now</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixing-your-league-of-legends-network-connectivity-problems/"><u>Resolved: Fixing Your League of Legends Network Connectivity Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-resolving-stutter-and-boosting-fps-in-your-naraka-bladepoint-experience/"><u>Step-by-Step Guide to Resolving Stutter and Boosting FPS in Your Naraka: Bladepoint Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-fixing-problems-with-the-clownfish-voice-modifier/"><u>Step-by-Step Guide: Fixing Problems with the Clownfish Voice Modifier</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-resolving-nvidia-control-panel-failure-to-launch/"><u>Step-by-Step Guide: Resolving NVIDIA Control Panel Failure to Launch</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-game-crashes-with-these-confirmed-remedies-for-helldivers-ve-pc/"><u>Stop Game Crashes with These Confirmed Remedies for Helldivers Ve PC</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-5-tracking-apps-to-track-xiaomi-redmi-k70-without-them-knowing-drfone-by-drfone-virtual-android/"><u>Top 5 Tracking Apps to Track Xiaomi Redmi K70 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-tactics-to-combat-frustrating-dips-in-your-gamings-frame-per-second-fps-ratings/"><u>Top Tactics to Combat Frustrating Dips in Your Gaming's Frame Per Second (FPS) Ratings</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-for-solving-audio-continuous-video-freezing-problems-in-google-chrome-and-mozilla-firefox-on-youtube/"><u>Troubleshooting Techniques for Solving Audio-Continuous, Video-Freezing Problems in Google Chrome & Mozilla Firefox on YouTube</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-maplestory-crashes-on-windows-10-2023-edition/"><u>Ultimate Guide: Resolving MapleStory Crashes on Windows 10 - 2023 Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlocking-roller-champions-crossplay-potential-on-your-pc-a-gamers-essential-playbook/"><u>Unlocking Roller Champions' Crossplay Potential on Your PC – A Gamer’s Essential Playbook</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-pioneering-youtube-success-stories-via-tubebuddy/"><u>[New] 2024 Approved Pioneering YouTube Success Stories via TubeBuddy</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-beyond-the-screen-a-vr-odyssey/"><u>[Updated] Beyond the Screen A VR Odyssey</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-step-by-step-guide-to-masterful-snapchat-editing-for-2024/"><u>[Updated] Step-by-Step Guide to Masterful Snapchat Editing for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/best-iphone-email-clients-of-2024-our-picks/"><u>Best iPhone Email Clients of 2024: Our Picks</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/exporting-mp3-files-from-watched-facebook-vids/"><u>Exporting MP3 Files From Watched Facebook Vids</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-stuck-loader-challenge-in-your-minecraft-gameplay/"><u>Overcoming the 'Stuck Loader' Challenge in Your Minecraft Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-woes-solved-why-does-lost-ark-keep-quitting-and-how-you-can-stop-it-now/"><u>PC Woes Solved! Why Does 'Lost Ark' Keep Quitting and How You Can Stop It Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-malfunctioning-msi-dragon-center/"><u>Troubleshooting and Repairing Malfunctioning MSI Dragon Center</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-continuous-crashes-in-insurgency-sandstorm/"><u>Troubleshooting Guide: Fixing Continuous Crashes in 'Insurgency: Sandstorm'.</u></a></li>
 </ul></div>
-
-
-
 

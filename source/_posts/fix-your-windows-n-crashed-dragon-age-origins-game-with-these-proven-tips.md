@@ -1,7 +1,7 @@
 ---
 title: "Fix Your Windows N-Crashed Dragon Age: Origins Game with These Proven Tips"
-date: 2024-09-10T15:26:41.300Z
-updated: 2024-09-11T15:26:41.300Z
+date: 2024-09-14T06:49:50.248Z
+updated: 2024-09-16T21:06:12.428Z
 tags:
   - win11
   - win10
@@ -17,13 +17,10 @@ thumbnail: https://thmb.techidaily.com/41ecffa399c4641eb478bbc9a56d686246cf56f42
 
 Are you seeing Warcraft 3 Reforged crashing constantly at startup or during gameplay, and making multiple attempts to relaunch but all to no avail? We know this can be totally annoying, but don’t worry, here are 6 fixes for you to solve the issue easily and quickly.
 
-
 >  Disclaimer: This post includes affiliate links
 >
 >  If you click on a link and make a purchase, I may receive a commission at no extra cost to you.
 >
-
-
 
 ## Try these fixes
 
@@ -95,26 +92,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-4.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -124,20 +101,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ---
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 ### Fix 3 – Set high priority for Warcraft 3 Reforged
 
  Setting a specific application to high priority will make it access more system resources than other running software and thus play smoothly. So, you can boost the priority level for Warcraft 3 Reforged and see how it works.
@@ -146,45 +109,38 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **2)** Click the**Details** tab. Then, right-click**Warcraft 3\. exe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Mouse over**Set priority** and then click**Above normal** or**High** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Re-open Warcraft 3 Reforged and see if the crashing issue is fixed. If not, continue to troubleshoot with the next fix below.
 
 ---
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 ### Fix 4 – Close background applications
 
@@ -194,43 +150,9 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **2)** Right-click each resource-hogging application, and then click **End task**  to close them one by one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-2-3.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
@@ -254,59 +176,37 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-2.jpg)
 
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
-
 **3)** Click**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-3.jpg)
 
-
-
-
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374820">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-
-
-
 
 **4)** Make sure**VSync** is turned off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Set each of the parameters under Graphical Quality to**Low** or**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-1.jpg)
-
-
-
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-
-
 
  After applying the lower settings, restore Warcraft 3 Reforged and the crashing problem should be gone.
 
@@ -322,8 +222,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -331,51 +229,20 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-how-to-zoom-inout-in-instagram-stories-for-2024/"><u>[Updated] How to Zoom In/Out in Instagram Stories for 2024</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-innovative-strategies-for-keeping-a-log-of-whatsapp-calls-for-2024/"><u>[Updated] Innovative Strategies for Keeping a Log of WhatsApp Calls for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-quintessential-cinematic-language/"><u>[Updated] Quintessential Cinematic Language</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-understanding-instagrams-chord-of-musical-law/"><u>[Updated] Understanding Instagram’s Chord of Musical Law</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/2024-approved-growth-hurdle-cleared-500-subscribers-win/"><u>2024 Approved Growth Hurdle Cleared 500 Subscribers Win</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-leading-steadicam-choices-for-improved-dslr-footage/"><u>2024 Approved Leading Steadicam Choices for Improved DSLR Footage</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-mastering-video-capture-in-adobe-presenter/"><u>2024 Approved Mastering Video Capture in Adobe Presenter</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-precisionsync-analyst-perspectives/"><u>2024 Approved PrecisionSync Analyst Perspectives</u></a></li>
-<li><a href="https://win-blog.techidaily.com/addressing-and-correcting-reduced-fps-in-pc-games-like-farming-simulator-22-effective-solutions-explored/"><u>Addressing and Correcting Reduced FPS in PC Games Like Farming Simulator 22: Effective Solutions Explored</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cold-war-game-crash-fix-resolving-the-endless-loading-issue-on-pc-and-console/"><u>Cold War Game Crash Fix: Resolving the Endless Loading Issue on PC and Console</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-steps-to-resolve-nwstoreexe-app-crashes-and-boost-performance/"><u>Easy Steps to Resolve NW_Store.exe App Crashes and Boost Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-black-desert-online-pc-malfunctions-a-step-by-step-guide/"><u>End Black Desert Online PC Malfunctions – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/experience-days-gone-on-pc-new-release-alert/"><u>Experience Days Gone on PC - New Release Alert</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-on-mending-the-problem-of-unresponsive-outlook-launching/"><u>Expert Advice on Mending the Problem of Unresponsive Outlook Launching</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/explore-creative-boundaries-with-high-quality-affects-plug-ins-for-2024/"><u>Explore Creative Boundaries with High-Quality Affects Plug-Ins for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722992875086-f1-2021-for-windows-users-no-more-crashes-with-these-easy-fixes/"><u>F1 2021 for Windows Users - No More Crashes with These Easy Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-steam-issues-how-to-get-steam-games-running-again-on-windows-11/"><u>Fix Your Steam Issues: How to Get Steam Games Running Again on Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-resident-evil-village-performance-lags-on-pc-a-comprehensive-guide/"><u>Fixing Resident Evil Village Performance Lags on PC: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/geforce-experience-error-resolution-a-step-by-step-walkthrough-for-users/"><u>GeForce Experience Error Resolution - A Step-by-Step Walkthrough for Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-avoid-and-fix-phasmophobia-game-glitches-the-2024-edition/"><u>How to Avoid and Fix Phasmophobia Game Glitches: The 2024 Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722993822668-how-to-stop-microsoft-edge-from-crashing-on-windows-10-systems/"><u>How to Stop Microsoft Edge From Crashing on Windows 10 Systems</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-honor-magic-6-lite-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Honor Magic 6 Lite to Roku | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-behind-the-scenes-how-to-master-voice-manipulation-with-free-tools/"><u>In 2024, Behind the Scenes How to Master Voice Manipulation with Free Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/inside-scoop-why-guilty-gear-strive-delayed-release-has-gamers-buzzing/"><u>Inside Scoop: Why 'Guilty Gear Strive' Delayed Release Has Gamers Buzzing</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/instagrams-rising-stars-discover-the-magic-behind-their-growth-in-9-steps/"><u>Instagram's Rising Stars Discover the Magic Behind Their Growth in 9 Steps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723012676689-no-more-glitches-in-jurassic-world-evolution-ultimate-crash-solution-revealed/"><u>No More Glitches in Jurassic World Evolution – Ultimate Crash Solution Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-the-frozen-launcher-solutions-for-far-cry-5-display-issues/"><u>Overcome the Frozen Launcher: Solutions for Far Cry 5 Display Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-issue-performance-slowdown-in-the-elder-scrolls-onlines-blackwood-expansion/"><u>Resolved Issue: Performance Slowdown in The Elder Scrolls Online's Blackwood Expansion</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-the-new-world-continues-to-experience-frequent-freezes/"><u>Resolved: The New World Continues to Experience Frequent Freezes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-for-madden-22-continuous-loading-problems-on-pcconsole/"><u>Solution Guide for Madden 22 Continuous Loading Problems on PC/Console</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-pc-issues-steps-to-prevent-house-flipper-2-from-crashing/"><u>Solving PC Issues: Steps to Prevent House Flipper 2 From Crashing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/spellbreak-stability-enhancements-for-windows-users-no-more-crashes/"><u>Spellbreak Stability Enhancements for Windows Users - No More Crashes</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/still-using-pattern-locks-with-motorola-edge-40-pro-tips-tricks-and-helpful-advice-by-drfone-android/"><u>Still Using Pattern Locks with Motorola Edge 40 Pro? Tips, Tricks and Helpful Advice</u></a></li>
-<li><a href="https://win-dash.techidaily.com/1722956854906-there-must-be-no-clear-right-choice-in-the-situation/"><u>There Must Be No Clear Right Choice in the Situation.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/understanding-the-initial-confusion-how-elden-ring-finally-hit-shelves/"><u>Understanding the Initial Confusion: How Elden Ring Finally Hit Shelves</u></a></li>
-<li><a href="https://win-blog.techidaily.com/valorant-trouble-how-to-successfully-initialize-the-vanguard-agent-skin/"><u>Valorant Trouble? How to Successfully Initialize the Vanguard Agent Skin</u></a></li>
-<li><a href="https://win-blog.techidaily.com/winning-strategies-against-apex-legends-technical-setbacks-and-engine-failures/"><u>Winning Strategies Against Apex Legends' Technical Setbacks and Engine Failures</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-secrets-to-storing-and-viewing-digital-television-shows-for-2024/"><u>[New] Secrets to Storing and Viewing Digital Television Shows for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-list-best-4k-laptops-for-playing-games/"><u>[Updated] Exclusive List Best 4K Laptops for Playing Games</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/1715860296457-2024-approved-immerse-in-pc-game-moments-capture-perfectly/"><u>2024 Approved Immerse in PC Game Moments - Capture Perfectly!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ai-interpolation-techniques-enhancing-gameplay-with-smooth-frame-rate-boosting/"><u>AI Interpolation Techniques: Enhancing Gameplay with Smooth Frame Rate Boosting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anticipating-fps-stuttering-problems-during-cod-modern-warfare-3-gameplay-this-year/"><u>Anticipating FPS Stuttering Problems During COD: Modern Warfare 3 Gameplay This Year</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dayz-performance-optimization-effortless-ways-to-eliminate-fps-declines/"><u>DayZ Performance Optimization: Effortless Ways to Eliminate FPS Declines</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-apple-iphone-6-icloud-activation-lock-bypass-by-drfone-ios/"><u>In 2024, Apple iPhone 6 iCloud Activation Lock Bypass</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-for-people-wanting-to-mock-gps-on-oneplus-12-devices-drfone-by-drfone-virtual/"><u>In 2024, For People Wanting to Mock GPS on OnePlus 12 Devices | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/leading-edge-lives-beyond-windows-11-expectations/"><u>Leading-Edge Lives: Beyond Windows 11 Expectations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-mystery-of-the-disappearing-gpeditmsc-a-fix-for-windows-home-users/"><u>Solving the Mystery of the Disappearing 'gpedit.msc': A Fix for Windows Home Users</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-the-modern-warfare-3-error-code-12707/"><u>Troubleshooting and Repairing the Modern Warfare 3 Error Code 12707</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-call-logs-from-sony-xperia-10-v-by-fonelab-android-recover-call-logs/"><u>Undelete lost call logs from Sony Xperia 10 V</u></a></li>
 </ul></div>
-
-
-
 
