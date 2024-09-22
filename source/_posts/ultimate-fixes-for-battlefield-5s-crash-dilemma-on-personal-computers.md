@@ -1,7 +1,7 @@
 ---
 title: Ultimate Fixes for Battlefield 5'S Crash Dilemma on Personal Computers
-date: 2024-09-14T23:41:16.827Z
-updated: 2024-09-17T06:59:12.292Z
+date: 2024-09-18T18:22:09.013Z
+updated: 2024-09-21T17:36:51.439Z
 tags:
   - win11
   - win10
@@ -86,28 +86,8 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click the **Update**  button next to the _flagged graphics driver_ to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -115,10 +95,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
  How does your game work now? If it crashes again, head to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Set launch options
@@ -130,10 +110,25 @@ Here are the steps:
 1. Open Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
@@ -159,18 +154,19 @@ Here are the steps:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-recording-made-simple-a-compreenasite-for-capturing-netflix-content/"><u>[New] 2024 Approved Recording Made Simple A Compreenasite for Capturing Netflix Content</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-console-capturer-pro-report/"><u>[New] Console Capturer Pro Report</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-beginners-guide-start-filming-with-ease-using-logitech-camera/"><u>[Updated] 2024 Approved Beginner's Guide Start Filming with Ease Using Logitech Camera</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-instant-mac-screen-savior-free-in-2024/"><u>[Updated] Instant Mac Screen Savior - Free, In 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-the-essential-guide-to-apple-podcasts-transferring/"><u>[Updated] The Essential Guide to Apple Podcasts Transferring</u></a></li>
-<li><a href="https://fox-http.techidaily.com/frame-by-frame-helpdesk/"><u>Frame by Frame Helpdesk</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-enable-group-policy-editor-gpedit-on-windows-home-systems/"><u>How to Enable Group Policy Editor (GPEDIT) on Windows Home Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-load-failures-in-football-manager-202n-a-step-by-step-guide/"><u>How to Overcome Load Failures in Football Manager 202N – A Step-by-Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-the-malfunctioning-rockstar-launcher-for-a-smooth-gaming-experience/"><u>How to Troubleshoot the Malfunctioning Rockstar Launcher for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-forgotten-pin-of-your-tecno-camon-20-pro-5g-by-drfone-android/"><u>In 2024, How to Remove Forgotten PIN Of Your Tecno Camon 20 Pro 5G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-the-relink-hurdle-in-granblue-fantasy-for-an-uninterrupted-gaming-experience/"><u>Overcoming the Relink Hurdle in Granblue Fantasy for an Uninterrupted Gaming Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resident-evil-village-pc-troubleshooting-a-step-by-step-guide-to-banishing-the-darkness/"><u>Resident Evil Village PC Troubleshooting: A Step-by-Step Guide to Banishing the Darkness</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-preventing-recurring-blender-software-failures-on-pc/"><u>Troubleshooting Guide: Preventing Recurring Blender Software Failures on PC</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-peak-craft-studio-25-overview/"><u>[New] Peak Craft Studio 25 Overview</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-brief-blend-of-film-blueprints/"><u>[Updated] Brief Blend of Film Blueprints</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-the-path-to-proficiency-mastering-gif-sharing-on-snapchat/"><u>[Updated] In 2024, The Path to Proficiency Mastering Gif Sharing on Snapchat</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/rawwav-movavi/"><u>無料で簡単！オンラインRAWファイルをWAVに変換する - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ogmmp4-movavi/"><u>線上免付: OGM文件轉換成MP4電影格式 - 運用Movavi的方法</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gratuit-flv-to-mpeg-converter-en-ligne-moovavi-le-meilleur-choix/"><u>Gratuit FLV-to-MPEG Converter En Ligne : Moovavi - Le Meilleur Choix!</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-elevate-your-reels-to-new-heights-with-top-6-innovative-apps/"><u>In 2024, Elevate Your Reels to New Heights with Top 6 Innovative Apps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/24-erasing-the-spotlight-hide-visuals-in-shared-media/"><u>In 2024, Erasing the Spotlight Hide Visuals in Shared Media</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/insights-on-why-companies-are-wary-of-conversational-ai-tools/"><u>Insights on Why Companies Are Wary of Conversational AI Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/konvertereen-mpeg-in-mp3-met-gratuitie-op-internet-movavis-professioneel-codec-converteerprogramma/"><u>Konvertereen MPEG in MP3 Met Gratuitie Op Internet - Movavi's Professioneel Codec Converteerprogramma</u></a></li>
+<li><a href="https://win-blog.techidaily.com/las-7-maquinarias-perfectas-para-grabar-videos-online-ranking-del-top-movavi/"><u>Las 7 Maquinarias Perfectas Para Grabar Videos Online: Ranking Del Top - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wi-fi-wmawmv-mp4/"><u>무료 Wi-Fi 공유 오픈소스: WMA/WMV 영상을 MP4로 전환 - 모바일 최고</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726227454071-mp4-vob-movavi/"><u>자이오스컴퍼터에서 MP4 VOB를 쉽게 무료로 변환 - Movavi</u></a></li>
 </ul></div>
 

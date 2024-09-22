@@ -1,7 +1,7 @@
 ---
 title: "Master Guide: Smooth Gaming with No More Hiccups or Stutters on Your PC in AC Valhalla"
-date: 2024-09-13T01:48:32.108Z
-updated: 2024-09-17T02:26:47.508Z
+date: 2024-09-16T19:55:57.716Z
+updated: 2024-09-21T18:00:31.448Z
 tags:
   - win11
   - win10
@@ -70,19 +70,6 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -99,37 +86,31 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -140,6 +121,19 @@ If it’s not working, move to the next fix.
  2) In the**Process** tab, click the app and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
+
+<!-- affiliate ads begin -->
+<span id="1993645">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
@@ -168,18 +162,17 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-capture-life-in-motion-using-ipad-filming-techniques/"><u>[New] Capture Life in Motion Using iPad Filming Techniques</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-explore-the-best-8-mirrorless-cameras-for-youtube-vloggers/"><u>2024 Approved Explore the Best 8 Mirrorless Cameras for YouTube Vloggers</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-game-soundscapes-with-ps-console-tweaks/"><u>2024 Approved Revolutionizing Game Soundscapes with PS Console Tweaks</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/essential-action-cam-recommendations-for-winter-sports-for-2024/"><u>Essential Action Cam Recommendations for Winter Sports for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-silent-menace-in-evil-genius-2-sound-restoration-guide/"><u>Fixing Silent Menace in Evil Genius 2 - Sound Restoration Guide</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-huawei-p60-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Huawei P60 | Dr.fone</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/in-2024-master-list-of-vimeo-video-capturers/"><u>In 2024, Master List of Vimeo Video Capturers</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/neueste-erweiterung-fur-die-3m-360-encompass-software-abbyy-text-recognition-von-kunftig-ausgerustet/"><u>Neueste Erweiterung Für Die 3M 360 Encompass Software - ABBYY Text Recognition Von Künftig Ausgerüstet</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/pulling-fun-on-pedal-power-for-2024/"><u>Pulling Fun on Pedal Power for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-issues-correcting-improper-installation-of-the-radeon-software-amds-successor-to-ryzen-master/"><u>Resolving Issues: Correcting Improper Installation of the Radeon Software (AMD's Successor to Ryzen Master)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-performance-issues-in-v-for-escape-tips-and-tricks/"><u>Troubleshooting Performance Issues in V for Escape - Tips & Tricks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-getting-origin-to-open-on-windows-11-systems/"><u>Troubleshooting Tips for Getting 'Origin' To Open on Windows 11 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-the-helldivers-2-bsod-blue-screen-of-death-issue/"><u>Ultimate Guide: Resolving the Helldivers 2 BSOD (Blue Screen Of Death) Issue</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-your-pathway-to-audio-mastery-download-and-install-vrecorder/"><u>[New] 2024 Approved Your Pathway to Audio Mastery - Download & Install VRecorder</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-ranking-10-best-iphoneandroid-apps-for-video-enthusiasts/"><u>2024 Approved Ranking 10 Best iPhone/Android Apps for Video Enthusiasts</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/best-anti-tracker-software-for-infinix-gt-10-pro-drfone-by-drfone-virtual-android/"><u>Best Anti Tracker Software For Infinix GT 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/decoding-the-best-chatgpt-face-off-with-bing-ai-and-bard/"><u>Decoding the Best: ChatGPT Face-Off with Bing AI & Bard</u></a></li>
+<li><a href="https://extra-information.techidaily.com/excellent-spots-for-tamil-ringtones-acquisition-guide/"><u>Excellent Spots for Tamil Ringtones Acquisition Guide</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-comprehensive-guide-to-icloud-unlock-on-apple-iphone-12-online-by-drfone-ios/"><u>In 2024, A Comprehensive Guide to iCloud Unlock On Apple iPhone 12 Online</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-samsung-galaxy-f15-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Samsung Galaxy F15 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-gpt-5-on-the-horizon-exploring-the-release-timeline/"><u>Is GPT-5 on the Horizon? Exploring the Release Timeline</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-15-herramenos-de-cativacao-screen-livre-movavi/"><u>Top 15 Herramenos De Cativação Screen Livre - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-rigeneratori-di-downloads-anime-gratuiti-piu-popolari-nel-2024/"><u>Top 8 Rigeneratori Di Downloads Anime Gratuiti Più Popolari Nel 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tout-savoir-pour-convertir-votre-video-mov-en-format-ebgp-sans-frais-sur-internet-avec-movavi-pas-de-details-manques/"><u>Tout Savoir Pour Convertir Votre Vidéo MOV en Format Ebgp Sans Frais Sur Internet Avec Movavi – Pas De Détails Manqués !</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiled-at-computex-the-incredible-lineup-of-gigabytes-newest-motherboards-and-gpus-meet-the-aorus-xtreme-and-xtreme-ice/"><u>Unveiled at Computex – The Incredible Lineup of Gigabyte's Newest Motherboards and GPUs: Meet the Aorus Xtreme and Xtreme Ice</u></a></li>
 </ul></div>
 

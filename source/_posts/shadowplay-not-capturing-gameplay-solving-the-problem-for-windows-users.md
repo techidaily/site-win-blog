@@ -1,7 +1,7 @@
 ---
 title: Shadowplay Not Capturing Gameplay? Solving the Problem for Windows Users
-date: 2024-09-10T07:51:16.063Z
-updated: 2024-09-17T05:37:21.433Z
+date: 2024-09-15T01:25:01.661Z
+updated: 2024-09-22T02:49:07.523Z
 tags:
   - win11
   - win10
@@ -52,10 +52,10 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 If this fix doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2: Run as administrator
@@ -71,13 +71,6 @@ If this fix doesn’t work, move to the next fix.
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Verify game files
 
  When the game files are missing or corrupted, the game would crash. Verify the integrity of game files can simply solve the issue.
@@ -87,8 +80,22 @@ If this fix doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this fix doesn’t bring luck, take a look at the next one below.
 
@@ -111,10 +118,10 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -123,13 +130,6 @@ There are mainly two ways you can update the graphics driver:
  Restart your PC after drivers are updated, then relaunch the game to check.
 
  If the latest drivers doesn’t solve the issue, move to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable your antivirus software
 
@@ -145,14 +145,14 @@ Here’s how to disable Windows Security temporarily.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Relaunch NieR Replicant and check if it’s running properly.
 
@@ -177,16 +177,20 @@ Relaunch NieR Replicant and check if it’s running properly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-hints.techidaily.com/new-building-blocks-for-a-stellar-documentary-storyline/"><u>[New] Building Blocks for a Stellar Documentary Storyline</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-hot-tunes-essential-background-scores-for-viral-yt-shorts/"><u>[Updated] 2024 Approved Hot Tunes Essential Background Scores For Viral YT Shorts</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/44cm44k544og44os44kq5aplusplus5bplusc44oy44od44oj44ov44kp44oz44oe44kk44kv44gn6auy5zob6loq44gq6yyy6zplusz44gr44gk44ge44gm5a2m44g244cn/"><u>「ステレオ対応ヘッドフォンマイクで高品質な録音について学ぶ」</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-fixes-to-get-saints-row-game-up-and-launching-on-pc-platforms/"><u>Easy Fixes to Get Saints Row Game Up and Launching on PC Platforms</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/is-fake-gps-location-spoofer-a-good-choice-on-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Is Fake GPS Location Spoofer a Good Choice On Motorola Moto G73 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-playtime-overcoming-ghostwire-tokyos-frequent-crashes-on-windows-systems/"><u>Optimizing Playtime: Overcoming Ghostwire: Tokyo's Frequent Crashes on Windows Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-pre-launch-challenges-essential-advice-for-lifesaving-company-fixes/"><u>Overcoming Pre-Launch Challenges: Essential Advice for Lifesaving Company Fixes</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/revolutionize-your-video-editing-with-zero-cost-tips-for-swapping-mov-files-on-various-devices/"><u>Revolutionize Your Video Editing with Zero Cost: Tips for Swapping MOV Files on Various Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/saints-row-wont-start-heres-how-you-can-solve-the-problem-quickly/"><u>Saints Row Won't Start? Here's How You Can Solve the Problem Quickly!</u></a></li>
-<li><a href="https://techidaily.com/three-solutions-to-hard-reset-realme-12-pro-5g-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Realme 12 Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/win11-shadows-lifted-fixes-for-falls-patch/"><u>Win11 Shadows Lifted: Fixes for Fall's Patch</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-2023s-leading-cameras-for-samsung-gear-360-successors/"><u>[New] 2023'S Leading Cameras for Samsung Gear 360 Successors</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-top-secure-cost-free-androidios-apps-for-private-video-conferencing/"><u>[New] In 2024, Top Secure, Cost-Free Android/iOS Apps for Private Video Conferencing</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-online-obsession-the-8-must-watch-titles/"><u>[New] Online Obsession The 8 Must-Watch Titles</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-phone-as-webcam-a-step-by-step-guide-for-mobile-video-capture/"><u>2024 Approved Phone as Webcam A Step-by-Step Guide for Mobile Video Capture</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/capturing-presentations-effortlessly-a-guide-to-screen-capture-for-2024/"><u>Capturing Presentations Effortlessly A Guide to Screen Capture for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/changer-fichier-pef-en-jpeg-gratuitement-sur-internet-avec-movavi/"><u>Changer Fichier PEF en JPEG Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/come-rimuovere-le-bandiere-nere-da-un-video-il-vantaggio-dei-4-approfondimenti/"><u>Come Rimuovere Le Bandiere Nere Da Un Video - Il Vantaggio Dei 4 Approfondimenti</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/discover-free-methods-to-enhance-alter-and-amplify-your-vocal-expression/"><u>Discover FREE Methods To Enhance, Alter & Amplify Your Vocal Expression</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-video-to-audio-converter-tool-get-premium-sound-clips-straight-from-your-files/"><u>Efficient Video-to-Audio Converter Tool: Get Premium Sound Clips Straight From Your Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-online-converteren-van-mpeg-naar-3gp-movavi/"><u>Gratis Online Converteren Van MPEG Naar 3GP - Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/leveraging-chatgpt-for-improved-research-and-persuasive-writing-techniques/"><u>Leveraging ChatGPT for Improved Research and Persuasive Writing Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-scambiare-file-m4r-con-formato-ogg-gratuitamente-on-line/"><u>Movavi: Scambiare File M4R Con Formato OGG Gratuitamente On-Line</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-5-applicazioni-di-compressione-video-italiane-per-ottimizzare-le-dimensioni-del-file/"><u>TOP 5 Applicazioni Di Compressione Video Italiane per Ottimizzare Le Dimensioni Del File</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcode-un-fichier-wmv-au-format-mp4-gratuitement-en-ligne-videoproc/"><u>Transcode Un Fichier WMV Au Format MP4 Gratuitement en Ligne - VidéoProc</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforma-imagenes-dpx-a-jpeg-sin-coste-guia-rapida-con-movavi/"><u>Transforma Imágenes DPX a JPEG Sin Coste: Guía Rápida Con Movavi</u></a></li>
 </ul></div>
 

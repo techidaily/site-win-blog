@@ -1,7 +1,7 @@
 ---
 title: "Enhance Horizon Zero Dawn Gaming Experience: Tips to Improve FPS & Boost Gameplay"
-date: 2024-09-14T21:32:17.893Z
-updated: 2024-09-17T01:57:17.173Z
+date: 2024-09-16T21:46:22.152Z
+updated: 2024-09-21T20:44:11.110Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -109,6 +102,13 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -148,20 +148,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115925/19272" target="_top" id="2115925">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115925" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115925/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1883998/19272" target="_top" id="1883998">
+  <img src="//a.impactradius-go.com/display-ad/19272-1883998" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1883998/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
@@ -169,16 +162,10 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
@@ -192,13 +179,27 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130886/7443" target="_top" id="2130886">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130886" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130886/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1793213">
+					<video width="864" height="1296" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
@@ -225,19 +226,18 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-your-one-stop-guide-30-prime-websites-offering-free-vectr-and-graphic-services/"><u>[Updated] 2024 Approved Your One-Stop Guide 30 Prime Websites Offering Free Vectr & Graphic Services</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-your-top-choice-best-offline-mobile-games-for-endless-entertainment/"><u>[Updated] 2024 Approved Your Top Choice Best Offline Mobile Games for Endless Entertainment</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-navigating-through-gopro-and-time-lapse-synergy/"><u>[Updated] Navigating Through GoPro and Time-Lapse Synergy</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/3-ways-to-track-xiaomi-redmi-note-12-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>3 Ways to Track Xiaomi Redmi Note 12 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/destiny-2-compatible-with-pc-how-to-fix-the-launch-error-quickly/"><u>Destiny 2 Compatible with PC? How to Fix the Launch Error Quickly!</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/dji-phantom-4-complete-review/"><u>DJI Phantom 4 Complete Review</u></a></li>
-<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Apple iPhone 7 Plus | Dr.fone</u></a></li>
-<li><a href="https://windows11.techidaily.com/navigating-through-two-users-shared-ms-login-fails/"><u>Navigating Through Two Users' Shared MS Login Fails</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-troubleshooting-tips-for-the-persistent-crashes-in-gas-station-manager-game/"><u>PC Troubleshooting Tips for the Persistent Crashes in Gas Station Manager Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/roller-champions-2024-crossplay-strategies-and-tips-for-aspiring-pc-gamers/"><u>Roller Champions 2024 Crossplay Strategies and Tips for Aspiring PC Gamers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011275996-say-goodbye-to-madden-22-loading-deadlock-proven-fixes-and-tips-inside/"><u>Say Goodbye to Madden 22 Loading Deadlock: Proven Fixes & Tips Inside</u></a></li>
-<li><a href="https://win-blog.techidaily.com/tackle-ue4-issues-head-on-a-guide-to-fixing-outriders-unreal-errors/"><u>Tackle UE4 Issues Head-On: A Guide to Fixing Outriders' Unreal Errors</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/the-iphone-15s-battle-with-liquids-assessing-its-waterproof-ratings-and-features/"><u>The iPhone 15'S Battle with Liquids: Assessing Its Waterproof Ratings and Features</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solving-bloodhunts-crashes-and-skips-on-windows/"><u>Troubleshooting Guide: Solving Bloodhunt's Crashes and Skips on Windows</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-icecream-screen-recorder-how-to-guide-and-indepth-review/"><u>[Updated] 2024 Approved Icecream Screen Recorder - How-To Guide and Indepth Review</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-facebooks-premier-evolution-the-five-must-know-features-for-2024/"><u>[Updated] Facebook's Premier Evolution The Five Must-Know Features for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-instagram-and-youtube-synergy-sharing-video-links-in-stories/"><u>[Updated] Instagram and YouTube Synergy Sharing Video Links in Stories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/changer-fichier-pef-en-jpeg-gratuitement-sur-internet-avec-movavi/"><u>Changer Fichier PEF en JPEG Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/come-rimuovere-le-bandiere-nere-da-un-video-il-vantaggio-dei-4-approfondimenti/"><u>Come Rimuovere Le Bandiere Nere Da Un Video - Il Vantaggio Dei 4 Approfondimenti</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-video-to-audio-converter-tool-get-premium-sound-clips-straight-from-your-files/"><u>Efficient Video-to-Audio Converter Tool: Get Premium Sound Clips Straight From Your Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-online-converteren-van-mpeg-naar-3gp-movavi/"><u>Gratis Online Converteren Van MPEG Naar 3GP - Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/harness-lightrooms-power-to-create-dynamic-hdr-photos-for-2024/"><u>Harness Lightroom's Power to Create Dynamic HDR Photos for 2024</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-remove-the-two-factor-authentication-from-iphone-13-pro-max-by-drfone-ios/"><u>How To Remove the Two Factor Authentication From iPhone 13 Pro Max</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-catch-or-beat-sleeping-snorlax-on-pokemon-go-for-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Catch or Beat Sleeping Snorlax on Pokemon Go For Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-scambiare-file-m4r-con-formato-ogg-gratuitamente-on-line/"><u>Movavi: Scambiare File M4R Con Formato OGG Gratuitamente On-Line</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforma-imagenes-dpx-a-jpeg-sin-coste-guia-rapida-con-movavi/"><u>Transforma Imágenes DPX a JPEG Sin Coste: Guía Rápida Con Movavi</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/44kq44ov44op44kk44oz44gn6ig044gp5ymn44gr44cb44oa44km44oz44ot44o844oj6zplusz5qw944ks44kr44k544k44oe44kk44k644gz44kl44og44kv44ol44od44kv/"><u>オフラインで聴く前に、ダウンロード音楽をカスタマイズするテクニック</u></a></li>
 </ul></div>
 

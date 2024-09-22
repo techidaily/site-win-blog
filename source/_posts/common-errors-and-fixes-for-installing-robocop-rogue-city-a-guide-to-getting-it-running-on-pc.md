@@ -1,7 +1,7 @@
 ---
 title: "Common Errors and Fixes for Installing 'RoboCop: Rogue City': A Guide to Getting It Running on PC"
-date: 2024-09-15T07:00:52.448Z
-updated: 2024-09-16T20:14:40.320Z
+date: 2024-09-17T18:21:18.626Z
+updated: 2024-09-21T17:40:22.018Z
 tags:
   - win11
   - win10
@@ -112,10 +112,10 @@ After you save the changes, test your gameplay.
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
@@ -130,6 +130,13 @@ Here’s how to update drivers with Driver Easy:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )
 
@@ -138,13 +145,6 @@ Here’s how to update drivers with Driver Easy:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC and test your gameplay. If this didn’t help, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 4\. Run your game in high priority
 
@@ -186,16 +186,16 @@ If this didn’t give you any luck, try the next fix below.
   
 ![Mass Effect Legendary Edition enable high performance](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-power-plan.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**Options** .  
   
 ![enable high performance Mass Effect Legendary Edition](https://images.drivereasy.com/wp-content/uploads/2021/05/enable-high-performance.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Select **High performance**  and click **Save** .  
   
@@ -229,13 +229,6 @@ If this didn’t give you any luck, try the next fix below.
   
 ![open Discord settings](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-settings-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) On the left pane, navigate to **Appearance** . In this tab, scroll down to the **ADVANCED**  section and toggle off the option **Hardware Acceleration** .  
   
 ![disable hardware acceleration Discord](https://images.drivereasy.com/wp-content/uploads/2020/12/Discord-disable-hardware-acceleration.png)
@@ -258,26 +251,27 @@ Here’s how to do this:
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049388/7443" target="_top" id="2049388">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049388" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049388/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) From the left pane, select **Captures** . In the **Background recording**  section, toggle off **Record in the background while I’m playing a game** .  
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) From the left sidebar, select **Game Mode** . Then toggle off **Game Mode** .
 
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1975562">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now play your game and you should be able to get higher FPS or at least it’s going back to the normal value.
 
@@ -300,20 +294,18 @@ Here’s how to do this:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-creative-video-ends-top-6-budget-friendly-options/"><u>[New] Creative Video Ends Top 6 Budget-Friendly Options</u></a></li>
-<li><a href="https://tiktok-clips.techidaily.com/new-cult-classic-reimaginings-top-20-anime-on-tiktok/"><u>[New] Cult Classic Reimaginings Top 20 Anime on TikTok</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-advanced-techniques-for-youtube-editing-via-finalcut-pro/"><u>[Updated] Advanced Techniques for YouTube Editing via FinalCut Pro</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/canon-mf4500-drivers-secure-and-fast-installation-guide-plus-downloads/"><u>Canon MF4500 Drivers: Secure & Fast Installation Guide + Downloads</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/ing-collabs-that-attract-and-retain-viewers-for-2024/"><u>Crafting Collabs that Attract and Retain Viewers for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-ways-to-prevent-football-manager-2022-from-crashing-on-your-pc/"><u>Effective Ways to Prevent Football Manager 2022 From Crashing on Your PC</u></a></li>
-<li><a href="https://win-able.techidaily.com/fortnite-season-8-update-analysis-understanding-the-fluctuation-in-frames-per-second-fps/"><u>Fortnite Season 8 Update Analysis: Understanding the Fluctuation in Frames per Second (FPS)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-to-overcoming-game-crashes-in-dirt-5-for-a-smooth-gaming-experience-on-pc/"><u>Guide to Overcoming Game Crashes in Dirt 5 for a Smooth Gaming Experience on PC</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-infinix-hot-40-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Infinix Hot 40 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-the-directx-failed-glitch-on-fifa-20-for-flawless-playing-experience/"><u>How to Fix the 'DirectX Failed' Glitch on FIFA 20 for Flawless Playing Experience</u></a></li>
-<li><a href="https://driver-download.techidaily.com/insulation-testers-must-be-calibrated-and-used-according-to-the-manufacturers-specifications-to-ensure-accurate-measurements/"><u>Insulation Testers Must Be Calibrated and Used According to the Manufacturer's Specifications to Ensure Accurate Measurements.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/launching-successfully-into-action-fixes-for-when-pathfinder-wrath-of-the-righteous-doesnt-open/"><u>Launching Successfully Into Action: Fixes for When Pathfinder: Wrath of the Righteous Doesn’t Open</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-steel-city-adventure-no-more-pc-crashes-with-these-detroit-become-human-tweaks/"><u>Master the Steel City Adventure - No More PC Crashes with These Detroit: Become Human Tweaks!</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/money-saving-heavens-storage-service-big-file-batches/"><u>Money-Saving Heavens Storage Service - Big File Batches</u></a></li>
-<li><a href="https://win-blog.techidaily.com/professional-solutions-a-comprehensive-list-of-six-ways-to-increase-fps-in-eft/"><u>Professional Solutions: A Comprehensive List of Six Ways to Increase FPS in EFT</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-mastering-color-grading-with-ease-a-compreranble-guide-for-pscc-users/"><u>[New] Mastering Color Grading with Ease A Compreranble Guide for PSCC Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-amplifying-your-social-media-reach-with-zoom-plus-fb-live/"><u>[Updated] 2024 Approved Amplifying Your Social Media Reach with ZOOM + FB Live</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-rmvb-mkv/"><u>免費網路服務：透過 Movavi 轉換器改造 RMVB到 MKV格式</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/discover-the-ultimate-7-alarm-clock-apps-for-everyone/"><u>Discover the Ultimate 7 Alarm Clock Apps for Everyone!</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-pause-life360-location-sharing-for-samsung-galaxy-m34-drfone-by-drfone-virtual-android/"><u>How To Pause Life360 Location Sharing For Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/how-to-recover-lost-data-from-apple-iphone-14-pro-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover Lost Data from Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-samsung-galaxy-a15-5g-drfone-by-drfone-virtual-android/"><u>How to Spy on Text Messages from Computer & Samsung Galaxy A15 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/inshot-vs-other-editors-a-comprehensive-analysis/"><u>InShot vs Other Editors A Comprehensive Analysis</u></a></li>
+<li><a href="https://win-blog.techidaily.com/scopri-il-movavi-video-editor-affidabile-confortante-e-risparmio-massimo/"><u>Scopri Il Movavi Video Editor - Affidabile, Confortante E Risparmio Massimo!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/topmp3-de-basta-12-mp4-spelarna-for-din-datorpjas-for-windowsmac-fullkomliga-funktioner-och-simpel-installation/"><u>Topmp3: De Bästa 12 MP4-Spelarna För Din Datorpjäs För Windows/Mac - Fullkomliga Funktioner Och Simpel Installation</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/ultimate-mac-users-how-to-securely-encryptdecrypt-your-hard-drive-video-lesson-inside/"><u>Ultimate Mac Users' How-To: Securely Encrypt/Decrypt Your Hard Drive - Video Lesson Inside</u></a></li>
+<li><a href="https://howto.techidaily.com/why-is-my-oppo-a78-5g-offline-troubleshooting-guide-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Is My Oppo A78 5G Offline? Troubleshooting Guide | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/jpeg-and-bmp-movavi/"><u>オンライン無料でスムーズなJPEG & BMP 両方対応の画像変換 - Movavi</u></a></li>
 </ul></div>
 

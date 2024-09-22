@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Alan Wake 2 Release Issues: Solutions & Tips"
-date: 2024-09-13T22:45:03.207Z
-updated: 2024-09-17T01:03:05.142Z
+date: 2024-09-16T23:47:59.124Z
+updated: 2024-09-21T18:34:47.903Z
 tags:
   - win11
   - win10
@@ -74,6 +74,19 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
 
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:**Run the game as an administrator**
 
  Steam sometimes may require administrator privileges to perform certain functions or to access certain files. Try running Steam as an administrator, then launch Oxygen Not Included from Steam client to see if that fixes your issue. Here is how to do it:
@@ -94,13 +107,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4:**Run the game in compatibility mode**
 
  Some Windows updates may not be compatible with Oxygen Not Included and cause it to stop working. If the crash occurs after you update your PC, try running your game in compatibility mode. Here is how to do it:
@@ -109,16 +115,22 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
@@ -127,19 +139,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
-
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
@@ -161,6 +160,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-284.png)
@@ -175,13 +181,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120862/26400?prodsku=Saturn" target="_top" id="2120862">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120862" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120862/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
@@ -189,19 +188,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **7)** Relaunch and play Oxygen Not Included.
 
 If the game crashing issue persists, check the fix below.
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6:**Install** Microsoft Visual C++ 2015 Runtime
 
@@ -274,6 +260,13 @@ OR
 
  If Oxygen Not Included crashing still happens after the update, try the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151868/7443" target="_top" id="2151868">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151868" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151868/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 9: Reinstall the game
 
  If none of the fixes above helped, reinstalling your game is very likely the solution for you. Follow the instructions below:
@@ -289,6 +282,13 @@ OR
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
@@ -319,16 +319,21 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-videos.techidaily.com/new-in-2024-optimize-your-social-presence-with-efficient-fb-covers/"><u>[New] In 2024, Optimize Your Social Presence with Efficient FB Covers</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-fast-video-capture-and-guided-narration-tool/"><u>[Updated] 2024 Approved Fast Video Capture & Guided Narration Tool</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-mastering-the-art-of-watermarking-on-facebook/"><u>[Updated] 2024 Approved Mastering the Art of Watermarking on Facebook</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-listening-experience-addressing-and-fixing-slowdown-in-spotifys-web-player-latest-guide/"><u>Boost Your Listening Experience: Addressing and Fixing Slowdown in Spotify's Web Player (Latest Guide)</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-create-stunning-animations-on-the-go-free-3d-apps-for-mobile-for-2024/"><u>New Create Stunning Animations on the Go Free 3D Apps for Mobile for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/restarting-and-fixing-errors-for-a-smooth-experience-in-internet-explorer/"><u>Restarting and Fixing Errors for a Smooth Experience in Internet Explorer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-frozen-state-of-new-world-unraveling-the-causes-and-fixes/"><u>The Frozen State of New World: Unraveling the Causes & Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-playthrough-of-dying-light-2-resolving-frame-rate-drops-and-in-game-lag/"><u>Troubleshooting PC Playthrough of Dying Light 2 - Resolving Frame Rate Drops and In-Game Lag</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-the-scratch-disk-full-error-in-adobe-photoshop-easily/"><u>Troubleshooting the 'Scratch Disk Full' Error in Adobe Photoshop Easily</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-uninterrupted-playtime-fix-fall-guys-freezing-on-your-computer/"><u>Unlock Uninterrupted Playtime - Fix Fall Guys' Freezing on Your Computer!</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-fcp-audio-editing-essentials-tips-and-tricks-for-perfect-sound-for-2024/"><u>Updated FCP Audio Editing Essentials Tips and Tricks for Perfect Sound for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-the-hidden-layers-behind-facebooks-emblematic-blue-icon-in-messages/"><u>[New] In 2024, The Hidden Layers Behind Facebook's Emblematic Blue Icon in Messages</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ntegrate-free-audio-in-your-videos-effortlessly/"><u>[New] Integrate FREE Audio in Your Videos Effortlessly</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-syncing-soundtracks-the-apple-way/"><u>[New] Syncing Soundtracks The Apple Way</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-all-access-fb-melodic-streaming/"><u>[Updated] 2024 Approved All-Access FB Melodic Streaming</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-unrivaled-recording-experience-from-leading-apps/"><u>[Updated] 2024 Approved Unrivaled Recording Experience From Leading Apps</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-budget-oriented-chinas-vr-equipment-selection/"><u>[Updated] Budget-Oriented China's VR Equipment Selection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/m4r-m4a-movavi/"><u>網路直接免費移轉 M4R 到 M4A - 利用 Movavi 的音頻格式轉換工巧</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversor-de-mts-para-mp4-em-segundo-plano-metodo-simples-e-rapidissimo/"><u>Conversor De MTS Para MP4 Em Segundo Plano - Método Simples E Rapidíssimo!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-most-effective-iphone-antivirus-solutions-for-enhanced-mobile-safety/"><u>Discover the Most Effective iPhone Antivirus Solutions for Enhanced Mobile Safety</u></a></li>
+<li><a href="https://windows11.techidaily.com/enhance-watching-tips-for-prime-subtitles-glitches-in-windows-11/"><u>Enhance Watching: Tips for Prime Subtitles Glitches in Windows 11</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-civi-3-disney-100th-anniversary-edition-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Civi 3 Disney 100th Anniversary Edition? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-art-of-flat-lay-photography-proven-strategies-for-captivating-composition-and-design/"><u>Mastering the Art of Flat Lay Photography: Proven Strategies for Captivating Composition & Design</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-streamline-your-file-format-quick-and-free-m4v-to-mov-video-conversion-online-now/"><u>Movavi Streamline Your File Format: Quick and Free M4V to MOV Video Conversion Online Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-image-converter-convert-photos-to-jpeg-png-and-more-formats/"><u>Online Image Converter - Convert Photos to JPEG, PNG & More Formats</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-mp2-naar-mp4-konvertor-bereikbaarheid-geavanceerde-functies-movavi-gratis/"><u>Online MP2 Naar MP4 Konvertor Bereikbaarheid Geavanceerde Functies - Movavi Gratis</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-audiolibri-da-m4b-a-mp4-gratuitamente-tramite-movavi-guida-completa-e-facile/"><u>Trasforma Audiolibri Da M4B a MP4 Gratuitamente Tramite Movavi - Guida Completa E Facile</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Twitch No Audio Problem? Here's the Ultimate Fix That Works!
-date: 2024-09-11T01:52:08.255Z
-updated: 2024-09-16T19:26:26.802Z
+date: 2024-09-16T02:55:54.575Z
+updated: 2024-09-21T19:47:39.431Z
 tags:
   - win11
   - win10
@@ -86,15 +86,16 @@ ELEX II system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
-**Note** : You can do it for free if you like, but it’s partly manual.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
+**Note** : You can do it for free if you like, but it’s partly manual.
 
 4. Restart your PC for the changes to take effect.
 
@@ -109,16 +110,10 @@ ELEX II system requirements
  Run**ELEX II** again and check if the game crashes get fixed. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Disable overlays
@@ -134,6 +129,13 @@ ELEX II system requirements
  If you’re using other apps with overlay features (e.g. Xbox Game Bar, Discord, Nvidia GeForce Experience, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Run ELEX II and check if the it crashes again. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134228/18498" target="_top" id="2134228">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134228/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Temporarily disable anti-virus software
 
@@ -166,13 +168,6 @@ If this fix didn’t work, try the next fix, below.
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Perform a clean boot
 
  If you’ve tried all the fixes above to no avail, maybe there is a certain app conflicting with ELEX II.
@@ -183,24 +178,24 @@ If this fix didn’t work, try the next fix, below.
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129738/7443" target="_top" id="2129738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129738" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528700/16446" target="_top" id="1528700">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528700" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528700/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -246,18 +241,20 @@ If this fix didn’t work, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/new-hero5-and-yi-4k-face-off-action-cam-wars/"><u>[New] Hero5 and Yi 4K Face-Off Action Cam Wars</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-live-link-lifters-annual-archive-access/"><u>[New] Live Link Lifters - Annual Archive Access</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-lag-ultimate-guide-to-fixing-hogwarts-legacys-stutters-2024-update/"><u>Beat the Lag: Ultimate Guide to Fixing Hogwarts Legacy's Stutters – 2024 Update</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-update-fixes-previous-lag-complaints/"><u>Guilty Gear Strive Update Fixes Previous Lag Complaints</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-reset-a-lava-blaze-curve-5g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Lava Blaze Curve 5G Phone that is Locked?</u></a></li>
-<li><a href="https://windows11.techidaily.com/remedial-tactics-for-loading-errors-in-discord-software/"><u>Remedial Tactics for Loading Errors in Discord Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-destiny-2-server-disconnection-issues/"><u>Resolved: How to Fix 'Destiny 2 Server Disconnection Issues'</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-fixing-unrelenting-desire-based-system-collapses-on-windows/"><u>Solution Guide: Fixing Unrelenting Desire-Based System Collapses on Windows</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-oppo-find-x6-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Oppo Find X6 to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-and-enjoy-uninterrupted-gaming-with-these-tips-to-stop-robocop-rogue-city-crashes-on-your-computer/"><u>Troubleshoot and Enjoy Uninterrupted Gaming with These Tips to Stop RoboCop: Rogue City Crashes on Your Computer!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-steams-fatal-error-unable-to-communicate-with-client/"><u>Troubleshooting Guide for Steam’s 'Fatal Error': Unable to Communicate with Client</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-solving-fix-my-fortnite-audio/"><u>Troubleshooting Steps: Solving 'Fix My Fortnite Audio'</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/unlocking-the-power-of-smart-lock-a-beginners-guide-for-vivo-y36i-users-by-drfone-android/"><u>Unlocking the Power of Smart Lock A Beginners Guide for Vivo Y36i Users</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-4-solutions-for-iphone-hdr-video-washed-out-in-premiere-pro/"><u>[Updated] 4 Solutions for iPhone HDR Video Washed-Out in Premiere Pro</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-precision-edits-made-simple-with-garageband-tools/"><u>2024 Approved Precision Edits Made Simple with GarageBand Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/activarea-sistemelor-off-line-via-discord-schimbarile-eficiente-pentru-ecranul-pc-ului-sau-perioada-mobile/"><u>Activarea Sistemelor Off-Line via Discord: Schimbările Eficiente Pentru Ecranul PC-Ului Sau Perioadă Mobile</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baereevne-movavi-film-udskifter-onskesikrede-kob-og-sniver/"><u>Bæreevne Movavi Film-Udskifter - Ønskesikrede Køb Og Sniver</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambia-i-file-wma-in-formato-webm-gratuitamente-su-internet-guida-rapida-di-movavi/"><u>Cambia I File WMA in Formato WebM Gratuitamente Su Internet: Guida Rapida Di Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/chatgpt-a-windows-application-journey/"><u>ChatGPT: A Windows Application Journey</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversione-gratuita-da-raw-a-mp4-scopri-come-usare-leditor-video-online-di-convertitoremovavi/"><u>Conversione Gratuita Da RAW a MP4: Scopri Come Usare L'Editor Video Online Di ConvertitoreMovavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-leave-a-life360-group-on-realme-10t-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How To Leave a Life360 Group On Realme 10T 5G Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-infinix-hot-40-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Infinix Hot 40</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-ready-yourself-for-youtube-video-production-finalcut-pro-techniques/"><u>In 2024, Ready Yourself for YouTube Video Production - FinalCut Pro Techniques</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/movavi-video-konverter-den-lette-og-pligtelige-lystenudskrivnings-app-pa-danskmarkedet/"><u>Movavi Video Konverter - Den Lette Og Pligtelige Lystenudskrivnings App På Danskmarkedet</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-5-excelentes-software-libres-de-edicion-de-video-para-el-ano-2024/"><u>Top 5 Excelentes Software Libres De Edición De Video Para El Año 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/asf-mp4-movavi/"><u>무세애비 가격에 ASF를 MP4로 바꾸기 - Movavi의 안내서</u></a></li>
+<li><a href="https://win-blog.techidaily.com/aviwmv/"><u>오피니 AVI/WMV를 영구제로 바꾸기 - 모비아비 도구</u></a></li>
+<li><a href="https://win-updates.techidaily.com/1726277995093-wavavi-movavi/"><u>オンラインで無料でWAV形式をAVIに変換する - Movaviアプリケーション</u></a></li>
 </ul></div>
 

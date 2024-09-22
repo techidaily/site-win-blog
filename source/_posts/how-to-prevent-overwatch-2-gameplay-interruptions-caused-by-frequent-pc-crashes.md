@@ -1,7 +1,7 @@
 ---
 title: How to Prevent Overwatch 2 Gameplay Interruptions Caused by Frequent PC Crashes
-date: 2024-09-10T04:25:00.818Z
-updated: 2024-09-16T16:10:39.901Z
+date: 2024-09-19T19:53:03.536Z
+updated: 2024-09-22T01:43:02.352Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ If you don’t know how, use these steps to disable Steam Overlay:
 
 If this doesn’t fix the issue, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3:**Update your graphics driver**
 
  In most cases, the constant crashes indicate that you’re using a**broken or outdated graphics driver** . Many players report that they stopped the crash after updating their graphics drivers, so you should definitely check if your drivers are up to date.
@@ -78,8 +85,28 @@ If this doesn’t fix the issue, check out the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -97,31 +124,18 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once you’ve installed all the updates, restart your system and check if the problem persists.
 
  If this trick doesn’t do the trick for you, take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151866/7443" target="_top" id="2151866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151866/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Increase the virtual memory of your PC
 
@@ -133,18 +147,18 @@ Here’s how to increase the virtual memory of Windows:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/search-advanced-system-settings.jpg)
 2. Under the**Performance** section, click**Settings…** .  
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the**Advanced** tab. Under the**Virtual memory** section, click**Change…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Deselect the **Automatically manage paging file size for all drives** checkbox. Then select**Customize size** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/vritual-memory-set.jpg)
 5. Enter**Initial size** and**Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the**Initial size** for me here is**8 x 1024 x 1.5 = 12288 MB** , and the**Maximum size** should be**8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click**Set** , then click**OK** to save the changes.  
@@ -164,13 +178,6 @@ If God of War crashes at the same spot, you can try the next method.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-1.jpg)
 3. You can also lower the graphics settings according to your specs. Remember the point here is to check if the crash is graphics related.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-settings-2.jpg)
 
  If these tunings don’t seem to help, take a look at the next solution.
@@ -187,13 +194,6 @@ If God of War crashes at the same spot, you can try the next method.
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
@@ -216,20 +216,18 @@ If God of War crashes at the same spot, you can try the next method.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-stream.techidaily.com/new-how-much-money-does-mr-beast-make/"><u>[New] How Much Money Does Mr. Beast Make</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/new-navigate-youtubes-studio-editor-to-master-videography/"><u>[New] Navigate YouTube's Studio Editor to Master Videography</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-prime-voice-changers-essentials-for-video-makers-for-2024/"><u>[Updated] Prime Voice Changers Essentials for Video Makers for 2024</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-nokia-g310-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Nokia G310? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-windows-instability-with-everscape-2-a-comprehensive-guide/"><u>Diagnosing and Repairing Windows Instability with Everscape 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-chatgpt-enterprise-features-benefits-and-distinct-advantages/"><u>Exploring ChatGPT Enterprise: Features, Benefits, and Distinct Advantages</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-issues-when-beatsaber-frequently-fails-or-freezes/"><u>Fix Issues When Beatsaber Frequently Fails or Freezes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-issue-fallout-3-stops-responding-on-windows-10/"><u>Fixing the Issue: Fallout 3 Stops Responding on Windows 10</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/free-from-marks-acquiring-unmarked-stock-photography/"><u>Free From Marks Acquiring Unmarked Stock Photography</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-optimize-minecraft-graphics-and-fix-stutters-on-windows-and-macs-latest-techniques/"><u>How to Optimize Minecraft Graphics and Fix Stutters on Windows & Macs - Latest Techniques</u></a></li>
-<li><a href="https://fake-location.techidaily.com/in-2024-10-best-fake-gps-location-spoofers-for-realme-narzo-60-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 10 Best Fake GPS Location Spoofers for Realme Narzo 60 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-steam-protected-files-blockage-with-these-hacks/"><u>Overcoming Steam Protected Files Blockage with These Hacks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-dev-error-5573-in-call-of-duty-vanguard-a-step-by-step-solution/"><u>Troubleshooting Dev Error 5573 in Call of Duty: Vanguard - A Step-by-Step Solution</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-google-chrome-techniques-to-decrease-high-memory-usage/"><u>Troubleshooting Google Chrome: Techniques to Decrease High Memory Usage</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/ultimate-guide-downloading-and-playing-thrustmasters-t300-on-modern-windows-operating-systems/"><u>Ultimate Guide: Downloading and Playing Thrustmaster's T300 on Modern Windows Operating Systems</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-thrive-on-instavid-a-guide-to-creating-a-solid-video-marketing-framework/"><u>[New] In 2024, Thrive on InstaVid A Guide to Creating a Solid Video Marketing Framework</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-audio-extraction-techniques-for-instagram-media/"><u>[Updated] 2024 Approved Audio Extraction Techniques for Instagram Media</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-unveiled-content-tweeting-high-definition-for-everyone/"><u>[Updated] Unveiled Content Tweeting High Definition for Everyone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-picperfect-upgrade-mobile-photography-no-money-down/"><u>2024 Approved PicPerfect Upgrade Mobile Photography No Money Down</u></a></li>
+<li><a href="https://win-blog.techidaily.com/w64-movavi/"><u>線上不限量的W64變更工具 - Movavi</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/a-full-review-for-itools-virtual-location-and-top-5-alternatives-for-apple-iphone-11-pro-maxipad-drfone-by-drfone-virtual-ios/"><u>A Full Review for iTools Virtual Location and Top 5 Alternatives For Apple iPhone 11 Pro Max/iPad | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/come-ottenere-la-licenza-di-ultimo-uso-da-movavi-software-termini-e-condizioni-efficaci/"><u>Come Ottenere La Licenza Di Ultimo Uso Da Movavi Software: Termini E Condizioni Efficaci</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-rmvb-files-to-avi-format-for-free-with-movavis-web-based-service/"><u>Convert RMVB Files to Avi Format for Free with Movavi's Web-Based Service</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-tool-change-wmv-format-without-costs-explore-movavi/"><u>Free Online Conversion Tool: Change WMV Format Without Costs - Explore Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-transforming-rmvb-files-into-avi-format-with-ease-moveavewizard/"><u>Free Online Conversion: Transforming RMVB Files Into AVI Format with Ease - Moveavewizard</u></a></li>
+<li><a href="https://windows11.techidaily.com/reinstating-windows-notification-banners/"><u>Reinstating Windows Notification Banners</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolved-cyberpunk-2077-ignoring-graphics-card-in-windows-11-setup/"><u>Resolved: Cyberpunk 2077 Ignoring Graphics Card in Windows 11 Setup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726227696728-f4v-movavi/"><u>무료 온라인 F4V 강조 바꾸기 서비스 - Movavi</u></a></li>
 </ul></div>
 

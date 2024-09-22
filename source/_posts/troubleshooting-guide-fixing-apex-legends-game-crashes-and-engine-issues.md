@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Apex Legends Game Crashes and Engine Issues"
-date: 2024-09-13T01:52:01.008Z
-updated: 2024-09-16T20:16:53.158Z
+date: 2024-09-19T19:30:43.463Z
+updated: 2024-09-21T18:36:44.349Z
 tags:
   - win11
   - win10
@@ -91,13 +91,6 @@ If the crashing issue remains, check out the next fix.
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Insurgency: Sandstorm to see if the game crashes again.
@@ -111,13 +104,6 @@ If the crashing issue remains, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Then, type**%AppData%\\..\\Local** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/appdata-local.jpg)
 2. Navigate to**Insurgency > Saved > Config > WindowsClient** .
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118310/7443" target="_top" id="2118310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118310" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. Delete the**GameUserSettings.ini** file.
 
@@ -134,10 +120,10 @@ If this fix doesn’t do the trick, continue to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/task-manager-end-task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115920/19272" target="_top" id="2115920">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115920" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115920/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
@@ -153,46 +139,50 @@ If the crashing issue persists, go ahead with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**firewall.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/firewall.cpl_.jpg)
 2. In the pop-up window, click**Allow an app or feature through Windows Firewall** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/allow-an-app.jpg)
 3. Click**Change settings** and then click**Allow another app…** .  
 
-<!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-settings.jpg)
 4. In the new window, click**Browse…** . Browse to**Steam > steamapps > common > sandstorm** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
-5. Select**InsurgencyEAC.exe** application and click**Open** .
 
 <!-- affiliate ads begin -->
-<span id="1983553">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/10/add-another-app-browse.jpg)
+5. Select**InsurgencyEAC.exe** application and click**Open** .
 
 6. Click**Network types…** , check**Private** and**Public** then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/network-types.jpg)
 7. Click**Add** .  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/add.jpg)
 8. Repeat step 3 to step 7 to add**InsurgencyClient-Win64-Shipping.exe** application. The file is located at **Steam > steamapps > common > sandstorm > Insurgency > Binaries > Win64** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Once done, relaunch the game to see if it crashes again.
 
@@ -221,18 +211,20 @@ Once done, relaunch the game to see if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-from-game-to-gigabyte-an-essential-guide/"><u>[Updated] From Game to Gigabyte An Essential Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-game-on-gopro-top-tips-for-high-quality-gameplay-videoing-for-2024/"><u>[Updated] Game on, GoPro! Top Tips for High-Quality Gameplay Videoing for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-persistent-launcher-crashes-in-everscape-2-pc-edition/"><u>Expert Tips for Fixing Persistent Launcher Crashes in Everscape 2 PC Edition</u></a></li>
-<li><a href="https://review-topics.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-xiaomi-redmi-note-13-pro-5g-drfone-by-drfone-virtual-android/"><u>How To Activate and Use Life360 Ghost Mode On Xiaomi Redmi Note 13 Pro 5G | Dr.fone</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-enhance-your-gaming-experience-by-reducing-fallout-4-latency-tips/"><u>How to Enhance Your Gaming Experience by Reducing Fallout 4 Latency (Tips )</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-navigate-a-world-without-adobe-flash-alternatives-and-steps/"><u>How to Navigate a World without Adobe Flash: Alternatives and Steps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-rapidly-resolve-your-slowing-down-google-chrome-issues/"><u>How to Rapidly Resolve Your Slowing Down Google Chrome Issues</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-3-ways-to-track-vivo-y56-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways to Track Vivo Y56 5G without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-infinix-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Infinix?</u></a></li>
-<li><a href="https://ai-voice-clone.techidaily.com/new-2024-easy-steps-to-translate-video-on-twitter/"><u>New 2024 Easy Steps to Translate Video on Twitter</u></a></li>
-<li><a href="https://fox-that.techidaily.com/overcoming-iphone-12-hurdles-a-guide-to-identifying-and-resolving-key-issues/"><u>Overcoming iPhone 12 Hurdles: A Guide to Identifying and Resolving Key Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-overcome-nba-2k23-pc-crashes-with-these-7-effective-solutions/"><u>Solved: Overcome NBA 2K23 PC Crashes with These 7 Effective Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-common-issues-with-qbittorrent-lagging-performance/"><u>Troubleshooting Common Issues with qBittorrent Lagging Performance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/lexibility-in-viewing-with-youtube-tv-options/"><u>[New] Flexibility in Viewing with YouTube TV Options</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-comprehensive-sync-protocol-for-iphone-to-snapchat-media/"><u>2024 Approved Comprehensive Sync Protocol for iPhone to Snapchat Media</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cr2jpg/"><u>免費のオンラインでCR2画像をJPGに簡単変換 - モバヴァイ</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-rw2-files-to-jpg-for-free-using-movavis-online-tool/"><u>Convert RW2 Files to JPG for Free Using Movavi's Online Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/converti-file-mpe-a-formato-avi-online-gratuitamente-con-movavi/"><u>Converti File MPE a Formato AVI Online Gratuitamente Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertidor-mp3-a-m4a-sin-costo-herramienta-rapida-y-facil-descubra-el-movavi/"><u>Convertidor MP3 a M4A Sin Costo: Herramienta Rápida Y Fácil, Descubra El Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertir-facilement-votre-mp4-en-webm-sur-internet-gratuitement-avec-loutil-de-conversion-videos-movavi-t1726233819533319/"><u>Convertir Facilement Votre MP4 en WEBM Sur Internet Gratuitement Avec L'outil De Conversion Vidéos Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dai-unocchiata-a-capcut-per-pc-scopo-installation-e-tutorial-per-windows-utenti/"><u>Dai Un'occhiata a CapCut Per PC: Scopo, Installation E Tutorial per Windows Utenti</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-the-most-effective-free-dvd-converters-for-windows-users-complete-guide-with-downloads/"><u>Discover the Most Effective Free DVD Converters for Windows Users – Complete Guide with Downloads!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-motorola-defy-2-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Motorola Defy 2 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-vivo-s17t-drfone-by-drfone-virtual-android/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Vivo S17t | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-tecno-spark-20-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Tecno Spark 20 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-the-first-timers-blueprint-for-youtube-income/"><u>In 2024, The First-Timer's Blueprint for YouTube Income</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/mastering-film-capture-on-mac-pc-and-smartphones/"><u>Mastering Film Capture on Mac, PC & Smartphones</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/mkv-decoding-best-apps-for-mac/"><u>MKV Decoding Best Apps for Mac</u></a></li>
 </ul></div>
 

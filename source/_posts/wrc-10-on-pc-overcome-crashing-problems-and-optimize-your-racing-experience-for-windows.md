@@ -1,7 +1,7 @@
 ---
 title: WRC 10 on PC - Overcome Crashing Problems & Optimize Your Racing Experience for Windows
-date: 2024-09-14T23:34:50.280Z
-updated: 2024-09-17T04:24:14.025Z
+date: 2024-09-20T02:37:14.976Z
+updated: 2024-09-22T02:49:21.951Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -94,6 +87,13 @@ There’re mainly two ways you can update your graphics drivers:
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the driver.
 
 **Or**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111995/7443" target="_top" id="2111995">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111995" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111995/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically (Recommended)
 
@@ -130,32 +130,19 @@ There’re mainly two ways you can update your graphics drivers:
 ![Purge all memory and disk cache](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache.jpg)
 2. Click**OK** to delete all files from your disk cache.  
 
-<!-- affiliate ads begin -->
-<span id="1977004">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977004.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977004">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977004.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977004%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977004/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136627/26400" target="_top" id="2136627">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136627" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136627/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
  The mechanical hard drive may also be the culprit of the crashing issue. As we all know, the mechanical hard drive is prone to damage. Bad sectors may corrupt the files stored on it and cause crashing. If it is the case, you may want to replace the mechanical hard drive to a solid-state drive (SSD).
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Delete the temp folder of After Effects
 
@@ -169,6 +156,13 @@ There’re mainly two ways you can update your graphics drivers:
 
 If After Effects still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Reinstall codecs and plugins
 
  Codecs are used to encode and decode your video files in After Effects. When codecs are corrupted or installed incorrectly, it may trigger the After Effects crashing issue. To fix crashing caused by codecs, you should try reinstall or update them.
@@ -180,10 +174,10 @@ If After Effects still crashes, try the next fix, below.
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -214,18 +208,19 @@ If After Effects still crashes, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-videos.techidaily.com/updated-primes-peak-performers-highest-tweets-and-viewing-numbers-for-2024/"><u>[Updated] Prime’s Peak Performers Highest Tweets & Viewing Numbers for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crash-free-playthrough-overcoming-technical-hurdles-for-age-of-wonders-planetfall-on-personal-computers/"><u>Crash-Free Playthrough: Overcoming Technical Hurdles for 'Age of Wonders: Planetfall' On Personal Computers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/delete-gmail-account-withwithout-password-on-tecno-spark-20c-by-drfone-android/"><u>Delete Gmail Account With/Without Password On Tecno Spark 20C</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-for-preventing-the-sims-4-from-crashing-on-windows-a-comprehensive-guide/"><u>Fixes for Preventing The Sims 4 From Crashing on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-ghost-recon-breakpoint-from-crashing-effective-solutions-inside/"><u>How to Stop Ghost Recon: Breakpoint From Crashing – Effective Solutions Inside</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-and-resolve-outlook-cannot-be-launched-errors/"><u>How to Troubleshoot and Resolve 'Outlook Cannot Be Launched' Errors</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-c67-4g-phone-that-is-locked-by-drfone-android/"><u>In 2024, How to Reset a Realme C67 4G Phone that is Locked?</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/in-2024-shutter-speed-mastery-for-chromebook-users-method-4/"><u>In 2024, Shutter Speed Mastery for Chromebook Users (Method #4)</u></a></li>
-<li><a href="https://youtube-help.techidaily.com/in-2024-the-beat-weavers-treasury-high-res-dj-visual-samples/"><u>In 2024, The Beat Weaver's Treasury High-Res DJ Visual Samples</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/investigating-whether-sns-hdr-offers-superior-ux-for-2024/"><u>Investigating Whether SNS HDR Offers Superior UX for 2024</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/lenssplit-viewer-insight/"><u>LensSplit Viewer Insight</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-xiaomi-14-device-by-drfone-android/"><u>The Ultimate Guide How to Bypass Swipe Screen to Unlock on Xiaomi 14 Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-the-relink-failed-issue-in-granblue-fantasy/"><u>Troubleshooting Guide: Resolving the 'Relink Failed' Issue in Granblue Fantasy</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-stepwise-guide-to-leveraging-pip-feature-on-microsoft-edge/"><u>[New] Stepwise Guide to Leveraging PIP Feature on Microsoft Edge</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-perfect-pairings-of-sound-and-sight-on-social-platforms/"><u>[Updated] In 2024, Perfect Pairings of Sound and Sight on Social Platforms</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-restore-windows-photo-viewer-efficiency-on-windows-10-pcs/"><u>2024 Approved Restore Windows Photo Viewer Efficiency on Windows 10 PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225784181-webmavi-movavi/"><u>無料移動平台以WebM格式改為AVI - 使用Movavi的方法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavimp4/"><u>無需花費一分錢，線上Movavi提供MP4圖像變更服務</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertisseur-gratuit-avi-a-flash-swf-sur-internet-transformation-sans-frais-avec-movavi/"><u>Convertisseur Gratuit AVI À Flash SWF Sur Internet - Transformation Sans Frais Avec Movavi</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dive-into-our-review-how-moto-g-power-delivers-on-long-lasting-battery-and-style/"><u>Dive Into Our Review: How Moto G Power Delivers on Long-Lasting Battery and Style</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-samsung-galaxy-s23-fe-contacts-an-easy-method-explained-by-fonelab-android-recover-contacts/"><u>How to Restore Deleted Samsung Galaxy S23 FE Contacts An Easy Method Explained.</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/mastering-the-art-of-persuasion-writing-compelling-proposals-with-chatgpt/"><u>Mastering the Art of Persuasion: Writing Compelling Proposals with ChatGPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-free-service-for-transforming-caf-into-m4r-format-online/"><u>Movavi's FREE Service for Transforming CAF Into M4R Format Online</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-insiders-guide-to-preserving-whatsapp-chat-history/"><u>The Insider's Guide to Preserving WhatsApp Chat History</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-18-mais-populares-programas-de-gravacao-de-video-para-windows-gratuitos/"><u>Top 18 Mais Populares Programas De Gravação De Vídeo Para Windows Gratuitos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-tips-na-presunu-pravocerveneho-hledani-jak-ziskat-vyhru-ve-seo/"><u>Top 6 Tips Na Přesunu Pravočerveného Hledání: Jak Získat Výhru Ve SEO</u></a></li>
+<li><a href="https://extra-information.techidaily.com/visionary-innovators-leading-brands-in-8k-photography/"><u>Visionary Innovators Leading Brands in 8K Photography</u></a></li>
 </ul></div>
 

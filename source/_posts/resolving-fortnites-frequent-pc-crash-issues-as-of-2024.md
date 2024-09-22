@@ -1,7 +1,7 @@
 ---
 title: Resolving Fortnite's Frequent PC Crash Issues as of 2024
-date: 2024-09-14T21:08:53.246Z
-updated: 2024-09-16T18:03:18.441Z
+date: 2024-09-15T02:57:49.035Z
+updated: 2024-09-22T02:41:12.481Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ See if you can log in or not. if not, try the next fix, below.
 
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Reset Winsock data
 
 **Winsock** is a programming interface and supporting program in Windows operating system that defines how Windows network software should access network services. **R** **esetting Winsock data** may be helpful for dealing with some network connection issues. Here is how to do it:
@@ -86,13 +93,6 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press**the Windows Logo Key** and then type **cmd** in the search box. When you see **Command Prompt** in the list of results, right-click it and then select **Run as administrator** . You will be prompted for permission. Click **Yes** to run**Command Prompt** .  
 ![Fix 5 step 1](https://images.drivereasy.com/wp-content/uploads/2018/09/Fix-5-step-1.jpg)
 2. In Command Prompt, type**netsh winsock reset**  and press **Enter** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![netsh winsock reset](https://images.drivereasy.com/wp-content/uploads/2018/10/netsh-winsock-reset.jpg)
 3. **Restart** your PC to complete the reset.
@@ -110,16 +110,10 @@ See if you can log in or not. if not, try the next fix, below.
 2. Type the command line**ipconfig /flushdns**  and press **Enter**  on your keyboard.  
 
 <!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
@@ -136,6 +130,13 @@ See if you can log in or not. if not, try the next fix, below.
 4. Launch Fortnite.
 
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Update your network driver
 
@@ -174,6 +175,19 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite again to see if you can log in or not. If the issue reappears, don’t worry. Try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Disable the proxy server
 
  If you’re using a proxy server, it may also cause the connection problem. Follow the instructions below to disable your proxy server to see if this issue reappears:
@@ -190,13 +204,6 @@ See if you can log in or not. if not, try the next fix, below.
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Change the DNS server
 
 **Google Public DNS** provides you with **a speed boost** and **an increased security.** Try changing the DNS server in your PC to the Google Public DNS addresses to see if this issue can be resolved. Here is how to do it:
@@ -209,13 +216,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
 
@@ -223,13 +223,6 @@ See if you can log in or not. if not, try the next fix, below.
 6. Select**Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.  
 ![TCP/IPv4 Properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Internet-protocol-verison-4-properties.jpg)
 7. Restart your PC and launch Fortnite.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115916/19272" target="_top" id="2115916">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115916" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115916/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 See if you can log in or not. If not, try the next fix.
 
@@ -242,6 +235,13 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -266,20 +266,20 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-capture.techidaily.com/updated-freeze-the-action-find-these-top-9-gif-recipes-on-windows-pc-for-2024/"><u>[Updated] Freeze the Action! Find These Top 9 GIF Recipes on Windows PC for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/2024-approved-unveiling-leading-edge-vr-developers/"><u>2024 Approved Unveiling Leading-Edge VR Developers</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/best-sandbox-games-titles-you-shouldnt-be-missing-for-2024/"><u>Best Sandbox Games Titles You Shouldn’t Be Missing for 2024</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/essential-ai-learning-hubs-best-places-for-novices-in-ai-tools/"><u>Essential AI Learning Hubs: Best Places for Novices in AI Tools</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/get-your-hid-keyboard-running-smoothly-download-and-update-driver-here/"><u>Get Your HID Keyboard Running Smoothly: Download & Update Driver Here</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gta-5-crash-analysis-causes-and-effective-solutions-for-uninterrupted-playtime/"><u>GTA 5 Crash Analysis: Causes and Effective Solutions for Uninterrupted Playtime</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-install-the-new-canoscan-lide-220-driver-update/"><u>How to Install the New Canoscan LiDE 220 Driver Update</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/how-to-stream-anything-from-realme-gt-neo-5-to-apple-tv-drfone-by-drfone-android/"><u>How To Stream Anything From Realme GT Neo 5 to Apple TV | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-realme-gt-neo-5-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Realme GT Neo 5 Unlock Without Password</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/instagram-video-loading-boosted-tricks-for-all-devices/"><u>Instagram Video Loading Boosted Tricks for All Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-stuttering-glitches-in-splitgate-for-a-smoother-gameplay-tips-to-fix-low-fps/"><u>Overcoming Stuttering Glitches in Splitgate for a Smoother Gameplay: Tips to Fix Low FPS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-version-of-days-gone-now-available-get-ready-for-action/"><u>PC Version of 'Days Gone' Now Available - Get Ready for Action!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-euro-truck-simulator-2-crashes-on-your-computer-with-ease/"><u>Resolving Euro Truck Simulator 2 Crashes on Your Computer with Ease</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-when-you-encounter-a-dark-display-with-epic-games-launcher/"><u>Solution Guide: When You Encounter a Dark Display with Epic Games Launcher</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-frozen-state-of-new-world-unraveling-the-causes-and-fixes/"><u>The Frozen State of New World: Unraveling the Causes & Fixes</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-proven-strategies-maximizing-efficiency-in-your-mobizen-screencast-processes-for-2024/"><u>[Updated] Proven Strategies Maximizing Efficiency in Your Mobizen Screencast Processes for 2024</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/3-facts-you-need-to-know-about-screen-mirroring-lava-blaze-curve-5g-drfone-by-drfone-android/"><u>3 Facts You Need to Know about Screen Mirroring Lava Blaze Curve 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boost-your-buzz-telegram-tactics-for-impactful-promotion/"><u>Boost Your Buzz Telegram Tactics for Impactful Promotion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-de-videos-en-lignes-changer-des-fichier-mov-en-format-asf-gratuitement-via-movavi-instructions-simplifiees/"><u>Conversion De Vidéos en Lignes : Changer Des Fichier MOV en Format ASF Gratuitement via Movavi - Instructions Simplifiées</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descargar-e-importar-archivos-avi-de-formato-3gpp-sin-coste-adicional-con-movavi/"><u>Descargar E Importar Archivos AVI De Formato 3GPP Sin Coste Adicional Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descubre-como-transformar-tus-fotos-en-formato-cr2-a-jpg-con-herramienta-libre-y-garantizar-la-maxima-fidelidad-visual/"><u>Descubre Cómo Transformar Tus Fotos en Formato CR2 a JPG Con Herramienta Libre Y Garantizar La Máxima Fidelidad Visual</u></a></li>
+<li><a href="https://driver-error.techidaily.com/diagnosing-and-fixing-error-e052-driver/"><u>Diagnosing & Fixing Error E052-Driver</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expertly-curated-animated-type-library-for-2024/"><u>Expertly Curated Animated Type Library for 2024</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/fixing-handbrake-issues-with-passthrough-capabilities-on-videos-and-dvds/"><u>Fixing Handbrake Issues with Passthrough Capabilities on Videos & DVDs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-e-online-conversor-de-videos-wmv-para-formato-flac-com-o-software-movavi/"><u>Gratuito E Online: Conversor De Vídeos WMV Para Formato FLAC Com O Software Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-microphones-for-high-resolution-4k-video-shooting/"><u>In 2024, Prime Microphones for High-Resolution 4K Video Shooting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mov-m4a-m4b-movavi/"><u>MOV 以及 M4A, M4B 等多種格式的直接 MOVAVI 無限制免費解碼器 - 適用於任何平台的優化</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-no-cost-tool-for-swiftly-transforming-snd-audio-to-high-quality-mp3-streams/"><u>Movavi's No-Cost Tool for Swiftly Transforming .SND Audio to High-Quality MP3 Streams</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/topo-conversores-de-videos-gratuitos-para-windows-una-lista-completa/"><u>Topo Conversores De Videos Gratuitos Para Windows: Una Lista Completa</u></a></li>
 </ul></div>
 

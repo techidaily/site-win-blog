@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Troubleshooting: Stability Issues with Manor Lords on PC"
-date: 2024-09-15T06:29:08.856Z
-updated: 2024-09-17T05:09:11.136Z
+date: 2024-09-14T23:43:46.547Z
+updated: 2024-09-21T19:18:31.102Z
 tags:
   - win11
   - win10
@@ -102,6 +102,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View the Control Panel by **Large icons** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -114,15 +121,16 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148637/16836" target="_top" id="2148637">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148637" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148637/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
@@ -142,19 +150,6 @@ Here are the system requirements for Control:
 6. Modify the settings the same way you see in the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
@@ -191,13 +186,6 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -213,22 +201,15 @@ Here are the system requirements for Control:
 2. Click **Verify** to start verifying the game files.  
 
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
@@ -237,6 +218,13 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -250,6 +238,13 @@ Here are the system requirements for Control:
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868495/19272" target="_top" id="1868495">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868495" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868495/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -277,16 +272,12 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-in-2024-elevate-your-editing-game-with-speed-control-skills/"><u>[New] In 2024, Elevate Your Editing Game with Speed Control Skills</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/updated-how-can-you-stream-a-pre-recorded-video-live-on-facebook-for-2024/"><u>[Updated] How Can You Stream A Pre-Recorded Video Live on Facebook for 2024</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-effortless-preservation-of-your-loved-instagram-reels/"><u>2024 Approved Effortless Preservation of Your Loved Instagram Reels</u></a></li>
-<li><a href="https://win-blog.techidaily.com/2024-ultimate-tips-to-prevent-and-solve-game-crashes-in-blizzards-reforged-version/"><u>2024 Ultimate Tips to Prevent and Solve Game Crashes in Blizzard's Reforged Version</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-fix-for-recurring-gameplay-interruptions-during-darkest-dungeon-2-playthroughs/"><u>Comprehensive Fix for Recurring Gameplay Interruptions During Darkest Dungeon 2 Playthroughs.</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/free-download-installing-the-hp-deskjet-2755e-printer-software-on-windows-systems/"><u>Free Download: Installing the HP Deskjet 2755E Printer Software on Windows Systems</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-the-ultimate-guide-how-to-bypass-swipe-screen-to-unlock-on-infinix-zero-30-5g-device-by-drfone-android/"><u>In 2024, The Ultimate Guide How to Bypass Swipe Screen to Unlock on Infinix Zero 30 5G Device</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-gionee-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Gionee Android SIM Unlock APK</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/ottimizzazione-digitale-con-digiarty-professionalisti-della-conversione-e-conservazione-video-and-dvd/"><u>Ottimizzazione Digitale Con Digiarty – Professionalisti Della Conversione E Conservazione Video & DVD</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-crashing-problems-in-oxygen-a-comprehensive-guide/"><u>Resolving 'Crashing' Problems in Oxygen - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-stable-adobe-after-effects-performance-in-windows-1110-environments/"><u>Troubleshooting Tips for Stable Adobe After Effects Performance in Windows 11/10 Environments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/como-cambiar-tu-musica-de-mp3-a-avi-sin-costo-tutorial-completo-para-usuarios-de-movavi/"><u>Cómo Cambiar Tu Música De MP3 a AVI Sin Costo - Tutorial Completo Para Usuarios De Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/dominating-2021-a-detailed-review-of-the-unbeatable-alienware-aurora-r11/"><u>Dominating 2021: A Detailed Review of the Unbeatable Alienware Aurora R11</u></a></li>
+<li><a href="https://driver-install.techidaily.com/efficient-computing-with-the-latest-intel-82579lm-driver-updates/"><u>Efficient Computing with the Latest Intel 82579LM Driver Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-expertos-transformacion-de-imagenes-webp-en-formato-gif-metodos-faciles-y-eficientes/"><u>Guía Expertos: Transformación De Imágenes WebP en Formato GIF - Métodos Fáciles Y Eficientes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-post-a-picture-on-youtube/"><u>In 2024, How to Post a Picture on YouTube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcodification-de-fichiers-mpe-en-mp3-gratuite-sur-internet-tutoriel-movavi/"><u>Transcodification De Fichiers MPE en MP3 Gratuite Sur Internet - Tutoriel Movavi</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-a05-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy A05 | Dr.fone</u></a></li>
 </ul></div>
 

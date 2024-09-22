@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Mordhau Crash Issues with Our Expert Tips
-date: 2024-09-12T20:05:20.500Z
-updated: 2024-09-16T20:11:58.211Z
+date: 2024-09-14T16:21:55.708Z
+updated: 2024-09-22T02:40:12.507Z
 tags:
   - win11
   - win10
@@ -74,18 +74,18 @@ thumbnail: https://thmb.techidaily.com/292b65daa58a3cb7189f78d0565b817f09110724b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528685/16446" target="_top" id="1528685">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528685" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528685/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  _The system requirements information is captured from Epic Games Launcher_
 
@@ -111,21 +111,22 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -145,13 +146,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139118/17108" target="_top" id="2139118">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139118" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139118/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
@@ -166,13 +160,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -221,13 +208,20 @@ Here are the system requirements for Control:
 2. Click **Verify** to start verifying the game files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
@@ -277,17 +271,19 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://desktop-recording.techidaily.com/new-best-skype-recorders-for-quality-compiled/"><u>[New] Best Skype Recorders for Quality Compiled</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-seeking-authentic-ps2-play-check-out-the-5-best-android-simulators/"><u>[Updated] Seeking Authentic PS2 Play? Check Out the 5 Best Android Simulators</u></a></li>
-<li><a href="https://win-blog.techidaily.com/banish-lag-from-your-street-fighter-groove-expert-fixes-for-a-smooth-gaming-experience/"><u>Banish LAG From Your Street Fighter Groove: Expert Fixes for a Smooth Gaming Experience</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/experience-next-gen-viewing-hitachis-4k-uhd-tvs-featuring-integrated-roku/"><u>Experience Next-Gen Viewing: Hitachi's 4K UHD TVs Featuring Integrated Roku</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-frequent-crashes-in-praey-for-the-overlord-when-played-on-pc/"><u>Expert Tips to Resolve Frequent Crashes in Praey for the Overlord When Played on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fortnite-woes-defeated-a-step-by-step-solution-to-eliminating-the-windows-blackout-glitch/"><u>Fortnite Woes Defeated? A Step-by-Step Solution to Eliminating the Windows Blackout Glitch</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/ideal-free-messaging-tools-tailored-for-ios-users-iphone-and-ipod-touch-focused/"><u>Ideal Free Messaging Tools Tailored for iOS Users: IPhone & iPod Touch Focused</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-iconic-nintendo-switch-combat-games-compilation-max-156/"><u>In 2024, Iconic Nintendo Switch Combat Games Compilation (Max 156)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/microsoft-flight-simulator-2020-overcome-update-issues-and-get-back-in-the-sky/"><u>Microsoft Flight Simulator 2020 - Overcome Update Issues & Get Back In The Sky</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-your-fortnite-endless-loop-of-the-load-screen/"><u>Resolved: Troubleshooting Your Fortnite Endless Loop of the Load Screen</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-infinix-note-30-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Infinix Note 30 5G Location | Dr.fone</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-storytelling-made-easy-a-final-cut-pro-slideshow-tutorial-for-all-levels/"><u>Updated In 2024, Video Storytelling Made Easy A Final Cut Pro Slideshow Tutorial for All Levels</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-essential-mobile-media-creation-tools-iphone-vs-android-review/"><u>[Updated] 2024 Approved Essential Mobile Media Creation Tools IPhone vs Android Review</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-android-audio-capture-techniques-rootless-options/"><u>[Updated] Android Audio Capture Techniques - Rootless Options</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-first-rate-biodegradable-filming-gear-tutorials/"><u>2024 Approved First-Rate Biodegradable Filming Gear Tutorials</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/deciphering-snss-hdr-capabilities-and-comparisons/"><u>Deciphering SNS's HDR Capabilities and Comparisons</u></a></li>
+<li><a href="https://windows11.techidaily.com/decoding-display-discrepancies-winning-windows-with-wisdom/"><u>Decoding Display Discrepancies: Winning Windows with Wisdom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/duiskaldervaesen-ekstremt-tilpasset-lydkontrol-i-videoproduktionen/"><u>Duiskåldervæsen: Ekstremt Tilpasset Lydkontrol I Videoproduktionen</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722969067240-get-the-latest-creative-soundblaster-driver-software-on-windows-11-heres-how/"><u>Get the Latest Creative SoundBlaster Driver Software on Windows 11 – Here's How!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-rescue-lost-pictures-from-infinix-note-30-pro-by-fonelab-android-recover-pictures/"><u>How to Rescue Lost Pictures from Infinix Note 30 Pro?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-vivo-s17e-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Vivo S17e to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/jpeg-gif/"><u>JPEG 대 GIF로의 절충: 원거리 유지를 위한 무료 오피엠 혁신적인 해결 사항</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kostenloze-omzetting-flac-file-naar-ogg-gratis-online-bewerking-met-movavi/"><u>Kostenloze Omzetting Flac-File Naar Ogg - Gratis Online Bewerking Met Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ri-conversione-mpeg-a-wma-online-gratuita-con-movavi-come-fare/"><u>Ri-Conversione MPEG a WMA Online Gratuita Con Movavi - Come Fare</u></a></li>
+<li><a href="https://driver-install.techidaily.com/visual-excellence-rtx-3090-drivers-direct-download/"><u>Visual Excellence: RTX 3090 Drivers, Direct Download</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kleisto-sklhrokaptaba-live-video-se-mp3-perigwn-and-dynama/"><u>Κλειστό Σκληροκάπταβα Live Video Σε MP3 - [Περίγων & Δύναμα]</u></a></li>
 </ul></div>
 

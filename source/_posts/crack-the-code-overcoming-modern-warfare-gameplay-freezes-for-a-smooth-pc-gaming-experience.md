@@ -1,7 +1,7 @@
 ---
 title: "Crack the Code: Overcoming Modern Warfare Gameplay Freezes for a Smooth PC Gaming Experience"
-date: 2024-09-14T01:20:03.752Z
-updated: 2024-09-17T04:32:12.152Z
+date: 2024-09-17T22:13:43.061Z
+updated: 2024-09-21T23:41:16.187Z
 tags:
   - win11
   - win10
@@ -81,15 +81,15 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/11.jpg)
 3. Click the**Game Settings** tab. Then tick**Additional command line arguments** and enter**\-D3D11** in the text field.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/12.jpg)
 4. Click**Done** to confirm.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Restart Warzone for the changes to take effect. See if you could get rid of the 6328 error now. If the problem persists, there are a few more fixes to try.
 
@@ -104,13 +104,6 @@ wireless router
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-2.jpg)
 3. Select the**Advanced** tab and click**Change** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-3-1.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
 
@@ -118,17 +111,38 @@ wireless router
 5. Select**C drive** and check **Custom size** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105859/7443" target="_top" id="2105859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105859" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105859/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-5-1.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has, and click **OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Microsoft recommends you set the virtual memory no less than **1.5 times** and no more than **3 times** the amount of RAM on your computer. Here is a guide on [how to check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/4-6-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062447/7443" target="_top" id="1062447">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062447" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062447/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Delete the game cache files
 
@@ -139,13 +153,6 @@ wireless router
 
  Restart the Battle.net client and see whether you could play Warzone as normal. If the game is still unplayable, try the last method.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6 – Adjust the in-game graphics settings
 
  If you’re able to get into Warzone and the error 6328 appears only in the middle of the game, tweaking certain graphics settings might help the situation. Here’s how:
@@ -154,13 +161,6 @@ wireless router
 2. Navigate to the**Graphics** tab. Then set the_Display Mode_ to**Fullscreen Borderless** , and turn_Sync Every Frame (V-Sync)_ to**On (Enabled)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings1.jpg)
 3. Scroll down to the Details & Textures section and set_Texture Resolution_ and_Texture Filter Anisotropic_ to**Normal** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/graphics-settings2.jpg)
 
@@ -188,21 +188,18 @@ wireless router
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-video-recordings.techidaily.com/new-earnings-demystified-youtube-shorts-revenue-split-explained/"><u>[New] Earnings Demystified YouTube Shorts Revenue Split Explained</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unmatched-12-apps-for-endless-screen-saving/"><u>[New] Unmatched 12 Apps for Endless Screen Saving</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-battlenet-launcher-not-working-on-windows/"><u>[SOLVED] Battle.net Launcher Not Working on Windows</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-streaming-fb-video-content-on-television-devices/"><u>[Updated] 2024 Approved Streaming FB Video Content On Television Devices</u></a></li>
-<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-honor-70-lite-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Honor 70 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-now-and-next-how-todays-drones-shape-tomorrows-world/"><u>2024 Approved Now & Next How Today's Drones Shape Tomorrow's World</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ftdi-bus-error-driver-mismatch-causes-memory-integrity-issue/"><u>FTDI Bus Error: Driver Mismatch Causes Memory Integrity Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ghostwire-tokyo-pc-performance-optimization-no-more-crashes/"><u>Ghostwire: Tokyo PC Performance Optimization - No More Crashes!</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Lava Blaze Pro 5G? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-valorants-pc-launch-problems-with-our-2024-troubleshooting-tips/"><u>How To Fix Valorant's PC Launch Problems With Our 2024 Troubleshooting Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-cannot-start-error-in-forza-horizon-4-april-2023-update/"><u>How To Fix: 'Cannot Start' Error in Forza Horizon 4 - April 2023 Update</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-vivo-x100-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Vivo X100 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/nvidia-shield-tv-pro-evaluation-the-preeminent-choice-for-interactive-streaming/"><u>Nvidia Shield TV Pro Evaluation - The Preeminent Choice for Interactive Streaming</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-cyberpunk-2077-game-crashes-on-pc-effective-strategies-revealed/"><u>Troubleshooting Cyberpunk 2077 Game Crashes on PC - Effective Strategies Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-davinci-resolve-launch-issues-on-your-windows-machine/"><u>Troubleshooting Guide: Fixing DaVinci Resolve Launch Issues on Your Windows Machine</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-stalled-2024-finals-step-by-step-guide-to-successful-launches/"><u>Troubleshooting Stalled 2024 Finals: Step-by-Step Guide to Successful Launches</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-spotting-a-block-snapchat-notifications-gone-mute-for-2024/"><u>[New] Spotting a Block Snapchat Notifications Gone Mute for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-smart-recording-solutions-for-schools-and-colleges/"><u>[Updated] Smart Recording Solutions for Schools & Colleges</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/30-best-kept-secrets-to-livestream-conferences-at-no-charge-for-2024/"><u>30 Best-Kept Secrets to Livestream Conferences at No Charge for 2024</u></a></li>
+<li><a href="https://network-issues.techidaily.com/card-problem-solution-error-43/"><u>Card Problem Solution - Error 43</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-analysis-hero4-black-overview-for-2024/"><u>Comprehensive Analysis Hero4 Black Overview for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/facilita-il-tuo-lavoro-con-il-convertitore-mov-avvantaggiato-ape-online-free-da-movavi/"><u>Facilita Il Tuo Lavoro Con Il Convertitore MOV Avvantaggiato - APE Online Free Da Movavi</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/in-2024-from-sketch-to-screen-mastering-animation-drawing-with-the-top-7-software/"><u>In 2024, From Sketch to Screen Mastering Animation Drawing with the Top 7 Software</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-iphone-11-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your iPhone 11 in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-dts/"><u>Movavi DTSファイルを即座に無料で変換する方法 - 簡単なガイド</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/perfectly-syncing-android-iconography-with-wallpapers-a-comprehensive-guide/"><u>Perfectly Syncing Android Iconography with Wallpapers: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-streaming-with-vlc-adding-and-saving-subtitles-for-good-using-movavi-software-tools/"><u>Seamless Streaming with VLC: Adding & Saving Subtitles for Good Using Movavi Software Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/techniques-faciles-divisez-votre-musique-sur-internet-sans-payer/"><u>Techniques Faciles: Divisez Votre Musique Sur Internet Sans Payer!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-hidden-costs-of-mining-bitcoin-on-your-personal-computer/"><u>The Hidden Costs of Mining Bitcoin on Your Personal Computer</u></a></li>
 </ul></div>
 

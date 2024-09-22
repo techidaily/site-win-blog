@@ -1,7 +1,7 @@
 ---
 title: Solving Persona N-RELOAD Failure to Launch Issues
-date: 2024-09-11T03:13:15.008Z
-updated: 2024-09-16T16:37:34.889Z
+date: 2024-09-15T01:11:02.466Z
+updated: 2024-09-22T02:49:20.698Z
 tags:
   - win11
   - win10
@@ -106,6 +106,13 @@ Here’s how to do it:
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -126,6 +133,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/947746/11832" target="_top" id="947746">
+  <img src="//a.impactradius-go.com/display-ad/11832-947746" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947746/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** and get a 30-day money guarantee).
@@ -133,10 +147,10 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-857.png)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Once updated, restart your computer to take effect.
@@ -144,13 +158,6 @@ OR
 Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Solution 4: Turn off Origin In-Game Overlay
 
@@ -162,13 +169,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
@@ -176,6 +176,13 @@ Now launch Anthem on your computer, and your game should be loading.
  4) Switch it to**Off** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 5) Restart Origin and Anthem to see how it works.
 
@@ -211,13 +218,6 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-930.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Under Advanced Graphics Settings, modify the available graphics quality settings, such as**Texture Quality** ,**Lighting Quality** , and**Effects Quality** .
 
  If the option is**Ultra** or**High** , change it to**Medium** or**Low** . If the option is**Medium** or**Low** , change it to**Ultra** or**High** .
@@ -225,10 +225,10 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136619/26400" target="_top" id="2136619">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136619" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136619/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Save your changes.
@@ -255,17 +255,18 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-innovative-tech-the-most-advanced-5-video-recorders/"><u>[Updated] 2024 Approved Innovative Tech The Most Advanced 5 Video Recorders</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-pioneering-tech-in-vr-content-creation/"><u>[Updated] 2024 Approved Pioneering Tech in VR Content Creation</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-windows-best-camcorders-reviewed-and-rated/"><u>[Updated] 2024 Approved Window's Best Camcorders Reviewed & Rated</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-in-depth-comparison-the-finest-streaming-tv-platforms/"><u>[Updated] In-Depth Comparison The Finest Streaming TV Platforms</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/1721267383331-essential-iphone-file-restoration-service-save-your-precious-data-today/"><u>Essential iPhone File Restoration Service - Save Your Precious Data Today</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-itel-p55-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Itel P55 Phone FRP Lock</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-dota-2-latency-updated-best-practices-and-tips-for-gamers/"><u>Overcoming Dota 2 Latency: Updated Best Practices and Tips for Gamers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-performance-issues-fix-the-freezing-problem-in-code-vein-for-a-smooth-experience/"><u>Resolving Performance Issues: Fix the Freezing Problem in Code Vein for a Smooth Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/steady-panning-for-smooth-cinematography-for-2024/"><u>Steady Panning for Smooth Cinematography for 2024</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/steps-to-resolve-print-management-service-absence-in-windows/"><u>Steps to Resolve 'Print Management' Service Absence in Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-the-helldivers-2-bsod-blue-screen-of-death-issue/"><u>Ultimate Guide: Resolving the Helldivers 2 BSOD (Blue Screen Of Death) Issue</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-are-there-legal-constraints-in-capturing-online-video-screenshots-in-2024/"><u>[Updated] Are There Legal Constraints in Capturing Online Video Screenshots, In 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-pixelpilots-perspective-leading-screen-recording-tools-of-the-year/"><u>[Updated] In 2024, PixelPilot's Perspective Leading Screen Recording Tools of the Year</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-in-2024-tips-for-enhancing-online-presence-with-imovie-on-vimeo/"><u>[Updated] In 2024, Tips for Enhancing Online Presence with iMovie on Vimeo</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-premiere-video-editing-options-for-app-developers/"><u>[Updated] Premiere Video Editing Options for App Developers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essentiel-pour-les-utilisateurs-transformer-vos-enregistrements-avec-loutil-convertisseur-wav-de-movavi/"><u>Essentiel Pour Les Utilisateurs : Transformer Vos Enregistrements Avec L'outil Convertisseur WAV De Movavi</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-unresponsive-touch-screen-on-vivo-v29e-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Fix Unresponsive Touch Screen on Vivo V29e | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-music-from-your-motorola-moto-g14-by-fonelab-android-recover-music/"><u>How to recover old music from your Motorola Moto G14</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-gif-looping-made-easy-best-free-software/"><u>New 2024 Approved GIF Looping Made Easy Best Free Software</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-bring-your-invitations-to-life-best-video-apps-for-ios-and-android-for-2024/"><u>New Bring Your Invitations to Life Best Video Apps for iOS and Android for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/os-8-melhores-microfones-para-sucesso-no-youtube-guia-completo/"><u>Os 8 Melhores Microfones Para Sucesso No Youtube: Guia Completo</u></a></li>
+<li><a href="https://driver-install.techidaily.com/solve-noisy-windows-11-reinstall-audio-hardware/"><u>Solve Noisy Windows 11: Reinstall Audio Hardware</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-14-gif-creation-tools-ultiemes-logiciels-de-creation-de-gifs/"><u>Top 14 GIF Creation Tools: Ultièmes Logiciels De Création De GIFs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ogg-m4a-oggtom4a/"><u>무료 OGG 및 M4A 파일 교체 - 원격 디스크 OggtoM4a</u></a></li>
 </ul></div>
 

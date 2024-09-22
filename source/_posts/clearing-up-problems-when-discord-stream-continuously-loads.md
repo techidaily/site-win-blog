@@ -1,7 +1,7 @@
 ---
 title: Clearing Up Problems When Discord Stream Continuously Loads
-date: 2024-09-13T21:58:27.081Z
-updated: 2024-09-16T21:33:39.390Z
+date: 2024-09-16T16:58:28.073Z
+updated: 2024-09-21T22:29:04.779Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ thumbnail: https://thmb.techidaily.com/9648422bd4a60544ea009a8215c8d33f0ea36e37b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Here are the system requirements for Control:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-system-requirements.png)
@@ -124,13 +131,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by Large icons.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
@@ -138,14 +138,28 @@ Here are the system requirements for Control:
 4. Click 3D to open the 3D settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
+
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
@@ -154,19 +168,6 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1983472">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -200,19 +201,6 @@ Here are the system requirements for Control:
 
  After installing Microsoft Visual C++ 2013 and Microsoft .NET Framework, you need to restart Windows. Then launch Control to see if this issue persists. If not, congratulations, you’ve resolved this issue! If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Install the latest Control patch
 
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -230,13 +218,6 @@ Here are the system requirements for Control:
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Control.
@@ -244,6 +225,13 @@ Here are the system requirements for Control:
  Since Control consumes a lot of memory and CPU usage when you’re playing a game, many third-party antivirus applications may regard it as a potential threat and Control may not run as expected. You can try   **adding Control as an exception to your third-party antivirus application** .
 
  Please consult your antivirus documentation for instructions if you don’t know how to do it.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 10: Run Program Compatibility Troubleshooter
 
@@ -256,6 +244,13 @@ Here are the system requirements for Control:
 3. Double-click the shortcut of Control on your desktop to launch it. This time Control will run in the compatibility mode you set in step 2.
 
 See if this fix works for you. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 11: Reinstall the game
 
@@ -283,19 +278,21 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://twitter-clips.techidaily.com/new-smile-slam-the-best-comedy-moments-on-social-media-for-2024/"><u>[New] Smile Slam The Best Comedy Moments on Social Media for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-escape-from-tarkov-keeps-crashing-on-pc/"><u>[SOLVED] Escape From Tarkov Keeps Crashing on PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-exploring-iphoneutility-mirror-photo-mastery-tips-for-2024/"><u>[Updated] Exploring iPhone'utility Mirror Photo Mastery Tips for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crash-free-gaming-resolving-stability-problems-in-oxygen-not-included/"><u>Crash-Free Gaming: Resolving Stability Problems in 'Oxygen Not Included'</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-for-when-your-minecraft-game-freezes-pc-solutions/"><u>Fixes for When Your Minecraft Game Freezes: PC Solutions</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Oppo K11x | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-resolve-fifa-22-pc-compatibility-and-performance-issues/"><u>Guide: Resolve FIFA 22 PC Compatibility and Performance Issues</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-oneplus-ace-3-location-on-skout-drfone-by-drfone-virtual-android/"><u>How to Change OnePlus Ace 3 Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/how-to-update-the-dell-smbus-controller-driver-step-by-step-tutorial/"><u>How to Update the Dell SMBus Controller Driver: Step-by-Step Tutorial</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/24-personalize-and-protect-youtube-channel-url-made-simple/"><u>In 2024, Personalize & Protect YouTube Channel URL Made Simple</u></a></li>
-<li><a href="https://techidaily.com/protecting-your-data-with-easy-backup-how-to-make-restore-points-in-windows-xp/"><u>Protecting Your Data with Easy Backup: How to Make Restore Points in Windows XP</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-launch-problems-in-team-fortress-2-for-seamless-gaming-experience/"><u>Resolving Launch Problems in Team Fortress 2 for Seamless Gaming Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/sony-vegas-continuous-crashes-heres-what-you-can-do-to-stabilize-your-editing-experience/"><u>Sony Vegas Continuous Crashes? Here's What You Can Do to Stabilize Your Editing Experience</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/the-swift-polsk-learners-handbook/"><u>The Swift Polsk Learner's Handbook</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-mastering-mobile-and-dslr-shooting-igtv-with-perfection/"><u>[New] Mastering Mobile & DSLR Shooting IGTV with Perfection</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-exceptional-facial-editing-software-iphoneandroid/"><u>2024 Approved Exceptional Facial Editing Software, iPhone/Android</u></a></li>
+<li><a href="https://win-blog.techidaily.com/converti-file-gsm-in-mp3-senza-costo-con-i-servizi-di-conversione-on-line-di-movavi/"><u>Converti File GSM in MP3 Senza Costo Con I Servizi Di Conversione On-Line Di Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/formatos-avanzados-de-contenido-visual-para-mejorar-la-presencia-en-youtube-descubre-con-movavi/"><u>Formatos Avanzados De Contenido Visual Para Mejorar La Presencia en YouTube - Descubre Con Movavi</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-and-reset-face-id-on-apple-iphone-x-drfone-by-drfone-ios/"><u>How to Remove and Reset Face ID on Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-stop-wallpaper-engine-from-crashing-on-your-pc-running-windows-11-or-10/"><u>How to Stop Wallpaper Engine From Crashing on Your PC Running Windows 11 or 10</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/mastering-mac-capturing-screens-with-record-feature/"><u>Mastering Mac Capturing Screens with Record Feature</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/mitigating-tech-disruptions-why-government-over-reliance-on-titans-like-microsoft-is-unwise/"><u>Mitigating Tech Disruptions: Why Government Over-Reliance on Titans Like Microsoft Is Unwise</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavim4bwavmp3/"><u>Movaviで手っ取り早く無料のオンラインM4BからWAVまたはMP3への変換</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/star-stellar-solutions-unmatched-in-ms-sql-repairment-says-gary/"><u>Star Stellar Solutions - Unmatched in MS SQL Repairment, Says Gary</u></a></li>
+<li><a href="https://howto.techidaily.com/super-easy-ways-to-deal-with-vivo-y100i-power-5g-unresponsive-screen-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Super Easy Ways To Deal with Vivo Y100i Power 5G Unresponsive Screen | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcodificar-un-archivo-wav-a-flac-gratis-online-con-convertidor-de-audio-movavi/"><u>Transcodificar Un Archivo WAV a FLAC Gratis Online Con Convertidor De Audio - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-flac-in-mp4-gratuitamente-su-internet-utilizzando-lefficient-movavi-converter/"><u>Trasforma I Tuoi File Flac in MP4 Gratuitamente Su Internet Utilizzando L'Efficient Movavi Converter</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-video-editors-toolkit-10-must-have-software/"><u>Updated In 2024, Video Editors Toolkit 10 Must-Have Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ts-flv-movavid/"><u>오피스에서 원자비로 TS 영상을 FLV로 전환 - MovaVid</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pef-movavi/"><u>웹 상호 작용 토대로 PEF 변환 기술 - Movavi</u></a></li>
 </ul></div>
 

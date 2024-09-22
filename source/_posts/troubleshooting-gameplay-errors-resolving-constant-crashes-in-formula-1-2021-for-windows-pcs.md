@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Gameplay Errors: Resolving Constant Crashes in Formula 1 2021 for Windows PCs"
-date: 2024-09-16T06:24:44.421Z
-updated: 2024-09-16T22:41:57.866Z
+date: 2024-09-16T17:46:19.260Z
+updated: 2024-09-21T22:57:57.049Z
 tags:
   - win11
   - win10
@@ -70,6 +70,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Temporarily disable your antivirus
 
  Antivirus is known to interfere with Football Manager 2021 and your Steam or Epic game launcher. To see if that’s the case, you could disable the antivirus programs first. In case you don’t know how, below are some links for your reference.
@@ -97,13 +104,6 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -113,29 +113,24 @@ So does the crash go away now? If not, there is the last fix to try.
 2. Right-click**Football Manager 2021** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
-4. Type**–config very\_low** in the text field and click**OK** .  
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
+4. Type**–config very\_low** in the text field and click**OK** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
@@ -165,16 +160,19 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-helps.techidaily.com/new-2024-approved-effortless-video-extraction-with-funimate-tools/"><u>[New] 2024 Approved Effortless Video Extraction with Funimate Tools</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-seamless-social-sharing-upload-a-twt/"><u>[New] Seamless Social Sharing Upload a Twt</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/updated-journey-towards-facebooks-premium-verified-emblem-for-2024/"><u>[Updated] Journey Towards Facebook's Premium Verified Emblem for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-panorama-pixels-cutting-edge-photo-assembler/"><u>2024 Approved Panorama Pixels Cutting-Edge Photo Assembler</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/2024-approved-social-media-savvy-how-to-download-status-vids-on-fb/"><u>2024 Approved Social Media Savvy How to Download Status Vids on FB</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/advanced-hardware-uncovered-by-tom-top-picks-and-performance-tips/"><u>Advanced Hardware Uncovered by Tom: Top Picks and Performance Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-fixes-to-get-saints-row-game-up-and-launching-on-pc-platforms/"><u>Easy Fixes to Get Saints Row Game Up and Launching on PC Platforms</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-fixes-for-windows-11-taskbar-not-working-easy-diy-troubleshooting-steps/"><u>Expert Fixes for Windows 11 Taskbar Not Working - Easy DIY Troubleshooting Steps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-smoothing-out-gameplay-and-achieving-high-frame-rates-fps-this-year/"><u>Expert Tips for Smoothing Out Gameplay & Achieving High Frame Rates (FPS) This Year</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-pre-launch-challenges-essential-advice-for-lifesaving-company-fixes/"><u>Overcoming Pre-Launch Challenges: Essential Advice for Lifesaving Company Fixes</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/understanding-hue-and-saturation-gopro-studio-edition-for-2024/"><u>Understanding Hue and Saturation GoPro Studio Edition for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-15-best-sites-to-find-and-download-royalty-free-music-for-youtube/"><u>[New] 2024 Approved 15 Best Sites to Find & Download Royalty-Free Music for YouTube</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-2024-approved-master-the-mix-combining-youtube-links-in-stories/"><u>[New] 2024 Approved Master the Mix Combining YouTube Links in Stories</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-cyberlinks-screen-recorder-an-expert-evaluation/"><u>[New] Cyberlink's Screen Recorder An Expert Evaluation</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-size-matters-crafting-engaging-video-titles/"><u>[New] Size Matters Crafting Engaging Video Titles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-gratuitement-un-fichier-ogg-en-format-mp4-sur-internet-movavi/"><u>Convertissez Gratuitement Un Fichier Ogg en Format MP4 Sur Internet - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descargas-exitosas-con-bitcomet-and-ktorrent-eleccion-numero-uno-para-reproductores-y-vistas-del-torrenting/"><u>Descargas Exitosas Con BitComet & KTorrent: Elección Número Uno Para Reproductores Y Vistas Del Torrenting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-audio-converter-mp3-and-wav-formats-by-movavi/"><u>Free Online Audio Converter - MP3 & WAV Formats by Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-transform-mp2-files-into-high-quality-flac-format-with-movavi/"><u>Free Online Converter: Transform MP2 Files Into High-Quality FLAC Format with Movavi</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-samsung-galaxy-m14-4g-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Samsung Galaxy M14 4G Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-2-ways-to-monitor-samsung-galaxy-s23-ultra-activity-drfone-by-drfone-virtual-android/"><u>In 2024, 2 Ways to Monitor Samsung Galaxy S23 Ultra Activity | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-wmvavi/"><u>Movavi 官方指南：無成本網站上，如何改變WMV到AVI - 直接轉檔器</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-the-road-a-comprehensive-review-of-the-learning-capable-escort-ix-radar-detector/"><u>Revolutionizing the Road: A Comprehensive Review of the Learning-Capable Escort iX Radar Detector</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/secrets-of-9-high-quality-webcam-enhancements/"><u>Secrets of 9 High-Quality Webcam Enhancements</u></a></li>
+<li><a href="https://win-blog.techidaily.com/f4vavi-movavi/"><u>オンラインで免責提供: F4VファイルをAVIに簡単変換の手引き - Movavi解説</u></a></li>
 </ul></div>
 

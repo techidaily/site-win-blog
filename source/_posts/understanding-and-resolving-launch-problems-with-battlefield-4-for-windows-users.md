@@ -1,7 +1,7 @@
 ---
 title: Understanding and Resolving Launch Problems with Battlefield 4 for Windows Users
-date: 2024-09-12T07:55:24.949Z
-updated: 2024-09-17T01:47:10.918Z
+date: 2024-09-15T18:40:49.236Z
+updated: 2024-09-22T00:54:02.705Z
 tags:
   - win11
   - win10
@@ -82,6 +82,13 @@ If the issue remains, check out the next solution.
 
  If updating the graphics driver doesn’t do the trick, try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run Battlefield 4 and Origin as administrator
 
  To make sure you have full access to all the game files, you can run Battlefield 4 and Origin as administrator. This might help you to fix the Battlefield 4 not launching issue. Here’s how:
@@ -90,34 +97,21 @@ If the issue remains, check out the next solution.
 2. Go to**_C:\\Program Files (x64)\\Origin Games\\Battlefield 4_** . Then right-click the**Bf4.exe** file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Properties1.jpg)
 3. Navigate to the**Compatibility** tab, Then check the box next to**Run this program as an administrator** and click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-properties.jpg)
-4. On your desktop, right-click the Origin client icon and select**Properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-properties.jpg)
+4. On your desktop, right-click the Origin client icon and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-properties.jpg)
 5. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-origin-as-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Check if Battlefield 4 launches properly.
 
@@ -133,17 +127,18 @@ Check if Battlefield 4 launches properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-game-properties-1.jpg)
 3. Under When launching this game, select**Battlefield 4™ (x86)** from the drop-down menu and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-86.jpg)
 4. Close Origin and start it again.
 5. Repeat step1 and step 2, then change game properties back to**Battlefield 4™ (x64)** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/bf4-64.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart your computer and check if you can launch Battlefield 4 successfully.
 
@@ -157,24 +152,25 @@ If this fix doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-offline.jpg)
 2. Run Battlefield 4 in this instance.
 
-<!-- affiliate ads begin -->
-<span id="1936838">
-					<video width="374" height="48" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1936838.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18409-1936838">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1936838.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:234px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcoinrule.sjv.io%2Fc%2F5597632%2F1936838%2F18409'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1936838/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Once the menu says you’re offline, switch windows to the Origin menu, then click**Go online** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-online.jpg)
 4. Return to the game and try to launch it again.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If Battlefield 4 is still not launching, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
 
@@ -210,17 +206,20 @@ Check if Battlefield 4 could launch normally.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-easing-into-your-youtube-watches-3-methods-50-chars/"><u>[New] 2024 Approved Easing Into Your YouTube Watches 3 Methods (50 Chars)</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/9-best-phone-monitoring-apps-for-vivo-y100a-drfone-by-drfone-virtual-android/"><u>9 Best Phone Monitoring Apps for Vivo Y100A | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-last-epoch-crashing-comprehensive-trouble-shooting-techniques/"><u>Beat Last Epoch Crashing: Comprehensive Trouble-Shooting Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dragon-age-origins-stability-fixes-for-windows-11-no-more-crashes/"><u>Dragon Age: Origins Stability Fixes for Windows 11 - No More Crashes!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortlessly-solve-world-of-warcraft-crashes-a-comprehensive-fix-guide/"><u>Effortlessly Solve World of Warcraft Crashes: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-google-frp-lock-on-lava-storm-5g-devices-by-drfone-android/"><u>How to Bypass Google FRP Lock on Lava Storm 5G Devices</u></a></li>
-<li><a href="https://facebook.techidaily.com/keeping-your-fb-page-pristine-banning-inappropriate-users/"><u>Keeping Your FB Page Pristine: Banning Inappropriate Users</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/mastering-the-art-of-ifunny-memes-for-2024/"><u>Mastering the Art of iFunny Memes for 2024</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/quiet-efficiency-with-the-acer-aspire-c27-the-ideal-all-in-one-workstation/"><u>Quiet Efficiency with the Acer Aspire C27 – The Ideal All-in-One Workstation</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-complete-guide-to-iphone-7-screen-recordings/"><u>The Complete Guide to iPhone 7 Screen Recordings</u></a></li>
-<li><a href="https://win-blog.techidaily.com/upcoming-features-of-the-rainbow-six-siege-the-2024-freeze-update-unveiled/"><u>Upcoming Features of the Rainbow Six Siege - The 2024 Freeze Update Unveiled!</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/ymu719-used-in-yamahas-own-surround-master-av-receiver-models-it-differs-from-the-yac513-by-adding-dolby-digital-live-encoding-hardware-and-an-extra-digital29/"><u>YMU719 - Used in Yamaha's Own Surround Master AV Receiver Models. It Differs From the YAC513 by Adding Dolby Digital Live Encoding Hardware and an Extra Digital Audio Input Connector (S/PDIF)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-sidestep-the-norm-alternatives-to-vidma-screen-record/"><u>[New] Sidestep the Norm Alternatives to Vidma Screen Record</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-guide-to-excellent-voice-recorders-for-macs/"><u>[Updated] 2024 Approved Guide to Excellent Voice Recorders for Macs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-streamline-video-communication-learn-to-add-timely-captions-on-fb-videos/"><u>[Updated] Streamline Video Communication Learn to Add Timely Captions on FB Videos</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-10-premium-luts-available-for-free/"><u>[Updated] Top 10 Premium LUTs, Available for FREE</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-end-of-struggle-operational-obs-camera/"><u>2024 Approved End of Struggle Operational OBS Camera</u></a></li>
+<li><a href="https://win-blog.techidaily.com/3-eficientes-tecnicas-para-transferir-podcasts-entre-pc-y-smartphone/"><u>3 Eficientes Técnicas Para Transferir Podcasts Entre PC Y Smartphone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-mkvflac/"><u>無料で容易にオンラインMovavi変換 - MKVファイルからFLACへの完全ガイド</u></a></li>
+<li><a href="https://techtrends.techidaily.com/best-virtual-camera-alternatives-discover-manycam-and-competing-live-streaming-tools/"><u>Best Virtual Camera Alternatives: Discover ManyCam and Competing Live Streaming Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambiar-archivo-tga-a-formato-de-linea-gratuito-con-movavi/"><u>Cambiar Archivo TGA a Formato De Línea Gratuito Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-converter-videos-amv-para-formato-mpg-com-movavi-o-site-de-conversao-online-facil/"><u>Gratuito: Converter Vídeos AMV Para Formato MPG Com Movavi, O Site De Conversão Online Fácil!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-7-ways-to-unlock-a-locked-xiaomi-mix-fold-3-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Xiaomi Mix Fold 3 Phone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726220985217-mp4movavi/"><u>MP4ファイルを効率的に変換するオンラインツール：MOVavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-free-conversion-transform-your-avis-to-ogg-with-ease-by-movavi/"><u>Online Free Conversion: Transform Your AVIs to Ogg with Ease by Movavi</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-common-sound-issues-in-halo-infinite-expert-advice/"><u>Troubleshooting Common Sound Issues in Halo Infinite: Expert Advice</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-steps-for-missing-coprocessor-drivers-on-windows-11-systems/"><u>Troubleshooting Steps for Missing Coprocessor Drivers on Windows 11 Systems</u></a></li>
 </ul></div>
 

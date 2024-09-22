@@ -1,7 +1,7 @@
 ---
 title: "Seamless Solution for PC Bugs: Mastering Assassin's Creed Odyssey Stability"
-date: 2024-09-13T16:53:23.289Z
-updated: 2024-09-16T23:09:02.133Z
+date: 2024-09-20T16:22:47.211Z
+updated: 2024-09-22T01:06:17.440Z
 tags:
   - win11
   - win10
@@ -63,10 +63,36 @@ Follow the steps below to fix the crashing issue.
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1975636">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Restart your computer for the changes to take effect.
+
+<!-- affiliate ads begin -->
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Install beta patch
 
@@ -78,29 +104,9 @@ Restart your computer for the changes to take effect.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_15-18-16.jpg)
 3. From the drop-down menu, select “**patch\_beta** ”.
 
-<!-- affiliate ads begin -->
-<span id="1938136">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4. Relaunch the game, you’ll be in the beta.
 
  That’s it, the beta patch should solve your crashing issue. But if the game is still crashing, you can try the below fixes or contact the SEGA team for help.
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 1: Lower your graphics settings
 
@@ -126,14 +132,28 @@ Restart your computer for the changes to take effect.
 1. Press the**Windows logo key + I** together and click**System** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/click-on-System.jpg)
 2. In the left panel, scroll down and click**About** . Find and click**Advanced system settings** on the right panel.  
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_12-33-00.jpg)
 3. In the**Advanced** tab, click**Settings…** under Performance.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-10-23.jpg)
@@ -142,23 +162,16 @@ Restart your computer for the changes to take effect.
 5. Uncheck**Automatically manage paging file size for all drives** . Select the drive that Yakuza 6: The Song of Life is installed.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6. Select**Custom size** . The Initial size should be the**Recommended size** that under**Total paging file size for all drives** .  
  Mine is**2918** MB.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-06_14-21-19.jpg)
 7. For Maximum size, you need to check your Ram of PC.  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Your PC Ram \*1024= Maximum size (MB)** .  
  Mine has 16GB, so the number should be 16\*1024=16384 MB. Click OK to apply the changes.  
@@ -184,14 +197,20 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/effective-solution-to-prevent-fortnite-from-exceeding-video-memory-limits/"><u>Effective Solution to Prevent Fortnite From Exceeding Video Memory Limits</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortless-guide-debugging-common-errors-on-discordjs-platform/"><u>Effortless Guide: Debugging Common Errors on DiscordJS Platform</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-to-overcoming-game-crashes-in-dirt-5-for-a-smooth-gaming-experience-on-pc/"><u>Guide to Overcoming Game Crashes in Dirt 5 for a Smooth Gaming Experience on PC</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-seamless-streams-addressing-instagrams-video-snags/"><u>In 2024, Seamless Streams Addressing Instagram's Video Snags</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-2024-approved-how-to-add-music-to-mp4-video-with-excellent-quality/"><u>New 2024 Approved How to Add Music to MP4 Video With Excellent Quality</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-free-movie-magic-16-user-friendly-video-editors-to-try/"><u>New In 2024, Free Movie Magic 16 User-Friendly Video Editors to Try</u></a></li>
-<li><a href="https://win-blog.techidaily.com/professional-solutions-a-comprehensive-list-of-six-ways-to-increase-fps-in-eft/"><u>Professional Solutions: A Comprehensive List of Six Ways to Increase FPS in EFT</u></a></li>
-<li><a href="https://driver-install.techidaily.com/quick-and-free-access-to-canon-scanner-drivers-pc-edition/"><u>Quick & Free Access to Canon Scanner Drivers, PC Edition</u></a></li>
-<li><a href="https://video-creation-software.techidaily.com/updated-2024-approved-weve-selected-the-best-online-video-stabilizers-that-enable-you-to-fix-your-videos-effortlessly-now-lets-see-web-based-platforms-used-/"><u>Updated 2024 Approved Weve Selected the Best Online Video Stabilizers that Enable You to Fix Your Videos Effortlessly. Now Lets See Web-Based Platforms Used to Stabilize Your Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-crafting-memorable-experiences-with-vr-escapades/"><u>[Updated] 2024 Approved Crafting Memorable Experiences with VR Escapades</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-from-barely-seen-to-highly-engaged-the-journey-of-youtube-short-success/"><u>[Updated] From Barely Seen to Highly Engaged The Journey of YouTube Short Success</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovative-iphone-collages-the-ultimate-guide-to-cutting-edge-design/"><u>2024 Approved Innovative iPhone Collages The Ultimate Guide to Cutting-Edge Design</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3-ways-to-fake-gps-without-root-on-oppo-k11x-drfone-by-drfone-virtual-android/"><u>3 Ways to Fake GPS Without Root On Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp3movavivob/"><u>線上自由改成MP3格式：利用Movavi轉化VOB影片</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/converting-your-dvd-collection-for-enjoyment-on-android-devices-a-comprehensive-guide/"><u>Converting Your DVD Collection for Enjoyment on Android Devices: A Comprehensive Guide</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-ultimate-rankings-top-11-streaming-audio-gear/"><u>In 2024, Ultimate Rankings Top 11 Streaming Audio Gear</u></a></li>
+<li><a href="https://win11.techidaily.com/mending-disconnected-google-drive-windows-filesystem/"><u>Mending Disconnected Google Drive Windows Filesystem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-effortless-and-free-online-nsv-file-format-changes/"><u>Movavi: Effortless & Free Online NSV File Format Changes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ntscmovavi/"><u>NTSCへのパルコード変換手順【Movavi専用ガイド】</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-process-for-simultaneous-watch-party-streaming-with-netflix/"><u>Step-by-Step Process for Simultaneous Watch Party Streaming with Netflix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/topo-14-de-programas-de-preparacao-para-palestras-opcoes-livres-e-premium-em-2024/"><u>Topo 14 De Programas De Preparação Para Palestras: Opções Livres E Premium Em 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-pgm-in-jpeg-gratuitamente-con-il-convertitore-di-movavi-online/"><u>Trasforma I Tuoi File PGM in JPEG Gratuitamente Con Il Convertitore Di Movavi Online!</u></a></li>
+<li><a href="https://discover-helper.techidaily.com/winxvideo-ai-rapido-e-facile-trasformazione-di-videoclip-e-audio-con-velocita-accelerata/"><u>WinxVideo AI - Rapido E Facile Trasformazione Di Videoclip E Audio Con Velocità Accelerata</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726221062806-movaviavi/"><u>オンラインでのMovavi無料AVIファイル変換サービス - 即座にアクセス可能</u></a></li>
 </ul></div>
 

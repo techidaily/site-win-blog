@@ -1,7 +1,7 @@
 ---
 title: "Solved: Overcome NBA 2K23 PC Crashes with These 7 Effective Solutions"
-date: 2024-09-15T22:11:57.760Z
-updated: 2024-09-16T17:42:21.307Z
+date: 2024-09-15T20:22:35.509Z
+updated: 2024-09-21T20:45:53.045Z
 tags:
   - win11
   - win10
@@ -54,13 +54,6 @@ This incredibly lightweight client – uTorrent – enjoys wide popularity aroun
 3. Click**Apply > OK** .
 4. Restart your computer then run uTorrent again.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Allow uTorrent through Firewall
 
  Although the uTorrent setup wizard can automatically add an exception for uTorrent in Windows Firewall, you may have to add uTorrent as an exception manually in other antivirus or security apps.
@@ -76,10 +69,10 @@ Follow the links below to check how to do it:
 * **[AVG Antivirus](https://support.avg.com/SupportArticleView?l=en&urlname=AVG-Antivirus-scan-exclusions)**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Disable proxies
@@ -103,6 +96,13 @@ Follow the links below to check how to do it:
 1. Press the Windows logo key + R, enter**%AppData%utorrent** in the Run box.
 2. Delete all the contents of the folder present.
 3. Restart your computer and launch uTorrent again.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Delete downloading files
 
@@ -138,10 +138,10 @@ Follow the links below to check how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/update-all-your-drivers-2-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049387/7443" target="_top" id="2049387">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049387" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049387/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  We also offer the**Free Version** :  
@@ -168,17 +168,21 @@ Follow the links below to check how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-2024-approved-is-av1-the-new-video-codec-front-runner/"><u>[Updated] 2024 Approved Is AV1 The New Video Codec Front-Runner?</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-exploring-and-expressing-a-comprehensible-guide-to-becoming-a-travel-videographer-for-2024/"><u>[Updated] Exploring & Expressing A Comprehensible Guide to Becoming a Travel Videographer for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-oneplus-nord-ce-3-lite-5g-by-drfone-android/"><u>10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On OnePlus Nord CE 3 Lite 5G</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-polaroid-xs-100i-action-camera-review/"><u>2024 Approved Polaroid XS 100I Action Camera Review</u></a></li>
-<li><a href="https://win-blog.techidaily.com/a-detailed-guide-preventing-and-solving-pc-based-blender-app-crashes-effectively/"><u>A Detailed Guide: Preventing and Solving PC-Based Blender App Crashes Effectively</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-the-official-fix-for-your-wireless-card-model-killer-combocard-pro-1535/"><u>Download the Official Fix for Your Wireless Card - Model: Killer ComboCard Pro 1535</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-frame-rate-problems-solving-outriders-low-fps-woes/"><u>Fixing Frame Rate Problems: Solving Outriders' Low FPS Woes</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabled-iphone-15-plus-how-to-unlock-a-disabled-iphone-15-plus-by-drfone-ios/"><u>In 2024, Disabled iPhone 15 Plus How to Unlock a Disabled iPhone 15 Plus?</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-premiere-add-ons-for-firefox-recording/"><u>In 2024, Premiere Add-Ons for Firefox Recording</u></a></li>
-<li><a href="https://win-blog.techidaily.com/minecraft-native-launcher-not-updating-heres-the-solution/"><u>Minecraft Native Launcher Not Updating? Here's The Solution!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-when-your-nvidia-control-panel-wont-start/"><u>Troubleshooting Guide: When Your Nvidia Control Panel Won't Start</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-fix-persistent-crashes-in-call-of-duty-warzone-20-for-pc-gamers/"><u>Troubleshooting: How to Fix Persistent Crashes in Call of Duty Warzone 2.0 for PC Gamers</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-chromatic-brilliance-for-video-enthusiasts/"><u>[Updated] Chromatic Brilliance for Video Enthusiasts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-leading-tech-premium-choices-of-mac-videograbbers/"><u>[Updated] In 2024, Leading Tech Premium Choices of Mac Videograbbers</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-secrets-to-proficient-mobile-and-desktop-film-recording/"><u>[Updated] In 2024, Secrets to Proficient Mobile and Desktop Film Recording</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-rewind-and-repeat-mastering-youtube-inversion/"><u>[Updated] Rewind and Repeat Mastering YouTube Inversion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1-wav-mp3-movavi/"><u>1. 網路無限制自由地 WAV 到 MP3 轉換 - 使用 Movavi 音頻編輯器</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vobmpeg-2movavi/"><u>無需花費的移動式電影VOB到MPEG-2編碼：Movavi直接轉換工具</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/apex-legends-solo-mode-top-choices-for-non-crossplay-gaming/"><u>Apex Legends Solo Mode Top Choices for Non-Crossplay Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-note-30-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from Note 30</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-15-pro-max-to-other-iphone-13-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 15 Pro Max To Other iPhone 13 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/how-watermarks-safeguard-your-digital-pictures-for-2024/"><u>How Watermarks Safeguard Your Digital Pictures for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/restore-hidden-desktop-icons-on-windows-11/"><u>Restore Hidden Desktop Icons on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tuto-guide-complementaire-comment-personnalisez-votre-demarrage-video-pour-youtube-sans-frais/"><u>Tuto-Guide Complémentaire : Comment Personnalisez Votre Démarrage Vidéo Pour YouTube Sans Frais</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-ultimate-savings-discover-the-25-finest-gratis-ip-cameras-by-reputable-software-brands-like-movavi/"><u>Unlock Ultimate Savings: Discover the 25 Finest Gratis IP Cameras by Reputable Software Brands Like Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-full-potential-of-windows-n-10-settings-to-boost-gameplay-a-comprehensive-guide-for-gamers/"><u>Unlocking the Full Potential of Windows N 10 Settings to Boost Gameplay - A Comprehensive Guide for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/verschil-avi-en-voc-in-videokonverting-professioneel-online-gratuit-movavi-toolen/"><u>Verschil AVI en VOC in Videokonverting: Professioneel Online Gratuit - Movavi Toolen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wavflac/"><u>お使いワザ上級者向け - 高品質な音源のために、WAVからFLACへ自由席で無料変換</u></a></li>
 </ul></div>
 

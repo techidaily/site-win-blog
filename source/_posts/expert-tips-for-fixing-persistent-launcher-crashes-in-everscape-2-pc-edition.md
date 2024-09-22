@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Fixing Persistent Launcher Crashes in Everscape 2 PC Edition
-date: 2024-09-10T18:45:41.549Z
-updated: 2024-09-16T19:38:40.527Z
+date: 2024-09-17T00:30:31.892Z
+updated: 2024-09-22T01:06:05.749Z
 tags:
   - win11
   - win10
@@ -81,13 +81,6 @@ Follow the instructions below to view your computer hardware information:
 
 If your problem still exists after the reboot, check Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics driver
 
  Game issues commonly occur when your graphics driver is corrupted or outdated. To see if that’s the problem for you, try updating your graphics driver. There are 2 ways you can do this:
@@ -122,13 +115,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-47.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -155,6 +141,13 @@ OR
 
  If the crashing issue continues to occur, then go ahead with the fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557743/17382" target="_top" id="1557743">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557743" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557743/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Change the launch option
 
  Many players report that running the game with**\-dxlevel 85 -console -windowed -noborder** launch option fixed the crashing issue. Follow the instructions below to see how to do it:
@@ -169,13 +162,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-02-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
-  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Click **SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07-1.jpg)
@@ -184,25 +170,25 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-08.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Type **\-dxlevel 85 -console -windowed -noborder** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-15-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Relaunch your game to see if this worked for you. If it didn’t fix your issue, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137976/21526" target="_top" id="2137976">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137976/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable automatic downloads from the server
 
@@ -254,9 +240,29 @@ Follow the instructions below to stop the automatic downloads:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983553">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983553.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983553">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983553.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983553%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983553/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **10)**  Relaunch Steam and your game.
 
@@ -327,16 +333,18 @@ Follow the instructions below to stop the automatic downloads:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-skills.techidaily.com/new-monitor-selection-mastery-ultrawide-versus-uhd-4k/"><u>[New] Monitor Selection Mastery UltraWide Versus UHD 4K</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/copyright-rules-for-screenshotting-and-archiving-youtube-videos-for-2024/"><u>Copyright Rules for Screenshotting and Archiving YouTube Videos for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-optimization-tips-switching-from-cpu-to-gpu-rendering-in-windows-10/"><u>Cyberpunk 2077 Optimization Tips: Switching From CPU to GPU Rendering in Windows 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/easy-fix-for-common-discord-js-error-messages/"><u>Easy Fix for Common Discord JS Error Messages</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-lava-blaze-2-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Lava Blaze 2 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/in-2024-ppt-presentations-with-verbal-narration-guide/"><u>In 2024, PPT Presentations with Verbal Narration Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-guide-smooth-gaming-with-no-more-hiccups-or-stutters-on-your-pc-in-ac-valhalla/"><u>Master Guide: Smooth Gaming with No More Hiccups or Stutters on Your PC in AC Valhalla</u></a></li>
-<li><a href="https://blog-min.techidaily.com/mastering-the-art-of-sound-capture-using-adobe-audition-for-windows-users/"><u>Mastering the Art of Sound Capture: Using Adobe Audition for Windows Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-new-world-connection-failure-effective-strategies-and-tips/"><u>Solving the 'New World Connection Failure': Effective Strategies and Tips</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/the-ultimate-guide-to-choosing-a-cpu-cooler-pros-and-cons-of-aio-and-air-options/"><u>The Ultimate Guide to Choosing a CPU Cooler – Pros & Cons of AIO and Air Options</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-why-does-genshin-impact-keep-crashing-on-windowsmac/"><u>Troubleshooting: Why Does Genshin Impact Keep Crashing on Windows/Mac?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-premium-top-11-list-best-audio-tech-showcase/"><u>[New] In 2024, Premium Top 11 List - Best Audio Tech Showcase</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-invest-in-insta-success-the-top-earners-playbook/"><u>[New] Invest in Insta Success The Top Earners' Playbook</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-5-best-title-makers-online/"><u>[Updated] 5 Best Title Makers Online</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>[Updated] Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-navigating-sierra-mastering-icloud-drives-accessibility/"><u>[Updated] Navigating Sierra Mastering iCloud Drives' Accessibility</u></a></li>
+<li><a href="https://fox-links.techidaily.com/grasping-the-heart-of-narrative-design-for-2024/"><u>Grasping the Heart of Narrative Design for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-education-enhancement-the-art-of-lecture-transcription-on-macos/"><u>In 2024, Education Enhancement The Art of Lecture Transcription on MacOS</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-motorola-moto-e13-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Motorola Moto E13 for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restaurer-et-convertir-des-fichiers-rmvb-au-format-mp4-gratuitement-sur-internet-movavi/"><u>Restaurer Et Convertir Des Fichiers RMVB Au Format MP4 Gratuitement Sur Internet - Movavi</u></a></li>
+<li><a href="https://win-forum.techidaily.com/step-by-step-guide-removing-your-account-from-windows-10-using-revo-uninstaller/"><u>Step-by-Step Guide: Removing Your Account From Windows 10 Using Revo Uninstaller</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-12-gratuit-superieur-screenshootere-pour-lesmac-2024-liste-detaillee-par-movavi/"><u>Top 12 Gratuit Superieur Screenshootere Pour Lesmac - 2024 Liste Détaillée Par Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transform-avi-files-into-m4v-format-for-free-with-speedypdfnets-converter-tool/"><u>Transform AVI Files Into M4V Format for Free with Speedypdf.net's Converter Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Interruptions: Steps to Keep Your Game Going – Fixing Football Manager 2022'S PC Crashes"
-date: 2024-09-12T19:42:57.861Z
-updated: 2024-09-16T20:13:03.721Z
+date: 2024-09-18T23:45:51.699Z
+updated: 2024-09-22T00:23:21.450Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Temporarily disable your antivirus
 
  Antivirus is known to interfere with Football Manager 2021 and your Steam or Epic game launcher. To see if that’s the case, you could disable the antivirus programs first. In case you don’t know how, below are some links for your reference.
@@ -95,10 +102,10 @@ If this method doesn’t help, go ahead with the next fix below.
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
@@ -113,21 +120,20 @@ So does the crash go away now? If not, there is the last fix to try.
 3. Click**Set Launch Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118304/7443" target="_top" id="2118304">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118304" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118304/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
@@ -158,20 +164,20 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-how-to-record-screen-with-ultra-screen-recorder/"><u>[Updated] In 2024, How to Record Screen With Ultra Screen Recorder</u></a></li>
-<li><a href="https://howto.techidaily.com/app-wont-open-on-your-vivo-t2-5g-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Vivo T2 5G? Here Are All Fixes | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beating-the-bug-successful-launch-strategies-for-robocop-rogue-city-on-pc-setup/"><u>Beating the Bug: Successful Launch Strategies for 'RoboCop: Rogue City' On PC Setup</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-ultimate-guide-to-resolving-low-fps-issues-in-valorant/"><u>Boost Your Gameplay: Ultimate Guide to Resolving Low FPS Issues in Valorant</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/edit-like-a-pro-64-bit-video-editor-for-windows-8-and-up/"><u>Edit Like a Pro 64-Bit Video Editor for Windows 8 and Up</u></a></li>
-<li><a href="https://win-blog.techidaily.com/house-flipper-two-pc-troubleshooting-guide-stop-frequent-crashes/"><u>House Flipper ˈTwo PC Troubleshooting Guide - Stop Frequent Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-ensure-uninterrupted-gaming-experience-solving-fallout-3-crash-problems-on-windows-10-systems/"><u>How To Ensure Uninterrupted Gaming Experience: Solving Fallout 3 Crash Problems on Windows 10 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-repair-frequent-crashes-in-secret-of-mana-sf7-on-windows/"><u>How to Prevent and Repair Frequent Crashes in Secret of Mana (SF7) on Windows</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/in-2024-photoshop-color-adjustments-for-beginners/"><u>In 2024, Photoshop Color Adjustments for Beginners</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-a58-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo A58 4G | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-15-apps-to-hack-wifi-password-on-samsung-galaxy-xcover-7-by-drfone-android/"><u>In 2024, Top 15 Apps To Hack WiFi Password On Samsung Galaxy XCover 7</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-compatibility-hurdles-a-players-handbook-to-stable-play-in-no-rest-for-the-wicked/"><u>Overcoming Compatibility Hurdles: A Player’s Handbook to Stable Play in No Rest for the Wicked</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-issues-top-7-solutions-if-overwatch-2-wont-start/"><u>Resolving Issues: Top 7 Solutions if Overwatch 2 Won't Start</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-lenovo-thinkphone-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Lenovo ThinkPhone Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://dvd-bd.techidaily.com/the-ultimate-guide-to-top-rated-free-cd-writing-programs-ranked-1-to-7/"><u>The Ultimate Guide to Top-Rated Free CD Writing Programs: Ranked #1 to #7</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-inside-the-secrets-of-quantum-hdr-photography/"><u>[New] Inside the Secrets of Quantum HDR Photography</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-optimizing-video-flow-for-social-networks/"><u>[Updated] Optimizing Video Flow for Social Networks</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-unlocking-windows-high-dynamic-range-potential-for-2024/"><u>[Updated] Unlocking Windows' High Dynamic Range Potential for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pnggif-movavi/"><u>「オンラインで無料のPNGからGIFへの変換 - Movavi」</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/compatibility-score-which-phones-work-with-gear-vr-in-2024/"><u>Compatibility Score Which Phones Work with Gear VR, In 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-vivo-y36i-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Vivo Y36i Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-apple-iphone-11-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your Apple iPhone 11 Pro Max and iPad</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/screen-saver-saviors-how-to-download-and-save-your-favorite-tweets/"><u>Screen Saver Saviors How to Download and Save Your Favorite Tweets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-12-free-audio-converter-tools-compared-win-mac-and-online-options-by-movavi/"><u>Top 12 Free Audio Converter Tools Compared: Win, Mac & Online Options by Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-15-herramenos-de-cativacao-screen-livre-movavi/"><u>Top 15 Herramenos De Cativação Screen Livre - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-rigeneratori-di-downloads-anime-gratuiti-piu-popolari-nel-2024/"><u>Top 8 Rigeneratori Di Downloads Anime Gratuiti Più Popolari Nel 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tout-savoir-pour-convertir-votre-video-mov-en-format-ebgp-sans-frais-sur-internet-avec-movavi-pas-de-details-manques/"><u>Tout Savoir Pour Convertir Votre Vidéo MOV en Format Ebgp Sans Frais Sur Internet Avec Movavi – Pas De Détails Manqués !</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tranformez-facilement-votre-fichier-mp4-en-format-wav-gratuitement-en-ligne-avec-movavi/"><u>Tranformez Facilement Votre Fichier MP4 en Format WAV Gratuitement en Ligne - Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformer-un-gif-en-version-lineaire-sans-cout-guide-de-tutoriel-avec-movavi/"><u>Transformer Un GIF en Version Linéaire Sans Coût - Guide De Tutoriel Avec Movavi</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-free-up-space-9-best-video-compression-software-for-windows-10/"><u>Updated In 2024, Free Up Space 9 Best Video Compression Software for Windows 10</u></a></li>
 </ul></div>
 

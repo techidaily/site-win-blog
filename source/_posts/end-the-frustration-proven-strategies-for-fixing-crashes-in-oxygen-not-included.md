@@ -1,7 +1,7 @@
 ---
 title: "End the Frustration: Proven Strategies for Fixing Crashes in Oxygen Not Included"
-date: 2024-09-14T19:02:25.064Z
-updated: 2024-09-17T05:54:06.408Z
+date: 2024-09-19T19:20:04.466Z
+updated: 2024-09-21T17:40:43.213Z
 tags:
   - win11
   - win10
@@ -80,13 +80,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -95,22 +88,23 @@ The outdated or broken graphics driver often crashes the game.
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<span id="1983552">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -126,10 +120,10 @@ The outdated or broken graphics driver often crashes the game.
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -162,18 +156,20 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/new-in-2024-innovative-video-edits-leveraging-kinemasters-techniques/"><u>[New] In 2024, Innovative Video Edits Leveraging Kinemaster's Techniques</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/new-writing-vlogs-a-guide-to-persuasive-scripts/"><u>[New] Writing Vlogs A Guide to Persuasive Scripts</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-htc-vives-diving-into-depth-a-vr-experience-review/"><u>[Updated] HTC Vive's Diving Into Depth A VR Experience Review</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-perfecting-visual-storytelling-adding-context-to-your-pictures-through-text/"><u>[Updated] Perfecting Visual Storytelling Adding Context to Your Pictures Through Text</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-groundbreaking-method-to-insert-gopro-clips-into-virtual-panoramic-movies/"><u>2024 Approved Groundbreaking Method to Insert GoPro Clips Into Virtual Panoramic Movies</u></a></li>
-<li><a href="https://fox-links.techidaily.com/2024-approved-innovative-techniques-for-captivating-tiktok-videos/"><u>2024 Approved Innovative Techniques for Captivating TikTok Videos</u></a></li>
-<li><a href="https://win-blog.techidaily.com/achieve-smooth-gameplay-in-outriders-by-solving-persistent-lag-issues-today/"><u>Achieve Smooth Gameplay in Outriders by Solving Persistent Lag Issues Today!</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/could-advanced-languages-systems-including-chatgpt-serve-in-creating-cyberattack-programs/"><u>Could Advanced Languages Systems, Including ChatGPT, Serve in Creating Cyberattack Programs?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dayz-performance-optimization-effortless-ways-to-eliminate-fps-declines/"><u>DayZ Performance Optimization: Effortless Ways to Eliminate FPS Declines</u></a></li>
-<li><a href="https://win-blog.techidaily.com/death-stranding-pc-crash-fix-how-to-stop-your-game-from-freezing/"><u>Death Stranding PC Crash Fix - How to Stop Your Game From Freezing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminate-latency-for-an-uninterrupted-cs2-experience-on-pc/"><u>Eliminate Latency for an Uninterrupted CS2 Experience on PC</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/how-to-fix-no-bootable-device-error/"><u>How to Fix No Bootable Device Error</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-the-modern-warfare-3-error-code-12707/"><u>Troubleshooting and Repairing the Modern Warfare 3 Error Code 12707</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-enhancing-engagement-share-tiktoks-on-twitter/"><u>[New] 2024 Approved Enhancing Engagement Share TikToks on Twitter</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-the-ultimate-playlist-to-share-on-fb-stories-for-2024/"><u>[Updated] The Ultimate Playlist to Share on FB Stories for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726224390201-rw2-movavi/"><u>線上無限制移動 RW2格式改變 - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descubre-las-mejores-opciones-gratuitas-alternativas-al-pinnacle-studio-en-sistemas-operativos-windows-y-mac-clasificacion-completa/"><u>Descubre Las Mejores Opciones Gratuitas Alternativas Al Pinnacle Studio en Sistemas Operativos Windows Y Mac: Clasificación Completa</u></a></li>
+<li><a href="https://win-blog.techidaily.com/deshacer-un-video-de-fondo-en-solo-10-pasos-sin-utilizar-pantallas-verdes/"><u>Deshacer Un Video De Fondo en Solo 10 Pasos Sin Utilizar Pantallas Verdes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-mp4wmv-format-transformation-online-change-video-codecs-instantly/"><u>Easy MP4/WMV Format Transformation Online - Change Video Codecs Instantly</u></a></li>
+<li><a href="https://techtrends.techidaily.com/freiherstellen-von-filmdateien-die-einfache-anleitung-wie-man-eine-dvd-auf-einen-usb-stick-kopiert/"><u>Freiherstellen Von Filmdateien: Die Einfache Anleitung, Wie Man Eine DVD Auf Einen USB-Stick Kopiert</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/gigabyte-z370p-motherboard-drivers-download-get-the-latest-update-now/"><u>Gigabyte Z370P Motherboard Drivers Download - Get the Latest Update Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-correctly-address-the-pnpudf-device-connection-problem-fixing-error-0xc00-in-windows-systems/"><u>How to Correctly Address the PnP_UDF Device Connection Problem: Fixing Error 0Xc00# in Windows Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-without-jailbreak-on-xiaomi-redmi-13c-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location without Jailbreak On Xiaomi Redmi 13C | Dr.fone</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-the-art-of-google-meet-modifications-using-masks-and-effects/"><u>In 2024, The Art of Google Meet Modifications Using Masks & Effects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kop-movavi-affarslicens-vidvuxen-filmbytare-med-fullstandigt-loslost-konsumentuppgifter/"><u>Köp Movavi - Affärslicens Vidvuxen Filmbytare Med Fullständigt Löslöst Konsumentuppgifter</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/revenue-realms-of-youtube-from-virtual-viewership-to-banknotes-for-2024/"><u>Revenue Realms of YouTube From Virtual Viewership to Banknotes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformer-gratuitement-un-fichier-mov-en-wav-en-ligne-guide-complet-avec-movavi/"><u>Transformer Gratuitement Un Fichier MOV en WAV en Ligne : Guide Complet Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmaflvmovavi/"><u>WMA/FLVファイルを問わず、Movaviでの無料オンラインコーデック変換</u></a></li>
 </ul></div>
 

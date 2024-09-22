@@ -1,7 +1,7 @@
 ---
 title: "Resolving Performance Issues: Fix the Freezing Problem in Code Vein for a Smooth Experience"
-date: 2024-09-14T17:33:25.387Z
-updated: 2024-09-16T23:31:51.956Z
+date: 2024-09-19T23:56:08.427Z
+updated: 2024-09-21T17:11:32.794Z
 tags:
   - win11
   - win10
@@ -77,6 +77,13 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable browser add-ons
 
  If you have lots of add-ons installed on your browser, they may conflict with each other and stop YouTube from working. To see if this is causing your problem, try disabling them:
@@ -86,21 +93,16 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 1. Type **chrome://extensions** in the URL bar and press **Enter** to open the Chrome extension manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa350150087.png)
 2. **Toggle off** all extensions to disable them.  
-![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa350f743b4.jpg)
-3. Restart Chrome and test if the YouTube issue is fixed. If not, move on to[**Fix 4**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa350f743b4.jpg)
+3. Restart Chrome and test if the YouTube issue is fixed. If not, move on to[**Fix 4**](https://tools.techidaily.com/drivereasy/download/) .
 
 #### On Firefox
 
@@ -108,16 +110,22 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa356b752ac.jpg)
 2. In the Add-ons Manager tab,  
 
+<!-- affiliate ads begin -->
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
    * **To disable an extension or theme** , click **Extensions** or**Themes** , select the add-on you want to disable, and click the **Disable** button next to it.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa35ddb2fa5.jpg)  
    * **To disable a plugin** , click **Plugins** , select the plugin you want to disable, and select **Never Activate** from the drop-down menu.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa35eb2a62b.jpg)  
    * Restart Firefox to check if the problem is resolved. If not, try Fix 4, below.
@@ -137,25 +145,11 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36db131bc.jpg)
 2. Scroll down to the bottom and click **Advanced** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36e7f2618.jpg)
 3. Under **System** , turn off the **Use hardware acceleration when available** option.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36f56f5eb.jpg)
 4. Relaunch Chrome and test. If YouTube still freezes, try **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### If you’re using Firefox
 
@@ -166,10 +160,10 @@ thumbnail: https://thmb.techidaily.com/1945857397ebd75b26ddd988969514bcfe07be7be
 3. Under **Performance** , de-select **Use recommended performance settings** , then de-select **Use hardware acceleration when available** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa374843a3c.jpg)
@@ -195,6 +189,13 @@ OR
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa3888b6a8a.jpg)
 3. Click**Update** next to any flagged devices to automatically download the correct version of their drivers, then you can install them manually. Or click**Update All** to automatically download and install them all automatically. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
+  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa38934c6ad.jpg)
 4. Restart your computer and check if YouTube now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 6, below.
@@ -244,21 +245,18 @@ Hopefully this can help you out.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/new-voice-capture-device-analysis-for-2024/"><u>[New] Voice Capture Device Analysis for 2024</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-essential-guide-to-cleansing-image-backdrops/"><u>[Updated] 2024 Approved Essential Guide to Cleansing Image Backdrops</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-capture-the-internets-attention-craft-with-kapwing/"><u>2024 Approved Capture the Internet’s Attention – Craft with Kapwing</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/enhance-your-dell-xps-15s-performance-the-ultimate-tutorial-for-driver-updates-on-windows-pcs/"><u>Enhance Your Dell XPS 15'S Performance: The Ultimate Tutorial for Driver Updates on Windows PCs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-address-not-initialized-issues-for-the-vanguard-agent-in-valorant/"><u>How to Address 'Not Initialized' Issues for the Vanguard Agent in Valorant</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-persistent-load-issues-in-fortnite/"><u>How to Fix: Persistent Load Issues in Fortnite</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-resolve-call-of-duty-vanguards-crash-problems-on-your-computer-pc/"><u>How to Resolve Call of Duty Vanguard's Crash Problems on Your Computer (PC)</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/how-to-upside-down-your-instagram-videos-complete-manual-for-2024/"><u>How to Upside Down Your Instagram Videos [Complete Manual] for 2024</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-honor-90-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Honor 90 Device SIM</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-full-guide-to-unlock-apple-iphone-11-with-itunes-by-drfone-ios/"><u>In 2024, Full Guide to Unlock Apple iPhone 11 with iTunes</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/metaverse-comedy-crafting-top-tips-for-diy-memetic-mastery-for-2024/"><u>Metaverse Comedy Crafting Top Tips for DIY Memetic Mastery for 2024</u></a></li>
-<li><a href="https://review-topics.techidaily.com/quickly-repair-damaged-pdf-v20-files-stellar-by-stellar-guide/"><u>Quickly Repair Damaged PDF v2.0 Files | Stellar</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-ultimate-walkthrough-for-implementing-hyper-v-technology-in-windows-10/"><u>The Ultimate Walkthrough for Implementing Hyper-V Technology in Windows 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unveiling-the-shadows-step-by-step-guide-to-resolving-your-minecraft-black-screen-issue/"><u>Unveiling the Shadows: Step-by-Step Guide to Resolving Your Minecraft Black Screen Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/update-trouble-heres-how-you-can-fix-minecraft-launcher-issues-easily/"><u>Update Trouble? Here's How You Can Fix Minecraft Launcher Issues Easily!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/valorant-pc-gaming-guide-eliminating-input-lag-tips-and-tricks-for-2e24/"><u>Valorant PC Gaming Guide: Eliminating Input Lag – Tips & Tricks for 2E24</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-snapchat-to-device-the-step-by-step-process-explained/"><u>[Updated] In 2024, Snapchat to Device - The Step by Step Process Explained</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-unlock-efficiency-cutting-edge-techniques-for-cropping-and-exporting-videos-for-2024/"><u>[Updated] Unlock Efficiency Cutting-Edge Techniques for Cropping & Exporting Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/18-eski-windows-ve-mac-bilgisayarlilar-icin-bedeli-olan-video-kombusorevi-dersleri-2024/"><u>18 Eski Windows Ve Mac Bilgisayarlılar Için Bedeli Olan Video Kombüsörevi Dersleri | 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/capturing-interactive-screenshots-high-quality-mouse-and-keyboard-recordings-using-movavi-software/"><u>Capturing Interactive Screenshots: High-Quality Mouse & Keyboard Recordings Using Movavi Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-gratuite-de-fichiers-ogg-vers-webm-en-ligne-movavi/"><u>Conversion Gratuite De Fichiers Ogg Vers Webm en Ligne - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-vob-to-mp4-conversion-free-service-by-movavi/"><u>Effortless VOB-to-MP4 Conversion - Free Service by Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-meizu-21-pro-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Meizu 21 Pro Pattern Lock Screen</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-restore-utorrent-connections-and-resume-torrent-downloads-seamlessly/"><u>How to Restore uTorrent Connections and Resume Torrent Downloads Seamlessly</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-navigate-through-green-screen-muddle-on-mac-for-smooth-youtubing/"><u>In 2024, Navigate Through Green Screen Muddle on Mac for Smooth YouTubing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726222900947-iphone/"><u>IPhone用二重圖像拼接技術解決方案：如何在手機中合成兩張相片</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-20plus-transcription-apps-the-ultimate-list-of-speech-recognition-tools/"><u>Top 20+ Transcription Apps: The Ultimate List of Speech Recognition Tools</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/updated-top-10-premium-free-audio-streaming-apps-ios-and-android-edition-for-2024/"><u>Updated Top 10 Premium-Free Audio Streaming Apps IOS & Android Edition for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ways-to-trade-pokemon-go-from-far-away-on-nokia-c32-drfone-by-drfone-virtual-android/"><u>Ways to trade pokemon go from far away On Nokia C32? | Dr.fone</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved! Fixes for Black Screen Problems in Magic: The Gathering Arena"
-date: 2024-09-14T02:31:59.838Z
-updated: 2024-09-17T07:13:58.287Z
+date: 2024-09-15T21:01:56.287Z
+updated: 2024-09-21T19:27:22.049Z
 tags:
   - win11
   - win10
@@ -99,14 +99,22 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
@@ -116,10 +124,10 @@ And it’s quite easy to update too:
  If this method doesn’t help your case, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5:**Clean up resource-hungry processes**
@@ -127,13 +135,6 @@ And it’s quite easy to update too:
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Change your power plan to Ultimate Performance
 
@@ -147,24 +148,18 @@ Here’s how to enable this power plan:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
@@ -187,20 +182,14 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-techniques-for-improved-ram-in-minecraft-for-2024/"><u>[New] Cutting-Edge Techniques for Improved Ram in Minecraft for 2024</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/new-gratis-business-presentation-boosting-plugins-and-templates/"><u>[New] Gratis Business Presentation Boosting Plugins & Templates</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-boosting-bank-balance-crafting-commercial-video-content/"><u>[Updated] 2024 Approved Boosting Bank Balance Crafting Commercial Video Content</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-photo-perfection-seamless-text-integration-on-pc-and-mac-systems/"><u>2024 Approved Photo Perfection Seamless Text Integration on PC & Mac Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/breaking-down-the-problem-why-age-of-empires-4-wont-boot-and-what-to-do/"><u>Breaking Down the Problem: Why Age of Empires 4 Won’t Boot and What to Do</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-on-fixing-lost-ark-network-problems-no-more-disconnects/"><u>Expert Tips on Fixing 'Lost Ark' Network Problems – No More Disconnects</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-adding-sounds-to-your-story-a-premiere-pro-guide/"><u>In 2024, Adding Sounds to Your Story A Premiere Pro Guide</u></a></li>
-<li><a href="https://change-location.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-vivo-s17-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Vivo S17 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-revival-of-fallout-3-overcoming-launch-issues/"><u>Mastering the Revival of Fallout 3 | Overcoming Launch Issues</u></a></li>
-<li><a href="https://extra-support.techidaily.com/navigating-through-top-rated-livestreams-your-guide-to-watching-cricket-for-2024/"><u>Navigating Through Top-Rated Livestreams Your Guide to Watching Cricket for 2024</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-reaction-video-mastery-top-ios-and-android-apps/"><u>New In 2024, Reaction Video Mastery Top iOS and Android Apps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-fallout-eboot-3-loading-problems-top-advice-for-gamers/"><u>Resolving Fallout Eboot 3 Loading Problems: Top Advice for Gamers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-fix-overcoming-error-code-0x803f8001-when-starting-minecraft-in-windows-1011/"><u>Step-by-Step Fix: Overcoming Error Code 0X803F8001 When Starting Minecraft in Windows 10/11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/update-your-logitech-g403-controller-compatible-software-for-pcs/"><u>Update Your Logitech G403 Controller: Compatible Software for PCs</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/aiwindowsmac/"><u>ビデオのクリア化ガイド：A.I.搭載機能が徹底解析！Windows・Mac両方に合っています</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-ploughing-through-the-past-top-farming-games-follow/"><u>[New] 2024 Approved Ploughing Through the Past Top Farming Games Follow</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-outperforming-vimeo-with-these-superior-alternatives/"><u>[New] Outperforming Vimeo with These Superior Alternatives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726223764469-wavaiff-movavi/"><u>免費在線WAV音檔轉換為AIFF - 使用Movavi的方法與指南</u></a></li>
+<li><a href="https://win-blog.techidaily.com/flv-to-mp4-movavi-style/"><u>無料ファイルコンバーター - FLV to MP4 の迅速かつ信頼できるオンライン変換サービス Movavi Style</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-konvertisseer-mpeg-naar-flv-online-movavi/"><u>Gratuit Konvertisseer MPEG Naar FLV Online - Movavi</u></a></li>
+<li><a href="https://fox-that.techidaily.com/idevice-cant-update-discover-these-9-troubleshooting-tactics/"><u>IDevice Can't Update? Discover These 9 Troubleshooting Tactics!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-easy-solution-convert-your-avi-videos-to-compatible-3gp-format-at-no-cost/"><u>Movavi's Easy Solution: Convert Your AVI Videos to Compatible 3GP Format at No Cost</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-motorola-moto-g84-5g-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Motorola Moto G84 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://games-able.techidaily.com/why-every-gamers-kit-needs-these-upgrades/"><u>Why Every Gamers' Kit Needs These Upgrades</u></a></li>
 </ul></div>
 

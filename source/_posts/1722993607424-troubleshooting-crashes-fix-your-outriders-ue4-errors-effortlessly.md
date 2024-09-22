@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Crashes: Fix Your Outriders UE4 Errors Effortlessly"
-date: 2024-09-13T23:00:19.017Z
-updated: 2024-09-16T23:44:35.141Z
+date: 2024-09-19T20:39:45.914Z
+updated: 2024-09-22T01:19:09.484Z
 tags:
   - win11
   - win10
@@ -78,26 +78,26 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135369/19272" target="_top" id="2135369">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135369" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135369/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 4\. Force Outriders to run in DX11
@@ -113,10 +113,10 @@ There are mainly two methods for you to update the graphics driver:
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Launch the game in your game folder
@@ -147,6 +147,19 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allow-firewall.jpg)
@@ -154,13 +167,6 @@ There are mainly two methods for you to update the graphics driver:
  4) Now you can click**Change settings** and scroll down to Outriders to make sure the**Private** and**Public** boxes are both checked.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/allowed.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) If Outriders is not on the list, you can select**Allow another app..** . and then add your Outriders.
 
@@ -188,19 +194,17 @@ There are mainly two methods for you to update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-the-most-effective-7-apps-for-blocking-android-web-ads/"><u>[New] The Most Effective 7 Apps for Blocking Android Web Ads</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-elite-cameras-for-windows-11-pro-review-of-the-latest-gear/"><u>[Updated] 2024 Approved Elite Cameras for Windows 11 - Pro Review of the Latest Gear</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-gameboy-advance-mastered-android-emulator-selection/"><u>[Updated] 2024 Approved GameBoy Advance Mastered Android Emulator Selection</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-discover-the-richest-content-for-maximum-ig-revenue/"><u>[Updated] Discover the Richest Content for Maximum IG Revenue</u></a></li>
-<li><a href="https://network-issues.techidaily.com/atheros-wifi-compatibility-windows-10-adapter-fixes-success/"><u>Atheros WiFi Compatibility: Windows 10 Adapter Fixes Success</u></a></li>
-<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Honor X50 GT? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-your-drivers-with-windows-device-manager-on-windows-11-and-10-by-drivereasy-guide/"><u>How to identify some outdated your drivers with Windows Device Manager on Windows 11 & 10</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-restore-audio-in-lost-ark-a-step-by-step-fix-for-sound-glitches/"><u>How to Restore Audio in 'Lost Ark': A Step-by-Step Fix for Sound Glitches</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-inside-polarrs-magic-box-the-ultimate-digital-image-enhancer/"><u>In 2024, Inside Polarr's Magic Box The Ultimate Digital Image Enhancer</u></a></li>
-<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-motorola-moto-g14-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Motorola Moto G14 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-when-your-nvidia-settings-wont-load-or-start/"><u>Step-by-Step Solutions for When Your NVIDIA Settings Won't Load or Start</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-frame-rate-drops-in-borderlands-3-essential-pc-tweaks-and-adjustments-for-a-smoother-experience/"><u>Troubleshoot Frame Rate Drops in Borderlands 3: Essential PC Tweaks and Adjustments for a Smoother Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-gameplay-errors-resolving-constant-crashes-in-formula-1-2021-for-windows-pcs/"><u>Troubleshooting Gameplay Errors: Resolving Constant Crashes in Formula 1 2021 for Windows PCs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-nvidias-geforce-error-0x0003/"><u>Troubleshooting Guide for NVIDIA's GeForce Error 0X0003</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-efficient-video-editing-techniques-for-instagram-mac-edition-for-2024/"><u>[Updated] Efficient Video Editing Techniques for Instagram, Mac Edition for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-audio-formats-flawlessly-with-movavi-free-ogg-to-wav-service-online/"><u>Convert Audio Formats Flawlessly with Movavi: Free OGG to WAV Service Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decouvrez-les-plus-puissants-programmes-vedette-de-montage-video-compatibles-avec-windows-11/"><u>Découvrez Les Plus Puissants Programmes Vedette De Montage Vidéo Compatibles Avec Windows 11 !</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/ebxplored-in-apples-latest-operating-system/"><u>Ebxplored in Apple's Latest Operating System</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/elevating-instagram-presence-through-bigger-video-content/"><u>Elevating Instagram Presence Through Bigger Video Content</u></a></li>
+<li><a href="https://techtrends.techidaily.com/enhance-your-online-presence-using-manycams-innovative-live-video-tech/"><u>Enhance Your Online Presence Using ManyCam's Innovative Live Video Tech</u></a></li>
+<li><a href="https://win-blog.techidaily.com/flv-to-mjpeg-free-converter-online-movieav/"><u>FLV to MJPEG Free Converter Online - Movieav</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-the-route-to-richer-tiktok-bios-including-linktree-links/"><u>In 2024, The Route to Richer TikTok Bios Including Linktree Links</u></a></li>
+<li><a href="https://android-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11x-5gfrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11X 5GFRP Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/png-naar-jpeg-converter-vrije-en-onlinelastig-movavi/"><u>PNG Naar JPEG Converter Vrije en Onlinelastig - Movavi</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/premier-webcam-selections-for-dynamic-twitch-sessions-for-2024/"><u>Premier Webcam Selections for Dynamic Twitch Sessions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmaogg-wma-ogg/"><u>WMA/OGG 형식으로 콘텐츠 바꾸기: 인터넷을 통해 무료 WMA OGG 변환 기술</u></a></li>
 </ul></div>
 

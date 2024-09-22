@@ -1,7 +1,7 @@
 ---
 title: Fixing a Dark or Black Display While Conducting Screen Shares on Discord
-date: 2024-09-14T05:51:41.551Z
-updated: 2024-09-17T07:51:48.576Z
+date: 2024-09-17T01:39:18.999Z
+updated: 2024-09-22T01:55:23.287Z
 tags:
   - win11
   - win10
@@ -56,10 +56,10 @@ Beta version of GeForce Experience could get you faulty driver or other faulty N
 3) Go to NVIDIA support to download the latest version of GeForce Experience and install as instructed. 4) See if your Shadowplay not recording problem is resolved.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 4: Enable desktop capture
@@ -69,10 +69,10 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c238e4810b3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123728/7443" target="_top" id="2123728">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123728" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082527/7443" target="_top" id="2082527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082527" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123728/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3) See if your Shadowplay can record now.
@@ -94,18 +94,20 @@ If desktop capture is disabled, Shadowplay won’t detect if you play the game f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-guidance.techidaily.com/new-sharp-as-day-the-top10-clearer-photo-editors-list/"><u>[New] Sharp as Day The #Top10 Clearer Photo Editors List</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-beat-zoom-audio-disruptions-strategic-solutions/"><u>[Updated] Beat Zoom Audio Disruptions Strategic Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-ways-to-prevent-football-manager-2022-from-crashing-on-your-pc/"><u>Effective Ways to Prevent Football Manager 2022 From Crashing on Your PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-the-directx-failed-glitch-on-fifa-20-for-flawless-playing-experience/"><u>How to Fix the 'DirectX Failed' Glitch on FIFA 20 for Flawless Playing Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-google-pixel-8-pro-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Google Pixel 8 Pro to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-fix-oem-unlock-missing-on-oppo-reno-11-5g-by-drfone-android/"><u>In 2024, How To Fix OEM Unlock Missing on Oppo Reno 11 5G?</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/introducing-freezes-new-underwater-cooling-gadget-the-fanless-solid-state-waterproof-airjet-mini-sport-with-advanced-active-cooling-technology/"><u>Introducing Freeze's New Underwater Cooling Gadget: The Fanless, Solid-State Waterproof AirJet Mini Sport with Advanced Active Cooling Technology</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-steel-city-adventure-no-more-pc-crashes-with-these-detroit-become-human-tweaks/"><u>Master the Steel City Adventure - No More PC Crashes with These Detroit: Become Human Tweaks!</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/paint-perfection-experts-guide-to-color-transformation-for-2024/"><u>Paint Perfection Expert's Guide to Color Transformation for 2024</u></a></li>
-<li><a href="https://network-issues.techidaily.com/rectifying-windows-10-hologram-error/"><u>Rectifying Windows 10 Hologram Error</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-missing-textures-in-call-of-duty-warzone/"><u>Resolved: Fixes for Missing Textures in Call of Duty: Warzone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/successful-strategies-for-correcting-directx-errors-within-anno-1800/"><u>Successful Strategies for Correcting DirectX Errors Within Anno 1800</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlocking-halo-infinites-secrets-fixing-game-crashing-issues-for-smooth-playthrough/"><u>Unlocking Halo Infinite's Secrets: Fixing Game-Crashing Issues for Smooth Playthrough</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-horizon-hopping-reviewing-the-gopro-karma-drone-for-2024/"><u>[New] Horizon Hopping Reviewing the GoPro Karma Drone for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-building-a-vimeo-portfolio-from-the-ground-up/"><u>[New] In 2024, Building a Vimeo Portfolio From the Ground Up</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-asus-proart-pa-329q-reviewed-a-detailed-look-at-the-leading-4k-workstation-display/"><u>[Updated] Asus ProArt PA 329Q Reviewed A Detailed Look at the Leading 4K Workstation Display</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-podcast-playback-iphone-edition/"><u>[Updated] Mastering Podcast Playback IPhone Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmvmpg-movavi/"><u>簡単な方法でオンラインでWMVからMPGへの変換 – Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-video-en-ligne-convertir-rmvb-en-mp4-gratuitement-a-laide-de-movavi/"><u>Conversion Vidéo en Ligne : Convertir RMVB en MP4 Gratuitement À L'aide De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-opus-audio-to-wma-file-for-free-with-our-web-based-tool-at-movavicom/"><u>Convert Opus Audio to WMA File for Free with Our Web-Based Tool at Movavi.com</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-vos-fichiers-ogg-en-wma-sans-frais-avec-movavi-online-libre-de-changer-des-ogg-en-wma/"><u>Convertissez Vos Fichiers Ogg en Wma Sans Frais Avec Movavi - Online Libre De Changer Des OGG en WMA.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/full-tutorial-to-bypass-your-asus-rog-phone-7-ultimate-face-lock-by-drfone-android/"><u>Full Tutorial to Bypass Your Asus ROG Phone 7 Ultimate Face Lock?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-7-plus-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 7 Plus without Passcode or Face ID</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-to-get-and-use-pokemon-go-promo-codes-on-vivo-y02t-drfone-by-drfone-virtual-android/"><u>In 2024, How to Get and Use Pokemon Go Promo Codes On Vivo Y02T | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-imei-unlokers-for-your-nokia-105-classic-phone-by-drfone-android/"><u>In 2024, Top IMEI Unlokers for Your Nokia 105 Classic Phone</u></a></li>
+<li><a href="https://facebook.techidaily.com/the-ultimate-guide-to-recovering-forgotten-facebook-comments/"><u>The Ultimate Guide to Recovering Forgotten Facebook Comments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforma-tus-archivos-vob-a-formato-m2ts-con-facilidad-y-sin-coste-alguno-soluciones-expertas/"><u>Transforma Tus Archivos VOB a Formato M2TS Con Facilidad Y Sin Coste Alguno: Soluciones Expertas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformation-en-ligne-convertissez-votre-audio-flac-en-video-mkv-sans-frais-services-de-movavi/"><u>Transformation en Ligne : Convertissez Votre Audio FLAC en Vidéo MKV Sans Frais - Services De Movavi</u></a></li>
 </ul></div>
 

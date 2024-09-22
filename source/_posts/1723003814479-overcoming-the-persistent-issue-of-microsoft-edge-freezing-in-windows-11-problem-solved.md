@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Persistent Issue of Microsoft Edge Freezing in Windows 11 - Problem Solved!
-date: 2024-09-13T22:51:54.499Z
-updated: 2024-09-17T06:52:52.274Z
+date: 2024-09-21T02:35:55.529Z
+updated: 2024-09-21T18:52:36.887Z
 tags:
   - win11
   - win10
@@ -54,6 +54,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -64,6 +71,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
@@ -84,14 +98,33 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
+<!-- affiliate ads begin -->
+<span id="1424528">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424528.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424528">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424528.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424528%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424528/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983552">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983552.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983552">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983552.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983552%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983552/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
@@ -127,30 +160,16 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -165,13 +184,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -197,19 +209,16 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/solved-black-desert-online-crashing-on-pc/"><u>[Solved] Black Desert Online Crashing on PC</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos/"><u>[Updated] In 2024, The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-a-list-hd-screen-recorders-for-optimal-performance/"><u>2024 Approved A-List HD Screen Recorders for Optimal Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-last-epoch-crashing-comprehensive-trouble-shooting-techniques/"><u>Beat Last Epoch Crashing: Comprehensive Trouble-Shooting Techniques</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/beginners-blueprint-for-ipad-time-lapse-videos-for-2024/"><u>Beginner's Blueprint for iPad Time-Lapse Videos for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dragon-age-origins-stability-fixes-for-windows-11-no-more-crashes/"><u>Dragon Age: Origins Stability Fixes for Windows 11 - No More Crashes!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortlessly-solve-world-of-warcraft-crashes-a-comprehensive-fix-guide/"><u>Effortlessly Solve World of Warcraft Crashes: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/enhance-fictional-personalities-quickly-the-definitive-list-of-ebxchatbot-prompts-for-authors/"><u>Enhance Fictional Personalities Quickly: The Definitive List of ebxChatbot Prompts for Authors</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-resolve-jurassic-world-evolution-crashes-successfully/"><u>How to Prevent and Resolve Jurassic World Evolution Crashes Successfully</u></a></li>
-<li><a href="https://extra-support.techidaily.com/prime-steadicam-devices-for-excellence-in-filmmaking-aviation-for-2024/"><u>Prime Steadicam Devices for Excellence in Filmmaking Aviation for 2024</u></a></li>
-<li><a href="https://techidaily.com/things-you-dont-know-about-honor-90-pro-reset-code-drfone-by-drfone-reset-android-reset-android/"><u>Things You Dont Know About Honor 90 Pro Reset Code | Dr.fone</u></a></li>
-<li><a href="https://smart-video-creator.techidaily.com/top-free-video-editors-for-32-bit-windows-computers-for-2024/"><u>Top Free Video Editors for 32-Bit Windows Computers for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/upcoming-features-of-the-rainbow-six-siege-the-2024-freeze-update-unveiled/"><u>Upcoming Features of the Rainbow Six Siege - The 2024 Freeze Update Unveiled!</u></a></li>
-<li><a href="https://blog-min.techidaily.com/44k544oe44ob44gn5yip55so44gx44ke44gz44ge44cb44ot44oh44kq44o744oi44oq44of44oz44kw44gk44ki44gz44kv44ot44od44ou44oz44kw44gu44ov44oq44o844km44kn44kiiq/"><u>スマホで利用しやすい、ビデオ・トリミングおよびクロッピングのフリーウェア!</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-perfecting-picture-presentation-top-frames-of-2024/"><u>[New] Perfecting Picture Presentation - Top Frames of 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-telegram-for-novices-an-easy-path-to-effective-advertising/"><u>2024 Approved Telegram for Novices An Easy Path to Effective Advertising</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-infinix-smart-8-hd-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Infinix Smart 8 HD System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225296425-swfmp4movavi/"><u>完全無料：SWFからMP4に高速変換ツール！Movavi 使い方詳しく学ぶ</u></a></li>
+<li><a href="https://win-blog.techidaily.com/choisir-entre-avchd-et-mp4-pour-le-video-enregistrement-lequel-realise-une-performance-meilleure/"><u>Choisir Entre AVCHD Et MP4 Pour Le Vidéo-Enregistrement - Lequel Réalise Une Performance Meilleure?</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/decoding-the-vr-revolution-latest-findings/"><u>Decoding the VR Revolution Latest Findings</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-find-my-friends-work-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>Does find my friends work on Infinix Zero 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/facil-conversao-de-arquivos-ape-em-wma-on-line-sem-custo-com-a-ferramenta-do-movavi/"><u>Fácil Conversão De Arquivos APE Em WMA On-Line Sem Custo, Com a Ferramenta Do Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kostenloze-video-uitroling-webm-in-mpeg-met-movavi-online-konverteren/"><u>Kostenloze VIDEO-Uitroling WEBM in MPEG Met Movavi Online Konverteren</u></a></li>
+<li><a href="https://win-dash.techidaily.com/mastering-the-setup-your-ultimate-how-to-on-installing-beats-audio-drivers/"><u>Mastering the Setup: Your Ultimate How-To on Installing Beats Audio Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-free-online-tool-mudar-aac-para-mp4-em-segundo-plano-sem-custo-algum/"><u>Movavi's Free Online Tool: Mudar AAC Para MP4 Em Segundo Plano Sem Custo Algum</u></a></li>
 </ul></div>
 

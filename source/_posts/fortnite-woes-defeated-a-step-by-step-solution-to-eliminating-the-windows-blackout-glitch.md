@@ -1,7 +1,7 @@
 ---
 title: Fortnite Woes Defeated? A Step-by-Step Solution to Eliminating the Windows Blackout Glitch
-date: 2024-09-10T01:05:27.519Z
-updated: 2024-09-16T16:49:06.924Z
+date: 2024-09-19T17:14:25.955Z
+updated: 2024-09-21T23:35:59.133Z
 tags:
   - win11
   - win10
@@ -62,16 +62,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 ---
 
 <!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
@@ -79,19 +73,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
  It is possible that the black screen issue occurs because of your graphics card cannot capable the high settings in the game or the game and your graphics card are not compatible with the latest build that you’re using. So try to lower graphics settings in Fortnite to see whether it resolves this problem or not.
 
 ---
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 2: Use compatibility mode
 
@@ -103,10 +84,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 3. Click **OK** then run Fortnite to check.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method doesn’t help, don’t worry, move to the next one.
@@ -143,17 +124,25 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
----
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Method 4: Use your integrated graphics card
 
@@ -182,19 +171,19 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -219,21 +208,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-highlight-halo-the-ultimate-iosandroid-coverage-app/"><u>[New] Highlight Halo The Ultimate iOS/Android Coverage App</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-epic-playlist-over-a-hundred-top-tier-titles/"><u>[Updated] In 2024, Epic Playlist Over a Hundred Top-Tier Titles</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-leading-the-charge-in-pc-livestreams-with-tiktok-features/"><u>[Updated] In 2024, Leading the Charge in PC Livestreams with TikTok Features</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-harnessing-voice-recognition-for-dynamic-decks/"><u>2024 Approved Harnessing Voice Recognition for Dynamic Decks</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/clear-audio-solutions-diagnosing-and-repairing-your-arctis-n-headset-noise-woes-under-windows/"><u>Clear Audio Solutions: Diagnosing and Repairing Your Arctis N Headset Noise Woes Under Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-reasons-behind-gas-station-game-crashing-episodes-on-personal-computers-pc/"><u>Common Reasons Behind Gas Station Game Crashing Episodes on Personal Computers (PC)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-fix-for-recurring-gameplay-interruptions-during-darkest-dungeon-2-playthroughs/"><u>Comprehensive Fix for Recurring Gameplay Interruptions During Darkest Dungeon 2 Playthroughs.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-low-fps-on-dying-light-and-boost-gameplay-smoothness/"><u>Expert Tips to Resolve Low FPS on Dying Light and Boost Gameplay Smoothness</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/finding-and-installing-new-hp-printer-drivers-on-a-windows-11-operating-system/"><u>Finding and Installing New HP Printer Drivers on a Windows 11 Operating System</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-achieved-how-football-manager-202n-overcame-its-startup-issues/"><u>Fix Achieved: How Football Manager 202N Overcame Its Startup Issues</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-a-quick-guide-to-oneplus-nord-ce-3-lite-5g-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to OnePlus Nord CE 3 Lite 5G FRP Bypass Instantly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-fix-resolve-wwe-2k20s-pc-game-crash-issues-with-ease/"><u>Master the Fix: Resolve WWE 2K20's PC Game Crash Issues with Ease</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/photoshop-and-lightroom-synergy-the-top-10-lut-selections-for-professionals-for-2024/"><u>Photoshop & Lightroom Synergy The Top 10 LUT Selections for Professionals for 2024</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/sequential-binge-viewing-plan-for-the-complete-indiana-jones-series/"><u>Sequential Binge-Viewing Plan for the Complete Indiana Jones Series</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-bluestacks-from-halting-a-5-step-guide-to-stable-performance/"><u>Stop BlueStacks From Halting - A 5-Step Guide to Stable Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-stable-adobe-after-effects-performance-in-windows-1110-environments/"><u>Troubleshooting Tips for Stable Adobe After Effects Performance in Windows 11/10 Environments</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-melodic-moments-to-augment-your-status/"><u>[New] Melodic Moments to Augment Your Status</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/op-10-yt-tickets-most-watched-videos-hour-by-hour-for-2024/"><u>[New] Top 10 YT Tickets Most Watched Videos, Hour by Hour for 2024</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-channel-collaboration-unified-watch-experience-across-platforms/"><u>[Updated] Channel Collaboration Unified Watch Experience Across Platforms</u></a></li>
+<li><a href="https://location-fake.techidaily.com/11-best-location-changers-for-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>11 Best Location Changers for Vivo Y78 5G | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mka-mp3-mp3-movavi/"><u>線上免費 MKA MP3 格式數據到MP3 - 便利的Movavi音頻變更服務</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comment-creer-des-montages-professionnels-avec-les-logiciels-de-movavi-tips-et-techniques-etape-par-etape-t1726233819536320/"><u>Comment Créer Des Montages Professionnels Avec Les Logiciels De Movavi - Tips Et Techniques Étape Par Étape</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-gratuit-de-videos-de-mpeg-a-mp4-sur-la-plateforme-movavi-guide-etape-par-etape/"><u>Conversion Gratuit De Vidéos : De MPEG À MP4 Sur La Plateforme Movavi - Guide Étape Par Étape</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversione-gratuita-dei-file-audio-mpeg-a-formato-aiff-online-usando-movavi-ottenere-la-massima-qualita-senza-costi-aggiuntivi/"><u>Conversione Gratuita Dei File Audio MPEG a Formato AIFF Online Usando Movavi - Ottenere La Massima Qualità Senza Costi Aggiuntivi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversione-livre-di-file-mxf-a-diverse-formati-ace-video/"><u>Conversione Livre Di File MXF a Diverse Formati - Ace Video</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversioni-gratuite-da-m4r-a-ma-aperta-su-internet-usando-il-servizio-di-movavi/"><u>Conversioni Gratuite: Da M4R a M^A Aperta Su Internet Usando Il Servizio Di Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertir-mp4-sin-costo-a-mjpeg-usando-la-herramienta-en-linea-de-movavi/"><u>Convertir MP4 Sin Costo a MJPEG Usando La Herramienta en Línea De Movavi</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-honor-x50i-drfone-by-drfone-virtual-android/"><u>In 2024, Additional Tips About Sinnoh Stone For Honor X50i | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-stolen-iphone-13-in-different-conditionsin-drfone-by-drfone-ios/"><u>In 2024, How To Unlock Stolen iPhone 13 In Different Conditionsin | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-look-at-knack-one-of-a-kind-character-amidst-common-gameplay/"><u>In-Depth Look at Knack: One-of-a-Kind Character Amidst Common Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmv-m4vmovavi/"><u>オンラインで簡単に WMV M4VファイルをMovavi無料コンバーター</u></a></li>
 </ul></div>
 

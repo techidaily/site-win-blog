@@ -1,7 +1,7 @@
 ---
 title: Saints Row Won't Start? Here's How You Can Solve the Problem Quickly!
-date: 2024-09-15T01:40:08.521Z
-updated: 2024-09-17T07:29:03.104Z
+date: 2024-09-18T16:31:31.506Z
+updated: 2024-09-22T00:20:12.151Z
 tags:
   - win11
   - win10
@@ -104,16 +104,10 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 | Hard Drive | 60 GB available storage                                                    |
 
 <!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 2\. Run your game as admin
@@ -124,25 +118,25 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/properties.jpg)
 2. Go to the **Compatibility**  tab and  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![run ubisoft as admin](https://images.drivereasy.com/wp-content/uploads/2021/10/run-as-admin.jpg)
 3. Click **Apply** \> **OK** .
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Also, repeat step 1\~2 for the Far Cry.exe file.
 
  Try restarting the game and see if it helps with the ‘Far Cry 6 not launching’ issue. If not, don’t worry since we have a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3\. Verify your games files
@@ -158,6 +152,13 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 1. Download the latest version of [Ubisoft Connect PC](https://ubi.li/4vxt9) .
 2. Run the installer you downloaded with administrator rights.
 3. Follow the on-screen instructions to complete the installation.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4\. Update your GPU driver
 
@@ -192,13 +193,6 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 2. Type in _**msconfig**_ and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.jpg)
 3. Choose **Selective startup** , and uncheck **Load startup items** .  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Uncheck Load startup item](https://images.drivereasy.com/wp-content/uploads/2021/10/load-start-ups-no.jpg)
 4. Reboot your system.
@@ -244,21 +238,20 @@ thumbnail: https://thmb.techidaily.com/a3825c53acb734eda563e5e8193fa7e586da129de
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/avatar-frontiers-of-pandora-game-optimization-expert-tips-to-enhance-fps-and-eliminate-screen-tearing-issues/"><u>'Avatar: Frontiers of Pandora' Game Optimization: Expert Tips to Enhance FPS & Eliminate Screen-Tearing Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/4-solution-to-get-rid-of-pokemon-fail-to-detect-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>4 solution to get rid of pokemon fail to detect location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/advanced-systems-for-tracking-human-manoeuvres-for-2024/"><u>Advanced Systems for Tracking Human Manoeuvres for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/banish-latency-the-ultimate-2024-discord-lag-fixers-handbook/"><u>Banish Latency: The Ultimate 2024 Discord Lag Fixer's Handbook</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-nightmare-comprehensive-fix-for-error-code-abd-8014-in-dead-by-daylight/"><u>Beat the Nightmare - Comprehensive Fix for 'Error Code Abd 8014' In Dead by Daylight</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723007496823-does-your-computer-match-vanguards-essential-criteria-heres-how-to-check/"><u>Does Your Computer Match Vanguard's Essential Criteria? Here's How to Check!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/god-of-war-fps-the-ultimate-action-experience-now-drops-for-your-pc/"><u>God of War FPS: The Ultimate Action Experience Now Drops for Your PC</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-fix-the-common-genshin-impact-error-code-4201/"><u>How to Fix the Common Genshin Impact Error Code 4201</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/in-2024-exhaustive-review-of-razers-kiyo-cam/"><u>In 2024, Exhaustive Review of Razer's Kiyo Cam</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/in-2024-iphone-12-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-drfone-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do? | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/in-2024-muting-problem-solutions-for-obs-sound-capture/"><u>In 2024, Muting Problem Solutions for OBS Sound Capture</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/in-2024-the-beginner-pro-marketing-playbook-secrets-of-facebook-success/"><u>In 2024, The Beginner-Pro Marketing Playbook Secrets of Facebook Success</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-maneuverability-with-driver-easy-on-any-device/"><u>Mastering Maneuverability with Driver Easy on Any Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-smooth-gaming-sessions-in-the-sims-4pc-expert-insights-and-fixes-for-the-latest-update/"><u>Mastering Smooth Gaming Sessions in The Sims ^[4](PC): Expert Insights and Fixes for the Latest Update</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Infinix Smart 7 | Dr.fone</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-get-more-nfl-viewers-for-your-sports-live-streaming-channel-for-2024/"><u>Updated How To Get More NFL Viewers For Your Sports Live Streaming Channel for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-becoming-a-confident-content-creator-youtubes-top-tips/"><u>[Updated] 2024 Approved Becoming a Confident Content Creator YouTube's Top Tips</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-demystifying-video-recordingediting-a-comprehensive-guide-on-adobe-connect/"><u>[Updated] In 2024, Demystifying Video Recording/Editing A Comprehensive Guide on Adobe Connect</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-mka-to-mp4-converter-by-movavi/"><u>「無償で動画形式を簡単に切り替えるOnline MKA to MP4 Converter by Movavi」</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029513634-r/"><u>「Rチャンネル視聴に必要なビデオ記録設定マニュアル」</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-an-insiders-guide-to-flawlessly-integrating-tracks-on-youtube/"><u>2024 Approved An Insider's Guide to Flawlessly Integrating Tracks on YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/covert-techniques-for-secure-gpt-exchange-storage/"><u>Covert Techniques for Secure GPT Exchange Storage</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/honor-x9b-tutorial-bypass-lock-screensecurity-password-pinfingerprintpattern-by-drfone-android-unlock-android-unlock/"><u>Honor X9b Tutorial - Bypass Lock Screen,Security Password Pin,Fingerprint,Pattern</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-restore-discord-overlay-functionality-without-hiccups/"><u>How to Restore Discord Overlay Functionality Without Hiccups!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-video-suite-pasos-sencillos-para-incluir-marcas-de-agua-en-tus-videos/"><u>Movavi Video Suite: Pasos Sencillos Para Incluir Marcas De Agua en Tus Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-swf/"><u>Movavi: 안전하고 기술을 사용한 SWF 파일에서 모바일화할 수 있는 방법</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mpgavivob-movavi/"><u>MPG/AVI至VOB格式在線無限制轉移服務 - 簡介Movavi影片編解碼器</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-transformation-of-oggvorbis-videos-without-costs-with-movavis-services/"><u>Online Transformation of OGG/Vorbis Videos Without Costs with Movavi's Services</u></a></li>
+<li><a href="https://article-tips.techidaily.com/outshine-filmora-a-roundup-of-the-best-tablets-for-image-tweaking-for-2024/"><u>Outshine Filmora A Roundup of the Best Tablets for Image Tweaking for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movaviasfavi/"><u>オンラインで使いやすい、Movaviを含むフリーASF/AVI形式の変換ツール - 無料アップグレード</u></a></li>
 </ul></div>
 

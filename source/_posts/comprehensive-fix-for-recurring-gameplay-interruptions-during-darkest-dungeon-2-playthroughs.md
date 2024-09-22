@@ -1,7 +1,7 @@
 ---
 title: Comprehensive Fix for Recurring Gameplay Interruptions During Darkest Dungeon 2 Playthroughs.
-date: 2024-09-11T17:12:53.358Z
-updated: 2024-09-16T19:50:41.721Z
+date: 2024-09-20T00:11:27.282Z
+updated: 2024-09-22T00:11:06.894Z
 tags:
   - win11
   - win10
@@ -99,10 +99,10 @@ If this doesn’t solve your problem, try the next fix.
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/verify-game-files-1.jpg)
@@ -131,6 +131,13 @@ If this doesn’t solve your problem, try the next fix.
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100534/7443" target="_top" id="2100534">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100534" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100534/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Increase the virtual memory on your PC
 
  The developer suggests that insufficient virtual memory could interfere with the game’s performance, and lead to the crashing issue. You can check your virtual memory (paging file size) first, then configure the settings if needed.
@@ -142,32 +149,19 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-sysdm.cpl-.jpg)
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
 
-<!-- affiliate ads begin -->
-<span id="1444782">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-07.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **To manually allocate paging file size** :
 
@@ -176,6 +170,13 @@ If this doesn’t solve your problem, try the next fix.
 1. UNCHECK the box of**Automatically manage paging file size for all drives** , then select**Custom size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-10_11-54-55.jpg)
 2. Use the below formulas to calculate the values you should set:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 _**1GB = 1024 MB**_  
  _**Initial size (MB) = 1.5 \* the amount of RAM (GB) on your PC**_  
@@ -188,6 +189,13 @@ _**Maximum size (MB) = 3 \* the amount of RAM (GB) on your PC**_
 5. Restart your PC to let the changes take effect.
 
 If your game still crashes, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Keep your system up-to-date
 
@@ -221,13 +229,6 @@ If this doesn’t solve your problem, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
 
@@ -255,13 +256,6 @@ If this doesn’t solve your problem, try the last fix.
 3. Reboot and try launching Naraka: Bladepoint to see if it still crashes.
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Known issues on Sonic studio virtual mixer driver
 
@@ -291,18 +285,18 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/new-joyous-film-grabber-assessment-for-2024/"><u>[New] Joyous Film Grabber Assessment for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-approaches-to-mend-obs-fullscreen-errors/"><u>[Updated] Approaches to Mend OBS Fullscreen Errors</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-youtubes-elite-gear-top-5-video-chat-headsets/"><u>[Updated] YouTube's Elite Gear Top 5 Video Chat Headsets</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnose-and-solve-left-4-dead-2-continuous-crashing-issues-covered/"><u>Diagnose & Solve: Left 4 Dead 2 Continuous Crashing Issues Covered!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/getting-past-the-infinite-loading-screen-of-far-cry-5-expert-tips-and-tricks/"><u>Getting Past the Infinite Loading Screen of Far Cry 5: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-halo-3-gameplay-interruptions-and-crashes-on-pc/"><u>How to Stop Halo 3 Gameplay Interruptions and Crashes on PC</u></a></li>
-<li><a href="https://extra-information.techidaily.com/in-2024-bring-pics-into-action-blur-technique/"><u>In 2024, Bring Pics Into Action Blur Technique</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-content-creation-showdown-twitch-versus-youtube-explored/"><u>In 2024, Content Creation Showdown Twitch Versus YouTube Explored</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723010776405-latest-news-the-long-awaited-launch-of-mafia-definitive-edition-confirmed/"><u>Latest News: The Long-Awaited Launch of Mafia: Definitive Edition Confirmed!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-issue-star-wars-jedi-fallen-order-game-crashes-no-longer-occur/"><u>Resolved Issue: Star Wars Jedi: Fallen Order Game Crashes No Longer Occur</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/the-compact-colossus-exploring-razers-book-13-performance-in-review/"><u>The Compact Colossus: Exploring Razer's Book 13 Performance in Review</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/this-title-highlights-the-exceptional-performance-of-the-epyc-9755-turin-chip-emphasizing-its-success-and-dominance-on-multi-threading-tasks/"><u>This Title Highlights the Exceptional Performance of the EPYC 9755 Turin Chip, Emphasizing Its Success and Dominance on Multi-Threading Tasks.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-multiversus-top-8-solutions-to-stop-the-game-from-freezing/"><u>Troubleshooting MultiVersus: Top 8 Solutions to Stop the Game From Freezing</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-maximize-your-valorant-potential-try-this-costless-game-changer-today/"><u>[New] Maximize Your Valorant Potential - Try This Costless Game Changer Today</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-a-collection-of-the-most-engrossing-amusing-ig-accounts/"><u>[Updated] In 2024, A Collection of The Most Engrossing, Amusing IG Accounts</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-nintendo-switch-prime-capture-experience/"><u>[Updated] In 2024, Nintendo Switch Prime Capture Experience</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-winning-the-game-with-a-strong-video-game-youtube-presence/"><u>2024 Approved Winning the Game with a Strong Video Game Youtube Presence</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/beware-of-fake-chatgpt-desktop-apps-these-are-actually-malware/"><u>Beware of Fake ChatGPT Desktop Apps: These Are Actually Malware</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guida-completa-allottimizzazione-della-dimensione-del-file-mp3-su-piattaforme-mac-e-windows-tecniche-essenziali-per-il-2024/"><u>Guida Completa All'ottimizzazione Della Dimensione Del File MP3 Su Piattaforme Mac E Windows - Tecniche Essenziali per Il 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-inclusive-dynamic-movement-examination/"><u>In 2024, Inclusive Dynamic Movement Examination</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-the-ultimate-guide-to-never-ending-snapstreaks/"><u>In 2024, The Ultimate Guide to Never-Ending Snapstreaks</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-6s-drfone-by-drfone-ios/"><u>iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726226417414-movavi/"><u>Movavi - 安全性を保証する包括的なマルチメディアソリューションと機能</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-ai-mp3/"><u>Movaviでスマートな AI MP3フォーマット変換サービス: 免責金無し</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-the-8-premier-no-cost-cd-burning-applications-for-windows-10-8-and-mac-users/"><u>Ultimate Guide: The 8 Premier No-Cost CD Burning Applications for Windows 10, 8, and Mac Users</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Location is Not Updating and How to Fix On Infinix Smart 7 HD | Dr.fone</u></a></li>
 </ul></div>
 

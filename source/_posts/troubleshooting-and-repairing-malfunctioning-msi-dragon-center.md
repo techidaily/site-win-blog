@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Repairing Malfunctioning MSI Dragon Center
-date: 2024-09-15T06:01:19.742Z
-updated: 2024-09-16T22:05:22.886Z
+date: 2024-09-17T01:03:44.637Z
+updated: 2024-09-21T19:42:17.181Z
 tags:
   - win11
   - win10
@@ -82,13 +82,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -109,13 +102,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123738/7443" target="_top" id="2123738">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123738" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123738/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
@@ -133,10 +119,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **6)** Relaunch your game to check if your issue had been resolved.
@@ -193,10 +179,10 @@ If the game crashing issue persists, check the fix below.
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 7:**Update your Graphics driver**
@@ -235,16 +221,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136616/26400" target="_top" id="2136616">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136616" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136616/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8:**Check for Windows updates**
 
@@ -253,6 +239,13 @@ OR
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type**windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052062/7443" target="_top" id="2052062">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052062" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052062/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -277,6 +270,13 @@ OR
 **3)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-505.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)**  Highlight the **Oxygen Not Included folder** , and then press the **Del** key on your keyboard to delete the folder.
 
@@ -307,16 +307,18 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-info.techidaily.com/updated-full-picture-a-review-of-dji-inspire-2/"><u>[Updated] Full Picture A Review of DJI Inspire 2</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-innovative-video-content-for-budding-vloggers/"><u>[Updated] Innovative Video Content for Budding Vloggers</u></a></li>
-<li><a href="https://article-files.techidaily.com/2024-approved-solo-stream-smoothness-hacks-for-seamless-live-broadcasts/"><u>2024 Approved Solo Stream Smoothness Hacks for Seamless Live Broadcasts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-blackout-troubleshooting-top-tips-to-restore-your-game-visuals/"><u>Cyberpunk 2077 Blackout Troubleshooting – Top Tips to Restore Your Game Visuals</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2023-free-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2023 free</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-finding-your-ideal-display-ultrawide-vs-uhd-4k-edition/"><u>In 2024, Finding Your Ideal Display UltraWide vs UHD 4K Edition</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-nubia-z50s-pro-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Nubia Z50S Pro Through Google Earth?</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/interactive-illumination-the-future-of-memory-presentation/"><u>Interactive Illumination: The Future of Memory Presentation</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-crashes-in-multiversus-mastering-the-top-8-strategies-for-reliable-gaming/"><u>No More Crashes in MultiVersus: Mastering the Top 8 Strategies for Reliable Gaming</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-starting-problems-with-outriders-game-for-pc-users/"><u>Overcoming Starting Problems with Outriders Game for PC Users</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-nokia-g310-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Nokia G310 to Gmail | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-setting-up-snapchat-on-apple-computers-step-by-step/"><u>[New] In 2024, Setting Up Snapchat on Apple Computers Step by Step</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-premiering-popularity-amazon-prime-tweets-of-23/"><u>[Updated] Premiering Popularity Amazon Prime Tweets of '23</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unleash-call-record-potential-essential-free-and-paid-tactics-for-skype-on-computers-for-2024/"><u>[Updated] Unleash Call Record Potential - Essential Free & Paid Tactics for Skype on Computers for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unravel-the-power-of-live-streaming-with-obs-on-youtube-and-twitch-for-2024/"><u>[Updated] Unravel the Power of Live Streaming with OBS on YouTube & Twitch for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-srt-file-open-srt-file-on-windows-or-mac/"><u>2024 Approved SRT File Open SRT File on Windows or Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/webmwmvmovavi/"><u>免費網路直接從WEBM到WMV，以Movavi為代表的转换工具</u></a></li>
+<li><a href="https://win-blog.techidaily.com/webm3gp-movavi/"><u>無綫上免費WEBM到3GP轉化 - 使用 Movavi 過程解析</u></a></li>
+<li><a href="https://ai-video-editing.techidaily.com/how-to-concatenate-videos-using-ffmpeg-for-2024/"><u>How to Concatenate Videos Using FFmpeg for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726219198902-movavi/"><u>Movavi: 정확성과 보안을 우선시하는 멀티미디어 솔루션</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/operational-handling-of-srt-in-oses-for-2024/"><u>Operational Handling of SRT in OSes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/symptoms-include-numbness-tingling-and-pain-in-the-thumb-index-middle-and-radial-half-of-the-ring-finger/"><u>Symptoms Include Numbness, Tingling, and Pain in the Thumb, Index, Middle, and Radial Half of the Ring Finger.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ucinne-metody-hnuti-souboru-klicovych-slozek-pro-konverzace-vozovky-na-zvuci-movavi/"><u>Účinné Metody Hnutí Souboru Klíčových Složek Pro Konverzace Vozovky Na Zvuci - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/web-mov-3gp-movavi/"><u>제공된 오픈소스 코드를 사용한 Web 블로드 무료 MOV 3GP 전환 - MOVAVI</u></a></li>
 </ul></div>
 

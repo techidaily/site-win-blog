@@ -1,7 +1,7 @@
 ---
 title: Microsoft Flight Simulator 2020 - Overcome Update Issues & Get Back In The Sky
-date: 2024-09-15T04:27:36.106Z
-updated: 2024-09-16T19:15:17.092Z
+date: 2024-09-20T23:37:39.296Z
+updated: 2024-09-21T19:00:10.682Z
 tags:
   - win11
   - win10
@@ -55,6 +55,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -68,22 +75,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
@@ -98,17 +104,18 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -119,6 +126,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043617/7443" target="_top" id="2043617">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043617/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -143,13 +157,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -163,16 +170,10 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
@@ -203,21 +204,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-elevate-visuals-best-practices-for-impactful-ig-video-loops/"><u>[New] In 2024, Elevate Visuals Best Practices for Impactful IG Video Loops</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-auditory-appeal-infusing-music-into-instagram-stories/"><u>[Updated] 2024 Approved Auditory Appeal Infusing Music Into Instagram Stories</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-the-best-edges-for-instagram-excellence-an-essential-guide/"><u>[Updated] 2024 Approved The Best Edges for Instagram Excellence – An Essential Guide</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/2024-approved-capture-it-all-webcams-to-transform-podcasts/"><u>2024 Approved Capture It All Webcams to Transform Podcasts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/2024-ultimate-tips-to-prevent-and-solve-game-crashes-in-blizzards-reforged-version/"><u>2024 Ultimate Tips to Prevent and Solve Game Crashes in Blizzard's Reforged Version</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/battlefront-ii-how-to-fix-lengthy-loading-periods-in-pc-version/"><u>Battlefront II: How to Fix Lengthy Loading Periods in PC Version</u></a></li>
-<li><a href="https://win-blog.techidaily.com/deal-with-low-memory-issues-a-complete-guide-to-playing-god-of-war-seamlessly/"><u>Deal with Low Memory Issues: A Complete Guide to Playing God of War Seamlessly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminate-launch-glitches-in-genshin-impact-with-these-5-simple-tweaks/"><u>Eliminate Launch Glitches in Genshin Impact with These 5 Simple Tweaks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhance-horizon-zero-dawn-gaming-experience-tips-to-improve-fps-and-boost-gameplay/"><u>Enhance Horizon Zero Dawn Gaming Experience: Tips to Improve FPS & Boost Gameplay</u></a></li>
-<li><a href="https://buynow-help.techidaily.com/evaluating-longevity-before-new-gadgets/"><u>Evaluating Longevity Before New Gadgets</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-m14-4g-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy M14 4G to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-samsung-galaxy-z-fold-5-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Samsung Galaxy Z Fold 5 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-black-screen-problems-in-magic-the-gathering-arena/"><u>Resolved! Fixes for Black Screen Problems in Magic: The Gathering Arena</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-crashing-problems-in-oxygen-a-comprehensive-guide/"><u>Resolving 'Crashing' Problems in Oxygen - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-preventing-persistent-crashes-in-age-of-empires-ii-definitive-edition/"><u>Solution Guide: Preventing Persistent Crashes in Age of Empires II Definitive Edition</u></a></li>
-<li><a href="https://audio-shaping.techidaily.com/updated-in-2024-synergy-of-sound-the-8-premier-soundscape-titles-for-new-video-entrants/"><u>Updated In 2024, Synergy of Sound The 8 Premier Soundscape Titles for New Video Entrants</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-is-av1-the-clear-winner-against-vp9/"><u>[New] Is AV1 The Clear Winner Against VP9?</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-optimizing-live-obs-broadcasts-for-fb-viewers/"><u>2024 Approved Optimizing Live OBS Broadcasts for FB Viewers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-payment-structure-behind-item-assessment-videos/"><u>2024 Approved Payment Structure Behind Item Assessment Videos?</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/affordable-powerful-motherboards-featuring-longsun-cpus-now-delivering-to-america-starting-at-only-383/"><u>Affordable, Powerful Motherboards Featuring Longsun CPUs Now Delivering to America - Starting at Only $383!</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/americas-favorite-non-native-tongues/"><u>America's Favorite Non-Native Tongues</u></a></li>
+<li><a href="https://games-able.techidaily.com/detailed-breakdown-monthly-price-of-sony-playstation-plus/"><u>Detailed Breakdown: Monthly Price of Sony PlayStation Plus</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discovering-the-capabilities-of-samsung-galaxy-tab-s4-an-incisive-review-for-android-tablet-connoisseurs/"><u>Discovering the Capabilities of Samsung Galaxy Tab S4 - An Incisive Review for Android Tablet Connoisseurs</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-samsung-galaxy-m14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Samsung Galaxy M14 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721477953622-mastering-the-art-of-idevice-keyboards-resolve-these-6-frequent-problems-now/"><u>Mastering the Art of iDevice Keyboards: Resolve These 6 Frequent Problems Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-vlc-to-mp4-transcoding-techniques-revealed-by-experts-at-movavi/"><u>Seamless VLC-to-MP4 Transcoding Techniques Revealed by Experts at Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-15-separateurs-videos-gratuitos-para-desempaquetar-archivios/"><u>Top 15 Séparateurs Videos Gratuitos Para Desempaquetar Archivios</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-15-video-recording-and-live-streaming-tools-the-ultimate-movavi-alternative/"><u>Top 15 Video Recording and Live Streaming Tools: The Ultimate Movavi Alternative</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-17-outstanding-presentation-creators-in-czechia-awaiting-mac-users-showcase/"><u>Top 17 Outstanding Presentation Creators in Czechia Awaiting Mac Users Showcase</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-essential-techniques-and-tricks-for-mastering-digital-photography/"><u>Top 8 Essential Techniques & Tricks for Mastering Digital Photography</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transferez-facilement-un-fichier-wmv-en-format-mkv-sans-frais-avec-movavi/"><u>Transférez Facilement Un Fichier WMV en Format MKV Sans Frais - Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-mp3-gratuitamente-in-formato-wma-con-movavi-online/"><u>Trasforma I Tuoi File MP3 Gratuitamente in Formato WMA Con Movavi Online</u></a></li>
 </ul></div>
 

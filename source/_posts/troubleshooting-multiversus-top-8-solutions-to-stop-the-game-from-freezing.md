@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting MultiVersus: Top 8 Solutions to Stop the Game From Freezing"
-date: 2024-09-14T23:17:04.811Z
-updated: 2024-09-16T21:52:46.492Z
+date: 2024-09-17T16:41:31.488Z
+updated: 2024-09-21T20:47:13.870Z
 tags:
   - win11
   - win10
@@ -79,6 +79,13 @@ There are mainly two ways you can update the graphics driver:
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
  If Genshin Impact doesn’t launch and you’re receiving specific errors like 0xc000007b or MSVCP140.dll cannot be found, installing the latest DirectX files and Visual C++ files might resolve your issue.
@@ -93,10 +100,10 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
@@ -109,35 +116,22 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-4.jpg)
 2. Select the**Services** tab. Then tick**Hide all Microsoft services** and click**Disable all** .  
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 3. Choose the**Startup tab** and click**Open Task Manager** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
 
@@ -155,16 +149,16 @@ There are mainly two ways you can update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 2. Under the General tab, tick**Normal startup** and click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/normal-startup.jpg)
 3. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Repair the game files
 
@@ -174,6 +168,14 @@ There are mainly two ways you can update the graphics driver:
 2. Click the**gear icon** at the top right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-1.jpg)
 3. Select**Repair Game Files** from the left and click**Repair Now** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
 
  Wait for the process to finish and restart the game, which should be working as expected.
@@ -199,18 +201,18 @@ There are mainly two ways you can update the graphics driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-clips.techidaily.com/new-engaging-with-jujutsu-kaisen-fans-through-tiktok-challenges/"><u>[New] Engaging with Jujutsu Kaisen Fans Through TikTok Challenges</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-how-to-convert-youtube-videos-seamlessly-into-avi/"><u>[Updated] In 2024, How to Convert YouTube Videos Seamlessly Into AVI</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-picture-perfect-best-apps-for-framing-your-memories/"><u>2024 Approved Picture Perfect Best Apps for Framing Your Memories</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-tecno-pop-7-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Tecno Pop 7 Pro</u></a></li>
-<li><a href="https://win-blog.techidaily.com/addressed-league-of-legends-online-connection-challenges/"><u>Addressed League of Legends Online Connection Challenges</u></a></li>
-<li><a href="https://blog-min.techidaily.com/dvddvdblu-ray-15/"><u>DVDダウンロード方法：無料で合法なDVD・Blu-Rayコピー技術のガイド - ページ15</u></a></li>
-<li><a href="https://techidaily.com/guide-on-how-to-free-up-apple-iphone-13-space-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>Guide on How To Free Up Apple iPhone 13 Space | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-honor-100-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Honor 100 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-overcome-common-issues-with-discord-setup/"><u>Quick Fixes: Overcome Common Issues with Discord Setup</u></a></li>
-<li><a href="https://win-blog.techidaily.com/silence-broken-effective-techniques-to-restore-sounds-on-fallout-4-computer-setups/"><u>Silence Broken: Effective Techniques to Restore Sounds on Fallout 4 Computer Setups</u></a></li>
-<li><a href="https://blog-min.techidaily.com/sonys-immersive-sound-experience-with-the-pulse-explorer-gaming-earbuds-a-deep-dive/"><u>Sony's Immersive Sound Experience with the Pulse Explorer Gaming Earbuds - A Deep Dive</u></a></li>
-<li><a href="https://games-able.techidaily.com/the-complete-overview-of-xbox-game-pass/"><u>The Complete Overview of Xbox Game Pass</u></a></li>
-<li><a href="https://win-blog.techidaily.com/understanding-and-resolving-launch-problems-with-battlefield-4-for-windows-users/"><u>Understanding and Resolving Launch Problems with Battlefield 4 for Windows Users</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-the-ultimate-users-guide-for-navigating-durecorder-world/"><u>[New] In 2024, The Ultimate User’s Guide for Navigating DuRecorder World</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-18-quick-and-inspiring-ideas-to-try-in-your-vlog/"><u>[Updated] 2024 Approved 18 Quick and Inspiring Ideas to Try in Your Vlog</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-top-6-unobtrusive-applications-for-android-captures/"><u>[Updated] In 2024, Top 6 Unobtrusive Applications for Android Captures</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-tactics-for-increasing-campaign-efficiency-with-smart-hashtag-usage-on-fb/"><u>[Updated] Tactics for Increasing Campaign Efficiency with Smart Hashtag Usage on FB</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726224955575-swf-movavi/"><u>線上免費SWF變更平台 - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/change-your-music-files-from-mp3-to-aac-for-free-use-the-web-based-movavi-solution/"><u>Change Your Music Files From MP3 to AAC for Free - Use the Web-Based Movavi Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/embed-critical-words-early-on-as-search-engines-prioritize-the-beginning-part-of-titles-for-relevance-assessment/"><u>Embed Critical Words Early on as Search Engines Prioritize the Beginning Part of Titles for Relevance Assessment.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-mp4-to-m4v-and-more-with-movavi/"><u>Free Online Conversion: MP4 to M4V & More with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-paso-a-paso-agregar-sincronizacion-de-titulos-cc-en-videos-con-movavi/"><u>Guía Paso a Paso: Agregar Sincronización De Títulos (CC) en Videos Con Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-fake-gps-location-spoofer-a-good-choice-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is Fake GPS Location Spoofer a Good Choice On Oppo Reno 11F 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unlock-visual-potential-with-smart-photo-text-tools-online/"><u>In 2024, Unlock Visual Potential with Smart Photo Text Tools Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/jpg-omzetter-in-duitsland-hoe-kun-je-met-behulp-van-geavanceerde-software-alleen-jpeg-format-te-halen/"><u>JPG-Omzetter in Duitsland: Hoe Kun Je Met Behulp Van Geavanceerde Software Alleen JPEG-Format Te Halen?</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-guide-to-blurring-faces-in-photos-and-videos-top-10-free-tools/"><u>Updated 2024 Approved The Ultimate Guide to Blurring Faces in Photos and Videos Top 10 Free Tools</u></a></li>
 </ul></div>
 

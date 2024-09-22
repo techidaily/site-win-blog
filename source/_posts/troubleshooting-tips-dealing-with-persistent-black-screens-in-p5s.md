@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Dealing with Persistent Black Screens in P5S"
-date: 2024-09-15T19:07:42.948Z
-updated: 2024-09-17T03:33:41.137Z
+date: 2024-09-21T01:48:19.084Z
+updated: 2024-09-21T23:40:33.516Z
 tags:
   - win11
   - win10
@@ -51,6 +51,19 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -60,6 +73,13 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 [Intel](https://downloadcenter.intel.com/product/80939/Graphics)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -73,17 +93,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -105,27 +125,20 @@ Here’s how to update drivers with Driver Easy:
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
- After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
-
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135473/26400" target="_top" id="2135473">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135473/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
 ## 4\. Disable firewall and antivirus software
 
@@ -144,13 +157,6 @@ Here’s how to update drivers with Driver Easy:
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
@@ -177,20 +183,20 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-videos.techidaily.com/new-essential-tips-for-creating-compelling-free-ads-on-youtube/"><u>[New] Essential Tips for Creating Compelling Free Ads on YouTube</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-transforming-your-igtv-presence-with-new-covers-for-2024/"><u>[New] Transforming Your IGTV Presence with New Covers for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-innovative-ways-to-archive-voice-transcripts-from-whatsapp/"><u>[Updated] 2024 Approved Innovative Ways to Archive Voice Transcripts From WhatsApp</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-become-an-instagram-analytics-expert-with-this-ultimate-performance-guide/"><u>[Updated] Become an Instagram Analytics Expert with This Ultimate Performance Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/defeat-the-darkness-expert-advice-on-fixing-call-of-duty-warzone-black-screens/"><u>Defeat the Darkness: Expert Advice on Fixing Call of Duty: Warzone Black Screens</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-valorants-input-delay-problems-for-a-smoother-gaming-experience/"><u>How to Overcome Valorant's Input Delay Problems for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-sculpt-comical-visuals-for-digital-sharing/"><u>In 2024, Sculpt Comical Visuals for Digital Sharing</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/latest-logitech-brio-webcam-drivers-available-for-windows-1187-users/"><u>Latest Logitech Brio Webcam Drivers Available for Windows 11/8/7 Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/oculus-link-not-functioning-here-are-6-fast-fixes-to-try/"><u>Oculus Link Not Functioning? Here Are 6 Fast Fixes to Try!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723009677421-pc-players-rejoice-as-deathloops-freezing-issues-get-resolved/"><u>PC Players Rejoice as Deathloop's Freezing Issues Get Resolved</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-steps-for-restoring-access-to-origin-service/"><u>Solution Steps for Restoring Access to Origin Service</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-puzzle-of-outriders-performance-crashes-and-hiccups-on-desktops/"><u>Solving the Puzzle of Outriders Performance Crashes and Hiccups on Desktops</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-guide-fixing-back-4-blood-voice-communication-issues/"><u>Troubleshooting Guide: Fixing 'Back 4 Blood' Voice Communication Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/valorant-graphics-driver-crashed-error-quick-fix/"><u>Valorant 'Graphics Driver Crashed' Error [Quick Fix]</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/web-browsing-with-chatgpt-or-leveraging-plugins-making-an-informed-decision-on-which-to-use/"><u>Web Browsing with ChatGPT or Leveraging Plugins: Making an Informed Decision on Which to Use</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-magixs-acid-pro-critique-with-comparison-tools/"><u>[Updated] Magix's ACID Pro Critique with Comparison Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nef-to-tiff/"><u>無料ウェブベースのNEF to TIFF変換 - 動画ヴァヴィで簡単に行う方法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambiar-archivos-de-video-del-formato-mpe-al-mp4-sin-coste-adicional-guia-integral-con-movavi/"><u>Cambiar Archivos De Video Del Formato MPE Al MP4 Sin Coste Adicional: Guía Integral Con Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/child-engagement-with-gpt-implementing-five-safety-protocols/"><u>Child Engagement with GPT: Implementing Five Safety Protocols</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-honor-v-purse-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>Does Honor V Purse Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/easy-solution-steps-overcoming-failed-to-instill-hcmond-drivers/"><u>Easy Solution Steps: Overcoming 'Failed to Instill Hcmond Drivers'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-record-videos-on-windows-10-a-step-by-step-guide/"><u>How to Record Videos on Windows 10 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-oppo-a78-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Oppo A78</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-essential-ae-text-enhancers-guide/"><u>In 2024, Essential AE Text Enhancers Guide</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/in-2024-from-ordinary-to-extraordinary-your-pathway-with-tiktok-templates/"><u>In 2024, From Ordinary to Extraordinary Your Pathway with TikTok Templates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/m4a-on-demand/"><u>M4Aファイルを対話形式に自由に変換: On-Demandストリーミング技術</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mov-a-m4a-guida-passo-passo-per-il-conversion-gratuita-online-di-file-audiovideo-usando-movavi/"><u>MOV a M4A: Guida Passo-Passo per Il Conversion Gratuita Online Di File Audio/Video Usando Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/separate-onedrive-and-microsoft-accounts-on-desktop-windows/"><u>Separate OneDrive & Microsoft Accounts on Desktop Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformez-gratuitement-votre-fichier-mov-en-format-vob-sur-internet-avec-moveave/"><u>Transformez Gratuitement Votre Fichier MOV en Format VOB Sur Internet Avec Moveave.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/web-mpeg-movavi/"><u>WEB 내부에서 무료 MPEG 표현식을 모딩하는 방법 - MOVAVI</u></a></li>
 </ul></div>
 

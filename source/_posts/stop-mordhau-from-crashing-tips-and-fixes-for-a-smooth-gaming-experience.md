@@ -1,7 +1,7 @@
 ---
 title: "Stop Mordhau From Crashing: Tips and Fixes for a Smooth Gaming Experience"
-date: 2024-09-15T16:11:05.613Z
-updated: 2024-09-16T21:08:02.512Z
+date: 2024-09-18T20:06:12.987Z
+updated: 2024-09-21T21:57:40.089Z
 tags:
   - win11
   - win10
@@ -73,13 +73,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -92,16 +85,16 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134221/18498" target="_top" id="2134221">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134221/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -142,6 +135,13 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Disable overlays
@@ -156,14 +156,14 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -180,22 +180,23 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -221,15 +222,15 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-exceptional-14-visual-text-motion-examples/"><u>[New] Exceptional 14 Visual Text Motion Examples</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-advanced-zooming-methods-for-distance-communication-with-msteams/"><u>[New] In 2024, Advanced Zooming Methods for Distance Communication with MSTEAMS</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-personal-vocalization-changing-your-tone-for-stories-and-reels-for-2024/"><u>[New] Personal Vocalization Changing Your Tone for Stories & Reels for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-top-viral-tactics-key-tags-for-boosting-youtube-short-clips/"><u>[New] Top Viral Tactics Key Tags for Boosting YouTube Short Clips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boosting-your-ark-survival-ascended-experience-best-practices-for-enhanced-pc-performance/"><u>Boosting Your ARK Survival Ascended Experience – Best Practices for Enhanced PC Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/exploring-fixes-for-players-unable-to-download-and-run-diablo-ii-resurrected/"><u>Exploring Fixes for Players Unable to Download and Run Diablo II Resurrected</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-from-chaos-unleashed-to-organized-oasis-edit-your-hefty-tiktoks/"><u>In 2024, From Chaos Unleashed to Organized Oasis Edit Your Hefty TikToks</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-toolwiz-app-in-focus-a-thorough-review-and-analysis-of-2023-features/"><u>In 2024, Toolwiz App in Focus - A Thorough Review and Analysis of 2023 Features</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/rise-to-greatness-with-the-totobay-2nd-generation-wake-up-light-the-best-economical-alarm-clock-reviewed/"><u>Rise to Greatness with the Totobay 2Nd Generation Wake-Up Light - The Best Economical Alarm Clock Reviewed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-zoom-crashes-advanced-fixes-for-windows-11-and-10-users/"><u>Winning the Battle Against Zoom Crashes: Advanced Fixes for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-instantaneous-windows-image-player/"><u>[New] Instantaneous Windows Image Player</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-leading-8-affordable-open-source-platforms-for-enterprise-calls/"><u>[New] Leading 8 Affordable Open-Source Platforms for Enterprise Calls</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-iphone-photography-hacks-upside-down-and-sideways-shots/"><u>2024 Approved IPhone Photography Hacks Upside-Down & Sideways Shots</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024-8/"><u>2024의 가장 좋은 무료 사진 리퍼제이크 소프트웨어: 상위 8 - [무료 다운로드]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-oppo-a59-5g-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Oppo A59 5G to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversao-de-imagens-jpeg-para-tiff-online-e-gratuita-solucao-simples-com-movavi/"><u>Conversão De Imagens JPEG Para TIFF Online E Gratuita - Solução Simples Com Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-a-oppo-a78-easily-by-drfone-android/"><u>How To Unlock a Oppo A78 Easily?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-free-mmf-format-converter-by-movavi-convert-without-spending-a-penny/"><u>Online Free MMF Format Converter by Movavi - Convert Without Spending a Penny</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/registro-de-sonido-para-windows-y-macos-sin-costo/"><u>Registro De Sonido Para Windows Y macOS Sin Costo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-for-simple-mp3-to-m4r-file-transformation-across-mac-and-pc-platforms/"><u>Step-by-Step Tutorial for Simple MP3 to M4R File Transformation Across Mac and PC Platforms</u></a></li>
 </ul></div>
 

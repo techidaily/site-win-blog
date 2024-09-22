@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your PC: Reducing 'New World's CPU Consumption"
-date: 2024-09-12T16:12:31.612Z
-updated: 2024-09-17T05:05:57.241Z
+date: 2024-09-20T23:16:42.364Z
+updated: 2024-09-21T20:36:43.639Z
 tags:
   - win11
   - win10
@@ -75,28 +75,8 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 ![Cyberpunk 2077 settings](https://images.drivereasy.com/wp-content/uploads/2020/12/navigate-to-in-game-settings.jpg)
 2. Navigate to the**Gameplay** tab. Then, scroll to the Performance section and set**Crowd Density** to**Low** .  
 
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/graphics-1.jpg)
 3. Go to the**Video** tab.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. Under the Advanced section,**turn off Ray Tracing** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/6-3.jpg)
@@ -106,16 +86,10 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
  Relaunch the game to check if the issue persists. If yes, have a look at the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4 – Change the power settings
@@ -125,35 +99,51 @@ Cyberpunk 2077 is one of the most popular PC games. Everything is so good about 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command. Then type**control** in the field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-5.jpg)
 2. Select**Small icons** next to View by and click**Power Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-2.jpg)
 3. Choose**Balanced** or**High Performance** mode if you’re facing high CPU usage, then click**Change plan settings** next to your chosen plan.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-3.jpg)
 4. Click**Change advanced power settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-4.jpg)
 5. Select**Processor power management** \>**Maximum processor state** . Then, set it to another**value no below 90%** , and click**OK** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/p-1.jpg)
 
  Launch Cyberpunk 2077 to test. If it’s still using too much CPU, continue to the last fix.
 
@@ -199,18 +189,19 @@ There are two ways you can update the device drivers correctly:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-lessons.techidaily.com/new-beatsetters-guide-selecting-the-perfect-soundtracks-for-podcast-preludes/"><u>[New] Beatsetter's Guide Selecting the Perfect Soundtracks for Podcast Preludes</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/new-capture-clarity-boost-photos-with-zero-cost/"><u>[New] Capture Clarity Boost Photos with Zero Cost</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-nvidia-geforce-overlay-not-working/"><u>[SOLVED] NVIDIA GeForce Overlay Not Working</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-from-raw-recordings-to-professional-vids-webcam-edition/"><u>2024 Approved From Raw Recordings to Professional Vids - Webcam Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-addressing-the-problem-of-discord-crashing-on-stream-sessions/"><u>Effective Solutions: Addressing the Problem of Discord Crashing on Stream Sessions</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/funny-facades-top-quality-free-meme-files-for-2024/"><u>Funny Facades Top-Quality, FREE Meme Files for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-for-when-your-nvidia-control-panel-wont-open-or-crashes/"><u>Quick Fixes for When Your NVIDIA Control Panel Won't Open or Crashes</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/standard-youtube-vs-creative-commons-liberty-clauses/"><u>Standard YouTube Vs. Creative Commons Liberty Clauses</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-live-recording-best-15-video-resources/"><u>The Ultimate Guide to Live Recording - Best 15 Video Resources</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-stable-play-of-fifa-manager-2022-on-desktop-systems/"><u>Troubleshooting Guide for Stable Play of FIFA Manager 2022 on Desktop Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-the-issue-when-deathloop-fails-to-start/"><u>Troubleshooting Guide: Fixing the Issue When Deathloop Fails to Start</u></a></li>
-<li><a href="https://discover-advanced.techidaily.com/ultimate-guide-converting-videos-to-compatible-formats-for-samsung-lg-sony-and-apple-devices/"><u>Ultimate Guide: Converting Videos to Compatible Formats for Samsung, LG, Sony & Apple Devices</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-peace-of-mind-a-users-journey-through-the-features-of-arlo-home-surveillance-solutions/"><u>Unlocking Peace of Mind: A User's Journey Through the Features of Arlo Home Surveillance Solutions</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-the-ultimate-15-list-of-expert-recommended-gif-maker-apps/"><u>[New] In 2024, The Ultimate 15 List of Expert-Recommended GIF Maker Apps</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-streaming-software-spectacle-choosing-between-virusmix-and-castpro/"><u>[Updated] In 2024, Streaming Software Spectacle Choosing Between VirusMix and CastPro</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-revolutionizing-reality-expertly-reviewed-peripherals/"><u>[Updated] Revolutionizing Reality Expertly Reviewed Peripherals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/w64-movavi/"><u>線上不限量的W64變更工具 - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/come-ottenere-la-licenza-di-ultimo-uso-da-movavi-software-termini-e-condizioni-efficaci/"><u>Come Ottenere La Licenza Di Ultimo Uso Da Movavi Software: Termini E Condizioni Efficaci</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-rmvb-files-to-avi-format-for-free-with-movavis-web-based-service/"><u>Convert RMVB Files to Avi Format for Free with Movavi's Web-Based Service</u></a></li>
+<li><a href="https://media-tips.techidaily.com/ex-netflix-subscribers-rejoice-get-your-first-redbox-discs-free-of-charge/"><u>Ex-Netflix Subscribers Rejoice! Get Your First Redbox Discs Free of Charge.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-tool-change-wmv-format-without-costs-explore-movavi/"><u>Free Online Conversion Tool: Change WMV Format Without Costs - Explore Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-transforming-rmvb-files-into-avi-format-with-ease-moveavewizard/"><u>Free Online Conversion: Transforming RMVB Files Into AVI Format with Ease - Moveavewizard</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-overview-of-whatsapp-voice-calls/"><u>In 2024, Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-the-invisible-web-seo-secrets-for-podcasters/"><u>In 2024, The Invisible Web SEO Secrets for Podcasters</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ispoofer-is-not-working-on-realme-11-proplus-fixed-drfone-by-drfone-virtual-android/"><u>iSpoofer is not working On Realme 11 Pro+? Fixed | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-privacy-protection-in-video-editing-top-face-blurring-techniques-for-2024/"><u>Updated Privacy Protection in Video Editing Top Face Blurring Techniques for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726227696728-f4v-movavi/"><u>무료 온라인 F4V 강조 바꾸기 서비스 - Movavi</u></a></li>
 </ul></div>
 

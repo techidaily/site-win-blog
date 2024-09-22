@@ -1,7 +1,7 @@
 ---
 title: Eliminate Launch Glitches in Genshin Impact with These 5 Simple Tweaks
-date: 2024-09-14T19:07:58.383Z
-updated: 2024-09-17T06:48:02.013Z
+date: 2024-09-14T19:46:19.865Z
+updated: 2024-09-21T21:10:08.677Z
 tags:
   - win11
   - win10
@@ -122,10 +122,10 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
@@ -144,6 +144,13 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### Modify Intel graphics card
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
@@ -152,37 +159,17 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **Intel Graphics Settings**  to open it.  
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click **3D** to open the 3D settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
@@ -191,14 +178,14 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 7. Click **Apply** to save the settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
- Restart NBA 2K20 to see if you can play the game without crashes. If so, congratulations! You’ve resolved this issue; if not, try the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Restart NBA 2K20 to see if you can play the game without crashes. If so, congratulations! You’ve resolved this issue; if not, try the next fix, below.
 
 ### Fix 6: Verify the game file
 
@@ -209,6 +196,13 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch NBA 2K20 again to see if this issue persists. If the game still crashes, try the next fix, below.
 
@@ -242,13 +236,18 @@ thumbnail: https://thmb.techidaily.com/43a1f72d8140b4852b3ec1b168bf1a5fdf9e93b16
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-extensive-breakdown-gecata-tracking-device-assessment/"><u>[New] 2024 Approved Extensive Breakdown Gecata Tracking Device Assessment</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/approved-which-video-platform-suits-you-better-tiktok-or-youtube-shorts/"><u>2024 Approved Which Video Platform Suits You Better TikTok or YouTube Shorts?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/critical-fixes-stop-freezing-in-your-steps-with-borderlands-3-a-comprehensive-guide/"><u>Critical Fixes: Stop Freezing in Your Steps with Borderlands 3 - A Comprehensive Guide</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/dawn-of-the-ai-audio-era-chatgpt-for-daw-sound-artists/"><u>Dawn of the AI Audio Era: ChatGPT for DAW Sound Artists</u></a></li>
-<li><a href="https://fox-that.techidaily.com/expert-advice-how-to-successfully-switch-on-ipad-recovery-mode/"><u>Expert Advice: How To Successfully Switch On iPad Recovery Mode</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-not-installed-easy-anti-cheat-error-in-eac-launching-successfully/"><u>How To Overcome The 'Not Installed' Easy Anti-Cheat Error in EAC Launching Successfully</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Location On Facebook Dating for your Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-how-to-access-group-policy-editor-when-gpeditmsc-doesnt-appear-in-windows-home/"><u>Solved: How to Access Group Policy Editor when gpedit.msc Doesn't Appear in Windows Home</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-find-your-dream-free-vfx-alternative-top-30-sites-explored-deeply-for-2024/"><u>[New] Find Your Dream Free VFX Alternative - Top 30 Sites Explored Deeply for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-investigating-instagrams-videography-cap-for-2024/"><u>[New] Investigating Instagram's Videography Cap for 2024</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-insta-meets-tiktok-connectors-handbook/"><u>[Updated] Insta Meets TikTok Connector's Handbook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambie-de-mef-a-imagenes-jpeg-sin-costo-utilizando-la-herramienta-en-linea-de-movavi/"><u>Cambie De MEF a Imagenes JPEG Sin Costo Utilizando La Herramienta en Linea De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-the-top-rated-auto-subtitling-applications-a-comprehensive-list-of-16-recommended-solutions/"><u>Discover the Top-Rated Auto-Subtitling Applications: A Comprehensive List of 16 Recommended Solutions</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nizing-hit-hits-building-the-perfect-youtube-soundtrack-for-2024/"><u>Harmonizing Hit Hits Building the Perfect YouTube Soundtrack for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-downgrade-apple-iphone-14-pro-without-losing-data-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade Apple iPhone 14 Pro without Losing Data? | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-record-multiple-monitors-for-2024/"><u>How to Record Multiple Monitors for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-upload-videos-on-instagram-from-your-computer-pc-or-mac-easy-guide/"><u>How to Upload Videos on Instagram From Your Computer (PC or Mac) - Easy Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/livraddningsprogram-4-unika-metoder-for-att-spela-i-glasspeglar-under-windows-10/"><u>Livräddningsprogram - 4 Unika Metoder För Att Spela I Glasspeglar Under Windows 10</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-nubia-red-magic-9-proplus-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Nubia Red Magic 9 Pro+ Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-9-coupes-de-videos-gratuites-et-en-direct-sur-internet/"><u>Top 9 Coupes De Vidéos Gratuites Et En Direct Sur Internet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-3gpp-m4a-3d/"><u>무료 인터넷에서 Movavi로 3GPP M4A 표시를 위해 3D 가상 공간 변환 기술 - 오디오/비디오</u></a></li>
 </ul></div>
 

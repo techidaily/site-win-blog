@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Battlefront II Crashing on PC"
-date: 2024-09-15T23:02:16.903Z
-updated: 2024-09-17T00:38:46.214Z
+date: 2024-09-16T19:59:52.940Z
+updated: 2024-09-22T01:22:05.545Z
 tags:
   - win11
   - win10
@@ -100,6 +100,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of game files
 
  If you play PoE on Steam, you can verify the integrity of your game files using the following procedure:
@@ -109,10 +116,10 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-16-1024x218.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) Right-click **Path of Exile** and select **Properties** .
@@ -141,28 +148,15 @@ In case this fix didn’t help, please move on to Fix 4.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
 <!-- affiliate ads begin -->
-<span id="1424527">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -182,18 +176,18 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-14.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016170/19272" target="_top" id="2016170">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016170" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016170/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking
 
@@ -223,12 +217,16 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/ed-tallying-up-mr-beasts-billions/"><u>[Updated] Tallying Up Mr. Beast's Billions</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-unlock-huawei-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Huawei PIN Code/Pattern Lock/Password</u></a></li>
-<li><a href="https://win-blog.techidaily.com/last-epoch-not-launching-on-pc-2024-fixes/"><u>Last Epoch Not Launching on PC – 2024 Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimize-your-experience-no-more-crashes-in-dragon-age-origins-on-windows-11-expert-advice/"><u>Optimize Your Experience: No More Crashes in Dragon Age: Origins on Windows 11 – Expert Advice</u></a></li>
-<li><a href="https://review-topics.techidaily.com/proven-ways-in-how-to-hide-location-on-life360-for-vivo-v30-pro-drfone-by-drfone-virtual-android/"><u>Proven Ways in How To Hide Location on Life360 For Vivo V30 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-stability-issues-with-manor-lords-on-pc/"><u>Step-by-Step Troubleshooting: Stability Issues with Manor Lords on PC</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-windows-10-video-editing-software-best-imovie-alternatives/"><u>Updated In 2024, Windows 10 Video Editing Software Best iMovie Alternatives</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-mastering-big-head-vfx-in-tiktoks-a-guide-3-methods/"><u>[New] In 2024, Mastering Big Head VFX in TikToks A Guide (3 Methods)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-leveraging-obs-for-top-notch-social-media-streaming/"><u>[Updated] 2024 Approved Leveraging OBS for Top-Notch Social Media Streaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/infobox/"><u>/Infobox</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beginners-guide-the-top-17-easy-to-use-video-editors-unveiled/"><u>Beginner's Guide: The Top 17 Easy-to-Use Video Editors Unveiled!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversione-gratuita-flac-a-m4a-su-internet-scopri-il-programma-convertitore-di-movavi/"><u>Conversione Gratuita Flac a M4a Su Internet: Scopri Il Programma Convertitore Di Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminazione-on-line-degli-elementi-in-fotografie-con-software-o-applicazioni-desktop/"><u>Eliminazione On-Line Degli Elementi in Fotografie Con Software O Applicazioni Desktop</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-sony-xperia-10-v-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Sony Xperia 10 V Pattern Lock Screen</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-change-credit-card-on-your-iphone-14-apple-id-and-apple-pay-by-drfone-ios/"><u>In 2024, How to Change Credit Card on Your iPhone 14 Apple ID and Apple Pay</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-your-realme-10t-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How to Reset your Realme 10T 5G Lock Screen Password</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-10-apps-para-gravacao-em-camera-lenta-ouro-verdadeiro-do-mundo-digital/"><u>Top 10 Apps Para Gravação Em Câmera Lenta: Ouro Verdadeiro Do Mundo Digital</u></a></li>
+<li><a href="https://windows11.techidaily.com/understanding-and-addressing-audio-failure-xc00d36b4/"><u>Understanding and Addressing Audio Failure XC00D36B4</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Getting 'Origin' To Open on Windows 11 Systems
-date: 2024-09-11T01:14:05.650Z
-updated: 2024-09-17T03:48:34.522Z
+date: 2024-09-20T01:15:46.812Z
+updated: 2024-09-21T23:20:26.507Z
 tags:
   - win11
   - win10
@@ -92,6 +92,13 @@ If AoE still won’t launch, move on and try the fix below.
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Verify the integrity of your game files
 
  Corrupt or missing game files can also cause your game to fail. If you’re playing the game on Steam, you can verify the integrity of your game files. Follow the instructions below:
@@ -116,6 +123,13 @@ If AoE still won’t launch, move on and try the fix below.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136624/26400" target="_top" id="2136624">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136624" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136624/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your game
 
  This issue might happen if your game isn’t properly installed on your PC. Try reinstalling it to see if that’s the issue for you. Follow the instructions below:
@@ -131,16 +145,16 @@ If AoE still won’t launch, move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134241/18498" target="_top" id="2134241">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134241" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134241/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart **your computer** .
 
@@ -162,23 +176,9 @@ If the issue continues to occur, go to the next solution.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-3.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
-  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Download Age of empires from Microsoft Store, and reinstall it.
 
@@ -195,10 +195,10 @@ If your game still won’t load, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
@@ -206,10 +206,10 @@ If your game still won’t load, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
@@ -237,18 +237,19 @@ If your game still won’t load, then move on to the next fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-rhythmic-respite-top-20-easygoing-country-hits-for-stress-relief-dance-on-tiktok/"><u>[New] 2024 Approved Rhythmic Respite Top 20 Easygoing Country Hits for Stress-Relief Dance on TikTok</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-mastering-media-manipulation-combining-windows-photos-and-story-remix/"><u>[New] Mastering Media Manipulation Combining Windows Photos and Story Remix</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-insights-on-youtube-tvs-unique-features/"><u>[Updated] In 2024, Essential Insights on YouTube TV's Unique Features</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-perpetual-load-how-to-overcome-being-trapped-at-the-minecraft-boot-screen/"><u>Fixing the Perpetual Load: How to Overcome Being Trapped at the Minecraft Boot Screen</u></a></li>
-<li><a href="https://win-blog.techidaily.com/microsoft-flight-simulator-2020-overcoming-persistent-update-errors-solutions-included/"><u>Microsoft Flight Simulator 2020: Overcoming Persistent Update Errors - Solutions Included</u></a></li>
-<li><a href="https://win-blog.techidaily.com/rekindling-rhythms-a-guide-to-resolving-lost-arks-sound-dilemma/"><u>Rekindling Rhythms: A Guide to Resolving Lost Ark's Sound Dilemma</u></a></li>
-<li><a href="https://review-topics.techidaily.com/samsung-qn55q60rafxza-the-premier-choice-for-ultra-hd-viewing-experience-reviewed/"><u>Samsung QN55Q60RAFXZA - The Premier Choice for Ultra HD Viewing Experience Reviewed</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-ultimate-fix-list-for-6-prevalent-chatgpt-issues/"><u>The Ultimate Fix List for 6 Prevalent ChatGPT Issues</u></a></li>
-<li><a href="https://techtrends.techidaily.com/the-ultimate-movie-guide-for-instant-online-entertainment-a-tribute-to-lifewire/"><u>The Ultimate Movie Guide for Instant Online Entertainment - A Tribute to Lifewire</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-a-smooth-run-of-persona-cuffs-and-avoiding-game-crashes-on-your-computer/"><u>Troubleshooting Tips for a Smooth RUN of PERSONA Cuffs, and Avoiding Game Crashes on Your Computer.</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/ultimate-tips-for-keeping-favorite-netflix-movies-handy-on-your-computer/"><u>Ultimate Tips for Keeping Favorite Netflix Movies Handy on Your Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/when-computers-twice-crash-a-deep-dive-into-simultaneous-failures-and-fixes/"><u>When Computers Twice Crash: A Deep Dive Into Simultaneous Failures and Fixes</u></a></li>
-<li><a href="https://smart-video-editing.techidaily.com/1726028544780-youtube/"><u>YouTube動画にサウンドトラックを組み込むためのステップバイステップガイド</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-facebook-verification-how-to-get-the-blue-verified-badge-easily/"><u>[New] 2024 Approved Facebook Verification How to Get the Blue Verified Badge (Easily)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-recruiting-revolutionaries-10-most-motivational-episodes/"><u>[New] 2024 Approved Recruiting Revolutionaries - 10 Most Motivational Episodes</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/new-budget-friendly-strategies-to-infuse-text-and-video/"><u>[New] Budget-Friendly Strategies to Infuse Text & Video</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavimkvm4v/"><u>「オンラインフリーMovavi動画フォーマット変更ツール：MKVとM4Vを問題なく互換！」</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/discover-superior-alternatives-for-converting-and-saving-youtube-videos-offline/"><u>Discover Superior Alternatives for Converting and Saving YouTube Videos Offline</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-facil-para-convertir-musica-mp3-en-videos-avi-sin-coste-mediante-online-converter-pro/"><u>Guía Fácil Para Convertir Música MP3 en Vídeos AVI Sin Coste Mediante Online Converter Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-paso-a-paso-conversion-de-archivo-ifo-a-mp4-en-windows-y-mac/"><u>Guía Paso a Paso: Conversión De Archivo IFO a MP4 en Windows Y Mac</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-blurring-backgrounds-a-visual-hideaway-guide/"><u>In 2024, Blurring Backgrounds A Visual Hideaway Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-spark-20-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Spark 20 Pro | Dr.fone</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-level-up-your-videos-20-best-free-adobe-premiere-title-templates/"><u>New In 2024, Level Up Your Videos 20 Best Free Adobe Premiere Title Templates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/riconverti-i-tuoi-file-ape-in-mp4-gratuitamente-online-con-movavi/"><u>Riconverti I Tuoi File APE in MP4 Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/snel-en-eenvoudig-kopen-van-movavi-videoboeksel-duitslands-gouden-stijlzekerheid-voor-vrijwillige-aanschafkandidaten/"><u>Snel en Eenvoudig Kopen Van Movavi Videoboeksel: Duitslands Gouden-Stijlzekerheid Voor Vrijwillige Aanschafkandidaten</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/which-pokemon-can-evolve-with-a-moon-stone-for-motorola-moto-g73-5g-drfone-by-drfone-virtual-android/"><u>Which Pokémon can Evolve with a Moon Stone For Motorola Moto G73 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-11-8-7-macos-dvd-7/"><u>Windows 11, 8, 7 및 macOS 상대적인 익명성: 자동화된 DVD 리팩터링에 관한 7가지 획기온전한 해결사일</u></a></li>
 </ul></div>
 

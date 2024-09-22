@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Optimization Tips: Switching From CPU to GPU Rendering in Windows 10"
-date: 2024-09-13T18:08:58.295Z
-updated: 2024-09-16T17:00:56.332Z
+date: 2024-09-19T02:19:05.188Z
+updated: 2024-09-22T01:07:17.217Z
 tags:
   - win11
   - win10
@@ -89,40 +89,28 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<span id="1743243">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -133,6 +121,13 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -159,20 +154,15 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/reconnecting-with-steam-pals-troubleshooting-unavailability-problems/"><u>'Reconnecting with Steam Pals': Troubleshooting Unavailability Problems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-expert-pick-mics-for-youtube-entrepreneurs/"><u>[New] In 2024, Expert Pick Mics for YouTube Entrepreneurs</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/new-in-2024-how-to-record-minecraft-on-mac/"><u>[New] In 2024, How to Record Minecraft on Mac</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-the-playlist-wizard-youtube-music-edition/"><u>[New] The Playlist Wizard YouTube Music Edition</u></a></li>
-<li><a href="https://fox-info.techidaily.com/updated-in-2024-screen-savvy-starting-point-deciphering-display-standards/"><u>[Updated] In 2024, Screen-Savvy Starting Point Deciphering Display Standards</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/cookiebot-enhanced-sites-experience-advanced-personalization-and-analytics/"><u>Cookiebot-Enhanced Sites: Experience Advanced Personalization and Analytics</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-dota-2-latency-updated-best-practices-and-tips-for-gamers/"><u>Overcoming Dota 2 Latency: Updated Best Practices and Tips for Gamers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-latency-effective-remedies-for-halo-infinite-frame-drops/"><u>Overcoming Latency: Effective Remedies for Halo Infinite Frame Drops</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pubg-no-volume-heres-how-you-can-get-game-audio-back/"><u>PUBG No Volume? Here's How You Can Get Game Audio Back</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722999506144-quick-fixes-for-common-wwe-2k20-pc-stability-problems-get-back-to-gaming/"><u>Quick Fixes for Common WWE 2K20 PC Stability Problems - Get Back to Gaming</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-performance-issues-fix-the-freezing-problem-in-code-vein-for-a-smooth-experience/"><u>Resolving Performance Issues: Fix the Freezing Problem in Code Vein for a Smooth Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-solving-the-outriders-lag-problem-on-ps4/"><u>Step-by-Step Guide: Solving the Outriders Lag Problem on PS4</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/stop-the-stop-start-prevent-freezing-on-photo-booth/"><u>Stop the Stop-Start Prevent Freezing on Photo Booth</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/top-15-free-window-11-themes-you-can-download-today/"><u>Top 15 Free Window 11 Themes You Can Download Today</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/troubleshooting-and-fixing-the-d3d-initialization-error-errgfxd3dinit-in-grand-theft-auto-v/"><u>Troubleshooting and Fixing the D3D Initialization Error (ERR_GFX_D3D_INIT) in Grand Theft Auto V</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-unveiling-standout-cinematography-experts/"><u>[New] 2024 Approved Unveiling Standout Cinematography Experts</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-creating-custom-tiktok-ringtone-for-mobile-devices-for-2024/"><u>[New] Creating Custom TikTok Ringtone for Mobile Devices for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pnggif-movavi/"><u>「オンラインで無料のPNGからGIFへの変換 - Movavi」</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-tailored-solutions-for-high-quality-iptv-capture/"><u>2024 Approved Tailored Solutions for High-Quality IPTV Capture</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp4mpeg-movavi/"><u>免費在線轉換MP4影片成MPEG格式 - Movavi影片格式改造工具</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-motorola-g24-power-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Motorola G24 Power Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/determined-no-driver-affirms-opengl-use/"><u>Determined: No Driver Affirms OpenGL Use</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-5-solutions-for-nokia-g310-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Nokia G310 Unlock Without Password</u></a></li>
+<li><a href="https://win-blog.techidaily.com/passa-file-video-avi-al-codec-audio-ad-alta-qualita-flac-servizio-di-conversione-on-line-free-movavi/"><u>Passa File Video AVI Al Codec Audio Ad Alta Qualità FLAC, Servizio Di Conversione On-Line Free - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-12-free-audio-converter-tools-compared-win-mac-and-online-options-by-movavi/"><u>Top 12 Free Audio Converter Tools Compared: Win, Mac & Online Options by Movavi</u></a></li>
 </ul></div>
 

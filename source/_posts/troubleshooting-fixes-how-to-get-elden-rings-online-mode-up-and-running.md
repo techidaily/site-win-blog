@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fixes: How to Get Elden Ring's Online Mode Up and Running"
-date: 2024-09-12T07:33:49.178Z
-updated: 2024-09-16T17:28:51.369Z
+date: 2024-09-14T21:23:37.095Z
+updated: 2024-09-22T01:37:32.385Z
 tags:
   - win11
   - win10
@@ -82,34 +82,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **4)** Restart Oxygen Not Included from Steam.
 
@@ -146,10 +125,10 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
  If running your game in compatibility mode didn’t work for you, move on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5:**Change branches in Oxygen Not Included**
@@ -161,6 +140,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **2)** Click**Library** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-896.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Right-click**Oxygen Not Included** and select**Properties** .
 
@@ -176,6 +162,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-288.png)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
@@ -183,6 +176,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **7)** Relaunch and play Oxygen Not Included.
 
 If the game crashing issue persists, check the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6:**Install** Microsoft Visual C++ 2015 Runtime
 
@@ -247,6 +247,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
@@ -275,13 +282,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-277.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **5)**  Relaunch Steam to download and reinstall Oxygen Not Included. Then, try launching the game again to see if this fixed your problem.
 
  Hopefully, you’re able to play Oxygen Not Included now. If you have any questions or suggestions, feel free to leave a comment below.
@@ -307,17 +307,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/nside-the-monetization-maze-dailymotion-vs-youtube-for-2024/"><u>[New] Inside the Monetization Maze Dailymotion vs YouTube for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/new-unlocking-social-media-success-rising-through-the-facebook-leaderboard-for-2024/"><u>[New] Unlocking Social Media Success Rising Through the Facebook Leaderboard for 2024</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-top-webinar-designers-toolset/"><u>[Updated] In 2024, Top Webinar Designer's Toolset</u></a></li>
-<li><a href="https://techtrends.techidaily.com/a-beginners-comprehensive-guide-exploring-past-versions-of-websites-using-wayback-machine/"><u>A Beginner’s Comprehensive Guide: Exploring Past Versions of Websites Using Wayback Machine</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battle-through-smooth-gameplay-fixing-latency-issues-in-borderlands-3/"><u>Battle Through Smooth Gameplay: Fixing Latency Issues in Borderlands 3</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-glitch-the-definitive-fix-for-crashing-diablo-4-games-on-all-consoles/"><u>Beat the Glitch: The Definitive Fix for Crashing Diablo 4 Games on All Consoles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-pcs-valorant-startup-problems-with-these-2024-pro-tips/"><u>Fix Your PC's Valorant Startup Problems with These 2024 Pro Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-your-windows-n-crashed-dragon-age-origins-game-with-these-proven-tips/"><u>Fix Your Windows N-Crashed Dragon Age: Origins Game with These Proven Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fortnite-pc-play-disrupted-by-constant-crashes-learn-the-latest-fixes-for-a-smooth-experience/"><u>Fortnite PC Play Disrupted by Constant Crashes? Learn the Latest Fixes for a Smooth Experience</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-motorola-g24-power-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Motorola G24 Power to iPhone (13/14/15) | Dr.fone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-vivo-y100t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Vivo Y100t? Try These Fixes</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unpack-the-ultimate-travel-companion-list-selecting-indispebly-essential-carry-on-items-for-your-journey/"><u>Unpack the Ultimate Travel Companion List: Selecting Indispebly Essential Carry-On Items for Your Journey</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-behind-the-scenes-insights-for-instagram-story-audience-for-2024/"><u>[New] Behind the Scenes Insights for Instagram Story Audience for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-edge-selecting-the-best-mobile-and-desktop-video-editors/"><u>[New] In 2024, Instagram Edge Selecting the Best Mobile & Desktop Video Editors</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-navigate-with-ease-best-7-android-browsers-without-pop-ups/"><u>[Updated] 2024 Approved Navigate With Ease Best 7 Android Browsers Without Pop-Ups</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-innovative-image-integration-software-for-visual-enthusiasts/"><u>[Updated] Innovative Image Integration Software for Visual Enthusiasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225784181-webmavi-movavi/"><u>無料移動平台以WebM格式改為AVI - 使用Movavi的方法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavimp4/"><u>無需花費一分錢，線上Movavi提供MP4圖像變更服務</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/android-time-lapse-perfection-secrets-revealed-for-2024/"><u>Android Time-Lapse Perfection Secrets Revealed for 2024</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/channel-titles-that-shine-how-to-innovate/"><u>Channel Titles That Shine How to Innovate</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertisseur-gratuit-avi-a-flash-swf-sur-internet-transformation-sans-frais-avec-movavi/"><u>Convertisseur Gratuit AVI À Flash SWF Sur Internet - Transformation Sans Frais Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/dive-into-dialogue-w-chatgpt-today/"><u>Dive Into Dialogue W/ ChatGPT Today</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-the-spyro-reignited-saga-small-creature-massive-entertainment-value/"><u>Evaluating the Spyro Reignited Saga: Small Creature, Massive Entertainment Value</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-the-experts-handbook-for-srt-file-conversions/"><u>In 2024, The Expert's Handbook for SRT File Conversions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-free-service-for-transforming-caf-into-m4r-format-online/"><u>Movavi's FREE Service for Transforming CAF Into M4R Format Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-18-mais-populares-programas-de-gravacao-de-video-para-windows-gratuitos/"><u>Top 18 Mais Populares Programas De Gravação De Vídeo Para Windows Gratuitos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-tips-na-presunu-pravocerveneho-hledani-jak-ziskat-vyhru-ve-seo/"><u>Top 6 Tips Na Přesunu Pravočerveného Hledání: Jak Získat Výhru Ve SEO</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Assassin's Creed Odyssey Freezing on PC - 2024 Fix
-date: 2024-09-11T21:06:55.946Z
-updated: 2024-09-16T16:15:49.315Z
+date: 2024-09-21T02:45:16.550Z
+updated: 2024-09-22T00:47:14.550Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ thumbnail: https://thmb.techidaily.com/4710ca06d5c1bac3d98138fcc48df68b8cda1336e
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -67,37 +74,24 @@ thumbnail: https://thmb.techidaily.com/4710ca06d5c1bac3d98138fcc48df68b8cda1336e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
  Still no luck? Don’t give up hope. There is something else you can do.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your in-game settings
 
@@ -111,6 +105,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1172027/12108" target="_top" id="1172027">
+  <img src="//a.impactradius-go.com/display-ad/12108-1172027" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1172027/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In**Window Mode** , click and change to another mode.
 
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
@@ -121,13 +122,6 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Click the**Graphics** tab, try lowing these settings:
 
@@ -140,6 +134,13 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948891/19272" target="_top" id="1948891">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948891" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948891/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6) Restart your computer.
 
@@ -155,27 +156,26 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-80.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115937/19272" target="_top" id="2115937">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115937/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
@@ -208,21 +208,21 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-files.techidaily.com/updated-ai-powered-youtube-title-designer-toolkit/"><u>[Updated] AI-Powered YouTube Title Designer Toolkit</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-digital-tapes-a-comprehensive-recorder-roundup/"><u>[Updated] In 2024, Digital Tapes A Comprehensive Recorder Roundup</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/2024-approved-complete-breakdown-enhancing-your-experience-with-advanced-mobizen-techniques/"><u>2024 Approved Complete Breakdown Enhancing Your Experience with Advanced Mobizen Techniques</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-turbocharge-touch-ups-learn-speedy-skills-for-win10-photos-editing/"><u>2024 Approved Turbocharge Touch-Ups Learn Speedy Skills for WIN10 Photos Editing</u></a></li>
-<li><a href="https://facebook.techidaily.com/6-stylish-steps-to-a-photo-that-gains-followers-and-likes/"><u>6 Stylish Steps to a Photo that Gains Followers and Likes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhancing-heart-of-iron-4-stability-addressing-frequent-disruptions/"><u>Enhancing Heart of Iron 4 Stability – Addressing Frequent Disruptions</u></a></li>
-<li><a href="https://techidaily.com/how-to-easily-hard-reset-my-poco-x6-drfone-by-drfone-reset-android-reset-android/"><u>How to Easily Hard reset my Poco X6 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-a-stuck-startup-in-stardew-valley-game/"><u>How to Fix a Stuck Startup in Stardew Valley Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-challenge-of-unopenable-outlook-mail-client/"><u>How To Overcome the Challenge of Unopenable Outlook Mail Client</u></a></li>
-<li><a href="https://windows11.techidaily.com/resolving-wsl-issues-post-windows-11-upgrade/"><u>Resolving WSL Issues Post-Windows 11 Upgrade</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/solution-found-directx-hardware-interface-setup-error-corrected/"><u>Solution Found: DirectX Hardware Interface Setup Error Corrected</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solutions-for-playstation-fans-fixing-non-startup-problems-in-tekken-8-pc/"><u>Solutions for PlayStation Fans: Fixing Non-Startup Problems in Tekken 8 (PC)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-chivalry-2-performance-problems-expert-fixes-for-reducing-lag-and-lowering-ping/"><u>Solve Chivalry 2 Performance Problems: Expert Fixes for Reducing Lag and Lowering Ping</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-phoenix-point-crashes-in-their-tracks-with-these-proven-troubleshooting-techniques/"><u>Stop Phoenix Point Crashes in Their Tracks with These Proven Troubleshooting Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/trouble-free-screen-sharing-on-discord-no-more-black-screens-anymore/"><u>Trouble-Free Screen Sharing on Discord: No More Black Screens Anymore!</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/understanding-the-502-bad-gateway-error-causes-and-solutions/"><u>Understanding the 502 Bad Gateway Error: Causes & Solutions</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-boosting-gamers-skills-with-accurate-xbox-captures/"><u>[New] 2024 Approved Boosting Gamers' Skills with Accurate Xbox Captures</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-filming-friends-directly-share-videos-on-twitter/"><u>[New] 2024 Approved Filming Friends Directly Share Videos on Twitter</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-all-encompassing-razer-camera-report/"><u>[New] In 2024, All-Encompassing Razer Camera Report</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-smooth-operations-direct-backup-of-camera-roll-images-to-social-media-apps/"><u>[New] Smooth Operations Direct Backup of Camera Roll Images to Social Media Apps</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-mastering-youtube-video-edits-with-adobe-premiere/"><u>[Updated] Mastering YouTube Video Edits with Adobe Premiere</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-vivo-v29e-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Vivo V29e Phone Using PC | Dr.fone</u></a></li>
+<li><a href="https://location-fake.techidaily.com/8-solutions-to-fix-find-my-friends-location-not-available-on-vivo-v27e-drfone-by-drfone-virtual-android/"><u>8 Solutions to Fix Find My Friends Location Not Available On Vivo V27e | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wma-wav-movavi/"><u>免費在線 WMA 變更成 WAV - 以 Movavi 為基礎的轉頻工具</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-tool-convert-vob-files-to-mp4-quickly-with-movavi/"><u>Free Online Conversion Tool - Convert VOB Files to MP4 Quickly with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-convert-raf-to-jpeg-using-movavi/"><u>Free Online Converter: Convert RAF to JPEG Using Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-converteren-van-m4v-naar-avi-online-professioneel-mivavi-kostenloze-ld-converter/"><u>Gratis Converteren Van M4V Naar AVI Online: Professioneel MIVAVi - Kostenloze LD-Converter</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oppo-reno-11f-5g-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Oppo Reno 11F 5G to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/les-top-15-outils-de-suivi-web-parfaits-pour-les-blogueurs/"><u>Les Top 15 Outils De Suivi Web Parfaits Pour Les Blogueurs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726224244444-movavi/"><u>Movavi: 위험 없이 다중 미디어를 기본으로 사용하는 안전한 소프트웨어 솔루션</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/thoroughly-reviewed-chilled-treats-screenshot-capture-for-2024/"><u>Thoroughly Reviewed Chilled Treats Screenshot Capture for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-flac-in-formato-avi-online-senza-costi-con-movavi/"><u>Trasforma I Tuoi File FLAC in Formato AVI Online Senza Costi Con Movavi</u></a></li>
 </ul></div>
 

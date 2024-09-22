@@ -1,7 +1,7 @@
 ---
 title: "Getting Past the Infinite Loading Screen of Far Cry 5: Expert Tips & Tricks"
-date: 2024-09-11T23:39:04.474Z
-updated: 2024-09-16T16:23:51.460Z
+date: 2024-09-16T16:12:39.892Z
+updated: 2024-09-21T19:46:37.163Z
 tags:
   - win11
   - win10
@@ -69,20 +69,13 @@ There are mainly two ways to update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is download them one at a time and manually install them.)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -90,6 +83,13 @@ There are mainly two ways to update your graphics driver:
  Once you’ve updated your graphics driver, restart your PC and launch Elden Ring again to see if your problem is resolved.
 
  If updating your graphics driver doesn’t solve your problem, check the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Check for Windows updates
 
@@ -100,8 +100,29 @@ There are mainly two ways to update your graphics driver:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under**Windows Update** , click**Check for updates** . Windows will automatically download and install the available updates.  
+
+<!-- affiliate ads begin -->
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates, restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880931/19272" target="_top" id="1880931">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880931" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Elden Ring again and check if you still get stuck on a black screen.
 
@@ -117,13 +138,6 @@ If the issue persists, move on to the next fix.
 
  When updates are available, follow the on-screen instructions to download and install them.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Verify the integrity of game files
 
  If your game files are missing or corrupted, you may encounter a black screen in Elden Ring. To fix the problem, you can verify the integrity of game files on Steam. Here’s how:
@@ -134,16 +148,10 @@ If the issue persists, move on to the next fix.
 3. Select the**Install Files** tab and click**Verify integrity of game files** .  
 
 <!-- affiliate ads begin -->
-<span id="1975636">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975636.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975636">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975636.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975636%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975636/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Verify-integrity-of-game-files.jpg)
@@ -163,13 +171,6 @@ If the issue remains, take a look at the next fix.
 3. On the**General** tab, toggle off**Enable the Steam Overlay while in-game** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/03/Elden-Ring-Disable-in-game-overlay.jpg)
 4. Close the**Properties** window and launch the game.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132161/7443" target="_top" id="2132161">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132161" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132161/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now check if the black screen issue has gone away.
 
@@ -196,20 +197,19 @@ Now check if the black screen issue has gone away.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/new-2024-approved-deciding-on-a-top-gopro-camera-max-or-hero-11/"><u>[New] 2024 Approved Deciding on a Top GoPro Camera Max or Hero 11?</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-streamlining-your-show-formatting-podcast-xml-successfully-for-2024/"><u>[New] Streamlining Your Show Formatting Podcast XML Successfully for 2024</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-growth-by-numbers-tapping-into-youtube-analytics-power/"><u>[Updated] Growth by Numbers Tapping Into YouTube Analytics Power</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/2024-approved-boosting-video-engagement-using-zooms-snap-feature/"><u>2024 Approved Boosting Video Engagement Using Zoom's Snap Feature</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battling-slow-loading-scenes-in-star-wars-battlefront-ii-solutions-for-faster-gameplay/"><u>Battling Slow Loading Scenes in Star Wars Battlefront II - Solutions for Faster Gameplay</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/comprehensive-review-unveiling-the-features-and-performance-of-the-samsung-galaxy-chromebook-2-portable-powerhouse/"><u>Comprehensive Review: Unveiling the Features and Performance of the Samsung Galaxy Chromebook 2 Portable Powerhouse</u></a></li>
-<li><a href="https://win-blog.techidaily.com/exploring-fixes-for-players-unable-to-download-and-run-diablo-ii-resurrected/"><u>Exploring Fixes for Players Unable to Download and Run Diablo II Resurrected</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-magic-vs-2-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor Magic Vs 2 Pattern Lock if Forgotten? 6 Ways</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-solution-to-deathloop-not-starting-issues/"><u>Mastering the Solution to Deathloop Not Starting Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-fixing-steams-broken-disk-error-smoothly/"><u>Step-by-Step Guide to Fixing Steam's Broken Disk Error Smoothly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-garrys-mod-from-crashing-proven-techniques-for-gamers-in-2vearyear/"><u>Stop Garry's Mod From Crashing: Proven Techniques for Gamers in 2Vearyear</u></a></li>
-<li><a href="https://win-blog.techidaily.com/success-solving-your-deathloop-launch-issues-step-by-step-solutions/"><u>Success! Solving Your 'Deathloop Launch Issues': Step-by-Step Solutions</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/the-sdr-to-hdr-conversion-companion-book-for-2024/"><u>The SDR to HDR Conversion Companion Book for 2024</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-webm-video-optimization-best-online-compression-software/"><u>Updated 2024 Approved WebM Video Optimization Best Online Compression Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-zoom-crashes-advanced-fixes-for-windows-11-and-10-users/"><u>Winning the Battle Against Zoom Crashes: Advanced Fixes for Windows 11 and 10 Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-elevate-video-popularity-with-smart-thumbnails/"><u>[New] 2024 Approved Elevate Video Popularity with Smart Thumbnails</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-dj-beats-unleashed-high-fidelity-templates-downloaded-easily/"><u>[New] In 2024, DJ Beats Unleashed High-Fidelity Templates Downloaded Easily</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-mastering-video-and-screenshots-with-simple-steps/"><u>[Updated] Mastering Video & Screenshots with Simple Steps</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-clear-youtubes-obscured-visual-field/"><u>2024 Approved Clear Youtube's Obscured Visual Field</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-3g2-videos-to-avi-for-free-effortless-online-tools-by-videoconverterpro/"><u>Convert 3G2 Videos to AVI for Free - Effortless Online Tools by VideoConverterPro</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/customize-your-live-streams-creating-unique-manycam-facial-overlays-from-scratch/"><u>Customize Your Live Streams: Creating Unique ManyCam Facial Overlays From Scratch</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-drive-cleanup-tips-for-windows-11-the-role-of-revo-uninstaller/"><u>Efficient Drive Cleanup Tips for Windows 11: The Role of Revo Uninstaller</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-avi-to-m2ts-transformation-on-the-web-get-started-with-movavis-free-tool-now/"><u>Effortless AVI-to-M2TS Transformation on the Web - Get Started with Movavi's Free Tool Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-from-3gp-to-mp4-moveaveer/"><u>Free Online Converter From 3GP to MP4 - Moveaveer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/i-migliori-15-strumenti-digitali-per-registrare-in-modo-ottimale-suoni-vocali-e-musicali/"><u>I Migliori 15 Strumenti Digitali per Registrare in Modo Ottimale Suoni Vocali E Musicali</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-honor-90-pro-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Honor 90 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-apple-iphone-14-drfone-by-drfone-virtual-ios/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Apple iPhone 14 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-free-upgrade-turning-images-into-pdfs-using-jpeg2-format-via-movavi/"><u>Online Free Upgrade: Turning Images Into PDFs Using JPEG2 Format via Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-17-gratis-download-sidoranvisningar-till-undertexten-med-movavi-konvertera-program-utmarkt-for-google-hitskartor/"><u>TOP 17 Gratis Download-Sidoranvisningar Till Undertexten Med Movavi Konvertera Program - Utmärkt För Google Hitskartor</u></a></li>
 </ul></div>
 

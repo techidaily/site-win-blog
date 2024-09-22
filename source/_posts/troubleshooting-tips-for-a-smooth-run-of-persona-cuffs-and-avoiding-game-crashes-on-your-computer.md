@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for a Smooth RUN of PERSONA Cuffs, and Avoiding Game Crashes on Your Computer.
-date: 2024-09-15T00:03:38.032Z
-updated: 2024-09-16T20:04:14.280Z
+date: 2024-09-21T01:05:39.402Z
+updated: 2024-09-21T18:15:40.732Z
 tags:
   - win11
   - win10
@@ -81,25 +81,11 @@ Here’s how you can do this:
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Option 1 – Manually update your graphics driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) ,[AMD](https://www.amd.com/en/support) , and[Intel](https://downloadcenter.intel.com/product/80939/Graphics-Drivers) keep updating drivers. To get them, you need to go to the official websites, find the drivers corresponding with your specific flavor of Windows version (for example, Windows 32-bit) and download the drivers manually.
 
  Once you’ve downloaded the correct drivers for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Option 2 – Automatically update your graphics driver** (recommended)
 
@@ -136,9 +122,23 @@ Here’s how you can do this:
 
 ![adjust compatibility mode epic games launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-4.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) After applying the changes, open the launcher, and check if the problem is resolved. If not, proceed to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Run compatibility troubleshooter
 
@@ -147,6 +147,13 @@ Here’s how you can do this:
  1) Right-click on the launcher shortcut and select**Properties** .
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/adjust-the-compatability-mode-epic-games-launcher-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2? Select the tab**Compatibility** and click**Run compatibility troubleshooter** . (Make sure that you’ve unchecked any boxes under the Compatibility tab.)
 
@@ -159,13 +166,6 @@ Here’s how you can do this:
  4) Click**Test the program** and you’ll be directed to the launcher.
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-3.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Go back to the**Program Compatibility Troubleshooter** window and click**Next** .
 
@@ -201,6 +201,13 @@ Here’s how you can do this:
 
 ![run compatability mode Epic Games Launcher black screen ](https://images.drivereasy.com/wp-content/uploads/2020/09/run-compatability-troubleshooter-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you’ve been troubleshooting multiple times and still didn’t fix the issue, don’t worry. There are other working fixes for you.
 
 ---
@@ -213,23 +220,9 @@ Here’s how you can do this:
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down and click**Allow an app through firewall** .
 
 ![allow the launcher through the firewall Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2020/09/firewall-and-network-protection-2.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135394/19272" target="_top" id="2135394">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135394" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135394/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Go through the list and check if**Epic Games Launcher** is added to it.
 
@@ -275,6 +268,13 @@ Here’s how you can do this:
  Then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/change-DNS-server.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -353,14 +353,21 @@ Below is the VPN we would like to recommend:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-dash.techidaily.com/download-now-newest-epson-l310-driver-version-compatible-with-windows-11-10-and-windows-7/"><u>[Download Now]: Newest Epson L310 Driver Version Compatible with Windows 11, 10 & Windows 7</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-a-step-by-step-manual-on-repetitive-watch-experiences-in-yt-for-2024/"><u>[New] A Step-by-Step Manual on Repetitive Watch Experiences in YT for 2024</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/updated-discovering-the-top-8-truly-efficient-advancement-services/"><u>[Updated] Discovering the Top 8 Truly Efficient Advancement Services</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-addressing-the-problem-of-discord-crashing-on-stream-sessions/"><u>Effective Solutions: Addressing the Problem of Discord Crashing on Stream Sessions</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/expert-picks-the-ultimate-guide-to-free-dvd-playback-apps-compatible-with-win10win11/"><u>Expert Picks: The Ultimate Guide to Free DVD Playback Apps Compatible with Win10/Win11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-for-when-your-nvidia-control-panel-wont-open-or-crashes/"><u>Quick Fixes for When Your NVIDIA Control Panel Won't Open or Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-stable-play-of-fifa-manager-2022-on-desktop-systems/"><u>Troubleshooting Guide for Stable Play of FIFA Manager 2022 on Desktop Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-the-issue-when-deathloop-fails-to-start/"><u>Troubleshooting Guide: Fixing the Issue When Deathloop Fails to Start</u></a></li>
-<li><a href="https://fox-that.techidaily.com/why-isnt-my-iphone-syncing-emails-solutions-to-update-your-inbox-efficiently/"><u>Why Isn't My iPhone Syncing Emails? Solutions to Update Your Inbox Efficiently</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-gaming-for-everyone-accessible-channels/"><u>[New] 2024 Approved Gaming for Everyone Accessible Channels</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-navigating-facebook-live-your-2023-playbook/"><u>[Updated] 2024 Approved Navigating Facebook Live Your 2023 Playbook</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-navigating-video-editing-the-essentials-of-cropping-and-exporting-to-instagram/"><u>[Updated] Navigating Video Editing The Essentials of Cropping and Exporting to Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp3movavivob/"><u>線上自由改成MP3格式：利用Movavi轉化VOB影片</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-record-your-macs-display-and-audio-a-guide-with-5-techniques-by-movavi/"><u>Effortlessly Record Your Mac's Display and Audio: A Guide with 5 Techniques by Movavi</u></a></li>
+<li><a href="https://dvd-bd.techidaily.com/fixing-airdrop-issues-solutions-for-macos-big-sur-and-ios-17/"><u>Fixing AirDrop Issues: Solutions for macOS Big Sur & iOS 17</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-tecno-camon-20-premier-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Tecno Camon 20 Premier 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-oppo-f23-5g-drfone-by-drfone-android/"><u>How to Screen Mirroring Oppo F23 5G? | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-the-best-android-unlock-software-for-vivo-y56-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>In 2024, The Best Android Unlock Software For Vivo Y56 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleash-your-twitter-potential-premium-video-upload-tools/"><u>In 2024, Unleash Your Twitter Potential Premium Video Upload Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi3g2flv/"><u>Movaviでワザとオンライン無料の3G2からFLV変換サービス</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ntscmovavi/"><u>NTSCへのパルコード変換手順【Movavi専用ガイド】</u></a></li>
+<li><a href="https://win-blog.techidaily.com/swf-avi/"><u>SWF 및 AVI 파일 무료 격리: 원형이 아닌 웹용 변환 기능</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-file-arw-a-tiff-online-gratuito-senza-costi-sito-web-di-movavi/"><u>Trasforma File ARW a TIFF Online Gratuito Senza Costi - Sito Web Di Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-pgm-in-jpeg-gratuitamente-con-il-convertitore-di-movavi-online/"><u>Trasforma I Tuoi File PGM in JPEG Gratuitamente Con Il Convertitore Di Movavi Online!</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-from-one-to-many-how-to-split-a-single-video-into-multiple-clips-in-windows-live-movie-maker-for-2024/"><u>Updated From One to Many How to Split a Single Video Into Multiple Clips in Windows Live Movie Maker for 2024</u></a></li>
 </ul></div>
 

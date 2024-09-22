@@ -1,7 +1,7 @@
 ---
 title: "Hell Divers 2 Error Handling: How to Overcome the Blue Screen of Death Problems"
-date: 2024-09-15T21:10:21.781Z
-updated: 2024-09-16T20:41:07.266Z
+date: 2024-09-15T22:10:09.836Z
+updated: 2024-09-21T20:02:43.538Z
 tags:
   - win11
   - win10
@@ -94,31 +94,11 @@ If this method doesn’t work for you, go ahead with the next fix.
 ![](https://www.drivereasy.com/wp-content/uploads/2017/07/win11-search-bar-check-for-updates.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://www.drivereasy.com/wp-content/uploads/2023/11/win11-Check-for-updates-button-1.jpg)
 
  Once you’ve installed all the updates, restart your computer and Microsoft Flight Simulator to test if the game loads normally.
 
  If you still get stuck on the checking for updates screen, check out the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your network driver
 
@@ -132,14 +112,15 @@ If this method doesn’t work for you, go ahead with the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114267/17093" target="_top" id="2114267">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114267/17093" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
 
  Once you’ve updated your network driver, restart your PC and Microsoft Flight Simulator to see if you can get past the checking for updates screen.
 
@@ -183,18 +164,18 @@ on Windows 10:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/virus-threat-protection.jpg)
 4. Under Virus & threat protection settings, select**Manage settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-settings.jpg)
 5. Under Exclusions, select**Add or remove exclusions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-remove-exclusions.jpg)
 6. Click**Add an exclusion** , and then select**Microsoft Flight Simulator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/add-an-exclusion.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 on Windows 11:
 
@@ -204,6 +185,14 @@ on Windows 11:
 3. Click**Virus & threat protection** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-Virus-and-threat-protection.jpg)
 4. Under**Virus & threat protection settings** , click**Manage settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068426/7443" target="_top" id="2068426">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068426" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068426/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-virus-and-threat-protection-settings-manage-settings.jpg)
 5. Under**Exclusions** , click**Add or remove exclusions** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/win11-add-or-remove-exclusions.jpg)
@@ -244,13 +233,6 @@ Here are some gaming VPNs we recommend:
 
 If this method doesn’t solve your problem, check out the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 8: Do a clean install
 
  If none of the fixes above solve your problem, try uninstalling and reinstalling the game completely. Before doing a clean install, search the[Bugs & Issue forum](https://forums.flightsimulator.com/c/bugs-and-issues/200)  in case other players shared additional troubleshooting steps.
@@ -261,6 +243,20 @@ If this method doesn’t solve your problem, check out the last fix.
 2. Select**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/MFS-uninstall-pc.jpg)
 3. Click**Uninstall** again to remove the game.
+
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Once uninstalled, check to make sure all files are deleted. The default installation location is:  
  **C:\\Users\\YourUsername\\AppData\\Local\\Packages\\Microsoft.FlightSimulator\_8wekyb3d8bbwe**  
  Note: If you have installed the packages in a custom folder, search for that folder instead.
@@ -273,6 +269,13 @@ If this method doesn’t solve your problem, check out the last fix.
 2. Right-click Microsoft Flight Simulator and then select**Manage** and click on**Uninstall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator.png)
 3. Click on **Uninstall**  to confirm your choice.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-Microsoft-Flight-Simulator-Confirm.png)
 4. Once uninstalled, check to make sure that all the packages are deleted. The default package installation location is: **C:\\Users\\YourUsername\\AppData\\Roaming\\Microsoft Flight Simulator\\Packages**  
@@ -304,16 +307,18 @@ If this method doesn’t solve your problem, check out the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://discord-videos.techidaily.com/new-2024-approved-sending-streamed-content-to-discord-with-finesse-and-precision/"><u>[New] 2024 Approved Sending Streamed Content to Discord with Finesse and Precision</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-black-desert-online-crashing-on-pc/"><u>[Solved] Black Desert Online Crashing on PC</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-explore-best-business-strategy-games-of-the-year-mobilepc/"><u>[Updated] 2024 Approved Explore Best Business Strategy Games of the Year (Mobile/PC)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-last-epoch-crashing-comprehensive-trouble-shooting-techniques/"><u>Beat Last Epoch Crashing: Comprehensive Trouble-Shooting Techniques</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dragon-age-origins-stability-fixes-for-windows-11-no-more-crashes/"><u>Dragon Age: Origins Stability Fixes for Windows 11 - No More Crashes!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effortlessly-solve-world-of-warcraft-crashes-a-comprehensive-fix-guide/"><u>Effortlessly Solve World of Warcraft Crashes: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/in-2024-explore-and-master-group-communication-using-zoom-on-phone/"><u>In 2024, Explore & Master Group Communication Using Zoom on Phone</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/make-your-mark-stand-out-with-youtube-studio-editing/"><u>Make Your Mark Stand Out with YouTube Studio Editing</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/must-have-top-8-wallpapers-and-themes-for-mbp-users/"><u>Must-Have Top 8 Wallpapers & Themes for MBP Users</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/the-roadmap-for-seamless-screen-recording-using-adobe-captivity-for-2024/"><u>The Roadmap for Seamless Screen Recording Using Adobe Captivity for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/upcoming-features-of-the-rainbow-six-siege-the-2024-freeze-update-unveiled/"><u>Upcoming Features of the Rainbow Six Siege - The 2024 Freeze Update Unveiled!</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-best-choices-for-switchs-hd-gaming/"><u>[New] Best Choices for Switch's HD Gaming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1726233801797-mp33gp-movavi/"><u>「フリーオンラインMP3ファイルを3GPから効果的に変換 - Movavi」</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-significant-top-5-flexible-video-recorders-list/"><u>2024 Approved Significant Top 5 Flexible Video Recorders List</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/awesome-free-webcam-games-for-computer/"><u>Awesome Free Webcam Games for Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conexao-direta-e-gratuita-de-conversao-avi-para-flv-com-a-ferramenta-on-line-da-movavi/"><u>Conexão Direta E Gratuita De Conversão: AVI Para FLV Com a Ferramenta On-Line Da Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-the-best-sound-recording-applications-for-mac-expert-recommendations-from-movavi/"><u>Discover the Best Sound Recording Applications for Mac - Expert Recommendations From Movavi</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/emotional-undercurrents-in-background-film-soundtracks-for-2024/"><u>Emotional Undercurrents in Background Film Soundtracks for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ferramentas-poderosas-para-gerar-intros-online-gratuitos-em-youtube/"><u>Ferramentas Poderosas Para Gerar Intros Online Gratuitos Em YouTube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-facile-pour-transformer-votre-fichier-mp4-en-format-wmv-avec-movavi/"><u>Guide Facile Pour Transformer Votre Fichier MP4 en Format WMV Avec Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-ideal-audio-gear-compatible-with-cutting-edge-4k-technology/"><u>In 2024, Ideal Audio Gear Compatible with Cutting-Edge 4K Technology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/los-mejores-convertidores-de-archivos-mkv-gratuitos-del-ano-202-versiones-para-computadora-e-internet/"><u>Los Mejores Convertidores De Archivos MKV Gratuitos Del Año 202^: Versiones Para Computadora E Internet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-webm-mpeg-upgrade-convert-your-videos-at-no-cost-using-our-simple-tool/"><u>Seamless WebM-MPEG Upgrade - Convert Your Videos at No Cost Using Our Simple Tool!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/simplifying-tiktok-video-sharing-for-twitter-for-2024/"><u>Simplifying TikTok Video Sharing for Twitter for 2024</u></a></li>
 </ul></div>
 

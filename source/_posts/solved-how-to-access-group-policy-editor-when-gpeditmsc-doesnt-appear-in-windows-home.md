@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Access Group Policy Editor when gpedit.msc Doesn't Appear in Windows Home"
-date: 2024-09-12T21:00:12.748Z
-updated: 2024-09-17T04:14:57.218Z
+date: 2024-09-20T02:44:56.899Z
+updated: 2024-09-21T17:40:54.537Z
 tags:
   - win11
   - win10
@@ -66,19 +66,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 
@@ -87,15 +74,22 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 3: Clear cache and history
 
@@ -106,15 +100,15 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
 5. Reboot the browser to check the problem is solved or not.
@@ -128,13 +122,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
  It’s reported that the Rapport could cause Microsoft Edge crashing and many users had reported after uninstalling Trusteer Rapport/Endpoint the problem has been solved.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Run a System File Checker
 
@@ -161,13 +148,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -178,9 +158,23 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148645/16836" target="_top" id="2148645">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148645" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148645/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -206,17 +200,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-live-action-reimagined-exploring-polaroid-camplus-capabilities/"><u>[New] 2024 Approved Live-Action Reimagined Exploring Polaroid Cam+ Capabilities</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-in-2024-transform-your-content-expert-tips-for-bokeh-on-social-media/"><u>[New] In 2024, Transform Your Content Expert Tips for Bokeh on Social Media</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/updated-the-essential-tutorial-for-home-grown-animation-magic/"><u>[Updated] The Essential Tutorial for Home-Grown Animation Magic</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-the-secrets-to-effortless-iphone-photo-sorting-and-synchronizing-with-icloud/"><u>[Updated] The Secrets to Effortless iPhone Photo Sorting & Synchronizing with iCloud</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-crafting-engaging-vids-with-template-magic/"><u>2024 Approved Crafting Engaging Vids with Template Magic</u></a></li>
-<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-motorola-moto-g24-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Motorola Moto G24 Isnt Compatible | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-pc-hiccups-with-our-fixes-for-yakuza-6-the-song-of-life/"><u>Overcome PC Hiccups with Our Fixes for Yakuza 6: The Song of Life</u></a></li>
-<li><a href="https://ai-vdieo-software.techidaily.com/pinnacle-studio-for-mac-best-replacement-options-this-year/"><u>Pinnacle Studio for Mac Best Replacement Options This Year</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-for-overcoming-black-display-glitches-on-your-device/"><u>Solution Guide for Overcoming Black Display Glitches on Your Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-new-world-connection-failure-effective-strategies-and-tips/"><u>Solving the 'New World Connection Failure': Effective Strategies and Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-fixes-for-continuous-snowrunner-game-failures-on-personal-computers/"><u>Step-by-Step Fixes for Continuous SnowRunner Game Failures On Personal Computers</u></a></li>
-<li><a href="https://techidaily.com/video-file-repair-how-to-fix-corrupted-video-files-of-galaxy-s21-fe-5g-2023-on-mac-by-stellar-video-repair-mobile-video-repair/"><u>Video File Repair - How to Fix Corrupted video files of Galaxy S21 FE 5G (2023) on Mac?</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-best-apps-and-programs-for-image-video-integration/"><u>[New] Best Apps and Programs for Image Video Integration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavimkvm4v/"><u>「オンラインフリーMovavi動画フォーマット変更ツール：MKVとM4Vを問題なく互換！」</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-intellects-ultimate-guide-to-premium-gk-quiz-sites/"><u>2024 Approved Intellect's Ultimate Guide to Premium GK Quiz Sites</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024-10-mp4/"><u>2024年に人気! ベスト10 有料なし MP4プレーヤー 推薦リスト</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726221194797-mpg-movavi/"><u>網路上無須付費的MPG轉換 - Movavi</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/drive-engagement-with-instagram-top-10-video-marketing-ideas-unveiled/"><u>Drive Engagement with Instagram Top 10 Video Marketing Ideas Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-facil-para-convertir-musica-mp3-en-videos-avi-sin-coste-mediante-online-converter-pro/"><u>Guía Fácil Para Convertir Música MP3 en Vídeos AVI Sin Coste Mediante Online Converter Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-paso-a-paso-conversion-de-archivo-ifo-a-mp4-en-windows-y-mac/"><u>Guía Paso a Paso: Conversión De Archivo IFO a MP4 en Windows Y Mac</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unleashing-creativity-adding-fonts-to-your-ae-workflow/"><u>In 2024, Unleashing Creativity Adding Fonts to Your AE Workflow</u></a></li>
+<li><a href="https://win-blog.techidaily.com/riconverti-i-tuoi-file-ape-in-mp4-gratuitamente-online-con-movavi/"><u>Riconverti I Tuoi File APE in MP4 Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/snel-en-eenvoudig-kopen-van-movavi-videoboeksel-duitslands-gouden-stijlzekerheid-voor-vrijwillige-aanschafkandidaten/"><u>Snel en Eenvoudig Kopen Van Movavi Videoboeksel: Duitslands Gouden-Stijlzekerheid Voor Vrijwillige Aanschafkandidaten</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ssl-certificate-troubles-learn-how-to-correct-a-not-secure-connection-problem/"><u>SSL Certificate Troubles? Learn How to Correct a 'Not Secure Connection' Problem</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-list-of-small-form-factor-gaming-rigs/"><u>Ultimate List of Small Form Factor Gaming Rigs</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-vivo-v29-pro-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Vivo V29 Pro? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/why-does-my-photo-booth-video-keep-freezing/"><u>Why Does My Photo Booth Video Keep Freezing?</u></a></li>
+<li><a href="https://facebook.techidaily.com/you-can-now-broadcast-on-instagram-live-without-video-or-sound/"><u>You Can Now Broadcast on Instagram Live Without Video or Sound</u></a></li>
 </ul></div>
 

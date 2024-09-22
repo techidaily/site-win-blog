@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Playtime: Overcoming Ghostwire: Tokyo's Frequent Crashes on Windows Systems"
-date: 2024-09-14T23:32:56.290Z
-updated: 2024-09-17T00:23:40.325Z
+date: 2024-09-15T16:23:36.621Z
+updated: 2024-09-21T18:25:24.572Z
 tags:
   - win11
   - win10
@@ -122,11 +122,25 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_  the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137413/7443" target="_top" id="2137413">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137413" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137413/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -135,11 +149,25 @@ There are two ways you can get the right driver for your graphics card:
 
 **4)** Relaunch the game to see if your issue has been resolved. If not, go ahead with the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Install the latest game patch
 
  The developers of_Total War_ release regular game patches to fix bugs. It’s possible that a recent patch has stopped your game from running smoothly, and that a new patch is required to fix it.
 
  To check if there is any update, go to the **[Total War: Three Kingdoms website](https://www.totalwar.com/blog/)**  and search for the latest patch. If a patch is available, install it, then run your game again to check whether your problem has been resolved. If it hasn’t, or there was no new game patch available, move on to Fix 6, below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Change the power option
 
@@ -159,13 +187,6 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115911/19272" target="_top" id="2115911">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115911" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115911/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Select **High Performance** .
 
 **What’s the differences?**
@@ -173,13 +194,6 @@ There are two ways you can get the right driver for your graphics card:
 **High Performance:** High Performance mode keeps your PC running at high speeds most of the time. Your computer will generate more heat under this mode.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Restart your computer and_Total War_ .
 
@@ -199,6 +213,13 @@ There are two ways you can get the right driver for your graphics card:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-654.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **LOCAL FILES** tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-655.png)
@@ -206,19 +227,6 @@ There are two ways you can get the right driver for your graphics card:
 **5)**  Relaunch_Total War_ .
 
 If your issue persists, go ahead with the next fix, below.
-
-<!-- affiliate ads begin -->
-<span id="1328683">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Configure your in-game graphics settings
 
@@ -254,19 +262,6 @@ If your game crashes again, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
-<!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
@@ -278,19 +273,6 @@ If your game crashes again, try the fix below.
 **5)** Select **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
-
-<!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
 
@@ -333,16 +315,20 @@ If your game crashes again, try the fix below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-discovering-the-10-leading-low-cost-mobile-video-conferencing/"><u>[Updated] Discovering the 10 Leading Low-Cost, Mobile Video Conferencing</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/approved-streaming-success-with-top-tier-tech/"><u>2024 Approved Streaming Success with Top-Tier Tech</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-messages-files-on-vivo-x90s-by-fonelab-android-recover-messages/"><u>Complete guide for recovering messages files on Vivo X90S</u></a></li>
-<li><a href="https://extra-information.techidaily.com/crafting-memes-in-the-virtual-frontier/"><u>Crafting Memes in the Virtual Frontier</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/erase-with-elegance-discover-the-power-of-stellar-file-cleaner-windows-edition-your-reliable-solution-for-safe-data-removal/"><u>Erase with Elegance: Discover the Power of Stellar File Cleaner Windows Edition - Your Reliable Solution for Safe Data Removal</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-evaluation-of-the-netatmo-weather-station-the-ultimate-gadget-for-mobile-device-lovers/"><u>Expert Evaluation of the Netatmo Weather Station: The Ultimate Gadget For Mobile Device Lovers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-cyberpunk-2077s-non-launching-error-solved/"><u>How to Overcome Cyberpunk #2077'S Non-Launching Error - Solved</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/24-enhance-your-media-with-top-free-android-editing-tools/"><u>In 2024, Enhance Your Media with Top Free Android Editing Tools</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-xiaomi-redmi-note-12-pro-4g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Xiaomi Redmi Note 12 Pro 4G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-freezes-stability-improvements-for-age-of-empires-ii-hd-edition-players/"><u>No More Freezes: Stability Improvements for Age of Empires II HD Edition Players</u></a></li>
-<li><a href="https://win-blog.techidaily.com/swtor-not-starting-discover-the-proven-techniques-to-get-back-in-game/"><u>SWTOR Not Starting? Discover the Proven Techniques to Get Back in Game</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-screen-capture-clarity-with-irecorder-tech/"><u>[Updated] Screen Capture Clarity with iRecorder Tech</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/3-ways-to-unlock-your-iphone-14-pro-max-for-free-by-drfone-ios/"><u>3 Ways to Unlock Your iPhone 14 Pro Max for Free</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mova-ogg-and-mov/"><u>迅速なオンライン変換: Mova – 完全無料でOGG & MOVファイル変更</u></a></li>
+<li><a href="https://extra-information.techidaily.com/drone-powerhouses-for-industrial-lifting-excellence/"><u>Drone Powerhouses for Industrial Lifting Excellence</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ingdisabling-youtube-video-comments-for-2024/"><u>Enabling/Disabling YouTube Video Comments for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuite-convertisseur-en-ligne-pour-transferer-des-fichiers-de-qualite-flac-vers-un-format-wav-avec-movavi/"><u>Gratuite: Convertisseur en Ligne Pour Transférer Des Fichiers De Qualité FLAC Vers Un Format WAV Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-restore-macbook-screen-capture-functionality-top-11-remedies-explored/"><u>How to Restore Macbook Screen Capture Functionality - Top 11 Remedies Explored</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-7-ways-to-unlock-a-locked-vivo-x100-pro-phone-by-drfone-android/"><u>In 2024, 7 Ways to Unlock a Locked Vivo X100 Pro Phone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-edit-and-send-fake-location-on-telegram-for-your-honor-magic-5-lite-in-3-ways-drfone-by-drfone-virtual-android/"><u>In 2024, Edit and Send Fake Location on Telegram For your Honor Magic 5 Lite in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/la-lista-definitiva-de-los-mejores-programas-para-compartir-pantalla-segun-movavi-top-12-recomendados-t1726233819530318/"><u>La Lista Definitiva De Los Mejores Programas Para Compartir Pantalla Según Movavi: Top 12 Recomendados</u></a></li>
+<li><a href="https://win-blog.techidaily.com/methode-simple-et-gratuite-pour-changer-mp2-en-mp3-online-via-movavi-guide-complet/"><u>Méthode Simple Et Gratuite Pour Changer MP2 en MP3 Online via Movavi – Guide Complet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-full-video-library-catalog/"><u>Movavi - Full Video Library Catalog</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-nsvfree-mp4/"><u>Movavi - インターネットからNSVファイルをFREE MP4に再編集</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlocking-technology-secrets-the-comprehensive-guide-by-tom/"><u>Unlocking Technology Secrets: The Comprehensive Guide by Tom</u></a></li>
+<li><a href="https://techtrends.techidaily.com/wirelessly-project-windows-desktop-on-a-smart-tv-with-chromecast-the-ultimate-tutorial/"><u>Wirelessly Project Windows Desktop on a Smart TV with Chromecast: The Ultimate Tutorial</u></a></li>
 </ul></div>
 

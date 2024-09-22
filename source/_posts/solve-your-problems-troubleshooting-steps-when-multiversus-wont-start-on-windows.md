@@ -1,7 +1,7 @@
 ---
 title: "Solve Your Problems: Troubleshooting Steps When MultiVersus Won't Start on Windows"
-date: 2024-09-16T03:00:16.654Z
-updated: 2024-09-17T07:40:24.741Z
+date: 2024-09-18T01:48:57.414Z
+updated: 2024-09-21T17:19:23.584Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/f3ddbfc1319d06192a1f603baf76c1f6dea1578ed
 
  Some players reported that Control may crash when they’re using MSI Afterburner or Zotac Firestorm. So if you’ve enabled MSI Afterburner or Zotac Firestorm, try disabling them to see if this issue persists. If not, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Use a reduced settings profile for graphics-related features
 
  If your PC fails to meet the recommended system requirements for Control, you should use a reduced settings profile for graphics-related features, because higher settings will increase the workload for your PC, which may even lead to the game crash issue. You can follow the screenshots below to lower the in-game graphics settings:
@@ -85,13 +92,6 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -112,16 +112,23 @@ Here are the system requirements for Control:
 3. Select **NVIDIA Control Panel**  to open it.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
 
@@ -145,25 +152,11 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
-
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -171,6 +164,13 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Delete the “render.ini” file
 
@@ -194,6 +194,13 @@ Here are the system requirements for Control:
 2. Click**Check for updates** . Windows will start searching for available updates. If there are updates available, Windows will automatically download and install the updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Check-for-updates.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If there are no updates related to MS Visual C++ or .NET Framework from Windows Update, you can download their installation files via the links below on your own and manually install them on your PC.
 
 **Microsoft Visual C++ 2013** :  
@@ -208,13 +215,6 @@ Here are the system requirements for Control:
  Remedy Entertainment (the developer of Control) releases regular game patches to fix bugs and improve gaming performance. It’s possible that an older patch has caused the game crash issue, and that a new patch is required to fix it.
 
  If a patch is available, just download and install it to see if it can fix the crashing issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115915/19272" target="_top" id="2115915">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115915" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115915/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 8: Verify the game file
 
@@ -274,16 +274,17 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-from-frame-to-story-vertical-video-editing-guide-for-fcpx-users-on-insta/"><u>[New] From Frame to Story Vertical Video Editing Guide for FCPX Users on Insta</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-concluding-your-channel-on-youtube-expert-guides-and-templates/"><u>[Updated] 2024 Approved Concluding Your Channel on YouTube - Expert Guides & Templates</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-in-2024-recommended-frame-rates-for-professional-slow-motion-videos/"><u>[Updated] In 2024, Recommended Frame Rates for Professional Slow-Motion Videos</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-tips-for-designing-and-updating-igtv-thumbnails/"><u>[Updated] Tips for Designing & Updating IGTV Thumbnails</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/download-hp-laserjet-5200-printer-drivers-compatible-with-windows-11-10-and-8/"><u>Download HP LaserJet 5200 Printer Drivers: Compatible with Windows 11, 10 & 8</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hearthstone-update-resolves-pc-game-crashes-play-smoothly-now/"><u>Hearthstone Update Resolves PC Game Crashes - Play Smoothly Now</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/how-to-solve-the-dilemma-of-frequent-game-shutdowns-on-desktops/"><u>How to Solve the Dilemma of Frequent Game Shutdowns on Desktops</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-remove-a-previously-synced-google-account-from-your-oppo-a18-by-drfone-android/"><u>In 2024, How to Remove a Previously Synced Google Account from Your Oppo A18</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-performance-hitches-in-valheim-for-smoother-gameplay-on-pc/"><u>Overcoming Performance Hitches in Valheim for Smoother Gameplay on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/saints-row-wont-start-heres-how-you-can-solve-the-problem-quickly/"><u>Saints Row Won't Start? Here's How You Can Solve the Problem Quickly!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-your-bluestacks-app-with-these-easy-remedies/"><u>Troubleshoot Your BlueStacks App with These Easy Remedies</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-exclusive-update-selecting-the-premium-top-10-fb-video-downloading-apps/"><u>[New] Exclusive Update Selecting the Premium Top 10 FB Video Downloading Apps</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-the-spectacular-journey-of-q500s-4k/"><u>[New] In 2024, The Spectacular Journey of Q500's 4K</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-dynamic-dialogue-driven-decks/"><u>2024 Approved Dynamic Dialogue Driven Decks</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-zenith-vision-hubs-top-tier-all-in-one-4k/"><u>2024 Approved Zenith Vision Hubs Top Tier, All-in-One 4K</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmawebm/"><u>圧倒的なウェブメディア変換サービス - 無料でWMAからWEBMへの簡単オンライン変換</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/demystifying-the-nvidia-geforce-code-0x0003-a-step-by-step-fix-guide/"><u>Demystifying the Nvidia Geforce Code 0X0003: A Step-by-Step Fix Guide</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/experience-a-perfect-harmony-of-style-and-functionality-in-the-skagen-falster-3-an-in-depth-review/"><u>Experience a Perfect Harmony of Style and Functionality in the Skagen Falster 3 - An In-Depth Review</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-google-play-location-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Change Google Play Location On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforming-alaw-documents-into-any-format-gratis-with-movavis-service/"><u>Transforming ALAW Documents Into Any Format, Gratis with Movavi's Service</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-file-asf-in-wav-gratuito-online-con-movavi-tutorial-passo-dopo-passo/"><u>Trasforma File ASF in WAV Gratuito Online Con Movavi - Tutorial Passo Dopo Passo</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/winx-mediatransideviceiphoneipadipod-pc/"><u>WinX MediaTrans使い方：iDevice(iPhone/iPad/iPod)で簡単動画転送プロセス - PC保存ガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-ai-powered-conversion-of-aif-files-into-flac-format-by-movavi/"><u>무료 Online AI-Powered Conversion of AIF Files Into FLAC Format by Movavi</u></a></li>
 </ul></div>
 

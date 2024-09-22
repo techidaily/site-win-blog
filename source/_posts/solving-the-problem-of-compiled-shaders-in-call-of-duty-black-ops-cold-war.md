@@ -1,7 +1,7 @@
 ---
 title: "Solving the Problem of Compiled Shaders in Call of Duty: Black Ops Cold War"
-date: 2024-09-12T02:59:44.555Z
-updated: 2024-09-16T16:54:30.440Z
+date: 2024-09-17T01:36:21.554Z
+updated: 2024-09-21T16:40:49.790Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ The first thing, as it suggests, is to perform a scan and repair.
 
  If you already have the latest version of Call of Duty: Black Ops Cold War but the error code just shows up again, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Update the graphics driver
 
  If this error code 80070057 persists after you tried “Scan and Repair” and “Check for Updates”, it is mainly related to the video file, which can be caused by an outdated/corrupt driver or driver incompatibility.
@@ -81,6 +88,14 @@ The first thing, as it suggests, is to perform a scan and repair.
 3. Click the **Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the **FREE** version), and then install it manually on your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll get full tech support and a 30-day money-back guarantee).
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch your game to test the issue.
 
  Usually, this will fix your Call of Duty: Black Ops Cold War error code 80070057\. But if this error code persists, don’t worry. There’re a few more fixes to try.
@@ -92,27 +107,21 @@ The first thing, as it suggests, is to perform a scan and repair.
 1. Open the**Battle.net** app and locate your**Call of Duty: BOCW** under the**GAMES** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/COD.jpg)
 2. Select**Game Settings** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
-3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/game-settings.jpg)
+3. Under**Call of Duty: Black Ops Cold War** , check the box next to**Additional command line arguments** . Then type**\-d3d11** into the box to force the game to run in DX11.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Game-settings-DX11.jpg)
 4. Click**Done** to apply the changes.
 
  Launch the game and play for a while to see if the error code 80070057 persists. If your game is working like a charm now, then congratulations. But if not, try the fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Delete the Battle.net Cache folder
 
@@ -123,21 +132,14 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/data.jpg)
 3. Delete the folder**Blizzard Entertainment** , which contains the cache directory.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete-cache.jpg)
 4. Restart the Battle.net app and relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 6\. Set English as the Windows display language
@@ -148,17 +150,17 @@ The first thing, as it suggests, is to perform a scan and repair.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Language-settings.jpg)
 2. Makes sure you set**English** (US or UK) as the**Windows display language** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037319/7443" target="_top" id="2037319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/English.jpg)
 3. If you don’t see English, click**Add a language** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/add.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Restart your computer and relaunch your game again to test the issue.
 
@@ -185,18 +187,18 @@ Restart your computer and relaunch your game again to test the issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/new-in-2024-the-ultimate-guide-7-best-waterproof-video-recorders/"><u>[New] In 2024, The Ultimate Guide 7 Best Waterproof Video Recorders</u></a></li>
-<li><a href="https://some-skills.techidaily.com/new-unleashing-potential-in-virtual-film-worlds/"><u>[New] Unleashing Potential in Virtual Film Worlds</u></a></li>
-<li><a href="https://video-capture.techidaily.com/2024-approved-google-meet-unlocked-a-free-in-depth-user-manual/"><u>2024 Approved Google Meet Unlocked A Free, In-Depth User Manual</u></a></li>
-<li><a href="https://win-dash.techidaily.com/download-today-steelseries-gaming-enhancement-software-tailored-for-windows-11-systems/"><u>Download Today: SteelSeries Gaming Enhancement Software Tailored for Windows 11 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/gta-5-crash-analysis-causes-and-effective-solutions-for-uninterrupted-playtime/"><u>GTA 5 Crash Analysis: Causes and Effective Solutions for Uninterrupted Playtime</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-resolve-jurassic-world-evolution-crashes-successfully/"><u>How to Prevent and Resolve Jurassic World Evolution Crashes Successfully</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-y78plus-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo Y78+ Device</u></a></li>
-<li><a href="https://sound-optimizing.techidaily.com/new-the-essential-list-of-top-10-audio-editors-for-windows-and-mac-platforms/"><u>New The Essential List of Top 10 Audio Editors for Windows & Mac Platforms</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-stuttering-glitches-in-splitgate-for-a-smoother-gameplay-tips-to-fix-low-fps/"><u>Overcoming Stuttering Glitches in Splitgate for a Smoother Gameplay: Tips to Fix Low FPS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-version-of-days-gone-now-available-get-ready-for-action/"><u>PC Version of 'Days Gone' Now Available - Get Ready for Action!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-euro-truck-simulator-2-crashes-on-your-computer-with-ease/"><u>Resolving Euro Truck Simulator 2 Crashes on Your Computer with Ease</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-when-you-encounter-a-dark-display-with-epic-games-launcher/"><u>Solution Guide: When You Encounter a Dark Display with Epic Games Launcher</u></a></li>
-<li><a href="https://blog-min.techidaily.com/whats-new-in-dvd-conversion-software-macx-dvd-ripper-pro-v46-supports-mac-os-x-el-capitan/"><u>What's New in DVD Conversion Software: MacX DVD Ripper Pro v4.6 Supports Mac OS X El Capitan</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-spark-the-momentum-channels-best-inspirational-videos/"><u>[Updated] 2024 Approved Spark the Momentum Channel's Best Inspirational Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-iosandroid-tips-attaching-audio-posters-on-facebook/"><u>[Updated] In 2024, IOS/Android Tips Attaching Audio Posters on Facebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ai-movavi-ai-converter/"><u>線上免錢AI轉型工具 - Movavi AI Converter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-video-production-software-top-14-tools-for-outstanding-content-creation/"><u>Best Video Production Software: Top 14 Tools for Outstanding Content Creation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambiar-musica-opus-a-formato-wma-sin-costo-usando-el-convertidor-en-linea-de-movavi-guia-paso-a-paso/"><u>Cambiar Música OPUS a Formato WMA Sin Costo Usando El Convertidor en Línea De Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-blog.techidaily.com/choose-a-payment-solution-with-movavi-easy-and-safe/"><u>Choose a Payment Solution with Movavi: Easy and Safe</u></a></li>
+<li><a href="https://blog-min.techidaily.com/come-trasformare-i-tuoi-filmati-dvd-in-file-mp4-usando-movavi-video-converter/"><u>Come Trasformare I Tuoi Filmati DVD in File MP4 Usando Movavi Video Converter</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/1722867107277-find-out-where-to-stream-hit-music-videos-online-top-6-spots-revealed/"><u>Find Out Where to Stream Hit Music Videos Online – Top 6 Spots Revealed!</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-realme-c53-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Realme C53 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/proven-tricks-navigating-through-winerror-in-oculus-setup-for-ws11ws10/"><u>Proven Tricks: Navigating Through WinError in Oculus Setup for WS11/WS10</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/reliable-power-on-the-go-a-comprehensive-review-of-the-dbpower-600a-18000mah-jump-starter/"><u>Reliable Power on the Go: A Comprehensive Review of the DBPOWER 600A 18,000mAh Jump Starter</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-vivo-y27-5g-by-drfone-android/"><u>Three Ways to Sim Unlock Vivo Y27 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/swfwebm/"><u>スムーズなオンライン変換: SWFからWEBMへ – モヴェイビーの方法</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Black Desert Online Crashing on PC"
-date: 2024-09-11T23:07:16.877Z
-updated: 2024-09-17T06:23:45.148Z
+date: 2024-09-17T16:16:37.134Z
+updated: 2024-09-22T02:30:34.298Z
 tags:
   - win11
   - win10
@@ -87,10 +87,10 @@ Hell Let Loose
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
@@ -101,6 +101,13 @@ Hell Let Loose
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  See if the latest graphics driver stops the Hell Let Loose from crashing. If not, don’t worry. Try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -120,22 +127,15 @@ Hell Let Loose
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure that you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Launch HLL and see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
@@ -147,10 +147,10 @@ Hell Let Loose
  See if HLL crashes after you stopped overclocking. If this fix failed to resolve this issue, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115950/19272" target="_top" id="2115950">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115950" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115950/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Perform a clean boot
@@ -165,18 +165,19 @@ Hell Let Loose
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Restart Windows OS and launch tha game to check if HLL crashes again. If HLL doesn't crash, you need to open the**System Configuration** window again to enable services and applications **one by one** until you find the problematic software that crashes HLL.
 
@@ -212,20 +213,20 @@ Hell Let Loose
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-from-airwaves-to-archives-online-recording-strategies-for-tv-shows/"><u>[New] In 2024, From Airwaves to Archives Online Recording Strategies for TV Shows</u></a></li>
-<li><a href="https://fox-access.techidaily.com/new-steps-to-crossfade-audio-in-logic-pro-x/"><u>[New] Steps To Crossfade Audio In Logic Pro X</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/updated-aural-appeal-enhance-videos-with-windows-11s-sound-tools/"><u>[Updated] Aural Appeal Enhance Videos with Windows 11'S Sound Tools</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/2024-approved-striking-the-right-chord-in-your-podcast-summary/"><u>2024 Approved Striking the Right Chord in Your Podcast Summary</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-fixes-for-when-red-dead-redemption-2-fails-to-load/"><u>Common Fixes for When Red Dead Redemption 2 Fails to Load</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-fix-resolving-overwatchs-persistent-post-launch-darkness/"><u>Fixing the Fix: Resolving Overwatch's Persistent Post-Launch Darkness</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/how-is-data-safety-ensured-in-cloud-storage-solutions/"><u>How Is Data Safety Ensured in Cloud Storage Solutions?</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Change Location on TikTok to See More Content On your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-graphics-lag-and-stutter-in-call-of-duty-black-ops-cold-war-top-tricks-revealed/"><u>How to Overcome Graphics Lag and Stutter in Call of Duty: Black Ops Cold War - Top Tricks Revealed</u></a></li>
-<li><a href="https://extra-support.techidaily.com/in-2024-magix-acid-pros-successors-in-vector-editing/"><u>In 2024, Magix ACID Pro's Successors in Vector Editing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-mystery-of-grand-theft-auto-v-stability-issues-expert-solutions/"><u>Solving the Mystery of Grand Theft Auto V Stability Issues: Expert Solutions</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-a14-4g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy A14 4G Location | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-stop-fallout-t-3-from-crashing-on-win10-systems/"><u>Troubleshooting Guide: How to Stop Fallout T 3 From Crashing on Win10 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-the-full-potential-of-your-gaming-rig-by-boosting-frames-per-second-in-ring-of-elysium-best-tips-inside/"><u>Unlock the Full Potential of Your Gaming Rig by Boosting Frames Per Second in Ring of Elysium – Best Tips Inside</u></a></li>
-<li><a href="https://change-location.techidaily.com/why-does-the-pokemon-go-battle-league-not-available-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>Why does the pokemon go battle league not available On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-gaming-galore-top-10-virtual-reality-for-phones/"><u>[New] Gaming Galore Top 10 Virtual Reality for Phones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-step-by-step-customizing-your-youtube-channel-url-for-2024/"><u>[Updated] Step-by-Step Customizing Your YouTube Channel URL for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/compreendendo-o-conceito-de-codec-definindo-um-codec/"><u>Compreendendo O Conceito De Codec: Definindo Um Codec</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/conquer-the-battlefield-in-style-the-inside-scoop-on-the-all-new-mavix-memail-protected/"><u>Conquer the Battlefield in Style: The Inside Scoop on the All-New Mavix M^[email Protected]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/converti-file-gsm-in-mp3-senza-costo-con-i-servizi-di-conversione-on-line-di-movavi/"><u>Converti File GSM in MP3 Senza Costo Con I Servizi Di Conversione On-Line Di Movavi</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/crafting-impactful-ppt-tutorials-for-online-learning-sessions-for-2024/"><u>Crafting Impactful PPT Tutorials for Online Learning Sessions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/formatos-avanzados-de-contenido-visual-para-mejorar-la-presencia-en-youtube-descubre-con-movavi/"><u>Formatos Avanzados De Contenido Visual Para Mejorar La Presencia en YouTube - Descubre Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-comment-transformer-un-fichier-flac-en-video-avi-sur-internet-avec-movavi/"><u>Gratuit: Comment Transformer Un Fichier FLAC en Vidéo AVI Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://techidaily.com/hard-reset-vivo-x90s-in-3-efficient-ways-drfone-by-drfone-reset-android-reset-android/"><u>Hard Reset Vivo X90S in 3 Efficient Ways | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hardware-software-tug-of-war/"><u>Hardware-Software Tug-of-War</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-funniest-faces-learning-kinemaster/"><u>In 2024, Funniest Faces Learning KineMaster</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/maximize-fps-on-war-thunder-with-expert-tips-and-tricks-for-gaming-in-2eby4/"><u>Maximize FPS on War Thunder with Expert Tips & Tricks for Gaming in 2Eby4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcodificar-un-archivo-wav-a-flac-gratis-online-con-convertidor-de-audio-movavi/"><u>Transcodificar Un Archivo WAV a FLAC Gratis Online Con Convertidor De Audio - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-flac-in-mp4-gratuitamente-su-internet-utilizzando-lefficient-movavi-converter/"><u>Trasforma I Tuoi File Flac in MP4 Gratuitamente Su Internet Utilizzando L'Efficient Movavi Converter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmvogv-onlinetoolscom/"><u>WMV/OGV 이미지를 무료로 스트리밍하는 방법 - Onlinetools.com</u></a></li>
 </ul></div>
 

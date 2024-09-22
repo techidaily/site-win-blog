@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot the Malfunctioning Rockstar Launcher for a Smooth Gaming Experience
-date: 2024-09-13T07:34:55.752Z
-updated: 2024-09-17T02:39:03.356Z
+date: 2024-09-15T17:10:36.128Z
+updated: 2024-09-21T21:55:55.772Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -87,6 +80,13 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -94,6 +94,13 @@ If this doesn’t help, you can take a look at the next fix below.
  Once you’ve installed all the system updates, check if you can get Civ 6 working now.
 
 If this solution doesn’t help, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934183/19272" target="_top" id="1934183">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934183/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Perform a clean boot
 
@@ -104,30 +111,30 @@ If this solution doesn’t help, you can continue to the next one.
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087408/7443" target="_top" id="2087408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087408" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087408/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130887/7443" target="_top" id="2130887">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130887" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130887/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
@@ -135,13 +142,6 @@ If this solution doesn’t help, you can continue to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
@@ -184,21 +184,16 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-premier-online-calling-apps-all-free-and-user-friendly/"><u>[New] 2024 Approved Premier Online Calling Apps - All Free & User-Friendly</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-navigating-the-world-of-virtual-backgrounds-for-online-media-professionals/"><u>[New] In 2024, Navigating the World of Virtual Backgrounds for Online Media Professionals</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/new-the-insiders-look-at-vidma-screen-recording-for-2024/"><u>[New] The Insider's Look at Vidma Screen Recording for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/new-unlock-flawless-facetime-call-recordings-a-complete-walkthrough/"><u>[New] Unlock Flawless FaceTime Call Recordings A Complete Walkthrough</u></a></li>
-<li><a href="https://win-blog.techidaily.com/call-of-duty-black-ops-cold-war-solutions-for-compiling-shaders-glitch/"><u>Call of Duty: Black Ops Cold War - Solutions for Compiling Shaders Glitch</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-honor-x7b-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Honor X7b | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-get-your-alienware-command-center-running-smoothly/"><u>Fixing the Issue: How to Get Your Alienware Command Center Running Smoothly</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-stop-google-chrome-from-tracking-your-location-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Stop Google Chrome from Tracking Your Location On Nubia Red Magic 9 Pro? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722991796961-no-more-lag-stable-playthrough-of-assassins-creed-odyssey-on-windows/"><u>No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/peering-through-the-lens-an-in-depth-review-of-polaroid-cubeplus-for-2024/"><u>Peering Through the Lens An In-Depth Review of Polaroid Cube+ for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-god-of-wars-not-enough-memory-glitch-expert-advice-and-solutions/"><u>Resolve God of War's Not Enough Memory Glitch - Expert Advice and Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-wow-stability-issues-quickly-and-without-hassle/"><u>Resolve WOW Stability Issues Quickly and Without Hassle</u></a></li>
-<li><a href="https://win-able.techidaily.com/resolved-how-to-prevent-dragon-age-origins-from-crashing-on-windows-11/"><u>Resolved: How to Prevent Dragon Age: Origins From Crashing on Windows 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/steps-to-resolve-instances-of-unopenable-microsoft-outlook-program/"><u>Steps to Resolve Instances of Unopenable Microsoft Outlook Program</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-cyberpunk-2077-ensuring-proper-graphics-card-use-in-windows-10-environments/"><u>Troubleshooting Cyberpunk 2077: Ensuring Proper Graphics Card Use in Windows 10 Environments</u></a></li>
-<li><a href="https://hardware-reviews.techidaily.com/ultimate-guide-to-asus-rt-ax57-go-wi-fi-6-mini-router-perfect-companion-for-on-the-go-internet-access/"><u>Ultimate Guide to Asus RT-AX57 Go Wi-Fi 6 Mini Router: Perfect Companion for On-The-Go Internet Access</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-accessorize-for-impact-essential-cams-upgrades/"><u>[New] Accessorize for Impact Essential Cams Upgrades</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-storing-your-stories-and-snaps-safely-on-ios-devices-for-2024/"><u>[Updated] Storing Your Stories and Snaps Safely on iOS Devices for 2024</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/best-honor-90-lite-pattern-lock-removal-tools-remove-android-pattern-lock-without-losing-data-by-drfone-android/"><u>Best Honor 90 Lite Pattern Lock Removal Tools Remove Android Pattern Lock Without Losing Data</u></a></li>
+<li><a href="https://fox-http.techidaily.com/enhancing-your-roblox-experience-close-up-techniques-for-2024/"><u>Enhancing Your Roblox Experience Close-Up Techniques for 2024</u></a></li>
+<li><a href="https://discover-brilliant.techidaily.com/free-online-conversion-change-flv-videos-to-webm-format-with-ease/"><u>Free Online Conversion: Change FLV Videos to WebM Format with Ease</u></a></li>
+<li><a href="https://facebook.techidaily.com/strategies-to-secure-pieces-from-facebooks-725m-settlement/"><u>Strategies to Secure Pieces From Facebook's $725M Settlement</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformer-votre-fichier-m4a-en-mp3-sans-cout-guide-etape-par-etape-avec-movavi/"><u>Transformer Votre Fichier M4A en MP3 Sans Coût : Guide Étape Par Étape Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tuto-guide-complementaire-comment-personnalisez-votre-demarrage-video-pour-youtube-sans-frais/"><u>Tuto-Guide Complémentaire : Comment Personnalisez Votre Démarrage Vidéo Pour YouTube Sans Frais</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-xiaomi-14-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Xiaomi 14 FRP Bypass</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-ultimate-savings-discover-the-25-finest-gratis-ip-cameras-by-reputable-software-brands-like-movavi/"><u>Unlock Ultimate Savings: Discover the 25 Finest Gratis IP Cameras by Reputable Software Brands Like Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-full-potential-of-windows-n-10-settings-to-boost-gameplay-a-comprehensive-guide-for-gamers/"><u>Unlocking the Full Potential of Windows N 10 Settings to Boost Gameplay - A Comprehensive Guide for Gamers</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Freezes: Stability Improvements for Age of Empires II HD Edition Players"
-date: 2024-09-16T02:36:59.824Z
-updated: 2024-09-16T19:11:25.123Z
+date: 2024-09-19T23:30:33.630Z
+updated: 2024-09-21T22:37:55.139Z
 tags:
   - win11
   - win10
@@ -89,13 +89,6 @@ If your DirectX is not Version 12, you should update it.
 
 ![download DirectX](https://images.drivereasy.com/wp-content/uploads/2020/10/DOWNLOAD-DirectX-12-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Once the download is completed, click on the**dxwebsetup.exe** file and follow the on-screen instructions to install it.
 
  4) Now restart your computer.
@@ -115,6 +108,13 @@ To stop Windows from blocking your game, simply follow the steps below:
  1) Press the**Windows logo key** +**I** together on your keyboard and select**Update & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) From the left pane, click**Windows Security** . In the**Protection areas** section, click**Firewall & network** **protection** .
 
@@ -162,13 +162,6 @@ OR
 
  If you’re an Nvidia user, you can also update your driver from the[Geforce Experience](https://www.nvidia.com/en-us/geforce/geforce-experience/) application. What’s more, Death Stranding is one of the games that can take advantage of[optimal settings](https://www.nvidia.com/en-us/geforce/geforce-experience/games/) .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Option 2 – Automatically update your drivers**
 
  If you don’t have the time, patience, or computer skills to update the drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -215,6 +208,13 @@ Here’s how you can do it:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 5: Run**your game launcher as an administrator**
 
  Granting the launcher with administrative rights can resolve many issues including the game crashing issue. So you can run[Steam](https://tools.techidaily.com/drivereasy/download/) or[Epic Games Launcher](https://tools.techidaily.com/drivereasy/download/) as an administrator to fix the Death Stranding crashing issue.
@@ -225,27 +225,20 @@ Here’s how you can do it:
 
 ![run Steam as an administrator Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/10/run-Steam-as-an-administrator-rightclick-from-the-desktop.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) Scroll down and find the **Steam application** . Right-click on it and select **Properties** .
 
 ![run Steam as an administrator Death Stranding crash](https://images.drivereasy.com/wp-content/uploads/2020/09/run-steam-as-an-administrator-2.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the tab **Compatibility**  and check the box **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-Steam-as-an-administrator.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123471/16836" target="_top" id="2123471">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123471" border="0" alt="https://techidaily.com" width="234" height="60"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123471/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After applying the changes, open your Steam client and launch Death Stranding to check if the problem is solved.
 
@@ -255,6 +248,13 @@ Here’s how you can do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-epic-games-launcher-as-administrator-rightclick-on-the-desktop.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135361/19272" target="_top" id="2135361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135361" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Scroll down and find the **EpicGamesLauncher application** . Right-click on it and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-epic-games-launcher-as-administrator-select-properties-2.jpg)
@@ -262,6 +262,19 @@ Here’s how you can do it:
  3) Select the tab **Compatibility**  and check the box **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/run-epic-games-launcher-as-administrator-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1983575">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983575.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983575">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983575.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983575%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983575/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the changes, open Epic Games Launcher and launch Death Stranding to check if the problem is solved.
 
@@ -333,13 +346,6 @@ After you’ve applied the changes, remember to quit the app.
 
 After applying the changes, quit Discord.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Disable Steam overlay
 
  1) Launch the Steam client and select the tab **LIBRARY** .
@@ -381,16 +387,18 @@ After applying the changes, quit Discord.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-the-ultimate-selection-of-8-instagram-schedulers-for-phones/"><u>[Updated] In 2024, The Ultimate Selection of 8 Instagram Schedulers for Phones</u></a></li>
-<li><a href="https://article-helps.techidaily.com/2024-approved-full-assessment-hero4-black-capabilities/"><u>2024 Approved Full Assessment Hero4 Black Capabilities</u></a></li>
-<li><a href="https://win-blog.techidaily.com/defeat-the-darkness-expert-advice-on-fixing-call-of-duty-warzone-black-screens/"><u>Defeat the Darkness: Expert Advice on Fixing Call of Duty: Warzone Black Screens</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/expert-strategies-for-full-screen-edits-in-premiere/"><u>Expert Strategies for Full Screen Edits in Premiere</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-valorants-input-delay-problems-for-a-smoother-gaming-experience/"><u>How to Overcome Valorant's Input Delay Problems for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://twitter-clips.techidaily.com/in-2024-unlock-full-hd-tweeting-on-your-screen/"><u>In 2024, Unlock Full HD Tweeting on Your Screen</u></a></li>
-<li><a href="https://sound-tweaking.techidaily.com/new-perfecting-audio-transitions-in-live-streaming-the-obs-guide-to-equalizing-sounds/"><u>New Perfecting Audio Transitions in Live Streaming The OBS Guide to Equalizing Sounds</u></a></li>
-<li><a href="https://driver-install.techidaily.com/realtek-pcie-gbe-driver-upgrade-on-win11-os/"><u>Realtek PCIe GBE Driver Upgrade on Win11 OS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-the-dark-issue-6-speedy-methods-to-repair-oculus-link/"><u>Resolve the Dark Issue: 6 Speedy Methods to Repair Oculus Link</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-steps-for-restoring-access-to-origin-service/"><u>Solution Steps for Restoring Access to Origin Service</u></a></li>
-<li><a href="https://win-blog.techidaily.com/valorant-graphics-driver-crashed-error-quick-fix/"><u>Valorant 'Graphics Driver Crashed' Error [Quick Fix]</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-mirrorless-evolution-overshadowing-traditional-dslr-videography-for-2024/"><u>[Updated] Mirrorless Evolution Overshadowing Traditional DSLR Videography for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-step-up-your-instagram-game-with-these-highest-rated-grid-makers-for-2024/"><u>[Updated] Step Up Your Instagram Game with These Highest-Rated Grid Makers for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-strategic-lighting-for-best-iphone-photography/"><u>2024 Approved Strategic Lighting for Best iPhone Photography</u></a></li>
+<li><a href="https://article-tips.techidaily.com/direct-download-dojo-become-a-master-of-ifunny-jokes/"><u>Direct Download Dojo Become a Master of iFunny Jokes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-convert-images-from-pgm-to-tiff-format-on-the-web-try-movavi-now/"><u>Effortlessly Convert Images From PGM to TIFF Format on the Web - Try Movavi Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/facilite-o-download-de-imagens-convertendo-dpx-em-jpg-gratuitamente-na-web-com-movavi-nao-ha-custo-inicial/"><u>Facilite O Download De Imagens: Convertendo DPX Em JPG Gratuitamente Na Web Com Movavi – Não Há Custo Inicial!</u></a></li>
+<li><a href="https://extra-information.techidaily.com/from-cut-to-connect-advanced-editing-with-kinemaster/"><u>From Cut to Connect Advanced Editing with Kinemaster</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-transformer-des-fichiers-webm-en-fichiers-mp3-sans-souci-avec-movavi/"><u>Gratuit : Transformer Des Fichiers Webm en Fichiers MP3 Sans Souci - Avec Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/iphones-quickest-way-to-record-time-lapse-photos-for-2024/"><u>IPhone's Quickest Way to Record Time-Lapse Photos for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/reactivating-winget-in-windows-11-environments/"><u>Reactivating Winget in Windows 11 Environments</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/retrospective-on-the-goofy-movie-a-comprehensive-review/"><u>Retrospective on 'The Goofy Movie' A Comprehensive Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-photo-display-software-compatible-with-windows-and-macos-systems/"><u>Seamless Photo Display Software Compatible with Windows and MacOS Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-11-sitios-mas-eficientes-para-descargar-subtitulado-en-espanol-una-guia-completa/"><u>Top 11 Sitios Más Eficientes Para Descargar Subtitulado En Español: Una Guía Completa</u></a></li>
 </ul></div>
 

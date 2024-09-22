@@ -1,7 +1,7 @@
 ---
 title: "How to Fix: Persistent Load Issues in Fortnite"
-date: 2024-09-13T02:22:38.257Z
-updated: 2024-09-17T00:03:26.719Z
+date: 2024-09-17T19:48:34.557Z
+updated: 2024-09-21T19:54:45.712Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ Amazon’s MMO New World has a very engaging and in-depth system that attracts g
 
 If the problem persists, take a look at the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Rollback NVIDIA driver
 
  Some gamer has reported they fixed freezing by reverting back to a previous NVIDIA driver. If updating your driver to the latest version doesn’t help, maybe you can try this fix.
@@ -77,34 +84,28 @@ If the problem persists, take a look at the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/devmgmt.msc_-1.png)
 3. Expand the **Display adapters**  branch. Right-click the Nvidia graphics card device and click **Properties** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a2700f19925.jpg)
 4. Click the **Driver** tab. Then click **Roll Back Driver** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/02/img_58a270830e0d8.png)
 5. Then you will get a pop-up window like below. Click the **Yes** button. Then the driver will be restored to the previously installed version.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Restart your PC for the change to take effect.
 
 If this fix doesn’t bring luck, take a look at the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Underclock your GPU core
@@ -118,13 +119,6 @@ If this fix doesn’t bring luck, take a look at the next fix below.
 3. Open the software and find your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/msi-afterburner-featured.jpg)
 4. Because of the different PC environments, you may need to keep adjusting the Core Clock until you’re no longer freezing.  
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Here we suggest underclocking your GPU Core Clock by 400 MHz and memory clock 500 MHz.
 5. In MSI Afterburner, change your power limit to 80%.
@@ -140,6 +134,13 @@ If it’s still not working, try the next fix.
 1. Open New World. On the top right corner, click the **gear icon** to open settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/new-world-change-graphics-1.jpg)
 2. In the left pane, select **Visuals** . Then set **Max FPS** 60 fps.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/cap.jpg)  
  In most cases, 60 fps is enough. But some gamer replies they’ve lower to 30 FPS.
@@ -162,17 +163,17 @@ If it’s still not working, try the next fix.
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
  Once you’ve finished the process, restart your PC and check if New World freezing again.
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Move the files to the SSD drive
 
@@ -199,15 +200,16 @@ If you haven’t tried it, give it a go it might help.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-mastering-obs-installation-and-usage-on-mac-systems/"><u>[Updated] 2024 Approved Mastering OBS Installation and Usage on Mac Systems</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/updated-extensive-overview-the-comprehensive-guide-to-bublcams-panoramic-vision/"><u>[Updated] Extensive Overview The Comprehensive Guide to Bublcam's Panoramic Vision</u></a></li>
-<li><a href="https://fox-access.techidaily.com/2024-approved-appreciation-bundle-ultimate-selection-of-templates/"><u>2024 Approved Appreciation Bundle Ultimate Selection of Templates</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crusader-kings-iii-update-fixes-previous-pc-compatibility-issues/"><u>Crusader Kings III Update Fixes Previous PC Compatibility Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994518622-dying-light-performance-problem-fixed-no-more-lags/"><u>Dying Light Performance Problem Fixed - No More Lags</u></a></li>
-<li><a href="https://fox-http.techidaily.com/reviving-brands-through-customer-video-appeals-for-2024/"><u>Reviving Brands Through Customer Video Appeals for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/savvy-tips-for-downloading-youtube-playlists-fast/"><u>Tech-Savvy Tips for Downloading YouTube Playlists Fast</u></a></li>
-<li><a href="https://program-issues.techidaily.com/troubleshooting-guide-stop-call-of-duty-black-ops-cold-war-from-crashing-your-pc-in-202n/"><u>Troubleshooting Guide - Stop Call of Duty: Black Ops Cold War From Crashing Your PC in 202N</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-solution-for-fixing-nioh-2-game-crashes-on-any-pc/"><u>Ultimate Solution for Fixing Nioh 2 Game Crashes on Any PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unveiling-the-mystery-how-to-correctly-troubleshoot-minecraft-exit-code-0-error/"><u>Unveiling the Mystery: How to Correctly Troubleshoot Minecraft Exit Code -0 Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225013044-u-is-the-initial-velocity-405-ms/"><u> (U ) Is the Initial Velocity (40.5 M/S)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-navigating-video-recording-and-editing-basics-with-adobe-connect/"><u>[New] 2024 Approved Navigating Video Recording & Editing Basics with Adobe Connect</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-overcoming-deceptive-user-presentation-on-facebook/"><u>[New] In 2024, Overcoming Deceptive User-Presentation on Facebook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-enhancing-gaming-experience-minecraft-recordings-made-easy-for-2024/"><u>[Updated] Enhancing Gaming Experience Minecraft Recordings Made Easy for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambia-facilmente-tu-video-avi-a-webm-sin-coste-alguno-el-mejor-convertidor-en-linea-de-movavi-para-una-experiencia-perfecta/"><u>Cambia Fácilmente Tu Vídeo AVI a WEBM Sin Coste Alguno: El Mejor Convertidor en Línea De Movavi Para Una Experiencia Perfecta</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-mka-files-to-mp4-format-free-of-cost-move-it-now/"><u>Convert MKA Files to MP4 Format Free of Cost - Move It Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-gratuitement-vos-fichiers-mef-en-images-jpeg-sur-internet-meovani/"><u>Convertissez Gratuitement Vos Fichiers MEF en Images JPEG Sur Internet - Meovani</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/easy-video-recording-techniques-for-computer-users-a-comprehensive-guide/"><u>Easy Video Recording Techniques for Computer Users: A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/how-to-leave-a-lasting-impression-with-your-video-ending/"><u>How to Leave a Lasting Impression with Your Video Ending</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-troubleshooting-resolving-battlefield-5-startup-problems/"><u>Ultimate Troubleshooting: Resolving Battlefield 5 Startup Problems</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unleash-creativity-in-youtube-video-editing-with-adobe-premiere-for-2024/"><u>Unleash Creativity in YouTube Video Editing with Adobe Premiere for 2024</u></a></li>
 </ul></div>
 

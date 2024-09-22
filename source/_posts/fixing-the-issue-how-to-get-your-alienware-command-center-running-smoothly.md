@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: How to Get Your Alienware Command Center Running Smoothly"
-date: 2024-09-13T21:15:04.932Z
-updated: 2024-09-17T02:11:16.401Z
+date: 2024-09-20T23:09:15.980Z
+updated: 2024-09-21T16:48:40.812Z
 tags:
   - win11
   - win10
@@ -69,19 +69,6 @@ Here’s how to restart it:
 
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3 Change your DNS settings
 
  DNS (Domain Name System) is like an address book for the internet – it translates domain names to IP addresses so your device can load the correct website or server. Sometimes DNS issues cause errors or failed loading, so changing your DNS settings to alternate DNS servers can resolve the problem by routing your requests differently. Switching DNS provides a fresh lookup and mapping of domain names to IPs, allowing streams to connect successfully.
@@ -97,10 +84,10 @@ To fix this, you can try using Google Public DNS. Here’s how:
 4. Double click **Internet Protocol Version 4 (TCP/IPv4)** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037318/7443" target="_top" id="2037318">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037318" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037318/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-388.png)
@@ -109,16 +96,16 @@ To fix this, you can try using Google Public DNS. Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-389.png)
 6. Click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 7. Restart your computer as well as your router/modem.
 
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4 Clear cache and cookies
 
@@ -132,15 +119,22 @@ Clear cache and cookies in Google Chrome:
 3. Click **Clear data** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1915870/19272" target="_top" id="1915870">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915870/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118311/7443" target="_top" id="2118311">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118311" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118311/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5 Disable browser extensions
 
@@ -150,6 +144,14 @@ Clear cache and cookies in Google Chrome:
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/extensions.jpg)
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
 ## Fix 6 Use VPN to change your IP address
@@ -166,19 +168,6 @@ Here’s how to use it:
 3. Check to see if you can open the website without problems this time. If yes, then you’ve worked around the issue. If no, please head on to Fix 7, below.
 
  NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
-
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 7 Launch in safe mode
 
@@ -208,17 +197,20 @@ Here’s how to use it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-roundup-best-free-vs-premium-windows-graphics-apps/"><u>[New] Expert Roundup Best Free vs Premium Windows Graphics Apps</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-complete-scrutiny-of-camstudio-screencapture-tech/"><u>2024 Approved The Complete Scrutiny of CamStudio ScreenCapture Tech</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-top-amazon-prime-tweets-favorites-galore/"><u>2024 Approved Top Amazon Prime Tweets Favorites Galore</u></a></li>
-<li><a href="https://win-blog.techidaily.com/call-of-duty-black-ops-cold-war-solutions-for-compiling-shaders-glitch/"><u>Call of Duty: Black Ops Cold War - Solutions for Compiling Shaders Glitch</u></a></li>
-<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-narzo-n53-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme Narzo N53 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722991796961-no-more-lag-stable-playthrough-of-assassins-creed-odyssey-on-windows/"><u>No More Lag - Stable Playthrough of Assassin's Creed Odyssey on Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-god-of-wars-not-enough-memory-glitch-expert-advice-and-solutions/"><u>Resolve God of War's Not Enough Memory Glitch - Expert Advice and Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-wow-stability-issues-quickly-and-without-hassle/"><u>Resolve WOW Stability Issues Quickly and Without Hassle</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/teacher-tools-best-screen-capture-options/"><u>Teacher Tools Best Screen Capture Options</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/top-ranking-humor-image-editor-for-2024/"><u>Top-Ranking Humor Image Editor for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-cyberpunk-2077-ensuring-proper-graphics-card-use-in-windows-10-environments/"><u>Troubleshooting Cyberpunk 2077: Ensuring Proper Graphics Card Use in Windows 10 Environments</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/why-your-automobile-sound-system-might-not-be-working/"><u>Why Your Automobile Sound System Might Not Be Working</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-efficiently-merging-webcam-with-monitor-data/"><u>[New] Efficiently Merging Webcam with Monitor Data</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-tweet-to-whatsapp-video-dissemination-methods/"><u>[Updated] Tweet-to-WhatsApp Video Dissemination Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/apowersoft/"><u>Apowersoft 硬上相輸 - 真誠評估與教學功能深入介紹</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversor-online-de-arquivos-audiovisuais-convertendo-m4a-para-ogv-gratuito-com-o-software-de-edicao-do-movavi/"><u>Conversor Online De Arquivos Audiovisuais: Convertendo M4A Para OGV Gratuito Com O Software De Edição Do Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/download-free-online-mp4-to-mpeg-converter-easy-use-by-movavi/"><u>Download Free Online MP4 to MPEG Converter - Easy Use by Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/exploring-the-newest-enhancements-movavis-mac-screen-recording-software-update/"><u>Exploring the Newest Enhancements: Movavi's Mac Screen Recording Software Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-mp3-converter-en-ligne-convertissez-facilement-vos-chansons-gsm-a-laide-du-convertisseur-de-movavi/"><u>Gratuit MP3 Converter en Ligne: Convertissez Facilement Vos Chansons GSM À L'aide Du Convertisseur De Movavi</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prank-your-friends-easy-ways-to-fake-and-share-google-maps-location-on-xiaomi-redmi-note-12-pro-4g-drfone-by-drfone-virtual-android/"><u>In 2024, Prank Your Friends! Easy Ways to Fake and Share Google Maps Location On Xiaomi Redmi Note 12 Pro 4G | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unveiling-the-magic-transforming-scenes-with-gopro-timelapse/"><u>In 2024, Unveiling the Magic Transforming Scenes with GoPro Timelapse</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/in-2024-vloggers-guide-top-5-audio-excellence-headphones/"><u>In 2024, Vloggers’ Guide Top 5 Audio Excellence Headphones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/los-18-mejores-herramientas-de-corte-de-video-para-pc-sin-comprometer-la-calidad-top-ranking/"><u>Los 18 Mejores Herramientas De Corte De Vídeo Para PC Sin Comprometer La Calidad: Top Ranking</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/saving-youtube-content-with-simple-steps/"><u>Saving YouTube Content with Simple Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-capturing-your-whatsapp-video-chat-sessions-on-all-gadgets-with-ease/"><u>Step-by-Step Guide: Capturing Your WhatsApp Video Chat Sessions on All Gadgets with Ease</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-tips-for-robocop-rogue-city-pc-game-freezing-issues/"><u>Troubleshooting Tips for RoboCop: Rogue City - PC Game Freezing Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-solving-the-mystery-of-unresponsive-airpod-pairing/"><u>Ultimate Guide: Solving the Mystery of Unresponsive AirPod Pairing</u></a></li>
 </ul></div>
 

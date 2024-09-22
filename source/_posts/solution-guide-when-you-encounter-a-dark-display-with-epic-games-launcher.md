@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: When You Encounter a Dark Display with Epic Games Launcher"
-date: 2024-09-13T16:20:43.071Z
-updated: 2024-09-17T07:07:26.203Z
+date: 2024-09-15T16:20:32.474Z
+updated: 2024-09-21T20:02:58.428Z
 tags:
   - win11
   - win10
@@ -68,6 +68,13 @@ thumbnail: https://thmb.techidaily.com/00e6416ee52e959bd4b417b088ce280ff84f1d381
 
 If this doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Update your graphics driver
 
  A faulty or outdated graphic driver is one of the most common reasons for Naraka: Bladepoint keeps crashing on PC. You may want to make sure yours is up-to-date and functioning properly.
@@ -82,13 +89,6 @@ If this doesn’t solve your problem, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -116,13 +116,6 @@ If this doesn’t solve your problem, try the next fix.
 
  If verifying your game files doesn’t fix the crashing issue, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Repair system files
 
  In addition to game files, corrupted system files could also cause Naraka: Bladepoint to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues. This tool can be handy, but most of the time manual repair is required.
@@ -138,16 +131,10 @@ If this doesn’t solve your problem, try the next fix.
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 <!-- affiliate ads begin -->
-<span id="1304648">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1304648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1304648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304648%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304648/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Increase the virtual memory on your PC
@@ -162,13 +149,6 @@ If this doesn’t solve your problem, try the next fix.
 3. Go to the**Advanced** tab, under the Performance section, click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/advanced-performance-settings.jpg)
 4. Again switch to the**Advanced** tab, under the Virtual memory section, click**Change** .  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123476/16836" target="_top" id="2123476">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123476" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123476/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/virtual-memory-change.jpg)
 5. Now you’ll see the paging file size on your PC.  
@@ -206,14 +186,27 @@ If your game still crashes, try the next fix.
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aidotcom.pxf.io/c/5597632/2129042/19576" target="_top" id="2129042">
+  <img src="//a.impactradius-go.com/display-ad/19576-2129042" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129042/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. Restart your PC to let it take effect.
+
+<!-- affiliate ads begin -->
+<span id="1975555">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this doesn’t solve your problem, try the last fix.
 
@@ -248,6 +241,13 @@ If this doesn’t solve your problem, try the last fix.
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch the game. If it once again won’t crash, then you know that one of the services you ticked above is conflicting with it. If it_does_ crash, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 4. Repeat steps 2 and 3 above until you find the service that conflicts with Naraka: Bladepoint.  
 
@@ -293,20 +293,20 @@ If this doesn’t solve your problem, try the last fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-premium-platforms-converting-vids-for-the-bird-for-2024/"><u>[New] Premium Platforms Converting Vids for the Bird for 2024</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/new-the-logic-of-imovies-trim-feature-for-2024/"><u>[New] The Logic of iMovie's Trim Feature for 2024</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-the-leading-8-sms-recovery-solutions-for-your-ios-device/"><u>Discover the Leading 8 SMS Recovery Solutions for Your iOS Device</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-the-standoff-strategic-fixes-for-resolving-in-game-loading-delays-of-cold-war-on-pc-and-consoles/"><u>End the Standoff: Strategic Fixes for Resolving In-Game Loading Delays of Cold War on PC and Consoles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expose-unveiling-winning-techniques-in-cod-modern-warfare-first-person-shooter-gameplay/"><u>Exposé: Unveiling Winning Techniques in COD: Modern Warfare First-Person Shooter Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-correctly-handle-the-ue4-error-that-causes-unreal-process-crashes-in-outriders/"><u>How to Correctly Handle the UE4 Error That Causes Unreal Process Crashes in Outriders</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-oneplus-nord-n30-5g-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked OnePlus Nord N30 5G Phone</u></a></li>
-<li><a href="https://win-dash.techidaily.com/how-to-download-install-and-update-sony-vaio-driver-software-on-windows-devices/"><u>How To: Download, Install & Update Sony VAIO Driver Software on Windows Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/league-of-legends-troubleshooting-expert-tips-to-resolve-black-screen-problems/"><u>League of Legends Troubleshooting: Expert Tips to Resolve Black Screen Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/modern-warfare-3-game-update-correction-no-more-sudden-stops-in-application/"><u>Modern Warfare 3 Game Update Correction - No More Sudden Stops in Application</u></a></li>
-<li><a href="https://win-answers.techidaily.com/resolve-maplestory-lag-and-crashes-on-windows-10-with-our-troubleshooting-tips/"><u>Resolve MapleStory Lag and Crashes on Windows 10 with Our Troubleshooting Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-cyberpunk-2077s-fps-performance-issues-clarified/"><u>Resolved: Cyberpunk 2077'S FPS Performance Issues Clarified</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-why-is-battlefield-4-failing-to-boot-on-your-computer/"><u>Solution Guide: Why Is 'Battlefield 4' Failing to Boot on Your Computer?</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/transforming-your-instagram-video-into-a-social-sensation-for-2024/"><u>Transforming Your Instagram Video Into a Social Sensation for 2024</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/uncover-the-shocking-way-hacking-your-iphone-with-a-trio-of-chars/"><u>Uncover the Shocking Way: Hacking Your iPhone with a Trio of Chars!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-blending-youtube-soundtracks-into-video-essence/"><u>[New] Blending YouTube Soundtracks Into Video Essence</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-funny-facades-top-quality-free-meme-files/"><u>[New] Funny Facades Top-Quality, FREE Meme Files</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/2024-approved-building-a-bountiful-beauty-channel-fortune/"><u>2024 Approved Building a Bountiful Beauty Channel Fortune</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-eliminating-grey-edges-on-video-a-youtube-fix-guide/"><u>2024 Approved Eliminating Grey Edges on Video A YouTube Fix Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-enhance-viewing-experience-maximizing-utilization-of-picture-in-picture-on-netflix/"><u>2024 Approved Enhance Viewing Experience Maximizing Utilization of Picture-in-Picture on Netflix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wma-wav-movavi/"><u>免費在線 WMA 變更成 WAV - 以 Movavi 為基礎的轉頻工具</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bandicam-analise-comparativa-do-movavi-custo-e-funcoes-explicadas-em-revisao-extensa/"><u>Bandicam Análise Comparativa Do Movavi: Custo E Funções Explicadas Em Revisão Extensa</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-tool-convert-vob-files-to-mp4-quickly-with-movavi/"><u>Free Online Conversion Tool - Convert VOB Files to MP4 Quickly with Movavi</u></a></li>
+<li><a href="https://fox-links.techidaily.com/immersive-viewing-microsoft-edges-pip-for-2024/"><u>Immersive Viewing Microsoft Edge's PIP for 2024</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/in-depth-analysis-of-pc-hardware-by-toms-experts/"><u>In-Depth Analysis of PC Hardware by Tom's Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/les-top-15-outils-de-suivi-web-parfaits-pour-les-blogueurs/"><u>Les Top 15 Outils De Suivi Web Parfaits Pour Les Blogueurs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726224244444-movavi/"><u>Movavi: 위험 없이 다중 미디어를 기본으로 사용하는 안전한 소프트웨어 솔루션</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-flac-in-formato-avi-online-senza-costi-con-movavi/"><u>Trasforma I Tuoi File FLAC in Formato AVI Online Senza Costi Con Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/troubleshooting-and-resolving-the-500-internal-server-mistake/"><u>Troubleshooting and Resolving the 500 Internal Server Mistake</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-tech-gear-a-look-into-toms-hardware-selections/"><u>Unveiling the Best Tech Gear: A Look Into Tom’s Hardware Selections</u></a></li>
 </ul></div>
 

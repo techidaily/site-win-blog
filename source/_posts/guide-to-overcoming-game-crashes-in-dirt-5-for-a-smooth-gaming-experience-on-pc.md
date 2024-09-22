@@ -1,7 +1,7 @@
 ---
 title: Guide to Overcoming Game Crashes in Dirt 5 for a Smooth Gaming Experience on PC
-date: 2024-09-14T16:54:04.710Z
-updated: 2024-09-16T20:19:30.933Z
+date: 2024-09-17T23:55:30.238Z
+updated: 2024-09-21T16:21:35.020Z
 tags:
   - win11
   - win10
@@ -93,6 +93,19 @@ There are mainly two methods for you to update the graphics driver:
 
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
 
 ## Optimize in-game graphics settings
@@ -109,13 +122,6 @@ There are mainly two methods for you to update the graphics driver:
 * Set **World Car Level of Detail** to Low
 
 If the FPS in Forza Horizon 5 still drops, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -143,19 +149,6 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Disable overlays
 
  According to some PC gamers, overlays sometimes they may interfere with Forza Horizon 5 and even introduces performance issues and compatibility issues.
@@ -168,25 +161,18 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run Forza Horizon 5 again after you disabled all the in-game overlays and check if Forza Horizon 5 fps drops. If this issue persists, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Disable background recording and Xbox Game Bar
 
@@ -200,7 +186,21 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139108/17108" target="_top" id="2139108">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139108" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139108/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run Forza Horizon 5 to see you can play it smoothly.
 
@@ -226,16 +226,20 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/2024-approved-harmonic-transition-a-playlist-migration-masterclass/"><u>2024 Approved Harmonic Transition A Playlist Migration Masterclass</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/cut-down-windows-11-cpu-overuse-with-wmi-fixes/"><u>Cut Down Windows 11 CPU Overuse with WMI Fixes</u></a></li>
-<li><a href="https://win-able.techidaily.com/1723013182220-cyberpunk-2077-performance-boosted-overcoming-previous-fps-drops/"><u>Cyberpunk 2077 Performance Boosted – Overcoming Previous FPS Drops.</u></a></li>
-<li><a href="https://win-able.techidaily.com/error-code-5573-cracked-in-depth-guide-to-resolve-it-in-call-of-duty-vanguard/"><u>Error Code 5573 Cracked: In-Depth Guide to Resolve It in Call of Duty: Vanguard</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-for-preventing-the-sims-4-from-crashing-on-windows-a-comprehensive-guide/"><u>Fixes for Preventing The Sims 4 From Crashing on Windows: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-ghost-recon-breakpoint-from-crashing-effective-solutions-inside/"><u>How to Stop Ghost Recon: Breakpoint From Crashing – Effective Solutions Inside</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-and-resolve-outlook-cannot-be-launched-errors/"><u>How to Troubleshoot and Resolve 'Outlook Cannot Be Launched' Errors</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-15-best-strongest-pokemon-to-use-in-pokemon-go-pvp-leagues-for-poco-c51-drfone-by-drfone-virtual-android/"><u>In 2024, 15 Best Strongest Pokémon To Use in Pokémon GO PvP Leagues For Poco C51 | Dr.fone</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-x-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone X Keeps Asking for Outlook Password</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixing-msi-afterburners-failure-to-recognize-gpu-in-windows-10-and-11/"><u>Resolved: Fixing MSI Afterburner's Failure to Recognize GPU in Windows 10 and 11</u></a></li>
-<li><a href="https://howto.techidaily.com/samsung-galaxy-m14-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-perfecting-virtual-presentations-key-practices-for-using-skypes-screen-share-feature-for-2024/"><u>[New] Perfecting Virtual Presentations Key Practices for Using Skype’s Screen Share Feature for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-the-quest-for-content-videos-in-social-media-network-for-2024/"><u>[New] The Quest for Content Videos in Social Media Network for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-10-instagram-video-editing-app-marketers-must-know/"><u>[Updated] In 2024, 10 Instagram Video Editing App Marketers Must Know</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-maximizing-fb-instream-ad-impact-configuration-techniques-and-metrics-for-2024/"><u>[Updated] Maximizing FB Instream Ad Impact Configuration Techniques and Metrics for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-accelerate-and-decelerate-on-your-screen-netflix/"><u>2024 Approved Accelerate and Decelerate on Your Screen (Netflix)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024-7/"><u>2024 기술에 맞는 무료 애니티 페이스포인터: 7개 가장 좋은 곳 - 최고의 리뷰</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comment-convertir-votre-fichier-audio-ape-en-fichier-wma-sans-cout-avec-movavi-un-guide-simple/"><u>Comment Convertir Votre Fichier Audio APE en Fichier WMA Sans Coût Avec Movavi: Un Guide Simple</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-de-mkv-a-oggz-guide-etape-par-etape-pour-transformer-des-fichiers-video-en-ligne-gratuitement-avec-movavi/"><u>Conversion De MKV À Oggz : Guide Étape Par Étape Pour Transformer Des Fichiers Vidéo en Ligne Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-facilement-votre-fichier-quicktime-qt-en-format-avi-sans-frais-a-laide-de-movavi-solution-gratuite-et-efficace/"><u>Convertissez Facilement Votre Fichier QuickTime (.QT) en Format AVI Sans Frais À L'aide De Movavi - Solution Gratuite Et Efficace</u></a></li>
+<li><a href="https://win-blog.techidaily.com/flashfree-flac-and-aiff-movavi/"><u>FlashFREE音声ファイル変換: FLAC & AIFF無料ダウンロード - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-facile-comment-sauvegarder-lecran-de-votre-ordinateur-appareil-mac-et-smartphone-avec-movavi/"><u>Guide Facile: Comment Sauvegarder L'Écran De Votre Ordinateur, Appareil Mac Et Smartphone Avec Movavi</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-mastering-identity-verification-a-deep-dive-into-ig-selfies/"><u>In 2024, Mastering Identity Verification A Deep Dive Into IG Selfies</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-pixels-into-panoramas-cutting-edge-edits-for-exceptional-results/"><u>In 2024, Pixels Into Panoramas Cutting-Edge Edits for Exceptional Results</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/strategies-for-harvesting-fb-status-video-archives-for-2024/"><u>Strategies for Harvesting FB Status Video Archives for 2024</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/transform-your-win11-sessions-with-advanced-zoom-skills/"><u>Transform Your Win11 Sessions with Advanced Zoom Skills</u></a></li>
 </ul></div>
 

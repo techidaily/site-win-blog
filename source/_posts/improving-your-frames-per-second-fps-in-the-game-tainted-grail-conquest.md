@@ -1,7 +1,7 @@
 ---
 title: "Improving Your Frames per Second (FPS) in the Game 'Tainted Grail: Conquest'"
-date: 2024-09-16T05:19:15.410Z
-updated: 2024-09-16T20:29:16.183Z
+date: 2024-09-14T18:06:16.767Z
+updated: 2024-09-21T22:50:41.778Z
 tags:
   - win11
   - win10
@@ -80,19 +80,6 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
 
-<!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 4\. Update your graphics driver
 
  A driver is an essential piece of software that lets your system communicate with your hardware. If it is outdated or misconfigured, it would cause noticeable performance issues. When you have low FPS or encounter constant stutters during the gameplay, you need to check for graphics driver updates. A new graphics driver comes with bug fixes and brings new features.
@@ -111,29 +98,9 @@ Here’s how to update drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 5\. Enable hardware-accelerated GPU scheduling
 
@@ -145,22 +112,49 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down. Find **Graphics settings** and click on it.  
 
+<!-- affiliate ads begin -->
+<a href="https://homestyler.sjv.io/c/5597632/1943750/22993" target="_top" id="1943750">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943750" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943750/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123468/16836" target="_top" id="2123468">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123468" border="0" alt="https://techidaily.com" width="125" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123468/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
 
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
 
@@ -198,19 +192,19 @@ Here’s how to update drivers with Driver Easy:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-discover-the-overlooked-insights-on-instagram-story-watching-for-2024/"><u>[New] Discover the Overlooked Insights on Instagram Story Watching for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/addressed-league-of-legends-online-connection-challenges/"><u>Addressed League of Legends Online Connection Challenges</u></a></li>
-<li><a href="https://win-forum.techidaily.com/effective-solutions-for-fixing-missing-class-errors-in-windows-systems/"><u>Effective Solutions for Fixing ‘Missing Class’ Errors in Windows Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-lagging-fps-and-smooth-out-gameplay-for-avatar-on-the-planet-pandora/"><u>Fix Lagging FPS & Smooth Out Gameplay for Avatar on the Planet Pandora</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oppo-a78-by-drfone-android/"><u>How to Bypass FRP from Oppo A78?</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-google-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Google Phones with/without a PC</u></a></li>
-<li><a href="https://apple-account.techidaily.com/in-2024-how-to-sign-out-of-apple-id-on-apple-iphone-8-plus-without-password-by-drfone-ios/"><u>In 2024, How to Sign Out of Apple ID On Apple iPhone 8 Plus without Password?</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes/"><u>In 2024, Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes</u></a></li>
-<li><a href="https://extra-information.techidaily.com/innovative-ways-to-capture-authenticity-in-customer-reviews/"><u>Innovative Ways to Capture Authenticity in Customer Reviews</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-overcome-common-issues-with-discord-setup/"><u>Quick Fixes: Overcome Common Issues with Discord Setup</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/schritt-fur-schritt-guide-wie-sie-untertitel-zu-ihren-mp4-videos-hinzufugen/"><u>Schritt-Für-Schritt Guide: Wie Sie Untertitel Zu Ihren MP4-Videos Hinzufügen</u></a></li>
-<li><a href="https://win-blog.techidaily.com/silence-broken-effective-techniques-to-restore-sounds-on-fallout-4-computer-setups/"><u>Silence Broken: Effective Techniques to Restore Sounds on Fallout 4 Computer Setups</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-hack-for-launching-hogwarts-legacy-successfully-top-fixes/"><u>Ultimate Hack for Launching Hogwarts Legacy Successfully - Top Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/understanding-and-resolving-launch-problems-with-battlefield-4-for-windows-users/"><u>Understanding and Resolving Launch Problems with Battlefield 4 for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavitsvob/"><u>「Movaviプラットフォーム上でストリーミングTSからVOBへの自由な変換方法」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conexao-direta-e-gratuita-de-conversao-avi-para-flv-com-a-ferramenta-on-line-da-movavi/"><u>Conexão Direta E Gratuita De Conversão: AVI Para FLV Com a Ferramenta On-Line Da Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversione-online-gratuita-da-ogm-a-mp4-con-movavi-video-converters/"><u>Conversione Online Gratuita Da OGM a MP4 Con Movavi - Video Converters</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deconstructing-ai-weaknesses-the-science-of-prompt-injection-attacks/"><u>Deconstructing AI Weaknesses: The Science of Prompt Injection Attacks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-online-om-cr2-naar-jpeg-te-veranderen-movavi/"><u>Gratuit Online Om CR2 Naar JPEG Te Veranderen - Movavi</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/my-videos-arent-playing-on-tecno-camon-20-what-can-i-do-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>My Videos Arent Playing on Tecno Camon 20 – What Can I Do? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-transforming-vocal-landscapes-a-methodical-approach-to-swapping-video-audio-tracks-part-1-for-2024/"><u>New Transforming Vocal Landscapes A Methodical Approach to Swapping Video Audio Tracks (Part 1) for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-realtek-bluetooth-driver-version-compatible-with-windows-11-and-10-download-now/"><u>Newest Realtek Bluetooth Driver Version Compatible with Windows 11 & 10: Download Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-webm-mpeg-upgrade-convert-your-videos-at-no-cost-using-our-simple-tool/"><u>Seamless WebM-MPEG Upgrade - Convert Your Videos at No Cost Using Our Simple Tool!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/seo-for-podcasts-ultimate-guide/"><u>SEO for Podcasts - Ultimate Guide</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/speed-up-your-video-editing-how-to-cut-large-files-fast-on-mac-for-2024/"><u>Speed Up Your Video Editing How to Cut Large Files Fast on Mac for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-into-ai-search-at-bing-joining-process-explanited/"><u>Step Into AI Search at Bing: Joining Process Explanited</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/the-ultimate-list-of-top-10-photo-restoration-tools-for-windows-and-mac-users/"><u>The Ultimate List of Top 10 Photo Restoration Tools for Windows & Mac Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforma-tus-archivos-opus-en-formato-digital-claro-y-facil-de-escuchar-gratis-por-movavi/"><u>Transforma Tus Archivos OPUS en Formato Digital Claro Y Fácil De Escuchar, Gratis Por Movavi!</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Cyberpunk 2077: Ensuring Proper Graphics Card Use in Windows 10 Environments"
-date: 2024-09-10T05:23:26.243Z
-updated: 2024-09-17T04:25:24.400Z
+date: 2024-09-19T01:33:02.967Z
+updated: 2024-09-21T18:53:27.937Z
 tags:
   - win11
   - win10
@@ -76,13 +76,6 @@ To do so, first visit the website of your graphics card manufacturer:
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -93,20 +86,29 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
@@ -122,16 +124,10 @@ And it’s quite easy to check for updates:
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 
 <!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
@@ -159,20 +155,13 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-maximize-your-webcam-hp-and-chromebook-strategies-for-2024/"><u>[Updated] Maximize Your Webcam HP & Chromebook Strategies for 2024</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/2024-approved-mastering-free-and-paid-tools-for-vimeo-video-downloads/"><u>2024 Approved Mastering Free & Paid Tools for Vimeo Video Downloads</u></a></li>
-<li><a href="https://win-able.techidaily.com/double-drop-in-frames-per-second-fps-for-pc-players-corrected-successfully/"><u>Double Drop in Frames Per Second (FPS) for PC Players Corrected Successfully</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-the-standoff-strategic-fixes-for-resolving-in-game-loading-delays-of-cold-war-on-pc-and-consoles/"><u>End the Standoff: Strategic Fixes for Resolving In-Game Loading Delays of Cold War on PC and Consoles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expose-unveiling-winning-techniques-in-cod-modern-warfare-first-person-shooter-gameplay/"><u>Exposé: Unveiling Winning Techniques in COD: Modern Warfare First-Person Shooter Gameplay</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/futureproof-choices-expertly-reviewed-filaments-for-3d-printers-in-eetings/"><u>Futureproof Choices: Expertly Reviewed Filaments for 3D Printers in Eetings</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/get-yours-before-it-sells-out-simulavr-unveils-linux-version-with-innovative-facial-tracking-features/"><u>Get Yours Before It Sells Out: SimulaVR Unveils Linux Version with Innovative Facial Tracking Features</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-correctly-handle-the-ue4-error-that-causes-unreal-process-crashes-in-outriders/"><u>How to Correctly Handle the UE4 Error That Causes Unreal Process Crashes in Outriders</u></a></li>
-<li><a href="https://win-blog.techidaily.com/league-of-legends-troubleshooting-expert-tips-to-resolve-black-screen-problems/"><u>League of Legends Troubleshooting: Expert Tips to Resolve Black Screen Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/modern-warfare-3-game-update-correction-no-more-sudden-stops-in-application/"><u>Modern Warfare 3 Game Update Correction - No More Sudden Stops in Application</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-high-ping-in-street-fighter-6-effective-solutions-for-smoother-gameplay/"><u>Overcome High Ping in Street Fighter 6: Effective Solutions for Smoother Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-why-is-battlefield-4-failing-to-boot-on-your-computer/"><u>Solution Guide: Why Is 'Battlefield 4' Failing to Boot on Your Computer?</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-step-by-step-process-to-configure-almost-any-preference-in-gmail/"><u>The Step-by-Step Process to Configure Almost Any Preference in Gmail</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/tips-for-top-notetakers-using-chatgpt/"><u>Tips for Top Notetakers Using ChatGPT</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/top-apps-and-online-tools-to-track-oppo-a38-phone-withwithout-imei-number-by-drfone-android/"><u>Top Apps and Online Tools To Track Oppo A38 Phone With/Without IMEI Number</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008600524-detective-in-la-uncovering-clues-now-playable-on-your-computer/"><u>'Detective in LA: Uncovering Clues' Now Playable on Your Computer!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-creating-custom-subscribe-urls-for-online-content/"><u>2024 Approved Creating Custom Subscribe URLs for Online Content</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-roadmap-to-making-money-with-personal-videos/"><u>2024 Approved The Roadmap to Making Money with Personal Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambiar-formato-de-video-online-gratis-convertir-voc-a-avi-con-movavi/"><u>Cambiar Formato De Video Online Gratis: Convertir VOC a AVI Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-change-rmvb-files-into-flv-format-with-movavi/"><u>Free Online Converter: Change RMVB Files Into FLV Format with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-mp3-to-mpeg-converter-by-movavi-quick-and-easy-audio-format-switching/"><u>Free Online MP3-to-MPEG Converter by Movavi: Quick and Easy Audio Format Switching</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-huawei-p60-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Huawei P60? | Dr.fone</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/learning-german-made-easy-the-ultimate-25-idiom-collection-guide/"><u>Learning German Made Easy: The Ultimate 25 Idiom Collection Guide</u></a></li>
 </ul></div>
 

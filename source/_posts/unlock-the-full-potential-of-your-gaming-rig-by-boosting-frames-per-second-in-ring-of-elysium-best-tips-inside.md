@@ -1,7 +1,7 @@
 ---
 title: Unlock the Full Potential of Your Gaming Rig by Boosting Frames Per Second in Ring of Elysium – Best Tips Inside
-date: 2024-09-09T21:10:29.686Z
-updated: 2024-09-17T00:25:29.688Z
+date: 2024-09-18T20:05:12.196Z
+updated: 2024-09-21T17:05:12.869Z
 tags:
   - win11
   - win10
@@ -103,26 +103,40 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-737.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012415/19272" target="_top" id="2012415">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012415" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012415/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-738.png)
 
  Restart your computer, and then relaunch your game to see if this worked for you.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123739/7443" target="_top" id="2123739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 4: Configure your graphics settings
 
@@ -137,22 +151,15 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)** Click the**Add** **button** .
@@ -168,10 +175,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### If you’re using an AMD graphics product…
@@ -187,13 +200,6 @@ OR
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -224,20 +230,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-capturing-desktop-anytime-on-windows/"><u>[New] 2024 Approved Capturing Desktop, Anytime on Windows</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-emulate-video-success-gaining-youtube-confidence-skills-for-2024/"><u>[New] Emulate Video Success Gaining YouTube Confidence Skills for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-free-online-rhythm-analysis-boost-your-dj-skills-efficiently/"><u>[New] Free Online Rhythm Analysis Boost Your DJ Skills Efficiently</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/new-ingenious-approaches-to-facebook-video-ad-crafting/"><u>[New] Ingenious Approaches to Facebook Video Ad Crafting</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-premium-gaming-systems-high-performance-meets-style/"><u>[Updated] Premium Gaming Systems High Performance Meets Style</u></a></li>
-<li><a href="https://win-blog.techidaily.com/achieve-smooth-gameplay-in-outriders-by-solving-persistent-lag-issues-today/"><u>Achieve Smooth Gameplay in Outriders by Solving Persistent Lag Issues Today!</u></a></li>
-<li><a href="https://change-location.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-vivo-s18-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Vivo S18 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/death-stranding-pc-crash-fix-how-to-stop-your-game-from-freezing/"><u>Death Stranding PC Crash Fix - How to Stop Your Game From Freezing</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-tips-of-transferring-messages-from-tecno-spark-10c-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Tips of Transferring Messages from Tecno Spark 10C to iPhone 14/15 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-your-pc-for-consistent-frame-rates-in-the-latest-formula-one-game/"><u>Optimizing Your PC for Consistent Frame Rates in the Latest Formula One Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/sea-of-thieves-stability-fix-no-more-crashes/"><u>Sea of Thieves Stability Fix: No More Crashes!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-and-correcting-league-of-legends-network-errors/"><u>Troubleshooting and Correcting League of Legends Network Errors</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-assassins-creed-origins-freeze-issues/"><u>Ultimate Guide: Solving Assassin's Creed Origins Freeze Issues</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/upgrading-from-macos-monterey-to-ventura-is-the-new-version-worth-it/"><u>Upgrading From macOS Monterey to Ventura: Is the New Version Worth It?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/warzone-players-guide-eradicate-the-persistent-dev-error-6634-with-these-updated-fixes/"><u>Warzone Players' Guide: Eradicate the Persistent Dev Error 6634 with These Updated Fixes</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-exploring-facebooks-newest-feature-evolution/"><u>[New] In 2024, Exploring Facebook's Newest Feature Evolution</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-how-to-zoom-tiktok-videos/"><u>[Updated] How to Zoom TikTok Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-clearing-up-that-persistent-green-tint-in-youtube-videos-on-mac/"><u>[Updated] In 2024, Clearing Up that Persistent Green Tint in YouTube Videos on Mac</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-top-ten-youtube-regulations-to-abide-by/"><u>[Updated] Top Ten YouTube Regulations to Abide By</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-m4a-mp4/"><u>自由在線Movavi工具下，將 M4A 影片轉化為 MP4 - 免費版本</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/discover-global-communication-with-google-endorsed-language-tools-mondly/"><u>Discover Global Communication with Google-Endorsed Language Tools - Mondly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/en-ligne-gratuit-changement-rapide-de-format-dimage-gif-vers-un-fichier-swf-avec-convertisseur-rapide-de-movavi/"><u>En Ligne Gratuit - Changement Rapide De Format D'image GIF Vers Un Fichier SWF Avec Convertisseur Rapide De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/entendiendo-el-fenomeno-del-tiempo-lapsado-y-sus-diferentes-metodos-para-crearlo/"><u>Entendiendo El Fenómeno Del Tiempo Lapsado Y Sus Diferentes Métodos Para Crearlo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-omzettingen-van-mpeg-4-vid-bestandjes-online-met-movavi-kort-en-konkurrensieper/"><u>Gratis Omzettingen Van MPEG-4 Vid-Bestandjes Online Met Movavi - Kort en Konkurrensieper</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-maximizing-zoom-visual-precision-effective-strategies/"><u>In 2024, Maximizing Zoom Visual Precision Effective Strategies</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-revelations-on-identifying-outstanding-film-making-talents/"><u>In 2024, Revelations on Identifying Outstanding Film Making Talents</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavimac/"><u>MovaviのMacでの使い始め方：ライセンス認証プロセスを解き明かす</u></a></li>
+<li><a href="https://android-frp.techidaily.com/the-latest-from-minisforum-unveiling-a-slim-design-pc-equipped-with-amd-ryzen-9-amo-and-radeon-rx-7600m-for-gaming-enthusiasts/"><u>The Latest From Minisforum: Unveiling a Slim Design PC Equipped With AMD Ryzen 9 Amo and Radeon RX 7600M for Gaming Enthusiasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transmetteur-gratuit-de-videos-mpeg-vers-mp4-en-ligne-avec-movavi/"><u>Transmetteur Gratuit De Vidéos MPEG Vers MP4 en Ligne Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726223414652-ogm/"><u>お使いのコンピュータですぐにスタート! OGMから任意の形式へ対話型変換 -無料-</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing MSI Afterburner's Failure to Recognize GPU in Windows 10 and 11"
-date: 2024-09-12T17:28:21.622Z
-updated: 2024-09-17T03:55:51.995Z
+date: 2024-09-20T16:11:56.980Z
+updated: 2024-09-21T18:07:32.779Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ If this doesn’t help, you can take a look at the next fix below.
 
  If the latest graphics driver doesn’t do the charm, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115945/19272" target="_top" id="2115945">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115945" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115945/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Install all Windows updates
 
  Civ 6 has been out for several years now, so it’s possible it’ll run into compatibility issues with the latest Windows 10\. Microsoft releases system updates for Windows 10 on a regular basis. It’s important to**make sure you install all the system updates** .
@@ -87,13 +80,6 @@ If this doesn’t help, you can take a look at the next fix below.
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
@@ -112,20 +98,21 @@ If this solution doesn’t help, you can continue to the next one.
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 
 <!-- affiliate ads begin -->
-<span id="1983539">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
@@ -133,22 +120,15 @@ If this solution doesn’t help, you can continue to the next one.
 6. Restart your PC.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can try to launch Civ 6\. If it’s working this time, repeat these steps and disable only half of the services and programs to root out the offenders.
 
 If a clean boot doesn’t help, you can check out the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Install the latest Visual C++ redistributable
 
@@ -160,11 +140,25 @@ If a clean boot doesn’t help, you can check out the next fix.
 
  You can also uninstall all the Visual C++ redistributable in**Programs and Features** , then reinstall them one by one. Be sure to choose the latest 64-bit installer.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Switch your DirectX version
 
  According to some,**running Civ 6 on another version of DirectX** might be a potential fix. Normally you’re prompted to select the DirectX version at startup. But you can also use the .exe file directly. By default, you can the .exe files in _C:\\Program Files (x86)\\Steam\\steamapps\\common\\Sid Meier’s Civilization VI\\Base\\Binaries\\Win64Steam_ . Use_CivilizationVI\_DX12.exe_ for DirectX 12 and_CivilizationVI.exe_ for DirectX 11.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/civ-6-directx.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -187,16 +181,20 @@ If a clean boot doesn’t help, you can check out the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-how-to-use-youcam-webcam-recorder/"><u>[New] How to Use YouCam Webcam Recorder</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-streamlined-approaches-to-documenting-whatsapp-discussions/"><u>[Updated] 2024 Approved Streamlined Approaches to Documenting WhatsApp Discussions</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-the-art-of-alluring-youtube-live-image-creation/"><u>[Updated] Unlocking the Art of Alluring YouTube Live Image Creation</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/altering-snapchat-audio-a-dual-approach-explained-for-2024/"><u>Altering Snapchat Audio A Dual Approach Explained for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beating-the-bug-successful-launch-strategies-for-robocop-rogue-city-on-pc-setup/"><u>Beating the Bug: Successful Launch Strategies for 'RoboCop: Rogue City' On PC Setup</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-ensure-uninterrupted-gaming-experience-solving-fallout-3-crash-problems-on-windows-10-systems/"><u>How To Ensure Uninterrupted Gaming Experience: Solving Fallout 3 Crash Problems on Windows 10 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-repair-frequent-crashes-in-secret-of-mana-sf7-on-windows/"><u>How to Prevent and Repair Frequent Crashes in Secret of Mana (SF7) on Windows</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-frequency-fluctuations-for-game-mastery/"><u>In 2024, Frequency Fluctuations for Game Mastery</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-compatibility-hurdles-a-players-handbook-to-stable-play-in-no-rest-for-the-wicked/"><u>Overcoming Compatibility Hurdles: A Player’s Handbook to Stable Play in No Rest for the Wicked</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/reasons-for-realme-gt-5-pro-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Realme GT 5 Pro Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/simplifying-photo-uploads-captions-generated-by-ai/"><u>Simplifying Photo Uploads: Captions Generated by AI</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-top-video-watch-counts-youtubes-historical-list/"><u>[New] 2024 Approved Top Video Watch Counts YouTube's Historical List</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-make-an-impression-with-youtube-clips-step-by-step-into-the-world-of-gif-making/"><u>2024 Approved Make an Impression With YouTube Clips Step-by-Step Into the World of Gif Making</u></a></li>
+<li><a href="https://win-blog.techidaily.com/m4v-and-3gp-movavi/"><u>最新 M4V & 3GP フリーオンラインコンバートツール - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ape-to-aiff-conversion-expert-guide-convert-audio-files-for-free-with-movavi/"><u>APE to AIFF Conversion: Expert Guide - Convert Audio Files for Free with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-webm-to-mp4-converter-movavi/"><u>Free Online Webm to Mp4 Converter - Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/harnessing-power-of-luts-for-advanced-obs-studio-output-for-2024/"><u>Harnessing Power of LUTs for Advanced OBS Studio Output for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-gps-location-on-realme-12-proplus-5g-easily-and-safely-drfone-by-drfone-virtual-android/"><u>How to Change GPS Location on Realme 12 Pro+ 5G Easily & Safely | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-ultimate-list-of-idevice-screen-recorders/"><u>In 2024, Ultimate List of iDevice Screen Recorders</u></a></li>
+<li><a href="https://driver-install.techidaily.com/instant-updates-your-guide-to-new-acer-drivers-in-win10/"><u>Instant Updates: Your Guide to New Acer Drivers in Win10</u></a></li>
+<li><a href="https://games-able.techidaily.com/revamping-identity-in-the-world-of-competitive-gaming/"><u>Revamping Identity in the World of Competitive Gaming</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/the-art-of-speech-interpretation-via-googles-technology/"><u>The Art of Speech Interpretation via Google's Technology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-7-applicazioni-per-la-registrazione-dello-screenshot-su-pc-con-sistema-operativo-windows-7/"><u>Top 7 Applicazioni per La Registrazione Dello Screenshot Su PC Con Sistema Operativo Windows 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforme-milhas-por-galao-em-imagens-animadas-o-convertidor-on-line-do-movavi-free/"><u>Transforme Milhas Por Galão Em Imagens Animadas: O Convertidor On-Line Do Movavi FREE!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/video-to-gif-conversion-guide-expert-tips-for-making-gifs-online/"><u>Video-to-GIF Conversion Guide: Expert Tips for Making GIFs Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225571323-vobmp4-movavi/"><u>열쇠: 인터넷에서 VOB/MP4 전환 핸들 - Movavi</u></a></li>
 </ul></div>
 

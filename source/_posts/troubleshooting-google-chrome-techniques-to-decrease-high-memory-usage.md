@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Google Chrome: Techniques to Decrease High Memory Usage"
-date: 2024-09-10T18:04:04.518Z
-updated: 2024-09-17T04:26:52.390Z
+date: 2024-09-19T22:02:59.611Z
+updated: 2024-09-21T19:35:23.121Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ thumbnail: https://thmb.techidaily.com/3371d97eae392c322e9b82d456ad7eef262a0a211
 
 See if you can log in or not. if not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Test your Internet connection speed
 
  If you still suffer from this issue after you reboot your network, you need to test your Internet connection speed first. Here is how to do it:
@@ -83,14 +76,14 @@ See if you can log in or not. if not, try the next fix, below.
 2. Click**GO** to start testing your connection speed.  
 ![speedtest](https://images.drivereasy.com/wp-content/uploads/2018/10/speedtest.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  If the speed test result is much slower than usual, you should turn to your Internet service provider (ISP) for further supports. If the test result is normal, then try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reset Winsock data
 
@@ -129,13 +122,6 @@ See if you can log in or not. if not, try the next fix, below.
 ![ipconfig renew](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-renew.jpg)
 4. Launch Fortnite.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  See if you can log in or not. If this issue persists, try updating your network driver to the latest version.
 
 ### Fix 6: Update your network driver
@@ -166,6 +152,13 @@ See if you can log in or not. if not, try the next fix, below.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Avoid wireless interference
 
  If you failed to log into Fortnite when your PC connects to the Internet via your Wi-Fi network, this issue is also probably caused by **wireless interference** . Follow the instructions below to avoid wireless interference and improve your Wi-Fi signal:
@@ -182,18 +175,19 @@ See if you can log in or not. if not, try the next fix, below.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **inetcpl.cpl**  and press **Enter** .  
 ![inetcpl.cpl](https://images.drivereasy.com/wp-content/uploads/2018/10/inetcpl-cpl.jpg)
 2. Navigate to the **Connections** tab. Select **Never dial a connection** if you see it (somewhere below **Choose Settings if you need…** ). Then click on **LAN settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![internet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/internet-properties.jpg)
 3. **Uncheck** the box next to **Use a proxy server for your LAN** . If it is already unchecked, **check** the box next to **Automatically detect settings** . Then click **OK** .  
 
 ![LAN Settings](https://images.drivereasy.com/wp-content/uploads/2018/10/LAN-Settings.jpg)
 4. If you’re using a VPN or a third-party proxy sever,**disable** it.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Fortnite to see if you can log in or not. If not, try the next fix to change the DNS server.
 
@@ -207,15 +201,21 @@ See if you can log in or not. if not, try the next fix, below.
 ![Control Panel](https://images.drivereasy.com/wp-content/uploads/2018/10/Control-Panel.jpg)
 3. In the pop-up window, click**Change adapter settings** .  
 
+<!-- affiliate ads begin -->
+<span id="2135471">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Change adapter settings](https://images.drivereasy.com/wp-content/uploads/2018/10/Change-adapter-settings.jpg)
 4. **Right-click** your current network and then select **Properties** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![Ethernet properties](https://images.drivereasy.com/wp-content/uploads/2018/10/Ethernet-properties.jpg)
 5. Double-click**Internet Protocol Version 4(TCP/IPv4)**  to view its properties.  
@@ -237,6 +237,13 @@ See if you can log in or not. If not, try the next fix.
 1. On your keyboard, press**Ctrl** , **Shift** and **Esc** at the same time to open the **Task Manager** .
 2. **Right-click** the bandwidth hogging applications and then select **End task** .  
 ![Task Manager](https://images.drivereasy.com/wp-content/uploads/2018/10/Task-Manager.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Launch Fortnite to see if you can log in or not.
 
@@ -261,19 +268,19 @@ Launch Fortnite to see if you can log in or not.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-sure.techidaily.com/o-cost-enjoyable-9-festive-feasts-in-one-wholesome-film-series/"><u>[New] No Cost, Enjoyable 9 Festive Feasts in One Wholesome Film Series</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-cyberpunk-2077-fps-drops/"><u>[SOLVED] Cyberpunk 2077 FPS Drops</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-using-b-roll-to-enhance-cinematic-quality/"><u>[Updated] 2024 Approved Using B-Roll to Enhance Cinematic Quality</u></a></li>
-<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-revamping-your-tiktok-look-in-just-a-few-steps/"><u>[Updated] In 2024, Revamping Your TikTok Look in Just a Few Steps</u></a></li>
-<li><a href="https://win11.techidaily.com/convenient-routines-installing-app-shortcuts-in-desktop-menu/"><u>Convenient Routines: Installing App Shortcuts in Desktop Menu</u></a></li>
-<li><a href="https://win-blog.techidaily.com/diagnose-and-solve-left-4-dead-2-continuous-crashing-issues-covered/"><u>Diagnose & Solve: Left 4 Dead 2 Continuous Crashing Issues Covered!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722999472996-facing-a-dota-2-vac-ban-heres-how-you-can-fix-it-and-prevent-future-issues/"><u>Facing a Dota 2 VAC Ban ? Here's How You Can Fix It & Prevent Future Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-the-paladins-crash-issue-with-easy-steps-for-gamers-2024-edition/"><u>Fixing the Paladins Crash Issue with Easy Steps for Gamers - 2024 Edition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/getting-past-the-infinite-loading-screen-of-far-cry-5-expert-tips-and-tricks/"><u>Getting Past the Infinite Loading Screen of Far Cry 5: Expert Tips & Tricks</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/hassle-free-instructions-for-setting-up-windows-patches-and-upgrades/"><u>Hassle-Free Instructions for Setting up Windows Patches & Upgrades</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/speech-precision-unlock-with-a-set-of-twisters/"><u>Speech Precision: Unlock with a Set of Twisters</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-your-sennheiser-gaming-microphone-tips-and-solutions/"><u>Troubleshooting Your Sennheiser Gaming Microphone: Tips & Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-fixing-game-crashes-in-fallout-3-on-windows-11-pcs/"><u>Troubleshooting: Fixing Game Crashes in Fallout 3 on Windows 11 PCs</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/understanding-windows-11s-battery-status-report-a-comprehensive-guide/"><u>Understanding Windows 11'S Battery Status Report - A Comprehensive Guide</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-unlock-better-engagement-on-instagram-with-video-loops/"><u>[New] Unlock Better Engagement on Instagram With Video Loops</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-youtube-ad-free-watching-chromefirefoxandroidios-tutorial/"><u>[Updated] YouTube Ad-Free Watching Chrome/Firefox/Android/iOS Tutorial</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2023-fb-video-downloader-app-windows-macos-android-for-2024/"><u>2023 FB Video Downloader App - Windows, macOS, Android for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/constructing-coherent-cinematic-introductions/"><u>Constructing Coherent Cinematic Introductions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/converti-file-ogv-in-mp3-gratuitamente-online-con-movavi/"><u>Converti File OGV in MP3 Gratuitamente Online Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dvdmp4-movavi/"><u>DVD至MP4格式轉換完全指南 | Movavi節省時間的工具列表</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-newest-driver-for-your-hp-laserjet-pro-m404n-easily-online/"><u>Get the Newest Driver for Your HP LaserJet Pro M404n Easily Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-conversor-de-formatos-mxf-para-wav-online-movavi/"><u>Gratuito Conversor De Formatos MXF Para WAV Online - Movavi</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fake-the-location-to-get-around-the-mlb-blackouts-on-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>In 2024, Fake the Location to Get Around the MLB Blackouts on Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/key-insights-for-choosing-the-right-smart-tv-a-buyers-guide/"><u>Key Insights for Choosing the Right Smart TV - A Buyer's Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/logiciel-denregistrement-decran-pour-mac-trouvez-le-meilleur-achat/"><u>Logiciel D'enregistrement D’écran Pour Mac - Trouvez Le Meilleur Achat</u></a></li>
+<li><a href="https://win-blog.techidaily.com/los-mejores-programas-para-comprimir-videos-en-mac-guia-completa/"><u>Los Mejores Programas Para Comprimir Videos en Mac: Guía Completa</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transcode-mpeg-files-into-wmv-format-instantly-no-cost-with-easy-to-use-tools/"><u>Transcode MPEG Files Into WMV Format Instantly - No Cost with Easy-to-Use Tools</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/updated-adding-professional-titles-to-your-videos-with-final-cut-pro-x/"><u>Updated Adding Professional Titles to Your Videos with Final Cut Pro X</u></a></li>
 </ul></div>
 

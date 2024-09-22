@@ -1,7 +1,7 @@
 ---
 title: "Beat the Glitch: The Definitive Fix for Crashing Diablo 4 Games on All Consoles"
-date: 2024-09-12T23:13:11.111Z
-updated: 2024-09-16T22:33:17.058Z
+date: 2024-09-20T23:26:17.509Z
+updated: 2024-09-21T22:23:07.581Z
 tags:
   - win11
   - win10
@@ -137,10 +137,10 @@ In case you don’t know how, here’s the guidance:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
-  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148649/16836" target="_top" id="2148649">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148649" border="0" alt="https://techidaily.com" width="720" height="90"/>
 </a>
-<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148649/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### **Fix 2: Roll back your graphics card driver**
@@ -165,6 +165,13 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-218.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Restart your computer for the changes to take effect.
 
  Now run FIFA 20 and check whether your crashing problem still exists. If it does, then please proceed to the next fix.
@@ -178,19 +185,6 @@ In case you don’t know how, here’s the guidance:
  1) On your keyboard, press the **Windows logo key** and **I** at the same time to open the **Settings** window. Then click **Updates & Security** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-141.png)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
@@ -218,16 +212,16 @@ In case you don’t know how, here’s the guidance:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123478/16836" target="_top" id="2123478">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123478" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123478/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
 
@@ -244,10 +238,10 @@ In case you don’t know how, here’s the guidance:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-903.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the NVIDIA Control Panel window, click**Manage 3D settings** in the left pane. On the right panel, go to the**Program Settings** tab and click**Add** to select FIFA 20 (navigate to your game file and double-click it). Then, you can customize settings for FIFA 20 based on your liking. For example, you can set**Vertical sync** to**On** .
@@ -280,6 +274,13 @@ If you continue to face the crashing problem, please move on to Fix 6.
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
 
@@ -314,13 +315,6 @@ dism.exe /online /cleanup-image /restorehealth
  Wait for the process to complete. Then, reboot your computer, launch FIFA 20, and wait to see if it keeps crashing. If it does, try out Fix 7.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Close unnecessary programs
 
@@ -358,18 +352,18 @@ dism.exe /online /cleanup-image /restorehealth
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-decoding-youtube-income-how-much-does-each-1000-viewer-earn-for-2024/"><u>[New] Decoding YouTube Income How Much Does Each 1,000 Viewer Earn for 2024</u></a></li>
-<li><a href="https://extra-support.techidaily.com/updated-mastering-the-art-of-instagram-group-photography/"><u>[Updated] Mastering the Art of Instagram Group Photography</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-the-gamers-blueprint-securing-memorable-moments-with-4-methods/"><u>2024 Approved The Gamers' Blueprint Securing Memorable Moments with 4 Methods</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/alternatives-to-the-chatgpt-mobile-app-why-going-without-may-benefit-you/"><u>Alternatives to the ChatGPT Mobile App - Why Going Without May Benefit You</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhancing-gameplay-stability-the-resolution-of-lols-persistent-reconnect-loop-problem-in-the-2024-patch/"><u>Enhancing Gameplay Stability: The Resolution of LoL's Persistent Reconnect Loop Problem in the 2024 Patch</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-for-mass-effect-legendary-edition-failure-to-load/"><u>Fixes & Solutions for Mass Effect Legendary Edition Failure to Load</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ghostwire-tokyo-pc-performance-optimization-no-more-crashes/"><u>Ghostwire: Tokyo PC Performance Optimization - No More Crashes!</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-vivo-y28-5g-is-unlocked-by-drfone-android/"><u>How To Check if Your Vivo Y28 5G Is Unlocked</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-chasing-deals-on-vr-gear-in-china/"><u>In 2024, Chasing Deals on VR Gear in China</u></a></li>
-<li><a href="https://extra-support.techidaily.com/melodies-meet-graphics-adding-soundtracks-to-powerpoint-for-2024/"><u>Melodies Meet Graphics Adding Soundtracks to PowerPoint for 2024</u></a></li>
-<li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-learning-unique-ways-to-slow-down-time-lapse-on-iphone/"><u>New 2024 Approved Learning Unique Ways to Slow Down Time Lapse on iPhone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-cyberpunk-2077-game-crashes-on-pc-effective-strategies-revealed/"><u>Troubleshooting Cyberpunk 2077 Game Crashes on PC - Effective Strategies Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-stalled-2024-finals-step-by-step-guide-to-successful-launches/"><u>Troubleshooting Stalled 2024 Finals: Step-by-Step Guide to Successful Launches</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-in-2024-top-youtube-titles-crafted-by-ai/"><u>[New] In 2024, Top YouTube Titles Crafted by AI</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-navigating-picture-in-picture-features-in-firefox/"><u>[New] Navigating Picture-in-Picture Features in Firefox</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-exclusive-guide-the-best-4-ringtone-providers/"><u>[Updated] Exclusive Guide The Best 4 Ringtone Providers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-videos-to-webm-file-format-without-charge-with-movavis-online-tool/"><u>Convert Videos to Webm File Format Without Charge with Movavi's Online Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-facilement-vos-fichiers-mod-en-fichiers-mp4-gratuits-avec-movavi/"><u>Convertissez Facilement Vos Fichiers MOD en Fichiers MP4 Gratuits Avec Movavi</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/expert-advice-on-bypassing-the-barrier-liberate-your-ebooks-from-nooks-drm-today/"><u>Expert Advice on Bypassing the Barrier: Liberate Your Ebooks From Nook's DRM Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-change-your-audio-file-from-aac-to-mp4-with-movavi/"><u>Free Online Conversion: Change Your Audio File From AAC to MP4 with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-mp4-naar-3g2-bekeerbron-kunt-je-een-fijne-resultaat-behalen-via-movavi-online/"><u>Gratis MP4 Naar 3G2 Bekeerbron: Kunt Je Een Fijne Resultaat Behalen via Movavi Online!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-easily-update-and-download-sata-driver-software-on-windows-a-step-by-step-guide/"><u>How to Easily Update and Download SATA Driver Software on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-chronicles-that-captivate-top-youtube-storytelling-channels-2023/"><u>In 2024, Chronicles that Captivate Top YouTube Storytelling Channels 2023</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/macx-hd-video-converter-pro-advanced-windows-1nk-transcoding-software-for-seamless-m2ts-avchd-mkv-to-various-formats-ideal-for-iphoneipadandroidmicrosoft-de26/"><u>MacX HD Video Converter Pro: Advanced Windows (1Nk) Transcoding Software for Seamless M2TS, AVCHD, MKV to Various Formats - Ideal for iPhone/iPad/Android/Microsoft Device Playback & YouTube Downloads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/migracion-gratuita-de-archivos-mp4-a-formato-avi-sin-descargas-convertidor-en-linea-rapido/"><u>Migración Gratuita De Archivos MP4 a Formato AVI Sin Descargas - Convertidor en Línea Rápido</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-honor-90-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Honor 90? | Dr.fone</u></a></li>
 </ul></div>
 

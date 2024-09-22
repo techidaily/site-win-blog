@@ -1,7 +1,7 @@
 ---
 title: "Mastering Motorsports Gaming: Tips to Address and Rectify FPS Issues in the 2021 Formula One PC Game"
-date: 2024-09-13T07:28:22.999Z
-updated: 2024-09-17T06:50:44.195Z
+date: 2024-09-20T23:21:20.765Z
+updated: 2024-09-21T23:34:03.081Z
 tags:
   - win11
   - win10
@@ -72,13 +72,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Set the Power Plan of your PC for high performance
 
  On Windows OS, a power plan is a set of system and hardware settings to manage how your computer consumes and conserves power. Generally speaking, the higher the performance, the more power your computer consumes.
@@ -91,23 +84,23 @@ There are mainly two methods for you to update the graphics driver:
 ![run dialog - powercfg.cpl](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134501/19576" target="_top" id="2134501">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134501" border="0" alt="https://techidaily.com" width="640" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134501/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Forza Horizon 5 and check if you get a better PFS. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
 
@@ -148,14 +141,20 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Forza Horizon 5 to check if the in-game FPS increases. If not, move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Disable overlays
 
@@ -170,13 +169,20 @@ If the FPS in Forza Horizon 5 still drops, try the next fix, below.
 2. In the **GENERAL** section, Uncheck **Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you’re using other apps with overlay features, such as Discord, Nvidia GeForce Experience, Twitch, etc., make sure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
@@ -219,18 +225,18 @@ Run Forza Horizon 5 to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-professional-guide-ensuring-imovie-content-shines-on-vimeo/"><u>[New] Professional Guide Ensuring iMovie Content Shines on Vimeo</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/new-unlocking-instagrams-potential-elevating-content-impact-for-2024/"><u>[New] Unlocking Instagram's Potential Elevating Content Impact for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-converting-moments-into-art-gopro-studios-time-lapse-blueprint-for-2024/"><u>[Updated] Converting Moments Into Art GoPro Studio's Time Lapse Blueprint for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/classification-of-fb-video-sizes-for-2024/"><u>Classification of FB Video Sizes for 2024</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/cutting-edge-tools-for-todays-world-discover-live-translation-features-and-safe-cloud-memory-with-top-tier-smartwatches-insights-from-abbyy-experts/"><u>Cutting-Edge Tools for Today's World: Discover Live Translation Features and Safe Cloud Memory with Top-Tier Smartwatches - Insights From ABBYY Experts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-correctly-resolve-palworld-session-search-malfunctions/"><u>How to Correctly Resolve Palworld Session Search Malfunctions</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-recover-facetime-call-history-on-iphone-15-pro-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover FaceTime Call History on iPhone 15 Pro | Stellar</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-optimized-smoothing-out-lag-and-boosting-frames-per-second-fps/"><u>Red Dead Redemption 2 Optimized: Smoothing Out Lag and Boosting Frames Per Second (FPS)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-pacific-drive-error-and-regain-access-effective-strategies/"><u>Resolve Pacific Drive Error and Regain Access: Effective Strategies</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solutions-for-overcoming-ffx-xivs-update-check-errors/"><u>Solutions for Overcoming FFX XIV's Update Check Errors</u></a></li>
-<li><a href="https://win-forum.techidaily.com/step-by-step-tutorial-troubleshooting-and-solving-secure-internet-connectivity-problems-on-windows-pcs/"><u>Step-by-Step Tutorial: Troubleshooting & Solving Secure Internet Connectivity Problems on Windows PCs</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/top-8-ai-mobile-applications-you-must-install-on-androidios-devices/"><u>Top 8 AI Mobile Applications You Must Install on Android/iOS Devices</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-amplify-video-dynamics-a-guide-to-perfecting-jump-cutting/"><u>[Updated] Amplify Video Dynamics A Guide to Perfecting Jump Cutting</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-incremental-volume-easing-in-logic-pro-audio-workflows/"><u>2024 Approved Incremental Volume Easing in Logic Pro Audio Workflows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/como-transformar-audio-de-alaw-a-formato-wav-sin-coste-con-movavi/"><u>Cómo Transformar Audio De Alaw a Formato Wav Sin Coste Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-gratuite-dun-fichier-mp2-au-format-aac-sur-internet-movavi/"><u>Conversion Gratuite D'un Fichier MP2 Au Format AAC Sur Internet - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/converting-dts-files-to-wav-format-free-online-tool-by-movavi/"><u>Converting DTS Files to WAV Format Free - Online Tool by Movavi</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-infinix-hot-40-pro-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Infinix Hot 40 Pro to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-elite-vectors-top-10-online-image-havens/"><u>In 2024, Elite Vectors Top 10 Online Image Havens</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-latest-way-to-get-shiny-meltan-box-in-pokemon-go-mystery-box-on-vivo-y17s-drfone-by-drfone-virtual-android/"><u>In 2024, Latest way to get Shiny Meltan Box in Pokémon Go Mystery Box On Vivo Y17s | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-kostenlose-konvertierung-von-jpg-zu-jpeg-mit-movavis-webanwendung/"><u>Online Kostenlose Konvertierung Von JPG Zu JPEG Mit Movavi's Webanwendung</u></a></li>
+<li><a href="https://facebook.techidaily.com/social-success-equals-cash-income-for-digital-hubs/"><u>Social Success Equals Cash: Income for Digital Hubs</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-10-best-4k-mirrorless-cameras/"><u>Top 10 Best 4K Mirrorless Cameras</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transferir-mega-docs-tres-metodos-inovadores-para-enviar-arquivos-pesados-por-email/"><u>Transferir Mega Docs: Três Métodos Inovadores Para Enviar Arquivos Pesados Por Email</u></a></li>
+<li><a href="https://discover-great.techidaily.com/understanding-the-digiarty-software-xdvd-eulas-comprehensive-guide/"><u>Understanding the Digiarty Software - XDVD EULAs: Comprehensive Guide</u></a></li>
 </ul></div>
 

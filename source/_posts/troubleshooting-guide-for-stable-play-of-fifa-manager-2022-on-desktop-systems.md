@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Stable Play of FIFA Manager 2022 on Desktop Systems
-date: 2024-09-14T17:30:33.980Z
-updated: 2024-09-17T05:12:47.401Z
+date: 2024-09-20T19:09:44.924Z
+updated: 2024-09-21T22:52:44.798Z
 tags:
   - win11
   - win10
@@ -69,13 +69,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3 – Temporarily disable your antivirus
 
  Antivirus is known to interfere with Football Manager 2021 and your Steam or Epic game launcher. To see if that’s the case, you could disable the antivirus programs first. In case you don’t know how, below are some links for your reference.
@@ -89,6 +82,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -98,30 +98,10 @@ If this method doesn’t help, go ahead with the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
-
-<!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Set launch options
 
@@ -130,11 +110,32 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
+
+<!-- affiliate ads begin -->
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
@@ -163,18 +164,19 @@ So does the crash go away now? If not, there is the last fix to try.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-unlocking-android-video-brilliance-easy-procedures/"><u>[Updated] In 2024, Unlocking Android Video Brilliance - Easy Procedures</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-blackout-troubleshooting-top-tips-to-restore-your-game-visuals/"><u>Cyberpunk 2077 Blackout Troubleshooting – Top Tips to Restore Your Game Visuals</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-samsung-galaxy-f54-5g-device-sim-by-drfone-android/"><u>Easily Unlock Your Samsung Galaxy F54 5G Device SIM</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723004478968-expert-guide-to-overcoming-serious-sam-cuh-bilities-enhancing-pc-performance-and-stability/"><u>Expert Guide to Overcoming Serious Sam Cuh-Bilities – Enhancing PC Performance & Stability</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-honor-x50i-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Honor X50i to BlackBerry | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/live-radio-at-your-fingertips-an-easy-recording-guide/"><u>Live Radio at Your Fingertips An Easy Recording Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-crashes-in-multiversus-mastering-the-top-8-strategies-for-reliable-gaming/"><u>No More Crashes in MultiVersus: Mastering the Top 8 Strategies for Reliable Gaming</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-starting-problems-with-outriders-game-for-pc-users/"><u>Overcoming Starting Problems with Outriders Game for PC Users</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/remove-device-supervision-from-your-iphone-6s-by-drfone-ios/"><u>Remove Device Supervision From your iPhone 6s</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Google Pixel 7a | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-overcoming-black-screen-glitches-in-far-cry-6/"><u>Solution Guide: Overcoming Black Screen Glitches in Far Cry 6</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/stop-facebook-ad-popups-for-peaceful-browsing-for-2024/"><u>Stop Facebook Ad Popups for Peaceful Browsing for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/wrc-10-on-pc-overcome-crashing-problems-and-optimize-your-racing-experience-for-windows/"><u>WRC 10 on PC - Overcome Crashing Problems & Optimize Your Racing Experience for Windows</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-the-art-of-video-edits-easy-techniques-on-your-windows-pc-for-2024/"><u>[New] The Art of Video Edits Easy Techniques on Your Windows PC for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-rhythmcapture-toolkit-a-critical-walkthrough/"><u>[Updated] RhythmCapture Toolkit A Critical Walkthrough</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mov-mpeg-movavi/"><u>網路直接 MOV 到 MPEG 轉檔無成本解決方案 - 使用 Movavi 導航</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambiar-imagenes-de-formato-nef-a-jpg-sin-costo-con-convertidor-online-gratuito-de-movavi/"><u>Cambiar Imágenes De Formato NEF a JPG Sin Costo Con Convertidor Online Gratuito De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-illimitee-de-3g2-a-3gp-services-en-ligne-gratuites-de-movavi/"><u>Conversion Illimitée De .3G2 À .3Gp : Services en Ligne Gratuites De Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/edge-and-elegance-in-figure-skating/"><u>Edge and Elegance in Figure Skating</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-mp4-converter-mka-to-avi-with-moveavi/"><u>Free Online MP4 Converter - MKA to AVI with MoveAVI</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/how-to-record-your-games-with-diverse-software-solutions/"><u>How to Record Your Games with Diverse Software Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-videos-sequentially-for-free-youtube-guide-for-2024/"><u>Navigating Videos Sequentially for Free - YouTube Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-vrijetijdige-swf-naar-wav-vervangend-efficient-techniken-met-movavi/"><u>Online Vrijetijdige SWF Naar WAV Vervangend: Efficiënt Techniken Met Movavi</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/powerpoint-audio-repair-tips-addressing-and-resolving-soundplay-problems-in-your-slideshow/"><u>PowerPoint Audio Repair Tips: Addressing and Resolving Soundplay Problems in Your Slideshow</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/punpixel-digital-comedy-design-tool-for-2024/"><u>PunPixel Digital Comedy Design Tool for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/read-this-guide-to-find-a-reliable-alternative-to-fake-gps-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>Read This Guide to Find a Reliable Alternative to Fake GPS On Lava Yuva 2 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transform-gif-files-to-high-quality-jpgs-at-no-cost-on-movavis-web-service/"><u>Transform GIF Files to High-Quality JPGs at No Cost on Movavi's Web Service</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Overcome Common Issues with Discord Setup"
-date: 2024-09-15T18:59:17.722Z
-updated: 2024-09-17T04:47:10.711Z
+date: 2024-09-18T19:23:32.101Z
+updated: 2024-09-22T00:03:11.140Z
 tags:
   - win11
   - win10
@@ -65,6 +65,13 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 If it doesn’t work, move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Run Discord as administrator
 
  Some features may be blocked by the Windows system that causes problems. With high integrity access, the Discord can make full use of its features, won’t be blocked by other programs.  
@@ -76,13 +83,6 @@ If it doesn’t work, move to the next fix.
 
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
@@ -112,6 +112,13 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
@@ -120,15 +127,28 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 6) Relaunch the Discord and it should open.
@@ -144,13 +164,6 @@ If it doesn’t work, move to the next fix.
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
 
 **ipconfig /flushdns**
@@ -158,13 +171,6 @@ If it doesn’t work, move to the next fix.
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 5) Launch the Discord again. It should open.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137395/7443" target="_top" id="2137395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137395" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137395/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall the Discord
 
@@ -176,18 +182,18 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148772/18498" target="_top" id="2148772">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148772" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148772/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click Discord in the list and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Bonus: Update your driver
 
@@ -247,18 +253,16 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-leveraging-hdtv-for-fb-videos-playback/"><u>[New] 2024 Approved Leveraging HDTV for FB Videos Playback</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-blurry-to-sharp-mastering-vce-version-22/"><u>[New] From Blurry to Sharp Mastering VCE Version 2.2</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/new-from-raw-to-ready-adding-elegant-fades-in-premiere/"><u>[New] From Raw to Ready Adding Elegant Fades in Premiere</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-laughing-lineup-step-by-step-guide-to-funny-memes/"><u>2024 Approved Laughing Lineup Step-by-Step Guide to Funny Memes</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/3-solutions-to-hard-reset-motorola-moto-g84-5g-phone-using-pc-drfone-by-drfone-reset-android-reset-android/"><u>3 Solutions to Hard Reset Motorola Moto G84 5G Phone Using PC | Dr.fone</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/free-windows-screen-capture-top-5-applications-reviewed-for-2024/"><u>Free Windows Screen Capture Top 5 Applications Reviewed for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-resolve-jurassic-world-evolution-crashes-successfully/"><u>How to Prevent and Resolve Jurassic World Evolution Crashes Successfully</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/in-2024-a-guide-to-the-best-5-book-tt-examples/"><u>In 2024, A Guide to the Best 5 Book TT Examples</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-the-6-best-sim-unlock-services-that-actually-work-on-your-itel-p55-5g-device-by-drfone-android/"><u>In 2024, The 6 Best SIM Unlock Services That Actually Work On Your Itel P55 5G Device</u></a></li>
-<li><a href="https://youtube-video-recordings.techidaily.com/navigating-legal-pathways-for-gaining-a-million-youtube-views/"><u>Navigating Legal Pathways for Gaining a Million YouTube Views</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-stuttering-glitches-in-splitgate-for-a-smoother-gameplay-tips-to-fix-low-fps/"><u>Overcoming Stuttering Glitches in Splitgate for a Smoother Gameplay: Tips to Fix Low FPS</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-euro-truck-simulator-2-crashes-on-your-computer-with-ease/"><u>Resolving Euro Truck Simulator 2 Crashes on Your Computer with Ease</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-when-you-encounter-a-dark-display-with-epic-games-launcher/"><u>Solution Guide: When You Encounter a Dark Display with Epic Games Launcher</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-top-choices-pro-shake-free-cameras-for-video-streams/"><u>[New] 2024 Approved Top Choices Pro Shake-Free Cameras for Video Streams</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-art-of-video-marketing-titles-and-tags-on-youtube/"><u>[New] In 2024, The Art of Video Marketing Titles & Tags on YouTube</u></a></li>
+<li><a href="https://some-tips.techidaily.com/new-unveiling-the-best-a-compact-guide-to-2024s-top-10-lens-selections/"><u>[New] Unveiling the Best A Compact Guide to 2024'S Top 10 Lens Selections</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-dissecting-magixs-visual-archiving-system-for-2024/"><u>[Updated] Dissecting MAGIX's Visual Archiving System for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-speed-capturing-screens-with-sound/"><u>[Updated] Speed Capturing Screens With Sound</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-online-m4a-to-flac-omzetten-professioneel-en-gemakkelijk-met-movavi-audioshare/"><u>Gratis Online M4A-to-FLAC Omzetten - Professioneel en Gemakkelijk Met Movavi Audioshare</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-a-found-apple-iphone-12-mini-drfone-by-drfone-ios/"><u>In 2024, How To Unlock A Found Apple iPhone 12 mini? | Dr.fone</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/the-art-of-influencing-consumers-a-guide-to-profitable-tiktok-marketing/"><u>The Art of Influencing Consumers A Guide to Profitable TikTok Marketing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/torni-gratuiti-a-modificare-la-voce-in-settembre-2024-migliori-programmi-disponibili/"><u>Torni Gratuiti a Modificare La Voce in Settembre 2024: Migliori Programmi Disponibili</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-creating-stunning-slideshows-on-facebook-with-our-step-by-step-tutorial/"><u>Ultimate Guide: Creating Stunning Slideshows on Facebook with Our Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726224025085-aviwmv-movavi/"><u>ウェブムービーのためのフリーなオンラインAVIとWMVへの変換 - Movavi</u></a></li>
 </ul></div>
 

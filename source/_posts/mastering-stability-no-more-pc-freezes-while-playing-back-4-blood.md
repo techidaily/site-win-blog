@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: No More PC Freezes While Playing 'Back 4 Blood'"
-date: 2024-09-10T22:54:53.783Z
-updated: 2024-09-17T06:02:52.576Z
+date: 2024-09-17T19:03:58.230Z
+updated: 2024-09-21T16:43:30.461Z
 tags:
   - win11
   - win10
@@ -82,29 +82,44 @@ Once done, restart your game and see if it crashes again.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you can start Back 4 Blood and see if it crashes again. If it doesn’t, you can locate the trouble makers by repeating these steps and disabling half of the programs and services.
 
@@ -124,27 +139,7 @@ Here’s how you can check for updates manually:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
@@ -153,10 +148,10 @@ Here’s how you can check for updates manually:
  If your system is already the latest, simply move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Move game files to your Steam drive
@@ -171,13 +166,6 @@ Here’s how you can check for updates manually:
 
  If this method doesn’t work for you, you can try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Change in-game graphics settings
 
  There’re reports showing that**NVIDIA DLSS** might be the culprit of Back 4 Blood crashing. If you have this feature enabled, you can turn it off and see if the game stops crashing.
@@ -188,6 +176,13 @@ Here’s how:
 2. Navigate to the**GRAPHICS** tab. Set**Anti-Aliasing** to**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/b4b-disable-dlss.jpg)
 3. Now you can start a game in Back 4 Blood and see if it becomes stable.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -208,14 +203,20 @@ Here’s how:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://win-blog.techidaily.com/solved-escape-from-tarkov-keeps-crashing-on-pc/"><u>[SOLVED] Escape From Tarkov Keeps Crashing on PC</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-artisans-guide-to-blending-visuals-and-melodies-in-canvas-videos/"><u>[Updated] The Artisan's Guide to Blending Visuals & Melodies in Canvas Videos</u></a></li>
-<li><a href="https://techtrends.techidaily.com/how-to-effortlessly-connect-samsung-in-ear-headphones-with-a-laptop/"><u>How To Effortlessly Connect Samsung In-Ear Headphones With a Laptop</u></a></li>
-<li><a href="https://some-skills.techidaily.com/in-2024-the-richest-resource-of-zero-price-ae-templates/"><u>In 2024, The Richest Resource of Zero-Price AE Templates</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722984653771-oculus-link-wont-work-try-these-six-swift-fixes-now/"><u>Oculus Link Won’t Work? Try These Six Swift Fixes Now!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-warning-message-glitches-for-smooth-voice-chat-sessions-online/"><u>Overcoming 'Warning Message' Glitches for Smooth Voice Chat Sessions Online</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-oppo-reno-11-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Oppo Reno 11 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/sony-vegas-continuous-crashes-heres-what-you-can-do-to-stabilize-your-editing-experience/"><u>Sony Vegas Continuous Crashes? Here's What You Can Do to Stabilize Your Editing Experience</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/transforming-belief-into-binary-the-top-8-ways-artificial-intelligence-makes-fiction-a-reality/"><u>Transforming Belief Into Binary: The Top 8 Ways Artificial Intelligence Makes Fiction a Reality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-infiltrating-the-top-channels-in-youtube-space/"><u>[New] 2024 Approved Infiltrating the Top Channels in YouTube Space</u></a></li>
+<li><a href="https://win-blog.techidaily.com/oggflacmp3-movavi/"><u>無限制線上更改OGG成FLAC的MP3編解碼器 – 利用Movavi易於操作方法</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/a-guide-itel-a60-wireless-and-wired-screen-mirroring-drfone-by-drfone-android/"><u>A Guide Itel A60 Wireless and Wired Screen Mirroring | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/achieve-the-perfect-selfie-with-top-8-gear/"><u>Achieve the Perfect Selfie with Top 8 Gear</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-sharefake-location-on-whatsapp-for-motorola-edge-40-pro-drfone-by-drfone-virtual-android/"><u>How to Share/Fake Location on WhatsApp for Motorola Edge 40 Pro | Dr.fone</u></a></li>
+<li><a href="https://media-tips.techidaily.com/how-to-transform-your-mp3-audio-into-mp4-video-for-free-using-web-tools-windows-and-mac-compatible/"><u>How to Transform Your MP3 Audio Into MP4 Video for Free Using Web Tools: Windows and Mac Compatible</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-streaming-success-stories-of-gaming-geeks/"><u>In 2024, Streaming Success Stories of Gaming Geeks</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/in-depth-evaluation-of-the-new-amazon-kindle-paperwhite-7th-edition-perfect-portable-library/"><u>In-Depth Evaluation of the New Amazon Kindle Paperwhite 7Th Edition: Perfect Portable Library</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/mastering-driver-updates-how-to-get-the-latest-acer-aspire-windows-compatible-software/"><u>Mastering Driver Updates: How to Get the Latest Acer Aspire Windows Compatible Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-arw-to-jpeg-converter-quick-and-no-cost-solutions-from-movavi/"><u>Online ARW-to-JPEG Converter: Quick and No Cost Solutions From Movavi</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spotlight-on-professionals-the-cutting-edge-soundtracked-photovideo-artists/"><u>Spotlight on Professionals The Cutting-Edge, Soundtracked Photo/Video Artists</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforme-seus-filmes-do-mp4-para-wmv-eficientemente-usando-a-ferramenta-de-conversao-movavi/"><u>Transforme Seus Filmes Do MP4 Para WMV Eficientemente Usando a Ferramenta De Conversão Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vrijwelgratis-omzetting-van-swf-bestandjes-de-beste-oplossingen-voor-online-converters/"><u>Vrijwelgratis Omzetting Van Swf-Bestandjes: De Beste Oplossingen Voor Online Converters</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gif-3-2024/"><u>무료 서비스로 사이버 유명한 GIF을 생성하는 3가지 전문가 추천 - 2024년 고급 혁신</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp4-mp3/"><u>온라인 무료 MP4 갤럼 MP3로 전환 - 모바이비</u></a></li>
 </ul></div>
 

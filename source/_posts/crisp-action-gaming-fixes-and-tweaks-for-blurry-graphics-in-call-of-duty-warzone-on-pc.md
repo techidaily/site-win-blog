@@ -1,7 +1,7 @@
 ---
 title: "Crisp Action Gaming: Fixes and Tweaks for Blurry Graphics in Call of Duty: Warzone on PC"
-date: 2024-09-16T07:47:51.648Z
-updated: 2024-09-16T18:49:08.155Z
+date: 2024-09-16T02:42:59.622Z
+updated: 2024-09-21T23:59:06.486Z
 tags:
   - win11
   - win10
@@ -90,10 +90,10 @@ OR
  If this method doesn’t resolve the issue, you can restore the changes with the backup.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Change the in-game settings
@@ -116,42 +116,29 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-03.jpg)
 3. Set**View by Category** . Click**Uninstall the program** .  
 
-<!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-43-17.jpg)
 4. Find MW and Battle.net. Right-click on it and click**Unistall/Change** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115933/19272" target="_top" id="2115933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115933" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-20_18-44-15.jpg)
 5. Follow the on-screen instructions to uninstall the software.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 6. Delete all the files.
 7. Go to the Warzone Pacific official website and download the game. Install it step-by-step.
 8. Relaunch the game.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925473/19272" target="_top" id="1925473">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925473" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925473/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Repair system files
 
@@ -167,6 +154,13 @@ If it fixes the issue then slowly increase your graphics settings.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -190,14 +184,19 @@ If it fixes the issue then slowly increase your graphics settings.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-your-snap-chronicles-await-over-120-ideas-to-craft-personal-and-distinctive-story-titles/"><u>[New] Your Snap Chronicles Await Over 120 Ideas to Craft Personal and Distinctive Story Titles</u></a></li>
-<li><a href="https://visual-screen-recording.techidaily.com/updated-calendar-integration-for-efficient-google-meets/"><u>[Updated] Calendar Integration for Efficient Google Meets</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/2024-approved-starting-your-own-platform-a-guide-to-critiquing-home-essentials/"><u>2024 Approved Starting Your Own Platform A Guide to Critiquing Home Essentials</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/clear-and-crisp-restoring-iphone-camera-functionality-when-focusing-falters/"><u>Clear and Crisp: Restoring iPhone Camera Functionality When Focusing Falters</u></a></li>
-<li><a href="https://extra-information.techidaily.com/guidance-to-creating-a-3d-text-art-effect-in-adobe-illustrator/"><u>Guidance to Creating a 3D Text Art Effect in Adobe Illustrator</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-streets-like-a-dragon-yakuzas-ultimate-pc-adventure/"><u>Mastering the Streets Like a Dragon: Yakuza's Ultimate PC Adventure</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcome-arma-3-freezing-and-crashing-top-strategies-for-stable-gameplay/"><u>Overcome Arma 3 Freezing & Crashing: Top Strategies for Stable Gameplay</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/say-goodbye-to-itunes-explore-the-best-ways-to-synchronize-your-ios-devices-on-catalina/"><u>Say Goodbye to iTunes: Explore the Best Ways to Synchronize Your iOS Devices on Catalina</u></a></li>
-<li><a href="https://win-blog.techidaily.com/warzone-loading-issue-how-to-restore-missing-visual-elements-in-game/"><u>Warzone Loading Issue – How to Restore Missing Visual Elements In-Game</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-navigating-the-auditory-waves-of-iphones-podcast-streaming/"><u>[Updated] Navigating the Auditory Waves of iPhone's Podcast Streaming</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/efficiently-produce-high-volume-content-with-canva-and-gpt-for-creative-professionals/"><u>Efficiently Produce High Volume Content with Canva & GPT for Creative Professionals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-audio-converter-mp3-aac-wma-and-more-convert-m4a-to-ogg/"><u>Free Online Audio Converter: MP3, AAC, WMA & More - Convert M4A to Ogg</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grabacion-de-video-sin-costo-al-convertir-archivos-wma-a-formatos-mov-utilizando-servicios-en-linea-guia-paso-a-paso/"><u>Grabación De Video Sin Costo Al Convertir Archivos WMA a Formatos MOV Utilizando Servicios en Línea: Guía Paso a Paso</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/how-to-go-live-on-instagram/"><u>How to Go Live on Instagram</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-motorola-moto-g24-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Motorola Moto G24 Back to Operation | Dr.fone</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/how-to-transfer-data-from-apple-iphone-7-plus-to-zte-phones-drfone-by-drfone-transfer-from-ios/"><u>How to Transfer Data from Apple iPhone 7 Plus to ZTE Phones | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/latest-brother-scanner-and-printer-software-updates-for-microsoft-windows-systems/"><u>Latest Brother Scanner & Printer Software Updates for Microsoft Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pbm-bestand-omzetten-gratis-ondersteuning-van-movavi-en-veiligheid-gevarieerd/"><u>PBM Bestand Omzetten Gratis: Ondersteuning Van Movavi en Veiligheid Gevarieerd</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-oppo-reno-8t-5g-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Oppo Reno 8T 5G Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-samsung-galaxy-s23-ultra-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Samsung Galaxy S23 Ultra Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tolerance-for-ambiguity-within-an-organizations-culture-allows-it-to-adapt-and-pursue-new-ideas-effectively/"><u>Tolerance for Ambiguity Within an Organization's Culture Allows It to Adapt and Pursue New Ideas Effectively.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-i-tuoi-file-webm-in-video-wmv-online-gratis-con-il-servizio-di-conversione-fastwmv-movavi/"><u>Trasforma I Tuoi File Webm in Video WMV Online Gratis Con Il Servizio Di Conversione FastWmv - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mpewav-movavi/"><u>オーディオコンバーター: MPEからWAVへ無料オンラインチェンジャー - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crash-Free Playthrough: Overcoming Technical Hurdles for 'Age of Wonders: Planetfall' On Personal Computers"
-date: 2024-09-13T23:07:46.489Z
-updated: 2024-09-17T06:38:30.935Z
+date: 2024-09-17T00:02:00.174Z
+updated: 2024-09-22T02:06:31.065Z
 tags:
   - win11
   - win10
@@ -68,13 +68,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121334/18498" target="_top" id="2121334">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121334" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121334/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Remove incompatible software
 
  Norton anti-virus software is known to cause issues with Minecraft. It can be a little too protective and will block things you donâ€™t want to block even when youâ€™ve disabled it. You can install the software or replace it to avoid bumping into the same problem.
@@ -130,19 +123,6 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1983471">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Run Minecraft as administrator
 
  Minecraft may not be able to utilize all the resources because of restricted access. So you need to run Minecraft as an administrator to see if this fixes your issue.
@@ -153,13 +133,34 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Run Minecraft again to see if this works.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -181,35 +182,22 @@ The infinite world in Minecraft is waiting for you to explore, but you just canâ
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993654">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993654.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993654">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993654.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993654%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993654/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Right-click the**.minecraft** folder and select**Delete** to make sure youâ€™ve deleted the related files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/remove-minecraft-1.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  4) After uninstalling, restart your computer. Go to the[**official Minecraft website**](https://www.minecraft.net/en-us/) to download and install Minecraft again.
 
@@ -239,16 +227,17 @@ Feel free to leave us a comment if you have any questions or suggestions.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-auditory-anatomy-understanding-video-audio-for-ig-feeds/"><u>[New] In 2024, Auditory Anatomy Understanding Video Audio for IG Feeds</u></a></li>
-<li><a href="https://article-files.techidaily.com/updated-designer-jokes-kapwings-visual-hilarity-suite-for-2024/"><u>[Updated] Designer Jokes Kapwing's Visual Hilarity Suite for 2024</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/crafting-clicks-top-tags-for-gamers-content-for-2024/"><u>Crafting Clicks Top Tags for Gamers' Content for 2024</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/easily-set-up-a-distinctive-email-closing-in-godaddys-webmail-platform-a-comprehensive-tutorial/"><u>Easily Set Up a Distinctive Email Closing in GoDaddy's Webmail Platform â€“ A Comprehensive Tutorial</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/effortless-guide-setting-up-your-ps4-remote-play-on-android-devices-in-just-three-simple-steps/"><u>Effortless Guide: Setting Up Your PS4 Remote Play on Android Devices in Just Three Simple Steps</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-persistent-launcher-crashes-in-everscape-2-pc-edition/"><u>Expert Tips for Fixing Persistent Launcher Crashes in Everscape 2 PC Edition</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-fix-it-oppo-k11-5g-wont-turn-on-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix It Oppo K11 5G Wont Turn On | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-rapidly-resolve-your-slowing-down-google-chrome-issues/"><u>How to Rapidly Resolve Your Slowing Down Google Chrome Issues</u></a></li>
-<li><a href="https://fix-guide.techidaily.com/how-to-restore-a-bricked-oppo-k11x-back-to-operation-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How To Restore a Bricked Oppo K11x Back to Operation | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-overcome-nba-2k23-pc-crashes-with-these-7-effective-solutions/"><u>Solved: Overcome NBA 2K23 PC Crashes with These 7 Effective Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-common-issues-with-qbittorrent-lagging-performance/"><u>Troubleshooting Common Issues with qBittorrent Lagging Performance</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-time-is-money-learn-to-slash-youtube-video-durations/"><u>[Updated] Time Is Money - Learn to Slash YouTube Video Durations</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/detailed-app-analysis-the-ultimate-az-recorder-guide/"><u>Detailed App Analysis - The Ultimate AZ Recorder Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gekonvertreerd-mp2-naar-wav-file-gratis-online-movavi/"><u>Gekonvertreerd MP2 Naar WAV-File - Gratis Online - Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/groundbreaking-screenplays-in-8-movie-categories/"><u>Groundbreaking Screenplays in 8 Movie Categories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-pratique-comment-graver-des-disques-optiques-avec-des-logiciels-professionnels/"><u>Guide Pratique - Comment Graver Des Disques Optiques Avec Des Logiciels Professionnels</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-does-life360-notify-when-you-log-out-on-tecno-phantom-v-fold-drfone-by-drfone-virtual-android/"><u>In 2024, Does Life360 Notify When You Log Out On Tecno Phantom V Fold? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-solved-move-from-vivo-y27-4g-to-ios-not-working-problems-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Solved Move from Vivo Y27 4G to iOS not Working Problems | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/iphone-saving-insta-pics-and-videos-for-2024/"><u>IPhone Saving Insta Pics and Videos for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/movavis-free-web-service-convert-your-3gp-files-to-swf-format-instantly/"><u>Movavi's Free Web Service: Convert Your 3GP Files to Swf Format Instantly</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/playstation-4-gaming-tips-for-effective-in-game-video-capturing-techniques/"><u>PlayStation 4 Gaming: Tips for Effective In-Game Video Capturing Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rodrigo-alves-prolific-author-at-movavi/"><u>Rodrigo Alves - Prolific Author at Movavi</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/showdown-among-bots-evaluating-originality-and-creativity-in-response-to-the-same-prompt/"><u>Showdown Among Bots: Evaluating Originality and Creativity in Response to the Same Prompt</u></a></li>
 </ul></div>
 

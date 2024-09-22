@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Perpetual Load: How to Overcome Being Trapped at the Minecraft Boot Screen"
-date: 2024-09-10T06:40:50.657Z
-updated: 2024-09-16T20:28:23.273Z
+date: 2024-09-15T21:38:00.291Z
+updated: 2024-09-22T00:19:26.499Z
 tags:
   - win11
   - win10
@@ -106,6 +106,13 @@ Here’s how to do it:
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -138,13 +145,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
  That’s a no go for you? Don’t worry. There are other fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Solution 4: Turn off Origin In-Game Overlay
 
  Sometimes the in-game overlays can result in game crashing as it may cause software conflicts. To rule it out as the cause, you can turn off Origin In-Game Overlay and see it you can fix your issue.
@@ -155,13 +155,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-208.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click the**Origin In-Game** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
@@ -171,10 +164,10 @@ Now launch Anthem on your computer, and your game should be loading.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-210.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959778/19272" target="_top" id="1959778">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959778" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959778/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart Origin and Anthem to see how it works.
@@ -197,15 +190,22 @@ Here’s what you need to do:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-863.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Re-launch your game and see if how it works.
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006914/19272" target="_top" id="2006914">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006914" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006914/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Solution 6: Change your graphics settings
@@ -225,10 +225,16 @@ Here’s what you need to do:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-929.png)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 4) Save your changes.
@@ -255,19 +261,14 @@ Re-launch Anthem and see how it works.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-android-and-iphones-leading-tools-for-enhanced-fb-likes/"><u>[New] 2024 Approved Android & iPhone's Leading Tools for Enhanced FB Likes</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/new-cutting-through-content-clutter-youtube-shorts-essentials/"><u>[New] Cutting Through Content Clutter YouTube Shorts Essentials</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/n-2024-spark-sponsorships-a-guide-to-easy-fundraising-for-budget-channels/"><u>[New] In 2024, Spark Sponsorships A Guide to Easy Fundraising for Budget Channels</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/new-masterful-tantalizing-titles-designer/"><u>[New] Masterful Tantalizing Titles Designer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-nvidia-geforce-overlay-not-working/"><u>[SOLVED] NVIDIA GeForce Overlay Not Working</u></a></li>
-<li><a href="https://win-blog.techidaily.com/avoid-pc-freezes-during-training-resolve-the-last-epoch-issue/"><u>Avoid PC Freezes During Training: Resolve the Last Epoch Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-fix-guide-understanding-and-rectifying-security-violation-in-games/"><u>Expert Fix Guide: Understanding and Rectifying 'Security Violation in Games'</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-to-overcoming-no-match-found-in-pc-call-of-duty-warzone-games/"><u>Expert Guide to Overcoming 'No Match Found' In PC Call of Duty Warzone Games</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/in-2024-how-to-build-your-own-4k-video-editing-pc/"><u>In 2024, How To Build Your Own 4K Video Editing PC</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/optimize-your-brand-presence-on-youtube-with-video-embellishments-for-2024/"><u>Optimize Your Brand Presence on YouTube with Video Embellishments for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/revamp-your-downloads-key-steps-for-faster-origins-in-the-new-decade-of-gaming-2n24/"><u>Revamp Your Downloads: Key Steps for Faster Origins in the New Decade of Gaming (2N24)</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-limitations-of-artificial-intelligence-in-identifying-duplicate-contents/"><u>The Limitations of Artificial Intelligence in Identifying Duplicate Contents</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/top-7-tech-choices-prepping-for-the-metaverse-frontier/"><u>Top 7 Tech Choices Prepping for the Metaverse Frontier</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/top-virtualdub-replacements-for-video-editing-for-2024/"><u>Top VirtualDub Replacements for Video Editing for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-custom-youtube-video-speed-control-desktopmobile-for-2024/"><u>[Updated] Custom YouTube Video Speed Control (Desktop/Mobile) for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-the-role-of-extras-in-creating-dynamic-storytelling/"><u>[Updated] The Role of Extras in Creating Dynamic Storytelling</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1-convert-mp3-audio-files-to-mov-format-for-free-effortless-online-tools-by-movavi/"><u>1. Convert MP3 Audio Files to MOV Format for Free - Effortless Online Tools by Movavi</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-the-instagram-image-addition-playbook/"><u>2024 Approved The Instagram Image Addition Playbook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-de-fichiers-rmvb-vers-formats-video-le-service-gratuit-de-movavi/"><u>Conversion De Fichiers RMVB Vers Formats Vidéo : Le Service Gratuit De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-konverteren-van-vob-naar-m2ts-online-movavi/"><u>Gratuit Konverteren Van VOB Naar M2TS Online - Movavi</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/24-creating-a-multimedia-guide-adding-videos-to-text-articles/"><u>In 2024, Creating a Multimedia Guide Adding Videos to Text Articles</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-nokia-105-classic-by-fonelab-android-recover-data/"><u>Recover lost data from Nokia 105 Classic</u></a></li>
+<li><a href="https://win-blog.techidaily.com/snabbt-fa-10-rabatt-med-movavi-rabattkuponger-din-passion-for-fotografi-blir-mer-gynnsam-starta-ditt-fotografi-projekt-med-var-lonekod/"><u>Snabbt Få 10% Rabatt Med Movavi Rabattkuponger: Din Passion För Fotografi Blir Mer Gynnsam - Starta Ditt Fotografi Projekt Med Vår Lönekod</u></a></li>
 </ul></div>
 

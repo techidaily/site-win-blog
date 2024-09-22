@@ -1,7 +1,7 @@
 ---
 title: "Fix: Why Is Cyberpunk 2077 Ignoring My Graphics Card on Windows 10?"
-date: 2024-09-15T19:18:44.420Z
-updated: 2024-09-17T03:19:56.289Z
+date: 2024-09-16T19:03:34.838Z
+updated: 2024-09-21T16:53:12.028Z
 tags:
   - win11
   - win10
@@ -78,10 +78,10 @@ To do so, first visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
@@ -94,30 +94,24 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068439/7443" target="_top" id="2068439">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068439" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068439/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
  If this trick doesn’t solve your problem, you can continue to the next one.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -128,6 +122,14 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075472/7443" target="_top" id="2075472">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075472/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
@@ -153,21 +155,21 @@ And it’s quite easy to check for updates:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-best-practices-for-designing-an-engaging-youtube-teaser/"><u>[Updated] In 2024, Best Practices for Designing an Engaging YouTube Teaser</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-tailor-your-insta-experience-no-more-suggestions/"><u>[Updated] Tailor Your Insta Experience No More Suggestions</u></a></li>
-<li><a href="https://fake-location.techidaily.com/apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>Apply These Techniques to Improve How to Detect Fake GPS Location On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-blackout-troubleshooting-top-tips-to-restore-your-game-visuals/"><u>Cyberpunk 2077 Blackout Troubleshooting – Top Tips to Restore Your Game Visuals</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/discovering-hidden-secrets-access-and-display-hidden-files-in-macos-via-terminal/"><u>Discovering Hidden Secrets: Access and Display Hidden Files in macOS via Terminal</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/forgot-pattern-lock-heres-how-you-can-unlock-xiaomi-redmi-13c-pattern-lock-screen-by-drfone-android/"><u>Forgot Pattern Lock? Heres How You Can Unlock Xiaomi Redmi 13C Pattern Lock Screen</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/gptzero-guide-detecting-synthetic-text-with-ease/"><u>GPTZero Guide: Detecting Synthetic Text with Ease</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-poco-c65-phone-that-is-locked-by-drfone-android/"><u>How to Reset a Poco C65 Phone that is Locked?</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-infinix-smart-7-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Infinix Smart 7 to iPad | Dr.fone</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/in-2024-srgb-advantages-over-regular-rgb/"><u>In 2024, Srgb Advantages Over Regular Rgb</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-crashes-in-multiversus-mastering-the-top-8-strategies-for-reliable-gaming/"><u>No More Crashes in MultiVersus: Mastering the Top 8 Strategies for Reliable Gaming</u></a></li>
-<li><a href="https://win-blog.techidaily.com/no-more-freezes-resolving-tribes-of-midgard-stability-problems/"><u>No More Freezes - Resolving 'Tribes of Midgard' Stability Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-your-pc-reducing-new-worlds-cpu-consumption/"><u>Optimizing Your PC: Reducing 'New World's CPU Consumption</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-starting-problems-with-outriders-game-for-pc-users/"><u>Overcoming Starting Problems with Outriders Game for PC Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-get-your-utorrent-running-again-with-7-key-fixes/"><u>Troubleshooting: How To Get Your Utorrent Running Again With 7 Key Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/wrc-10-on-pc-overcome-crashing-problems-and-optimize-your-racing-experience-for-windows/"><u>WRC 10 on PC - Overcome Crashing Problems & Optimize Your Racing Experience for Windows</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-nine-powerful-windows-apps-for-seamless-animated-gif-recording/"><u>[New] Nine Powerful Windows Apps For Seamless Animated GIF Recording</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-obscure-watching-methods-5-unique-stories-apps/"><u>[New] Obscure Watching Methods 5 Unique Stories Apps</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1725289146566-avchd-ts-mov-avi-wmv-flv/"><u>動画を自在に変換する方法講座 - AVCHD, Ts, MOV, AVI, WMV, FLVの手引き!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726223783106-vobflac-movavi/"><u>免费在线VOB与FLAC之间无界限转换-便捷方式：Movavi</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/automate-peaceful-slumber-for-your-w11-gadgets-at-rest/"><u>Automate Peaceful Slumber for Your W11 Gadgets at Rest</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambia-archivos-de-audio-iff-a-formato-aac-de-forma-gratuita-guia-paso-a-paso-con-movavi/"><u>Cambia Archivos De Audio IFF a Formato AAC De Forma Gratuita: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-music-files-at-no-cost-mpgmpeg-to-mp4-online-via-movavi/"><u>Convert Music Files at No Cost: MPG/MPEG to MP4 Online via Movavi</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-oppo-find-x7-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Oppo Find X7 to Other Android devices | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/here-are-some-of-the-best-pokemon-discord-servers-to-join-on-vivo-y200-drfone-by-drfone-virtual-android/"><u>Here are Some of the Best Pokemon Discord Servers to Join On Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-itel-a60-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Itel A60 to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/masterclass-em-fotografia-digital-desbravando-o-mundo-dos-efeitos-visuais-e-filtros-para-fotos-perfeitas/"><u>Masterclass Em Fotografia Digital - Desbravando O Mundo Dos Efeitos Visuais E Filtros Para Fotos Perfeitas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavim4bwavmp3/"><u>Movaviで手っ取り早く無料のオンラインM4BからWAVまたはMP3への変換</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-m4a-to-aiff-file-converter-convert-your-podcasts-and-tracks-at-no-cost-using-movavis-service/"><u>Online M4A-to-AIFF File Converter - Convert Your Podcasts and Tracks at No Cost Using Movavi's Service</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-listings-for-3d-type-creation/"><u>Ultimate Listings for 3D Type Creation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ts-flv-movavid/"><u>오피스에서 원자비로 TS 영상을 FLV로 전환 - MovaVid</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pef-movavi/"><u>웹 상호 작용 토대로 PEF 변환 기술 - Movavi</u></a></li>
 </ul></div>
 

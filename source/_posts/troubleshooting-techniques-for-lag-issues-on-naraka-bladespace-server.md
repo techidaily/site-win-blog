@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Techniques for Lag Issues on Naraka Bladespace Server
-date: 2024-09-13T03:40:17.148Z
-updated: 2024-09-17T03:08:20.786Z
+date: 2024-09-16T16:42:51.966Z
+updated: 2024-09-21T21:23:26.414Z
 tags:
   - win11
   - win10
@@ -90,13 +90,6 @@ Here’s how:
 
  If updating your graphics driver doesn’t solve your problem, you can take a look at the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 4: Perform a clean boot
 
  According to some users, conflicted programs could be triggering the constant crashes. You should be extra careful if you have system tuning software on your PC (e.g.**Razer Synapse** or**MSI Afterburner** ). To check if that’s your case, you can do a clean boot:
@@ -110,23 +103,17 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 
-<!-- affiliate ads begin -->
-<span id="2135472">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once done, restart Genshin and see if it crashes again. If not, repeat these steps but disable half of the services to root out the offenders.
 
@@ -145,6 +132,13 @@ Here’s how you can install system updates on Windows 10 or 7:
 2. Click**Check for updates** . It might take up to an hour for Windows to download and install available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click**Check for updates** again.
 
 #### Windows 7
@@ -153,13 +147,6 @@ Here’s how you can install system updates on Windows 10 or 7:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates.jpg)
 2. Select**System and Security** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118324/7443" target="_top" id="2118324">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118324" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118324/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-3.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-4.jpg)
@@ -167,9 +154,23 @@ Here’s how you can install system updates on Windows 10 or 7:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/windows-7-install-updates-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After installing all the system updates, restart your PC and test the gameplay with Genshin Impact.
 
  If this method doesn’t solve your case, simply check out the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Change in-game resolution
 
@@ -192,13 +193,6 @@ And here’s how:
 And just for your reference, here’s my graphics settings:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/genshin-my-settings-1200x648.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135475/26400" target="_top" id="2135475">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135475/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the crash persists when you’re playing on the lowest graphics, you can check out the next solution.
 
@@ -223,19 +217,6 @@ And just for your reference, here’s my graphics settings:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-3.jpg)
 4. Click**Options** .  
 
-<!-- affiliate ads begin -->
-<span id="1834903">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-4.jpg)
 5. Select**Power saving** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-5.jpg)
@@ -252,6 +233,14 @@ Now you can launch Genshin Impact and see if it stops crashing.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -275,20 +264,17 @@ Now you can launch Genshin Impact and see if it stops crashing.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/arryminati-unmasked-the-monetary-milestones/"><u>[New] CarryMinati Unmasked The Monetary Milestones</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-tweet-tales-the-story-behind-the-viral-videos/"><u>[New] Tweet Tales The Story Behind the Viral Videos</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/2024-approved-master-obs-on-macos-download-setup-and-get-to-work/"><u>2024 Approved Master OBS on macOS Download, Setup & Get to Work</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-twitter-mastery-adding-visuals-to-your-tweet/"><u>2024 Approved Twitter Mastery Adding Visuals to Your Tweet</u></a></li>
-<li><a href="https://win-blog.techidaily.com/a-comprehensive-guide-for-fixing-relink-not-launching-glitch-in-granblue-fantasy-game/"><u>A Comprehensive Guide for Fixing 'Relink Not Launching' Glitch in Granblue Fantasy Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/borderlands-problems-step-by-step-solutions-for-b3-game-freezes-and-stutters/"><u>Borderlands # Problems?: Step-by-Step Solutions for B3 Game Freezes and Stutters</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/convertissez-votre-video-mpe-en-gif-gratuit-en-ligne-rapidement-grace-a-movavi-solution-de-conversion-avancee/"><u>Convertissez Votre Vidéo MPE en GIF Gratuit en Ligne Rapidement Grâce À Movavi - Solution De Conversion Avancée</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/discover-how-artificial-intelligence-benefits-educators-top-8-compelling-motivations/"><u>Discover How Artificial Intelligence Benefits Educators: Top 8 Compelling Motivations</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/elevate-your-instagram-videos-size-and-quality-insights-for-2024/"><u>Elevate Your Instagram Videos Size and Quality Insights for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-why-is-cyberpunk-2077-ignoring-my-graphics-card-on-windows-10/"><u>Fix: Why Is Cyberpunk 2077 Ignoring My Graphics Card on Windows 10?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-smooth-gameplay-in-fall-guys-strategies-to-maximize-fps-and-minimize-lag/"><u>Get Smooth Gameplay in Fall Guys: Strategies to Maximize FPS and Minimize Lag</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-and-resolve-ue4-engine-issues-in-back-4-blood/"><u>How to Troubleshoot and Resolve UE4 Engine Issues in Back 4 Blood</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-infinix-note-30-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Infinix Note 30 | Dr.fone</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/mastering-durecorder-complete-breakdown-for-2024/"><u>Mastering DuRecorder Complete Breakdown for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/revamped-visual-stability-for-overwatch-say-goodbye-to-driver-related-hiccups/"><u>Revamped Visual Stability for Overwatch - Say Goodbye to Driver-Related Hiccups</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-essential-techniques-for-enhanced-youtube-long-form-videos/"><u>[New] In 2024, Essential Techniques for Enhanced YouTube Long-Form Videos</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-temporary-hold-recording-assistance/"><u>[Updated] 2024 Approved Temporary Hold Recording Assistance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp2-wav-movavi/"><u>完全無料のオンラインMP2 WAV音楽ファイル変換ツール - Movavi</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypass-the-pause-tackling-and-troubleshooting-microsoft-flight-simulator-2020s-update-deadlock/"><u>Bypass the Pause: Tackling and Troubleshooting Microsoft Flight Simulator 2020'S Update Deadlock</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/elevating-earning-strategies-for-snapchat-influencers/"><u>Elevating Earning Strategies for Snapchat Influencers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hoogtepunten-aanpassen-de-beste-5-tips-om-het-schermvermogen-van-uw-mac-te-maximaliseren-movavi/"><u>Hoogtepunten Aanpassen: De Beste 5 Tips Om Het Schermvermogen Van Uw Mac Te Maximaliseren – Movavi</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-perfect-for-broadcasters-top-360-cameras-listed/"><u>In 2024, Perfect for Broadcasters Top 360° Cameras Listed</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-tecno-spark-10-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Tecno Spark 10 Pro | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-the-top-rated-free-video-creation-software-for-2024/"><u>New The Top-Rated Free Video Creation Software for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/no-cost-nature-inspired-screen-images/"><u>No-Cost, Nature Inspired Screen Images</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/prevent-unwanted-recordings-quit-time-tricks/"><u>Prevent Unwanted Recordings Quit Time Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/scaricare-il-programma-di-editing-video-ottimizzato-per-google-movavi/"><u>Scaricare Il Programma Di Editing Vidéo Ottimizzato per Google: Movavi</u></a></li>
 </ul></div>
 

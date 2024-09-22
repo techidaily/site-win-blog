@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Preventing Persistent Crashes in Age of Empires II Definitive Edition"
-date: 2024-09-16T03:51:14.867Z
-updated: 2024-09-16T19:42:15.073Z
+date: 2024-09-16T22:31:46.992Z
+updated: 2024-09-21T18:56:41.017Z
 tags:
   - win11
   - win10
@@ -76,6 +76,13 @@ Here’s how:
 
 If this method doesn’t help, you can take a look at the next one.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -103,13 +110,6 @@ If this method doesn’t help, you can take a look at the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115919/19272" target="_top" id="2115919">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115919" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115919/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
@@ -129,10 +129,16 @@ And here’s how you can make sure your system is the latest:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -158,15 +164,18 @@ And here’s how you can make sure your system is the latest:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vp-tips.techidaily.com/updated-in-2024-top-editors-for-virtual-backgrounds-spectrumswitch-studio/"><u>[Updated] In 2024, Top Editors for Virtual Backgrounds SpectrumSwitch Studio</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-mastering-screen-capture-for-google-meet-talks/"><u>[Updated] Mastering Screen Capture for GooGle Meet Talks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crash-free-playthrough-overcoming-technical-hurdles-for-age-of-wonders-planetfall-on-personal-computers/"><u>Crash-Free Playthrough: Overcoming Technical Hurdles for 'Age of Wonders: Planetfall' On Personal Computers</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/digiarty-software-leader-di-soluzioni-all-in-one-per-la-riproduzione-e-convertimento-dei-file-multimediali/"><u>Digiarty Software: Leader Di Soluzioni All-in-One per La Riproduzione E Convertimento Dei File Multimediali</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimize-and-enhance-performance-say-goodbye-to-sf6-pc-freezing-2023-solutions/"><u>Optimize & Enhance Performance: Say Goodbye to SF6 PC Freezing (2023 Solutions)</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/spherical-videos-on-the-go-iphones-social-media-blueprint/"><u>Spherical Videos on the Go IPhone's Social Media Blueprint</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/the-best-tools-for-supercharging-your-browsers-ai-talking-power/"><u>The Best Tools for Supercharging Your Browsers' AI Talking Power</u></a></li>
-<li><a href="https://win-answers.techidaily.com/the-long-wait-continues-understanding-the-delay-of-diablo-immortal-on-pc/"><u>The Long Wait Continues: Understanding the Delay of Diablo Immortal on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-mordhau-crash-issues-with-our-expert-tips/"><u>Troubleshoot Mordhau Crash Issues with Our Expert Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-the-relink-failed-issue-in-granblue-fantasy/"><u>Troubleshooting Guide: Resolving the 'Relink Failed' Issue in Granblue Fantasy</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-versatile-tips-for-avoiding-vr-motion-sickness/"><u>[New] In 2024, Versatile Tips for Avoiding VR Motion Sickness</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-exploring-iphoneutility-mirror-photo-mastery-tips/"><u>[Updated] In 2024, Exploring iPhone'utility Mirror Photo Mastery Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-master-the-art-of-visual-storytelling-with-top-text-techniques/"><u>[Updated] Master the Art of Visual Storytelling with Top Text Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-streamlining-your-way-through-youtubes-comment-forum/"><u>2024 Approved Streamlining Your Way Through YouTube's Comment Forum</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cafm4amovavi/"><u>無限制在網路中CAF到M4A轉換：經Movavi技術支持的變更指南</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beste-windowssoftwares-voor-diavorstbeeld-generatoren-depervendige-voorkeurvolle-markten-van-202/"><u>Beste Windowssoftwares Voor Diavorstbeeld Generatoren - Depervendige Voorkeurvolle Markten Van 202</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-failed-directx-file-downloads-on-pcs/"><u>Fixing Failed DirectX File Downloads on PCs</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-redo-on-windows-with-a-hotkey/"><u>How to Redo on Windows With a Hotkey</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/reasons-why-pokemon-gps-does-not-work-on-oppo-a79-5g-drfone-by-drfone-virtual-android/"><u>Reasons why Pokémon GPS does not Work On Oppo A79 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/the-art-of-haul-videography-pre-and-post-editing-processes-for-2024/"><u>The Art of Haul Videography Pre and Post Editing Processes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-12-photo-viewer-apps-compared-best-choices-for-windows-11-and-macos/"><u>Top 12 Photo Viewer Apps Compared: Best Choices for Windows 11 & macOS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformez-facilement-votre-audiovideo-m4a-en-wmv-sans-frais-utilisez-loutil-de-conversion-en-ligne-de-movavi/"><u>Transformez Facilement Votre Audio/Vidéo M4A en WMV Sans Frais - Utilisez L'outil De Conversion en Ligne De Movavi</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/virtual-lookout-assessing-mobile-apps/"><u>Virtual Lookout Assessing Mobile Apps</u></a></li>
 </ul></div>
 

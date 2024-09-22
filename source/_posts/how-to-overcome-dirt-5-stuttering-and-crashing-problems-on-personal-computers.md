@@ -1,7 +1,7 @@
 ---
 title: How to Overcome Dirt 5 Stuttering and Crashing Problems on Personal Computers
-date: 2024-09-13T07:17:04.290Z
-updated: 2024-09-17T03:35:49.807Z
+date: 2024-09-18T23:00:42.092Z
+updated: 2024-09-21T23:11:25.522Z
 tags:
   - win11
   - win10
@@ -94,13 +94,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 2: Run the game as an administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run the game, you should give this fix a try.
@@ -110,10 +103,16 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983473">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983473.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983473">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983473.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983473%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983473/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
@@ -125,6 +124,19 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the integrity of game files
 
@@ -169,10 +181,10 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115947/19272" target="_top" id="2115947">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115947" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) After the verification is finished, relaunch Star Wars Jedi and see if your problem goes away.
@@ -191,16 +203,16 @@ To completely shut down a program:
 
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115914/19272" target="_top" id="2115914">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115914" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115914/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
+
+<!-- affiliate ads begin -->
+<a href="https://versadesk.pxf.io/c/5597632/1815679/21290" target="_top" id="1815679">
+  <img src="//a.impactradius-go.com/display-ad/21290-1815679" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://versadesk.pxf.io/i/5597632/1815679/21290" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
@@ -224,18 +236,18 @@ To completely shut down a program:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 6: Wait for more updates
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1958378/18409" target="_top" id="1958378">
+  <img src="//a.impactradius-go.com/display-ad/18409-1958378" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1958378/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Extra Info:**Unreal Engine crashes**
 
@@ -268,20 +280,14 @@ To completely shut down a program:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-techniques.techidaily.com/2024-approved-expert-tips-control-your-volume-with-precision-on-lumafusion/"><u>2024 Approved Expert Tips Control Your Volume with Precision on Lumafusion</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/approved-speed-masterclass-turning-images-into-attention-grabbing-youtube-thumbnails/"><u>2024 Approved Speed Masterclass Turning Images Into Attention-Grabbing YouTube Thumbnails</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/2024-approved-the-social-image-hoarders-manual-a-guide-to-downloading-and-keeping-gif-images/"><u>2024 Approved The Social Image Hoarder's Manual A Guide to Downloading and Keeping GIF Images</u></a></li>
-<li><a href="https://discover-guides.techidaily.com/comment-transformer-en-complementaire-gratuit-de-h264-a-h265-pour-une-diminution-despace-sans-compromettre-la-qualite/"><u>Comment Transformer en Complémentaire Gratuit - De H.264 À H.265 Pour Une Diminution D'Espace Sans Compromettre La Qualité</u></a></li>
-<li><a href="https://win-blog.techidaily.com/crusader-kings-iii-update-fixes-previous-pc-compatibility-issues/"><u>Crusader Kings III Update Fixes Previous PC Compatibility Issues</u></a></li>
-<li><a href="https://extra-information.techidaily.com/develop-meme-art-in-adobe-suite/"><u>Develop Meme Art in Adobe Suite</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994518622-dying-light-performance-problem-fixed-no-more-lags/"><u>Dying Light Performance Problem Fixed - No More Lags</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-and-techniques-to-correct-severe-malfunctions-in-ark-software/"><u>Expert Tips and Techniques to Correct Severe Malfunctions in ARK Software</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-hearthstone-from-crashing-on-your-computer-solution-found/"><u>How to Stop Hearthstone From Crashing on Your Computer (Solution Found)</u></a></li>
-<li><a href="https://fox-http.techidaily.com/in-2024-efficient-color-grading-in-ar-understanding-and-downloading-luts/"><u>In 2024, Efficient Color Grading in AR Understanding and Downloading LUTs</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/asing-youtube-views-through-consistency-in-creative-commons-compliance/"><u>Increasing YouTube Views Through Consistency in Creative Commons Compliance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/persona-cuidar-de-los-problemas-del-juego-guia-completa-y-soluciones/"><u>Persona Cuidar De Los Problemas Del Juego - Guía Completa Y Soluciones</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-solution-for-fixing-nioh-2-game-crashes-on-any-pc/"><u>Ultimate Solution for Fixing Nioh 2 Game Crashes on Any PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unveiling-the-mystery-how-to-correctly-troubleshoot-minecraft-exit-code-0-error/"><u>Unveiling the Mystery: How to Correctly Troubleshoot Minecraft Exit Code -0 Error</u></a></li>
-<li><a href="https://video-content-creator.techidaily.com/updated-the-ultimate-list-10-best-animated-text-generators-for-stunning-results-for-2024/"><u>Updated The Ultimate List 10 Best Animated Text Generators for Stunning Results for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-innovative-igtv-editor-apps-for-creative-vertical-content/"><u>[New] 2024 Approved Innovative IGTV Editor Apps for Creative Vertical Content</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-pinnacle-performance-comparison-hero5-black-and-hero4-silver/"><u>[New] In 2024, Pinnacle Performance Comparison Hero5 Black and Hero4 Silver</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-20-timeless-anime-themes-making-a-mark-on-tiktok/"><u>[Updated] In 2024, 20 Timeless Anime Themes Making a Mark on TikTok</u></a></li>
+<li><a href="https://win-blog.techidaily.com/alterando-o-plano-de-fundo-da-sua-imagem-tecnicas-simples-e-gratuitas/"><u>Alterando O Plano De Fundo Da Sua Imagem: Técnicas Simples E Gratuitas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-recommendations-leading-mac-screencasters-in-2eby-50/"><u>Expert Recommendations: Leading Mac Screencasters in 2Eby = $50</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-secrets-to-surpassing-the-top-in-youtube-fame/"><u>In 2024, Secrets to Surpassing the Top in YouTube Fame</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-the-worlds-top-16-complimentary-subtitle-creation-applications/"><u>The Ultimate Guide to the World's Top 16 Complimentary Subtitle Creation Applications</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transform-audio-files-free-of-charge-change-ogg-format-to-webm-using-moveavees-tool/"><u>Transform Audio Files Free of Charge - Change OGG Format to WebM Using Moveavee's Tool</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-when-your-astro-a50-is-undetected-by-the-command-centre/"><u>Troubleshooting Steps When Your Astro A50 Is Undetected by the Command Centre</u></a></li>
 </ul></div>
 

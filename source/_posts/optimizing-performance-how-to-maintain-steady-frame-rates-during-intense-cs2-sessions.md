@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Performance: How to Maintain Steady Frame Rates During Intense CS2 Sessions"
-date: 2024-09-10T01:16:12.216Z
-updated: 2024-09-17T01:22:28.976Z
+date: 2024-09-18T23:16:36.348Z
+updated: 2024-09-21T23:19:43.379Z
 tags:
   - win11
   - win10
@@ -79,10 +79,10 @@ Now you test the gameplay in Valorant and check for improvements.
  If this trick doesn’t do the trick for you, simply try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -113,6 +113,13 @@ To do so, first visit the website of your GPU manufacturer:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your graphics driver, restart your PC and check if Valorant stutters again.
@@ -133,6 +140,13 @@ If the latest driver doesn’t help you, check out the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/valorant-low-settings.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Empty Standby Memory
 
 This method may require a basic level of computer knowledge.
@@ -142,13 +156,6 @@ This method may require a basic level of computer knowledge.
 1. On your keyboard, press**Ctrl+Shift+Esc** together to open**Task Manager** . Navigate to the**Performance** tab, click**Open Resource Monitor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-1.jpg)
 2. In Resource Monitor, navigate to the**Memory** tab. In the**Physical Memory** section, you’ll see the current memory usage. Check if**Standby Memory** is taking up too much of your total RAM.![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-resources-monitor-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 3. You can empty the standby memory manually.  
 
@@ -177,47 +184,35 @@ This method may require a basic level of computer knowledge.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-5.jpg)
 8. Click**OK** .  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151872/7443" target="_top" id="2151872">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151872" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151872/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-6-2.jpg)
 9. Navigate to the**Actions** tab, click**New…** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-7.jpg)
 10. Browse and select the**EmptyStandbyList.exe** program. Click**OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-8.jpg)
 11. Then navigate to the**Triggers** tab, click**New..** ..  
-
-<!-- affiliate ads begin -->
-<span id="1982457">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Under the**Advanced settings** , set**Repeat task** to**every 10 minutes** . Set**for a duration of** to**Indefinitely** .  
  Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-9.jpg)
 12. After finishing the setup, you can select**Task Scheduler Library** in the left pane to view the pending tasks.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/2014854/22899" target="_top" id="2014854">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014854" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014854/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-scheduler-empty-standby-memory-10.jpg)
 
 ---
 
@@ -240,19 +235,16 @@ This method may require a basic level of computer knowledge.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-docs.techidaily.com/024-approved-add-visual-appeal-with-these-methods-for-yt-video-inclusion-in-ppt/"><u>[New] 2024 Approved Add Visual Appeal with These Methods for YT Video Inclusion in PPT</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/new-streamline-your-content-twitter-video-integration/"><u>[New] Streamline Your Content Twitter Video Integration</u></a></li>
-<li><a href="https://fox-http.techidaily.com/updated-2024-approved-multimedia-artists-cyber-meeting-room/"><u>[Updated] 2024 Approved Multimedia Artists' Cyber Meeting Room</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-from-ordinary-to-outstanding-mastering-instagram-editing-skills/"><u>[Updated] In 2024, From Ordinary to Outstanding Mastering Instagram Editing Skills</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-quick-strategies-for-randomizing-youtube-tracks-across-media-for-2024/"><u>[Updated] Quick Strategies for Randomizing YouTube Tracks Across Media for 2024</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-galaxy-z-fold-5-has-native-mkv-support-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Does Galaxy Z Fold 5 has native MKV support?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dota-2-frame-rate-optimization-successfully-implemented-for-windows-11-and-10-users/"><u>Dota 2 Frame Rate Optimization Successfully Implemented for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhanced-gaming-experience-with-smoothed-out-gta-5-performance-fixes/"><u>Enhanced Gaming Experience with Smoothed Out GTA 5 Performance Fixes</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/expert-solutions-for-non-working-mic-on-steelseries-arctis-1-gaming-headphones/"><u>Expert Solutions for Non-Working Mic on SteelSeries Arctis 1 Gaming Headphones</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-persistent-crashes-in-age-of-empires-iv-a-comprehensive-guide/"><u>Fixing Persistent Crashes in Age of Empires IV: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-your-destiny-2-beyond-light-pc-installation-issues-a-complete-guide/"><u>Fixing Your Destiny 2 Beyond Light PC Installation Issues – A Complete Guide</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/how-to-remove-apple-iphone-11-sim-lock-by-drfone-ios/"><u>How to Remove Apple iPhone 11 SIM Lock?</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-remove-google-frp-lock-on-tecno-camon-20-premier-5g-by-drfone-android-unlock-remove-google-frp/"><u>How to remove Google FRP Lock on Tecno Camon 20 Premier 5G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-resolving-window-freezes-in-chrome-for-windows-10-users/"><u>Quick Fixes: Resolving Window Freezes in Chrome for Windows 10 Users</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-history-enthusiasts-guide-to-inspiring-youtube-channels-for-2024/"><u>[Updated] History Enthusiasts' Guide to Inspiring YouTube Channels for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-gratuite-de-fichiers-3gp-en-videos-mkv-en-ligne-une-solution-facile-avec-movavi/"><u>Conversion Gratuite De Fichiers 3GP en Vidéos MKV en Ligne : Une Solution Facile Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-webm-en-mp4-konvertor-zelfs-onderlinge-online-luchtvaart/"><u>Efficiënt WebM en MP4 Konvertor: Zelfs Onderlinge Online Luchtvaart</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/explore-our-selection-of-favorite-digital-journals-the-ultimate-list/"><u>Explore Our Selection of Favorite Digital Journals: The Ultimate List</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-12-pro-max-asking-for-passcode-after-ios-1714-update-what-to-do-by-drfone-ios/"><u>In 2024, iPhone 12 Pro Max Asking for Passcode after iOS 17/14 Update, What to Do?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016255772-logitech-g230-headset-mic-issues-heres-how-to-get-it-working-again/"><u>Logitech G230 Headset Mic Issues? Here's How to Get It Working Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-free-web-tool-convert-wmaem-audio-to-high-quality-aac-file-download-now/"><u>Movavi's Free Web Tool: Convert WMA/Em Audio to High-Quality AAC File - Download Now!</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-ultimate-list-of-iphone-selfie-perks-8-for-2024/"><u>The Ultimate List of IPhone Selfie Perks #8 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforma-tu-foto-bmp-en-formato-jpeg-sin-costo-con-movavis-herramienta-de-conversion-gratuita/"><u>Transforma Tu Foto BMP en Formato JPEG Sin Costo Con Movavi's Herramienta De Conversión Gratuita</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-hide-or-highlight-best-video-blur-apps-for-mobile-phones-for-2024/"><u>Updated Hide or Highlight Best Video Blur Apps for Mobile Phones for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pcxpngmovavi/"><u>オンラインで手軽にフリーPCX画像からPNGへの変換！Movavi</u></a></li>
 </ul></div>
 

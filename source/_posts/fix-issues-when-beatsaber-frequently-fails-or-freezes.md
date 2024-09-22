@@ -1,7 +1,7 @@
 ---
 title: Fix Issues When Beatsaber Frequently Fails or Freezes
-date: 2024-09-16T06:59:40.346Z
-updated: 2024-09-16T23:20:09.954Z
+date: 2024-09-14T17:56:17.996Z
+updated: 2024-09-22T01:28:00.890Z
 tags:
   - win11
   - win10
@@ -87,6 +87,13 @@ Overloading is one of the most common causes of game crashing issues.
 
 If the problem persists, try fix 3, below.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  Game issues, such as game crashing, lagging, and low FPS, may occur when you’re using an incompatible graphics driver. Try updating your graphics driver to the latest version to see if it fixes your issue.
@@ -150,19 +157,6 @@ Here is how to do it:
 
  You should now be able to launch your game and play it! If your problem still exists, try the fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 5: Set Launch Options
 
  Game crash issues might happen when you set your PC’s power plan to Balanced, and your PC slows down itself to save energy. To check if that’s the problem for you:
@@ -203,19 +197,6 @@ Here is how to do it:
 
 If not, try the solution below.
 
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 7: Run TF2 in compatibility mode
 
  Sometimes, Windows updates may not be compatible with Team Fortress 2, causing it to stop working. If you’ve updated your computer recently, try running your game in compatibility mode to see if it fixes your issue.
@@ -242,13 +223,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-16-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **6)** Relaunch your game to check if your issue had been resolved.
 
  If you still get the error code in Windows 8 mode, repeat **steps 1 – 3**  and try running the game on**Windows 7**  mode.
@@ -256,10 +230,10 @@ Here is how to do it:
  If your game still crashes under the compatibility mode, check the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134230/18498" target="_top" id="2134230">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134230" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134230/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 9: Reinstall Team Fortress 2 and/or Steam
@@ -277,19 +251,6 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-18-38.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **3)**  Right-click**Team Fortress 2**  and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-18-45.jpg)
@@ -304,9 +265,23 @@ Here is how to do it:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-18.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925565/19272" target="_top" id="1925565">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925565" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925565/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-19-29.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the **Windows logo** key and**R** at the same time.
 
@@ -319,6 +294,13 @@ Here is how to do it:
 **5)** Under**View by** , select**Category** , then click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_17-13-14.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886019/19272" target="_top" id="1886019">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886019/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)**  Right-click **Steam** , then**Uninstall** .
 
@@ -359,12 +341,21 @@ Here is how to do it:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-a-tutorial-for-adding-vintage-touches-instagram-filters-on-existing-media/"><u>2024 Approved A Tutorial for Adding Vintage Touches Instagram Filters on Existing Media</u></a></li>
-<li><a href="https://article-tips.techidaily.com/2024-approved-mastering-podcast-cover-art-top-decoding-strategies/"><u>2024 Approved Mastering Podcast Cover Art Top Decoding Strategies</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/best-source-to-get-dell-network-adapter-driver-for-win7-operating-system/"><u>Best Source to Get Dell Network Adapter Driver for Win7 Operating System</u></a></li>
-<li><a href="https://games-able.techidaily.com/mmx-200-review-superior-sounds-with-room-for-growth/"><u>MMX 200 Review: Superior Sounds with Room for Growth</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-madden-nfl-22-stuck-load-screen-issue/"><u>Resolving Madden NFL 22 Stuck Load Screen Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/shadowplay-not-capturing-gameplay-solving-the-problem-for-windows-users/"><u>Shadowplay Not Capturing Gameplay? Solving the Problem for Windows Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-battlenet-not-opening-issue-comprehensive-troubleshooting-steps/"><u>Solving the 'Battle.net Not Opening' Issue: Comprehensive Troubleshooting Steps</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-most-reliable-and-affordable-passport-photo-makers-ranked/"><u>[New] In 2024, The Most Reliable and Affordable Passport Photo Makers Ranked</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-professional-selfies-elevating-your-online-presence-for-2024/"><u>[Updated] Professional Selfies Elevating Your Online Presence for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-revolutionizing-fun-vr-applications-unveiled/"><u>[Updated] Revolutionizing Fun VR Applications Unveiled</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-the-ultimate-guide-to-efficient-mac-screenshotting-via-keyboard/"><u>[Updated] The Ultimate Guide to Efficient Mac Screenshotting via Keyboard</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-sharing-tiktok-on-twitter-quickly/"><u>2024 Approved Sharing TikTok on Twitter Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/moviemaker-video-convertisseur-cles-dacces-gratuites/"><u>無條件下載 MovieMaker Vidéo Convertisseur - Clés D'accès Gratuites</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambia-video-su-ipad-con-il-piu-efficiente-convertitore-di-filmati-della-movavi/"><u>Cambia Video Su iPad Con Il Più Efficiente Convertitore Di Filmati Della Movavi</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-compelling-podcast-intro-videos-for-2024/"><u>Crafting Compelling Podcast Intro Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grabacion-y-conversion-de-archivos-mxf-a-formato-wmv-sin-costo-guia-completa-con-movavi/"><u>Grabación Y Conversión De Archivos MXF a Formato WMV Sin Costo: Guía Completa Con Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-network-locked-sony-xperia-1-v-phone-by-drfone-android/"><u>How to Unlock a Network Locked Sony Xperia 1 V Phone?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mise-en-ligne-sans-frais-convertir-des-images-gif-en-tiff-rapidement-avec-movavi-instructions-detaillees/"><u>Mise en Ligne Sans Frais: Convertir Des Images GIF en TIFF Rapidement Avec Movavi - Instructions Détaillées</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-converter-explained-unraveling-the-distinctions-between-avchd-and-mp4-video-types/"><u>Movavi Converter Explained: Unraveling the Distinctions Between AVCHD and MP4 Video Types</u></a></li>
+<li><a href="https://win-blog.techidaily.com/oppna-dig-for-fotovisare-ladda-ner-av-bilder-med-windows-and-mac-stodjavningar/"><u>Öppna Dig För Fotovisare - Ladda Ner Av Bilder Med Windows & Mac-Stödjävningar</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/showcase-spectacatives-the-best-ice-artistry-22-for-2024/"><u>Showcase Spectacatives The Best Ice Artistry '22 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transfert-gratuit-dun-fichier-ogm-vers-avi-sur-internet-convertissez-avec-e-ease-grace-a-movavi/"><u>Transfert Gratuit D'un Fichier OGM Vers AVI Sur Internet - Convertissez Avec E Ease Grâce À Movavi</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/twitters-favorites-top-10-tiktok-vids-for-2024/"><u>Twitter's Favorites Top 10 TikTok Vids for 2024</u></a></li>
 </ul></div>
 

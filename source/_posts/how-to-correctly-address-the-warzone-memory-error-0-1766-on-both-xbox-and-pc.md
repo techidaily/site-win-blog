@@ -1,7 +1,7 @@
 ---
 title: How To Correctly Address the Warzone Memory Error 0-1766 on Both Xbox & PC
-date: 2024-09-10T00:08:11.028Z
-updated: 2024-09-16T18:31:58.137Z
+date: 2024-09-15T22:23:13.082Z
+updated: 2024-09-21T18:40:08.805Z
 tags:
   - win11
   - win10
@@ -84,16 +84,10 @@ Now you can start Mass Effect and test the improvements.
  If disabling overlays doesn’t help, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
@@ -106,16 +100,16 @@ Here’s how to disable VSync with NVIDIA graphics card:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
 
 Now you can launch Mass Effect and check if it crashes again.
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137972/21526" target="_top" id="2137972">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137972" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137972/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Disable extra peripherals at launch (Xbox)
 
@@ -130,10 +124,10 @@ Now you can launch Mass Effect and check if it crashes again.
 4. Once you’re on the startup screen of your game, turn on and connect your wireless headset.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137394/7443" target="_top" id="2137394">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137394" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -155,20 +149,18 @@ Now you can launch Mass Effect and check if it crashes again.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/updated-projection-vs-television-best-device-for-immersive-4k-content/"><u>[Updated] Projection vs Television Best Device for Immersive 4K Content</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-unlocking-efficiency-how-to-document-your-google-collaborations-for-2024/"><u>[Updated] Unlocking Efficiency How to Document Your GooGle Collaborations for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/2024-ultimate-tips-to-prevent-and-solve-game-crashes-in-blizzards-reforged-version/"><u>2024 Ultimate Tips to Prevent and Solve Game Crashes in Blizzard's Reforged Version</u></a></li>
-<li><a href="https://win-blog.techidaily.com/deal-with-low-memory-issues-a-complete-guide-to-playing-god-of-war-seamlessly/"><u>Deal with Low Memory Issues: A Complete Guide to Playing God of War Seamlessly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/eliminate-launch-glitches-in-genshin-impact-with-these-5-simple-tweaks/"><u>Eliminate Launch Glitches in Genshin Impact with These 5 Simple Tweaks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhance-horizon-zero-dawn-gaming-experience-tips-to-improve-fps-and-boost-gameplay/"><u>Enhance Horizon Zero Dawn Gaming Experience: Tips to Improve FPS & Boost Gameplay</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/guide-to-mirror-your-vivo-v27e-to-other-android-devices-drfone-by-drfone-android/"><u>Guide to Mirror Your Vivo V27e to Other Android devices | Dr.fone</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-delete-icloud-account-with-or-without-password-from-your-iphone-6s-pluswindowsmac-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account with or without Password from your iPhone 6s Plus/Windows/Mac</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-infinix-zero-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Infinix Zero 30 5G | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-realme-12-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Realme 12 Pro 5G</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-black-screen-problems-in-magic-the-gathering-arena/"><u>Resolved! Fixes for Black Screen Problems in Magic: The Gathering Arena</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-crashing-problems-in-oxygen-a-comprehensive-guide/"><u>Resolving 'Crashing' Problems in Oxygen - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-guide-preventing-persistent-crashes-in-age-of-empires-ii-definitive-edition/"><u>Solution Guide: Preventing Persistent Crashes in Age of Empires II Definitive Edition</u></a></li>
-<li><a href="https://win11.techidaily.com/strategies-to-overcome-microsoft-store-crash-0x80073d26/"><u>Strategies to Overcome Microsoft Store Crash: 0X80073D26</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/the-ultimate-walkthrough-on-linking-your-samsung-universal-clicker-and-tv-set/"><u>The Ultimate Walkthrough on Linking Your Samsung Universal Clicker and TV Set</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-recruitment-powerhouses-top-ten-shorts/"><u>[Updated] Recruitment Powerhouses - Top Ten Shorts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-elite-selection-top-9-free-youtube-channel-branding-apps/"><u>2024 Approved Elite Selection Top 9 Free YouTube Channel Branding Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-impact-of-luts-on-professional-photography/"><u>2024 Approved The Impact of LUTs on Professional Photography</u></a></li>
+<li><a href="https://win-blog.techidaily.com/choosing-the-right-video-resume-creator-a-comparison-of-the-best-6-platforms/"><u>Choosing the Right Video Resume Creator: A Comparison of the Best 6 Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-activation-tips-for-movavi-tools-in-windows-environments/"><u>Easy Activation Tips for Movavi Tools in Windows Environments</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/how-to-modify-the-timeout-timer-on-windows-10s-lock-screen/"><u>How to Modify the Timeout Timer on Windows 10'S Lock Screen</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-poco-f5-pro-5g-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Poco F5 Pro 5G to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-google-pixel-8-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Google Pixel 8? | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/konvertieren-von-midi-dateien-in-waveform-fur-windows-10-kostenlos-mit-open-source-tools/"><u>Konvertieren Von Midi-Dateien in Waveform (Für Windows 10) Kostenlos Mit Open Source Tools</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximizing-productivity-leverage-chatgpt-for-effective-time-control-methods/"><u>Maximizing Productivity: Leverage ChatGPT for Effective Time Control Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-online-free-converter-transformar-videos-avi-en-mp4-sin-costo-alguno/"><u>Movavi Online Free Converter: Transformar Vídeos AVI en MP4 Sin Costo Alguno</u></a></li>
+<li><a href="https://win-blog.techidaily.com/surekli-ucretsiz-webm-ve-mp4-filmleri-donusturme-yapmayi-zamaninda-kolayca-calismak-konusunda/"><u>Sürekli Ücretsiz Webm Ve MP4 Filmleri Dönüştürme Yapmayı Zamanında Kolayca Çalışmak Konusunda</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-genesis-of-ai-charting-its-historic-evolution-over-time/"><u>The Genesis of AI - Charting Its Historic Evolution Over Time</u></a></li>
 </ul></div>
 

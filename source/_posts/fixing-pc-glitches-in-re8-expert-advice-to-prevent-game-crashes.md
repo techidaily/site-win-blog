@@ -1,7 +1,7 @@
 ---
 title: "Fixing PC Glitches in RE8: Expert Advice to Prevent Game Crashes"
-date: 2024-09-15T01:14:47.821Z
-updated: 2024-09-17T05:14:26.874Z
+date: 2024-09-14T21:46:13.788Z
+updated: 2024-09-21T17:54:46.299Z
 tags:
   - win11
   - win10
@@ -85,31 +85,17 @@ OR
 2. From the**Basic** tab, set the**Time range** to**All time** , and select all the checkboxes below.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd6c593c29.jpg)
 3. From the**Advanced** tab, set the**Time range** to**All time** . Select **Browsing history** ,**Cookies and other site data** ,**Cache images and files** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd72498d93.jpg)
 4. Click**Clear data** .
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134218/18498" target="_top" id="2134218">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134218" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134218/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 5. When the data is cleared, type**chrome://restart** in the URL bar then press**Enter** to restart Chrome and check if the problem is resolved. If not, try Fix 4, below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebd79e829e0.png)
@@ -124,17 +110,24 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc3f96a48a.png)
 2. **Toggle off** all extensions to disable them.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130530/26400" target="_top" id="2130530">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130530/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebc40d4679a.jpg)
 3. Restart Chrome and test if it works properly. If not, move on to Fix 5, below.
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/863035/11832" target="_top" id="863035">
+  <img src="//a.impactradius-go.com/display-ad/11832-863035" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/863035/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset Chrome settings to default
 
@@ -152,16 +145,16 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<span id="1982462">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 6: Disconnect and reconnect your Internet
@@ -171,6 +164,14 @@ OR
 1. You can simply click the**Network icon** on the taskbar, then select**Airplane mode** to**turn** it**on** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebcffb97b0e.jpg)
 2. A few seconds later, select the**Airplane mode** again to**turn** it**off** .
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Restart Chrome to check the issue.
 
 ---
@@ -201,14 +202,19 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-friendly.techidaily.com/best-online-destinations-for-sparkling-and-metallic-letters-for-2024/"><u>Best Online Destinations for Sparkling and Metallic Letters for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boost-your-listening-experience-addressing-and-fixing-slowdown-in-spotifys-web-player-latest-guide/"><u>Boost Your Listening Experience: Addressing and Fixing Slowdown in Spotify's Web Player (Latest Guide)</u></a></li>
-<li><a href="https://windows11.techidaily.com/decoding-success-vs-failure-in-user-credentials-entry-on-pcs/"><u>Decoding Success vs Failure in User Credentials Entry on PCs</u></a></li>
-<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-iphone-6s-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect iPhone 6s and iPad</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/iphone-text-replacements-made-easy-introducing-voice-messaging-techniques/"><u>IPhone Text Replacements Made Easy: Introducing Voice Messaging Techniques</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/mastering-windows-cab-files-usage-and-installation-insights/"><u>Mastering Windows CAB Files: Usage and Installation Insights</u></a></li>
-<li><a href="https://win-blog.techidaily.com/restarting-and-fixing-errors-for-a-smooth-experience-in-internet-explorer/"><u>Restarting and Fixing Errors for a Smooth Experience in Internet Explorer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-playthrough-of-dying-light-2-resolving-frame-rate-drops-and-in-game-lag/"><u>Troubleshooting PC Playthrough of Dying Light 2 - Resolving Frame Rate Drops and In-Game Lag</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-uninterrupted-playtime-fix-fall-guys-freezing-on-your-computer/"><u>Unlock Uninterrupted Playtime - Fix Fall Guys' Freezing on Your Computer!</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-decoding-inshot-the-ultimate-video-editing-tool-for-2024/"><u>[New] Decoding InShot The Ultimate Video Editing Tool for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-scriptwriting-101-for-aspiring-youtube-producers/"><u>[Updated] In 2024, Scriptwriting 101 for Aspiring YouTube Producers</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-powerdirectors-complete-overhaul-a-2024-review-and-guidebook/"><u>[Updated] PowerDirector's Complete Overhaul A 2024 Review & Guidebook</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-innovative-youtube-channel-names-for-the-next-gen-vloggers-and-film-makers-keep-it-under-or-at-156-characters/"><u>2024 Approved Innovative YouTube Channel Names for the Next Gen Vloggers and Film Makers (Keep It Under or at 156 Characters)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/converta-seus-arquivos-gratuitamente-em-formato-mov-utilizando-o-conversor-online-da-movavi/"><u>Converta Seus Arquivos Gratuitamente Em Formato MOV Utilizando O Conversor Online Da Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-switch-from-wma-to-mkv-streaming-convert-your-videos-for-free-today/"><u>Effortlessly Switch From WMA to MKV Streaming - Convert Your Videos for Free Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-omzettingen-3gpp-dokuments-in-online-bewerking-movavi/"><u>Gratis Omzettingen: 3GPP-Dokuments In Online Bewerking - Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-samsung-galaxy-a15-5g-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Samsung Galaxy A15 5G</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-how-to-fix-pokemon-go-route-not-working-on-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Pokemon Go Route Not Working On Infinix Smart 7? | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-sustainable-filmmaking-aids-at-no-charge/"><u>In 2024, Sustainable Filmmaking Aids at No Charge</u></a></li>
+<li><a href="https://win-blog.techidaily.com/los-mejores-conversores-de-video-a-mp4-en-2023-los-12-mas-eficientes-y-faciles-de-usar-seleccionados-por-movavi/"><u>Los Mejores Conversores De Video a MP4 en 2023 - Los 12 Más Eficientes Y Fáciles De Usar, Seleccionados Por Movavi</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/observing-patterns-in-instagram-unlikes-for-2024/"><u>Observing Patterns in Instagram Unlikes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-choosing-the-best-subtitling-companies-top-picks-revealed/"><u>The Ultimate Guide to Choosing the Best Subtitling Companies - Top Picks Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-10-applicazioni-genalogiche-del-2024-la-scelta-ottimale-movavi/"><u>Top 10 Applicazioni Genalogiche Del 2024: La Scelta Ottimale - Movavi</u></a></li>
 </ul></div>
 

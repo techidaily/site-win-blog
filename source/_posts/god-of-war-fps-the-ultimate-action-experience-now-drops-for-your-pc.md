@@ -1,7 +1,7 @@
 ---
 title: "God of War FPS: The Ultimate Action Experience Now Drops for Your PC"
-date: 2024-09-15T22:20:02.033Z
-updated: 2024-09-16T17:16:08.678Z
+date: 2024-09-18T20:51:37.701Z
+updated: 2024-09-21T21:01:07.418Z
 tags:
   - win11
   - win10
@@ -101,13 +101,6 @@ To make your game permanently run with admin rights for all users:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Discord-End-task.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 If your game still crashes, proceed to the next fix.
 
 ## 4\. Update Windows
@@ -119,13 +112,6 @@ If your game still crashes, proceed to the next fix.
 1. On your keyboard, press the **Windows logo key** , then type **check for updates** . Open the settings **Check for updates**  from the list of results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Start-menu-Check-for-udpates.jpg)
 2. When the updates are available, simply click on the button **Download & install** .  
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130873/7443" target="_top" id="2130873">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130873" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130873/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![win11 - Download & install Windows Update](https://images.drivereasy.com/wp-content/uploads/2023/11/win11-Download-install-Windows-Update.jpg)  
 
@@ -152,11 +138,31 @@ If your issue persists, try the next fix below.
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<span id="1516072">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1516072.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1516072">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1516072.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1516072%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1516072/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
 
  The Pro version of Driver Easy comes with full technical support. If you need assistance, please contact Driver Easy’s support team at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118319/7443" target="_top" id="2118319">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118319" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118319/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Verify game files
 
@@ -182,10 +188,10 @@ If your issue persists, try the next fix below.
 5. Wait for validation to complete. It may take a while to verify all your files.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2047351/19272" target="_top" id="2047351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047351" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047351/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### On Steam
@@ -198,6 +204,19 @@ If your issue persists, try the next fix below.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will verify the game’s files – this process may take several minutes.
+
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 When the process is completed, launch your game and see how things go.
 
@@ -213,6 +232,13 @@ When the process is completed, launch your game and see how things go.
 
 Try to relaunch your game to see if it takes effect.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 8\. Try -dx11/-dx12 in launch arguments (Ubisoft Connect)
 
  Certain games may have compatibility issues or encounter errors related to specific DirectX versions. By forcing the game to use either DirectX 11 (“-dx11”) or DirectX 12 (“-dx12”) through launch arguments, you are providing a directive for the game to utilize a particular graphics API.
@@ -221,19 +247,6 @@ Try to relaunch your game to see if it takes effect.
 2. Go to the**Games** tab and choose your game.
 3. Select**Properties** in the menu. Under**Game launch arguments** , enter**\-dx12** or**\-dx11** into the box and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Avatar-Frontiers-of-Pandora-dx12.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1977028">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t work, proceed to the next fix.
 
@@ -267,13 +280,6 @@ If this doesn’t work, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/07/Fortect-Start-Repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Once done, reboot your device and try to launch the game.
 
 ---
@@ -295,18 +301,21 @@ Once done, reboot your device and try to launch the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://article-posts.techidaily.com/2024-approved-stabilized-shots-fighting-instability/"><u>2024 Approved Stabilized Shots Fighting Instability</u></a></li>
-<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-transfer-music-from-apple-iphone-15-pro-max-to-android-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Transfer Music from Apple iPhone 15 Pro Max to Android | Dr.fone</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/bios-update-error-22-settled/"><u>BIOS Update: Error 22 Settled</u></a></li>
-<li><a href="https://os-tips.techidaily.com/explore-essential-accessibility-innovations-discover-the-best-of-whats-new-in-ios-18/"><u>Explore Essential Accessibility Innovations: Discover the Best of What's New in iOS 18!</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-htc-u23-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from HTC U23 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-cognitive-therapy-with-the-help-of-chatgpt/"><u>Mastering the Art of Cognitive Therapy with the Help of ChatGPT</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-solution-to-deathloop-not-starting-issues/"><u>Mastering the Solution to Deathloop Not Starting Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-fixing-steams-broken-disk-error-smoothly/"><u>Step-by-Step Guide to Fixing Steam's Broken Disk Error Smoothly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-garrys-mod-from-crashing-proven-techniques-for-gamers-in-2vearyear/"><u>Stop Garry's Mod From Crashing: Proven Techniques for Gamers in 2Vearyear</u></a></li>
-<li><a href="https://win-blog.techidaily.com/success-solving-your-deathloop-launch-issues-step-by-step-solutions/"><u>Success! Solving Your 'Deathloop Launch Issues': Step-by-Step Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tactics-for-fixing-the-deadly-ark-mishap/"><u>Troubleshooting Tactics for Fixing the Deadly ARK Mishap</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-dealing-with-persistent-black-screens-in-p5s/"><u>Troubleshooting Tips: Dealing with Persistent Black Screens in P5S</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-get-the-meltan-box-pokemon-go-for-itel-a05s-drfone-by-drfone-virtual-android/"><u>Ultimate guide to get the meltan box pokemon go For Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-most-memorable-tiktok-videos-and-their-twitter-spreads-for-2024/"><u>[Updated] Most Memorable TikTok Videos & Their Twitter Spreads for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-zero-cost-downloads-for-high-quality-audios-discover-this-list-of-23-tools/"><u>2024 Approved Zero Cost Downloads for High-Quality Audios Discover This List of 23 Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essentiel-pour-les-utilisateurs-transformer-vos-enregistrements-avec-loutil-convertisseur-wav-de-movavi/"><u>Essentiel Pour Les Utilisateurs : Transformer Vos Enregistrements Avec L'outil Convertisseur WAV De Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-guide-restoring-copy-and-paste-capabilities-in-windows-11-systems/"><u>Expert Guide: Restoring Copy & Paste Capabilities in Windows 11 Systems</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-6-proven-ways-to-unlock-oneplus-12-phone-when-you-forget-the-password-by-drfone-android/"><u>In 2024, 6 Proven Ways to Unlock OnePlus 12 Phone When You Forget the Password</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-comprehensive-fullscreen-guide-in-premiere-pro/"><u>In 2024, Comprehensive Fullscreen Guide in Premiere Pro</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-honor-100-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Honor 100 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-tecno-pova-6-pro-5g-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Tecno Pova 6 Pro 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/is-being-a-prompt-engineer-a-viable-job-top-9-considerations/"><u>Is Being a Prompt Engineer a Viable Job? Top 9 Considerations</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/new-in-2024-how-to-translate-tiktok-videos-top-5-auto-translate-tools/"><u>New In 2024, How to Translate TikTok Videos Top 5 Auto Translate Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-mmf-to-mp3-converter-gratis-by-movavi/"><u>Online MMF to MP3 Converter - Gratis by Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/os-8-melhores-microfones-para-sucesso-no-youtube-guia-completo/"><u>Os 8 Melhores Microfones Para Sucesso No Youtube: Guia Completo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-14-gif-creation-tools-ultiemes-logiciels-de-creation-de-gifs/"><u>Top 14 GIF Creation Tools: Ultièmes Logiciels De Création De GIFs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/topo-10-de-los-mejores-software-voz-en-off-gratuito-y-premium-para-el-ano-2024/"><u>Topo 10 De Los Mejores Software Voz en Off Gratuito Y Premium Para El Año 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp33gp/"><u>구금없이 온라인에서 MP3/3GP 확장 자동화 - 모바비</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ogg-m4a-oggtom4a/"><u>무료 OGG 및 M4A 파일 교체 - 원격 디스크 OggtoM4a</u></a></li>
 </ul></div>
 

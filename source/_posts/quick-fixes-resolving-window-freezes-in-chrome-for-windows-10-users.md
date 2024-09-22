@@ -1,7 +1,7 @@
 ---
 title: "Quick Fixes: Resolving Window Freezes in Chrome for Windows 10 Users"
-date: 2024-09-10T17:02:06.684Z
-updated: 2024-09-16T21:15:51.107Z
+date: 2024-09-16T01:25:27.044Z
+updated: 2024-09-21T22:59:23.848Z
 tags:
   - win11
   - win10
@@ -84,13 +84,6 @@ There’re mainly two ways you can update your graphics drivers:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139123/17108" target="_top" id="2139123">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139123" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139123/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  You need to restart your PC after you finished updating your graphics driver.
@@ -118,11 +111,85 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Launch Premiere Pro and go to**File** \>**Project Settings** \>**General** .  
 ![Turn off GPU acceleration in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Turn-off-GPU-acceleration-in-Premiere-Pro.jpg)
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
 
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
 If this fix doesn’t work, try the next fix, below.
+
+## Fix 4: Remove media cache files
+
+ Some corrupted media cache files may also trigger Premiere Por crashing issue. If it’s the case, you need to remove media cache files. Here is how to do it:
+
+1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
+![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
+2. Click the**Delete…** button to remove media cache files.  
+![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+See if this fix stops the crashing. If not, try the next fix, below.
+
+## Fix 5: Close CPU / memory hogging applications
+
+ Premiere Pro is a resource intensive application. If you’re running lots of applications at the same time in the background, your computer may run out of RAM and causes Premiere Pro to crash. If it’s the case, closing those CPU / memory hogging applications may get Premiere Pro work again, Here is how to do it:
+
+1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** . You will be prompted for permission. Click**Yes** to open Task Manager.
+2. Select any other applications and programs that take up a large amount of**CPU** or**memory** , then click**End task** to close it.  
+![Close CPU memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/03/Close-CPU-memory-hogging-applications.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+ If Premiere Pro works well after you closed those CPU / memory hogging applications, congratulations!
+
+ To prevent Premiere Pro from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
+
+<!-- affiliate ads begin -->
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+## Fix 6: Check for overheating components
+
+ Premiere Pro utilizes both CPU and GPU to perform heavy computations. If Premiere Pro runs on your computer for a long time, your computer may get overheated, especially when its cooling system is not working properly. Once your computer got overheated, Premiere Pro may crash without warning. If it’s the case, you need to cool your computer down.
+
+To cool down your computer, you may need to
+
+* **Clean the dust** from the fans and vents of your computer.
+* Make sure your computer is in a**cool environment.**
+* Use a**better cooling system** for your computer if yours is not powerful enough.
 
 <!-- affiliate ads begin -->
 <span id="1770526">
@@ -137,63 +204,9 @@ If this fix doesn’t work, try the next fix, below.
 <img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-## Fix 4: Remove media cache files
-
- Some corrupted media cache files may also trigger Premiere Por crashing issue. If it’s the case, you need to remove media cache files. Here is how to do it:
-
-1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
-![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
-2. Click the**Delete…** button to remove media cache files.  
-![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
-
-See if this fix stops the crashing. If not, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Fix 5: Close CPU / memory hogging applications
-
- Premiere Pro is a resource intensive application. If you’re running lots of applications at the same time in the background, your computer may run out of RAM and causes Premiere Pro to crash. If it’s the case, closing those CPU / memory hogging applications may get Premiere Pro work again, Here is how to do it:
-
-1. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** . You will be prompted for permission. Click**Yes** to open Task Manager.
-2. Select any other applications and programs that take up a large amount of**CPU** or**memory** , then click**End task** to close it.  
-![Close CPU memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/03/Close-CPU-memory-hogging-applications.jpg)
-
- If Premiere Pro works well after you closed those CPU / memory hogging applications, congratulations!
-
- To prevent Premiere Pro from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
-
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-## Fix 6: Check for overheating components
-
- Premiere Pro utilizes both CPU and GPU to perform heavy computations. If Premiere Pro runs on your computer for a long time, your computer may get overheated, especially when its cooling system is not working properly. Once your computer got overheated, Premiere Pro may crash without warning. If it’s the case, you need to cool your computer down.
-
-To cool down your computer, you may need to
-
-* **Clean the dust** from the fans and vents of your computer.
-* Make sure your computer is in a**cool environment.**
-* Use a**better cooling system** for your computer if yours is not powerful enough.
-
 ## Fix 7: Update / reinstall Premier Pro
 
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Conclusion
 
@@ -221,18 +234,18 @@ To cool down your computer, you may need to
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chronicles-of-youtube-the-ultimate-viral-list/"><u>[New] 2024 Approved Chronicles of YouTube The Ultimate Viral List</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ioneering-video-content-creation-via-google-trends-study-for-2024/"><u>[New] Pioneering Video Content Creation via Google Trends Study for 2024</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/a-step-by-step-pathway-to-messaging-media-download/"><u>A Step-by-Step Pathway to Messaging Media Download</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-a-dark-or-black-display-while-conducting-screen-shares-on-discord/"><u>Fixing a Dark or Black Display While Conducting Screen Shares on Discord</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-overwatch-2-gameplay-interruptions-caused-by-frequent-pc-crashes/"><u>How to Prevent Overwatch 2 Gameplay Interruptions Caused by Frequent PC Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-restore-audio-in-lost-ark-a-step-by-step-fix-for-sound-glitches/"><u>How to Restore Audio in 'Lost Ark': A Step-by-Step Fix for Sound Glitches</u></a></li>
-<li><a href="https://apple-account.techidaily.com/how-to-unlink-apple-id-from-iphone-6s-by-drfone-ios/"><u>How To Unlink Apple ID From iPhone 6s</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/keeping-it-secretive-watching-instagram-live-undetected/"><u>Keeping It Secretive Watching Instagram Live Undetected</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/mastering-school-without-edgenuity-videos-for-2024/"><u>Mastering School Without Edgenuity Videos for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-when-your-nvidia-settings-wont-load-or-start/"><u>Step-by-Step Solutions for When Your NVIDIA Settings Won't Load or Start</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-fixes-how-to-get-elden-rings-online-mode-up-and-running/"><u>Troubleshooting Fixes: How to Get Elden Ring's Online Mode Up and Running</u></a></li>
-<li><a href="https://windows11.techidaily.com/unpacking-windows-maintenance-tools/"><u>Unpacking Window's Maintenance Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/upgrade-your-game-view-tutorial-to-correct-blurring-issues-in-cod-warzone-for-windows/"><u>Upgrade Your Game View: Tutorial to Correct Blurring Issues in COD: Warzone for Windows</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-humor-hits-the-best-funny-youtube-short-ideas-on-the-block/"><u>[New] 2024 Approved Humor Hits The Best Funny YouTube Short Ideas on the Block</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-asus-mg28uq-a-gateway-to-unprecedented-4k-gaming-and-more/"><u>[New] ASUS MG28UQ - A Gateway to Unprecedented 4K Gaming and More</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-impeccablecapture-studio-suite-windows-10-edition/"><u>[New] ImpeccableCapture Studio Suite (Windows 10 Edition)</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-swiftclick-retrorecall-video/"><u>[Updated] SwiftClick RetroRecall Video</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-infuse-your-tiktok-with-popular-anime-themes-and-styles/"><u>2024 Approved Infuse Your TikTok with Popular Anime Themes & Styles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ogmmp4-movavi/"><u>線上免付: OGM文件轉換成MP4電影格式 - 運用Movavi的方法</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/core-elements-in-narrative-technology-for-2024/"><u>Core Elements in Narrative Technology for 2024</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-the-ultimate-guide-to-installing-bluetooth-drivers-on-windows/"><u>Download the Ultimate Guide to Installing Bluetooth Drivers on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-audio-converter-mp3-aac-wma-and-more-convert-m4a-to-ogg/"><u>Free Online Audio Converter: MP3, AAC, WMA & More - Convert M4A to Ogg</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grabacion-de-video-sin-costo-al-convertir-archivos-wma-a-formatos-mov-utilizando-servicios-en-linea-guia-paso-a-paso/"><u>Grabación De Video Sin Costo Al Convertir Archivos WMA a Formatos MOV Utilizando Servicios en Línea: Guía Paso a Paso</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-stream-apple-iphone-6s-plus-video-to-computer-drfone-by-drfone-ios/"><u>In 2024, How to Stream Apple iPhone 6s Plus Video to Computer? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/las-7-maquinarias-perfectas-para-grabar-videos-online-ranking-del-top-movavi/"><u>Las 7 Maquinarias Perfectas Para Grabar Videos Online: Ranking Del Top - Movavi</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/navigating-family-friendly-routers-a-2024-selection-of-top-models-with-built-in-parental-controls/"><u>Navigating Family-Friendly Routers: A 2024 Selection of Top Models with Built-In Parental Controls</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How to Restore Audio in 'Lost Ark': A Step-by-Step Fix for Sound Glitches"
-date: 2024-09-13T20:24:36.708Z
-updated: 2024-09-16T17:49:59.964Z
+date: 2024-09-17T19:24:33.095Z
+updated: 2024-09-21T17:58:57.869Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -93,16 +86,16 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
@@ -111,6 +104,13 @@ There are mainly two ways you can update the graphics driver:
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1001453/11832" target="_top" id="1001453">
+  <img src="//a.impactradius-go.com/display-ad/11832-1001453" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1001453/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 4: Turn off background apps
 
@@ -122,14 +122,20 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
- 3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123749/7443" target="_top" id="2123749">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123749" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123749/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1938141">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ 3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 ## Fix 5: Change NVIDIA resolution
 
@@ -156,15 +162,19 @@ If it’s not working, move to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-perfecting-your-valorant-thumbnails-a-comprehensive-tutorial/"><u>[New] 2024 Approved Perfecting Your Valorant Thumbnails A Comprehensive Tutorial</u></a></li>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-pixel-perfect-photography-excelling-in-the-best-6-4k-dslrs/"><u>[New] In 2024, Pixel Perfect Photography Excelling in the Best 6 4K DSLRs</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/updated-a-step-by-step-guide-to-dominating-the-youtube-viewership-game-for-2024/"><u>[Updated] A Step-by-Step Guide to Dominating the YouTube Viewership Game for 2024</u></a></li>
-<li><a href="https://graphic-issues.techidaily.com/hd-rendering-repaired-error-22/"><u>HD Rendering Repaired - Error 22</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-legally-download-horror-classics-a-comprehensive-guide/"><u>How to Legally Download Horror Classics: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/league-of-legends-bug-fixed-swift-and-simple-solutions/"><u>League of Legends Bug Fixed: Swift and Simple Solutions!</u></a></li>
-<li><a href="https://discover-awesome.techidaily.com/mp4windowslinuxmac/"><u>MP4ファイルサイズ縮小:Windows・Linux・Mac向け最適解法一覧</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pubg-freezing-woes-on-windows-heres-how-to-get-smooth-playback/"><u>PUBG Freezing Woes on Windows? Here's How to Get Smooth Playback</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-frequent-warzone-20-crashes-on-windows/"><u>Resolved: Fixes for Frequent Warzone 2.0 Crashes on Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-when-your-favorite-game-finals-wont-start/"><u>Step-by-Step Solutions for When Your Favorite Game Finals Won't Start</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-best-editor-apps-to-polish-your-webcam-recordings/"><u>[Updated] 2024 Approved Best Editor Apps to Polish Your Webcam Recordings</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harmony-hunt-uncover-the-most-popular-free-downloader-apps-on-youtube-and-android/"><u>[Updated] 2024 Approved Harmony Hunt - Uncover the Most Popular Free Downloader Apps on YouTube and Android</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/4-ways-to-transfer-messages-from-apple-iphone-12-pro-max-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>4 Ways to Transfer Messages from Apple iPhone 12 Pro Max to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mkvavimovmp4movavi-video-converter/"><u>簡單上手！MKV、AVI、MOV...任何檔案隨時輕鬆改造成MP4，用Movavi Video Converter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726226202023-m4v-wma-movavi/"><u>線上無料改變 M4V 成 WMA 格式：Movavi 影片編輯器指南</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/comprehensive-assessment-of-raspberry-pi-400-the-future-of-compact-computing/"><u>Comprehensive Assessment of Raspberry Pi 400: The Future of Compact Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-illimitee-m4b-vers-mkv-en-ligne-avec-movavi-methode-simple-et-efficace/"><u>Conversion Illimitée M4B Vers MKV en Ligne Avec Movavi - Méthode Simple Et Efficace</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-mac-mac/"><u>Movavi Mac视频制作软件专业指南 - 简单教程：Mac平台内容制作</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellar-sets-new-global-standard-with-unprecedented-photo-reconstruction-and-repair-application/"><u>Stellar Sets New Global Standard with Unprecedented Photo Reconstruction & Repair Application</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/step-by-step-tutorial-how-to-bypass-itel-a60-frp-by-drfone-android/"><u>Step-by-Step Tutorial How To Bypass Itel A60 FRP</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transform-aac-files-into-mp3m4a-with-movevis-cost-free-web-converter/"><u>Transform AAC Files Into MP3/M4A with MoveVI's Cost-Free Web Converter!</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-accurate-tracking-of-websites-with-iphone-screen-time/"><u>Troubleshooting Accurate Tracking of Websites with iPhone Screen Time</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726226220637-3gpp-mov-movavi/"><u>온라인 가이드: 무료로 3GPP MOV 영상을 제공 – 모바비 화면에 미학으로 조정 - Movavi</u></a></li>
 </ul></div>
 

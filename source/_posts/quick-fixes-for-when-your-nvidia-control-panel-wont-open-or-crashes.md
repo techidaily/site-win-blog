@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for When Your NVIDIA Control Panel Won't Open or Crashes
-date: 2024-09-10T21:56:07.958Z
-updated: 2024-09-17T07:22:22.670Z
+date: 2024-09-20T22:38:01.849Z
+updated: 2024-09-21T20:45:37.856Z
 tags:
   - win11
   - win10
@@ -74,13 +74,6 @@ thumbnail: https://thmb.techidaily.com/53ddbe6924d2ddfb268e4678d76937abc181d4038
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-setting-1024x592.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139116/17108" target="_top" id="2139116">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139116" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139116/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Control-graphics-settings-1024x613.png)
 
 Here are the system requirements for Control:
@@ -92,6 +85,13 @@ Here are the system requirements for Control:
  If you’re currently running Control with DirectX 12, it’s recommended that you run Control**with DirectX 11** to avoid the game crash issues.
 
  Restart the game to see if this fix works, if not, try the next fix below to modify your graphics card settings.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Modify your graphics card settings
 
@@ -116,16 +116,10 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel-main-screen.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1498635">
-					<video width="320" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 #### Modify AMD graphics card settings
@@ -133,6 +127,13 @@ Here are the system requirements for Control:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View the Control Panel by **Large icons** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111967/7443" target="_top" id="2111967">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111967" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111967/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
@@ -147,32 +148,32 @@ Here are the system requirements for Control:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select Intel Graphics Settings to open it.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-Graphics-Settings.jpg)
 4. Click 3D to open the 3D settings.  
-
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click Scan to add the game to the application list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139110/17108" target="_top" id="2139110">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139110" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139110/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-4.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch Control again in reduced settings to see if it crashes or not. If the game still crashes, try the next fix, below.
 
@@ -224,13 +225,6 @@ Here are the system requirements for Control:
 
  Launch Control again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114263/17093" target="_top" id="2114263">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114263" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114263/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 9: Add Control as an exception to your 3rd party antivirus software
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Control.
@@ -277,16 +271,19 @@ See if this fix works for you. If not, try the next fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-boxes.techidaily.com/new-in-2024-channel-charisma-standing-out-with-strategic-telegram-promotion/"><u>[New] In 2024, Channel Charisma Standing Out with Strategic Telegram Promotion</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/2024-approved-sound-brilliance-for-podcasters-top-10-microphones/"><u>2024 Approved Sound Brilliance for Podcasters Top 10 Microphones</u></a></li>
-<li><a href="https://win-amazing.techidaily.com/brother-hl2280dw-printer-software-downloads-for-windows-11-10-8-and-7-users/"><u>Brother HL2280DW Printer Software Downloads for Windows 11, 10, 8 & 7 Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-fixes-for-when-red-dead-redemption-2-fails-to-load/"><u>Common Fixes for When Red Dead Redemption 2 Fails to Load</u></a></li>
-<li><a href="https://app-tips.techidaily.com/guide-to-implementing-boomerangs-seamlessly-in-snapchat-for-all-devices/"><u>Guide to Implementing Boomerangs Seamlessly in Snapchat for All Devices</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-samsung-galaxy-a54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Samsung Galaxy A54 5G | Dr.fone</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/kid-friendly-gaming-discover-7-amazing-online-adventures/"><u>Kid-Friendly Gaming: Discover 7 Amazing Online Adventures</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-stop-fallout-t-3-from-crashing-on-win10-systems/"><u>Troubleshooting Guide: How to Stop Fallout T 3 From Crashing on Win10 Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723004781764-troubleshooting-stardew-valley-launch-problems-solutions-revealed/"><u>Troubleshooting Stardew Valley Launch Problems - Solutions Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-the-full-potential-of-your-gaming-rig-by-boosting-frames-per-second-in-ring-of-elysium-best-tips-inside/"><u>Unlock the Full Potential of Your Gaming Rig by Boosting Frames Per Second in Ring of Elysium – Best Tips Inside</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/unlocking-kodis-potential-can-it-really-stream-media-from-iso-files/"><u>Unlocking Kodi's Potential: Can It Really Stream Media From ISO Files?</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-new-heights-with-popular-youtube-content/"><u>[New] 2024 Approved Charting New Heights with Popular YouTube Content</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/1716069755841-new-in-2024-huaweis-built-in-recorder-screen-capture-for-mate-and-p-series/"><u>[New] In 2024, Huawei's Built-In Recorder Screen Capture for Mate and P Series.</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-the-essentials-of-earning-on-youtube-latest-changes/"><u>[Updated] In 2024, The Essentials of Earning on YouTube Latest Changes</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlocking-the-potential-of-quantum-hdr/"><u>[Updated] Unlocking the Potential of Quantum HDR</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1-learn-how-to-create-blur-effect-in-videos-like-movie-masking-with-movavi/"><u>1. Learn How to Create Blur Effect in Videos Like Movie Masking with Movavi</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/complete-guide-retrieve-lost-messages-on-your-gmail-account/"><u>Complete Guide: Retrieve Lost Messages on Your Gmail Account</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-sin-costo-cambia-archivos-swf-a-mp4-en-linea-rapido-con-movavi/"><u>Conversión Sin Costo: Cambia Archivos SWF a MP4 en Línea Rápido Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-online-ajuda-do-movavi-na-transformacao-e-salve-tudo-em-bmp-com-sucesso/"><u>Gratuito Online: Ajuda Do Movavi Na Transformação E Salve Tudo Em .BMP Com Sucesso!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/image-album-composer-craft-stunning-videos-from-photos-set-to-song/"><u>Image Album Composer: Craft Stunning Videos From Photos Set to Song</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-why-apple-account-disabled-on-your-apple-iphone-8-how-to-fix-by-drfone-ios/"><u>In 2024, Why Apple Account Disabled On your Apple iPhone 8? How to Fix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/m4a-naar-mp4-verwijderen-gratis-online-convertereertafels-movavi/"><u>M4A Naar MP4 Verwijderen Gratis: Online Convertereertafels - Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/maximizing-online-visibility-through-advanced-cookiebot-features/"><u>Maximizing Online Visibility Through Advanced Cookiebot Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-online-converter-gratuito-para-transformar-mp4-a-mov-descarga-facil/"><u>Movavi Online - Converter Gratuito Para Transformar MP4 a Mov: Descarga Fácil</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-blueprint-for-your-mobile-youtube-businesspersonal-platform-for-2024/"><u>The Ultimate Blueprint for Your Mobile YouTube Business/Personal Platform for 2024</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Fix: Resolving Overwatch's Persistent Post-Launch Darkness"
-date: 2024-09-15T17:28:30.750Z
-updated: 2024-09-16T17:23:20.766Z
+date: 2024-09-20T20:06:07.563Z
+updated: 2024-09-21T17:08:32.446Z
 tags:
   - win11
   - win10
@@ -68,13 +68,21 @@ Restart your computer for the changes to take effect.
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 7. Check the issue is persist or not.
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 4: Change the screen refresh rate
@@ -85,35 +93,28 @@ Restart your computer for the changes to take effect.
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123474/16836" target="_top" id="2123474">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123474" border="0" alt="https://techidaily.com" width="300" height="50"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123474/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 6. Restart your computer and check to see if the problem resolves.
 
@@ -146,17 +147,19 @@ Restart your computer for the changes to take effect.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-best-biz-youtubes-top-10-for-quick-channel-setup/"><u>[Updated] 2024 Approved Best Biz YouTubes Top 10 for Quick Channel Setup</u></a></li>
-<li><a href="https://article-posts.techidaily.com/2024-approved-a-new-era-in-adventure-recording-the-ultra-30-review/"><u>2024 Approved A New Era in Adventure Recording The Ultra 30 Review</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/2024-approved-hero-11-and-max-360-gopro-challenge-video-quality-faceoff/"><u>2024 Approved Hero 11 & Max 360 GoPro Challenge - Video Quality Faceoff</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/2024-approved-inspirational-cinema-collection-10-movie-gems/"><u>2024 Approved Inspirational Cinema Collection 10 Movie Gems</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/abbyy-welcomes-tomohito-shimizu-as-new-head-of-its-japan-operations/"><u>ABBYY Welcomes Tomohito Shimizu as New Head of Its Japan Operations</u></a></li>
-<li><a href="https://win-blog.techidaily.com/assassins-creed-odyssey-freezing-on-pc-2024-fix/"><u>Assassin's Creed Odyssey Freezing on PC - 2024 Fix</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fast-solutions-for-when-fortnite-wont-start-up-correctly-easy-repair-tips/"><u>Fast Solutions for When Fortnite Won't Start Up Correctly | Easy Repair Tips</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-motorsports-gaming-tips-to-address-and-rectify-fps-issues-in-the-2021-formula-one-pc-game/"><u>Mastering Motorsports Gaming: Tips to Address and Rectify FPS Issues in the 2021 Formula One PC Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-compatibility-hurdles-making-itunes-recognize-an-iphone-on-a-windows-11-pc/"><u>Overcoming Compatibility Hurdles: Making iTunes Recognize an iPhone on a Windows 11 PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723002410650-r-type-final-2-on-desktop-now-running-without-a-hitch-say-goodbye-to-frustrating-crashes/"><u>R-Type Final 2 on Desktop Now Running Without a Hitch - Say Goodbye to Frustrating Crashes</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/safeguarding-corporate-data-in-chatai-exchanges/"><u>Safeguarding Corporate Data in ChatAI Exchanges</u></a></li>
-<li><a href="https://tiktok-video-recordings.techidaily.com/the-art-of-capturing-flawless-ootd-tiktoks-on-a-mac/"><u>The Art of Capturing Flawless OOTD TikToks on a Mac</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-innovative-guide-to-efficient-and-effective-screen-recording/"><u>[New] Innovative Guide to Efficient and Effective Screen Recording</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-top-10-tools-to-shield-photographic-work-for-2024/"><u>[New] Top 10 Tools to Shield Photographic Work for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-discovering-the-full-potential-of-toolwiz-app-2023-edition/"><u>2024 Approved Discovering the Full Potential of Toolwiz App, 2023 Edition</u></a></li>
+<li><a href="https://app-tips.techidaily.com/boosting-software-development-success-with-agile-awareness-explore-6-key-principles/"><u>Boosting Software Development Success with Agile Awareness: Explore 6 Key Principles</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-fixing-intel-vga-driver-problems-for-windows-users/"><u>Comprehensive Guide: Fixing Intel VGA Driver Problems for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertir-archivos-ppt-a-pdf-gratis-online-con-movavi-tu-solucion-de-conversion-libre/"><u>Convertir Archivos PPT a PDF Gratis Online Con Movavi - ¡Tu Solución De Conversión Libre!</u></a></li>
+<li><a href="https://common-error.techidaily.com/expert-tips-for-fixing-desktop-is-not-available-on-your-windows-system-profile-folder/"><u>Expert Tips for Fixing 'Desktop Is Not Available' On Your Windows System Profile Folder</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-online-avi-beelten-naar-flac-mooi-en-efficient-met-movavi/"><u>Gratuit Online AVI-Beelten Naar FLAC - Mooi en Efficiënt Met Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-change-lock-screen-wallpaper-on-realme-narzo-60-5g-by-drfone-android/"><u>In 2024, How to Change Lock Screen Wallpaper on Realme Narzo 60 5G</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-oneplus-11r-to-any-ios-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from OnePlus 11R to Any iOS Devices | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-zte-blade-a73-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your ZTE Blade A73 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-professioneel-mov-naar-wmv-veranderen-zonder-risicos-gratuit-movavi/"><u>Online Professioneel MOV Naar WMV Veranderen Zonder Risico's - Gratuit - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/web-based-audio-converter-transform-your-sound-files-into-mp3-wma-and-more/"><u>Web-Based Audio Converter: Transform Your Sound Files Into MP3, WMA & More</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp3webm-movavi/"><u>무료 코스터를 사용한 MP3/WEBM 이미지 교체 방법 - Movavi</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: No More Freezes - Resolving 'Tribes of Midgard' Stability Problems
-date: 2024-09-12T22:10:03.137Z
-updated: 2024-09-16T19:40:38.243Z
+date: 2024-09-17T16:19:49.052Z
+updated: 2024-09-21T19:20:00.745Z
 tags:
   - win11
   - win10
@@ -67,10 +67,10 @@ thumbnail: https://thmb.techidaily.com/99131a0c0da4530303a8f3d5a541a1cf2cb9af3e3
 If the issue persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 3: Verify the integrity of game files
@@ -82,6 +82,13 @@ If the issue persists, try the next fix below.
 1. Launch**Steam** and go to your**LIBRARY** , then right-click on the Metro Exodus game title and click **Properties…** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Click **LOCAL FILES** \> **Verify integrity of game files…** . Wait a few minutes for Steam to validate the files of the game.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148773/18498" target="_top" id="2148773">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148773" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148773/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
@@ -113,13 +120,6 @@ If the issue persists, try the next fix below.
 
  See if Metro Exodus PC Enhanced Edition crashes after you disabled all the in-game overlays. If this issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Perform a clean boot
 
  Metro Exodus PC Enhanced Edition may crash if it conflicts with another application on your PC. If don’t know which application conflicts with the game, it’s necessary to perform a clean boot.
@@ -133,14 +133,22 @@ To perform a clean boot, just follow the steps below:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/msconfig.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services,** and then click **Disable all** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130533/26400" target="_top" id="2130533">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925484/19272" target="_top" id="1925484">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925484" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130533/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925484/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
@@ -151,20 +159,13 @@ To perform a clean boot, just follow the steps below:
 6. Click **Restart** to restart your PC.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137412/7443" target="_top" id="2137412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137412" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Restart** your PC and run Metro Exodus PC Enhanced Edition to check if the game crashes. If not, you need to open the **System Configuration** window again and enable services and applications **one by one** until you find the problematic software. After enabling each startup service, you need to restart Windows OS to apply the changes.
 
@@ -192,17 +193,16 @@ To perform a clean boot, just follow the steps below:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-capture-your-skype-conversations-on-any-system-for-2024/"><u>[New] Capture Your Skype Conversations on Any System for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-decoding-the-essence-of-asmr-videos/"><u>[New] In 2024, Decoding the Essence of ASMR Videos</u></a></li>
-<li><a href="https://fox-info.techidaily.com/new-in-2024-tomtoms-next-gen-adventure-cameras-the-bandit-review/"><u>[New] In 2024, TomTom’s Next-Gen Adventure Cameras The Bandit Review</u></a></li>
-<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-harnessing-the-power-of-targeted-video-appeal/"><u>[Updated] 2024 Approved Harnessing the Power of Targeted Video Appeal</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/updated-the-rhythm-of-the-skies-bebop-parrot-revisited/"><u>[Updated] The Rhythm of the Skies Bebop Parrot Revisited</u></a></li>
-<li><a href="https://win-blog.techidaily.com/avoid-pc-freezes-during-training-resolve-the-last-epoch-issue/"><u>Avoid PC Freezes During Training: Resolve the Last Epoch Issue</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-fix-guide-understanding-and-rectifying-security-violation-in-games/"><u>Expert Fix Guide: Understanding and Rectifying 'Security Violation in Games'</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-guide-to-overcoming-no-match-found-in-pc-call-of-duty-warzone-games/"><u>Expert Guide to Overcoming 'No Match Found' In PC Call of Duty Warzone Games</u></a></li>
-<li><a href="https://activate-lock.techidaily.com/new-multiple-ways-how-to-remove-icloud-activation-lock-on-your-iphone-12-mini-by-drfone-ios/"><u>New Multiple Ways How To Remove iCloud Activation Lock On your iPhone 12 mini</u></a></li>
-<li><a href="https://extra-support.techidaily.com/pinnacle-microphone-selections-for-4k-camera-excellence-for-2024/"><u>Pinnacle Microphone Selections for 4K Camera Excellence for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/revamp-your-downloads-key-steps-for-faster-origins-in-the-new-decade-of-gaming-2n24/"><u>Revamp Your Downloads: Key Steps for Faster Origins in the New Decade of Gaming (2N24)</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/self-filmed-flair-tips-for-captivating-solo-videos-for-2024/"><u>Self-Filmed Flair Tips for Captivating Solo Videos for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-foremost-directors-of-cinematic-harmony-for-2024/"><u>[New] Foremost Directors of Cinematic Harmony for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/2024-approved-developing-dynamic-instagram-highlight-summaries/"><u>2024 Approved Developing Dynamic Instagram Highlight Summaries</u></a></li>
+<li><a href="https://os-tips.techidaily.com/1723620242101-boost-your-iphones-speed-and-storage-with-these-4-best-free-cleanse-applications/"><u>Boost Your iPhone's Speed & Storage with These 4 Best Free Cleanse Applications!</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/can-i-use-itools-gpx-file-to-catch-the-rare-pokemon-on-honor-x50-gt-drfone-by-drfone-virtual-android/"><u>Can I use iTools gpx file to catch the rare Pokemon On Honor X50 GT | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descargar-y-convertir-archivo-nef-a-formato-tiff-sin-coste-guia-facil-con-movavi/"><u>Descargar Y Convertir Archivo NEF a Formato TIFF Sin Coste: Guía Fácil Con Movavi</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/djis-aerial-fleet-standard-aviators-professional-pilots-4k-pros/"><u>DJI's Aerial Fleet Standard Aviators, Professional Pilots, 4K Pros</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-convertendo-arquivos-oma-em-wav-com-o-movavi-convertidor-online/"><u>Gratuito: Convertendo Arquivos OMA Em WAV Com O Movavi Convertidor Online</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-htc-u23-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset HTC U23 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-news.techidaily.com/step-by-step-tutorial-on-setting-up-autoplay-feature-for-flipbooks-on-flipbuildercom/"><u>Step-by-Step Tutorial on Setting Up Autoplay Feature for Flipbooks on FlipBuilder.com</u></a></li>
+<li><a href="https://win-blog.techidaily.com/utvalda-17-skarmdumpverksamma-applikationer-pa-windows-for-djupare-datainsamling/"><u>Utvalda 17 Skärmdumpverksamma Applikationer På Windows För Djupare Datainsamling!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vobmpgmp4/"><u>お手軽ビデオコンバーター - VOB/MPGからMP4への無料オンラインアップグレード</u></a></li>
 </ul></div>
 

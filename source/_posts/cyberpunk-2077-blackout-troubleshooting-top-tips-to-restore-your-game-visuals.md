@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Blackout Troubleshooting – Top Tips to Restore Your Game Visuals
-date: 2024-09-16T01:25:20.169Z
-updated: 2024-09-16T22:57:05.515Z
+date: 2024-09-15T16:03:36.453Z
+updated: 2024-09-21T17:40:59.678Z
 tags:
   - win11
   - win10
@@ -107,6 +107,13 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
  Relaunch your game to test your issue. If your game is still unplayable, then go ahead with the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Reset in-game settings
 
  Improper in-game settings may also crash your game. If you’ve recently changed BO4 settings and the game isn’t working since then, you’ll need to restore in-game settings to default. Here is how to do it:
@@ -130,10 +137,10 @@ If your issue persists, don’t fret. Move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-59-55-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Try launching your game to see if this helped. If your issue persists, move on to the next fix below.
@@ -154,35 +161,9 @@ If your issue persists, don’t fret. Move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-705.png)
 
-<!-- affiliate ads begin -->
-<span id="1531879">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)**  Type **%ProgramData%** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-04_12-31-14.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1983549">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)**  Highlight and delete the **Blizzard Entertainment**  and **Battle.net folder** .
 
@@ -191,13 +172,6 @@ If your issue persists, don’t fret. Move on to the next fix below.
 **4)** Relaunch your game to test the issue.
 
  If_BO4_ still won’t launch, don’t fret. There are still 2 more fixes to try.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115943/19272" target="_top" id="2115943">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115943" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Check for software conflicts
 
@@ -244,16 +218,16 @@ If your issue continues to occur, try performing a clean boot on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-44.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the **Services tab,** and then check the box next to **Hide all Microsoft services** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-33-53.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **5)** Click **Disable all** .
 
@@ -276,6 +250,13 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **9)** Click **Restart** and wait for your computer to restart.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-34-45.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016165/19272" target="_top" id="2016165">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016165" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016165/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **10)**  After your computer restarts, relaunch your game to test your issue.
 
@@ -314,6 +295,13 @@ If your issue continues to occur, try performing a clean boot on your PC.
 **6)**  Click **Restart** . (Your computer will start normally after you finish this step.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-05_14-40-28.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your game still won’t launch, move on to the next fix.
 
@@ -359,18 +347,20 @@ If the issue persists, try the fix, below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-the-rotated-video-conundrum-in-instagrams-feed/"><u>[New] In 2024, The Rotated Video Conundrum in Instagram's Feed</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-full-screen-recovered-from-obs-errors/"><u>[Updated] In 2024, Full Screen Recovered From OBS Errors</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-seamless-clip-recording-solutions/"><u>[Updated] In 2024, Seamless Clip Recording Solutions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/breaking-down-the-problem-why-age-of-empires-4-wont-boot-and-what-to-do/"><u>Breaking Down the Problem: Why Age of Empires 4 Won’t Boot and What to Do</u></a></li>
-<li><a href="https://win-blog.techidaily.com/destiny-2-compatible-with-pc-how-to-fix-the-launch-error-quickly/"><u>Destiny 2 Compatible with PC? How to Fix the Launch Error Quickly!</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/get-the-lowdown-on-samsung-z-fold-4-expected-arrival-cost-analysis-and-complete-specs-overview/"><u>Get the Lowdown on Samsung Z Fold 4 - Expected Arrival, Cost Analysis, and Complete Specs Overview</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/improve-iphone-filmingphotography-premium-accessory-guide-for-2024/"><u>Improve iPhone Filming/Photography Premium Accessory Guide for 2024</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-motorola-moto-g24-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>In 2024, How to Cast Motorola Moto G24 Screen to PC Using WiFi | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-hues-in-harmony-applying-color-principles/"><u>In 2024, Hues in Harmony Applying Color Principles</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/insights-on-pc-building-from-the-experts-at-toms-computing-world/"><u>Insights on PC Building From the Experts at Tom's Computing World</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-the-revival-of-fallout-3-overcoming-launch-issues/"><u>Mastering the Revival of Fallout 3 | Overcoming Launch Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-fallout-eboot-3-loading-problems-top-advice-for-gamers/"><u>Resolving Fallout Eboot 3 Loading Problems: Top Advice for Gamers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/update-your-logitech-g403-controller-compatible-software-for-pcs/"><u>Update Your Logitech G403 Controller: Compatible Software for PCs</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-behind-the-scenes-youtube-live-thumbnail-secrets/"><u>[New] In 2024, Behind the Scenes YouTube Live Thumbnail Secrets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-social-splendor-leading-story-filter-hits/"><u>[Updated] In 2024, Social Splendor Leading Story Filter Hits</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-supernatural-time-freeze-manual/"><u>[Updated] Supernatural Time-Freeze Manual</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-viral-talent-quest-episodes-1-10/"><u>2024 Approved Viral Talent Quest Episodes #1-10</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/automated-data-collection-with-the-cookiebot-platform/"><u>Automated Data Collection with the Cookiebot Platform</u></a></li>
+<li><a href="https://location-social.techidaily.com/does-apple-iphone-6s-have-find-my-friends-drfone-by-drfone-virtual-ios/"><u>Does Apple iPhone 6s Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/download-movavis-free-audio-transformer-high-quality-sound-file-conversion-tool/"><u>Download Movavi's Free Audio Transformer - High-Quality Sound File Conversion Tool</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y78-5g-phone-frp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y78 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-free-oa-movavi-au/"><u>Online Free OA 편집 - Movavi: 원격 통신을 위한 AU 바이트 대조</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-gratuito-di-conversione-mp3-a-formato-avi-con-e/"><u>Online Gratuito Di Conversione MP3 a Formato AVI Con E</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-vrijetijdige-flv-in-ogg-converter-leesbare-flexibele-oplossing-met-movavi/"><u>Online Vrijetijdige Flv-in-Ogg Converter: Leesbare, Flexibele Oplossing Met Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-10-herramientas-exitosas-para-optimizar-la-claridad-y-el-rendimiento-de-tu-video/"><u>Top 10 Herramientas Exitosas Para Optimizar La Claridad Y El Rendimiento De Tu Vídeo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/topo-dos-5-melhores-conversores-livres-de-youtube-para-avi-em-linha/"><u>Topo Dos 5 Melhores Conversores Livres De YouTubE Para AVI Em Linha</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforma-gifs-a-videoclips-webm-sin-costo-con-el-mejor-servicio-en-linea-gratuito/"><u>Transforma GIFs a Videoclips Webm Sin Costo Con El Mejor Servicio en Línea Gratuito</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-fixes-how-to-resolve-minecraft-unresponsive-issues-on-your-computer/"><u>Troubleshooting Fixes: How to Resolve 'Minecraft Unresponsive' Issues on Your Computer</u></a></li>
 </ul></div>
 

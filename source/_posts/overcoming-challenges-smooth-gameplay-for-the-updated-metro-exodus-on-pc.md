@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Challenges: Smooth Gameplay for the Updated Metro Exodus on PC"
-date: 2024-09-10T23:09:32.737Z
-updated: 2024-09-17T01:05:53.556Z
+date: 2024-09-17T01:21:15.820Z
+updated: 2024-09-21T21:51:57.915Z
 tags:
   - win11
   - win10
@@ -82,6 +82,13 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
@@ -97,10 +104,10 @@ If your problem still persists, don’t worry. There is another try.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 4: Switch to DX11 in your game settings
@@ -132,37 +139,30 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135400/19272" target="_top" id="2135400">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135400" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135400/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118312/7443" target="_top" id="2118312">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118312" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118312/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 6) Save your changes and restart your computer.
 
@@ -201,20 +201,13 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/024-approved-converting-youtube-journeys-into-animated-expressions-a-comprehensive-guide-for-mobiledesktop-users/"><u>[New] 2024 Approved Converting YouTube Journeys Into Animated Expressions A Comprehensive Guide for Mobile/Desktop Users</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-the-dynamics-of-home-security-manycam-vs-single-camera-tech/"><u>[New] In 2024, The Dynamics of Home Security ManyCam Vs. Single-Camera Tech</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-instantaneous-methods-for-video-to-mp3-on-instagram-for-2024/"><u>[New] Instantaneous Methods for Video-to-MP3 on Instagram for 2024</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/updated-scrutinizing-software-for-video-editing-the-bandicam-camtasia-comparison-for-2024/"><u>[Updated] Scrutinizing Software for Video Editing The Bandicam-Camtasia Comparison for 2024</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-unlocking-creative-potential-in-lyric-videos-with-lyric-video-maker/"><u>[Updated] Unlocking Creative Potential in Lyric Videos with Lyric Video Maker</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-joketileart-imagehumorhub/"><u>2024 Approved JokeTileArt ImageHumorHub</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723013628174-battlefield-5-starts-up-woes-master-the-fastest-fix-techniques-today/"><u>Battlefield 5 Starts-Up Woes? Master the Fastest Fix Techniques Today!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dirt-navigate-game-crashing-woes-heres-how-to-get-unstuck-and-enjoy/"><u>Dirt Navigate Game Crashing Woes? Here's How to Get Unstuck & Enjoy</u></a></li>
-<li><a href="https://win-able.techidaily.com/expert-guide-overcoming-black-display-glitches-in-far-cry-6/"><u>Expert Guide: Overcoming Black Display Glitches in Far Cry 6</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-for-solving-screen-sharing-visual-problems-in-discord-chats/"><u>Expert Tips for Solving Screen Sharing Visual Problems in Discord Chats</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/fine-tune-your-tongue-top-100-accent-boosting-twisters/"><u>Fine-Tune Your Tongue: Top 100 Accent-Boosting Twisters</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-frame-rate-issues-how-to-optimize-your-gaming-experience-with-f1-2021/"><u>Fixing Frame Rate Issues: How to Optimize Your Gaming Experience with F1 2021</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solution-found-fixes-for-world-of-warcraft-unable-to-start-on-windows-systems/"><u>Solution Found: Fixes for 'World of Warcraft' Unable to Start on Windows Systems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/star-wars-battlefront-ii-resolving-the-infamous-black-screen-issue/"><u>Star Wars Battlefront II - Resolving the Infamous 'Black Screen' Issue</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/unlocking-the-fun-in-virtual-reality-explore-our-picks-for-the-best-3-quest-games-with-endless-entertainment/"><u>Unlocking the Fun in Virtual Reality: Explore Our Picks for the Best 3 Quest Games with Endless Entertainment!</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-broadcasting-brilliance-share-your-twitch-stream-on-fb-for-2024/"><u>[Updated] Broadcasting Brilliance Share Your Twitch Stream on FB for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bmp-para-jpeg-online-gratuito-moviavi-converter-como-hacerlo-paso-a-paso/"><u>BMP Para JPEG Online Gratuito: Moviávi Converter - Cómo Hacerlo Paso a Paso</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-s17-pro-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo S17 Pro to iPhone XS/11 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-vivo-t2-pro-5g-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos from Vivo T2 Pro 5G to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-on-infinix-note-30i-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide on Infinix Note 30i FRP Bypass</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-video-creation-and-editing-on-your-mac-with-av-movivid-tutorials/"><u>Mastering Video Creation and Editing on Your Mac with Av MoviVid Tutorials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/web-based-free-convertor-transform-audio-files-from-mp4-to-m4r-move-away-with-ease/"><u>Web-Based Free Convertor: Transform Audio Files From MP4 to M4R - Move Away with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/na-gif-ppm-movavi/"><u>오븐라이न에서 무세포 보각화 GIF – 풋로 이미지를 PPM로 전환하기: Movavi 사용자 가이드</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Fixing Game Crashes in Fallout 3 on Windows 11 PCs"
-date: 2024-09-13T22:51:55.546Z
-updated: 2024-09-17T07:25:31.632Z
+date: 2024-09-17T18:41:25.585Z
+updated: 2024-09-21T20:59:37.085Z
 tags:
   - win11
   - win10
@@ -131,6 +131,13 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap10-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the**Compatibility** tab and click **Run compatibility troubleshooter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-2.png)
@@ -151,6 +158,13 @@ Or
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap11-3.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this fix works, your Origin will open when you double-click its shortcut. If not, try the next fix, below.
 
 ---
@@ -167,19 +181,6 @@ Or
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### **Fix 5: Perform a clean boot**
 
 You may need to   **perform a clean boot** if this issue persists  . The clean boot is a troubleshooting technique that allows you to manually disable startups and services so that you can find out the problematic software. Once you find it out, just uninstall it, and then the this  issue will be solved. Here’s how to do it:
@@ -187,13 +188,6 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
  1) On your keyboard, press**the** **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap266-1.png)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Select the**Services** tab, check **Hide all Microsoft services** and then click **Disable all** .
 
@@ -203,50 +197,44 @@ You may need to   **perform a clean boot** if this issue persists  . The clean b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap261-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) On the**Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disabled** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-12.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://bluettius.sjv.io/c/5597632/2139112/17108" target="_top" id="2139112">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139112" border="0" alt="https://techidaily.com" width="250" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139112/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  5) Go back to the**System Configuration** window and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap262-1.png)
 
-<!-- affiliate ads begin -->
-<span id="1424529">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424529.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424529">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424529.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424529%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424529/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) Click**Restart** to restart your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/08/Snap263-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Run Origin and check whether the problem reappears when your PC restarts. If not, you need to open the**System Configuration** window again to enable services and applications**one by one** until you find the problematic software. After enabling each service, you need to **restart** your PC to apply the changes.
 
  Once you find out the problematic software, you need to **uninstall** it in order to resolve this issue. If this fix failed to resolve this problem, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### **Fix 6: Install the latest Windows updates**
 
@@ -312,17 +300,21 @@ iv. Restart your Windows system when it is completed.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-in-2024-elevating-your-visuals-mastering-instagram-edits-in-fcpx/"><u>[New] In 2024, Elevating Your Visuals Mastering Instagram Edits in FCPX</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-in-2024-prevention-of-fetal-alcohol-syndrome/"><u>[New] In 2024, Prevention of Fetal Alcohol Syndrome</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/updated-premier-software-for-cutting-gopro-videos-for-2024/"><u>[Updated] Premier Software for Cutting GoPro Videos for 2024</u></a></li>
-<li><a href="https://driver-download.techidaily.com/download-and-enhance-your-hid-keyboard-seamless-drivers-available-here/"><u>Download & Enhance Your HID Keyboard: Seamless Drivers Available Here</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-restore-audio-in-lost-ark-a-step-by-step-fix-for-sound-glitches/"><u>How to Restore Audio in 'Lost Ark': A Step-by-Step Fix for Sound Glitches</u></a></li>
-<li><a href="https://solve-manuals.techidaily.com/latest-enhancements-in-ocr-technology-insights-from-the-abbyy-experts/"><u>Latest Enhancements in OCR Technology: Insights From the ABBYY Experts</u></a></li>
-<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-when-your-nvidia-settings-wont-load-or-start/"><u>Step-by-Step Solutions for When Your NVIDIA Settings Won't Load or Start</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/the-limitations-content-creation-beyond-bot-capabilities/"><u>The Limitations: Content Creation Beyond Bot Capabilities</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-frame-rate-drops-in-borderlands-3-essential-pc-tweaks-and-adjustments-for-a-smoother-experience/"><u>Troubleshoot Frame Rate Drops in Borderlands 3: Essential PC Tweaks and Adjustments for a Smoother Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-fixes-how-to-get-elden-rings-online-mode-up-and-running/"><u>Troubleshooting Fixes: How to Get Elden Ring's Online Mode Up and Running</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-gameplay-errors-resolving-constant-crashes-in-formula-1-2021-for-windows-pcs/"><u>Troubleshooting Gameplay Errors: Resolving Constant Crashes in Formula 1 2021 for Windows PCs</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/unlocking-maximum-potential-of-macbook-pro-through-ssd-upgrade/"><u>Unlocking Maximum Potential of MacBook Pro Through SSD Upgrade</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-how-to-master-switch-pro-controller-gaming-in-steam/"><u>[New] How to Master Switch Pro Controller Gaming in Steam</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-unmissable-vr-storytelling-masterpieces/"><u>[Updated] 2024 Approved Unmissable VR Storytelling Masterpieces</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-leveraging-fb-media-speeds-up-strategies/"><u>2024 Approved Leveraging FB Media Speeds Up Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-vos-fichiers-ogg-en-oga-gratuitement-sur-internet-avec-movavi/"><u>Convertissez Vos Fichiers Ogg en Oga Gratuitement Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elite-firefox-screencap-add-ons-for-2024/"><u>Elite Firefox Screencap Add-Ons for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gebruikbaarheid-van-mp4-naar-avi-professionele-online-converteren/"><u>Gebruikbaarheid Van MP4 Naar AVI: Professionele Online-Converteren</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-verizon-apple-iphone-12-pro-max-by-drfone-ios/"><u>How to Unlock Verizon Apple iPhone 12 Pro Max</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-unlock-your-apple-iphone-xs-max-in-minutes-with-iccid-code-everything-you-need-to-know-by-drfone-ios/"><u>In 2024, Unlock Your Apple iPhone XS Max in Minutes with ICCID Code Everything You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pas-rw2-fotos-in-gratis-online-png-format-met-moviva-converteer-kostenloos/"><u>Pas RW2 Foto's in Gratis Online PNG Format Met MoviVa - Converteer Kostenloos!</u></a></li>
+<li><a href="https://windows11.techidaily.com/quick-glances-to-your-favorites-windows-shortcuts-uwp-apps/"><u>Quick Glances to Your Favorites: Windows Shortcuts (UWP Apps)</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/stream-smarter-with-chromecast-or-roku-analyzing-the-top-two-devices-on-the-market/"><u>Stream Smarter with Chromecast or Roku? Analyzing the Top Two Devices on the Market</u></a></li>
+<li><a href="https://driver-error.techidaily.com/tackling-vintage-usb-composite-unit-issues-solutions-for-a-smarter-connection/"><u>Tackling Vintage USB Composite Unit Issues - Solutions for a Smarter Connection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformar-seus-arquivos-vob-em-wma-gratuitamente-online-com-o-conversor-movavi-guia-facil/"><u>Transformar Seus Arquivos VOB Em WMA Gratuitamente Online Com O Conversor Movavi - Guia Fácil!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformar-video-wmv-en-mp4-sin-coste-adicional-guia-para-usar-el-sitio-web-de-movavi/"><u>Transformar Video WMV en MP4 Sin Coste Adicional: Guía Para Usar El Sitio Web De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trasforma-immagini-orf-a-jpeg-online-e-liberamente-con-imageease-by-vivivox/"><u>Trasforma Immagini ORF a JPEG Online E Liberamente Con ImageEase by ViviVox</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unveiling-the-secrets-of-dat-files-how-to-access-and-insights-into-its-structure/"><u>Unveiling the Secrets of DAT Files - How to Access and Insights Into Its Structure</u></a></li>
 </ul></div>
 

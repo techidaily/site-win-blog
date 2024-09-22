@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] NVIDIA GeForce Overlay Not Working"
-date: 2024-09-13T04:51:52.606Z
-updated: 2024-09-16T18:17:44.517Z
+date: 2024-09-14T17:58:20.513Z
+updated: 2024-09-21T20:57:25.246Z
 tags:
   - win11
   - win10
@@ -116,25 +116,18 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-2.jpg)
 2. View Control Panel by **Large icons** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115917/19272" target="_top" id="2115917">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115917" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115917/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select your **AMD Radeon Settings** to open it.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Step 2: Lower in-game graphics settings
 
@@ -155,16 +148,10 @@ To optimize the graphics settings, follow the steps below:
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<span id="1983551">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136536/16384" target="_top" id="2136536">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136536" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136536/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
@@ -172,13 +159,20 @@ To optimize the graphics settings, follow the steps below:
 
 ![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
+  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Close other demanding apps running in the background
@@ -190,10 +184,10 @@ To optimize the graphics settings, follow the steps below:
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132162/7443" target="_top" id="2132162">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132162" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2027162/19272" target="_top" id="2027162">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027162" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132162/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027162/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
@@ -234,20 +228,21 @@ Launch It Takes Two to see if you would get a better FPS.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-lab.techidaily.com/he-complete-breakdown-why-your-video-needs-proper-tagging/"><u>[New] The Complete Breakdown Why Your Video Needs Proper Tagging</u></a></li>
-<li><a href="https://fox-cloud.techidaily.com/updated-pushing-boundaries-top-virtual-reality-game-development-tools/"><u>[Updated] Pushing Boundaries Top Virtual Reality Game Development Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-errors-and-fixes-for-installing-robocop-rogue-city-a-guide-to-getting-it-running-on-pc/"><u>Common Errors and Fixes for Installing 'RoboCop: Rogue City': A Guide to Getting It Running on PC</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/deciphering-androids-lightroom-capabilities-for-2024/"><u>Deciphering Android's Lightroom Capabilities for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-advice-overcoming-starfield-not-loading-problems-in-pc-and-xbox-gaming/"><u>Expert Advice: Overcoming Starfield Not Loading Problems in PC and Xbox Gaming</u></a></li>
-<li><a href="https://hardware-tips.techidaily.com/expert-analysis-on-pcs-laptops-and-devices-by-toms-technology-hub/"><u>Expert Analysis on PCs, Laptops & Devices by Tom's Technology Hub</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-update-fixes-previous-lag-complaints/"><u>Guilty Gear Strive Update Fixes Previous Lag Complaints</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/how-to-remove-a-previously-synced-google-account-from-your-samsung-galaxy-a14-5g-by-drfone-android/"><u>How to Remove a Previously Synced Google Account from Your Samsung Galaxy A14 5G</u></a></li>
-<li><a href="https://voice-adjusting.techidaily.com/new-syncopation-spotlight-the-top-video-editing-software-for-pairing-sound-and-visuals/"><u>New Syncopation Spotlight The Top Video Editing Software for Pairing Sound and Visuals</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-and-enjoy-uninterrupted-gaming-with-these-tips-to-stop-robocop-rogue-city-crashes-on-your-computer/"><u>Troubleshoot and Enjoy Uninterrupted Gaming with These Tips to Stop RoboCop: Rogue City Crashes on Your Computer!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-fix-guide-stop-valheim-from-unexpectedly-shutting-down-on-your-computer/"><u>Ultimate Fix Guide: Stop Valheim From Unexpectedly Shutting Down on Your Computer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-battlefield-5s-crash-dilemma-on-personal-computers/"><u>Ultimate Fixes for Battlefield 5'S Crash Dilemma on Personal Computers</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/unlocking-the-potential-of-chatgpt-a-comprehvew-on-its-use-in-language-translation-services/"><u>Unlocking the Potential of ChatGPT: A Comprehvew on Its Use in Language Translation Services</u></a></li>
-<li><a href="https://howto.techidaily.com/what-to-do-when-honor-magic-6-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Honor Magic 6 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/windows-server-update-services-wsus-everything-you-need-to-know/"><u>Windows Server Update Services (WSUS) - Everything You Need to Know</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-essential-insights-best-instagram-editors-for-mobile-and-pc/"><u>[New] 2024 Approved Essential Insights Best Instagram Editors for Mobile and PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-chromebook-zoom-excellence-must-know-strategies/"><u>[New] Chromebook Zoom Excellence Must-Know Strategies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-mastering-youtube-money-policy-overhaul-details/"><u>[New] Mastering YouTube Money Policy Overhaul Details</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>4 Feasible Ways to Fake Location on Facebook For your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp4mov-movavi/"><u>免費網路服務：MP4到MOV格式改變 - 使用Movavi 過渡工具</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/can-i-bypass-a-forgotten-phone-password-of-tecno-pova-5-pro-by-drfone-android/"><u>Can I Bypass a Forgotten Phone Password Of Tecno Pova 5 Pro?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertir-facilement-votre-mp4-en-webm-sur-internet-gratuitement-avec-loutil-de-conversion-videos-movavi/"><u>Convertir Facilement Votre MP4 en WEBM Sur Internet Gratuitement Avec L'outil De Conversion Vidéos Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-facilement-votre-fichier-arw-en-image-jpeg-une-methode-simplifiee-pour-windows-et-macos/"><u>Convertissez Facilement Votre Fichier ARW en Image JPEG : Une Méthode Simplifiée Pour Windows Et macOS</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/discovering-new-ways-beyond-magix-acid-pro/"><u>Discovering New Ways Beyond Magix ACID Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eps-files-explained-dai-raccomandazioni-alle-opzioni-di-apertura-piu-ottimali/"><u>EPS Files Explained – Dai Raccomandazioni Alle Opzioni Di Apertura Più Ottimali</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-change-mp4-audio-files-into-various-formats-with-movavi/"><u>Free Online Converter: Change MP4 Audio Files Into Various Formats with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-convert-m4r-files-to-aiff-format-with-movavi/"><u>Free Online Converter: Convert M4R Files to AIFF Format with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-transforming-aac-files-into-mpeg-format-moveavi/"><u>Free Online Converter: Transforming AAC Files Into MPEG Format - MoveAVI</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-apple-iphone-15-pro-to-mac-drfone-by-drfone-ios/"><u>How to Mirror Apple iPhone 15 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/identify-some-outdated-your-hardware-drivers-with-windows-device-manager-on-windows-11-by-drivereasy-guide/"><u>Identify some outdated your hardware drivers with Windows Device Manager on Windows 11</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>In 2024, Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
 </ul></div>
 

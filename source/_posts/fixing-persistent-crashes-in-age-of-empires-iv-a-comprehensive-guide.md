@@ -1,7 +1,7 @@
 ---
 title: "Fixing Persistent Crashes in Age of Empires IV: A Comprehensive Guide"
-date: 2024-09-14T05:25:01.076Z
-updated: 2024-09-16T18:44:27.846Z
+date: 2024-09-15T19:23:47.331Z
+updated: 2024-09-22T00:09:38.139Z
 tags:
   - win11
   - win10
@@ -67,6 +67,13 @@ NBA 2K24 Error Code 727e66ac
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037356/7443" target="_top" id="2037356">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037356" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037356/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Change the DNS server
 
  The default DNS server appointed by the ISP (Internet service provider) could have problems like crowded caches and temporary server outages, which could cause network problems like error code 727e66ac in NBA 2K24\. To see if this is an issue for you, you can first flush the DNS, and then switch to a public DNS server.
@@ -78,22 +85,8 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns%E7%9A%84%E5%89%AF%E6%9C%AC.png)
 4. Your DNS cache is successfully cleared.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
@@ -102,6 +95,14 @@ To do so:
 1. On your taskbar, right-click the **network icon** , then click **Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click **Change adapter options** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 
@@ -111,13 +112,6 @@ To do so:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115944/19272" target="_top" id="2115944">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115944" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115944/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
@@ -126,6 +120,13 @@ To do so:
  Then see if the error code 727e66ac is still seen in NBA 2K24\. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139121/17108" target="_top" id="2139121">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139121" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139121/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Verify the integrity of the game files
 
@@ -162,6 +163,13 @@ To verify the game’s files on Epic Games Launcher:
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 5\. Update network card driver
 
  As mentioned, the error code 727e66ac in NBA 2K24 is most likely an issue with the network connection. So if the above doesn’t help to fix the error, it’s possible that you have an outdated or incorrect network card drive, and you should update your drivers to see if it helps.
@@ -175,13 +183,6 @@ To verify the game’s files on Epic Games Launcher:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -190,13 +191,6 @@ To verify the game’s files on Epic Games Launcher:
  Launch NBA 2K24 again to see if the error code 727e66ac is still seen. If this fix doesn’t work for you, try the next fix, below.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Repair damaged or corrupted system files
 
@@ -208,6 +202,14 @@ To verify the game’s files on Epic Games Launcher:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
@@ -233,19 +235,17 @@ To verify the game’s files on Epic Games Launcher:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-2024-approved-gigglestv-beginners-guide-to-making-videos/"><u>[New] 2024 Approved GigglesTV Beginner's Guide to Making Videos</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/new-optimal-memory-support-for-sony-alpha-7sii/"><u>[New] Optimal Memory Support for Sony Alpha 7SII</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-finest-list-of-cost-effective-video-conferencing-apps/"><u>[Updated] Finest List of Cost-Effective Video Conferencing Apps</u></a></li>
-<li><a href="https://common-error.techidaily.com/expert-advice-on-how-to-get-the-steam-store-running-again/"><u>Expert Advice on How To Get The Steam Store Running Again</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-and-techniques-to-correct-severe-malfunctions-in-ark-software/"><u>Expert Tips and Techniques to Correct Severe Malfunctions in ARK Software</u></a></li>
-<li><a href="https://techidaily.com/how-to-hard-reset-realme-narzo-60-5g-without-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Hard Reset Realme Narzo 60 5G Without Password | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-stop-hearthstone-from-crashing-on-your-computer-solution-found/"><u>How to Stop Hearthstone From Crashing on Your Computer (Solution Found)</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/in-2024-how-to-authenticate-your-yt-account-a-hint-list/"><u>In 2024, How to Authenticate Your YT Account? A Hint List</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/nt-insight-into-colour-difference-filming-methods-for-2024/"><u>Instant Insight Into Colour Difference Filming Methods for 2024</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/maximize-shopping-with-walmartplus-4-significant-advantages-await/"><u>Maximize Shopping with Walmart+: 4 Significant Advantages Await</u></a></li>
-<li><a href="https://win-blog.techidaily.com/persona-cuidar-de-los-problemas-del-juego-guia-completa-y-soluciones/"><u>Persona Cuidar De Los Problemas Del Juego - Guía Completa Y Soluciones</u></a></li>
-<li><a href="https://win-blog.techidaily.com/star-wars-battlefront-ii-resolving-the-infamous-black-screen-issue/"><u>Star Wars Battlefront II - Resolving the Infamous 'Black Screen' Issue</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/troubleshooting-guide-what-to-do-if-your-amazon-echo-is-showing-as-disconnected/"><u>Troubleshooting Guide: What To Do If Your Amazon Echo Is Showing as Disconnected</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-solution-for-fixing-nioh-2-game-crashes-on-any-pc/"><u>Ultimate Solution for Fixing Nioh 2 Game Crashes on Any PC</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-embrace-serenity-the-10-best-online-yoga-masters-today/"><u>[New] Embrace Serenity The 10 Best Online Yoga Masters Today</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-earnings-explorer-what-you-get-for-watching-one-million-videos/"><u>2024 Approved Earnings Explorer What You Get for Watching One Million Videos?</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-exploring-many-youtube-courses-together/"><u>2024 Approved Exploring Many YouTube Courses Together</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-revolutionize-video-production-150plus-complimentary-pp-samples/"><u>2024 Approved Revolutionize Video Production 150+ Complimentary PP Samples</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726227405711-tiffbmp/"><u>立即在線將TIFF格式自梵航轉為BMP - 完美的無限制換色器選項</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-installation-of-intel-processor-drivers-download-guide/"><u>Effortless Installation of Intel Processor Drivers - Download Guide</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixing-performance-hiccups-addressing-stuttering-in-age-of-empires-iv-gaming/"><u>Fixing Performance Hiccups: Addressing Stuttering in Age of Empires IV Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-change-m4v-file-to-animated-gif-with-movavi/"><u>Free Online Converter: Change M4V File to Animated GIF with Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-s17e-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo S17e PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-maximizing-your-sound-the-best-microphones-for-podcasting/"><u>In 2024, Maximizing Your Sound The Best Microphones for Podcasting</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-your-music-after-google-pixel-8-has-been-deleted-by-fonelab-android-recover-music/"><u>Recover your music after Google Pixel 8 has been deleted</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformer-un-fichier-gif-en-format-tiff-gratuitement-avec-movavi-online-suivez-ce-guide/"><u>Transformer Un Fichier GIF en Format TIFF Gratuitement Avec Movavi Online - Suivez Ce Guide</u></a></li>
 </ul></div>
 

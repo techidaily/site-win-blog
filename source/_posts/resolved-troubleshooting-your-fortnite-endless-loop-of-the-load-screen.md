@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Troubleshooting Your Fortnite Endless Loop of the Load Screen"
-date: 2024-09-11T17:32:11.401Z
-updated: 2024-09-17T01:00:02.993Z
+date: 2024-09-15T23:10:54.712Z
+updated: 2024-09-22T02:17:48.117Z
 tags:
   - win11
   - win10
@@ -52,10 +52,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3 – Close unnecessary background programs
@@ -69,13 +69,26 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144278/7443" target="_top" id="2144278">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144278/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -88,13 +101,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135476/26400" target="_top" id="2135476">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135476" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135476/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
 
@@ -104,13 +110,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -124,6 +123,13 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123732/7443" target="_top" id="2123732">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123732" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123732/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
@@ -153,15 +159,17 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-essentials-of-dynamic-visual-communication/"><u>[New] In 2024, The Essentials of Dynamic Visual Communication</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solved-metro-exodus-crashing-on-pc/"><u>[Solved] Metro Exodus Crashing on PC</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/how-to-unlock-iphone-6s-apples-new-iphone-drfone-by-drfone-ios/"><u>How to Unlock iPhone 6s, Apples New iPhone | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/improved-experience-say-goodbye-to-lag-in-assassins-creed-valhalla-for-desktop-gamers/"><u>Improved Experience: Say Goodbye to Lag in Assassin’s Creed Valhalla for Desktop Gamers</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-show-wi-fi-password-on-xiaomi-14-by-drfone-android/"><u>In 2024, How to Show Wi-Fi Password on Xiaomi 14</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-a-network-locked-vivo-y78t-phone-by-drfone-android/"><u>In 2024, How to Unlock a Network Locked Vivo Y78t Phone?</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/leading-apps-for-dji-video-manipulation-and-mixing-for-2024/"><u>Leading Apps for DJi Video Manipulation and Mixing for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/navigating-through-blockades-ultimate-solutions-when-roblox-wont-load/"><u>Navigating Through Blockades: Ultimate Solutions When Roblox Won't Load</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-issues-top-7-solutions-if-overwatch-2-wont-start/"><u>Resolving Issues: Top 7 Solutions if Overwatch 2 Won't Start</u></a></li>
-<li><a href="https://techtrends.techidaily.com/unveiling-the-apple-automobile-breaking-news-on-costs-specifications-and-projected-debut-date/"><u>Unveiling the Apple Automobile: Breaking News on Costs, Specifications & Projected Debut Date</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-a-step-by-step-approach-to-freeing-up-space-in-figma/"><u>[New] A Step-by-Step Approach to Freeing Up Space in Figma</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-best-soundshapers-for-content-makers-on-youtube/"><u>[New] In 2024, Best Soundshapers for Content Makers on YouTube</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-complete-assessment-exploring-dji-inspire-1/"><u>[New] In 2024, Complete Assessment Exploring DJI Inspire 1</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-advanced-color-grading-with-luts-in-premiere-pro/"><u>[Updated] 2024 Approved Advanced Color Grading with LUTs in Premiere Pro</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-captivate-viewers-learn-to-perfectly-border-ig-videos/"><u>[Updated] In 2024, Captivate Viewers Learn to Perfectly Border IG Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-capturing-the-extremes-adobes-hdr-creation-in-lightroom/"><u>2024 Approved Capturing the Extremes Adobe's HDR Creation in Lightroom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mova-ogg-and-mov/"><u>迅速なオンライン変換: Mova – 完全無料でOGG & MOVファイル変更</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-s23-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel S23 Fingerprint Lock</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-most-attractive-game-ready-gaming-equipment-for-under-100/"><u>In 2024, The Most Attractive Game-Ready Gaming Equipment for Under $100</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-full-video-library-catalog/"><u>Movavi - Full Video Library Catalog</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-nsvfree-mp4/"><u>Movavi - インターネットからNSVファイルをFREE MP4に再編集</u></a></li>
+<li><a href="https://howto.techidaily.com/strategies-for-apps-that-wont-download-from-play-store-on-samsung-galaxy-a34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Strategies for Apps That Wont Download From Play Store On Samsung Galaxy A34 5G | Dr.fone</u></a></li>
 </ul></div>
 

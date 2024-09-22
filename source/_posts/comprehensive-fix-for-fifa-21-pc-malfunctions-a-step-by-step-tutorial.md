@@ -1,7 +1,7 @@
 ---
 title: "Comprehensive Fix for FIFA 21 PC Malfunctions: A Step-by-Step Tutorial"
-date: 2024-09-09T23:18:36.924Z
-updated: 2024-09-16T16:19:14.789Z
+date: 2024-09-18T01:25:02.753Z
+updated: 2024-09-21T18:17:28.242Z
 tags:
   - win11
   - win10
@@ -58,13 +58,6 @@ thumbnail: https://thmb.techidaily.com/ac0768cd06937c4c888756e7c488f5bb27ac1d6ad
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Method 2: Delete libswscale-3.dll and steamui.dll
 
  When this error pops up, your libswscale-3.dll and steamui.dll files may be crashed. Delete them and next time when you run Steam, it will automatically replace the file with new ones.
@@ -75,13 +68,6 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e03cd90aa70.jpg)
 2. Click **Open File Location** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e03d09b11c7.png)
 3. Click **libswscale-3.dll** and**SteamUI.dll** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e03ee394a22.jpg)
@@ -90,11 +76,31 @@ Here’s how you can do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e03f5cbb068.png)
 6. Restart your Steam to see if it works.
 
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 3: Reinstall Steam
 
  If you have this problem when you try to start Steam, you can reinstall Steam on your computer to try to solve the problem. In this case, Steam will reload a new steamui.dll file on your Windows computer.
 
  If you have the problem with other programs, then simply reinstall the exact program with the problem occurs.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 4: Copy the steamui.dll file from a friends’s PC
 
@@ -111,16 +117,10 @@ Here’s how you can check Windows type of a computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc461cb24500.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1265663">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528696/16446" target="_top" id="1528696">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528696" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528696/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **Part 2:**  Copy the steamui.dll file from the working computer and then paste it to the problem computer.
@@ -149,10 +149,16 @@ Here’s how you can find the dll file:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/img_5c3707207517d.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1531882">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Your problem should then be fixed. Sounds appealing. You can fix any dll error with **[Client](https://tools.techidaily.com/drivereasy/download/)**  for just $17.95(Lifetime license & full support guarantee).
@@ -180,16 +186,10 @@ Or
 ![](https://images.drivereasy.com/wp-content/uploads/2017/10/img_59e0924ab5e29.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 * [Windows](https://tools.techidaily.com/drivereasy/download/)
@@ -209,18 +209,19 @@ Or
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://some-knowledge.techidaily.com/new-expert-streaming-the-creme-de-la-cam-of-6-zoom-cameras/"><u>[New] Expert Streaming The Crème De La Câm' Of #6 Zoom Cameras</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-mastering-custom-whatsapp-ringtone-for-ios-and-android-users/"><u>[Updated] Mastering Custom WhatsApp Ringtone for iOS and Android Users</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-yuva-2-pro-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Yuva 2 Pro.</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/how-to-clean-a-tv-remote/"><u>How to Clean a TV Remote</u></a></li>
-<li><a href="https://fox-that.techidaily.com/how-to-resolve-issues-when-your-iphones-ios-update-gets-stuck-on-resume-downloading/"><u>How to Resolve Issues When Your iPhone's iOS Update Gets Stuck on 'Resume Downloading'</u></a></li>
-<li><a href="https://win-blog.techidaily.com/modern-warfare-3-game-update-correction-no-more-sudden-stops-in-application/"><u>Modern Warfare 3 Game Update Correction - No More Sudden Stops in Application</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722984653771-oculus-link-wont-work-try-these-six-swift-fixes-now/"><u>Oculus Link Won’t Work? Try These Six Swift Fixes Now!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-warning-message-glitches-for-smooth-voice-chat-sessions-online/"><u>Overcoming 'Warning Message' Glitches for Smooth Voice Chat Sessions Online</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-cyberpunk-2077s-fps-performance-issues-clarified/"><u>Resolved: Cyberpunk 2077'S FPS Performance Issues Clarified</u></a></li>
-<li><a href="https://common-error.techidaily.com/solved-making-invisible-networks-appear-on-windows-11s-wi-fi-list/"><u>Solved: Making Invisible Networks Appear on Windows 11'S Wi-Fi List</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/step-by-step-instructions-for-a-full-reset-on-your-acer-device/"><u>Step-by-Step Instructions for a Full Reset on Your Acer Device</u></a></li>
-<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-xiaomi-redmi-k70e-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Xiaomi Redmi K70E | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/ultimate-strategy-for-speedy-mastery-of-czech-skills-online/"><u>Ultimate Strategy for Speedy Mastery of Czech Skills Online</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-2024-approved-from-play-to-pro-setting-up-a-ps4-game-broadcast-hub/"><u>[New] 2024 Approved From Play to Pro Setting up a PS4 Game Broadcast Hub</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-cutting-edge-strategies-to-capture-dynamic-audio-in-video-projects-for-2024/"><u>[New] Cutting-Edge Strategies to Capture Dynamic Audio in Video Projects for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/11-ways-to-fix-it-when-my-nubia-red-magic-8s-pro-wont-charge-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Ways to Fix it When My Nubia Red Magic 8S Pro Wont Charge | Dr.fone</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/2024-approved-setting-up-your-tiktok-broadcast-on-a-desktop/"><u>2024 Approved Setting Up Your TikTok Broadcast on a Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/3gppwmamovavi/"><u>無限制網路3GPP到WMA自由轉換：用Movavi範本</u></a></li>
+<li><a href="https://win-blog.techidaily.com/compreendendo-o-conceito-de-codec-definindo-um-codec/"><u>Compreendendo O Conceito De Codec: Definindo Um Codec</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-sans-frais-de-bmp-en-jpeg-en-ligne-rapide-avec-movavi/"><u>Conversion Sans Frais De BMP en JPEG en Ligne Rapide Avec Movavi</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/foremost-companies-pioneering-vr-technology-for-2024/"><u>Foremost Companies Pioneering VR Technology for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-comment-transformer-un-fichier-flac-en-video-avi-sur-internet-avec-movavi/"><u>Gratuit: Comment Transformer Un Fichier FLAC en Vidéo AVI Sur Internet Avec Movavi</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-11-best-location-changers-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, 11 Best Location Changers for Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/in-2024-how-to-change-your-xiaomi-redmi-note-12-pro-4g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Xiaomi Redmi Note 12 Pro 4G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/satiating-the-social-hangry-with-hilarious-9gag-memes/"><u>Satiating the Social Hangry With Hilarious 9GAG Memes</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/understanding-subtitles-exploring-soft-hard-coded-and-forced-closed-captions/"><u>Understanding Subtitles - Exploring Soft, Hard-Coded, and Forced Closed Captions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmvogv-onlinetoolscom/"><u>WMV/OGV 이미지를 무료로 스트리밍하는 방법 - Onlinetools.com</u></a></li>
 </ul></div>
 

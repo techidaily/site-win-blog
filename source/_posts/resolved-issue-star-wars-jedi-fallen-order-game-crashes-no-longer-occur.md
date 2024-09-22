@@ -1,7 +1,7 @@
 ---
 title: "Resolved Issue: Star Wars Jedi: Fallen Order Game Crashes No Longer Occur"
-date: 2024-09-14T18:38:36.329Z
-updated: 2024-09-16T22:57:51.597Z
+date: 2024-09-19T02:39:03.914Z
+updated: 2024-09-21T20:54:42.906Z
 tags:
   - win11
   - win10
@@ -72,10 +72,10 @@ There are mainly two methods for you to update the graphics driver:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Optimize in-game graphics settings
@@ -106,13 +106,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Sifu after you modified the in-game graphics settings and see if its FPS still drops, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Modify graphics card settings
 
  According to many PC gamers, tweaking the graphics card settings in Nvidia or AMD control panel may also gain some in-game FPS boosts.
@@ -136,14 +129,14 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
- Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
-
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Launch Sifu and see if the in-game FPS increases. If not, move on to the next fix, below.
 
 ## Change Windows power plan
 
@@ -172,6 +165,19 @@ There are mainly two methods for you to update the graphics driver:
 
  If you’ve enabled overlays while playing Sifu, try disabling it. Then launch Sifu again and see if the in-game FPS improves. If this issue persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<span id="1983582">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983582.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983582">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983582.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983582%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983582/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  The background recording and Xbox Game Bar feature in Windows 10 / 11 would constantly run in the background once enabled, hogging tons of resources. To gain a better FPS, you may need to disable them. Here is how to do it:
@@ -181,10 +187,10 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
@@ -216,14 +222,21 @@ Launch Sifu to see you can play it smoothly.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-data.techidaily.com/tep-by-step-setting-up-unique-youtube-shorts-thumbnails-for-2024/"><u>[New] Step-by-Step Setting Up Unique YouTube Shorts Thumbnails for 2024</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-demystifying-igtv-for-a-comprehensive-social-media-experience/"><u>[Updated] 2024 Approved Demystifying IGTV For a Comprehensive Social Media Experience</u></a></li>
-<li><a href="https://extra-support.techidaily.com/2024-approved-next-gen-spaceholders-unveiling-the-quintessential-cloud-providers/"><u>2024 Approved Next-Gen Spaceholders Unveiling the Quintessential Cloud Providers</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/a-selection-of-high-quality-tiktok-backdrops/"><u>A Selection of High-Quality TikTok Backdrops</u></a></li>
-<li><a href="https://win-blog.techidaily.com/boosting-your-ark-survival-ascended-experience-best-practices-for-enhanced-pc-performance/"><u>Boosting Your ARK Survival Ascended Experience – Best Practices for Enhanced PC Performance</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dota-2-frame-rate-optimization-successfully-implemented-for-windows-11-and-10-users/"><u>Dota 2 Frame Rate Optimization Successfully Implemented for Windows 11 and 10 Users</u></a></li>
-<li><a href="https://win-blog.techidaily.com/enhanced-gaming-experience-with-smoothed-out-gta-5-performance-fixes/"><u>Enhanced Gaming Experience with Smoothed Out GTA 5 Performance Fixes</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/experience-the-unveiling-of-dell-xps-13-7390-the-ultimate-2-in-1-laptop-with-stunning-design/"><u>Experience the Unveiling of Dell XPS 13 (7390): The Ultimate 2-In-1 Laptop with Stunning Design</u></a></li>
-<li><a href="https://win-blog.techidaily.com/quick-fixes-resolving-window-freezes-in-chrome-for-windows-10-users/"><u>Quick Fixes: Resolving Window Freezes in Chrome for Windows 10 Users</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-20plus-secrets-to-insta-wonderful-videos/"><u>[New] In 2024, 20+ Secrets to Insta-Wonderful Videos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-effortless-screen-capturing-with-your-iphone-7/"><u>[Updated] 2024 Approved Effortless Screen Capturing with Your iPhone 7</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-navigating-the-world-of-asmr-videos/"><u>[Updated] 2024 Approved Navigating the World of ASMR Videos</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-simplifying-igtv-access-on-computers-top-download-methods-unveiled/"><u>[Updated] 2024 Approved Simplifying IGTV Access on Computers Top Download Methods Unveiled</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-discover-the-power-of-audacity-for-mac-users-audio-recording-for-2024/"><u>[Updated] Discover the Power of Audacity for Mac Users' Audio Recording for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726224864078-wav-aac-movavi/"><u>対話型 WAV ファイルからAACへのストリーミング変換ツール - 動画彩(Movavi)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ai-10-2024/"><u>AI 생성 이미지를 위한 최선의 소스와 소프트웨어: 현대에 권장하는 10가지 - 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-gif-compression-software-top-6-tools-by-movavi-for-optimal-file-size-reduction/"><u>BEST GIF Compression Software: Top 6 Tools by Movavi for Optimal File Size Reduction</u></a></li>
+<li><a href="https://extra-information.techidaily.com/boosting-views-a-guide-for-tiktok-unboxing-gurus/"><u>Boosting Views A Guide for TikTok Unboxing Gurus</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/expert-advice-on-computer-components-from-toms-hardware-hub/"><u>Expert Advice on Computer Components From Tom's Hardware Hub</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-change-pbm-files-into-png-format-with-movavi/"><u>Free Online Converter: Change PBM Files Into PNG Format with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guida-rapida-converti-gratuitamente-le-tue-tracce-audio-mp3-nel-formato-video-mkv-utilizzando-movavi-online-converter/"><u>Guida Rapida: Converti Gratuitamente Le Tue Tracce Audio MP3 Nel Formato Video MKV Utilizzando Movavi Online Converter</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-deleted-data-from-iphone-11-pro-max-using-stellar-data-recovery-for-iphone-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Deleted Data from iPhone 11 Pro Max using Stellar Data Recovery for iPhone? | Stellar</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-shooting-hdr-on-iphone-a-comprehensive-guide/"><u>In 2024, Shooting HDR on iPhone A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mirroring-your-iphone-screen-on-windows-10-discover-the-top-7-methods/"><u>Mirroring Your iPhone Screen on Windows 10: Discover the Top 7 Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-11-hd-streaming-services-updated-list-by-movavi/"><u>Top 11 HD Streaming Services - Updated List by Movavi</u></a></li>
 </ul></div>
 

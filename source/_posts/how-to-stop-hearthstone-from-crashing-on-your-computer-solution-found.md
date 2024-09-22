@@ -1,7 +1,7 @@
 ---
 title: How to Stop Hearthstone From Crashing on Your Computer (Solution Found)
-date: 2024-09-12T02:39:19.016Z
-updated: 2024-09-16T17:14:37.477Z
+date: 2024-09-18T02:19:32.008Z
+updated: 2024-09-22T01:51:46.362Z
 tags:
   - win11
   - win10
@@ -78,25 +78,25 @@ If the crashing issue persists, continue to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
-  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Once you have done this, restart Steam and try launching the game again to see if your problem has been resolved.
 
 If the crashing issue remains, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -111,15 +111,15 @@ If the crashing issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134237/18498" target="_top" id="2134237">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134237" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134237/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -128,10 +128,10 @@ If the crashing issue remains, move on to the next fix.
  If updating your graphics driver doesn’t work for you, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115909/19272" target="_top" id="2115909">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115909" border="0" alt="https://techidaily.com" width="120" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948932/19272" target="_top" id="1948932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948932" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115909/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5: Check your antivirus settings
@@ -152,15 +152,22 @@ If the crashing issue remains, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
-4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager, then navigate to the**Startup** tab.  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1743243">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1743243.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/19272-1743243">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1743243.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Faligracehair.sjv.io%2Fc%2F5597632%2F1743243%2F19272'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1743243/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
+4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager, then navigate to the**Startup** tab.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
@@ -192,12 +199,20 @@ If the crashing issue remains, move on to the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://vimeo-videos.techidaily.com/new-the-ultimate-guide-to-making-money-with-vimeo-monetization/"><u>[New] The Ultimate Guide to Making Money with Vimeo Monetization</u></a></li>
-<li><a href="https://win-blog.techidaily.com/batman-arkham-knight-crash-fixes-mastering-game-stability/"><u>Batman: Arkham Knight Crash Fixes - Mastering Game Stability !</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-motorsports-gaming-tips-to-address-and-rectify-fps-issues-in-the-2021-formula-one-pc-game/"><u>Mastering Motorsports Gaming: Tips to Address and Rectify FPS Issues in the 2021 Formula One PC Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-compatibility-hurdles-making-itunes-recognize-an-iphone-on-a-windows-11-pc/"><u>Overcoming Compatibility Hurdles: Making iTunes Recognize an iPhone on a Windows 11 PC</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/simplify-slide-sharing-at-work-webcam-assisted-tips/"><u>Simplify Slide Sharing at Work Webcam-Assisted Tips</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/top-picks-the-ultimate-wireless-routers-for-your-travel-needs/"><u>Top Picks: The Ultimate Wireless Routers for Your Travel Needs</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/unlocking-iphone-xr-lock-screen-3-foolproof-methods-that-actually-work-drfone-by-drfone-ios/"><u>Unlocking iPhone XR Lock Screen 3 Foolproof Methods that Actually Work | Dr.fone</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-unlock-iphones-full-video-loop-potential/"><u>[New] 2024 Approved Unlock iPhone's Full Video Loop Potential</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-expert-review-of-ios-screenshot-software/"><u>2024 Approved Expert Review of iOS Screenshot Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-12-pro-without-passcode-or-face-id-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone 12 Pro without Passcode or Face ID</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-zen-3-powered-ayaneo-am01-the-next-generation-of-mini-pcs-with-classic-macintosh-design-flair/"><u>AMD Zen 3 Powered Ayaneo AM01 - The Next Generation of Mini-PCs with Classic Macintosh Design Flair</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cambiar-formato-de-video-online-gratis-convertir-voc-a-avi-con-movavi/"><u>Cambiar Formato De Video Online Gratis: Convertir VOC a AVI Con Movavi</u></a></li>
+<li><a href="https://win11.techidaily.com/clearing-windows-10-tracking-step-by-step-tutorial/"><u>Clearing Windows 10 Tracking: Step-by-Step Tutorial</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/enabling-dynamic-hdr-in-windows-11-os/"><u>Enabling Dynamic HDR in Windows 11 OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-change-rmvb-files-into-flv-format-with-movavi/"><u>Free Online Converter: Change RMVB Files Into FLV Format with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-mp3-to-mpeg-converter-by-movavi-quick-and-easy-audio-format-switching/"><u>Free Online MP3-to-MPEG Converter by Movavi: Quick and Easy Audio Format Switching</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-passo-a-passo-para-extracao-de-audio-do-video-pela-internet/"><u>Guia Passo a Passo Para Extração De Áudio Do Video Pela Internet</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-top-10-samsung-galaxy-f34-5g-android-sim-unlock-apk-by-drfone-android/"><u>In 2024, Top 10 Samsung Galaxy F34 5G Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tecnicas-ideais-para-maximizar-o-engajamento-do-audiencia-em-seu-contente-de-youtube/"><u>Técnicas Ideais Para Maximizar O Engajamento Do Audiência Em Seu Contente De Youtube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforme-seus-arquivos-em-movimento-gratuitamente-converter-flv-para-wma-on-line-usando-movavi/"><u>Transforme Seus Arquivos Em Movimento Gratuitamente: Converter FLV Para WMA On-Line Usando Movavi!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/jpeg-jpegnef-movavi/"><u>ネイチェリーJPEGに自動的に変更: JPEGへの無料オンラインNEF フォーマット変換 - Movavi</u></a></li>
 </ul></div>
 

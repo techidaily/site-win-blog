@@ -1,7 +1,7 @@
 ---
 title: Paradox Launcher Malfunction? Here's How to Get It Up and Running Again
-date: 2024-09-09T20:28:44.896Z
-updated: 2024-09-16T23:13:52.450Z
+date: 2024-09-18T02:07:37.468Z
+updated: 2024-09-21T22:11:08.525Z
 tags:
   - win11
   - win10
@@ -87,6 +87,13 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134223/18498" target="_top" id="2134223">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134223/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 3\. Make sure your Windows is updated
 
  If your system isn’t updated regularly, there could be missing redistributables and outdated .NET Framework, which are essential to game launchers like Paradox Launcher. Luckily, most of these required files can be downloaded and installed via Windows Update. So you should make sure that you have the latest available updates installed:
@@ -96,22 +103,8 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115934/19272" target="_top" id="2115934">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115934" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115934/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
@@ -119,22 +112,35 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 4\. Modify your antivirus program settings
 
  Windows Defender, or a third-party antivirus program, could mistake your Paradox Launcher as a threat, as it usually consumes a lot of memory and CPU usage when a game is running. To make sure that your antivirus program is not the culprit to the Paradox Launcher not working problem, here are two things that you can do:
+
+<!-- affiliate ads begin -->
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 4.1 Add Steam and the game to the antivirus exception list
 
  Third-party antivirus applications hook very deep into your system, so it may interfere with Steam and Paradox Launcher. To avoid this problem, you can try   **adding both Steam and Paradox Launcher as exceptions to your third-party antivirus application** .
 
  If you’re not sure how to do it, please consult your antivirus documentation for further instructions.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135409/19272" target="_top" id="2135409">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135409" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135409/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4.2 Make sure bootstrapper-v2.exe is not flagged as a virus
 
@@ -152,26 +158,13 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
@@ -188,6 +181,13 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
@@ -224,21 +224,20 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://digital-screen-recording.techidaily.com/new-live-streaming-made-easy-expert-reviews-of-top-obs-tools-for-2024/"><u>[New] Live Streaming Made Easy Expert Reviews of Top OBS Tools for 2024</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/new-the-insiders-handbook-to-crafting-shareable-meme-gifs/"><u>[New] The Insider's Handbook to Crafting Shareable Meme GIFs</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/new-unleash-your-creative-vision-with-youtubes-filmmaking-courses/"><u>[New] Unleash Your Creative Vision with YouTube's Filmmaking Courses</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-transition-from-phone-videos-to-televisual-viewing-for-2024/"><u>[Updated] Transition From Phone Videos to Televisual Viewing for 2024</u></a></li>
-<li><a href="https://fox-http.techidaily.com/2024-approved-synchronize-and-schedule-mastering-zoom-on-your-android-phone/"><u>2024 Approved Synchronize & Schedule Mastering Zoom on Your Android Phone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/as-6-melhores-tecnicas-para-digitalizar-seus-dvds-atualizacoes-e-dicas-de-2023/"><u>As 6 Melhores Técnicas Para Digitalizar Seus DVDs: Atualizações E Dicas De 2023</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722994838148-master-guide-for-resolving-the-perplexing-exit-code-0-glitch-in-your-favorite-game-minecraft/"><u>Master Guide for Resolving the Perplexing Exit Code 0 Glitch in Your Favorite Game, Minecraft!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-launch-errors-for-valheim-players-in-early-2024/"><u>Overcoming Launch Errors for Valheim Players in Early 2024</u></a></li>
-<li><a href="https://win11.techidaily.com/reversing-missing-directory-indicators/"><u>Reversing Missing Directory Indicators</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-your-utorrent-connectivity-problems-tips-for-successful-downloadingpeer-linking/"><u>Solving Your uTorrent Connectivity Problems - Tips for Successful Downloading/Peer Linking</u></a></li>
-<li><a href="https://article-files.techidaily.com/the-latest-evolution-2023s-samsung-bd-j5900-review-for-2024/"><u>The Latest Evolution 2023'S Samsung BD-J5900 Review for 2024</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/toms-hardware-decoded-in-depth-analysis-of-modern-computing-and-electronics/"><u>Tom's Hardware Decoded: In-Depth Analysis of Modern Computing and Electronics</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-continuous-loading-screens-in-among-us-gameplay/"><u>Troubleshooting Continuous Loading Screens in Among Us Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-lag-and-connectivity-problems-in-the-latest-version/"><u>Troubleshooting Steps to Resolve Lag & Connectivity Problems in the Latest Version</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-when-you-encounter-continuous-freezer-application-failures-on-pc/"><u>Troubleshooting Steps When You Encounter Continuous Freezer Application Failures on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-getting-origin-to-open-on-windows-11-systems/"><u>Troubleshooting Tips for Getting 'Origin' To Open on Windows 11 Systems</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-inspire-business-identity-utilize-free-logo-templates-and-modify-endlessly/"><u>[New] 2024 Approved Inspire Business Identity Utilize Free Logo Templates & Modify Endlessly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/advanced-methods-for-fisheye-imaging-excellence/"><u>Advanced Methods for Fisheye Imaging Excellence</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-techniques-to-record-your-pcs-display-and-audio-in-windows-11/"><u>Best Techniques to Record Your PC's Display and Audio in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-facile-de-wmv-a-mp4-avec-des-outils-gratuites/"><u>Conversion Facile De WMV À MP4 Avec Des Outils Gratuites</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-activation-tips-for-movavi-tools-in-windows-environments/"><u>Easy Activation Tips for Movavi Tools in Windows Environments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-of-snd-audio-files-easy-with-movavi/"><u>Free Online Conversion of SND Audio Files - Easy with Movavi</u></a></li>
+<li><a href="https://video-capture.techidaily.com/how-to-resolve-the-error-0x887a0004-when-watching-films-and-series/"><u>How to Resolve the 'Error 0X887A0004' When Watching Films and Series</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/how-to-upgrade-your-displaylink-graphics-cards-for-win11win8win7/"><u>How to Upgrade Your DisplayLink Graphics Cards for Win11/Win8/Win7</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-guide-to-personalizing-your-android-device-sound-system/"><u>In 2024, The Ultimate Guide to Personalizing Your Android Device Sound System</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-itel-s23-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Itel S23 Phone Pattern Lock</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-the-latest-version-of-mpow-bluetooth-drivers-for-improved-compatibility-with-windows-1187-download-here/"><u>Install the Latest Version of MPOW Bluetooth Drivers for Improved Compatibility with Windows 11/8/7 - Download Here</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-through-the-labyrinth-of-updater-0x800f080a-on-windows/"><u>Navigating Through the Labyrinth of Updater 0X800F080A on Windows</u></a></li>
+<li><a href="https://ai-topics.techidaily.com/new-the-best-text-to-audio-converters-of-all-times/"><u>New The Best Text-to-Audio Converters of All Times</u></a></li>
+<li><a href="https://win-blog.techidaily.com/surekli-ucretsiz-webm-ve-mp4-filmleri-donusturme-yapmayi-zamaninda-kolayca-calismak-konusunda/"><u>Sürekli Ücretsiz Webm Ve MP4 Filmleri Dönüştürme Yapmayı Zamanında Kolayca Çalışmak Konusunda</u></a></li>
+<li><a href="https://win-blog.techidaily.com/veelvoudig-dvd-avi-omzetter-ruimtelijk-door-optimaal-na-movavi/"><u>Veelvoudig DVD-AVI Omzetter Ruimtelijk Door Optimaal Na Movavi</u></a></li>
 </ul></div>
 

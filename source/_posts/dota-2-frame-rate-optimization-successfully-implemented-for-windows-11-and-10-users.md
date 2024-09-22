@@ -1,7 +1,7 @@
 ---
 title: Dota 2 Frame Rate Optimization Successfully Implemented for Windows 11 and 10 Users
-date: 2024-09-09T19:15:12.396Z
-updated: 2024-09-16T23:38:37.601Z
+date: 2024-09-15T20:14:14.701Z
+updated: 2024-09-21T21:28:27.346Z
 tags:
   - win11
   - win10
@@ -96,14 +96,14 @@ There are mainly two methods for you to update the graphics driver:
 ![steam dota2 properties](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-dota2-properties.jpg)
 2. In the GENERAL section, Uncheck **Enable Steam Overlay while in-game** .  
 
-![Disable steam overlay in Dota 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-steam-overlay-in-Dota-2.jpg)
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Disable steam overlay in Dota 2](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-steam-overlay-in-Dota-2.jpg)
 
  Launch Dota 2 to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
@@ -128,13 +128,6 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch Dota 2 to see if you get a better FPS. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 6: Modify the graphics settings
 
  If the FPS in Dota2 still doesn’t improve, you may need to modify the graphics settings. If you don’t know how, just follow the steps below.
@@ -154,11 +147,26 @@ There are mainly two methods for you to update the graphics driver:
 2. View the Control Panel by **Large icons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144299/7443" target="_top" id="2144299">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144299" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144299/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the**Program Settings** tab. In the**Select a program to customize:** part, add Dota 2 from the program list.  
 
 ![Dota 2 modify Nvidia control panel](https://images.drivereasy.com/wp-content/uploads/2021/04/Dota-2-modify-Nvidia-control-panel.jpg)
 5. In the**Specify the settings for this program** : part, modify the following settings:  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **CUDA – GPUs** : set it to_your dedicated GPU_  
 **Power management mode** : set it to_Prefer maximum performance_  
@@ -176,13 +184,6 @@ There are mainly two methods for you to update the graphics driver:
 4. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137227/26400" target="_top" id="2137227">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137227" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137227/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### Modify Intel graphics card settings
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open the Control Panel.  
@@ -197,15 +198,15 @@ There are mainly two methods for you to update the graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings.jpg)
 5. Click **Scan** to add the game to the application list.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-2.png)
 6. Modify the settings the same way you see in the screenshot below.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Intel-graphics-3D-settings-3.png)
 7. Click **Apply** to save the settings.  
@@ -233,6 +234,13 @@ To modify Windows OS graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-57.png)
 3. Select**Dota 2** from the list of apps, and select**High performance** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-56.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Step 3: Modify in-game graphics settings
 
@@ -300,19 +308,6 @@ To set Dota 2 to High priority:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![End task](https://images.drivereasy.com/wp-content/uploads/2019/07/Task-Manager.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1834906">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Run Dota 2 again to see if you can play the game smoothly. if not, try the next fix, below.
 
 ## Fix 9: Set the Power Plan of your PC for Best Performance
@@ -353,16 +348,20 @@ Launch Dota 2 to see if you resolve the FPS drops issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-first-steps-in-using-zooms-group-rooms/"><u>[New] In 2024, First Steps in Using Zoom's Group Rooms</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-channel-confidence-tips-for-trending-on-youtube/"><u>[Updated] 2024 Approved Channel Confidence Tips for Trending on YouTube</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dirt-navigate-game-crashing-woes-heres-how-to-get-unstuck-and-enjoy/"><u>Dirt Navigate Game Crashing Woes? Here's How to Get Unstuck & Enjoy</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-frame-rate-issues-how-to-optimize-your-gaming-experience-with-f1-2021/"><u>Fixing Frame Rate Issues: How to Optimize Your Gaming Experience with F1 2021</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/improve-visual-performance-in-the-sims-4-correcting-the-video-card-problem/"><u>Improve Visual Performance in The Sims 4: Correcting the Video Card Problem</u></a></li>
-<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-poco-x6-pro-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Poco X6 Pro | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-warzone-gameplay-eliminate-that-vexing-directx-error-using-this-straightforward-4-step-fix/"><u>Mastering Warzone Gameplay: Eliminate That Vexing DirectX Error Using This Straightforward 4-Step Fix</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-your-messages-after-honor-x50iplus-has-been-deleted-by-fonelab-android-recover-messages/"><u>Recover your messages after Honor X50i+ has been deleted</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/the-best-android-unlock-software-for-oppo-a78-5g-device-top-5-picks-to-remove-android-locks-by-drfone-android/"><u>The Best Android Unlock Software For Oppo A78 5G Device Top 5 Picks to Remove Android Locks</u></a></li>
-<li><a href="https://os-tips.techidaily.com/the-ultimate-list-of-the-9-most-effective-android-emulators-on-pc-and-mac/"><u>The Ultimate List of the 9 Most Effective Android Emulators on PC & Mac</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/vr-surgical-training-and-planning-systems/"><u>VR Surgical Training and Planning Systems</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-discovering-intova-edges-dynamic-capabilities-for-2024/"><u>[New] Discovering Intova Edge's Dynamic Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-whats-your-youtube-revenue-breakdown-per-branded-playlist/"><u>[Updated] 2024 Approved What's Your Youtube Revenue Breakdown per Branded Playlist?</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-your-storytelling-adding-captions-on-instagram-for-2024/"><u>[Updated] Streamlining Your Storytelling Adding Captions on Instagram for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-filmmaking-foundations-understanding-screenplays/"><u>2024 Approved Filmmaking Foundations Understanding Screenplays</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/bambu-lab-unveils-quick-printing-bed-slinger-meet-the-advanced-a1-3d-printer-available-december-14th/"><u>Bambu Lab Unveils Quick Printing 'Bed Slinger': Meet the Advanced A1 3D Printer – Available December 14Th</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decouvrez-la-signification-du-debit-binaire-video-et-tout-ce-quil-implique-pour-votre-streaming-en-ligne/"><u>Découvrez La Signification Du Débit Binaire Vidéo Et Tout Ce Qu'il Implique Pour Votre Streaming en Ligne.</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/guide-making-headphones-appear-in-windows-10-playback-device-list/"><u>Guide: Making Headphones Appear in Windows 10 Playback Device List</u></a></li>
+<li><a href="https://win-blog.techidaily.com/image-rotation-techniques-with-movavi-photo-editor-and-the-second-one-means-easy-guide-for-flipping-and-rotating-images-with-movavi/"><u>Image Rotation Techniques with Movavi Photo Editor, and the Second One Means Easy Guide for Flipping and Rotating Images with Movavi.</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-se-2022-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone SE (2022)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-software-capture-microphone-and-surround-sound-with-advanced-screen-recording/"><u>Movavi Software: Capture Microphone & Surround Sound with Advanced Screen Recording</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-non-installing-java-in-windows-environment/"><u>Solutions for Non-Installing Java in Windows Environment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tolerance-for-ambiguity-within-an-organizations-culture-allows-it-to-adapt-and-pursue-new-ideas-effectively/"><u>Tolerance for Ambiguity Within an Organization's Culture Allows It to Adapt and Pursue New Ideas Effectively.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-19-editors-of-the-best-videos-easy-tutorials-for-enhancing-your-content/"><u>Top 19 Editors of the Best Videos : Easy Tutorials for Enhancing Your Content</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/transfer-your-memories-top-10-methods-to-move-iphone-pictures-onto-a-mac/"><u>Transfer Your Memories: Top 10 Methods to Move iPhone Pictures Onto a Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ogm-to-mpegmovavi/"><u>オンラインで簡単なOGM to MPEG変換：Movavi無料ツール</u></a></li>
 </ul></div>
 

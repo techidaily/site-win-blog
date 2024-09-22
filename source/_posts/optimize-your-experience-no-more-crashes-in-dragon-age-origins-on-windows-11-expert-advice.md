@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Experience: No More Crashes in Dragon Age: Origins on Windows 11 – Expert Advice"
-date: 2024-09-11T05:56:14.695Z
-updated: 2024-09-16T16:07:20.317Z
+date: 2024-09-14T18:56:47.443Z
+updated: 2024-09-22T01:22:12.133Z
 tags:
   - win11
   - win10
@@ -93,16 +93,23 @@ Here’s how you can download and install Windows updates:
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
+  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -126,13 +133,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## 5\. Verify integrity of game files
 
  The built-in tool “verify integrity of game files” on Steam should be utilized when you try to troubleshoot any issues you’re having with the game. It helps ensure that your game files are intact and if necessary, repair any bad or corrupted game data.
@@ -147,18 +147,18 @@ To verify the integrity of game files, take these steps:
 
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
 
  Once finished, play Outriders and check if your game still stutters a lot. If it is, proceed to the next fix.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 6\. Disable Steam overlay
 
@@ -172,22 +172,21 @@ To verify the integrity of game files, take these steps:
   
 ![disable Steam overlay Outriders](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-steam-overlay.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Now play Outriders to see if you can get better gaming performance.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123469/16836" target="_top" id="2123469">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123469" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123469/16836" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## 7\. Close unnecessary programs
@@ -199,6 +198,19 @@ Now play Outriders to see if you can get better gaming performance.
  2) Type **taskmgr** , then press **Enter**  on your keyboard to open the Task Manager.  
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
+
+<!-- affiliate ads begin -->
+<span id="1993652">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
@@ -225,16 +237,13 @@ Now play Outriders to see if you can get better gaming performance.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-glue.techidaily.com/new-in-2024-blueprints-for-successful-docu-screenplays/"><u>[New] In 2024, Blueprints for Successful Docu-Screenplays</u></a></li>
-<li><a href="https://article-tips.techidaily.com/updated-in-2024-aerial-duels-unleashed-dji-spark-vs-gopro-black-session/"><u>[Updated] In 2024, Aerial Duels Unleashed DJi Spark vs GoPro Black Session</u></a></li>
-<li><a href="https://win-blog.techidaily.com/common-reasons-behind-gas-station-game-crashing-episodes-on-personal-computers-pc/"><u>Common Reasons Behind Gas Station Game Crashing Episodes on Personal Computers (PC)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-low-fps-on-dying-light-and-boost-gameplay-smoothness/"><u>Expert Tips to Resolve Low FPS on Dying Light and Boost Gameplay Smoothness</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-repair-corrupted-pdf-v14-file-when-manual-method-fails-by-stellar-guide/"><u>How to repair corrupted PDF v1.4 file when manual method fails</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/in-2024-ranking-the-leading-10-pixels-for-free-access/"><u>In 2024, Ranking the Leading 10 Pixels for Free Access</u></a></li>
-<li><a href="https://extra-information.techidaily.com/juxtaposing-flight-with-flair-a-bebop-parrot-analysis/"><u>Juxtaposing Flight with Flair – A Bebop Parrot Analysis</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-fix-resolve-wwe-2k20s-pc-game-crash-issues-with-ease/"><u>Master the Fix: Resolve WWE 2K20's PC Game Crash Issues with Ease</u></a></li>
-<li><a href="https://buynow-marvelous.techidaily.com/motorola-edgeplus-assessment-not-quite-the-premier-choice/"><u>Motorola Edge+ Assessment: Not Quite the Premier Choice</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/propel-your-profile-5-core-techniques-for-instagram-marketing-gurus/"><u>Propel Your Profile 5 Core Techniques for Instagram Marketing Gurus</u></a></li>
-<li><a href="https://win-blog.techidaily.com/stop-bluestacks-from-halting-a-5-step-guide-to-stable-performance/"><u>Stop BlueStacks From Halting - A 5-Step Guide to Stable Performance</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-5-premier-drone-engines-to-supercharge-your-qxp/"><u>[New] 2024 Approved 5 Premier Drone Engines to Supercharge Your QXP</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-analyzing-and-comparing-top-software-choices-for-screens-obsfraps/"><u>[New] In 2024, Analyzing and Comparing Top Software Choices for Screens (OBS/Fraps)</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-top-net-finds-high-quality-alarm-tones/"><u>2024 Approved Top Net Finds High-Quality Alarm Tones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-swf-player-applications-for-macos-a-comprehensive-guide/"><u>Best Swf Player Applications for macOS: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-de-fichiers-nef-en-images-jpg-gratuites-a-partir-de-votre-ordinateur-avec-movavi/"><u>Conversion De Fichiers Nef en Images JPG Gratuites À Partir De Votre Ordinateur Avec Movavi</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-redmi-a2plus-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Redmi A2+ FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-from-vivo-x-fold-2-to-samsung-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data from Vivo X Fold 2 to Samsung Phone | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lia3ima-18-dwrhseis-fainomenwn-sympiestwn-2024-odhgwn-ypologismo/"><u>Λίαξιμα 18: Δωρήσεις Φαινόμενων Συμπιεστών - 2024, Οδηγών Υπολογισμό</u></a></li>
 </ul></div>
 

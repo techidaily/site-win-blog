@@ -1,7 +1,7 @@
 ---
 title: Dirt Navigate Game Crashing Woes? Here's How to Get Unstuck & Enjoy
-date: 2024-09-13T16:54:28.298Z
-updated: 2024-09-16T21:10:56.345Z
+date: 2024-09-19T01:55:05.732Z
+updated: 2024-09-21T16:45:09.357Z
 tags:
   - win11
   - win10
@@ -71,13 +71,6 @@ The outdated or broken graphics driver often crashes the game.
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
-  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -86,13 +79,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115938/19272" target="_top" id="2115938">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115938" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115938/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -100,16 +86,30 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
-![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
+![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
 
@@ -122,6 +122,13 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -153,14 +160,20 @@ The outdated or broken graphics driver often crashes the game.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-xiaomi-redmi-note-12-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Xiaomi Redmi Note 12 5G? | Dr.fone</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/in-2024-building-brand-awareness-best-practices-for-snapchat/"><u>In 2024, Building Brand Awareness Best Practices for Snapchat</u></a></li>
-<li><a href="https://fox-access.techidaily.com/nikon-1j5-takes-video-to-the-next-level-with-its-4k-features-for-2024/"><u>Nikon 1J5 Takes Video to the Next Level with Its 4K Features for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-troubleshooting-tips-for-the-persistent-crashes-in-gas-station-manager-game/"><u>PC Troubleshooting Tips for the Persistent Crashes in Gas Station Manager Game</u></a></li>
-<li><a href="https://win-blog.techidaily.com/roller-champions-2024-crossplay-strategies-and-tips-for-aspiring-pc-gamers/"><u>Roller Champions 2024 Crossplay Strategies and Tips for Aspiring PC Gamers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723011275996-say-goodbye-to-madden-22-loading-deadlock-proven-fixes-and-tips-inside/"><u>Say Goodbye to Madden 22 Loading Deadlock: Proven Fixes & Tips Inside</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solving-bloodhunts-crashes-and-skips-on-windows/"><u>Troubleshooting Guide: Solving Bloodhunt's Crashes and Skips on Windows</u></a></li>
-<li><a href="https://facebook-record-videos.techidaily.com/unlocking-the-secrets-of-high-conversion-rates-in-youtube-banner-designs-for-2024/"><u>Unlocking the Secrets of High Conversion Rates in YouTube Banner Designs for 2024</u></a></li>
-<li><a href="https://ai-live-streaming.techidaily.com/updated-how-to-perform-a-successful-streaming-on-twitch-for-2024/"><u>Updated How To Perform a Successful Streaming on Twitch for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-best-bargain-scene-for-no-cost-video-capturing-on-chromebooks/"><u>[New] 2024 Approved Best Bargain Scene for No-Cost Video Capturing on Chromebooks</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-a-detailed-guide-to-streamlabs-obs/"><u>2024 Approved A Detailed Guide to Streamlabs OBS</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-revolutionizing-patient-engagement-with-creative-fb-strategies/"><u>2024 Approved Revolutionizing Patient Engagement with Creative FB Strategies</u></a></li>
+<li><a href="https://howto.techidaily.com/7-solutions-to-fix-chrome-crashes-or-wont-open-on-vivo-y200-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Solutions to Fix Chrome Crashes or Wont Open on Vivo Y200 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wmv-gif-movavi/"><u>免費網站便利專用 WMV到 GIF轉檔 - Movavi 上鎖效能</u></a></li>
+<li><a href="https://win-blog.techidaily.com/webmef-by-movavi/"><u>無償WEBマニュアルMEF変換サービス by Movavi: プロの技術を使った容易な画像変換</u></a></li>
+<li><a href="https://fox-info.techidaily.com/assemble-photos-for-a-captivating-storyboard-experience-for-2024/"><u>Assemble Photos for a Captivating Storyboard Experience for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-un-fichier-rw2-en-jpeg-gratuitement-sur-linternet-groupe-mouvavi/"><u>Convertissez Un Fichier RW2 en JPEG Gratuitement Sur L'Internet - Groupe Mouvavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/disco-las-herramientas-de-visualizacion-libre-para-dvd-en-windows-11-y-mac/"><u>Disco Las Herramientas De Visualización Libre Para DVD en Windows 11 Y Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/entendiendo-el-fenomeno-del-tiempo-lapsado-y-sus-diferentes-metodos-para-crearlo/"><u>Entendiendo El Fenómeno Del Tiempo Lapsado Y Sus Diferentes Métodos Para Crearlo</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/from-trash-to-treasure-transforming-recycled-plastic-into-high-performance-3d-filaments/"><u>From Trash to Treasure: Transforming Recycled Plastic Into High-Performance 3D Filaments</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>How Can I Use a Fake GPS Without Mock Location On Apple iPhone 13 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-slash-the-size-of-oversized-drafts-with-easy-edit-tactics/"><u>In 2024, Slash the Size of Oversized Drafts with Easy Edit Tactics</u></a></li>
+<li><a href="https://win-blog.techidaily.com/telechargements-gratuits-tutorial-complet-pour-convertir-des-fichiers-mxf-en-mp4-a-laide-de-movavi/"><u>Téléchargements Gratuits - Tutorial Complet Pour Convertir Des Fichiers MXF en MP4 À L'aide De Movavi</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-tips-for-gray-zone-warfare-crashes-on-windows-computers/"><u>Troubleshooting Tips for Gray Zone Warfare Crashes on Windows Computers</u></a></li>
 </ul></div>
 

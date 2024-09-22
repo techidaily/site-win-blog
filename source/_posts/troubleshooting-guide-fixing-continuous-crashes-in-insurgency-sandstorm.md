@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Continuous Crashes in 'Insurgency: Sandstorm'."
-date: 2024-09-13T21:09:58.225Z
-updated: 2024-09-16T16:45:19.264Z
+date: 2024-09-19T22:51:12.480Z
+updated: 2024-09-21T19:13:01.377Z
 tags:
   - win11
   - win10
@@ -82,13 +82,6 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123472/16836" target="_top" id="2123472">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123472" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123472/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -96,6 +89,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart Oxygen Not Included from Steam.
 
@@ -108,13 +108,6 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **1)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135366/19272" target="_top" id="2135366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135366" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Paste   **C:\\Program Files (x86)\\Steam\\steamapps\\common\\Oxygen Not Included** in the address bar.
 
@@ -129,22 +122,15 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
-
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **6)** Relaunch your game to check if your issue had been resolved.
 
@@ -170,6 +156,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049390/7443" target="_top" id="2049390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
@@ -179,6 +172,13 @@ Hope the game runs smoothly now. If it’s not, check the fix below.
 **6)** Click the**Local Files tab,** then click**VERIFY INTEGRITY OF GAME FILES** . ( Your game will be updated to the new branch, then.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-289.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **7)** Relaunch and play Oxygen Not Included.
 
@@ -235,16 +235,16 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135374/19272" target="_top" id="2135374">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135374" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135374/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8:**Check for Windows updates**
 
@@ -307,17 +307,20 @@ OR
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-webster.techidaily.com/024-approved-seamless-addition-of-youtube-video-selections-for-sites/"><u>[New] 2024 Approved Seamless Addition of YouTube Video Selections for Sites</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/new-how-to-reverse-video-on-instagram-complete-guide/"><u>[New] How to Reverse Video on Instagram? [Complete Guide]</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-in-2024-crime-consortium-top-titles-echoing-gta-v/"><u>[Updated] In 2024, Crime Consortium Top Titles Echoing GTA V</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-navigating-the-path-to-igtv-fame-5-growth-strategies-explored/"><u>2024 Approved Navigating the Path to IGTV Fame 5 Growth Strategies Explored</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hogwarts-legacy-troubleshooting-guide-6-tips-to-eradicate-game-stutter/"><u>Hogwarts Legacy Troubleshooting Guide (6 Tips to Eradicate Game Stutter )</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/maximizing-efficiency-leveraging-chatgpt-for-enhanced-workflow-planning/"><u>Maximizing Efficiency: Leveraging ChatGPT for Enhanced Workflow Planning</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/step-by-step-strategies-for-efficiently-using-quick-setting-features-on-android-devices/"><u>Step-by-Step Strategies for Efficiently Using Quick Setting Features on Android Devices</u></a></li>
-<li><a href="https://win-blog.techidaily.com/the-release-saga-of-immortals-fenyx-rising-finally-ends-detailed-analysis-inside/"><u>The Release Saga of Immortals Fenyx Rising Finally Ends - Detailed Analysis Inside!</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/troubleshooting-and-repairing-lg-device-connections-via-usb-for-windows-10-versions/"><u>Troubleshooting and Repairing LG Device Connections via USB for Windows 10 Versions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723004781764-troubleshooting-stardew-valley-launch-problems-solutions-revealed/"><u>Troubleshooting Stardew Valley Launch Problems - Solutions Revealed</u></a></li>
-<li><a href="https://win-blog.techidaily.com/unlock-smooth-gameplay-tips-for-fixing-fortnite-loading-glitches/"><u>Unlock Smooth Gameplay - Tips for Fixing Fortnite Loading Glitches!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/valheim-wont-start-heres-how-to-resolve-the-game-launch-problems/"><u>Valheim Won't Start ? Here's How to Resolve the Game Launch Problems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-inshot-app-how-to-integrate-external-songs-easily-for-2024/"><u>[New] InShot App How to Integrate External Songs Easily for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-sow-and-reap-rivalries-farming-games-to-remember/"><u>[Updated] 2024 Approved Sow & Reap Rivalries Farming Games to Remember</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-seamless-photo-transformations-with-adobe-photoshops-background-erase-technique/"><u>[Updated] In 2024, Seamless Photo Transformations with Adobe Photoshop's Background Erase Technique</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-auditory-interpretation-software-priceless-access/"><u>2024 Approved Auditory Interpretation Software Priceless Access</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-process-system-isnt-responding-error-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Process System Isnt Responding Error on Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-videos-to-webm-file-format-without-charge-with-movavis-online-tool/"><u>Convert Videos to Webm File Format Without Charge with Movavi's Online Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-facilement-vos-fichiers-mod-en-fichiers-mp4-gratuits-avec-movavi/"><u>Convertissez Facilement Vos Fichiers MOD en Fichiers MP4 Gratuits Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-mp4-naar-3g2-bekeerbron-kunt-je-een-fijne-resultaat-behalen-via-movavi-online/"><u>Gratis MP4 Naar 3G2 Bekeerbron: Kunt Je Een Fijne Resultaat Behalen via Movavi Online!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuita-conversor-de-archivos-aif-para-wmv-en-linea-herramienta-oficial-de-movavi/"><u>Gratuita Conversor De Archivos AIF Para WMV en Línea - Herramienta Oficial De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuito-conversor-de-ogv-para-webm-online-movavi/"><u>Gratuito Conversor De OGV Para WEBM Online - Movavi</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-transforming-viewers-experience-obs-strategies-on-youtube-and-twitch/"><u>In 2024, Transforming Viewers' Experience OBS Strategies on YouTube & Twitch</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/mastering-the-art-of-unfollow-a-compilation-of-essential-tools/"><u>Mastering the Art of Unfollow A Compilation of Essential Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/migracion-gratuita-de-archivos-mp4-a-formato-avi-sin-descargas-convertidor-en-linea-rapido/"><u>Migración Gratuita De Archivos MP4 a Formato AVI Sin Descargas - Convertidor en Línea Rápido</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-torrent-downloaders-and-viewers-ultimate-guide/"><u>Top 5 Torrent Downloaders & Viewers: Ultimate Guide</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-strategies-for-rectifying-fall-guys-connection-woes-in-windows/"><u>Winning Strategies for Rectifying Fall Guys Connection Woes in Windows</u></a></li>
 </ul></div>
 

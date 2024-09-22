@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The 'Not Installed' Easy Anti-Cheat Error in EAC Launching Successfully
-date: 2024-09-15T18:30:27.882Z
-updated: 2024-09-16T23:25:05.687Z
+date: 2024-09-14T18:25:33.486Z
+updated: 2024-09-21T18:20:59.217Z
 tags:
   - win11
   - win10
@@ -83,10 +83,10 @@ The executable for the game is located in:
  Just delete the mods subfolder within the Witcher 3 folder and it should work. After that, you can launch the game to test the issue. If you can launch the game normally, then great! If not, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128843/7443" target="_top" id="2128843">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128843" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128843/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update device drivers
@@ -128,23 +128,9 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-7.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135402/19272" target="_top" id="2135402">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135402" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135402/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Note:** You can do it for free if you like, but it’s partly manual.
 
@@ -173,6 +159,13 @@ There are two ways for you to update your drivers:
  After repairing the game files, relaunch your Witcher 3 to see if the issue still persists.
 
  If Witcher 3 still won’t launch, there might be something wrong with your system files. Try the next fix below to check for system file corruption using the System file checker.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Run system file checker
 
@@ -230,6 +223,13 @@ Follow the links below to learn how to do it:
 
 Try launching your game again to see if Witcher 3 works normally again.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 8: Perform a clean boot
 
  Your Witcher 3 not launching can be caused by other conflicting applications. To see if that’s your problem, try performing a clean boot.
@@ -248,6 +248,13 @@ Try launching your game again to see if Witcher 3 works normally again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-1019-1.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5) Restart your PC and launch Witcher 3 again.
 
  If Witcher 3 launches successfully again, then congrats! However, you’ll need to find out the problematic software. Here is how to do it:
@@ -262,19 +269,6 @@ Try launching your game again to see if Witcher 3 works normally again.
 
  If you ever transferred your Witcher 3 from GOG to Steam, there might be two .dll files in your**Steam > steamapps > common > The Witcher 3 > bin** folder. One of them is Steam.dll and the other is GoG.dll. You may delete the**GoG.dl** l file and try running Witcher 3 again to test your issue.
 
-<!-- affiliate ads begin -->
-<span id="1983573">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 10: Perform a reinstall
 
  If the methods above fail to solve your problem, you can reinstall Witcher 3 to see if the issue persists.
@@ -286,16 +280,10 @@ Try launching your game again to see if Witcher 3 works normally again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall.png)
 
 <!-- affiliate ads begin -->
-<span id="1770526">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
+  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right-click Witcher 3 and select**Uninstall** .
@@ -349,17 +337,15 @@ RECOMMENDED REQUIREMENTS:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/2024-approved-cutting-edge-identifying-instagram-leavers/"><u>2024 Approved Cutting Edge Identifying Instagram Leavers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/a-detailed-guide-preventing-and-solving-pc-based-blender-app-crashes-effectively/"><u>A Detailed Guide: Preventing and Solving PC-Based Blender App Crashes Effectively</u></a></li>
-<li><a href="https://win-forum.techidaily.com/clear-your-pcs-clutter-how-to-delete-memory-dump-files-on-windows-n-system/"><u>Clear Your PC's Clutter: How to Delete Memory Dump Files on Windows N-System</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/effective-solutions-for-faulty-app-functionality-on-samsung-smart-tvs/"><u>Effective Solutions for Faulty App Functionality on Samsung Smart TVs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fixing-frame-rate-problems-solving-outriders-low-fps-woes/"><u>Fixing Frame Rate Problems: Solving Outriders' Low FPS Woes</u></a></li>
-<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-itel-a60s-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Itel A60s | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-how-do-i-sim-unlock-my-apple-iphone-12-mini-by-drfone-ios/"><u>In 2024, How Do I SIM Unlock My Apple iPhone 12 mini?</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-when-your-nvidia-control-panel-wont-start/"><u>Troubleshooting Guide: When Your Nvidia Control Panel Won't Start</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-fix-persistent-crashes-in-call-of-duty-warzone-20-for-pc-gamers/"><u>Troubleshooting: How to Fix Persistent Crashes in Call of Duty Warzone 2.0 for PC Gamers</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/unlock-samsung-galaxy-f04-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Samsung Galaxy F04 Phone Password Without Factory Reset Full Guide Here</u></a></li>
-<li><a href="https://windows11.techidaily.com/unzipping-and-zipping-made-easy-windows-command-line-guidebook/"><u>Unzipping & Zipping Made Easy: Windows Command Line Guidebook</u></a></li>
-<li><a href="https://change-location.techidaily.com/what-is-the-best-pokemon-for-pokemon-pvp-ranking-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>What is the best Pokemon for pokemon pvp ranking On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-4-methods-to-record-gameplay-on-xbox-one/"><u>2024 Approved 4 Methods to Record Gameplay on Xbox One</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-tips-to-reduce-compression-artifacts-in-obs/"><u>2024 Approved Tips to Reduce Compression Artifacts in OBS</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/detailed-review-and-insights-on-the-revolutionary-apple-macbook-pro-m1-2-unmatched-power-for-professionals/"><u>Detailed Review & Insights on the Revolutionary Apple MacBook Pro (M1, 2#) - Unmatched Power for Professionals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/estrategias-eficazes-para-superar-dificuldades-de-gravacao-de-video-em-computadores/"><u>Estratégias Eficazes Para Superar Dificuldades De Gravação De Vídeo Em Computadores</u></a></li>
+<li><a href="https://some-tips.techidaily.com/in-2024-tranquil-tracks-easy-volume-diminution-via-garageband/"><u>In 2024, Tranquil Tracks Easy Volume Diminution via Garageband</u></a></li>
+<li><a href="https://win-blog.techidaily.com/los-mejores-reproductores-gratis-de-pantallas-con-calidad-optima-no-pirateados-listado-de-20-en-2019-movavi/"><u>Los Mejores Reproductores Gratis De Pantallas Con Calidad Óptima, No Pirateados: Listado De 20 en 2019 - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/o-que-e-um-codigo-de-transformacao-digital-abreviaturas-e-explicacoes-do-termo-codec/"><u>O Que É Um Código De Transformação Digital - Abreviaturas E Explicações Do Termo Codec</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/step-by-step-guide-capturing-images-with-your-chromebooks-built-in-camera/"><u>Step-by-Step Guide: Capturing Images with Your Chromebook's Built-In Camera</u></a></li>
+<li><a href="https://program-issues.techidaily.com/stop-steam-crashes-cold-top-troubleshooting-tips-for-gamers/"><u>Stop Steam Crashes Cold - Top Troubleshooting Tips for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/televersement-gratuit-de-fichiers-oma-vers-mp3-guide-complet/"><u>Téléversement Gratuit De Fichiers OMA Vers MP3 : Guide Complet</u></a></li>
 </ul></div>
 

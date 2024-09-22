@@ -1,7 +1,7 @@
 ---
 title: "Resolving Issues: Correcting Improper Installation of the Radeon Software (AMD's Successor to Ryzen Master)"
-date: 2024-09-12T19:43:28.347Z
-updated: 2024-09-17T06:59:09.990Z
+date: 2024-09-18T23:47:26.960Z
+updated: 2024-09-21T21:34:13.306Z
 tags:
   - win11
   - win10
@@ -78,6 +78,13 @@ There are mainly two ways you can update the driver:
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Disable your integrated graphics
 
  Many gamers have proved it’s a working fix. So if you have an internal GPU, follow the steps below to fix the God of War “not enough available memory” issue.
@@ -88,15 +95,15 @@ There are mainly two ways you can update the driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135398/19272" target="_top" id="2135398">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135398" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135398/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Disable integrated graphics through Device Manager** :
 
@@ -120,33 +127,13 @@ There are mainly two ways you can update the driver:
 4. Click**UPDATES** , choosing**Always keep this game updated** and you can update God of War automatically.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://imp.i357552.net/c/5597632/1061528/11832" target="_top" id="1061528">
+  <img src="//a.impactradius-go.com/display-ad/11832-1061528" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1061528/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115931/19272" target="_top" id="2115931">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115931" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115931/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Repair system files
 
@@ -158,20 +145,28 @@ There are mainly two ways you can update the driver:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 6: Save and restart regularly
 
@@ -198,19 +193,20 @@ There are mainly two ways you can update the driver:
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-streaming-platforms-battle-evaluating-streamlabs-and-obs-features/"><u>[New] 2024 Approved Streaming Platforms Battle Evaluating Streamlabs & OBS Features</u></a></li>
-<li><a href="https://video-screen-grab.techidaily.com/new-elevate-your-gaming-with-fbx-capture-pro-for-2024/"><u>[New] Elevate Your Gaming with FBX Capture Pro for 2024</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/updated-high-precision-display-unveiled-hp-dreamcolor-z32x/"><u>[Updated] High Precision Display Unveiled HP DreamColor Z32X</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-vogue-your-way-simple-video-concepts-for-you/"><u>[Updated] Vogue Your Way Simple Video Concepts for You</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cod-vanguard-freezing-up-troubleshooting-tips-for-pc/"><u>CoD Vanguard Freezing Up: Troubleshooting Tips for PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/definitive-solutions-for-smoothing-out-troubled-waters-with-tales-of-arise/"><u>Definitive Solutions for Smoothing Out Troubled Waters with Tales of Arise</u></a></li>
-<li><a href="https://win-dash.techidaily.com/expert-advice-how-to-securely-update-your-xp-pen-tablet-drivers/"><u>Expert Advice: How to Securely Update Your XP-PEN Tablet Drivers</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-low-fps-on-dying-light-and-boost-gameplay-smoothness/"><u>Expert Tips to Resolve Low FPS on Dying Light and Boost Gameplay Smoothness</u></a></li>
-<li><a href="https://win-blog.techidaily.com/fix-achieved-how-football-manager-202n-overcame-its-startup-issues/"><u>Fix Achieved: How Football Manager 202N Overcame Its Startup Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-constant-crashing-in-total-war-warhammer-ii-gameplay/"><u>How to Fix Constant Crashing in Total War: WARHAMMER II Gameplay</u></a></li>
-<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-honor-90-lite-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Honor 90 Lite? | Dr.fone</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/in-2024-online-screenshots-and-screen-recorders-guide/"><u>In 2024, Online Screenshots & Screen Recorders Guide</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/in-2024-quick-recording-tips-mastering-screen-captures-on-hp-systems/"><u>In 2024, Quick Recording Tips Mastering Screen Captures on HP Systems</u></a></li>
-<li><a href="https://snapchat-videos.techidaily.com/the-blue-band-promise-reimagined-breaking-the-streaks-barrier-for-2024/"><u>The Blue Band Promise Reimagined - Breaking the Streaks Barrier for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mkv-m4a-movavi/"><u>免費在線 MKV-M4A格式轉換 - 利用 Movavi 工具便捷範圍</u></a></li>
+<li><a href="https://win-blog.techidaily.com/flacm4a-movavi/"><u>線上免費 FLAC/M4A 音頻格式換算工具 - 高效能 Movavi 轉換器選擇</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/a-guide-to-pinpointing-a-list-video-creators-for-2024/"><u>A Guide to Pinpointing A-List Video Creators for 2024</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-for-apple-iphone-11-pro-max-lock-screen-by-drfone-ios/"><u>Complete Guide For Apple iPhone 11 Pro Max Lock Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cote-convertisseur-gratuit-rw2-a-jpeg-sur-la-plateforme-de-movavi-en-ligne/"><u>Côté Convertisseur Gratuit : RW2 À JPEG Sur La Plateforme De Movavi En Ligne!</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/elite-8-video-transformations-for-virtual-events/"><u>Elite 8 Video Transformations for Virtual Events</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-change-your-audio-file-from-aif-to-m4a-using-movavi/"><u>Free Online Conversion: Change Your Audio File From AIF to M4A Using Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-passo-a-passo-convertendo-filmes-em-formato-mov-para-mp4-com-o-vlc-media-player/"><u>Guia Passo-a-Passo: Convertendo Filmes Em Formato MOV Para MP4 Com O VLC Media Player</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-fix-the-soft-bricked-motorola-defy-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kostenloze-omzetting-flac-file-naar-ogg-gratis-online-bewerking-met-movavi/"><u>Kostenloze Omzetting Flac-File Naar Ogg - Gratis Online Bewerking Met Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/lightrooms-favorite-color-grads-and-luts-compilation-for-2024/"><u>LightRoom's Favorite Color Grads and LUTs Compilation for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/roadcasting-toolkit-convert-upload-and-stream-youtube/"><u>MP3 Broadcasting Toolkit Convert, Upload & Stream YouTube</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-winget-hurdles-on-windows-11-systems/"><u>Overcoming Winget Hurdles on Windows 11 Systems</u></a></li>
+<li><a href="https://win-dash.techidaily.com/seamless-setup-how-to-update-or-download-epson-drivers-for-windows-with-ease/"><u>Seamless Setup: How to Update or Download Epson Drivers for Windows with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/van-welke-grunde-bij-onze-beslissing-kiezers-perspectief-over-movavi/"><u>Van Welke Gründe Bij Onze Beslissing: Kiezers Perspectief Over Movavi</u></a></li>
 </ul></div>
 

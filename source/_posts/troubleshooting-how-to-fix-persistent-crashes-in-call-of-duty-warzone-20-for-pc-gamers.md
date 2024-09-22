@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: How to Fix Persistent Crashes in Call of Duty Warzone 2.0 for PC Gamers"
-date: 2024-09-11T06:07:53.388Z
-updated: 2024-09-17T05:39:22.668Z
+date: 2024-09-17T19:22:19.202Z
+updated: 2024-09-21T22:42:24.626Z
 tags:
   - win11
   - win10
@@ -105,18 +105,18 @@ If your problem still exists, then move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-131.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115918/19272" target="_top" id="2115918">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115918" border="0" alt="https://techidaily.com" width="336" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115918/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **2)**  Click the **Compatibility tab** , then check the box next to **Disable fullscreen optimizations** and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-130.png)
 
  Relaunch_HOI4_ to see if this has resolved your issue. If not, read on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: **Update your graphics driver**
 
@@ -146,6 +146,13 @@ There are two ways you can get the right graphics driver:
 **2)**  Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-203.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -177,21 +184,7 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-134.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
-  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Wait for the scans to be complete, then relaunch_HOI4_ to see if your problem has been resolved. If not, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2135474/26400" target="_top" id="2135474">
-  <img src="//a.impactradius-go.com/display-ad/26400-2135474" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2135474/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 7: Change your PC power settings
 
@@ -228,10 +221,16 @@ To fix it, try verifying the integrity of your game files on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-537.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120867/26400?prodsku=mars" target="_top" id="2120867">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120867" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120867/26400?prodsku=mars" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game after the update is complete.
@@ -257,16 +256,16 @@ To fix it, try verifying the integrity of your game files on Steam:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-135.png)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **4)** Click **DELETE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-137.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002019/7443" target="_top" id="2002019">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002019" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002019/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **5)**  Relaunch Steam to download and reinstall _Hearts of Iron IV_ .
 
@@ -295,6 +294,13 @@ Relaunch your game to test your issue.
 **5)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-364.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
 
@@ -331,20 +337,14 @@ Relaunch your game to test your issue.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-resources.techidaily.com/new-crafting-engaging-full-degree-footage-with-adobe-premieres-state-of-the-art-tools/"><u>[New] Crafting Engaging Full Degree Footage with Adobe Premiere's State-of-the-Art Tools</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-from-content-creator-to-cash-magnet-instagrams-guide/"><u>[Updated] From Content Creator to Cash Magnet Instagram's Guide</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-maximizing-view-count-secrets-to-staff-picks-on-vimeo/"><u>[Updated] Maximizing View Count Secrets to Staff Picks on Vimeo</u></a></li>
-<li><a href="https://win-blog.techidaily.com/avoid-game-interruptions-solutions-for-continuous-play-of-rocket-league-without-crashing-tips-and-tricks-224/"><u>Avoid Game Interruptions: Solutions for Continuous Play of Rocket League without Crashing (Tips & Tricks 2#24</u></a></li>
-<li><a href="https://data-safeguard.techidaily.com/discover-the-best-software-solutions-to-fix-your-pictures-on-both-mac-and-pc/"><u>Discover the Best Software Solutions to Fix Your Pictures on Both Mac and PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/error-no-more-the-solution-to-outriders-unreal-engine-4-crash-issue/"><u>Error No More! The Solution to Outriders' Unreal Engine 4 Crash Issue</u></a></li>
-<li><a href="https://buynow-tips.techidaily.com/expert-analysis-the-evolutionary-escort-ix-a-clever-radar-sensor-for-drivers/"><u>Expert Analysis: The Evolutionary Escort iX, a Clever Radar Sensor for Drivers</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/exploring-the-boundaries-of-chatgpt-token-usage-can-it-be-expanded/"><u>Exploring the Boundaries of ChatGPT Token Usage: Can It Be Expanded?</u></a></li>
-<li><a href="https://some-techniques.techidaily.com/in-2024-evolving-videography-redefining-social-sharing-with-periscope-alternatives/"><u>In 2024, Evolving Videography Redefining Social Sharing with Periscope Alternatives</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/in-2024-top-12-prominent-infinix-note-30-fingerprint-not-working-solutions-by-drfone-android/"><u>In 2024, Top 12 Prominent Infinix Note 30 Fingerprint Not Working Solutions</u></a></li>
-<li><a href="https://video-capture.techidaily.com/in-2024-ultimate-campaigns-selecting-the-best-7-total-war-victories/"><u>In 2024, Ultimate Campaigns Selecting the Best 7 Total War Victories</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolve-the-black-screen-error-in-fallout-4-a-comprehensive-guide/"><u>Resolve the Black Screen Error in Fallout 4: A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-problems-troubleshooting-steps-when-multiversus-wont-start-on-windows/"><u>Solve Your Problems: Troubleshooting Steps When MultiVersus Won't Start on Windows</u></a></li>
-<li><a href="https://win-blog.techidaily.com/star-wars-battlefront-2-update-improves-latency-and-ensures-a-seamless-gaming-adventure/"><u>Star Wars Battlefront 2 Update Improves Latency and Ensures a Seamless Gaming Adventure</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-the-ultimate-guide-solving-oculus-link-blackout-issues-in-minutes/"><u>Troubleshooting the Ultimate Guide: Solving Oculus Link Blackout Issues in Minutes</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-mastering-the-art-of-swapping-gender-representation-in-snapchatfacebook-photos/"><u>[New] In 2024, Mastering the Art of Swapping Gender Representation in Snapchat/Facebook Photos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-instant-impact-applying-motion-blur-to-ai-artwork-for-2024/"><u>[New] Instant Impact Applying Motion Blur to AI Artwork for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/9-solutions-to-fix-motorola-moto-g14-system-crash-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Solutions to Fix Motorola Moto G14 System Crash Issue | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descargar-e-imprimir-de-forma-gratuita-convertidor-de-archivos-raw-cr2-al-formato-jpegbmp/"><u>Descargar E Imprimir De Forma Gratuita: Convertidor De Archivos RAW (CR2) Al Formato JPEG/BMP</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-conversion-of-mp3s-to-wmv-top-rated-web-service-at-no-cost/"><u>Effortless Conversion of MP3s to WMV: Top-Rated Web Service at No Cost</u></a></li>
+<li><a href="https://win-blog.techidaily.com/excelente-software-gratuito-de-captura-de-tela-movavi-compativel-com-pcs-e-notebooks-sem-estresse-ou-custo/"><u>Excelente Software Gratuito De Captura De Tela - MovaVi, Compatível Com PCs E Notebooks Sem Estresse Ou Custo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/flac-wav-movavi-wi-fi/"><u>FLAC 파일을 WAV로 쉽게 바꾸기: Movavi의 원형 제공 Wi-Fi 사용 가능성</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-invisible-viewers-for-fb-chronicles/"><u>In 2024, Invisible Viewers for FB Chronicles</u></a></li>
+<li><a href="https://games-able.techidaily.com/minimizing-unwanted-background-checks-by-game-bar/"><u>Minimizing Unwanted Background Checks by Game Bar</u></a></li>
 </ul></div>
 

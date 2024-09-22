@@ -1,7 +1,7 @@
 ---
 title: "Solving the 'Battle.net Not Opening' Issue: Comprehensive Troubleshooting Steps"
-date: 2024-09-14T20:25:58.766Z
-updated: 2024-09-17T07:45:35.766Z
+date: 2024-09-19T20:30:17.257Z
+updated: 2024-09-21T17:20:03.617Z
 tags:
   - win11
   - win10
@@ -59,13 +59,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
@@ -83,19 +76,33 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135406/19272" target="_top" id="2135406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135406" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
 
@@ -113,19 +120,19 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049364/7443" target="_top" id="2049364">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049364" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049364/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -154,19 +161,20 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-capture.techidaily.com/new-2024-approved-clear-focus-navigating-the-nuances-of-zooming/"><u>[New] 2024 Approved Clear Focus Navigating the Nuances of Zooming</u></a></li>
-<li><a href="https://youtube-web.techidaily.com/asterclass-in-length-management-youtube-vids-for-2024/"><u>[New] Masterclass in Length Management YouTube Vids for 2024</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/2024-approved-unleash-flawless-footage-overcome-instagram-video-hurdles/"><u>2024 Approved Unleash Flawless Footage Overcome Instagram Video Hurdles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/hearthstone-update-resolves-pc-game-crashes-play-smoothly-now/"><u>Hearthstone Update Resolves PC Game Crashes - Play Smoothly Now</u></a></li>
-<li><a href="https://win-able.techidaily.com/how-to-prevent-persistent-starvation-glitches-from-crashing-pc-systems/"><u>How to Prevent Persistent Starvation Glitches From Crashing PC Systems</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-reset-a-locked-oneplus-phone-by-drfone-android/"><u>How to Reset a Locked OnePlus Phone</u></a></li>
-<li><a href="https://unlock-android.techidaily.com/how-to-show-wi-fi-password-on-tecno-pova-5-by-drfone-android/"><u>How to Show Wi-Fi Password on Tecno Pova 5</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-infinix-smart-7-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Infinix Smart 7? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/oculus-link-not-functioning-here-are-6-fast-fixes-to-try/"><u>Oculus Link Not Functioning? Here Are 6 Fast Fixes to Try!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-performance-hitches-in-valheim-for-smoother-gameplay-on-pc/"><u>Overcoming Performance Hitches in Valheim for Smoother Gameplay on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723009677421-pc-players-rejoice-as-deathloops-freezing-issues-get-resolved/"><u>PC Players Rejoice as Deathloop's Freezing Issues Get Resolved</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-puzzle-of-outriders-performance-crashes-and-hiccups-on-desktops/"><u>Solving the Puzzle of Outriders Performance Crashes and Hiccups on Desktops</u></a></li>
-<li><a href="https://data-wizards.techidaily.com/streamlined-recovery-system-stellars-consumer-focused-tech-update/"><u>Streamlined Recovery System: Stellar’s Consumer-Focused Tech Update</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-your-bluestacks-app-with-these-easy-remedies/"><u>Troubleshoot Your BlueStacks App with These Easy Remedies</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-earnings-escalation-via-youtube-channel-initiatives-for-2024/"><u>[New] Earnings Escalation via YouTube Channel Initiatives for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-guide-to-macs-image-file-transformation/"><u>[New] The Ultimate Guide to Mac's Image File Transformation</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-path-to-viewership-victory-video-tips/"><u>2024 Approved The Path to Viewership Victory Video Tips</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/become-a-pixlr-wizard-10-easy-tricks-for-exceptional-edits-for-2024/"><u>Become a Pixlr Wizard 10 Easy Tricks for Exceptional Edits for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descubra-a-sete-passos-como-gravar-videos-lentos-em-android-com-o-movavi-clips/"><u>Descubra a Sete Passos Como Gravar Vídeos Lentos Em Android Com O Movavi Clips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-the-best-no-cost-image-manipulation-software-for-mac-os-x-ranked-by-movavi/"><u>Discover the Best No-Cost Image Manipulation Software for Mac OS X - Ranked by Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-transform-jpg-pictures-into-high-quality-tiff-files-no-cost-required/"><u>Effortlessly Transform JPG Pictures Into High-Quality TIFF Files - No Cost Required!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/el-record-de-las-mejores-aplicaciones-para-la-creacion-de-conteudo-en-video-top-14-comparadas-y-revisadas/"><u>El Récord De Las Mejores Aplicaciones Para La Creación De Conteúdo en Vídeo - Top 14 Comparadas Y Revisadas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guida-allacquisizione-della-licenza-dultimo-utente-strategie-e-convenzioni-con-movavi-software/"><u>Guida All'Acquisizione Della Licenza D'Ultimo Utente: Strategie E Convenzioni Con Movavi Software</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-11-pro-max-with-an-apple-watch-and-what-to-do-if-it-doesnt-work-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone 11 Pro Max With an Apple Watch & What to Do if It Doesnt Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-caption-retrieval-discover-four-effective-ways-to-get-subtitles-out-of-mkv-videos/"><u>Master the Art of Caption Retrieval: Discover Four Effective Ways to Get Subtitles Out of MKV Videos</u></a></li>
+<li><a href="https://extra-information.techidaily.com/professional-video-editor-essentials-top-5-macos-sierra-software/"><u>Professional Video Editor Essentials Top 5 macOS Sierra Software</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-starting-problems-heres-how-you-can-get-the-game-running-smoothly-again/"><u>Rainbow Six Siege Starting Problems? Here's How You Can Get the Game Running Smoothly Again</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/smooth-printing-after-update-woes-ended/"><u>Smooth Printing After Update Woes Ended</u></a></li>
+<li><a href="https://win-blog.techidaily.com/oggwebm-movavi/"><u>オンラインで簡単かつフリーマム! OGGとWEBMをワンクリック変換 - Movavi</u></a></li>
 </ul></div>
 

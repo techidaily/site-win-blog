@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Metro Exodus Crashing on PC"
-date: 2024-09-11T02:06:28.191Z
-updated: 2024-09-17T04:11:22.360Z
+date: 2024-09-16T01:16:38.414Z
+updated: 2024-09-21T17:48:28.870Z
 tags:
   - win11
   - win10
@@ -50,13 +50,6 @@ thumbnail: https://thmb.techidaily.com/dfad489a283b58802ec92c884b7191bbab4a284ec
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137226/26400" target="_top" id="2137226">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137226" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137226/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Fix 3: Update your graphics card driver
 
  If the device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the cause for Metro Exodus crashing, try updating your video driver to the latest version.
@@ -94,10 +87,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120864/26400?prodsku=Mercury" target="_top" id="2120864">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120864" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120864/26400?prodsku=Mercury" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -109,6 +108,13 @@ Now launch Metro Exodus and see if the crashing issue has been resolved.
 If your problem still persists, don’t worry. There is another try.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Switch to DX11 in your game settings
 
@@ -139,10 +145,16 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1304647">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1304647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1304647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1304647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1304647%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1304647/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  3) Right click on**Metro Exodus** , and click**Properties** .
@@ -150,16 +162,10 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
 <!-- affiliate ads begin -->
-<span id="1982456">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982456.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982456">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982456.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982456%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982456/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129740/7443" target="_top" id="2129740">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129740/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Click the**General** tab and click**Set Launch Options** .
@@ -207,18 +213,18 @@ If you have any questions, feel free to leave us a comment below.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-web.techidaily.com/024-approved-streamlined-playback-controlling-youtube-video-delivery-speeds/"><u>[New] 2024 Approved Streamlined Playback Controlling YouTube Video Delivery Speeds</u></a></li>
-<li><a href="https://youtube-lab.techidaily.com/nlock-your-income-potential-youtube-studios-global-reach-for-2024/"><u>[New] Unlock Your Income Potential YouTube Studio's Global Reach for 2024</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-from-lurkers-to-leaders-top-30-strategies-for-facebook-pros-for-2024/"><u>[Updated] From Lurkers to Leaders Top 30 Strategies for Facebook Pros for 2024</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-prospective-leaders-in-titling-the-top-5-online-masters-revealed/"><u>2024 Approved Prospective Leaders in Titling The Top 5 Online Masters Revealed</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/complete-solutions-for-thawing-out-a-stuck-computer-screen/"><u>Complete Solutions for Thawing Out a Stuck Computer Screen</u></a></li>
-<li><a href="https://hardware-help.techidaily.com/complete-your-hp-device-setup-download-the-official-network-drivers-for-windows-versions-1078/"><u>Complete Your HP Device Setup: Download the Official Network Drivers for Windows Versions 10/7/8</u></a></li>
-<li><a href="https://games-able.techidaily.com/decipher-complexities-in-reestablishing-steams-operability/"><u>Decipher Complexities in Reestablishing Steam's Operability</u></a></li>
-<li><a href="https://win-blog.techidaily.com/end-the-standoff-strategic-fixes-for-resolving-in-game-loading-delays-of-cold-war-on-pc-and-consoles/"><u>End the Standoff: Strategic Fixes for Resolving In-Game Loading Delays of Cold War on PC and Consoles</u></a></li>
-<li><a href="https://win-blog.techidaily.com/expose-unveiling-winning-techniques-in-cod-modern-warfare-first-person-shooter-gameplay/"><u>Exposé: Unveiling Winning Techniques in COD: Modern Warfare First-Person Shooter Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-correctly-handle-the-ue4-error-that-causes-unreal-process-crashes-in-outriders/"><u>How to Correctly Handle the UE4 Error That Causes Unreal Process Crashes in Outriders</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-3-ways-to-erase-iphone-15-when-its-locked-within-seconds-by-drfone-ios/"><u>In 2024, 3 Ways to Erase iPhone 15 When Its Locked Within Seconds</u></a></li>
-<li><a href="https://youtube-clips.techidaily.com/in-2024-elevating-youtube-prominence-with-expert-use-of-the-hub/"><u>In 2024, Elevating Youtube Prominence with Expert Use of the Hub</u></a></li>
-<li><a href="https://win-blog.techidaily.com/league-of-legends-troubleshooting-expert-tips-to-resolve-black-screen-problems/"><u>League of Legends Troubleshooting: Expert Tips to Resolve Black Screen Problems</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-wirecast-critique-and-comparisons/"><u>[New] WireCast Critique & Comparisons</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-a-critical-review-of-the-newest-vegaspro/"><u>[Updated] 2024 Approved A Critical Review of the Newest VegasPro</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-channel-charisma-techniques-for-amplifying-youtube-visibility/"><u>[Updated] Channel Charisma Techniques for Amplifying YouTube Visibility</u></a></li>
+<li><a href="https://win-blog.techidaily.com/advanced-video-montage-and-editing-tools-online/"><u>Advanced Video Montage and Editing Tools Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-de-mkv-a-oggz-guide-etape-par-etape-pour-transformer-des-fichiers-video-en-ligne-gratuitement-avec-movavi/"><u>Conversion De MKV À Oggz : Guide Étape Par Étape Pour Transformer Des Fichiers Vidéo en Ligne Gratuitement Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertissez-facilement-votre-fichier-quicktime-qt-en-format-avi-sans-frais-a-laide-de-movavi-solution-gratuite-et-efficace/"><u>Convertissez Facilement Votre Fichier QuickTime (.QT) en Format AVI Sans Frais À L'aide De Movavi - Solution Gratuite Et Efficace</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-opinion-on-mophies-powerstation-ac-charger-worth-every-penny-for-its-ease-of-use/"><u>Expert Opinion on Mophie's Powerstation AC Charger - Worth Every Penny for Its Ease of Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/flashfree-flac-and-aiff-movavi/"><u>FlashFREE音声ファイル変換: FLAC & AIFF無料ダウンロード - Movavi</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-the-ultimate-checklist-for-efficiently-uploading-tracks-on-youtube/"><u>In 2024, The Ultimate Checklist for Efficiently Uploading Tracks on YouTube</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-when-your-squad-microphone-fails/"><u>Troubleshooting Steps: When Your Squad Microphone Fails</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-the-ultimate-choice-why-iphone-or-android-is-perfect-for-you/"><u>Unveiling the Ultimate Choice: Why iPhone or Android Is Perfect For You</u></a></li>
+<li><a href="https://fox-that.techidaily.com/why-arent-siri-suggestions-appearing-on-your-iphone-troubleshooting-steps-inside/"><u>Why Aren't Siri Suggestions Appearing on Your iPhone? Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726227919867-movavi/"><u>최신 동영상 화면 구성기 전달 해결책 - Movavi</u></a></li>
 </ul></div>
 

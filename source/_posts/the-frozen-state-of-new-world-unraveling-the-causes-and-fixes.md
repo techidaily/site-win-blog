@@ -1,7 +1,7 @@
 ---
 title: "The Frozen State of New World: Unraveling the Causes & Fixes"
-date: 2024-09-11T06:49:20.778Z
-updated: 2024-09-16T19:54:37.845Z
+date: 2024-09-19T22:31:35.464Z
+updated: 2024-09-21T19:05:00.555Z
 tags:
   - win11
   - win10
@@ -85,13 +85,6 @@ thumbnail: https://thmb.techidaily.com/354d3de8b2ab7d7a38cbcbf902765f2fb1bfbf3c8
 
 If this doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Fix 3: Install the latest Windows updates
 
  According to players’ reports, updating the system has solved the DirectX errors for them. Keeping your system up-to-date may solve compatibility issues and improve stability. This fix may make a difference if your DirectX errors were triggered by Windows issues.
@@ -104,25 +97,18 @@ If this doesn’t solve your problem, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/977686/11832" target="_top" id="977686">
+  <img src="//a.impactradius-go.com/display-ad/11832-977686" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/977686/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you encounter issues while using the Windows Update client, you can[manually download the updates from the Microsoft website](https://www.microsoft.com/en-us/software-download/windows10) .
 
  If updating your system doesn’t solve the errors for you, try the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123899/26106" target="_top" id="2123899">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123899" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123899/26106" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 4: Force-run DirectX 12
 
@@ -149,26 +135,27 @@ If this doesn’t solve your problem, try the next fix.
 2. Copy and paste**%ProgramData%/Origin** in the textbox, then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-36-26.jpg)
 3. **Delete** every folder and file here**EXCEPT FOR the Local Content folder** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-38-09.jpg)
 4. Open the Run box again by pressing the**Windows key** and**R** on your keyboard.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5. Type in**%AppData%** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Run-appdata.jpg)
 6. In the pop-up window,**delete the Origin folder** .  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-53-59.jpg)
 7. Navigate to**C:\\Users\\Your Username\\AppData\\Local** , and**delete the Origin folder** there as well.
@@ -182,7 +169,22 @@ If this doesn’t solve your problem, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-46.jpg)
 3. If you’re having trouble opening the EA app, you can click the**Start button** ,**expand the EA folder** , and click**APP Recovery** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_17-15-31.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -203,16 +205,21 @@ If this doesn’t solve your problem, try the next fix.
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-clips.techidaily.com/new-accessible-file-transformation-facebook-videos-to-hdmp4-at-no-cost-for-2024/"><u>[New] Accessible File Transformation Facebook Videos to HD/MP4 at No Cost for 2024</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/levate-your-online-presence-audios-for-your-channel-for-2024/"><u>[New] Elevate Your Online Presence Audios for Your Channel for 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-the-complete-guide-to-360-video-submission-on-fb/"><u>2024 Approved The Complete Guide to 360 Video Submission on FB</u></a></li>
-<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-uav-upgrade-kit-must-haves-for-the-modern-pilot/"><u>2024 Approved The Essential UAV Upgrade Kit - Must-Haves for the Modern Pilot</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1723000272436-dayz-first-person-shooter-master-drop-rates-fast/"><u>DayZ First-Person Shooter: Master Drop Rates Fast</u></a></li>
-<li><a href="https://extra-information.techidaily.com/from-inconsistent-exports-securing-smooth-srt-outputs/"><u>From Inconsistent Exports Securing Smooth SRT Outputs</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-nokia-c32-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on Nokia C32 Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://some-knowledge.techidaily.com/in-2024-immersive-simulations-in-medical-schools/"><u>In 2024, Immersive Simulations in Medical Schools</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-pokemon-go-cooldown-chart-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>In 2024, Pokémon Go Cooldown Chart On Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimize-your-play-with-valorant-strategies-to-combat-stutter-and-raise-frame-rates/"><u>Optimize Your Play with Valorant: Strategies to Combat Stutter & Raise Frame Rates</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-directx-trouble-in-fifa-20/"><u>Resolved: Fixing the DirectX Trouble in FIFA 20</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-mastering-igtv-content-creation/"><u>[New] In 2024, The Ultimate Guide to Mastering IGTV Content Creation</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-cutting-edge-8-streaming-selectors/"><u>[Updated] 2024 Approved Cutting-Edge 8 Streaming Selectors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movaviwavogg/"><u>「Movavi無料のサービス:WAVファイルをOgg形式に変換するオンラインツール」</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-the-ultimate-powerdirector-24-review-a-comprehensive-dive/"><u>2024 Approved The Ultimate PowerDirector '24 Review A Comprehensive Dive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726223555475-mp4-m4v-movavi/"><u>網路直通無障礙 MP4 變 M4V - Movavi 影片切換工具</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726222299164-ai2024/"><u>AI音樂製作大師：最新的前十二位電子合成工具（2024年版）</u></a></li>
+<li><a href="https://win-blog.techidaily.com/asf-avi-online/"><u>ASF 파일을 AVI로 자유성 이미지 변환 - 원탁 Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baixar-gravador-de-audio-online-gratuito-para-mp3-movavi/"><u>Baixar Gravador De Áudio Online Gratuito Para Mp3 - Movavi</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversione-webm-a-wma-on-line-senza-costi-il-tuo-strumento-di-conversione-preferito-movavi/"><u>Conversione Webm a Wma On-Line Senza Costi - Il Tuo Strumento Di Conversione Preferito, Movavi!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-dac-technology-why-you-should-consider-adding-one-to-your-system/"><u>Exploring DAC Technology: Why You Should Consider Adding One to Your System</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/fcp-download-hack-get-it-for-free-for-2024/"><u>FCP Download Hack Get It for Free for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-converter-transform-avi-files-into-mpeg-format-with-movavi/"><u>Free Online Converter: Transform AVI Files Into MPEG Format with Movavi</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-pro-transforming-videos-using-vida-for-2024/"><u>From Novice to Pro Transforming Videos Using Vida for 2024</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-come-up-with-the-best-pokemon-team-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>How to Come up With the Best Pokemon Team On Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-guide-setting-up-and-running-chatgpt-on-your-pc/"><u>Step-by-Step Guide: Setting Up & Running ChatGPT on Your PC</u></a></li>
 </ul></div>
 
