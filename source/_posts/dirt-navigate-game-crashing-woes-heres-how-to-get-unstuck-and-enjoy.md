@@ -1,7 +1,7 @@
 ---
 title: Dirt Navigate Game Crashing Woes? Here's How to Get Unstuck & Enjoy
-date: 2024-09-19T01:55:05.732Z
-updated: 2024-09-21T16:45:09.357Z
+date: 2024-10-07T20:06:41.359Z
+updated: 2024-10-15T00:30:47.988Z
 tags:
   - win11
   - win10
@@ -69,6 +69,19 @@ The outdated or broken graphics driver often crashes the game.
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
+<!-- affiliate ads begin -->
+<span id="1977020">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
 ## Fix 3: Install the latest game patch
@@ -88,27 +101,34 @@ The outdated or broken graphics driver often crashes the game.
 2. Uncheck**Enable Steam Overlay while in-game** .  
 
 <!-- affiliate ads begin -->
-<span id="1977032">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
            onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
 	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
 </span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
-  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
 </a>
-<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -124,10 +144,10 @@ The outdated or broken graphics driver often crashes the game.
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
@@ -158,5 +178,26 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-mastering-obs-and-zoom-simplified-integration-guide/"><u>[New] In 2024, Mastering OBS & Zoom Simplified Integration Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-rogue-company-keeps-crashing-on-pc/"><u>[SOLVED] Rogue Company Keeps Crashing on PC</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-future-of-computing-in-windows-11/"><u>2024 Approved The Future of Computing in Windows 11</u></a></li>
+<li><a href="https://location-social.techidaily.com/3-things-you-must-know-about-fake-snapchat-location-on-apple-iphone-15-plus-drfone-by-drfone-virtual-ios/"><u>3 Things You Must Know about Fake Snapchat Location On Apple iPhone 15 Plus | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/5-popular-tools-to-help-you-distort-audio/"><u>5 Popular Tools to Help You Distort Audio</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-msi-audio-driver-software-compatible-with-windows-systems/"><u>Download MSI Audio Driver Software Compatible with Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/helldivers-2-error-solved-where-to-find-and-install-the-msvcr110dll-component/"><u>Helldivers 2 Error Solved: Where to Find and Install the MSVCR110.dll Component</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-all-about-apple-iphone-11-unlock-chip-you-need-to-know-by-drfone-ios/"><u>In 2024, All About Apple iPhone 11 Unlock Chip You Need to Know</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-lenovo-x1-carbon-driver-updates-available-here-windows-10-and-navigating-windows-7-compatibility/"><u>Latest Lenovo X1 Carbon Driver Updates Available Here - Windows 10 & Navigating Windows 7 Compatibility</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-yosemite-video-editing-101-a-beginners-tutorial-for-mac-os-x/"><u>New Yosemite Video Editing 101 A Beginners Tutorial for Mac OS X</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gamers-rejoice-fixing-stutter-and-crashes-in-red-dead-redemption-2-for-an-uninterrupted-adventure/"><u>PC Gamers Rejoice! Fixing Stutter and Crashes in Red Dead Redemption 2 for an Uninterrupted Adventure</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfect-flying-buddies-top-toys-for-children-for-2024/"><u>Perfect Flying Buddies Top Toys for Children for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-cs-go-crashes-a-comprehensive-guide/"><u>Resolving CS: GO Crashes - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-rust-software-unresponsiveness-top-tips-and-techniques/"><u>Resolving Rust Software Unresponsiveness - Top Tips and Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-fallout-4-black-screen-glitch-troubleshooting-guide/"><u>Solve Your Fallout 4 Black Screen Glitch: Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-common-problems-optimizing-your-2022-spotify-web-player-for-a-smoother-experience/"><u>Solving Common Problems: Optimizing Your 2022 Spotify Web Player for a Smoother Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-ffxiv-version-confirmation-failures/"><u>Solving FFXIV Version Confirmation Failures</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-power-of-social-media-engage-on-facebook-tweet-on-twitter-post-on-instagram-stream-on-youtube/"><u>The Power of Social Media: Engage on Facebook, Tweet on Twitter, Post on Instagram, Stream on Youtube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-issues-with-phasmophobia-game-in-virtual-reality/"><u>Troubleshooting Steps: Resolving Issues with Phasmophobia Game in Virtual Reality</u></a></li>
+</ul></div>
 

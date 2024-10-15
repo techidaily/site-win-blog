@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The 'Not Installed' Easy Anti-Cheat Error in EAC Launching Successfully
-date: 2024-09-14T18:25:33.486Z
-updated: 2024-09-21T18:20:59.217Z
+date: 2024-10-10T07:51:36.646Z
+updated: 2024-10-15T05:49:26.339Z
 tags:
   - win11
   - win10
@@ -70,9 +70,23 @@ The executable for the game is located in:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Select the Compatibility tab and tick the box next to**Run this program in compatibility mode for:** and select your previous operating system. Then tick**Run this program as an administrator** . Click**Apply** \>**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you have full access to the game files. Relaunch it to see if your Witcher 3 not launching issue still persists.
 
@@ -81,13 +95,6 @@ The executable for the game is located in:
  If you have added any mods to Witcher 3, you can uninstall them to see if it works. Witcher 3 may have been worked fine with the mods before, but mods can be unpredictable at times.
 
  Just delete the mods subfolder within the Witcher 3 folder and it should work. After that, you can launch the game to test the issue. If you can launch the game normally, then great! If not, you can try the next fix below.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update device drivers
 
@@ -128,6 +135,13 @@ There are two ways for you to update your drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scan-now-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094479/7443" target="_top" id="2094479">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094479" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094479/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You get**full support** and a**30-day money back guarantee** .)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/update-all-your-drivers-4.jpg)
@@ -159,13 +173,6 @@ There are two ways for you to update your drivers:
  After repairing the game files, relaunch your Witcher 3 to see if the issue still persists.
 
  If Witcher 3 still won’t launch, there might be something wrong with your system files. Try the next fix below to check for system file corruption using the System file checker.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Run system file checker
 
@@ -205,6 +212,13 @@ sfc /scannow
 
  After disabling the in-game overlay, you can launch your Witcher 3 again. If Witcher 3 launches successfully, then great! But if it doesn’t, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 7: Disable Antivirus
 
  Witcher 3 not launching problem is sometimes caused by interference from your antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists.
@@ -224,10 +238,10 @@ Follow the links below to learn how to do it:
 Try launching your game again to see if Witcher 3 works normally again.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 8: Perform a clean boot
@@ -237,6 +251,13 @@ Try launching your game again to see if Witcher 3 works normally again.
  1) Type**msconfig** in the Search box and select**System Configuration** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/system-configuration.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2148771/18498" target="_top" id="2148771">
+  <img src="//a.impactradius-go.com/display-ad/18498-2148771" border="0" alt="https://techidaily.com" width="350" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148771/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** . Click**OK** to apply the changes.
 
@@ -249,10 +270,10 @@ Try launching your game again to see if Witcher 3 works normally again.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-1019-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134503/19576" target="_top" id="2134503">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134503" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134503/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 5) Restart your PC and launch Witcher 3 again.
@@ -264,6 +285,13 @@ Try launching your game again to see if Witcher 3 works normally again.
 * After enabling each startup application, you need to restart your computer again to find the conflicting one.
 
  Once you find out the problematic software, you may need to uninstall or disable it to avoid running into the same issue in the future .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130870/7443" target="_top" id="2130870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 9: Delete the GoG.dll
 
@@ -278,13 +306,6 @@ Try launching your game again to see if Witcher 3 works normally again.
  2) Type**appwiz.cpl** in the box and hit**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall.png)
-
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/947750/11832" target="_top" id="947750">
-  <img src="//a.impactradius-go.com/display-ad/11832-947750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/947750/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click Witcher 3 and select**Uninstall** .
 
@@ -335,5 +356,16 @@ RECOMMENDED REQUIREMENTS:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-the-ultimate-list-of-twitter-video-convertors/"><u>[Updated] The Ultimate List of Twitter Video Convertors</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024av19/"><u>2024年のための最適なAV1符号化/変換無料ソフトウェア:上位9つの薦め</u></a></li>
+<li><a href="https://win-blog.techidaily.com/3gppmp3-movavi/"><u>無需付費，從3GPP到MP3途徑 - 使用Movavi音頻轉換器</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-your-mp4-videos-to-mkv-without-costing-a-penny-quick-and-easy-tutorial/"><u>Convert Your MP4 Videos to MKV Without Costing a Penny - Quick and Easy Tutorial!</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-logitechs-latest-wireless-mouse-software-compatible-with-pc/"><u>Download Logitech's Latest Wireless Mouse Software Compatible with PC</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-fix-the-soft-bricked-oppo-a78-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix the Soft Bricked Oppo A78? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/konvertereen-mpeg-in-mp3-met-gratuitie-op-internet-movavis-professioneel-codec-converteerprogramma/"><u>Konvertereen MPEG in MP3 Met Gratuitie Op Internet - Movavi's Professioneel Codec Converteerprogramma</u></a></li>
+<li><a href="https://win-blog.techidaily.com/learn-how-to-photograph-with-your-desktop-a-5-step-guide-from-experts-at-movavi/"><u>Learn How to Photograph with Your Desktop: A 5-Step Guide From Experts at Movavi</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-the-ultimate-guide-top-8-mac-daws-with-in-depth-analysis-for-2024/"><u>Updated The Ultimate Guide Top 8 Mac DAWs with In-Depth Analysis for 2024</u></a></li>
+</ul></div>
 

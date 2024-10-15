@@ -1,7 +1,7 @@
 ---
 title: Battling Slow Loading Scenes in Star Wars Battlefront II - Solutions for Faster Gameplay
-date: 2024-09-16T22:28:48.150Z
-updated: 2024-09-21T18:13:19.587Z
+date: 2024-10-12T18:53:06.409Z
+updated: 2024-10-15T08:08:32.501Z
 tags:
   - win11
   - win10
@@ -54,11 +54,25 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
 
  After you successfully launched the game, it may re-enable the DirectX 12 mode automatically or it won’t. If it won’t, you can manually re-enable it.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Re-enable DirectX 12 mode
 
  1) Go to the game’s main menu and head across to the**OPTIONS** screen. Then select**VIDEO** .  
   
 ![re-enable DirectX 12 mode in STAR WARS Battfront II](https://images.drivereasy.com/wp-content/uploads/2021/01/reenable-DirectX-12-mode-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Under the GRAPHICS SETTINGS section, locate**ENABLE DIRECTX 12** . If it’s**OFF** , click**ON** . If it’s already ON, take the steps below to enable it in the bootup file.
 
@@ -68,7 +82,21 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
   
 ![re-enable DirectX 12 mode in the bootup file STAR WARS Battlefront II](https://images.drivereasy.com/wp-content/uploads/2021/01/re-enable-DirectX-12-mode.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136548/16384" target="_top" id="2136548">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136548" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136548/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Click**File > Save** to save the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Why disabling DirectX 12 works
 
@@ -89,12 +117,21 @@ Star Wars Battlefront 2 is free on Epic Games! But a recent issue that’s comin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005184/22899" target="_top" id="2005184">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005184" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005184/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/new-all-you-need-to-know-about-downloading-wm6/"><u>[New] All You Need to Know About Downloading WM6</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-battlefield-2042-fps-drops-and-stuttering-issues-on-pc/"><u>[SOLVED] Battlefield 2042 FPS Drops and Stuttering Issues on PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-visual-flow-control-simple-fade-strategies/"><u>[Updated] 2024 Approved Visual Flow Control Simple Fade Strategies</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-fuse-melodies-into-your-youtube-digital-realm/"><u>[Updated] Fuse Melodies Into Your Youtube Digital Realm</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-nvidia-screen-recorder-record-games-with-ease/"><u>[Updated] NVIDIA Screen Recorder - Record Games with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/apex-legends-players-manual-cracking-down-on-error-code-leaf-for-a-smoother-gameplay-experience/"><u>Apex Legends Player's Manual: Cracking Down on Error Code Leaf for a Smoother Gameplay Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-launch-difficulties-in-city-constructors-2-a-comprehensive-guide/"><u>Fixing Launch Difficulties in City Constructors 2: A Comprehensive Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/homemade-computers-vs-purchase-ready-pcs-determining-your-most-suitable-choice/"><u>Homemade Computers Vs. Purchase-Ready PCs: Determining Your Most Suitable Choice</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-enable-usb-debugging-on-a-locked-honor-play-40c-phone-by-drfone-android/"><u>How To Enable USB Debugging on a Locked Honor Play 40C Phone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-fix-system-error-e-xtracted-from-an-ssd-windows-11-7-and-8/"><u>How to Fix 'System Error E Xtracted From an SSD? [Windows 11, 7 & 8]</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-12-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 12</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-unresponsive-issues-a-guide-to-stabilizing-overwatch/"><u>Overcoming Unresponsive Issues – A Guide to Stabilizing Overwatch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-troubleshooting-steps-for-preventing-hogwarts-legacy-from-crashing-at-boot-up/"><u>Top 8 Troubleshooting Steps for Preventing Hogwarts Legacy From Crashing at Boot-Up</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-motorola-defy-2-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Motorola Defy 2 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Crash-Free Playthrough: Overcoming Technical Hurdles for 'Age of Wonders: Planetfall' On Personal Computers"
-date: 2024-09-17T00:02:00.174Z
-updated: 2024-09-22T02:06:31.065Z
+date: 2024-10-09T03:24:12.161Z
+updated: 2024-10-15T04:43:08.000Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 | **Software** | Minecraft Release 1.6 or newer                                                                                                                                                                  | Latest version                                                                                         |
 
  Also make sure you have downloaded **[the latest Java version](https://java.com/en/download/manual.jsp)**  , which is important for your Minecraft to run smoothly. Note that you should download the Java file according to your operating system (32-bit or 64-bit).[How to check my computer specs?](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918661/19272" target="_top" id="1918661">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918661" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918661/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -78,6 +85,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111968/7443" target="_top" id="2111968">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111968" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111968/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 3: Update your device drivers
 
  Minecraft not working can be caused by outdated or corrupt device drivers, especially your graphics card driver. Graphics driver allows your computer to display the game correctly.
@@ -115,6 +129,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/update-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  4) After updating the drivers, you need to restart your computer to take effect.
@@ -122,6 +143,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
  See if updating your video driver fixes your Minecraft not responding issue. If not, you can try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Minecraft as administrator
 
@@ -133,34 +161,13 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/properties-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  3) Select the**Compatibility** tab and check the box next to**Run this program as an administrator** . Click**Apply** and then**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/admin-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111994/7443" target="_top" id="2111994">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111994" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111994/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 4) Run Minecraft again to see if this works.
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948905/19272" target="_top" id="1948905">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948905" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948905/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Disable Mods
 
@@ -182,18 +189,18 @@ The infinite world in Minecraft is waiting for you to explore, but you just can�
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/APP-uninstall.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Right-click**Minecraft** and select**Uninstall** .
 
  4) Press the Windows logo key and R again to open the Run box again, then type**%appdata%** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/appdata.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  5) Right-click the**.minecraft** folder and select**Delete** to make sure you’ve deleted the related files.
 
@@ -225,5 +232,26 @@ Feel free to leave us a comment if you have any questions or suggestions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-getting-to-grips-with-bandicam-your-guide-through-2023s-updates/"><u>[New] Getting to Grips with Bandicam – Your Guide Through 2023'S Updates</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-immersive-escapes-how-to-choose-between-rift-vive-ps-vr-in-2024/"><u>[Updated] Immersive Escapes How to Choose Between Rift, Vive, PS VR, In 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726225380393-flac-mp3-movavi/"><u>網路上無成本轉換 FLAC到 MP3 - 利用 Movavi 提供的轉換工具</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726221141514-mp3-aac/"><u>網路直通無間：從 MP3 轉化成 AAC - 驚人解決方案！</u></a></li>
+<li><a href="https://win11.techidaily.com/breaking-barriers-run-handbrake-in-windows/"><u>Breaking Barriers: Run HandBrake in Windows</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/debating-smartphone-supremacy-the-detailed-breakdown-of-iphone-15-pro-max-and-samsung-s24-ultra/"><u>Debating Smartphone Supremacy: The Detailed Breakdown of iPhone 15 Pro Max & Samsung S24 Ultra</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/essential-fixes-for-when-your-computer-cant-locate-rpcrt4dll-file/"><u>Essential Fixes for When Your Computer Can't Locate RPCRT4.DLL File</u></a></li>
+<li><a href="https://win-blog.techidaily.com/formatos-quicktime-a-linea-de-comandos-gratuitos-herramientas-con-convertqt/"><u>Formatos QuickTime a Línea De Comandos Gratuitos: Herramientas Con ConvertQT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-conversion-of-audio-books-from-m4b-format-to-mp3-movavis-solution/"><u>Free Conversion of Audio Books From M4B Format to MP3 - Movavi's Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-web-based-solution-transforming-mpeg-videos-into-mov-format-instantly-with-movavi/"><u>Free Web-Based Solution: Transforming MPEG Videos Into MOV Format Instantly with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-alaw-file-in-wav-omzetten-online-vervullend-door-movavi/"><u>Gratis ALAW-File in WAV Omzetten - Online Vervullend Door Movavi</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-oppo-k11-5g-phone-password-without-factory-reset-by-drfone-android/"><u>How to Unlock Oppo K11 5G Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-nokia-c110-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Nokia C110 Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-gratis-convert-asf-in-mov-formaat-met-movavi-een-uitgebreide-verduidelijking/"><u>Online Gratis Convert ASF in MOV-Formaat Met Movavi: Een Uitgebreide Verduidelijking</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-vivo-s17-pro-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Vivo S17 Pro Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-nintendo-switch-assessment-unparalleled-in-handheld-gaming-performance/"><u>Top Nintendo Switch Assessment: Unparalleled in Handheld Gaming Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transformar-con-fines-educativos-avi-en-mkv-las-7-formas-mejores-y-sin-costo-tu-hoja-de-ruta-visualmente-atractiva/"><u>Transformar Con Fines Educativos AVI en MKV: Las 7 Formas Mejores Y Sin Costo - Tu Hoja De Ruta Visualmente Atractiva</u></a></li>
+<li><a href="https://program-issues.techidaily.com/troubleshooting-steps-if-microsoft-outlook-fails-to-open/"><u>Troubleshooting Steps If Microsoft Outlook Fails to Open</u></a></li>
+<li><a href="https://win-blog.techidaily.com/uutta-tarjootteja-videohahdoksen-2023-suoraamatkausiin-taydelliset-programmi-ja-maitotunteeseen-jaatko-koneistoimistonsa-muodostumiseen/"><u>Uutta Tarjootteja Videohahdoksen 2023: Suoraamatkausiin, Täydelliset Programmi Ja Maitotunteeseen – Jaatko Koneistoimistonsa Muodostumiseen</u></a></li>
+</ul></div>
 
