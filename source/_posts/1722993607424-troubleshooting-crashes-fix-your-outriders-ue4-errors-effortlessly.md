@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Crashes: Fix Your Outriders UE4 Errors Effortlessly"
-date: 2024-09-19T20:39:45.914Z
-updated: 2024-09-22T01:19:09.484Z
+date: 2024-10-17T16:22:33.693Z
+updated: 2024-10-20T17:14:26.606Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ If you’re getting this error message ‘**An Unreal process has crashed: UE4-M
 4. **[Force Outriders to run in DX11](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Launch the game in your game folder](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Allow your game to run through Firewall](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 1\. Quit MSI Afterburner
 
@@ -61,6 +68,13 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click_Update All_ .)
 
  4) Once the driver is updated, reboot your PC for the changes to take effect.
@@ -78,27 +92,20 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Go to the LOCAL FILES tab, and click**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  4) Wait for the process to complete. It may take a few seconds to verify the integrity of your game files.
 
  Once complete, you can restart the game to check if the Unreal Engine error has been solved by now.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
-  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 4\. Force Outriders to run in DX11
 
@@ -110,13 +117,20 @@ There are mainly two methods for you to update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-in-dx-11.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now when you click the Play button, the game is always run in DX11\. If this method doesn’t do the trick, you can change the launch option back to**\-force -dx12** .
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 5\. Launch the game in your game folder
@@ -130,6 +144,13 @@ There are mainly two methods for you to update the graphics driver:
  2) Right-click**OUTRIDERS-Win64-Shipping** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-game-exe.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Go to the**Compatibility** tab, and check**Run this program as an administrator** .
 
@@ -146,19 +167,6 @@ There are mainly two methods for you to update the graphics driver:
 2) Type**firewall.cpl** in the box, and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/firewall.jpg)
-
-<!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) On the left pane, click**Allow an app or feature through Windows Defender Firewall** .
 
@@ -192,5 +200,23 @@ There are mainly two methods for you to update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-effortless-background-watching-of-youtube-on-mobile/"><u>[New] 2024 Approved Effortless Background Watching of YouTube on Mobile</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/decoding-a-missing-page-error-http-404-and-remedies-for-quick-recovery/"><u>Decoding a Missing Page Error (HTTP 404) & Remedies for Quick Recovery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-tips-to-prevent-stardee-world-from-crashing-on-your-computer/"><u>Effective Tips to Prevent Stardee World From Crashing on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-solutions-unstuck-from-shader-optimization-in-star-wars-battlefront-ii/"><u>Fast Solutions: Unstuck From Shader Optimization in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-civ-6-not-opening-on-windows-10-steps-to-get-you-playing-asap/"><u>Fix Civ 6 Not Opening on Windows 10: Steps to Get You Playing ASAP</u></a></li>
+<li><a href="https://win11.techidaily.com/fixing-the-tick-tock-restoring-windows-time-service/"><u>Fixing the Tick-Tock: Restoring Windows Time Service</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-samsung-galaxy-a05-in-5-easy-ways-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset Samsung Galaxy A05 in 5 Easy Ways | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-unable-to-display-webpage-in-internet-explorer-a-complete-guide/"><u>How to Overcome 'Unable to Display Webpage' In Internet Explorer – A Complete Guide</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-mastering-photography-with-nikon-d7500/"><u>In 2024, Mastering Photography with Nikon D7500</u></a></li>
+<li><a href="https://windows11.techidaily.com/key-techniques-for-windowsapps-file-reveal/"><u>Key Techniques for WindowsApps File Reveal</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/obs-studio-vs-fraps-which-is-a-better-for-2024/"><u>OBS Studio vs Fraps – Which Is A Better for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-you-have-lost-connection-in-destiny-2-expert-advice/"><u>Quick Fixes for 'You Have Lost Connection' In Destiny 2 - Expert Advice</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/secure-your-spot-elite-imagery-repair-solutions-now/"><u>Secure Your Spot - Elite Imagery Repair Solutions Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fix-for-stabilizing-your-stellaris-gaming-experience-away-from-crashes/"><u>The Ultimate Fix for Stabilizing Your Stellaris Gaming Experience Away From Crashes</u></a></li>
+<li><a href="https://location-social.techidaily.com/why-your-whatsapp-live-location-is-not-updating-and-how-to-fix-on-your-itel-p55-drfone-by-drfone-virtual-android/"><u>Why Your WhatsApp Live Location is Not Updating and How to Fix on your Itel P55 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-fans-rejoice-fixing-persistent-xcom-2-game-crashes-made-easy/"><u>Windows Fans Rejoice: Fixing Persistent XCOM 2 Game Crashes Made Easy!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Preventing Persistent Crashes in Age of Empires II Definitive Edition"
-date: 2024-09-16T22:31:46.992Z
-updated: 2024-09-21T18:56:41.017Z
+date: 2024-10-13T16:04:41.320Z
+updated: 2024-10-20T19:19:22.836Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://coinrule.sjv.io/c/5597632/1610918/18409" target="_top" id="1610918">
+  <img src="//a.impactradius-go.com/display-ad/18409-1610918" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://coinrule.sjv.io/i/5597632/1610918/18409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC specs meet the requirements
 
  Before you try anything more advanced, first check your PC specs. Immortals Fenyx Rising is a demanding game, both to your skills and PC hardware. A decent setup is a must if you expect a smooth gaming experience. If you find your specs don’t meet the game requirements below, then maybe it’s time for an upgrade.
@@ -59,6 +66,13 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -77,10 +91,10 @@ Here’s how:
 If this method doesn’t help, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123735/7443" target="_top" id="2123735">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123735" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123735/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
@@ -129,16 +143,10 @@ And here’s how you can make sure your system is the latest:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1374819">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -162,5 +170,19 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-experience-retro-gaming-glory-with-best-pc-ps1-emulation-software-for-2024/"><u>[New] Experience Retro Gaming Glory with Best PC PS1 Emulation Software for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/irthful-browsings-your-ultimate-list-of-top-comedy-vids/"><u>[New] Mirthful Browsings Your Ultimate List of Top Comedy Vids</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-hdmi-display-showdown-the-creme-de-la-creme-monitors/"><u>[Updated] In 2024, HDMI Display Showdown The Crème De La Crème Monitors</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-unveiling-viewer-insights-understanding-subscriber-feedback/"><u>2024 Approved Unveiling Viewer Insights Understanding Subscriber Feedback</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/comprendre-lanatomie-du-systeme-nerveux-parts-in-french/"><u>Comprendre L'Anatomie Du Système Nerveux: Parts in French</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discord-screen-share-solving-the-mute-dilemma-for-clearer-communication/"><u>Discord Screen Share - Solving the Mute Dilemma for Clearer Communication</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-flash-dead-nubia-red-magic-9-pro-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Nubia Red Magic 9 Pro Safely | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-snap-and-tag-your-audio-favorite-to-share/"><u>In 2024, Snap & Tag Your Audio Favorite to Share</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-mw3s-dev-error-6069-fixes-for-players-prepping/"><u>Inside MW3's Dev Error 6069 Fixes for Players Prepping</u></a></li>
+<li><a href="https://article-posts.techidaily.com/rapid-shot-mastery-the-ultimate-guide-to-homemade-cinematography/"><u>Rapid Shot Mastery The Ultimate Guide to Homemade Cinematography</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992865634-say-goodbye-to-rdo-crashes-on-your-computer-effective-solutions-inside/"><u>Say Goodbye to RDO Crashes on Your Computer - Effective Solutions Inside!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-steam-not-starting-and-black-screens-top-solutions/"><u>Troubleshoot Steam Not Starting & Black Screens: Top Solutions</u></a></li>
+</ul></div>
 

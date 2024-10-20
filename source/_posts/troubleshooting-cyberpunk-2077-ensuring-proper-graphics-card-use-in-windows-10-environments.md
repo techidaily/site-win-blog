@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Cyberpunk 2077: Ensuring Proper Graphics Card Use in Windows 10 Environments"
-date: 2024-09-19T01:33:02.967Z
-updated: 2024-09-21T18:53:27.937Z
+date: 2024-10-18T18:43:24.905Z
+updated: 2024-10-20T21:47:42.277Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
@@ -90,28 +97,48 @@ Here’s how:
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139107/17108" target="_top" id="2139107">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139107" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139107/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134238/18498" target="_top" id="2134238">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134238" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134238/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1868586/19272" target="_top" id="1868586">
-  <img src="//a.impactradius-go.com/display-ad/19272-1868586" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868586/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<span id="1983551">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983551.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983551">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983551.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983551%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983551/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -122,13 +149,6 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -153,5 +173,26 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/improved-maximize-your-fps-by-correcting-drops-during-gameplay-in-resident-evil-village-pc-version/"><u>[IMPROVED] Maximize Your FPS by Correcting Drops During Gameplay in Resident Evil Village (PC Version)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-crafting-content-step-by-step-guide-to-youtube-video-editing/"><u>[New] 2024 Approved Crafting Content Step by Step Guide to YouTube Video Editing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-from-screenplays-to-screens-youtubes-filmmaker-training/"><u>[New] In 2024, From Screenplays to Screens YouTube's Filmmaker Training</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-in-2024-unveiling-50plus-best-tiktok-inspirational-quotes/"><u>[Updated] In 2024, Unveiling 50+ Best TikTok Inspirational Quotes</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-spectacular-video-connections-quest/"><u>2024 Approved Spectacular Video Connections Quest</u></a></li>
+<li><a href="https://extra-information.techidaily.com/best-sound-choices-essential-downloads-guide-for-2024/"><u>Best Sound Choices Essential Downloads Guide for 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-oneplus-nord-ce-3-lite-5g-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your OnePlus Nord CE 3 Lite 5G to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dread-hunger-crashes-resolved-stabilizing-your-pc-gaming-experience/"><u>Dread Hunger Crashes Resolved: Stabilizing Your PC Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/essential-ios-16-functions-you-must-try-today-tips-and-tricks-revealed/"><u>Essential iOS 16 Functions You Must Try Today: Tips & Tricks Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-and-repair-packet-transmission-errors-on-discord/"><u>How to Overcome and Repair Packet Transmission Errors on Discord</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-battlefield-comprehensive-guide-for-war-thunder-gamers-on-tackling-low-fps-problems/"><u>Master the Battlefield - Comprehensive Guide for War Thunder Gamers on Tackling Low FPS Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-fuser-crashes-ultimate-solutions-for-a-smooth-windows-experience/"><u>Mastering Fuser Crashes: Ultimate Solutions for a Smooth Windows Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/netflix-issues-resolved-for-xbox-one-users/"><u>Netflix Issues Resolved for Xbox One Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/personality-becomes-personalities/"><u>Personality Becomes Personalities</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reasons-for-honor-magic-v2-stuck-on-boot-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for Honor Magic V2 Stuck on Boot Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-fixing-resident-evil-village-startup-errors/"><u>Troubleshooting Tips for Fixing Resident Evil Village Startup Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-why-is-star-wars-jedi-fallen-order-unable-to-start/"><u>Troubleshooting Tips: Why Is Star Wars Jedi: Fallen Order Unable to Start?</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/your-portal-to-pristine-tiktok-downloads-free-and-simple-for-2024/"><u>Your Portal to Pristine TikTok Downloads - Free & Simple for 2024</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/windows-and-mac/"><u>プロフェッショナルなビデオコンバータを求める方へ：Windows & Mac両用の最もおすすめ無料ダウンロードソフトで、スピーディ映像変換が可能！</u></a></li>
+</ul></div>
 

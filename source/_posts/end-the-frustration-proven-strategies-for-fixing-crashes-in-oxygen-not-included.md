@@ -1,7 +1,7 @@
 ---
 title: "End the Frustration: Proven Strategies for Fixing Crashes in Oxygen Not Included"
-date: 2024-09-19T19:20:04.466Z
-updated: 2024-09-21T17:40:43.213Z
+date: 2024-10-17T16:18:01.585Z
+updated: 2024-10-20T16:02:40.785Z
 tags:
   - win11
   - win10
@@ -54,9 +54,23 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
@@ -80,6 +94,13 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151854/7443" target="_top" id="2151854">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151854" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151854/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -91,19 +112,19 @@ The outdated or broken graphics driver often crashes the game.
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123740/7443" target="_top" id="2123740">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123740" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2049379/7443" target="_top" id="2049379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123740/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://25home.pxf.io/c/5597632/2148650/16836" target="_top" id="2148650">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148650" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148650/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Fix 5: Set launch options on Steam
@@ -118,13 +139,6 @@ The outdated or broken graphics driver often crashes the game.
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144297/7443" target="_top" id="2144297">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144297" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144297/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -154,5 +168,19 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-photoharmony-android-and-ios-instagram-collages/"><u>[New] In 2024, PhotoHarmony Android & iOS Instagram Collages</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-explore-6-superior-nft-tools-for-artistic-innovation/"><u>[Updated] Explore 6 Superior NFT Tools for Artistic Innovation</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-how-to-post-share-a-video-from-youtube-on-instagram/"><u>[Updated] How to Post /Share a Video From YouTube on Instagram</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-top-5-screen-recorder-for-chromebook-free-extensions/"><u>[Updated] In 2024, Top 5 Screen Recorder for Chromebook Free Extensions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dead-by-daylight-ultimate-troubleshooting-guide-fixes-for-the-persistent-2024-crash/"><u>Dead By Daylight - Ultimate Troubleshooting Guide: Fixes for the Persistent 2024 Crash</u></a></li>
+<li><a href="https://win-blog.techidaily.com/launch-success-the-power-of-duo-dynamics-unveiled/"><u>Launch Success: The Power of Duo Dynamics Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/novices-nexus-grasping-frame-rates-and-aspect-ratios-for-2024/"><u>Novice's Nexus Grasping Frame Rates and Aspect Ratios for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-download-errors-efficiently-installing-age-of-empires-iv-via-microsoft-store/"><u>Resolving Download Errors: Efficiently Installing Age of Empires IV via Microsoft Store</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996211483-tactical-fixes-for-continuous-stability-in-total-war-three-kingdoms-no-more-crashing/"><u>Tactical Fixes for Continuous Stability in Total War: Three Kingdoms – No More Crashing</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ommercial-side-of-casual-videography/"><u>The Commercial Side of Casual Videography</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-missing-link-finding-your-way-onto-facebook-marketplace/"><u>The Missing Link: Finding Your Way Onto Facebook Marketplace</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/top-10-fixes-how-to-prevent-files-from-opening-with-a-double-click-on-windows-11/"><u>Top 10 Fixes: How to Prevent Files From Opening with a Double-Click on Windows 11</u></a></li>
+</ul></div>
 

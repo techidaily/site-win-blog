@@ -1,7 +1,7 @@
 ---
 title: "Resolved! Fixes for Black Screen Problems in Magic: The Gathering Arena"
-date: 2024-09-15T21:01:56.287Z
-updated: 2024-09-21T19:27:22.049Z
+date: 2024-10-17T18:19:44.171Z
+updated: 2024-10-20T19:59:24.652Z
 tags:
   - win11
   - win10
@@ -33,6 +33,19 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  As a AAA title in 2019, Modern Warfare is challenging, both to your game skills and computer hardware. So if you’re sticking with a PC built five years ago, chances are you won’t find this “slow-motion” game enjoyable. If you notice your FPS is dropping constantly, and even worse during a shoot-out, the first thing you should do is to**check your specs and see if they meet the game requirements** . Because if they don’t, then maybe it’s time for an upgrade.
@@ -56,6 +69,13 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 | **Storage:**          | 175 GB                                                                                |
 
  If you’re confident with your gaming rig, simply continue to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change Display Mode
 
@@ -100,22 +120,8 @@ And it’s quite easy to update too:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
-  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  To install all the available updates, you might need to repeat these steps several times until Windows prompts that you’re up to date when you click**Check for updates** .
 
@@ -124,10 +130,10 @@ And it’s quite easy to update too:
  If this method doesn’t help your case, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://wigfever.sjv.io/c/5597632/1995803/22899" target="_top" id="1995803">
+  <img src="//a.impactradius-go.com/display-ad/22899-1995803" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/1995803/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Fix 5:**Clean up resource-hungry processes**
@@ -150,15 +156,23 @@ Here’s how to enable this power plan:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144282/7443" target="_top" id="2144282">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144282" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144282/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2148634/16836" target="_top" id="2148634">
-  <img src="//a.impactradius-go.com/display-ad/16836-2148634" border="0" alt="https://techidaily.com" width="80" height="31"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1880927/19272" target="_top" id="1880927">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880927" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148634/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880927/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
@@ -180,5 +194,26 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/jedi-fallen-order-overcoming-pc-performance-hiccups-on-your-star-wars-adventure/"><u>'Jedi: Fallen Order': Overcoming PC Performance Hiccups on Your Star Wars Adventure</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-from-casual-gamer-to-pro-elevating-your-minecraft-recordings-with-a-mac/"><u>[New] From Casual Gamer to Pro Elevating Your Minecraft Recordings with a Mac</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-how-to-access-your-facebook-recent-view-log/"><u>[New] In 2024, How to Access Your Facebook Recent View Log</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-nikon-1j5-takes-video-to-the-next-level-with-its-4k-features/"><u>[Updated] Nikon 1J5 Takes Video to the Next Level with Its 4K Features</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-updating-your-meet-name-easy-steps-for-pc-and-mobile/"><u>[Updated] Updating Your Meet Name Easy Steps for PC & Mobile</u></a></li>
+<li><a href="https://win-studio.techidaily.com/panasonic-sd/"><u>這是PANASONIC SD存儲恢復祕技，一次查看所有丟失文件</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/complete-walkthrough-registering-for-access-to-the-playstation-community/"><u>Complete Walkthrough: Registering for Access to the PlayStation Community</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-hp-laserjet-pro-printer-software-latest-version-available/"><u>Download HP LaserJet Pro Printer Software - Latest Version Available</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-to-resolve-division-2-not-starting-tips/"><u>Effective Strategies to Resolve Division 2 Not Starting - Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-overcoming-steam-file-access-restrictions-easily/"><u>Expert Guide: Overcoming Steam File Access Restrictions Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-ark-scorched-earth-downloads-and-play-issues-on-laptop-effective-methods-explained/"><u>Fix ARK: Scorched Earth Downloads and Play Issues on Laptop - Effective Methods Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-game-latency-problems-on-the-naraka-bladepoint-platform/"><u>Fixing Game Latency Problems on the Naraka Bladepoint Platform</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/heads-up-display-for-cyclists-yes-transforming-biking-experience-with-photochromic-glasses-insights/"><u>Heads-Up Display for Cyclists? Yes! Transforming Biking Experience with Photochromic Glasses | Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-the-easy-anti-cheat-missing-issue-successful-resolution-for-smooth-eac-launches/"><u>Overcome the Easy Anti-Cheat Missing Issue: Successful Resolution for Smooth EAC Launches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-complete-black-display-glitches-in-rainbow-six-siege-gameplay-pc/"><u>Quick Fixes for Complete Black Display Glitches in Rainbow Six Siege Gameplay (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-guide-why-does-internet-explorer-fail-to-render-web-pages/"><u>Solved Guide: Why Does Internet Explorer Fail to Render Web Pages?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/solving-gta-5-frame-drops-fixes-and-tips/"><u>Solving GTA 5 Frame Drops: Fixes and Tips</u></a></li>
+<li><a href="https://win-dash.techidaily.com/the-ultimate-list-of-top-ranked-free-video-player-apps-compatible-with-all-platforms-windows-mac-android-and-ios-updated-guide/"><u>The Ultimate List of Top-Ranked Free Video Player Apps Compatible with All Platforms: Windows, Mac, Android & iOS - Updated Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-roblox-launch-issues-proven-troubleshooting-steps/"><u>Ultimate Guide: Resolving Roblox Launch Issues - Proven Troubleshooting Steps</u></a></li>
+</ul></div>
 

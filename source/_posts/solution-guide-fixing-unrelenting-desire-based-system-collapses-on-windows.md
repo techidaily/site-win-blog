@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Fixing Unrelenting Desire-Based System Collapses on Windows"
-date: 2024-09-16T20:05:23.562Z
-updated: 2024-09-21T20:17:29.774Z
+date: 2024-10-19T20:34:26.131Z
+updated: 2024-10-20T19:30:04.843Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
 4. Relaunch the game and check whether it will freeze or not.
 
@@ -49,6 +56,13 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
  Ensure that the resolution of the game matches that of your display monitors.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 2: Edit your configuration file
 
@@ -65,20 +79,14 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
 6. Relaunch the game and check whether it solves the problem.
 
----
-
 <!-- affiliate ads begin -->
-<span id="1938141">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1938141.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1938141">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938141.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938141%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938141/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+---
 
 ### Method 3: Change**compatibility** and run Fallout 3 as administrator
 
@@ -89,25 +97,20 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Right-click on Fallout 3.exe and click**Properties** .  
 
-<!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe.jpg)
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
@@ -141,6 +144,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100529/7443" target="_top" id="2100529">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will freeze or not.
@@ -151,10 +161,10 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135403/19272" target="_top" id="2135403">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135403" border="0" alt="https://techidaily.com" width="392" height="72"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135403/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5:**Reinstall**  Fallout 3
@@ -180,5 +190,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-oculus-odyssey-a-journey-through-best-vr-headsets/"><u>[New] In 2024, Oculus Odyssey A Journey Through Best VR Headsets</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-subtle-volume-lessening-masterclass-using-lumafusion/"><u>[Updated] 2024 Approved Subtle Volume Lessening Masterclass Using Lumafusion</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-video-excellence-via-apple-music-add-on/"><u>[Updated] Video Excellence via Apple Music Add-On</u></a></li>
+<li><a href="https://win-blog.techidaily.com/a-complete-guide-to-fixing-slow-loading-times-in-rainbow-six-siege/"><u>A Complete Guide to Fixing Slow Loading Times in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-syndicate-awakens-wont-start-top-fixes-and-solutions-for-2n3/"><u>Assassin's Creed: Syndicate Awakens Won't Start? Top Fixes and Solutions for 2N3</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/break-language-barriers-with-easy-online-and-autonomous-learning-options/"><u>Break Language Barriers with Easy Online & Autonomous Learning Options</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-i-recover-permanently-deleted-photos-from-vivo-g2-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>Can I recover permanently deleted photos from Vivo G2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-lag-issues-in-battlefield-5-with-these-essential-fixes/"><u>Conquer Lag Issues in Battlefield 5 with These Essential Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dota-2-fps-issues-solved-for-windows-11-and-10-a-comprehensive-guide/"><u>Dota 2 FPS Issues Solved for Windows 11 & 10: A Comprehensive Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-trendsetters-pictures-origins-explored/"><u>In 2024, Trendsetters' Pictures Origins Explored</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-with-steam-titles-in-windows-10-environment/"><u>Overcoming Launch Problems with Steam Titles in Windows 10 Environment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-kodi-connection-issues-how-to-fix-could-not-obtain-directory-information/"><u>Resolving Kodi Connection Issues: How to Fix 'Could Not Obtain Directory Information'</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/samsung-gear-360-alternatives-updated-list-2023/"><u>Samsung Gear 360 Alternatives Updated List 2023</u></a></li>
+<li><a href="https://techidaily.com/three-solutions-to-hard-reset-infinix-smart-8-hd-drfone-by-drfone-reset-android-reset-android/"><u>Three Solutions to Hard Reset Infinix Smart 8 HD? | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/timeless-telephony-a-compilation-of-calls-for-2024/"><u>Timeless Telephony A Compilation of Calls for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-eliminating-elex-ii-windows-crashes/"><u>Troubleshooting Tips for Eliminating Elex II Windows Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-stop-warno-from-crashing-and-keep-playing-seamlessly/"><u>Ultimate Guide: Stop Warno From Crashing and Keep Playing Seamlessly</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unleashing-potential-learning-steams-switch-controller/"><u>Unleashing Potential Learning Steam's Switch Controller</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-locked-fortnite-game-how-to-fix-permission-denied-errors/"><u>Unlocking the Locked Fortnite Game: How to Fix 'Permission Denied' Errors</u></a></li>
+</ul></div>
 

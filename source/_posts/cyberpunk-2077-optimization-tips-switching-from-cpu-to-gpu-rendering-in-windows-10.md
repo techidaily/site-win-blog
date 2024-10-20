@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Optimization Tips: Switching From CPU to GPU Rendering in Windows 10"
-date: 2024-09-19T02:19:05.188Z
-updated: 2024-09-22T01:07:17.217Z
+date: 2024-10-19T17:39:37.339Z
+updated: 2024-10-20T16:36:33.087Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
 2. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Change Graphics performance preference**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure you’re using a CPU with integrated graphics
 
@@ -67,6 +74,14 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151884/7443" target="_top" id="2151884">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151884" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151884/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -75,6 +90,13 @@ To do so, first visit the website of your graphics card manufacturer:
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
 
  If updating the graphics driver doesn’t help you, take a look at the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Change Graphics performance preference
 
@@ -86,6 +108,13 @@ Here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 
@@ -93,22 +122,15 @@ Here’s how:
 4. Click **Options** .  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2043662/7443" target="_top" id="2043662">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043662" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043662/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this trick doesn’t solve your problem, you can continue to the next one.
 
@@ -121,13 +143,6 @@ And it’s quite easy to check for updates:
 1. On your keyboard, press **Win+I**  (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
-  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
@@ -152,5 +167,24 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-best-2023-youtubers-for-daily-inspiration-from-animated-series/"><u>[New] In 2024, Best 2023 YouTubers for Daily Inspiration From Animated Series</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-prime-alternatives-the-best-online-learning-platforms-without-udemy-for-2024/"><u>[New] Prime Alternatives The Best Online Learning Platforms without Udemy for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-the-ultimate-android-moba-game-series-countdown-10/"><u>2024 Approved The Ultimate Android MOBA Game Series Countdown (#10)</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-realme-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Realme 12 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exploring-the-full-screen-capabilities-of-steam/"><u>Exploring the Full-Screen Capabilities of Steam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnites-ls-0013-problem-heres-your-complete-solution/"><u>Fortnite's LS-0013 Problem? Here's Your Complete Solution</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/immediate-effect-delving-into-why-italy-enacted-a-ban-on-chatgpt-services/"><u>Immediate Effect: Delving Into Why Italy Enacted a Ban on ChatGPT Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/immortal-troubles-heres-how-to-stop-fenyx-rising-from-crashing-again/"><u>Immortal Troubles? Here's How to Stop Fenyx Rising From Crashing Again</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-how-to-remove-background-in-figma-a-comprehensive-guide/"><u>In 2024, How To Remove Background In Figma A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-unleash-your-potential-skyrocketing-numbers-of-youtubers-subscribers/"><u>In 2024, Unleash Your Potential Skyrocketing Numbers of YouTubers' Subscribers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-ubisoft-connect-speeds-for-faster-game-installation/"><u>Optimizing Ubisoft Connect Speeds for Faster Game Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-lag-and-frame-drops-in-valheim-a-comprehensive-guide-for-gamers-in-202-cufflinks-24/"><u>Overcoming Lag and Frame Drops in Valheim: A Comprehensive Guide for Gamers in 202 Cufflinks 24</u></a></li>
+<li><a href="https://win-dash.techidaily.com/step-by-step-guide-amd-vega-amids-software-update-on-windows-os/"><u>Step-by-Step Guide: AMD Vega Amids Software Update on Windows OS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-stabilize-your-pc-and-prevent-house-flipper-n-crashes/"><u>Steps to Stabilize Your PC and Prevent House Flipper N Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-fixing-persistent-crashes-in-darkest-dungeon-2-on-windows/"><u>Troubleshooting Tips: Fixing Persistent Crashes in Darkest Dungeon 2 on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-dayzones-game-crashes/"><u>Ultimate Guide: Solving DayZones Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vinho-verde-this-light-slightly-effervescent-wine-is-produced-mostly-in-the-northwest-region-of-minho-and-is-often-served-chilled-alongside-tapas-style-bite537/"><u>Vinho Verde: This Light, Slightly Effervescent Wine Is Produced Mostly in the Northwest Region of Minho and Is Often Served Chilled Alongside Tapas-Style Bites Like Sopa De Grão (Barley Soup) or Caldo Verde (Kale and Potato Soup)</u></a></li>
+</ul></div>
 

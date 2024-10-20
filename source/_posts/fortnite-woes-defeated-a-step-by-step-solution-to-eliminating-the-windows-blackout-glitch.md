@@ -1,7 +1,7 @@
 ---
 title: Fortnite Woes Defeated? A Step-by-Step Solution to Eliminating the Windows Blackout Glitch
-date: 2024-09-19T17:14:25.955Z
-updated: 2024-09-21T23:35:59.133Z
+date: 2024-10-14T20:03:08.299Z
+updated: 2024-10-20T17:23:54.538Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **16 GB**           |
 | **DirectX**          | **DirectX 11.0**    |
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972665/19272" target="_top" id="1972665">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972665" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972665/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Recommended system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**                                           |
@@ -47,6 +54,13 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **Processor**        | **Core i5 2.8 Ghz**                                          |
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135351/19272" target="_top" id="2135351">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135351" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135351/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -60,13 +74,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 6. [**Unblock the game from Windows Firewall**](https://tools.techidaily.com/drivereasy/download/)
 
 ---
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 1: Lower graphics settings
 
@@ -84,10 +91,10 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 3. Click **OK** then run Fortnite to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method doesn’t help, don’t worry, move to the next one.
@@ -126,21 +133,14 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012420/19272" target="_top" id="2012420">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012420" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012420/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1896541/19272" target="_top" id="1896541">
-  <img src="//a.impactradius-go.com/display-ad/19272-1896541" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896541/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -159,9 +159,24 @@ OR
 1. Right-click on your desktop screen.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Change the scaling limit.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Method 6: Unblock the game from Windows Firewall
 
@@ -177,13 +192,6 @@ OR
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
@@ -206,5 +214,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-techniques-to-lower-audio-levels-in-os-xwindows/"><u>[New] 2024 Approved Techniques to Lower Audio Levels in OS X/Windows</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-strategic-approaches-to-share-ppt-powerfully-in-google-meet-for-2024/"><u>[New] Strategic Approaches to Share PPT Powerfully in Google Meet for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-advanced-lighting-strategies-for-superior-iphone-photos/"><u>[Updated] In 2024, Advanced Lighting Strategies for Superior iPhone Photos</u></a></li>
+<li><a href="https://some-tips.techidaily.com/mp4ogvmovavi/"><u>無料で使えるMP4に簡単変換!動画形式OGVをMovaviでオンライン変更する方法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/a-cycle-of-adversity-and-endurance-the-story-of-black-survival-through-generations/"><u>A Cycle of Adversity and Endurance: The Story of Black Survival Through Generations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminate-frustrating-lags-solving-pubg-pc-crashes-and-responsiveness-problems/"><u>Eliminate Frustrating Lags: Solving PUBG PC Crashes and Responsiveness Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/enjoy-endless-tunes-with-our-picks-top-7-free-music-apps-for-all-ios-and-android-users/"><u>Enjoy Endless Tunes with Our Picks: Top 7 Free Music Apps for All iOS & Android Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-rapid-steam-crashes-and-enjoy-uninterrupted-gaming/"><u>Expert Tips to Resolve Rapid Steam Crashes and Enjoy Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996831161-fixing-the-ashen-crash-error-fast-easy-techniques-inside/"><u>Fixing the Ashen Crash Error - Fast, Easy Techniques Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-honor-x8b-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Honor X8b Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-xiaomi-redmi-note-13-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Xiaomi Redmi Note 13 5G? | Dr.fone</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-transform-your-projects-with-these-top-10-ae-types/"><u>In 2024, Transform Your Projects with These Top 10 AE Types</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-outriders-not-starting-issue-a-comprehensive-guide-for-players-in-202/"><u>Resolving Outriders Not Starting Issue: A Comprehensive Guide for Players in 202</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-activating-hyper-v-in-windows-11/"><u>Step-by-Step Guide to Activating Hyper-V in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-restore-responsiveness-in-pc-version-of-minecraft/"><u>Steps to Restore Responsiveness in PC Version of Minecraft</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-stop-paladins-from-freezing-or-crashing-tips/"><u>Ultimate Guide to Stop Paladins From Freezing or Crashing: Tips</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/ultimate-guide-transforming-dvd-songs-into-mp3-files-quickly/"><u>Ultimate Guide: Transforming DVD Songs Into MP3 Files Quickly</u></a></li>
+</ul></div>
 

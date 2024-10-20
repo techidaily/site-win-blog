@@ -1,7 +1,7 @@
 ---
 title: Fixes & Solutions for Mass Effect Legendary Edition Failure to Load
-date: 2024-09-09T18:22:19.534Z
-updated: 2024-09-17T00:56:51.058Z
+date: 2024-10-14T17:21:20.702Z
+updated: 2024-10-20T17:15:30.947Z
 tags:
   - win11
   - win10
@@ -48,6 +48,13 @@ It’s annoying when you can’t connect to the EA server or receive the error m
 
 If it’s not the server, please move to the next method.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Method 2: Change DNS to Google
 
  Google is one of the free and public DNS servers. Some players find the connection issue could be solved by swapping their DNS to Google.  
@@ -68,22 +75,17 @@ If it’s not the server, please move to the next method.
 5. Select the**Networking** tab, select**Internet Protocol Version 4 (TCP/IPv4)** under This connection uses the following items. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-42-06.jpg)
 6. Click Use the following DNS server addresses and enter the Google DNS server address.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_16-41-46.jpg)
 7. Click**OK** to save the change.
 8. Reboot the game and check.
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Method 3: Run as administrator
 
@@ -94,6 +96,13 @@ Some players suggest Run as administrator could fix this issue.
 3. Click**Apply > OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-06_18-35-04.jpg)
 4. Reboot the game and check.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934138/19272" target="_top" id="1934138">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934138" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934138/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If this method doesn’t help, please move to the next one.
 
@@ -113,19 +122,20 @@ If this method doesn’t help, please move to the next one.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<span id="1982461">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982461.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982461">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982461.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982461%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982461/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Method 5: Clear game cache
@@ -175,5 +185,26 @@ If this method doesn’t help, please move to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-create-professional-minecraft-graphics/"><u>[New] 2024 Approved Create Professional Minecraft Graphics</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/apex-chart-analyst-master-video-popularity/"><u>Apex Chart Analyst Master Video Popularity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-bugs-essential-troubleshooting-steps-to-prevent-maplestory-crash-on-windows-11/"><u>Bypassing Bugs: Essential Troubleshooting Steps to Prevent MapleStory Crash on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decode-and-defend-against-recurring-glitches-stability-hacks-for-days-gone/"><u>Decode & Defend Against Recurring Glitches: Stability Hacks for Days Gone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-gigabytes-z370p-full-featured-drivers-for-ultimate-compatibility/"><u>Download Gigabyte's Z370P Full-Featured Drivers for Ultimate Compatibility</u></a></li>
+<li><a href="https://win-popular.techidaily.com/effortless-techniques-for-retrieving-images-from-a-secured-sd-card/"><u>Effortless Techniques for Retrieving Images From a Secured SD Card</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-a-continuous-crash-in-the-gas-station-simulator-game-on-your-computer/"><u>How to Fix a Continuous Crash in the Gas Station Simulator Game on Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-photos-from-nokia-xr21-to-laptop-without-usb-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Photos from Nokia XR21 to Laptop Without USB | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-punchline-studio-sign-up-and-share-your-humor/"><u>In 2024, PunchLine Studio Sign Up & Share Your Humor</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-remove-the-lock-screen-fingerprint-of-your-tecno-spark-go-2024-by-drfone-android/"><u>In 2024, Remove the Lock Screen Fingerprint Of Your Tecno Spark Go (2024)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/instant-relief-from-fortnite-logins-failures-expert-advice-to-try-right-away/"><u>Instant Relief From Fortnite Logins Failures - Expert Advice to Try Right Away</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/overcoming-secure-authentication-problems-with-the-epic-launcher/"><u>Overcoming Secure Authentication Problems with the Epic Launcher</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-visuals-at-stake-overcoming-the-errgfxstate-bug/"><u>Red Dead Redemption 2 Visuals at Stake: Overcoming the ERR_GFX_STATE Bug</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-mouse-troubles-in-resident-evil-village-fix-and-guide/"><u>Resolved: Mouse Troubles in Resident Evil Village - Fix & Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013833370-resolving-tf2-issues-stop-game-crashes-now/"><u>Resolving TF2 Issues: Stop Game Crashes Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/speeding-up-steam-proven-methods-to-improve-game-stream-speed/"><u>Speeding Up Steam: Proven Methods to Improve Game Stream Speed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/transform-videos-into-attractors-try-these-7-thumbnail-makers-for-2024/"><u>Transform Videos Into Attractors - Try These 7 Thumbnail Makers for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/transform-your-footage-techniques-for-outstanding-gopro-edits/"><u>Transform Your Footage Techniques for Outstanding GoPro Edits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-the-black-screen-issue-in-star-wars-battlefront-ii/"><u>Troubleshooting Guide: Eliminating the Black Screen Issue in Star Wars Battlefront II</u></a></li>
+</ul></div>
 

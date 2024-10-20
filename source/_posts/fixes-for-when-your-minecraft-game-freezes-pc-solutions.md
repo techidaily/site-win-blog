@@ -1,7 +1,7 @@
 ---
 title: "Fixes for When Your Minecraft Game Freezes: PC Solutions"
-date: 2024-09-14T20:34:17.435Z
-updated: 2024-09-16T22:40:45.613Z
+date: 2024-10-19T21:49:52.694Z
+updated: 2024-10-20T16:28:11.474Z
 tags:
   - win11
   - win10
@@ -46,6 +46,13 @@ thumbnail: https://thmb.techidaily.com/63da92983e0245d8704dd6a3150bdcbfb7cabcd58
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-apply-ok.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902319/19272" target="_top" id="1902319">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902319" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902319/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Once done, relaunch Minecraft to see if the black screen issue still occurs.
 
 If the issue persists, read on and try the next fix.
@@ -57,13 +64,6 @@ If the issue persists, read on and try the next fix.
  See if the black screen issue appears again after adding Minecraft as an exception to your antivirus software.
 
 If the issue remains, move on to the next fix.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123726/7443" target="_top" id="2123726">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123726" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123726/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -77,15 +77,16 @@ If the issue remains, move on to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
- Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact**Driver Easy’s support team** at[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -106,24 +107,18 @@ If the issue remains, move on to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gfx_msaa-4.jpg)
 5. **Save** the options.txt file.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. Relaunch Minecraft to see if the problem is solved.
 
  Alternatively, you can delete the options.txt file, and then relaunch Minecraft, and a new one will be generated with default settings for all options.
 
 If this method doesn’t do the trick, continue to the next fix.
-
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 5: Close unnecessary programs
 
@@ -148,23 +143,31 @@ If not, try the next fix.
 2. Copy the**saves** folder and paste it to your desktop, as it contains your Minecraft world.  
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/saves.jpg)
 3. After saving your game data, delete everything inside the**.minecraft** folder.
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 5. In Programs and Features, select**Minecraft Launcher** and click**Uninstall** . Then follow the on-screen instruction to uninstall the game.  
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135358/19272" target="_top" id="2135358">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135358" border="0" alt="https://techidaily.com" width="336" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135358/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/uninstall-minecraft.jpg)
@@ -192,5 +195,26 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-2024-approved-the-premier-screenshot-applications-for-linux-users/"><u>[New] 2024 Approved The Premier Screenshot Applications for Linux Users</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-thumbnail-tutorial-for-youtube-using-mobile-devices/"><u>[New] 2024 Approved Thumbnail Tutorial for YouTube Using Mobile Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-ffmpeg-review-upholding-authentic-audio-formats/"><u>[New] FFmpeg Review Upholding Authentic Audio Formats</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitter-video-downloader-how-to-download-twitter-videos-to-iphone-for-2024/"><u>[New] Twitter Video Downloader How to Download Twitter Videos to iPhone for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-future-of-virtuality-best-metaverse-headsets-ranked/"><u>[Updated] 2024 Approved Future of Virtuality Best Metaverse Headsets Ranked</u></a></li>
+<li><a href="https://win-blog.techidaily.com/black-screen-no-more-effective-fixes-for-discords-screen-share-issue/"><u>Black Screen No More: Effective Fixes for Discord's Screen Share Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-the-infamous-error-aturate-in-apex-legends-expert-tips-and-tricks/"><u>Eliminating the Infamous 'Error Aturate' In Apex Legends: Expert Tips & Tricks</u></a></li>
+<li><a href="https://facebook.techidaily.com/english-footballers-withdraw-from-social-sites-in-response-to-insults/"><u>English Footballers Withdraw From Social Sites in Response to Insults</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-last-epoch-failure-to-start-on-pc-essential-guide-for-gaming-enthusiasts/"><u>How to Fix Last Epoch Failure to Start on PC - Essential Guide for Gaming Enthusiasts</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-oppo-a1x-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Oppo A1x 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-battle-against-bugs-resolving-stability-problems-with-outpost-infinity-siege-on-pc/"><u>Master the Battle Against Bugs: Resolving Stability Problems with Outpost: Infinity Siege on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-city-skylines-2-expert-solutions-to-avoid-pc-disruptions-and-crashes/"><u>Mastering City Skylines 2 - Expert Solutions to Avoid PC Disruptions and Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008478914-resolved-fix-your-microsoft-flight-simulator-2amstuckatupdatescreen-woes-today/"><u>Resolved: Fix Your Microsoft Flight Simulator 2amstuckatUpdateScreen Woes Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-of-witcher-3-wild-hunt-not-starting/"><u>Solving the Issue of 'Witcher 3: Wild Hunt' Not Starting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-alan-wake-2-from-crashing-top-techniques-to-enhance-your-gameplay/"><u>Stop Alan Wake 2 From Crashing: Top Techniques to Enhance Your Gameplay</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-insiders-guide-to-default-plugins-in-chatgpt-uses-and-benefits/"><u>The Insider's Guide to Default Plugins in ChatGPT: Uses & Benefits</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-ultimate-guide-to-googles-pixelbook-go-exceptional-execution-marred-by-a-hefty-price-point/"><u>The Ultimate Guide to Google's Pixelbook Go: Exceptional Execution Marred by a Hefty Price Point</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-your-fifa-22-game-crashes-on-windows-comprehensive-guide/"><u>Troubleshoot Your FIFA 22 Game Crashes on Windows - Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/1723808196684-update-usb-drivers-in-windows-10-7-8-and-81-easily/"><u>Update USB Drivers in Windows 10, 7, 8 & 8.1. Easily</u></a></li>
+</ul></div>
 

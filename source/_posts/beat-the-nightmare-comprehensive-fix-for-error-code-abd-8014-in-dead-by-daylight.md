@@ -1,7 +1,7 @@
 ---
 title: Beat the Nightmare - Comprehensive Fix for 'Error Code Abd 8014' In Dead by Daylight
-date: 2024-09-17T19:50:51.219Z
-updated: 2024-09-21T22:57:54.561Z
+date: 2024-10-13T16:37:25.087Z
+updated: 2024-10-20T19:23:16.793Z
 tags:
   - win11
   - win10
@@ -58,6 +58,13 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-13.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  The most straightforward way is to click**Close Firefox** , but sometimes it’ll give no response and Firefox just won’t shut down. In this case, you should:
 
 #### Fix 1: Close Firefox via Task Manager
@@ -65,6 +72,13 @@ thumbnail: https://thmb.techidaily.com/222a89a5c83410b00a22c43d882a6db1215cf7d87
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to fire up the Run dialog box. Type**taskmgr** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-14.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the**Processes** tab, scroll through the list until you’v found**Firefox** . Select to highlight it, then click**End task** .
 
@@ -151,6 +165,13 @@ If this fix didn’t help, please proceed to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-29.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) On the**General** tab, in the results pane, under**Performance** , untick the**Use recommended performance settings** check box. Then, uncheck**Use hardware acceleration when available** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-30.png)
@@ -170,6 +191,13 @@ If this fix didn’t help, please proceed to the next one.
  1) Launch Firefox and click**Open menu** at the upper right corner.
 
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082520/7443" target="_top" id="2082520">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082520" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082520/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Click**Options** .
 
@@ -201,6 +229,13 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484950/16446" target="_top" id="1484950">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484950" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484950/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Under**Try Safe Mode** , click**Restart with Add-ons Disabled…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-58.png)
@@ -223,6 +258,13 @@ If this fix didn’t help, please proceed to the next one.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-61-1024x401.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and wait to see if the problem disappears. If it does, then reverting your Firefox theme to the default should have well resolved the issue; if it doesn’t, keep trying the next step.
 
  7)**Check for problematic extensions** . To do this, click the**menu** button at the top right and then select**Add-ons** (as shown in Step 6).
@@ -230,6 +272,13 @@ If this fix didn’t help, please proceed to the next one.
  On the**Extensions** tab, click on the**three-dot** button of a certain extension and select**Enable** . Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and see if it works in a proper manner. If it doesn’t, then the extension you’ve enabled just now should be the culprit.
 
 ![This image has an empty alt attribute; its file name is image-60-1024x389.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-60-1024x389.png)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now, apply the above step to all your extensions one by one until you find out whether any of them was actually causing the problem.
 
@@ -283,6 +332,13 @@ Restart Firefox and see if the not-responding problem goes away.
 
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043856/7443" target="_top" id="2043856">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043856" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043856/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the upper right corner, under**Give Firefox a tune up** , click**Refresh Firefox…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-49-1024x247.png)
@@ -310,12 +366,21 @@ Restart Firefox and see if the not-responding problem goes away.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-instagram-reel-rhythms-choreographing-audio-with-visuals/"><u>[Updated] 2024 Approved Instagram Reel Rhythms Choreographing Audio with Visuals</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-expert-approach-to-master-multi-window-video-on-edge/"><u>[Updated] In 2024, Expert Approach to Master Multi-Window Video on Edge</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-and-solutions-how-to-stop-formula-1-2020-game-from-frequent-pc-crashes/"><u>Fix & Solutions: How to Stop Formula 1 2020 Game From Frequent PC Crashes</u></a></li>
+<li><a href="https://fox-search.techidaily.com/fixen-sie-das-problem-mit-der-unerwarteten-disappearance-von-festplatten-auf-dem-diagramm-effiziente-fehlerkorrektur/"><u>Fixen Sie Das Problem Mit Der Unerwarteten Disappearance Von Festplatten Auf Dem Diagramm - Effiziente Fehlerkorrektur</u></a></li>
+<li><a href="https://app-tips.techidaily.com/get-back-online-three-quick-fixes-for-an-unresponsive-ipad-in-itunes-mode/"><u>Get Back Online: Three Quick Fixes for an Unresponsive iPad in iTunes Mode</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-overcome-access-problems-for-oculus-runtime-services-on-your-vr-headset/"><u>How to Overcome Access Problems for Oculus Runtime Services on Your VR Headset</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-discovering-the-best-music-playback-on-youtube-2023/"><u>In 2024, Discovering the Best Music Playback on YouTube, 2023</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-change-motorola-moto-g13-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Motorola Moto G13 Lock Screen Password?</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-navigate-through-apples-best-in-class-virtual-reality-games/"><u>In 2024, Navigate Through Apple's Best-in-Class Virtual Reality Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-playtime-hiccups-in-call-of-duty-vanguard-a-guide-to-unfreeze-your-experience/"><u>Resolving Playtime Hiccups in Call of Duty: Vanguard – A Guide to Unfreeze Your Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-oxygen-not-included-problems-with-these-expert-tips-to-avoid-crashes/"><u>Solve Your Oxygen Not Included Problems with These Expert Tips to Avoid Crashes</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/strategies-for-soaring-on-facebooks-feeds-for-2024/"><u>Strategies for Soaring on Facebook's Feeds for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-why-cant-i-launch-call-of-duty-black-ops-4/"><u>Troubleshooting Guide: Why Can't I Launch Call of Duty Black Ops 4?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unstick-the-gears-advanced-tips-for-a-smooth-run-with-last-epoch-on-pc-insights-from-2024-experts/"><u>Unstick the Gears: Advanced Tips for a Smooth Run with Last Epoch on PC - Insights From 2024 Experts</u></a></li>
+</ul></div>
 
