@@ -1,7 +1,7 @@
 ---
 title: Does Your PC Comply with Vanguard's Essential CPU Requirements?
-date: 2024-09-06T01:19:39.618Z
-updated: 2024-09-07T01:19:39.618Z
+date: 2024-10-24T16:27:50.083Z
+updated: 2024-10-26T17:08:39.781Z
 tags:
   - win11
   - win10
@@ -32,24 +32,12 @@ Some gamers have met this Fatal Error message: **Your CPU does not meet the mini
 | Video memory  | 2GB                                           |
 | DirectX       | DirectX 12                                    |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115908/19272" target="_top" id="2115908">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115908" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115908/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check if your CPU supports AVX
 
  If your CPU meets the minimum specification table, you need to check whether it includes AVX instruction sets. It was written in the[Vanguard PC system requirements](https://www.callofduty.com/vanguard/pc) ‘ notes section, indicating only Intel/AMD processors**with AVX Instruction Set** are supported at this time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  AVX instructions set are built into the processor, it’s not something you can upgrade or add on. Many older i7 CPUs may outperform the i3-4340 and FX-6300 but don’t include AVX instructions sets, that’s probably why they can’t launch the game.
 
  Not all CPUs support AVX, if you meet the fatal message indicating your CPU doesn’t meet the minimum requirements of running Vanguard, you can search your processor to check if it supports AVX.
@@ -62,12 +50,6 @@ Some gamers have met this Fatal Error message: **Your CPU does not meet the mini
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the open window, press**Ctrl + F** and type**avx** . If you see AVX on the page, your CPU supports the AVX instruction set, otherwise, it’s not.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-4.png)
@@ -84,11 +66,18 @@ i7-970 doesn’t support AVX instruction sets.
  If your CPU supports AVX but still encounters this fatal error message, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Reboot your PC
 
  There are gamers who have played the game for over 10 hours suddenly receive this error, maybe not for CPU but for GPU. It can be fixed after a system restart.
@@ -120,27 +109,28 @@ There are mainly two ways you can update the graphics driver:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128844/7443" target="_top" id="2128844">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128844" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128844/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
   
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Repair corrupted system files
 
@@ -158,21 +148,24 @@ Here’s how:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130889/7443" target="_top" id="2130889">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130889" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151894/7443" target="_top" id="2151894">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151894" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130889/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151894/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134499/19576" target="_top" id="2134499">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134499" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134499/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -185,8 +178,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +185,22 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-top-5-hd-hunting-cameras-unveiled/"><u>[New] Top 5 HD Hunting Cameras Unveiled</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-unifying-online-collaboration-tools-skype-and-zoom-for-2024/"><u>[New] Unifying Online Collaboration Tools Skype & Zoom for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-techniques-for-superior-canva-visuals/"><u>[Updated] Innovative Techniques for Superior Canva Visuals</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-hd-cameras-for-wildlife-enthusiasts/"><u>[Updated] Top HD Cameras For Wildlife Enthusiasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-dragons-dogma-2-crash-on-pc-with-these-proven-fixes-a-step-by-step-walkthrough/"><u>Beat Dragon's Dogma 2 Crash on PC with These Proven Fixes: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/efficient-chromebook-screen-logger-for-2024/"><u>Efficient Chromebook Screen Logger for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevating-your-fps-on-valheim-comprehensive-202ammo-the-latest-techniques-to-enhance-your-gaming-smoothness/"><u>Elevating Your FPS on Valheim - Comprehensive 202Ammo, the Latest Techniques to Enhance Your Gaming Smoothness.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-successfully-launching-grand-theft-auto-5-when-it-refuses-to-open/"><u>Expert Tips for Successfully Launching Grand Theft Auto 5 When It Refuses to Open</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994747909-fix-your-civilization-6-startup-troubles-under-windows-10-with-these-simple-solutions/"><u>Fix Your Civilization 6 Startup Troubles Under Windows 10 With These Simple Solutions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-frequent-crashes-in-world-of-tanks-blitz/"><u>How to Stop Frequent Crashes in 'World of Tanks Blitz'</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-vivo-y27-5g-pin-codepattern-lockpassword-by-drfone-android/"><u>How to Unlock Vivo Y27 5G PIN Code/Pattern Lock/Password</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-realme-c55-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On Realme C55 | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-x100frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo X100FRP Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcoming-connection-issues-with-steams-online-services/"><u>Resolved: Overcoming Connection Issues with Steam's Online Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-granblue-fantasy-issues-troubleshooting-the-relink-feature/"><u>Resolving Granblue Fantasy Issues: Troubleshooting the 'Relink' Feature</u></a></li>
+</ul></div>
 
