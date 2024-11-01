@@ -1,7 +1,7 @@
 ---
 title: Why Does My Lunar Client Keep Freezing? Solutions to Restore Stability
-date: 2024-09-06T01:18:38.073Z
-updated: 2024-09-07T01:18:38.073Z
+date: 2024-10-24T22:48:22.741Z
+updated: 2024-11-01T04:52:34.714Z
 tags:
   - win11
   - win10
@@ -42,34 +42,30 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144277/7443" target="_top" id="2144277">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144277" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144277/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<span id="1993645">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993645.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993645">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993645.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993645%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993645/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer for the changes to take effect.
 
 5) Launch Madden 20 to see if the crashing problems have been resolved. If yes, then great! If the game still crashes, please move on to**Fix** 2, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
@@ -101,15 +97,16 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068417/7443" target="_top" id="2068417">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068417" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068417/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
@@ -141,18 +138,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Install the latest game patch
 
  The developers of Madden 20, EA Tiburon, keep releasing game patches to fix bugs. It’s possible that a recent bug has stopped your game from running smoothly, and that a new patch is required for the problem. So it’s recommended that you go to **EA official website**  , check for the latest patch, download and install it. Then check if it fixes the Madden 20 game crash problem.
@@ -161,12 +146,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -182,11 +161,12 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Locate **Madden 20** and uninstall it too.
 
  5) Restart your computer.
@@ -209,8 +189,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +196,24 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-jestful-journeys-an-in-depth-goofy-movie-review/"><u>[New] 2024 Approved 'Jestful Journeys' An In-Depth Goofy Movie Review</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-unleash-your-podcast-potential-the-ultimate-guide-to-seo-excellence/"><u>[New] In 2024, Unleash Your Podcast Potential The Ultimate Guide to SEO Excellence</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-dynamic-unpriced-visual-bonding-games/"><u>[Updated] Dynamic Unpriced Visual Bonding Games</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-space-free-20plus-storage-options-with-limits-up-to-1tb/"><u>2024 Approved Maximize Space Free 20+ Storage Options With Limits (Up To 1TB)</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-revolutionize-facebook-ads-creative-video-tactics-revealed/"><u>2024 Approved Revolutionize Facebook Ads Creative Video Tactics Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-blues-fixing-stability-issues-in-football-manager-2021-on-windowsmac/"><u>Beat the Blues: Fixing Stability Issues in Football Manager 2021 on Windows/Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-teardown-crashes-once-and-for-all-with-this-in-depth-guide/"><u>Defeat Teardown Crashes Once and For All with This In-Depth Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-troubleshooting-steps-when-back-4-blood-wont-start-on-pcs-with-windows-11-10-and-7/"><u>Fixing the Issue: Troubleshooting Steps When 'Back 4 Blood' Won't Start on PCs with Windows 11, 10 & 7</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/forgotten-the-voicemail-password-of-tecno-spark-10-pro-try-these-fixes-by-drfone-android/"><u>Forgotten The Voicemail Password Of Tecno Spark 10 Pro? Try These Fixes</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgotten-the-voicemail-password-of-honor-play-8t-try-these-fixes-by-drfone-android/"><u>In 2024, Forgotten The Voicemail Password Of Honor Play 8T? Try These Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-launch-failure-solutions-top-tips-for-gamers-in-202-instruction-1-same-difficultyformatlength/"><u>League of Legends Launch Failure Solutions - Top Tips for Gamers in 202# Instruction 1 (Same Difficulty/Format/Length)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maplestory-performance-boost-how-to-prevent-crashes-in-windows-11-new-guide/"><u>MapleStory Performance Boost: How to Prevent Crashes in Windows 11 [New Guide]</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723209290778-no-more-pdf-printing-woes-swift-solutions-that-work/"><u>No More PDF Printing Woes - Swift Solutions That Work</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/perfectly-timed-instagram-content-our-list-of-the-top-8-schedulers/"><u>Perfectly Timed Instagram Content - Our List of the Top 8 Schedulers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013766713-solomon-kr-et-al-2015-the-effects-of-glyphosate-on-amphibians-a-review-and-synthesis-environ-toxicol-pharmacol-403-899-906/"><u>Solomon KR., Et Al (2015). The Effects of Glyphosate on Amphibians: A Review and Synthesis. Environ Toxicol Pharmacol, 40(3), 899-906.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-getting-forza-horizon-4-running-top-strategies/"><u>Troubleshooting Guide: Getting Forza Horizon 4 Running - Top Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-the-rainbow-six-siege-pc-black-screen-issue/"><u>Ultimate Guide: Resolving the Rainbow Six Siege PC Black Screen Issue</u></a></li>
+</ul></div>
 

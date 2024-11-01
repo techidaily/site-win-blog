@@ -1,7 +1,7 @@
 ---
 title: "Enshrouded Game Fixed: Now Running Smoothly on Your Computer"
-date: 2024-09-06T01:18:39.110Z
-updated: 2024-09-07T01:18:39.110Z
+date: 2024-10-28T03:15:07.048Z
+updated: 2024-11-01T12:52:35.061Z
 tags:
   - win11
   - win10
@@ -17,12 +17,6 @@ thumbnail: https://thmb.techidaily.com/f74f161f0523579dd71e4de3d10404ac967ce66d0
 
 Star Wars Jedi: Fallen Order, an action-adventure game, was released on November 15, 2019\. I bet most players (not to mention the Star Wars fans) would enjoy the experience of waving a lightsaber and slaughtering enemies, despite a few game issues that might put a damper on it. One of the most commonly-seen problem is crashing – whether on startup or in the middle of the game – and it’s also the most annoying one. So what can you possibly do to fix this issue? Read on and find the answers.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137225/26400" target="_top" id="2137225">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137225" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137225/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## System Requirements for Star Wars Jedi: Fallen Order
 
  Before you get down to trying every resolution, you should first verify if your computer can handle this game. Now go on to check your PC specs and compare them with what’s required for Star Wars Jedi:
@@ -50,11 +44,12 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
  Once you confirm that your gear is up for running Star Wars Jedi, move down and try out the fixes below. However, if your computer doesn’t meet the requirements for this game, please upgrade some of your hardware components first.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to fix Star Wars Jedi: Fallen Order crash
 
  Here are 6 fixes that have proved useful to many players. You can try any of them selectively, or you can try them one by one; just work your way down the list until you find the one that works.
@@ -89,18 +84,6 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<span id="1492813">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -121,15 +104,16 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the **Properties** window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-26.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1006793/11832" target="_top" id="1006793">
+  <img src="//a.impactradius-go.com/display-ad/11832-1006793" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1006793/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Now you should be able to run the game under administrative privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
@@ -157,12 +141,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1025.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Wait for the process to complete. When finished, exit Steam and then reopen it. Run Star Wars Jedi and see if it keeps crashing.
 
 #### I’m playing Star Wars Jedi on Origin
@@ -182,11 +160,12 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-65.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) In the drop-down menu, click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
@@ -196,6 +175,13 @@ If you continue to have the crashing problem, please proceed to Fix 3.
  If verifying the integrity of game files didn’t resolve your issue, you should take a stab at Fix 4.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Close unnecessary programs
 
@@ -208,27 +194,16 @@ To completely shut down a program:
 ![This image has an empty alt attribute; its file name is img_5a0d6aed19abc.png](https://images.drivereasy.com/wp-content/uploads/2017/11/img_5a0d6aed19abc.png)
 
 <!-- affiliate ads begin -->
-<span id="1374820">
-					<video width="200" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1374820.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1374820">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374820.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374820%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374820/15852" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
-  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
 **Note** that your trouble is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if Star Wars Jedi can run normally. (Consult your antivirus documentation for instructions on disabling it.)
@@ -243,12 +218,6 @@ To completely shut down a program:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -258,17 +227,12 @@ To completely shut down a program:
 ---
 
 <!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Wait for more updates
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.
@@ -297,8 +261,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -306,4 +268,20 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/new-proven-methods-for-logging-digital-audio-data-for-2024/"><u>[New] Proven Methods for Logging Digital Audio Data for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-pro-audio-integration-essential-tips-for-podcasters/"><u>2024 Approved Pro Audio Integration Essential Tips for Podcasters</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-playbook-turning-your-phone-into-a-vr-setup/"><u>2024 Approved The Essential Playbook Turning Your Phone Into a VR Setup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-bugs-and-lag-improving-your-experience-with-deathloop-on-the-computer/"><u>Battling Bugs and Lag: Improving Your Experience with Deathloop on the Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-course-resolved-optimizing-the-performance-of-midgards-warrior-bands/"><u>Crash Course Resolved: Optimizing the Performance of Midgard's Warrior Bands</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/discover-a-sea-of-knowledge-navigating-googles-digital-book-archive/"><u>Discover a Sea of Knowledge: Navigating Google's Digital Book Archive</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-nubia-z50-ultra-to-pc-drfone-by-drfone-android/"><u>How to Screen Mirroring Nubia Z50 Ultra to PC? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-motorola-razr-40-ultra-to-other-android-devices-using-bluetooth-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Motorola Razr 40 Ultra to Other Android Devices Using Bluetooth? | Dr.fone</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-guide-to-lumafusion-on-mac-installation-features-and-alternatives/"><u>New In 2024, The Ultimate Guide to Lumafusion on Mac Installation, Features, and Alternatives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-and-stable-fps-fluctuations-tackled-in-latest-cyberpunk-2077-update/"><u>Smooth and Stable: FPS Fluctuations Tackled in Latest Cyberpunk 2077 Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-itunes-connection-errors-for-iphones-with-windows-11-a-step-by-step-guide/"><u>Solving iTunes Connection Errors for iPhones with Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/step-by-step-tutorial-on-pairing-your-laptop-with-wireless-speakers/"><u>Step-by-Step Tutorial on Pairing Your Laptop with Wireless Speakers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-reviews-comprehensive-computer-hardware-insights/"><u>Tom's Tech Reviews: Comprehensive Computer Hardware Insights</u></a></li>
+</ul></div>
 

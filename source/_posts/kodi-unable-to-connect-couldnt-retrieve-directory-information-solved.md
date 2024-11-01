@@ -1,7 +1,7 @@
 ---
 title: "Kodi Unable to Connect: Couldn't Retrieve Directory Information [Solved]"
-date: 2024-09-06T01:18:39.952Z
-updated: 2024-09-07T01:18:39.952Z
+date: 2024-10-28T09:05:33.636Z
+updated: 2024-11-01T09:52:24.227Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Kodi Unable to Connect: Couldn't Retrieve Direc
 thumbnail: https://thmb.techidaily.com/e7ff9df7bb6af3b5e4d65d67011a30e37297e02c3911882325d80adc38323e6c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014859/22899" target="_top" id="2014859">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014859" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014859/22899" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Reconnect to Fun in Terraria - Discover 6 Confirmed Fixes
 
 Terraria is a great game for you to explore randomly generated worlds. However, many gamers are reporting that they get a lot of**Terraria Lost Connection** issues. If you’re one of them, in this guide you will find all the possible ways to solve the connection issue easily.
@@ -46,35 +40,25 @@ This can be done by verifying the game files in Steam.
 2. Right-click**Terraria** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties.png)
 3. Go to the**Local Files** tab and click “**Verify integrity of game cache** “.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2129041/19576" target="_top" id="2129041">
-  <img src="//a.impactradius-go.com/display-ad/19576-2129041" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037355/7443" target="_top" id="2037355">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037355" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2129041/19576" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037355/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  That will scan your game directory and compare it to the most updated version to find file differences and download files it’s missing.
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105877/7443" target="_top" id="2105877">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105877" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105877/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2\. Check if you’re playing different styles
 
  This error**Terraria Lost Connection** will occur if you don’t have a character to coordinate with the type of map.
@@ -96,6 +80,13 @@ This can be done by verifying the game files in Steam.
 3. Select **Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network, and Public network. Then click **OK** .  
 ![turn off firewall for all](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-off.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135355/19272" target="_top" id="2135355">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135355" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135355/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After turning off your firewall, restart Terraria to check if the**Connection Lost in Terraria** has been solved.
 
 ### Fix 4\. Update your network adapter driver
@@ -111,27 +102,9 @@ This can be done by verifying the game files in Steam.
 
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/06/Driver-Easy-Scan-Now.jpg)
 3. Click the**Update** button next to your network adapter to download the latest and correct driver for it, and then you can install it manually.  
-<!-- affiliate ads begin -->
-<span id="1975648">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975648.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975648">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975648.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975648%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975648/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137206/26400" target="_top" id="2137206">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137206" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137206/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 4. Restart your PC and try to start your Terraria to see if this helps get rid of the ‘Lost Connection’ error.
 
@@ -152,21 +125,24 @@ This can be done by verifying the game files in Steam.
 1. Type**cmd** in the Windows search bar and select**Command Prompt** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/07/win-11-cmd-command-prompt.jpg)
 2. Type in**ipconfig /all** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take note of the following:**IPv4 Address, Subnet Mask, Default Gateway** and**DNS Servers** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118325/7443" target="_top" id="2118325">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118325" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2087239/19272" target="_top" id="2087239">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087239" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118325/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087239/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste it to your browser’s address bar.
 
@@ -176,36 +152,39 @@ This can be done by verifying the game files in Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977023">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977023.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977023">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977023.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977023%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977023/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click**Internet Protocol Version 4 (TCP/IPv4)** from the list.  
+
 <!-- affiliate ads begin -->
-<span id="1983588">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148642/16836" target="_top" id="2148642">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148642" border="0" alt="https://techidaily.com" width="300" height="50"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148642/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134249/18498" target="_top" id="2134249">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134249" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134249/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4\. Select **Use the following IP address** , and**Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
@@ -232,12 +211,6 @@ This can be done by verifying the game files in Steam.
 2. Type in**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 3. Right-click Terraria and select**Uninstall** .
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Download and install Terraria again, and restart your computer to check if the ‘Lost Connection’ issue is fixed by now.
 
 ---
@@ -255,8 +228,6 @@ This can be done by verifying the game files in Steam.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -264,4 +235,24 @@ This can be done by verifying the game files in Steam.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-shadowy-time-lapse-recording-methods/"><u>[New] Shadowy Time-Lapse Recording Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-signature-virtual-experiences-on-screen/"><u>[Updated] Signature Virtual Experiences on Screen</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-snapshot-experience-mastering-snapchat-filters/"><u>2024 Approved The Ultimate Snapshot Experience Mastering Snapchat Filters</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-the-unexpected-startup-error-in-baldurs-gate-3-now-resolved/"><u>Addressing the Unexpected Startup Error in Baldur's Gate 3 – Now Resolved!</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-multiversus-running-on-pc-expert-tips-and-solutions/"><u>Getting MultiVersus Running on PC – Expert Tips and Solutions</u></a></li>
+<li><a href="https://howto.techidaily.com/htc-u23-screen-unresponsive-heres-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>HTC U23 Screen Unresponsive? Heres How to Fix It | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/is-your-infinix-hot-40-pro-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Infinix Hot 40 Pro working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-mobile-use-a-guide-to-the-handheld-driver-easy-app/"><u>Mastering Mobile Use: A Guide to the Handheld Driver Easy App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rapid-remedy-fix-lag-issues-for-a-smoother-experience-in-assassins-creed-valhalla/"><u>Rapid Remedy: Fix Lag Issues for a Smoother Experience in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-battlefield-4-unable-to-start-on-windows-platforms/"><u>Resolved: Fixes for 'Battlefield 4' Unable To Start On Windows Platforms</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-oppo-reno-11f-5g-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Oppo Reno 11F 5G Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-strategies-for-troubleshooting-maplestory-freezes-and-crashes-on-windows-10-2023-update/"><u>Top Strategies for Troubleshooting MapleStory Freezes and Crashes on Windows 10 - 2023 Update</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-vpn-services-for-chrome-a-simple-guide-to-setting-up-seamlessly/"><u>Top-Rated VPN Services for Chrome: A Simple Guide to Setting Up Seamlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-complete-guide-to-tackle-black-screen-on-epic-games-launcher/"><u>Troubleshooting Complete Guide to Tackle Black Screen on Epic Games Launcher</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-endless-loading-errors-on-pc-for-watch-dogs-legion-players/"><u>Troubleshooting Endless Loading Errors on PC for Watch Dogs: Legion Players</u></a></li>
+</ul></div>
 

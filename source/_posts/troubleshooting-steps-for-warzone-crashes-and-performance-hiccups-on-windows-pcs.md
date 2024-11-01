@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Warzone Crashes and Performance Hiccups on Windows PCs
-date: 2024-09-06T01:18:40.207Z
-updated: 2024-09-07T01:18:40.207Z
+date: 2024-10-29T23:37:48.344Z
+updated: 2024-10-31T18:31:58.082Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Troubleshooting Steps for Warzone Crashes and Pe
 thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a9de22e1aa59a5e7f9127b24.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Troubleshooting Adobe Premiere Pro Crashes on Windows 11 and 10 - Solved
 
 **After Effects keeps crashing on your Windows computer?** Don’t worry… Although it’s frustrating, you’re definitely not the only one to run into this problem. Lots of Windows users have reported the very same issue recently. The good news is, you’ve landed in the right spot and you should be able to fix it pretty easily.
@@ -35,11 +29,12 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 6. [Reinstall / update After Effects](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134229/18498" target="_top" id="2134229">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134229" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134229/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 1: Temporarily disable hardware acceleration
 
  GPU acceleration is one of the common causes of After Effects crashing. If you’re running into After Effects crashing on your Windows computer, just temporarily disable GPU acceleration to see if you can fix this issue. Here is how to do it:
@@ -51,20 +46,8 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 1. Launch After Effects and go to**Edit** \>**Preferences** \>**Display…** .  
 ![How to disable GPU acceleration in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects.jpg)
 2. **Untick the box** next to**Hardware Accelerate Composition, Layer, and Footage Panels** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![How to disable GPU acceleration in After Effects 1](https://images.drivereasy.com/wp-content/uploads/2021/03/How-to-disable-GPU-acceleration-in-After-Effects-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134236/18498" target="_top" id="2134236">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134236" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134236/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have two graphics cards and After Effects crashed when you’re using your dedicated graphics card for fast previews, you can also try switching your dedicated graphics card (GPU) to integrated graphics card (CPU) for fast previews. Here is how to do it:
 
 1. Launch After Effects and go to**Edit** \>**Preferences** \>**Previews…** .  
@@ -73,12 +56,20 @@ thumbnail: https://thmb.techidaily.com/13632811731c559bc127701456401507af159186a
 ![Switch GPU to CPU for fast previews in After Effects](https://images.drivereasy.com/wp-content/uploads/2021/03/Switch-GPU-to-CPU-for-fast-previews-in-After-Effects.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137211/26400" target="_top" id="2137211">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137211" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137211/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After you switched to CPU for fast previews, After Effects may take more time for fast previews, but it would reduce the possibilities of random crashes. If this fix doesn’t work for you, don’t worry. Try the next fix below to update your graphics driver.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your graphics driver
 
@@ -113,11 +104,12 @@ There’re mainly two ways you can update your graphics drivers:
 **Or**
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123473/16836" target="_top" id="2123473">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123473" border="0" alt="https://techidaily.com" width="254" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123473/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -134,12 +126,6 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -151,12 +137,6 @@ There’re mainly two ways you can update your graphics drivers:
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114264/17093" target="_top" id="2114264">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114264" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114264/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Purge memory & disk cache
 
  After Effect is a demanding (resource intensive) application. It may crash if your computer is running out of memory, or if your hard disk drive is almost full. To get After Effects work again, you can try purging memory and cache. Here is how to do it:
@@ -166,6 +146,19 @@ There’re mainly two ways you can update your graphics drivers:
 2. Click**OK** to delete all files from your disk cache.  
 ![Purge all memory and disk cache 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Purge-all-memory-and-disk-cache-1.jpg)
 3. Launch After Effects again to see if it crashes or not. If it still crashes, try the next fix below.
+
+<!-- affiliate ads begin -->
+<span id="701707">
+					<video width="1536" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If After Effects works well after you purged memory and disk cache, it may suggests that currently your computer doesn’t has sufficient RAM or storage for After Effects to run properly and you may need to upgrade the memory or storage to prevent crashes due to insufficient resources in the future.
 
@@ -184,11 +177,12 @@ There’re mainly two ways you can update your graphics drivers:
 If After Effects still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115942/19272" target="_top" id="2115942">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115942" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115942/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Reinstall codecs and plugins
 
  Codecs are used to encode and decode your video files in After Effects. When codecs are corrupted or installed incorrectly, it may trigger the After Effects crashing issue. To fix crashing caused by codecs, you should try reinstall or update them.
@@ -199,12 +193,6 @@ If After Effects still crashes, try the next fix, below.
 
  If none of the fixes above helped you resolve the crashing issue, try updating / reinstalling After Effects. Normally, after updating After Effects to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
  Although the causes of After Effects crashing issue are vary from person to person, keeping After Effects, Windows OS and drivers up to date would eliminate most program crashing issues.
@@ -224,8 +212,6 @@ If After Effects still crashes, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +219,21 @@ If After Effects still crashes, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-easily-download-your-favorites-handpicked-tools-reviewed/"><u>[New] In 2024, Easily Download Your Favorites Handpicked Tools Reviewed</u></a></li>
+<li><a href="https://video-capture.techidaily.com/new-in-2024-windows-10-screen-recording-tools-the-ultimate-selection/"><u>[New] In 2024, Windows 10 Screen Recording Tools - The Ultimate Selection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anno-1800-troubleshooting-guide-overcoming-directx-issues/"><u>Anno 1800 Troubleshooting Guide - Overcoming DirectX Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-implemented-resolving-fps-dips-and-frame-rate-stutters-in-pc-version-of-battlefield-2042/"><u>Fixes Implemented: Resolving FPS Dips & Frame Rate Stutters in PC Version of Battlefield 2042</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-does-the-stardust-trade-cost-in-pokemon-go-on-oppo-a1-5g-drfone-by-drfone-virtual-android/"><u>How does the stardust trade cost In pokemon go On Oppo A1 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-cyberpunk-2077s-notorious-black-screen-problem/"><u>How to Overcome Cyberpunk 2077'S Notorious Black Screen Problem</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-boost-production-with-final-cut-pros-top-10-tools/"><u>In 2024, Boost Production with Final Cut Pro's Top 10 Tools</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-mastering-avi-to-gif-filmora-guide-for-pcmac/"><u>In 2024, Mastering AVI to GIF Filmora Guide for PC/Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-solution-to-unstuck-yourself-from-far-cry-ergy-screen-deadlock/"><u>Mastering the Solution to Unstuck Yourself From Far Cry Ergy Screen Deadlock</u></a></li>
+<li><a href="https://techtrends.techidaily.com/quick-fixes-to-improve-low-volume-on-your-iphone-phone-calls/"><u>Quick Fixes to Improve Low Volume on Your iPhone Phone Calls</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96028115-9781620557679-the-miracle-club/"><u>The Miracle Club | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-tips-for-a-smooth-halo-3-experience-without-any-more-pc-malfunctions/"><u>Top Tips for a Smooth Halo 3 Experience Without Any More PC Malfunctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002469327-troubleshooting-starfields-audio-glitches-no-more-skipping-sounds/"><u>Troubleshooting Starfield's Audio Glitches - No More Skipping Sounds!</u></a></li>
+<li><a href="https://win11.techidaily.com/unlocking-secrets-disable-windows-11-tpm-effortlessly/"><u>Unlocking Secrets: Disable Windows 11 TPM Effortlessly</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Essential Tips for Handling Fortnite Error Code #84 - Unable To Link Up With Fellow Gamers
-date: 2024-09-06T01:18:37.961Z
-updated: 2024-09-07T01:18:37.961Z
+date: 2024-10-28T18:25:03.431Z
+updated: 2024-10-31T18:50:33.975Z
 tags:
   - win11
   - win10
@@ -13,18 +13,6 @@ excerpt: This Article Describes Essential Tips for Handling Fortnite Error Code 
 thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e99cf7ed2375f403fbf9fc3e.jpg
 ---
 
-<!-- affiliate ads begin -->
-<span id="1155462">
-					<video width="1024" height="576" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1155462.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1155462">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1155462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1155462%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1155462/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Bring Rainbow Six Siege Back to Life - Overcome Launch Challenges with These Effective Fixes
 
 **Tom Clancy’s Rainbow Six Siege** is a popular game in the world. But many players even**can’t launch the game** . This can be very frustrating, some players have reported that they just bought the game yesterday but the game won’t launch when they want to play.
@@ -51,12 +39,6 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 | **Video Card**   | NVIDIA GeForce GTX 670 (or GTX 760 / GTX 960) or AMD Radeon HD 7970 (or R9 280x \[2GB VRAM\] / R9 380 / Fury X) |
 | **Hard Drive**   | 47 GB                                                                                                           |
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115930/19272" target="_top" id="2115930">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115930" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115930/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -69,11 +51,12 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 6. **[Reinstall Uplay](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135352/19272" target="_top" id="2135352">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135352" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135352/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Disable your Antivirus software
 
  It has been proved by many users that some antivirus software like Bitdefender is the reason for the Rainbow Six Siege won’t launch issue. Antivirus software forbidden the game and cause the problem.  
@@ -88,12 +71,6 @@ thumbnail: https://thmb.techidaily.com/b034e397cf58f21c63fc5dd80cb149d6528213f9e
 
 If the game is still crashing, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Rainbow Six Siege can make full use of its features, running its function properly. So run the game as an administrator to see if this fixes your issue.
@@ -103,20 +80,16 @@ If the game is still crashing, try the next fix.
 3. Click the**Compatibility** tab and check**Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-5. Run the game and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
-  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+5. Run the game and check the issue is solved or not.
+
 ### Fix 3: Update your graphics card driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter Rainbow Six Siege won’t launch issue. So it’s really important to keep your drivers updating to get a better gaming experience.
@@ -149,6 +122,13 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it launch properly.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027181/19272" target="_top" id="2027181">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027181" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027181/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -162,23 +142,19 @@ OR
 3. Choose Local files and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Start rainbow six and Uplay will open and ask to link your account
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006933/19272" target="_top" id="2006933">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006933" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006933/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Then your game will start automatically!
 
 **Note** : If it doesn’t work, you may restart Steam before doing step 4.  
  If it’s still not working, you can move to the next method.
 
-<!-- affiliate ads begin -->
-<span id="1328679">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Microsoft Visual C++ Redistributable Package
 
  If your Siege and Uplay (including the BattleEye) were successfully installed but Rainbow Six Siege won’t launch, you may need to check the supported software.
@@ -186,31 +162,28 @@ OR
 1. Type “control panel” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://unicoeye.pxf.io/c/5597632/2134234/18498" target="_top" id="2134234">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134234" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134234/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Find the newest Microsoft Visual C++ Redistributable. Right-click on it and click**Change** .  
-<!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/change.jpg)
 4. Click Repair. Then follow the on-screen instructions.  
 **Note** : You probably have several of them installed so try and do that Repair for all of them if needed and reboot your computer when asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/repair.jpg)
 5. Launch Rainbow Six Siege to check.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Note: If your computer don’t have Microsoft Visual C++ 201X Redistributable software, you can go to[Microsoft official website](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads) to download the latest version.
 
@@ -221,14 +194,16 @@ OR
 1. Type “control panel” in the search bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Right-click on**Uplay** and click**Uninstall/Change** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2135315/14409" target="_top" id="2135315">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135315" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135315/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay.jpg)
 4. After uninstalling uPlay. Go to the[Uplay official website](https://uplay.ubisoft.com/en-GB) to download the latest version.
 5. Install Uplay.
@@ -246,8 +221,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,4 +228,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-proficiency-through-practice-using-ez-grabber/"><u>[New] 2024 Approved Proficiency Through Practice Using EZ Grabber</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-logic-x-layers-building-audio-bridges-with-crossfades/"><u>[New] Logic X Layers Building Audio Bridges with Crossfades</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-3-wont-launch-here-are-the-solutions-you-need/"><u>Baldur's Gate 3 Won't Launch? Here Are the Solutions You Need!</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/dji-flight-setups-starter-package-advanced-configs-4k-professional-edition/"><u>DJI Flight Setups Starter Package, Advanced Configs, 4K Professional Edition</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/download-the-ultimate-winx-media-transcoder-convert-dvds-to-mp4-format-on-windows-10/"><u>Download the Ultimate WinX Media Transcoder: Convert DVDs to MP4 Format on Windows 10</u></a></li>
+<li><a href="https://driver-download.techidaily.com/easy-microsoft-drivers-installation-and-updates-for-windows-11-8-and-7/"><u>Easy Microsoft Drivers Installation and Updates for Windows 11, 8, and 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010293713-experiencing-a-slump-in-your-steam-gameplay-uncover-effective-solutions-now/"><u>Experiencing a Slump in Your Steam Gameplay? Uncover Effective Solutions Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fixes-for-pc-shutdown-errors-essential-advice-for-a-smooth-run/"><u>Expert Fixes for PC Shutdown Errors: Essential Advice for a Smooth Run</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-geforce-experience-encountered-an-error-issue-complete-guide/"><u>How to Fix the GeForce Experience 'Encountered an Error' Issue - Complete Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stabilize-your-obs-stream-fixing-crashes-on-windows-11-and-10/"><u>How to Stabilize Your OBS Stream: Fixing Crashes on Windows 11 and 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-unfreeze-ps4-detailed-steps-for-a-smooth-gaming-experience/"><u>How To Unfreeze PS4? Detailed Steps for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-fixes-eliminate-your-finals-tfla0error-code-with-these-steps/"><u>Mastering the Fixes: Eliminate Your Finals TFLA0eRror Code with These Steps!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010494330-optimizing-for-victory-overcoming-common-performance-drops-and-stuttering-in-gtfo-games/"><u>Optimizing for Victory: Overcoming Common Performance Drops and Stuttering in GTFO Games!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/setting-new-standards-in-smartphone-excellence-with-features-found-only-on-the-samsung-galaxy-s21-ultra/"><u>Setting New Standards in Smartphone Excellence with Features Found Only on the Samsung Galaxy S21 Ultra</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/sync-soundscapes-from-downloads-to-personalized-phone-alerts-for-2024/"><u>Sync Soundscapes From Downloads to Personalized Phone Alerts for 2024</u></a></li>
+<li><a href="https://win-answers.techidaily.com/the-complete-guide-to-overcome-civilization-vi-errors-in-the-latest-2024-game-patch/"><u>The Complete Guide to Overcome 'Civilization VI' Errors in the Latest 2024 Game Patch</u></a></li>
+<li><a href="https://driver-install.techidaily.com/upgrade-your-hp-graphics-via-win11-settings/"><u>Upgrade Your HP Graphics via Win11 Settings</u></a></li>
+</ul></div>
 

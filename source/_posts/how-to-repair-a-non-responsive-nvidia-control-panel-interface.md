@@ -1,7 +1,7 @@
 ---
 title: How to Repair a Non-Responsive NVIDIA Control Panel Interface
-date: 2024-09-01T08:51:14.324Z
-updated: 2024-09-02T08:51:14.324Z
+date: 2024-10-26T17:38:25.279Z
+updated: 2024-10-31T21:10:45.284Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 
  A successful overclock is expected to bring better gaming performance, but when it’s unstable, the programs on your computer may be freezing and crashing. So if you keep running into Everspace 2 crashing, you should just**turn off overclocking utilities like MSI Afterburner** and**set the clock speed back to the default** . If this trick doesn’t help, move on to more fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of game files
 
  Missing or damaged game files is also a common cause of Everspace 2 crashing, but fortunately you can let the game launchers validate the game files automatically. Here’s how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and[**GOG**](https://tools.techidaily.com/drivereasy/download/) .
@@ -39,17 +46,17 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 1. Launch your Steam client and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Everspace 2 from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://bluettide.pxf.io/c/5597632/2141684/17092" target="_top" id="2141684">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141684" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141684/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
 
 #### If you’re on GOG
@@ -58,7 +65,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click the**settings icon** next to the Play button. Then, click**Manage installation** \>**Verify / Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/3-2-2.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Wait until the process completes and launch the game to see if crashes are still there. If yes, keep reading the fixes below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -89,18 +110,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Or click**Update All** to automatically download and install the correct version of_all the drivers_ that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-xt-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  How does your game work now? If it crashes again, head to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4 – Set launch options
 
  According to some players, Everspace 2 just crashes in DirectX 12\. In this case, the workaround is to force the game to use DirectX 11 and then everything should be fine.
@@ -110,14 +137,8 @@ Here are the steps:
 1. Open Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
 3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
 
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
@@ -135,8 +156,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +163,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-samsung-vs-lg-battle-of-360-degree-cameras/"><u>[New] In 2024, Samsung Vs LG Battle of 360-Degree Cameras</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-a-powerful-tool-for-identifying-issues-in-damaged-computers/"><u>ChatGPT: A Powerful Tool for Identifying Issues in Damaged Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/correcting-errors-in-itunes-iphone-connection-for-users-of-windows-10-systems/"><u>Correcting Errors in iTunes-iPhone Connection for Users of Windows 10 Systems</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723206889978-get-rid-of-your-keyboards-unresponsive-keys-on-a-windows-pc-easily/"><u>Get Rid of Your Keyboard's Unresponsive Keys on a Windows PC Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-bug-error-6164-in-call-of-duty-mobile-for-both-modern-warfare-and-warzone-players/"><u>How to Fix the Bug 'Error 6164' In Call of Duty Mobile for Both Modern Warfare and Warzone Players</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-honor-magic-5-lite-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Honor Magic 5 Lite Phone? | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-easy-guide-how-to-bypass-xiaomi-civi-3-frp-android-10111213-by-drfone-android/"><u>In 2024, Easy Guide How To Bypass Xiaomi Civi 3 FRP Android 10/11/12/13</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-efficient-file-transformation-in-vlc-from-mp4-to-various-formats/"><u>In 2024, Efficient File Transformation in VLC From MP4 to Various Formats</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/in-2024-how-to-transfer-from-apple-iphone-15-to-iphone-81111-pro-drfone-by-drfone-transfer-from-ios/"><u>In 2024, How to Transfer from Apple iPhone 15 to iPhone 8/11/11 Pro | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-unleashing-the-magic-searching-for-photos-on-pexels/"><u>In 2024, Unleashing the Magic Searching for Photos on Pexels</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-black-screen-malfunction-effective-solutions-and-insights-by-solved/"><u>Minecraft Black Screen Malfunction: Effective Solutions and Insights by [SOLVED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-undetected-steam-vr-dilemma-6-essential-fixes-you-need-to-know/"><u>Resolve Your Undetected Steam VR Dilemma: 6 Essential Fixes You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/struggling-with-doom-eternals-launch-problem-heres-your-comprehensive-solution-checklist/"><u>Struggling with DOOM Eternal's Launch Problem? Here’s Your Comprehensive Solution Checklist</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/top-10-methods-for-transforming-dvd-files-into-mp4-format-on-pc-windows-10-11-and-macos/"><u>Top 10 Methods for Transforming DVD Files Into MP4 Format on PC (Windows 10, 11 & MacOS)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004183548-troubleshoot-slow-chrome-performance-with-these-effective-fixes/"><u>Troubleshoot Slow Chrome Performance with These Effective Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-dragons-dogma-2-performance-issues-solutions-for-frame-rate-drops-and-hitches/"><u>Troubleshooting Dragon's Dogma 2 Performance Issues: Solutions for Frame Rate Drops & Hitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-witchers-memory-issue-in-fortnite-pc-and-xbox-guide/"><u>Troubleshooting Witcher's Memory Issue in Fortnite [PC and Xbox Guide]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-overcoming-riot-games-black-screen-glitch-lol-latest-solutions/"><u>Ultimate Guide to Overcoming Riot Games' Black Screen Glitch (LoL) - Latest Solutions</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/viewers-verdict-on-scopes/"><u>Viewer's Verdict on Scopes</u></a></li>
+</ul></div>
 

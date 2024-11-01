@@ -1,7 +1,7 @@
 ---
 title: O Que É Um Código De Transformação Digital - Abreviaturas E Explicações Do Termo Codec
-date: 2024-09-25T06:48:17.926Z
-updated: 2024-09-27T17:35:32.190Z
+date: 2024-10-26T04:24:22.616Z
+updated: 2024-10-31T19:59:58.869Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc28694609982153cd6de4dd43a450d.jpg
@@ -182,13 +182,6 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/999558/11832" target="_top" id="999558">
-  <img src="//a.impactradius-go.com/display-ad/11832-999558" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://imp.i357552.net/i/5597632/999558/11832" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 ### Régler les paramètres graphiques d'un jeu
@@ -216,13 +209,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134243/18498" target="_top" id="2134243">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134243" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134243/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -292,6 +278,13 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -311,6 +304,13 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -338,13 +338,20 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optez pour un SSD
@@ -364,13 +371,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -435,6 +435,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
@@ -451,13 +458,6 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 
 
@@ -513,13 +513,6 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
 Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, voici quelques conseils rapides :
@@ -530,15 +523,22 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
@@ -560,10 +560,10 @@ Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est �
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
@@ -601,20 +601,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-art-of-instagram-cultivating-a-robust-following/"><u>[New] In 2024, The Art of Instagram Cultivating a Robust Following</u></a></li>
-<li><a href="https://youtube-tips.techidaily.com/ed-escaping-a-stroke-on-your-youtube-channel/"><u>[Updated] Escaping a Stroke on Your YouTube Channel</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-a-comprehensive-walkthrough-for-imovie-and-youtube-collaboration/"><u>[Updated] In 2024, A Comprehensive Walkthrough for iMovie and YouTube Collaboration</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-the-glitches-essential-tips-to-stop-diablo-immortal-from-crashing-on-pc-updated-for-2n4/"><u>Beat the Glitches: Essential Tips to Stop Diablo Immortal From Crashing on PC (Updated for 2N4)</u></a></li>
-<li><a href="https://win-blog.techidaily.com/compatibility-guide-avoiding-hardware-issues-with-rainbow-six-extraction/"><u>Compatibility Guide: Avoiding Hardware Issues with Rainbow Six Extraction</u></a></li>
-<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-fixing-steams-stuttering-and-frozen-sessions/"><u>Comprehensive Guide to Fixing Steam's Stuttering & Frozen Sessions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1722986721009-how-to-fix-the-non-startup-problem-for-far-cry-6-on-pcs-solution-found/"><u>How to Fix the Non-Startup Problem for Far Cry 6 on PCs - Solution Found</u></a></li>
-<li><a href="https://howto.techidaily.com/how-to-resolve-oneplus-ace-3-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve OnePlus Ace 3 Screen Not Working | Dr.fone</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/in-2024-chill-vibes-top-idle-pc-experiences/"><u>In 2024, Chill Vibes Top Idle PC Experiences</u></a></li>
-<li><a href="https://ios-unlock.techidaily.com/in-2024-disabling-iphone-14-plus-parental-restrictions-withwithout-password-by-drfone-ios/"><u>In 2024, Disabling iPhone 14 Plus Parental Restrictions With/Without Password</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-for-armored-core-vi-fires-of-rubicon/"><u>Overcoming Launch Problems for Armored Core VI: Fires of Rubicon</u></a></li>
-<li><a href="https://win-blog.techidaily.com/problem-solved-restoring-communication-with-diablo-iii-game-host/"><u>Problem Solved! Restoring Communication with Diablo III Game Host</u></a></li>
-<li><a href="https://discover-great.techidaily.com/step-by-step-tutorial-on-image-blending-using-midjourney-for-newbies/"><u>Step-by-Step Tutorial on Image Blending Using Midjourney for Newbies</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshoot-hogwarts-legacy-top-8-fixes-for-pre-startup-issues/"><u>Troubleshoot 'Hogwarts Legacy': Top 8 Fixes for Pre-Startup Issues</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/what-legendaries-are-in-pokemon-platinum-on-oppo-reno-10-pro-5g-drfone-by-drfone-virtual-android/"><u>What Legendaries Are In Pokemon Platinum On Oppo Reno 10 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ominate-search-results-powerful-youtube-seo-techniques-exposed/"><u>[New] Dominate Search Results Powerful YouTube SEO Techniques Exposed</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-10-best-youtube-music-rippers-for-android-and-ios/"><u>[New] The 10 Best YouTube Music Rippers for Android and iOS</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-initiate-google-meet-using-your-gadget/"><u>[Updated] 2024 Approved Initiate Google Meet Using Your Gadget</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlining-mov-files-on-windows-11-os/"><u>[Updated] 2024 Approved Streamlining MOV Files on Windows 11 OS</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-convenient-ways-to-merge-igtv-and-insta-stories-for-2024/"><u>[Updated] Convenient Ways to Merge IGTV & Insta Stories for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/5-key-features-we-hope-apple-unveils-for-visionos-in-their-upcoming-wwdc-keynote-macrumors/"><u>5 Key Features We Hope Apple Unveils for VisionOS in Their Upcoming WWDC Keynote | MacRumors</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mp3-wma-movavi/"><u>免費網路 MP3 至 WMA 格式转换 - 使用 Movavi 工具</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-wma-a-formato-mp3-facilmente-con-el-mejor-convertidor-de-movavi/"><u>Como Convertir Archivos WMA a Formato MP3 Fácilmente Con El Mejor Convertidor De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracked-codes-in-modern-combat-a-deep-dive-into-call-of-dutys-fps-tactics/"><u>Cracked Codes in Modern Combat: A Deep Dive Into Call of Duty's FPS Tactics</u></a></li>
+<li><a href="https://win-advanced.techidaily.com/download-deezer-tracks-in-lossless-flac-format-and-preserve-album-covers-for-an-enhanced-listening-experience/"><u>Download Deezer Tracks in Lossless FLAC Format and Preserve Album Covers for an Enhanced Listening Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-gameplay-experience-optimizing-frame-rates-and-eliminating-hiccups-for-a-seamless-warzone-session/"><u>Elevate Your Gameplay Experience: Optimizing Frame Rates & Eliminating Hiccups for a Seamless Warzone Session</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-quick-fixes-expert-advice-to-get-warzone-20-running-smoothly-on-your-pc/"><u>Master the Quick Fixes: Expert Advice to Get Warzone 2.0 Running Smoothly on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-experience-with-fixes-for-mass-effect-series-audio-interruptions/"><u>Optimizing Your Experience with Fixes for Mass Effect Series Audio Interruptions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-failures-in-counter-strike-2-a-comprehensive-guide/"><u>Overcoming Launch Failures in Counter-Strike 2 - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-overcoming-issues-with-minecrafts-startup-process/"><u>Troubleshooting Tips - Overcoming Issues with Minecraft's Startup Process</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-no-more-warzone-pc-crashes-as-of-2024/"><u>Troubleshooting Tips: No More Warzone PC Crashes as of 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-launch-problems-in-mass-effect-legendary-edition-and-how-to-overcome-them/"><u>Understanding Launch Problems in Mass Effect Legendary Edition and How to Overcome Them</u></a></li>
 </ul></div>
 

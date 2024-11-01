@@ -1,7 +1,7 @@
 ---
 title: Origin Won't Go Online [FIXED]
-date: 2024-09-06T01:18:38.830Z
-updated: 2024-09-07T01:18:38.830Z
+date: 2024-10-30T08:57:58.133Z
+updated: 2024-11-01T01:24:08.703Z
 tags:
   - win11
   - win10
@@ -29,17 +29,18 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 4. [**Reset your hosts file**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Reset your Internet connection settings**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Check your computer for viruses or malware
 
  Perhaps you’re having a connection issue with Origin because there is a virus or malware on your computer. They may change your Internet settings or corrupt your computer file so Origin can’t go online. You should run your antivirus software to scan your computer for viruses and malware.
 
  If this resolves your problem, great! But if not, there are still other fixes you can try…
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Temporarily disable your antivirus
 
@@ -61,18 +62,6 @@ thumbnail: https://thmb.techidaily.com/d470a8543a2f89f5d2f298ef8b2cf16fd1cc9e453
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to_each device_ to download the latest and correct driver for it, then you can manually install the driver. Or click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
-<!-- affiliate ads begin -->
-<span id="1982596">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982596.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982596">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982596.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982596%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982596/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbc8d302569.jpg)
 
@@ -96,40 +85,18 @@ To do so:
 %windir%\system32\drivers\etc  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd1c77cbb2.png)
 4. Double click**hosts** .  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbd2e1b6cf2.jpg)
 5. Select**Notepad** , then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://smilemakers.pxf.io/c/5597632/2123901/26106" target="_top" id="2123901">
-  <img src="//a.impactradius-go.com/display-ad/26106-2123901" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://smilemakers.pxf.io/i/5597632/2123901/26106" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbec88bf79c.jpg)
 6. **Delete** **all the content** of the file, then copy and paste the**following text** into the file.  
-<!-- affiliate ads begin -->
-<span id="1975555">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1975555.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1975555">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975555.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975555%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975555/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 # Copyright (c) 1993-2006 Microsoft Corp  
 
@@ -173,14 +140,23 @@ To do so:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbeef28c918.jpg)
 7. Click**File** , then click**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2128842/7443" target="_top" id="2128842">
-  <img src="//a.impactradius-go.com/display-ad/7443-2128842" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2128842/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bdbf0306507c.jpg)
 8. Check to see if this works for you.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868590/19272" target="_top" id="1868590">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868590" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868590/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If not, then you may need to…
 
@@ -191,20 +167,16 @@ If not, then you may need to…
 1. On your computer, click the**Start** button and type “_cmd_ “.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd68d188b6f7.png)
 2. Right click**Command Prompt** in the list of results, then select**Run as administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137228/26400" target="_top" id="2137228">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137228" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137228/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6a6691c908.jpg)
 3. Type the following lines of command at Command Prompt, and after typing each line, press**Enter** on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ipconfig /release  
 
 ipconfig /renew  
@@ -230,8 +202,6 @@ netsh winhttp reset proxy
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +209,16 @@ netsh winhttp reset proxy
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://hardware-tips.techidaily.com/thrifty-beginner-4k-resin-3d-printer-black-friday-blowout-save-up-to-44-on-the-ultimate-entry-level-tech-marvel/"><u>'Thrifty Beginner 4K Resin' 3D Printer - Black Friday Blowout: Save Up to 44% on the Ultimate Entry-Level Tech Marvel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-razer-synapse-not-opening/"><u>[Solved] Razer Synapse Not Opening</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-horizon-hopping-reviewing-the-gopro-karma-drone/"><u>2024 Approved Horizon Hopping Reviewing the GoPro Karma Drone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-gaming-experience-increase-horizon-zero-dawn-fps-for-smoother-gameplay/"><u>Enhancing Gaming Experience: Increase Horizon Zero Dawn FPS for Smoother Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723000680886-expert-tips-on-overcoming-black-screen-problems-now-solved/"><u>Expert Tips on Overcoming Black Screen Problems, Now Solved</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-hide-location-on-apple-iphone-6s-plus-and-android-without-others-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Hide location on Apple iPhone 6s Plus and Android without others knowing | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-the-updated-method-to-bypass-realme-narzo-n53-frp-by-drfone-android/"><u>In 2024, The Updated Method to Bypass Realme Narzo N53 FRP</u></a></li>
+<li><a href="https://win11.techidaily.com/methods-to-clear-obstacles-no-access-allowed-windows-errors/"><u>Methods to Clear Obstacles: No Access Allowed Windows Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-strategies-addressing-forza-horizon-n-game-crashes-on-windows-platforms/"><u>Solution Strategies: Addressing Forza Horizon N Game Crashes on Windows Platforms</u></a></li>
+</ul></div>
 

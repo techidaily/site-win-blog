@@ -1,7 +1,7 @@
 ---
 title: "Solution Guide: Preventing Fortnite Video Memory Overflow Issues"
-date: 2024-09-06T01:18:37.233Z
-updated: 2024-09-07T01:18:37.233Z
+date: 2024-10-26T12:37:12.224Z
+updated: 2024-11-01T12:56:03.576Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: "This Article Describes Solution Guide: Preventing Fortnite Video Memor
 thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff32ad0111bfbaa0c8293dac8c.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118306/7443" target="_top" id="2118306">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118306" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118306/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Quick Solutions: Overcome Issues Preventing Your Game From Starting
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/genshin-impact-featured-image-1.jpg)
@@ -44,21 +38,23 @@ thumbnail: https://thmb.techidaily.com/154ba651f58f7b61c6d13ed51a3e08aab825faff3
 1. Go to the game’s installation folder. Right-click the**GenshinImpact.exe file** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Choose the**Compatibility** tab. Then tick**Disable fullscreen optimizations** and**Run the program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<span id="1424531">
-					<video width="864" height="NaN" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-genshin-as-administrator-1.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  After you apply the settings, launch the Genshin Impact file directly from the folder and see if it opens correctly. If not, check out the second fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2145009/26400" target="_top" id="2145009">
+  <img src="//a.impactradius-go.com/display-ad/26400-2145009" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2145009/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -91,12 +87,6 @@ There are mainly two ways you can update the graphics driver:
 
  Once the driver update completes, restart the computer and test the issue again. The game is still not working? Then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Install the latest DirectX and Visual C++ redistributable files
 
  If Genshin Impact doesn’t launch and you’re receiving specific errors like 0xc000007b or MSVCP140.dll cannot be found, installing the latest DirectX files and Visual C++ files might resolve your issue.
@@ -104,24 +94,19 @@ There are mainly two ways you can update the graphics driver:
 1. Go to the[DirectX End-User Runtime Web Installer page](https://www.microsoft.com/en-us/download/details.aspx?id=35) and click**Download** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/directx.jpg)
 2. Open the downloaded file and follow the wizard to install DirectX runtime components.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118315/7443" target="_top" id="2118315">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118315" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118315/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Go to the[Visual C++ download page](https://support.microsoft.com/en-us/topic/the-latest-supported-visual-c-downloads-2647da03-1eea-4433-9aff-95f26a218cc0) and download the latest Visual C++ redistributable package for your Windows.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-page.jpg)
 4. Once downloaded, run the exe.file and click**Repair** (or**Install** ) to initiate the setup.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/visual-c-file.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2120865/26400?prodsku=mercury" target="_top" id="2120865">
-  <img src="//a.impactradius-go.com/display-ad/26400-2120865" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120865/26400?prodsku=mercury" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now that you’ve installed the latest DirectX and Visual redistributable files, see if Genshin Impact works. If not, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4 – Perform a clean boot
 
@@ -130,40 +115,40 @@ There are mainly two ways you can update the graphics driver:
 1. In the Windows search box, type**system configuration** and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1-4.jpg)
 2. Select the**Services** tab. Then tick**Hide all Microsoft services** and click**Disable all** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2137378/7443" target="_top" id="2137378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2137378" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137378/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
 3. Choose the**Startup tab** and click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
+  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-2-1.jpg)
 4. Navigate to the**Startup** tab. Right-click each enabled item and click**Disable** . Then close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 5. Go back to the System Configuration window and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
 6. Click**Restart** when prompted.  
-![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1531882">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1531882.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1531882">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531882.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531882%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531882/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
+
  After the computer starts up, launch Genshin Impact to check if the issue persists. If it works without trouble,**enable the services one or a few like four or five at a time** . If the game works fine, there is no problem with these services. Then repeat the steps until you’ve checked all the services.
 
  If the services are not the culprits, **open Task Manager to enable the startup items (4 or 5 in a group)** to rule out the problematic applications. Some players reported that the Faceit app might interfere with Genshin Impact.
@@ -175,28 +160,23 @@ There are mainly two ways you can update the graphics driver:
 1. Type**system configuration** in the Windows search box and click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 2. Under the General tab, tick**Normal startup** and click**OK** .  
-<!-- affiliate ads begin -->
-<span id="1630055">
-					<video width="192" height="320" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1630055.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18460-1630055">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1630055.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:120px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fcaperobbin.sjv.io%2Fc%2F5597632%2F1630055%2F18460'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1630055/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/normal-startup.jpg)
 3. Click**Restart** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115946/19272" target="_top" id="2115946">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115946" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983584">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983584.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983584">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983584.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983584%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983584/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Repair the game files
 
  If you’ve attempted all the fixes above but to avail, the problem might be related to corrupted or missing game files. It’s simple to have a thorough check of the game files if you’re able to get into the launcher, and this trick has worked for a few players stuck in the same situation.
@@ -205,26 +185,16 @@ There are mainly two ways you can update the graphics driver:
 2. Click the**gear icon** at the top right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-1.jpg)
 3. Select**Repair Game Files** from the left and click**Repair Now** .  
-<!-- affiliate ads begin -->
-<span id="1977006">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134497/18498" target="_top" id="2134497">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134497" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134497/18498" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/09/repair-game-file-genshin-2.jpg)
+
  Wait for the process to finish and restart the game, which should be working as expected.
 
 ---
@@ -239,8 +209,6 @@ There are mainly two ways you can update the graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +216,24 @@ There are mainly two ways you can update the graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/solved-starcraft-2-crashing-on-pc/"><u>[SOLVED] Starcraft 2 Crashing on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-valheim-keeps-crashing-on-pc/"><u>[SOLVED] Valheim Keeps Crashing on PC</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/15plus-4k1080p/"><u>15+無料高清影片转换工具 - 从4K到1080p，或者反过来</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoiding-disruptions-in-your-quest-fixes-for-stability-issues-with-a-total-war-saga-troy-on-personal-computers/"><u>Avoiding Disruptions in Your Quest: Fixes for Stability Issues with A Total War Saga: Troy on Personal Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-tecno-spark-go-2023-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Tecno Spark Go (2023) | Dr.fone</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/die-top-9-schnellen-fixlosungen-fur-ihr-gerat-jetzt-verwenden-sie-sie/"><u>Die Top 9 Schnellen Fixlösungen Für Ihr Gerät - Jetzt Verwenden Sie Sie!</u></a></li>
+<li><a href="https://windows11.techidaily.com/fixing-silent-xbox-console-windows-techniques/"><u>Fixing Silent Xbox Console: Windows Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722986950307-guilty-gear-strive-lag-problems-resolved/"><u>Guilty Gear Strive Lag Problems: Resolved</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/high-definition-magic-cutting-edge-camcorders-reviewed-for-2024/"><u>High-Definition Magic Cutting-Edge Camcorders Reviewed for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-and-eliminate-black-screen-error-on-your-epic-games-setup/"><u>How to Troubleshoot and Eliminate Black Screen Error on Your Epic Games Setup</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-a-working-guide-for-pachirisu-pokemon-go-map-on-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>In 2024, A Working Guide For Pachirisu Pokemon Go Map On Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-fallout-3-performance-overcoming-freeze-frames-and-glitches-on-your-windows-10-rig/"><u>Mastering Fallout 3 Performance: Overcoming Freeze Frames and Glitches on Your Windows 10 Rig</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-mw2-on-your-desktop-strategies-to-avoid-and-fix-game-crashes/"><u>Mastering MW2 on Your Desktop: Strategies to Avoid and Fix Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-overcoming-the-unreachable-steam-friend-network/"><u>Solution Guide: Overcoming the 'Unreachable Steam Friend Network'</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-ps4-screenshot-sharing-made-easy-a-step-by-step-guide/"><u>Updated 2024 Approved PS4 Screenshot Sharing Made Easy A Step-by-Step Guide</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-unlock-fcps-full-potential-5-expert-editing-tips-you-need-to-know-for-2024/"><u>Updated Unlock FCPs Full Potential 5 Expert Editing Tips You Need to Know for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/why-isnt-the-video-display-on-sony-a6400/"><u>Why Isn't the Video Display on Sony A6400?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: I Migliori 15 Strumenti Digitali per Registrare in Modo Ottimale Suoni Vocali E Musicali
-date: 2024-10-22T16:42:53.540Z
-updated: 2024-10-26T17:31:08.413Z
+date: 2024-10-27T10:19:10.897Z
+updated: 2024-10-31T23:43:54.006Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e086106512b2e9d753e081998408f58f33739fa1f0e7070951ebc50a7e45bfdb.jpg
@@ -156,22 +156,29 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657395/16446" target="_top" id="1657395">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657395" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657395/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -190,10 +197,10 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139117/17108" target="_top" id="2139117">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139117" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2012429/19272" target="_top" id="2012429">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012429" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139117/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012429/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
@@ -223,6 +230,13 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -254,6 +268,13 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052060/7443" target="_top" id="2052060">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052060" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052060/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
 Mais même en l'absence de tels redémarrages "en pleine face", qui sont en fait assez rares, le téléchargement des mises à jour en arrière-plan limite vos vitesses de connexion et occupe la mémoire vive de votre PC.
@@ -281,16 +302,10 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Lisser les bords des polices d'écran.
 
 <!-- affiliate ads begin -->
-<span id="1982499">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982499.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982499">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982499.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982499%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982499/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
@@ -304,13 +319,6 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -386,13 +394,6 @@ De nombreux jeux requièrent une mémoire vive de 8 Go, mais ce chiffre augmente
 
 Si vous voulez rester en tête de la courbe, 16 Go suffiront pour l'instant. Mais si vous voulez utiliser des services de streaming en arrière-plan comme Twitch, Discord et YouTube, vous devrez passer à 32 Go pour pouvoir tout faire fonctionner sans problème.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123750/7443" target="_top" id="2123750">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123750" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123750/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Désactiver l'algorithme de Nagle
 
 En gros, l'algorithme de Nagle améliore l'efficacité des réseaux TCP/IP en créant des paquets de données, ce qui réduit le nombre de paquets à envoyer sur le réseau. Ce processus affecte votre connexion Internet, la rendant moins stable. La désactivation de cet algorithme sur votre PC peut contribuer à des problèmes de latence lorsque vous jouez à des jeux en ligne.
@@ -413,13 +414,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -442,13 +436,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Double-cliquez sur la valeur **REG\_DWORD EnablePrefetcher**.
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
-
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
-  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
-</a>
-<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -474,6 +461,13 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 2. Pour la ventilation, essayez de surélever votre ordinateur portable ou utilisez un bureau conçu pour les ordinateurs portables.
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU et votre RAM
 
@@ -509,6 +503,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 
 
@@ -557,13 +558,6 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997722/19272" target="_top" id="1997722">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997722" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997722/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
 La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoire ou la puissance nécessaire pour faire tourner le jeu à pleine vitesse. Parmi les problèmes les plus courants à l'origine d'une baisse du nombre d'images par seconde, citons les pilotes de cartes graphiques obsolètes, les cartes graphiques de qualité inférieure, les vieux processeurs et le manque de mémoire vive. 
@@ -607,22 +601,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-seamless-fb-video-to-mp3-audio-conversion-techniques/"><u>[New] In 2024, Seamless FB Video to MP3 Audio Conversion Techniques</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-from-mpeg-4-to-multifarious-formats-a-guide-using-vlc-for-2024/"><u>[Updated] From MPEG-4 to Multifarious Formats A Guide Using VLC for 2024</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/2024-approved-fbs-viral-hits-decoded-crafting-your-number-one-song-video/"><u>2024 Approved FB's Viral Hits Decoded Crafting Your Number One Song Video</u></a></li>
-<li><a href="https://blog-min.techidaily.com/5-ways-to-teach-you-to-transfer-files-from-realme-gt-5-pro-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>5 Ways To Teach You To Transfer Files from Realme GT 5 Pro to Other Android Devices Easily | Dr.fone</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/chatgpt-and-career-growth-exploring-6-approaches/"><u>ChatGPT and Career Growth: Exploring 6 Approaches</u></a></li>
-<li><a href="https://win-blog.techidaily.com/effective-solutions-for-addressing-far-cry-6-pc-crashes-and-lag-issues/"><u>Effective Solutions for Addressing Far Cry 6 PC Crashes and Lag Issues</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-fix-v-rising-stuttering-on-pc/"><u>How to Fix V Rising Stuttering on PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-restore-voice-chatting-functionality-for-among-us-enthusiasts-on-pc/"><u>How to Restore Voice Chatting Functionality for Among Us Enthusiasts on PC</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-sign-word-2000-document-electronically-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to sign Word 2000 document electronically</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/in-2024-ipogo-will-be-the-new-ispoofer-on-htc-u23-drfone-by-drfone-virtual-android/"><u>In 2024, iPogo will be the new iSpoofer On HTC U23? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-fixing-frame-rate-hiccups-and-smooth-play-in-red-dead-redemption-2/"><u>Resolved: Fixing Frame Rate Hiccups & Smooth Play in Red Dead Redemption 2</u></a></li>
-<li><a href="https://solve-howtos.techidaily.com/resolved-itunes-failure-to-back-up-iphone-due-to-unexpected-disconnection/"><u>Resolved: ITunes Failure to Back Up iPhone Due to Unexpected Disconnection</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-discord-latency-problems-ultimate-troubleshooting-guide/"><u>Resolving Discord Latency Problems: Ultimate Troubleshooting Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/roblox-hiccup-solve-error-code-277-quickly-new-techniques-for-your-computer/"><u>Roblox Hiccup? Solve Error Code 277 Quickly - New Techniques for Your Computer</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/securing-your-audio-library-the-top-5-steps-for-internet-radio-storage-for-2024/"><u>Securing Your Audio Library The Top 5 Steps for Internet Radio Storage for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-eliminate-freezes-and-stutters-during-your-outriders-experience-on-windowsmac/"><u>Ultimate Guide: Eliminate Freezes and Stutters During Your Outriders Experience on Windows/Mac</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-frame-drops-and-lag-in-age-of-empires-iv/"><u>Ultimate Guide: Resolving Frame Drops and Lag in Age of Empires IV</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-embark-on-the-journey-defining-and-developing-style-and-niche/"><u>[New] 2024 Approved Embark on the Journey Defining & Developing Style and Niche</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rom-stillness-to-stirring-tips-for-bouncing-text/"><u>[New] From Stillness to Stirring Tips for Bouncing Text</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-quick-fixes-for-stopped-fb-live-broadcasts/"><u>[New] In 2024, Quick Fixes for Stopped FB Live Broadcasts</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-revolutionize-your-streaming-game-with-these-5-pro-tips/"><u>[New] Revolutionize Your Streaming Game with These 5 Pro Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-my-fortnite-keeps-crashing-on-pc-2024/"><u>[SOLVED] My Fortnite Keeps Crashing on PC 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-cutting-edge-video-meeting-techniques-on-slack-plus-filmora-for-2024/"><u>[Updated] Cutting-Edge Video Meeting Techniques on Slack + Filmora for 2024</u></a></li>
+<li><a href="https://techidaily.com/best-fixes-for-oppo-a59-5g-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>Best Fixes For Oppo A59 5G Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experiencing-league-of-legends-connection-errors-learn-the-quick-fixes/"><u>Experiencing League of Legends Connection Errors? Learn the Quick Fixes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/granblue-fantasy-pc-stability-fixing-crashing-links-with-ease/"><u>Granblue Fantasy PC Stability: Fixing Crashing Links with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-enable-your-gamepad-on-steam-for-a-smooth-windows-gaming-experience/"><u>How to Enable Your Gamepad on Steam for a Smooth Windows Gaming Experience</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-2024-capture-and-complement-expert-choices-for-frame-integrating-sites/"><u>In 2024, Capture & Complement Expert Choices for Frame-Integrating Sites</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-poco-c55-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Poco C55 | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-xiaomi-redmi-12-5g-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Xiaomi Redmi 12 5G Lock Screen Password?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-errors-in-baldurs-gate-iii-adventure-game/"><u>Overcoming Launch Errors in Baldur's Gate III Adventure Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-starfield-startup-problems-tips-and-solutions-for-gamers-on-steamxbox/"><u>Overcoming Starfield Startup Problems: Tips & Solutions for Gamers on Steam/Xbox</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-obstacle-how-to-address-overwatch-screen-issues-after-startup/"><u>Overcoming the Obstacle: How to Address Overwatch Screen Issues After Startup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/persona-3-fe-pc-version-stability-guide-avoiding-and-fixing-game-disruptions/"><u>Persona 3 FE PC Version Stability Guide: Avoiding and Fixing Game Disruptions</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/premier-script-development-arena-for-2024/"><u>Premier Script Development Arena for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-cs2-latency-issues-and-reducing-ping-times-on-your-pc/"><u>Ultimate Guide: Solving CS2 Latency Issues & Reducing Ping Times on Your PC</u></a></li>
 </ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Fix a Black Screen on Discord During Screen Share Sessions
-date: 2024-09-06T01:18:39.876Z
-updated: 2024-09-07T01:18:39.876Z
+date: 2024-10-25T12:02:04.032Z
+updated: 2024-11-01T05:19:54.693Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes How to Fix a Black Screen on Discord During Scre
 thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196b34a2ea4b98d961a480d427.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Trouble with Black Screens in Far Cry 6? Here's How to Fix It
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6.jpg)
@@ -54,23 +48,11 @@ thumbnail: https://thmb.techidaily.com/1d9ebf5bb7f01c1686988d2dbf12477c216dfe196
 2. Navigate to the**Games** tab, click Far Cry 6 and select**Properties** . Then click**Verify Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/far-cry-6-ubisoft-verify-files.jpg)
 3. If prompted, select**Repair** . Ubisoft Connect will then restore any missing or corrupted files.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Once done, relaunch the game to check if the black screen issue still occurs.
 
 If the issue remains, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135373/19272" target="_top" id="2135373">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135373" border="0" alt="https://techidaily.com" width="392" height="72"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135373/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  The black screen issue may occur if you’re using a faulty or outdated graphics driver. To fix the potential problem and ensure your game works properly, you’ll need to make sure your graphics driver is up to date.
@@ -85,12 +67,6 @@ There are mainly two ways to update your graphics driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -99,12 +75,6 @@ There are mainly two ways to update your graphics driver:
 
 If you still encounter black screen issues, check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2139322/26400" target="_top" id="2139322">
-  <img src="//a.impactradius-go.com/display-ad/26400-2139322" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2139322/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Microsoft often releases Windows updates with various bug fixes and security improvements. To ensure your operating system is not the problem, you should keep your device up to date. Here’s how:
@@ -112,13 +82,22 @@ If you still encounter black screen issues, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 3. Once you’ve installed all pending updates,**restart your PC** .
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123481/16836" target="_top" id="2123481">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123481" border="0" alt="https://techidaily.com" width="720" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123481/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Relaunch Far Cry 6 to check if the black screen issue has gone away.
@@ -132,28 +111,33 @@ If this fix doesn’t help, proceed to the next one.
 1. Open Ubisoft Connect and click the**three lines** in the top left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-three-lines.jpg)
 2. Click**Settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123475/16836" target="_top" id="2123475">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123475" border="0" alt="https://techidaily.com" width="300" height="75"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123733/7443" target="_top" id="2123733">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123733" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123475/16836" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123733/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-settings.jpg)
 3. Under the**General** tab, uncheck**Enable in-game overlay for supported games** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-uncheck-overlay.jpg)
 
 <!-- affiliate ads begin -->
-<span id="2135471">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/2135471.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/18498-2135471">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135471%2F18498'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135471/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
+  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Launch Far Cry 6 again to see if your problem disappears.
 
 If this fix doesn’t do the trick, take a look at the next one.
@@ -164,6 +148,13 @@ If this fix doesn’t do the trick, take a look at the next one.
 
  This should fix your black screen issue with Far Cry 6\. But if not, continue to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014849/22899" target="_top" id="2014849">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014849" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014849/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 6: Perform a clean boot
 
  Your background applications may interfere with your game and cause the occurrence of a black screen. To see if that’s the cause, you can perform a clean boot. Here’s how:
@@ -171,24 +162,20 @@ If this fix doesn’t do the trick, take a look at the next one.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938682/19272" target="_top" id="1938682">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938682" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938682/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2121332/18498" target="_top" id="2121332">
-  <img src="//a.impactradius-go.com/display-ad/18498-2121332" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2121332/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129741/7443" target="_top" id="2129741">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129741" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129741/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. **Restart** your computer.
 
@@ -198,12 +185,6 @@ If this fix doesn’t do the trick, take a look at the next one.
 
  If the black screen issue remains after you disabled all the programs and services, try the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall Far Cry 6
 
  If all the fixes mentioned above fail to solve your problem, try reinstalling the game as a last resort. Sometimes this might fix your black screen issue. Here’s how:
@@ -213,14 +194,15 @@ If this fix doesn’t do the trick, take a look at the next one.
 1. Open Ubisoft Connect and select**Games** . Then hover over Far Cry 6 and an**arrow** will appear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/ubisoft-far-cry-6.jpg)
 2. **Click** the arrow that appears to expand the drop-down menu, then select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/uninstall-far-cry-6.jpg)
 3. Once the process is complete, try reinstalling the game.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Epic Games Launcher
 
@@ -243,8 +225,6 @@ If this fix doesn’t do the trick, take a look at the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +232,23 @@ If this fix doesn’t do the trick, take a look at the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-top-notch-screen-recorder-pcmacos-edition-for-2024/"><u>[New] Top-Notch Screen Recorder PC/macOS Edition for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-unraveling-the-process-of-gaining-facebooks-blue-badge-for-2024/"><u>[New] Unraveling the Process of Gaining Facebook's Blue Badge for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-awesome-online-destinations-for-advanced-text-customization/"><u>[Updated] Awesome Online Destinations for Advanced Text Customization</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-crafting-your-perfect-minecraft-shelter/"><u>[Updated] Crafting Your Perfect Minecraft Shelter</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-comprehensive-strategies-for-overwatch-gaming-saves/"><u>2024 Approved Comprehensive Strategies for Overwatch Gaming Saves</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-file-recovery-solutions-for-pc-users-a-comprehensive-guide/"><u>Game File Recovery Solutions for PC Users – A Comprehensive Guide</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/mastering-computer-interfaces-a-beginners-guide-to-fixing-windows-drivers/"><u>Mastering Computer Interfaces: A Beginner's Guide to Fixing Windows Drivers</u></a></li>
+<li><a href="https://windows11.techidaily.com/mastering-the-art-of-correcting-roblox-error-262/"><u>Mastering the Art of Correcting Roblox Error 262</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-steamvr-hurdles-in-no-time-expert-tips-for-immediate-relief/"><u>Overcome SteamVR Hurdles in No Time: Expert Tips for Immediate Relief</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-resolution-for-apex-legends-not-launching-master-these-fixes-today/"><u>Quick Resolution for Apex Legends Not Launching? Master These Fixes Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-shooting-in-halo-infinite-tackling-the-notorious-stutter-issue/"><u>Smooth Shooting in Halo Infinite: Tackling the Notorious Stutter Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stable-gaming-experience-achieved-overcome-freezing-in-fallout-4/"><u>Stable Gaming Experience Achieved - Overcome Freezing in Fallout 4</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/tips-of-transferring-messages-from-itel-s23-to-iphone-1415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Tips of Transferring Messages from Itel S23 to iPhone 14/15 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-performance-problems-overcoming-dying-lights-fps-challenges/"><u>Troubleshooting Performance Problems: Overcoming Dying Light's FPS Challenges</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-solved-establishing-a-stable-connection-with-steam-servers/"><u>Troubleshooting Solved: Establishing a Stable Connection with Steam Servers</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/ultimate-solution-easily-connect-usb-to-rs232-with-our-fast-download-driver/"><u>Ultimate Solution: Easily Connect USB to RS232 with Our Fast-Download Driver!</u></a></li>
+</ul></div>
 

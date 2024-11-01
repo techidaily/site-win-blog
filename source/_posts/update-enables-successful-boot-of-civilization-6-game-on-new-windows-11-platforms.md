@@ -1,7 +1,7 @@
 ---
 title: Update Enables Successful Boot of Civilization 6 Game on New Windows 11 Platforms
-date: 2024-09-06T01:18:38.054Z
-updated: 2024-09-07T01:18:38.054Z
+date: 2024-10-28T18:51:01.912Z
+updated: 2024-11-01T03:29:15.152Z
 tags:
   - win11
   - win10
@@ -13,12 +13,6 @@ excerpt: This Article Describes Update Enables Successful Boot of Civilization 6
 thumbnail: https://thmb.techidaily.com/499d16f8fa9d73db2896cc95dd1103614d6afb1a8c7743ea30004b41e37daeda.jpg
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123479/16836" target="_top" id="2123479">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123479" border="0" alt="https://techidaily.com" width="320" height="90"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123479/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Star Citizen Now Stable - No More Crashes on Windows Platforms
 
 As soon as you load into the game, Star Citizen crashes immediately. This could be frustrating but don’t worry, this post could help.
@@ -35,12 +29,6 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 6. [Increase page file size](https://tools.techidaily.com/drivereasy/download/)
 7. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettiit.sjv.io/c/5597632/2114265/17093" target="_top" id="2114265">
-  <img src="//a.impactradius-go.com/display-ad/17093-2114265" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2114265/17093" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Disconnect any peripheral devices
 
  To the Star Citizen crashing issue, you need to disconnect any external devices. It’s because the crash could be caused by the conflicting device.
@@ -48,11 +36,12 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
  If the issue is still there after moving off the peripheral devices, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2123731/7443" target="_top" id="2123731">
-  <img src="//a.impactradius-go.com/display-ad/7443-2123731" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2036501/19272" target="_top" id="2036501">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036501" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123731/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036501/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable Win 10 Xbox gaming overlay
 
  Many users had reported that disabling the Windows10 Xbox gaming overlay would solve the problem. After disabling this feature, Star Citizen won’t crash again.
@@ -62,20 +51,8 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 3. Click**Game Bar** . Then make sure the switch of **Record game clips, screenshots, and broadcast using Game bar** is turned off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137204/26400" target="_top" id="2137204">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137204" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137204/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139111/17108" target="_top" id="2139111">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139111" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139111/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Kill background programs
 
  Kill unnecessary background programs will give the game more resources and prevent crashing. Sometimes the Star Citizen crashing issue is due to conflicts programs acting at the background. These conflict programs could be capture programs.
@@ -86,12 +63,6 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 2. Choose the program and click**End task** . Repeat the process until you’ve closed all the unnecessary background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
 
@@ -113,14 +84,22 @@ So, there are two ways that you can update your graphics driver:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130890/7443" target="_top" id="2130890">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1925468/19272" target="_top" id="1925468">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925468" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925468/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049391/7443" target="_top" id="2049391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Reset your character account
 
@@ -129,6 +108,13 @@ So, there are two ways that you can update your graphics driver:
 1. Go to the[site](https://robertsspaceindustries.com/) and log in to your account.
 2. Click**Settings > Character reset** .
 3. Click**Reset Request** .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135363/19272" target="_top" id="2135363">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135363" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135363/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6: Increase page file size
 
@@ -156,8 +142,6 @@ So, there are two ways that you can update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +149,23 @@ So, there are two ways that you can update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capture-tweets-as-mp3-audios-via-downloads/"><u>[New] Capture Tweets as MP3 Audios via Downloads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-2024-approved-secure-methods-to-transfer-instagram-media-onto-iphone/"><u>[Updated] 2024 Approved Secure Methods to Transfer Instagram Media Onto iPhone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-deciphering-bandicams-latest-2023-capabilities-for-2024/"><u>[Updated] Deciphering Bandicam's Latest 2023 Capabilities for 2024</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-send-hidden-youtube-videos-using-google-login-for-2024/"><u>[Updated] How to Send Hidden YouTube Videos Using Google Login for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-battlebuddies-channel-over-a-hundred-friends-in-games/"><u>[Updated] In 2024, BattleBuddies Channel Over a Hundred Friends in Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007949782-avoid-frustration-solve-persistent-garrys-mod-crashing/"><u>Avoid Frustration - Solve Persistent Garry's Mod Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-and-eliminate-glitches-a-guide-to-smoother-gameplay-in-the-ascent/"><u>Boost Your Frame Rate & Eliminate Glitches: A Guide to Smoother Gameplay in 'The Ascent'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-persistent-diablo-3-game-crashes-resolved/"><u>Fixes for Persistent Diablo 3 Game Crashes - Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hyper-scape-not-working-on-pc-heres-how-to-resolve-it/"><u>Hyper Scape Not Working On PC? Here's How To Resolve It</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unlocking-srt-potential-mac-edition-tutorial/"><u>In 2024, Unlocking SRT Potential Mac Edition Tutorial</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-why-your-whatsapp-location-is-not-updating-and-how-to-fix-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Why Your WhatsApp Location is Not Updating and How to Fix On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/left-hemisphere-unresolved-solving-l4d2-crashing-troubles-successfully/"><u>Left Hemisphere Unresolved? Solving L4D2 Crashing Troubles Successfully</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fixes-stopping-windows-11-from-running/"><u>Quick Fixes: Stopping Windows 11 From Running</u></a></li>
+<li><a href="https://techidaily.com/remove-infinix-smart-8-pro-unlock-screen-by-drfone-android-unlock-android-unlock/"><u>Remove Infinix Smart 8 Pro unlock screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-rainbow-six-extraction-performance-issues-increase-your-fps/"><u>Solving Rainbow Six Extraction Performance Issues: Increase Your FPS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-why-cant-i-access-mass-effect-legendary-edition/"><u>Troubleshooting: Why Can't I Access Mass Effect Legendary Edition?</u></a></li>
+</ul></div>
 

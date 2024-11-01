@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solutions for the Common Fire Fox Freezing Issue
-date: 2024-09-01T08:51:15.576Z
-updated: 2024-09-02T08:51:15.576Z
+date: 2024-10-24T21:59:52.614Z
+updated: 2024-11-01T07:44:10.079Z
 tags:
   - win11
   - win10
@@ -86,9 +86,6 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
@@ -97,16 +94,10 @@ _Dota 2_ may not be able to access certain game files on your computer under nor
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **4)** Relaunch_Dota 2_ .
 
  You can hopefully play_Dota 2_ without crashing now. If your issue still exists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Verify the integrity of game files
 
 _Dota 2_ is likely to crash when one or more game files are damaged. So you should verify the game files to make sure any corrupt files fixed and missing files installed. Follow the instructions below:
@@ -117,9 +108,6 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Right-click **Dota 2**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-322.png)
@@ -133,8 +121,12 @@ _Dota 2_ is likely to crash when one or more game files are damaged. So you shou
  If_Dota 2_ crashing issues happen again, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Adjust virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when performing an intensive task, Windows will dip into virtual memory for temporary file storage.
@@ -145,9 +137,6 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-884.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Click **View advanced system settings.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
@@ -160,13 +149,24 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105882/7443" target="_top" id="2105882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105882" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
@@ -177,13 +177,24 @@ _Dota 2_  is likely to crash if the size of your virtual memory is not big enoug
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-909.png)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657396/16446" target="_top" id="1657396">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657396" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657396/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Click **Set** , and then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-877.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **9)** Restart your computer and your game.
 
  If you still run into the_Dota 2_ crashing issue, don’t fret. Check the fix below.
@@ -234,43 +245,31 @@ If Dota 2 still crashes, check the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-319.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 **3)** Right-click**Dota 2** and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-308.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975821/19272" target="_top" id="1975821">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975821" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975821/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Click**SET LAUNCH OPTIONS.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-311.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **5)** Remove any launch options currently shown.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-317.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Type**\-autoconfig** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-318.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If your game is still unplayable, you need to**reopen the Launch Options box and clear the launch option.** Then, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Run Dota 2 in compatibility mode
 
  This only applies to Windows 10 and 8\. If you’re on Window 7, skip to [**Fix 9**](https://tools.techidaily.com/drivereasy/download/) , below.
@@ -281,14 +280,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-612.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-613.png)
@@ -301,9 +292,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  If_Dota 2_ runs smoothly now, that’s great! If not, check the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall_Dota 2_
 
  If the_Dota 2_ crashing issue persists, reinstalling_Dota 2_ might be the solution for you. Follow the instructions below:
@@ -315,8 +303,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Right-click **Dota 2**  and select **Uninstall.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-325.png)
@@ -325,9 +317,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-326.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 **6)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar, then hit**Enter** on your keyboard.
@@ -339,8 +328,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2020-07-30_16-51-54-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **8)** Download and reinstall_Dota 2_ .
 
  Hopefully, this article helped in resolving your issue! If you have any questions or suggestions, please feel free to leave a comment below.
@@ -358,8 +351,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -367,4 +358,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-capture-edit-and-enhance-a-novices-journey-with-lunapic/"><u>[Updated] 2024 Approved Capture, Edit & Enhance A Novice's Journey with LunaPic</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-percussive-peacock-swing/"><u>[Updated] 2024 Approved Percussive Peacock Swing</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-dive-into-youtubes-best-practices-for-playlist-design/"><u>[Updated] In 2024, Dive Into Youtube's Best Practices for Playlist Design</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-complete-instagram-analytics-companion-transforming-metrics-into-strategy-for-2024/"><u>[Updated] The Complete Instagram Analytics Companion Transforming Metrics Into Strategy for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-vloggers-guide-to-choosing-camera-essentials-the-top-9-accessories/"><u>2024 Approved Vloggers' Guide to Choosing Camera Essentials - The Top 9 Accessories</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/effortless-setup-obtain-qualcomm-atheros-ar938x-chipset-drivers-at-no-cost/"><u>Effortless Setup! Obtain Qualcomm Atheros AR938X Chipset Drivers at No Cost</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eso-players-rejoice-the-blackwood-lag-dilemma-now-solved-for-smoother-gameplay/"><u>ESO Players Rejoice: The Blackwood Lag Dilemma Now Solved for Smoother Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/five-essential-fixes-for-a-stable-world-of-warships-gameplay-on-windowslinux-pcs/"><u>Five Essential Fixes for a Stable World of Warships Gameplay on Windows/Linux PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001359480-forza-horizon-4-wont-start-master-the-techniques-to-kickstart-your-game/"><u>Forza Horizon 4 Won't Start? Master the Techniques to Kickstart Your Game !</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-battling-in-valorant-expert-fixes-for-pc-startup-failures-updated-for-2econd/"><u>Get Back to Battling in Valorant: Expert Fixes for PC Startup Failures (Updated for 2Econd)</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-the-latest-amd-graphics-card-software-update-for-crypto-miners-windows-guide/"><u>Get the Latest AMD Graphics Card Software Update for Crypto Miners - Windows Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-hearthstone-from-freezing-and-crashing-on-your-computer-expert-tips/"><u>How to Prevent Hearthstone From Freezing and Crashing on Your Computer - Expert Tips</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-a-detailed-vpna-fake-gps-location-free-review-on-infinix-smart-7-hd-drfone-by-drfone-virtual-android/"><u>In 2024, A Detailed VPNa Fake GPS Location Free Review On Infinix Smart 7 HD | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-wsappx-performance-a-guide-to-lowering-disk-usage-and-processor-load/"><u>Optimizing WSAPPX Performance: A Guide to Lowering Disk Usage and Processor Load</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-silent-evil-troubleshooting-sound-problems-in-evil-genius-2/"><u>Overcoming Silent Evil: Troubleshooting Sound Problems in Evil Genius 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-paladins-crashing-issues-with-proven-techniques/"><u>Troubleshooting Paladins Crashing Issues with Proven Techniques</u></a></li>
+<li><a href="https://article-helps.techidaily.com/vibrant-voices-audible-updates-to-whatsapp-for-2024/"><u>Vibrant Voices Audible Updates to WhatsApp for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/war-thunder-gaming-prowess-unleashed-fps-optimization-guide-and-troubleshooting-steps-to-conquer-2eep-play/"><u>War Thunder Gaming Prowess Unleashed: FPS Optimization Guide & Troubleshooting Steps to Conquer 2Eep Play</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/your-travelers-handbook-the-top-105-croatian-language-tools-you-need/"><u>Your Traveler’s Handbook: The Top 105 Croatian Language Tools You Need</u></a></li>
+</ul></div>
 

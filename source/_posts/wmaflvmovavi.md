@@ -1,7 +1,7 @@
 ---
 title: WMA/FLVファイルを問わず、Movaviでの無料オンラインコーデック変換
-date: 2024-10-20T18:19:15.930Z
-updated: 2024-10-26T16:44:32.065Z
+date: 2024-10-30T08:48:14.793Z
+updated: 2024-11-01T01:38:00.363Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/5e6778b56bd7ea57ea083d57b5f2921418b00d25e671abbc75a29215718a300d.jpg
@@ -156,6 +156,13 @@ Afficher plus
 
 ![](https://cdn.staticont.net/pages/0013/24/59bfacce83c98f6e29023d9167e646142e92751a.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918719/19272" target="_top" id="1918719">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918719" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918719/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
@@ -175,19 +182,6 @@ Le PC surpasse les consoles à cet égard, car il est toujours possible d'accél
 Cet article vous présente les réglages de performance pour les jeux que vous pouvez effectuer sur Windows 10 pour améliorer votre expérience de jeu.
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
-
-<!-- affiliate ads begin -->
-<span id="1770776">
-					<video width="240" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## 
 
@@ -223,13 +217,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -260,6 +247,13 @@ Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows C
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885999/19272" target="_top" id="1885999">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885999" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885999/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Oui, Windows 10 peut installer des mises à jour et redémarrer votre ordinateur en plein milieu de votre session de jeu sans même un simple "excusez-moi". Ouch. Cela peut être décevant, c'est le moins que l'on puisse dire, surtout si vous êtes un joueur compétitif et que votre sortie non planifiée peut affecter vos coéquipiers ou votre classement.
 
 Mais même en l'absence de tels redémarrages "en pleine face", qui sont en fait assez rares, le téléchargement des mises à jour en arrière-plan limite vos vitesses de connexion et occupe la mémoire vive de votre PC.
@@ -286,6 +280,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -307,19 +308,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
 
-<!-- affiliate ads begin -->
-<span id="1977020">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1977020.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1977020">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977020.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977020%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977020/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Régler le panneau de contrôle NVIDIA
 
 Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiques à la carte dans le panneau de configuration. Voici quelques-uns des meilleurs paramètres Windows 10 pour les cartes NVIDIA pour les jeux.
@@ -339,23 +327,9 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 2. Augmentez vos performances graphiques en utilisant l'overclocking. Pour ce faire, cliquez sur l'onglet **Performance**, puis sur **Tuning**, sélectionnez **Automatique**, et enfin **GPU Overclocked**.
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Réduire la résolution dans un jeu
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043596/7443" target="_top" id="2043596">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043596" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043596/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Désactiver l'accélération de la souris
 
@@ -381,29 +355,22 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112007/7443" target="_top" id="2112007">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112007" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112007/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2043603/7443" target="_top" id="2043603">
-  <img src="//a.impactradius-go.com/display-ad/7443-2043603" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043603/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tout fonctionne bien. Mais si vous êtes un joueur, vous devrez peut-être le faire plus tôt, car la technologie évolue beaucoup plus rapidement dans ce secteur.
 
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
-  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -520,6 +487,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 Foire aux questions 
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948954/19272" target="_top" id="1948954">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948954" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948954/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment optimiser mon ordinateur pour les jeux ?
 
 L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour optimiser votre ordinateur portable ou de bureau pour les jeux. Voici les principaux conseils :
@@ -528,13 +502,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130874/7443" target="_top" id="2130874">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130874" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130874/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -545,6 +512,13 @@ Il y a une longue liste de choses qui pourraient ralentir votre ordinateur. Voic
 3. Les pilotes du GPU ne sont pas à jour
 4. Vous utilisez DirectX 11 et devez effectuer une mise à jour.
 5. Le système fonctionne avec des paramètres de performance inférieurs pour économiser la batterie.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135362/19272" target="_top" id="2135362">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135362" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135362/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Comment faire fonctionner un ordinateur plus rapidement ?
 
@@ -560,6 +534,13 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135353/19272" target="_top" id="2135353">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135353" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135353/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Comment obtenir 60 fps dans un jeu ?
 
 Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer votre système en général, mais voici ce que vous pouvez faire :
@@ -569,6 +550,13 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -613,15 +601,24 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-sharing-recording.techidaily.com/new-capturing-quality-should-you-choose-30-or-60-fps-in-2024/"><u>[New] Capturing Quality Should You Choose 30 or 60 FPS, In 2024</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-pioneering-the-path-transitioning-xbox-sessions-to-fb/"><u>[Updated] In 2024, Pioneering the Path Transitioning Xbox Sessions to FB</u></a></li>
-<li><a href="https://screen-mirroring-recording.techidaily.com/updated-unveiling-the-secrets-to-successful-iphone-sound-captures/"><u>[Updated] Unveiling the Secrets to Successful iPhone Sound Captures</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-youtube-for-beginners-channel-building-monetization-tactics/"><u>2024 Approved YouTube for Beginners Channel Building, Monetization Tactics</u></a></li>
-<li><a href="https://win-blog.techidaily.com/een-volumeqlosse-navigatieboek-voor-google-meet-herselection-de-kern-handleiding-voor-professionals-en-hobbyists-gedeeld/"><u>Een Volumeqlosse Navigatieboek Voor Google Meet Herselection: De Kern Handleiding Voor Professionals En Hobbyists Gedeeld.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/facilidad-para-mejorar-imagenes-turbias-con-movavi-un-guia-completa/"><u>Facilidad Para Mejorar Imágenes Turbias Con Movavi: Un Guía Completa</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/in-2024-maximizing-your-sightline-in-roblox-playground/"><u>In 2024, Maximizing Your Sightline in Roblox Playground</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/in-2024-unlock-your-motorola-moto-g-5g-2023-phone-with-ease-the-3-best-lock-screen-removal-tools-by-drfone-android/"><u>In 2024, Unlock Your Motorola Moto G 5G (2023) Phone with Ease The 3 Best Lock Screen Removal Tools</u></a></li>
-<li><a href="https://win-blog.techidaily.com/modificacoes-de-arquivos-para-wav-offline-e-online-gratuitas-pelo-movavi/"><u>Modificações De Arquivos Para WAV Offline E Online Gratuitas Pelo Movavi!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/treninky-jak-preobratat-obraz-na-filmu-tri-uklidy-zacit/"><u>Tréninky Jak Preobratat Obraz Na Filmu - Tři Úklidy Začít</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-pros-choice-high-quality-4k-dslr-mounting-systems/"><u>[New] In 2024, Pro's Choice High-Quality 4K DSLR Mounting Systems</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-navigate-funimates-complexities-with-ease-for-2024/"><u>[New] Navigate Funimate's Complexities with Ease for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-adept-methods-for-mass-acquiring-videos-on-tiktok-app/"><u>[Updated] Adept Methods for Mass Acquiring Videos on TikTok App</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-unlock-the-potential-of-your-gaming-experience-with-these-top-techniques-on-windows-11-for-2024/"><u>[Updated] Unlock the Potential of Your Gaming Experience with These Top Techniques on Windows 11 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-odyssey-2024-comprehensive-guide-to-fix-frame-drops-and-freezes-on-pc/"><u>Assassin's Creed Odyssey: 2024 Comprehensive Guide to Fix Frame Drops and Freezes on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fixes-immediate-solutions-for-palworld-not-opening-or-loading-correctly/"><u>Expert Fixes: Immediate Solutions for Palworld Not Opening or Loading Correctly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/express-improvements-eliminating-hitches-for-seamless-gaming-in-assassins-creed-valhalla/"><u>Express Improvements: Eliminating Hitches for Seamless Gaming in Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-bass-bridges-and-high-beats-understanding-sound-mixing/"><u>In 2024, Bass Bridges & High Beats Understanding Sound Mixing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-microsoft-edge-crashes-in-windows-10-a-comprehensive-fix-guide/"><u>Overcoming Microsoft Edge Crashes in Windows 10 - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obstacles-with-avatar-pandora-unleashed-for-pc-players/"><u>Overcoming Obstacles with Avatar: Pandora Unleashed for PC Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010669403-solved-why-your-discord-app-keeps-failing-to-launch-fixes-here/"><u>Solved: Why Your Discord App Keeps Failing to Launch - Fixes Here</u></a></li>
+<li><a href="https://games-able.techidaily.com/step-up-your-mobile-games-with-these-ios-four-star-emulators/"><u>Step Up Your Mobile Games with These iOS Four-Star Emulators</u></a></li>
+<li><a href="https://win11.techidaily.com/tailoring-your-experience-files-alerts-and-confirmations-on-win/"><u>Tailoring Your Experience: Files, Alerts & Confirmations on Win</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-prolonged-start-up-for-star-wars-battlefront-ii-on-personal-computers/"><u>Troubleshooting Prolonged Start-Up for Star Wars Battlefront II on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-game-infringement-alert-issue-solution-steps/"><u>Troubleshooting the 'Game Infringement Alert' Issue – Solution Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unstuck-your-phasmophobia-at-90-loading-screen-with-these-expert-fixes-game-update-guide-2024/"><u>Unstuck Your Phasmophobia at 90% Loading Screen with These Expert Fixes - Game Update Guide 2024</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-top-video-resume-creators-free-templates-and-reviews/"><u>Updated In 2024, Top Video Resume Creators Free Templates and Reviews</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/voice-recording-access-review-and-evaluate-for-2024/"><u>Voice Recording Access, Review & Evaluate for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/why-windows-users-should-anticipate-sudo/"><u>Why Windows Users Should Anticipate Sudo</u></a></li>
 </ul></div>
 

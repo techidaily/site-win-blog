@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Common PC Crashes in Metro Exodus Gameplay
-date: 2024-09-01T08:51:20.929Z
-updated: 2024-09-02T08:51:20.929Z
+date: 2024-10-27T05:39:12.764Z
+updated: 2024-11-01T01:27:34.240Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 7. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Check for Windows Updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Reinstall your game](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144283/7443" target="_top" id="2144283">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144283" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144283/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1:**Meet the minimum system requirements**
 
@@ -63,14 +70,18 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 
  If your computer meets the minimum requirements, read on and check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2:**Restart your computer**
 
  If you’re running multiple programs on your computer at the same time, hogging your resources, your game might crash. If that’s the core issue， performing a simple reboot on your PC should fix your problem.
 
  Restart your computer and your game to test your issue. If the game still crashes, move on to Fix 3, below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3:**Run the game as an administrator**
 
@@ -81,30 +92,38 @@ Oxygen Not Included keeps crashing while you’re gaming? This is extremely anno
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557746/17382" target="_top" id="1557746">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557746" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557746/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)**  Right-click the **Steam icon**  and select **Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-352.png)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Yes** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)** Restart Oxygen Not Included from Steam.
 
 Hope the game runs smoothly now. If it’s not, check the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4:**Run the game in compatibility mode**
 
  Some Windows updates may not be compatible with Oxygen Not Included and cause it to stop working. If the crash occurs after you update your PC, try running your game in compatibility mode. Here is how to do it:
@@ -117,24 +136,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-278.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 **3)** Right-click**OxygenNotIncluded.exe** and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-282.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **4)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-280.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **5)**  Click the list box below to select**Windows 8** , then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-279.png)
@@ -163,9 +179,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-287.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Click the**list box** to open the drop-down menu, select the name of the branch you want to play.
 
  If you’re given a password to unlock the appropriate branch, type the password in the box next to**CHECK CODE** , click**CHECK CODE** and your branch will now be in the dropdown menu.
@@ -195,9 +208,6 @@ If the game crashing issue persists, check the fix below.
 
  This should fix your problem. If it didn’t, don’t fret. Check the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 7:**Update your Graphics driver**
 
  Another common cause of Oxygen Not Included crashing issues is an outdated or a faulty graphics driver. Try updating your graphics driver to see if that’s the problem for you. There are 2 ways you can do it:
@@ -228,14 +238,18 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557747/17382" target="_top" id="1557747">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557747" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557747/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -249,9 +263,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-575.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-576.png)
@@ -260,9 +271,6 @@ OR
 
  If Oxygen Not Included crashing still happens after the update, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Reinstall the game
 
  If none of the fixes above helped, reinstalling your game is very likely the solution for you. Follow the instructions below:
@@ -272,8 +280,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-494.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1959712/19272" target="_top" id="1959712">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959712" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959712/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** On your keyboard, press the **Windows logo**  key and **E**  at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-507.png)
@@ -302,8 +314,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -311,4 +321,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://blog-min.techidaily.com/mp4-gratuitos-convertidos-en-linea-guia-paso-a-paso-con-movavi/"><u>.mp4 Gratuitos Convertidos en Línea: Guía Paso a Paso Con Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-introduce-audible-elements-seamlessly-to-premiere-pro/"><u>[New] Introduce Audible Elements Seamlessly to Premiere Pro</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-2024-approved-youtubes-branded-entertainment-universe/"><u>[Updated] 2024 Approved YouTube's Branded Entertainment Universe</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-designing-effective-video-previews-for-channels/"><u>[Updated] Designing Effective Video Previews for Channels</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1-resolving-the-frustrating-quirks-of-apples-latest-iphone-a-must-read-guide-tech-insider/"><u>1. Resolving the Frustrating Quirks of Apple's Latest iPhone: A Must-Read Guide | Tech Insider</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-excellent-5-add-ons-to-amplify-oceanic-shoots/"><u>2024 Approved Excellent 5 Add-Ons to Amplify Oceanic Shoots</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anno-1800-and-directx-troubleshooting-solutions-unveiled/"><u>Anno 1800 and DirectX Troubleshooting - Solutions Unveiled!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/circulation-crafting-kit/"><u>Circulation Crafting Kit</u></a></li>
+<li><a href="https://win-webster.techidaily.com/diy-android-book-creator-by-flipbuilder-effortlessly-convert-your-content-into-engaging-mobile-apps-flipbuildercom/"><u>DIY Android Book Creator by FlipBuilder: Effortlessly Convert Your Content Into Engaging Mobile Apps [FlipBuilder.com]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-and-stable-conquer-the-repaired-security-breach-challenge-in-fnaf-on-your-pc/"><u>Enhanced and Stable: Conquer the Repaired 'Security Breach' Challenge in FNAF on Your PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Sony Xperia 10 V | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-e-game-crash-on-pc-heres-how-to-get-it-running-smoothly/"><u>Hitman E Game Crash on PC? Here's How to Get It Running Smoothly</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-shape-business-visions-no-money-just-templates/"><u>In 2024, Shape Business Visions - No Money, Just Templates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003538293-master-the-art-of-stable-gaming-overcome-yakuza-6-pc-faults-easily/"><u>Master the Art of Stable Gaming: Overcome Yakuza 6 PC Faults Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pandoras-edge-optimized-and-bug-free-avatar-gaming-on-personal-computers/"><u>Pandora's Edge: Optimized and Bug-Free Avatar Gaming on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-fixes-enjoy-a-smooth-run-with-the-latest-patch-of-wrc-10-by-fia-world-rally-championship/"><u>PC Gaming Fixes: Enjoy a Smooth Run with the Latest Patch of WRC 10 by FIA World Rally Championship</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-error-errgfxd3dinit-on-grand-theft-auto-v/"><u>Resolved: Fixing the Error 'ERR_GFX_D3D_INIT' On Grand Theft Auto V</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-prevent-adobe-premiere-pro-from-crashing-on-latest-windows-versions/"><u>Troubleshooting Guide: Prevent Adobe Premiere Pro From Crashing on Latest Windows Versions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-rainbow-six-sieges-server-connectivity-issues/"><u>Troubleshooting Steps: Resolving Rainbow Six Siege's Server Connectivity Issues</u></a></li>
+</ul></div>
 

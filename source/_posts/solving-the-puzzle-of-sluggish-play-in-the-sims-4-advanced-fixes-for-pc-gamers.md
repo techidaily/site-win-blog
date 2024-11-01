@@ -1,7 +1,7 @@
 ---
 title: Solving the Puzzle of Sluggish Play in The Sims 4 - Advanced Fixes for PC Gamers
-date: 2024-09-06T01:18:39.251Z
-updated: 2024-09-07T01:18:39.251Z
+date: 2024-10-26T04:21:54.818Z
+updated: 2024-11-01T12:03:22.175Z
 tags:
   - win11
   - win10
@@ -36,11 +36,12 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139120/17108" target="_top" id="2139120">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139120" border="0" alt="https://techidaily.com" width="250" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123508/26400" target="_top" id="2123508">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123508" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139120/17108" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123508/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify if your PC meets the system requirements for PoE
 
  First and foremost, you should verify if your computer can handle PoE. Here’s the information you may need:
@@ -73,6 +74,13 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card drivers
 
  Your crashing issue with PoE may be caused by outdated or corrupt graphics card drivers. To check if that’s the root cause, you should try updating your graphics driver to a relatively new and stable version first.
@@ -89,18 +97,19 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137222/26400" target="_top" id="2137222">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137222" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137222/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if PoE continues to crash. If it does, please try out the next method, below.
@@ -120,11 +129,12 @@ If you find your**Path of Exile** (PoE)**crashes** constantly, fret not – your
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-17.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130529/26400" target="_top" id="2130529">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130529" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130529/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** . Then wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-18.png)
@@ -135,12 +145,6 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2129739/7443" target="_top" id="2129739">
-  <img src="//a.impactradius-go.com/display-ad/7443-2129739" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2129739/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Run RoE as an administrator
 
  This quick fix is more like a general solution for all the games that cannot be launched properly, and it’s very easy to apply. As long as you have the administrative privileges to run RoE, you should give this fix a try.
@@ -152,28 +156,17 @@ In case this fix didn’t help, please move on to Fix 4.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-24.png)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135364/19272" target="_top" id="2135364">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135364" border="0" alt="https://techidaily.com" width="120" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135364/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) In the Properties window, on the **Compatibility** tab, select **Run this program as an administrator** . Then click **Apply > OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-19.png)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043593/7443" target="_top" id="2043593">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043593" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043593/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Now you should be able to run RoE under administrator privileges permanently. If you want to revert this configuration, simply uncheck **Run this program as an administrator** .
 
 Still unable to solve the problem? If yes, proceed to the next fix.
@@ -181,11 +174,12 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
+  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Change certain in-game configurations
 
  According to many players, turning off**Engine Multithreading** and**VSync** under Graphics settings has cleared up the crashing problem for them. Here’s how to do it:
@@ -200,22 +194,10 @@ Still unable to solve the problem? If yes, proceed to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/image-15.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
-  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Wait to see if the crashing issue reoccurs. If it does, maybe these two features should not be blamed for your trouble, and you can enable them later on.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  To anyone in pursuit of ultimate gaming experience, it’s quite common to speed up the CPU/GPU a notch or two. Usually, it won’t cause you much trouble; just don’t push them too hard – otherwise, the overclocking may undermine the stability of your PC, raising the risks of game crashes and even hardware malfunction (such as overheat).
@@ -235,8 +217,6 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +224,21 @@ Still unable to solve the problem? If yes, proceed to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/lot-twists-for-success-top-3-channel-building-tactics-for-2024/"><u>[New] Plot Twists for Success Top 3 Channel-Building Tactics for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/analyzing-the-impact-of-burst-on-live-action-shoots-for-2024/"><u>Analyzing the Impact of Burst on Live-Action Shoots for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beating-the-blackout-expert-tips-for-league-of-legends-display-fixes-2024-edition/"><u>Beating the Blackout: Expert Tips for League of Legends Display Fixes, 2024 Edition</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/choosing-the-best-streamer-chromecast-or-roku-a-comprehensive-showdown/"><u>Choosing the Best Streamer: Chromecast or Roku – A Comprehensive Showdown</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-gaming-fast-overcoming-multiversus-launch-obstacles-on-your-desktop-computer/"><u>Get Back to Gaming Fast: Overcoming MultiVersus Launch Obstacles on Your Desktop Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-hell-let-loose-continuous-crashes-on-your-computer/"><u>How to Fix Hell Let Loose Continuous Crashes on Your Computer</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-comprehensive-guide-unraveling-google-podcasts-app/"><u>In 2024, Comprehensive Guide Unraveling Google Podcasts App</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-unlock-iphone-6-plus-passcode-without-itunes-without-knowing-passcode-by-drfone-ios/"><u>In 2024, How to Unlock iPhone 6 Plus Passcode without iTunes without Knowing Passcode?</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/in-2024-the-art-of-persuasion-on-facebook-a-beginners-and-expert-playbook/"><u>In 2024, The Art of Persuasion on Facebook A Beginner’s & Expert Playbook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-total-war-saga-troy-overcoming-pc-performance-hiccups-and-crashes/"><u>Mastering TOTAL WAR SAGA: TROY - Overcoming PC Performance Hiccups & Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-troubles-conquer-the-black-screen-glitch-with-these-expert-fixes-for-2every-gamer/"><u>Minecraft Troubles? Conquer the Black Screen Glitch with These Expert Fixes for 2eveRy Gamer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-for-cyberpunk-2077-how-to-reduce-excessive-cpu-use/"><u>Optimizing Performance for Cyberpunk 2077: How to Reduce Excessive CPU Use</u></a></li>
+<li><a href="https://video-capture.techidaily.com/ultimate-list-of-the-11-premier-video-game-recorders-for-windows-users/"><u>Ultimate List of the 11 Premier Video Game Recorders for Windows Users</u></a></li>
+<li><a href="https://win-web3.techidaily.com/wd-my-cloud-and-iphone-a-guide-to-restoring-your-disrupted-auto-backup-functionality/"><u>WD My Cloud and iPhone: A Guide to Restoring Your Disrupted Auto-Backup Functionality</u></a></li>
+</ul></div>
 

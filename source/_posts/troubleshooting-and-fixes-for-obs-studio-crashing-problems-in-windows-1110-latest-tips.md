@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixes for OBS Studio Crashing Problems in Windows 11/10 - Latest Tips
-date: 2024-09-06T01:18:37.777Z
-updated: 2024-09-07T01:18:37.777Z
+date: 2024-10-29T21:49:45.704Z
+updated: 2024-10-31T17:36:23.513Z
 tags:
   - win11
   - win10
@@ -43,12 +43,6 @@ thumbnail: https://thmb.techidaily.com/043a6e9400628e90ba868e49367a439edaed6ed26
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118318/7443" target="_top" id="2118318">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118318" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118318/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -81,26 +75,16 @@ There’re mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<span id="1424533">
-					<video width="864" height="1536" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135348/19272" target="_top" id="2135348">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135348" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135348/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** . If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2123465/16836" target="_top" id="2123465">
-  <img src="//a.impactradius-go.com/display-ad/16836-2123465" border="0" alt="https://techidaily.com" width="80" height="31"/>
-</a>
-<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123465/16836" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -119,12 +103,6 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Hold the**Alt** key when you click to launch Premiere Pro. This will invoke a popup asking if you want to reset your preferences.  
 ![Reset your preferences in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Reset-your-preferences-in-Premiere-Pro.jpg)
 2. Click**OK** to confirm.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115928/19272" target="_top" id="2115928">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115928" border="0" alt="https://techidaily.com" width="160" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115928/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if the Premiere Pro crashing issue persists. If this fix doesn’t stop the crashing, don’t worry. Try the next fix, below.
 
@@ -135,18 +113,27 @@ It’s quite easy to reset your preferences. Here’s how:
 1. Launch Premiere Pro and go to**File** \>**Project Settings** \>**General** .  
 ![Turn off GPU acceleration in Premiere Pro](https://images.drivereasy.com/wp-content/uploads/2021/03/Turn-off-GPU-acceleration-in-Premiere-Pro.jpg)
 2. In the**Video Rendering and Playback** part, set**Renderer** option to**Mercury Playback Engine Software Only** . Click**OK** to save the change.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![set Premiere Pro Renderer option to Mercury Playback Engine Software Only](https://images.drivereasy.com/wp-content/uploads/2021/03/set-Premiere-Pro-Renderer-option-to-Mercury-Playback-Engine-Software-Only.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  See if Premiere Pro crashes after you switched GPU acceleration to Software Only. Usually, Premiere Pro may take more time to finish rendering after you disabled GPU acceleration, but it would reduce the frequency of random crashes.
 
 If this fix doesn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Remove media cache files
 
  Some corrupted media cache files may also trigger Premiere Por crashing issue. If it’s the case, you need to remove media cache files. Here is how to do it:
@@ -154,26 +141,8 @@ If this fix doesn’t work, try the next fix, below.
 1. Launch Premiere Pro and go to**Edit** \>**Preferences** \>**Media Cache** .  
 ![Premiere Pro Remove media cache files](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files.jpg)
 2. Click the**Delete…** button to remove media cache files.  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Premiere Pro Remove media cache files 1](https://images.drivereasy.com/wp-content/uploads/2021/03/Premiere-Pro-Remove-media-cache-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 See if this fix stops the crashing. If not, try the next fix, below.
 
 ## Fix 5: Close CPU / memory hogging applications
@@ -185,11 +154,12 @@ See if this fix stops the crashing. If not, try the next fix, below.
 ![Close CPU memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/03/Close-CPU-memory-hogging-applications.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118321/7443" target="_top" id="2118321">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118321" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118321/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If Premiere Pro works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Premiere Pro from crashing due to insufficient memory in the future, you may need to consider upgrading the memory (RAM) on your computer.
@@ -205,33 +175,23 @@ To cool down your computer, you may need to
 * Use a**better cooling system** for your computer if yours is not powerful enough.
 
 <!-- affiliate ads begin -->
-<span id="1912746">
-					<video width="240" height="200" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2135316/14409" target="_top" id="2135316">
+  <img src="//a.impactradius-go.com/display-ad/14409-2135316" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2135316/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7: Update / reinstall Premier Pro
 
  If none of the fixes works, try updating / reinstalling Premier Pro. Normally, after updating Premier Pro to the latest version, or reinstalling it, you’ll fix the crashing issue.
 
 <!-- affiliate ads begin -->
-<span id="1982508">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982508.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982508">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982508.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982508%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982508/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Conclusion
 
  In most cases, keeping Premier Pro, Windows OS and drivers up to date would get rid of most program crashing issues. If these common fixes on this article didn’t help you fix the Premiere crashing issue, you can also try investigating Windows crash logs to analyze and troubleshoot the causes of the crash. For more details, see the article:[How to view crash logs in Windows 10](https://www.supereasy.com/how-to-view-crash-logs-in-windows-10/) .
@@ -249,8 +209,6 @@ To cool down your computer, you may need to
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +216,16 @@ To cool down your computer, you may need to
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-transform-your-editing-master-the-fade-effect/"><u>[New] 2024 Approved Transform Your Editing Master the Fade Effect</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-unlock-your-potential-best-video-editing-hacks-for-2024/"><u>[New] Unlock Your Potential Best Video Editing Hacks for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-crafting-an-engaging-online-presence-the-complete-guide-to-youtube-submissions/"><u>[Updated] 2024 Approved Crafting an Engaging Online Presence The Complete Guide to YouTube Submissions</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-jumpstart-gaming-fun-xbox-one-and-zoom-integration/"><u>[Updated] Jumpstart Gaming Fun Xbox One and Zoom Integration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-resolving-issues-with-the-logitech-c920-webcam-device/"><u>Diagnosing and Resolving Issues with the Logitech C920 Webcam Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-gameplay-experience-addressing-fps-drops-in-call-of-duty-modern-warfare-3-for-optimal-performance/"><u>Fix Your Gameplay Experience: Addressing FPS Drops in Call of Duty: Modern Warfare 3 for Optimal Performance</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-the-ultimate-guide-to-cam-cover-selection/"><u>In 2024, The Ultimate Guide to Cam Cover Selection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-tricks-to-fix-critical-crashes-in-tales-of-arise-unreal-engine-4/"><u>Tips & Tricks to Fix Critical Crashes in Tales of Arise (Unreal Engine 4)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-stop-your-pc-games-from-freezing-in-2n4/"><u>Troubleshooting Steps: Stop Your PC Games From Freezing in 2N4!</u></a></li>
+</ul></div>
 
