@@ -1,7 +1,7 @@
 ---
 title: "Dragon Age: Origins Running Smoothly on Windows 11 - Troubleshooting Guide"
-date: 2024-09-01T08:50:38.074Z
-updated: 2024-09-02T08:50:38.074Z
+date: 2024-11-04T22:39:54.612Z
+updated: 2024-11-06T17:18:54.093Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Change your sound settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Change language on Steam
 
  This fix should resolve the issue with the missing voiceovers. Follow the guide and you’ll get back the audio.
@@ -39,15 +46,16 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
  If you’re already in English, try another language to see if the voices are in this language, then turn back to English.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Uninstall incompatible app
 
  Make sure there’s no other software working on the background. It’s possible that some apps are incompatible with Steam which cause the sound issue. Some players figured out when they had Sonic Studio on, there’s an audio mixer or no sound. After installing the software, the Dying Light was working perfectly.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your driver
 
  Sound issue often relates to your sound card and the audio driver. If your audio driver is outdated or wrongly installed, you may encounter sound issues.
@@ -61,21 +69,27 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<a href="https://appsumo.8odi.net/c/5597632/2151870/7443" target="_top" id="2151870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettius.sjv.io/c/5597632/2139109/17108" target="_top" id="2139109">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139109" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139109/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Change your sound settings
 
  If you don’t have in-game audio from your headset, changing sound settings may work for you.
@@ -97,8 +111,6 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -106,4 +118,20 @@ If you encountered bug with missing audio in dialogs or there’s no sound durin
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-step-into-simulation-androids-ultimate-guide-to-the-best-15-games-for-2024/"><u>[New] Step Into Simulation Android’s Ultimate Guide to the Best 15 Games for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211422616-9780645558036-andamooka-anna-and-the-amazing-mermaids/"><u>Andamooka Anna and the Amazing Mermaids | Free Book</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/discovering-removed-contacts-a-guide-to-retrieving-lost-numbers-from-your-android-device/"><u>Discovering Removed Contacts: A Guide to Retrieving Lost Numbers From Your Android Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-troubleshooting-for-improving-splitgates-low-fps-and-eradicating-gameplay-interruptions/"><u>DIY Troubleshooting for Improving Splitgate's LOW FPS and Eradicating Gameplay Interruptions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-football-manager-2021-from-crashing-on-your-windows-computer-solution/"><u>How to Stop Football Manager 2021 From Crashing on Your Windows Computer - SOLUTION</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-capturing-your-xbox-playtime-for-sharing/"><u>In 2024, Capturing Your Xbox Playtime for Sharing</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Apple iPhone SE (2020) | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-leading-workplace-data-safekeepers/"><u>In 2024, Leading Workplace Data Safekeepers</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-samsung-galaxy-a23-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Samsung Galaxy A23 5G | Dr.fone</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-the-audio-visual-connection-top-music-picks-that-elevate-your-diverse-video-projects-for-2024/"><u>New The Audio-Visual Connection Top Music Picks That Elevate Your Diverse Video Projects for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-cannot-connect-to-server-in-lost-ark-quick-fixes-and-solutions/"><u>Resolving 'Cannot Connect to Server' In Lost Ark – Quick Fixes & Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-graphic-driver-failed-in-valorant-a-step-by-step-guide-for-gamers/"><u>Solving 'Graphic Driver Failed in Valorant': A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-lag-issues-in-fortnite-for-smoother-gameplay/"><u>Troubleshooting Common Lag Issues In Fortnite For Smoother Gameplay</u></a></li>
+</ul></div>
 

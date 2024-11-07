@@ -1,7 +1,7 @@
 ---
 title: "Solving Connectivity Issues: Making Astro's A50 Headset Recognize The Command Center"
-date: 2024-09-01T08:47:59.367Z
-updated: 2024-09-02T08:47:59.367Z
+date: 2024-11-03T01:58:46.959Z
+updated: 2024-11-06T21:04:30.133Z
 tags:
   - win11
   - win10
@@ -40,14 +40,33 @@ Here’s how to restart it:
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
+
+<!-- affiliate ads begin -->
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
 4. Restart your computer.
 5. Start streaming in Twitch and see if the loading issue is resolved.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 Update your graphics driver
 
  A graphics driver is an essential piece of software program that enables your computer to work with your graphics hardware. If the driver is wrong, corrupt or outdated, you may experience issues like slow loading or not loading at all. So you should update your graphics driver to see if it fixes your problem.
@@ -60,25 +79,17 @@ Here’s how to restart it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896510/19272" target="_top" id="1896510">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896510" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896510/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or, you can click the Update button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ## Fix 3 Change your DNS settings
@@ -91,18 +102,28 @@ To fix this, you can try using Google Public DNS. Here’s how:
 2. Type “ncpa.cpl” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-386.png)
 3. Right click your Internet connection (**Ethernet** for wired connection or **Wi-Fi** for wireless), then select **Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-387.png)
 4. Double click **Internet Protocol Version 4 (TCP/IPv4)** .  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-388.png)
 5. Select **Use the following DNS server addresses** , fill in the Google Public DNS addresses (**8.8.8.8** for **Preferred DNS server** and **8.8.4.4** for **Alternate** ), and then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-389.png)
 6. Click **OK** .
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Restart your computer as well as your router/modem.
 
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
@@ -119,9 +140,6 @@ Clear cache and cookies in Google Chrome:
 3. Click **Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
 
 ## Fix 5 Disable browser extensions
@@ -134,9 +152,6 @@ Clear cache and cookies in Google Chrome:
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ## Fix 6 Use VPN to change your IP address
 
  You won’t be able to visit Twitch if you are trying to open the website in a country without access to Twitch, as it isn’t readily available in some locations. Fortunately, there is a simple and reliable solution to this problem. Using a**VPN (Virtual Private Network)** will help you “mask” your IP to make it appear as though it’s coming from a country where Twitch is allowed.
@@ -149,23 +164,46 @@ Here’s how to use it:
 2. Run NordVPN, then choose a location you want to connect to.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/nordvpn-pc.jpg)
 3. Check to see if you can open the website without problems this time. If yes, then you’ve worked around the issue. If no, please head on to Fix 7, below.
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136621/26400" target="_top" id="2136621">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136621" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136621/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7 Launch in safe mode
 
  If the problem continues to appear even after applying the above workarounds, we recommend launching the app in safe mode. Here’s how to do it:
 
 1. Press **Win** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) **+R** keys to open the **Run** dialog.
 2. Type “**msconfig** ” in the search box and press Enter to open **System Configuration** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
+
+<!-- affiliate ads begin -->
+<span id="1444782">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1444782.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1444782">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1444782.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1444782%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1444782/14559" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
 
  Hopefully you can fix Twitch streams not loading with the methods above. If you have any questions, ideas or suggestions, feel free to leave your comments below.
@@ -176,8 +214,6 @@ Here’s how to use it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +221,26 @@ Here’s how to use it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-increase-views-discover-20-prime-thumbnail-fonts/"><u>[New] Increase Views - Discover 20 Prime Thumbnail Fonts</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-versatile-pc-software-beyond-inshot/"><u>[Updated] Versatile PC Software Beyond Inshot</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-lag-secrets-to-optimizing-call-of-duty-black-ops-cold-war-performance/"><u>Beat the Lag: Secrets to Optimizing Call of Duty Black Ops Cold War Performance</u></a></li>
+<li><a href="https://blog-min.techidaily.com/descargas-gratuitas-para-convertir-archivos-de-audio-aifbam4r-rapido-y-eficiente-con-movavi/"><u>Descargas Gratuitas Para Convertir Archivos De Audio - AIFBaM4r Rápido Y Eficiente Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-constant-sandstorm-game-disruptions-and-errors/"><u>Effective Fixes for Constant Sandstorm Game Disruptions and Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-constant-freezing-in-fallout-3-mods-windows-troubleshooting/"><u>Fixing Constant Freezing in Fallout 3 Mods - Windows Troubleshooting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-overcoming-the-error-when-lost-ark-cant-reach-the-server/"><u>Guide to Overcoming the Error when Lost Ark Can't Reach the Server</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-star-wars-battlefront-2-black-screen-glitch-efficiently/"><u>How to Fix the Star Wars Battlefront 2 Black Screen Glitch Efficiently</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-error-code-23-in-apex-legends-and-get-back-to-gaming/"><u>How To Overcome Error Code #23 in Apex Legends & Get Back to Gaming!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-pc-games-from-crashing-expert-solutions-for-gamers/"><u>How to Stop PC Games From Crashing: Expert Solutions for Gamers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-v29-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo V29 | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-motorola-edge-40-neo-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Motorola Edge 40 Neo Phones with/without a PC</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-apps-from-samsung-galaxy-m34-5g-to-another-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Apps from Samsung Galaxy M34 5G to Another | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-poco-f5-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Poco F5 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-selecting-the-superior-cloud-vaults-for-your-digital-needs/"><u>In 2024, Selecting the Superior Cloud Vaults for Your Digital Needs</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-edit-like-a-pro-the-ultimate-free-guide-to-gopro-video-editing/"><u>New 2024 Approved Edit Like a Pro The Ultimate Free Guide to GoPro Video Editing</u></a></li>
+<li><a href="https://techidaily.com/quick-and-easy-tutorial-installing-updated-gpu-drivers-on-windows-10/"><u>Quick & Easy Tutorial: Installing Updated GPU Drivers on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-fifa-20s-directx-glitches-with-this-ultimate-fix/"><u>Say Goodbye to FIFA 20'S DirectX Glitches with This Ultimate Fix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002335432-step-by-step-guide-eliminating-crashes-in-ghost-recon-breakpoint-swiftly-and-efficiently/"><u>Step-by-Step Guide: Eliminating Crashes in Ghost Recon Breakpoint Swiftly & Efficiently!</u></a></li>
+</ul></div>
 

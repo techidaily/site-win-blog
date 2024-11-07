@@ -1,7 +1,7 @@
 ---
 title: "Resolved: 'Application Error' In COD Modern Warfare 3 Now Smooth Running"
-date: 2024-09-01T08:50:03.636Z
-updated: 2024-09-02T08:50:03.636Z
+date: 2024-10-31T20:28:08.598Z
+updated: 2024-11-07T04:04:53.951Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Read on to find how.
 
 Right now Stardew Valley 1.5.4 patch has been released on PC.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Delete the startup preferences folder
 
  Stardew Valley will use a specific file to store the startup preferences for users, but this file could be the culprit of not working/ not launching issue. You can delete the startup preferences file to fix the problem.
@@ -61,25 +58,31 @@ Make sure you’ve verified the Steam Files as well.
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**Stardew Valley** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
+
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 3\. Install XNA installer
 
  Stardew Valley is a video game using the Microsoft XNA framework. Therefore, this framework needs to be installed and running properly. This fix would show you how to run the installer.
@@ -91,9 +94,14 @@ If it doesn’t work, move to the next fix.
 4. Find the**\_Redist** folder, then run**xnafx40\_redist installer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_14-30-45.jpg)
 5. When the whole process is finished, back to the upper folder, right-click on Stardew Valley and click**Run as administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_14-36-48.jpg)
 6. The game should launch normally.
 
@@ -112,9 +120,12 @@ If it doesn’t work, move to the next fix.
 7. Run Stardew Valley to check.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915830/19272" target="_top" id="1915830">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915830" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915830/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 5\. Set Launch Options in Steam
 
  Setting up the Steam Launch options would be a usable fix for Stardew Valley.
@@ -123,10 +134,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. In the General tab, click**SET LAUNCH OPTIONS.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_15-15-13.jpg)
 3. Make sure the pop-up window’s box is empty. Then click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 4. Run Stardew Valley to check.
 
  We’ve collected all the methods that you may don’t know. I believe you’ve already tried reboot, reinstall the game, verify the game files, Run Stardew Valley as administrator and shut down antivirus or firewall.
@@ -161,15 +168,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<a href="https://wigfever.sjv.io/c/5597632/2014850/22899" target="_top" id="2014850">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014850" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014850/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
@@ -188,6 +197,19 @@ OR
 6. Run Stardew Valley to check.
 
 ---
+
+<!-- affiliate ads begin -->
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## For mobile users
 
@@ -216,8 +238,6 @@ Save file location:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +245,24 @@ Save file location:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/updated-audible-annotations-choosing-the-top-speech-to-text-apps/"><u>[Updated] Audible Annotations Choosing the Top Speech-to-Text Apps</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-essential-tactics-for-dramatizing-success-stories-through-testimonials/"><u>[Updated] Essential Tactics for Dramatizing Success Stories Through Testimonials</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-explore-the-finest-virtual-hydro-adventures/"><u>[Updated] In 2024, Explore the Finest Virtual Hydro Adventures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-launch-clarified-heres-what-you-need-to-know/"><u>Assassin's Creed Valhalla Launch Clarified – Here's What You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-darkness-step-by-step-guide-to-tackle-magic-the-gathering-arenas-black-screen-glitches/"><u>Beat the Darkness: Step-by-Step Guide to Tackle Magic: The Gathering Arena's Black Screen Glitches</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-f5-pro-5g-by-drfone-android/"><u>Complete Review & Guide to Techeligible FRP Bypass and More For Poco F5 Pro 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-when-persona-3-fes-wont-start-up/"><u>Effective Solutions When Persona 3: FES Won't Start Up</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/from-high-speed-to-leisurely-the-pathway-to-stellar-ig-reel-slow-motion/"><u>From High-Speed to Leisurely The Pathway to Stellar IG Reel Slow Motion</u></a></li>
+<li><a href="https://techidaily.com/how-to-get-out-of-recovery-on-apple-iphone-se-2020-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How To Get Out of Recovery on Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-your-pc-from-crashing-when-playing-metro-exodus/"><u>How to Stop Your PC From Crashing When Playing Metro Exodus</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-honor-magic-6-pro-have-find-my-friends-drfone-by-drfone-virtual-android/"><u>In 2024, Does Honor Magic 6 Pro Have Find My Friends? | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/is-there-room-for-improvement-with-iwatch-whats-next/"><u>Is There Room for Improvement with iWatch? What's Next?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-network-troubleshooting-tips-fixed-solutions/"><u>League of Legends Network Troubleshooting Tips - Fixed Solutions</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/overcoming-silence-solutions-for-mics-not-detecting-voice-output/"><u>Overcoming Silence: Solutions for Mics Not Detecting Voice Output</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-steps-restoring-netflix-accessibility-on-the-xbox-one-system/"><u>Solution Steps: Restoring Netflix Accessibility on the Xbox One System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-palworlds-failure-to-load-effective-solutions/"><u>Solving Palworld's Failure to Load: Effective Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/total-war-warhammer-3-pc-version-now-reliable-and-crash-free-update-details-inside/"><u>Total War: Warhammer 3 PC Version Now Reliable and Crash-Free - Update Details Inside</u></a></li>
+</ul></div>
 

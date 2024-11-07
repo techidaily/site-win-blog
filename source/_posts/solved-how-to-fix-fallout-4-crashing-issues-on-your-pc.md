@@ -1,7 +1,7 @@
 ---
 title: "Solved: How to Fix Fallout 4 Crashing Issues on Your PC"
-date: 2024-09-01T08:45:44.593Z
-updated: 2024-09-02T08:45:44.593Z
+date: 2024-10-31T06:01:29.068Z
+updated: 2024-11-06T17:25:58.040Z
 tags:
   - win11
   - win10
@@ -50,8 +50,18 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 If it’s not working, move to next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1492813">
+					<video width="1024" height="576" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1492813.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1492813">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1492813.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:640px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1492813%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1492813/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -65,8 +75,12 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136620/26400" target="_top" id="2136620">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136620" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136620/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -95,21 +109,26 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135357/19272" target="_top" id="2135357">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135357" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135357/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -120,9 +139,6 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -140,8 +156,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +163,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-perfect-your-technique-recording-the-modern-presentation/"><u>[New] 2024 Approved Perfect Your Technique Recording the Modern Presentation</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-preserve-your-animated-fun-discover-the-best-9-gif-recorder-apps-for-pc/"><u>[New] Preserve Your Animated Fun Discover the Best 9 GIF Recorder Apps for PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-universal-synchronization-zoom-on-phones-tablets-pcs-all-for-2024/"><u>[New] Universal Synchronization Zoom on Phones, Tablets, PCs All for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-essential-guide-to-winning-on-spotify-ad-campaigns/"><u>[Updated] Essential Guide to Winning on Spotify Ad Campaigns</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-in-2024-intensify-your-videoleap-images-through-precision-zooming/"><u>[Updated] In 2024, Intensify Your Videoleap Images Through Precision Zooming</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-premium-5-professional-drones-buyers-guide/"><u>[Updated] Premium 5 Professional Drones - Buyers Guide</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/crafting-a-surround-sound-haven-installing-atmos-on-windows-pc/"><u>Crafting a Surround-Sound Haven: Installing Atmos on Windows PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-lag-in-fortnite-a-comprehensive-solution-for-smoother-gameplay/"><u>Fixing Lag in Fortnite - A Comprehensive Solution for Smoother Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/for-added-protection-especially-on-items-like-coasters-or-countertop-backsplashes-that-will-experience-frequent-water-exposure-apply-an-acrylic-sealant-over539/"><u>For Added Protection, Especially on Items Like Coasters or Countertop Backsplashes that Will Experience Frequent Water Exposure, Apply an Acrylic Sealant over the Glazed Tile Once It Has Completely Cooled.</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/get-the-ultimate-experience-logitech-gamepads-with-steering-wheel-support-for-pcs-running-windows-7-8-and-10/"><u>Get the Ultimate Experience: Logitech Gamepads with Steering Wheel Support for PCs Running Windows 7, 8 & 10</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/lenovo-laptops-losing-volume-top-solutions-for-bringing-back-sounds/"><u>Lenovo Laptops Losing Volume – Top Solutions for Bringing Back Sounds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-black-ops-cold-war-gameplay-bypass-error-code-0xc0000005-successfully/"><u>Master Black Ops: Cold War Gameplay - Bypass Error Code 0Xc0000005 Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-lag-in-forza-horizon-5-for-pc-updated-solutions-inside/"><u>Overcome Lag in Forza Horizon 5 for PC – Updated Solutions Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-swift-solution-guide-for-resolving-critical-bugs-in-batman-arkham-knight/"><u>The Swift Solution Guide for Resolving Critical Bugs in 'Batman: Arkham Knight'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-recurring-fuser-crashes-on-your-computer/"><u>Troubleshooting Steps for Recurring Fuser Crashes on Your Computer</u></a></li>
+</ul></div>
 

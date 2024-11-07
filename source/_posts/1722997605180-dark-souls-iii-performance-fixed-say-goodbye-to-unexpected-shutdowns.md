@@ -1,7 +1,7 @@
 ---
 title: Dark Souls III Performance Fixed - Say Goodbye to Unexpected Shutdowns
-date: 2024-09-01T08:46:22.888Z
-updated: 2024-09-02T08:46:22.888Z
+date: 2024-11-04T05:21:21.613Z
+updated: 2024-11-06T22:29:35.229Z
 tags:
   - win11
   - win10
@@ -35,14 +35,18 @@ thumbnail: https://thmb.techidaily.com/894f058d97b0ae58b0d33f76cb56fbf958c597ef2
 
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-708.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105883/7443" target="_top" id="2105883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  You can go to the game options and change to Windowed mode, then re-launch your game to see if it works.
 
@@ -54,10 +58,6 @@ thumbnail: https://thmb.techidaily.com/894f058d97b0ae58b0d33f76cb56fbf958c597ef2
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad. Then change  
@@ -68,6 +68,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  5) Save your change and restart your game.
 
  Your problem still persists, don’t worry. There are other solutions.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037338/7443" target="_top" id="2037338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037338/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your video driver
 
@@ -87,9 +94,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-706.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click_Update All_ ).
 
  Note: You can do it for free if you like, but it’s partly manual.
@@ -100,10 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 Now launch Dark Souls 3 and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Set game options to LOW
 
  If your game options are set High, this requires much more system resources and so Dark Souls 3 may crash. In that case, you should set game options to**_LOW_** so as to stop your game crashing.
@@ -121,8 +121,12 @@ If you can’t access the in-game settings, try this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -138,8 +142,12 @@ Then play your game to see if it works properly.
  Still no luck? Don’t give up hope. There’s one more thing to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126492/26400" target="_top" id="2126492">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126492" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126492/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in Steam app if games crash. Here’s how to do it:
@@ -150,16 +158,16 @@ Then play your game to see if it works properly.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136615/26400" target="_top" id="2136615">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136615" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136615/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
@@ -181,8 +189,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +196,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-from-penniless-to-partnered-a-small-channels-journey/"><u>[New] 2024 Approved From Penniless to Partnered A Small Channel's Journey</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-effective-strategies-to-capture-and-save-google-voice-dialogues-for-2024/"><u>[New] Effective Strategies to Capture and Save Google Voice Dialogues for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-instagram-edge-step-by-step-video-cropping-techniques/"><u>2024 Approved Instagram Edge Step-by-Step Video Cropping Techniques</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-photos-files-on-infinix-hot-30-5g-by-fonelab-android-recover-photos/"><u>Complete guide for recovering photos files on Infinix Hot 30 5G.</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-motorola-edgeplus-2023-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Motorola Edge+ (2023) in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-live-stream-lags-ultimate-solutions-to-obs-performance-problems/"><u>Fixing Live Stream Lags: Ultimate Solutions to OBS Performance Problems</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-perform-common-windows-actions-with-shortcuts/"><u>How to Perform Common Windows Actions With Shortcuts</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/is-the-lenovo-yoga-book-9i-successful-in-popularizing-dual-screen-laptops-an-in-depth-review-by-zdnet/"><u>Is the Lenovo Yoga Book 9I Successful in Popularizing Dual-Screen Laptops? An In-Depth Review by ZDNet</u></a></li>
+<li><a href="https://win-premium.techidaily.com/profi-tipps-zur-erstellung-von-datendiskimages-mit-spitzenfreiware-zum-kopieren-von-speichermedien/"><u>Profi-Tipps Zur Erstellung Von Datendiskimages Mit Spitzenfreiware Zum Kopieren Von Speichermedien</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-addressing-the-modern-warfare-3-memory-issue-error-code-12707/"><u>Resolved: Addressing the Modern Warfare 3 Memory Issue (Error Code 12707)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-shader-compilation-problems-on-call-of-duty-black-ops-cold-war-game/"><u>Resolving Shader Compilation Problems on Call of Duty Black Ops Cold War Game</u></a></li>
+<li><a href="https://program-issues.techidaily.com/rogue-game-crash-dilemma-discover-solutions-for-uninterrupted-gaming-experience-on-your-computer/"><u>Rogue Game Crash Dilemma? Discover Solutions for Uninterrupted Gaming Experience on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-sailing-ahead-tips-for-preventing-watch-dogs-legion-pc-crashes-during-gameplay/"><u>Smooth Sailing Ahead! Tips for Preventing Watch Dogs: Legion PC Crashes During Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-fix-and-prevent-pc-crashes/"><u>Ultimate Guide: Fix & Prevent PC Crashes</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Tips for Fixing the Persistent NW_StoreExe Application Crashes
-date: 2024-09-01T08:50:04.899Z
-updated: 2024-09-02T08:50:04.899Z
+date: 2024-11-03T20:10:19.529Z
+updated: 2024-11-06T18:10:03.076Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/d920c3b28ccc2d1f3bea454c7e3d7fac6d650bb29
 8. **[Reinstall the game and run Windows compatibility troubleshooter](https://tools.techidaily.com/drivereasy/download/)**
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Check if your PC meets the system requirements for Dying Light
 
@@ -78,9 +85,6 @@ Below are the system requirements for Dying Light from the Steam client:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the game files
 
  The game crash issue may occur if your game files are corrupted. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -88,21 +92,34 @@ Below are the system requirements for Dying Light from the Steam client:
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**Dying Light** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2002018/7443" target="_top" id="2002018">
+  <img src="//a.impactradius-go.com/display-ad/7443-2002018" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2002018/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://review-au.sjv.io/c/5597632/2098702/14409" target="_top" id="2098702">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098702" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098702/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Launch Dying Light again after you verified the integrity of the game files. If this issue persists, try the next fix, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://sentrypc.7eer.net/c/5597632/398449/3022" target="_top" id="398449">
+  <img src="//a.impactradius-go.com/display-ad/3022-398449" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398449/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  One of the most common causes of this problem is an outdated or a faulty**graphics** driver. There are two ways you can get the right drivers for your graphics card: manually or automatically.
@@ -118,6 +135,13 @@ Below are the system requirements for Dying Light from the Steam client:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
@@ -127,9 +151,6 @@ Below are the system requirements for Dying Light from the Steam client:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Perform a Windows Update
 
  According to the game developers, if MS Visual C++ is missing or corrupted, you may also run into the Dying Light crash issue. To resolve this problem, you need to reinstall Official Microsoft Visual C++ 2013 and .NET Framework.
@@ -153,8 +174,12 @@ Below are the system requirements for Dying Light from the Steam client:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Stop overclocking
 
  Many players would like to overclock the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking usually crashes the game. To prevent game crashes, you should reset the CPU or the graphics card to the manufacturer specifications.
@@ -172,9 +197,6 @@ Below are the system requirements for Dying Light from the Steam client:
 2. **Turn off the toggle** under**Game Mode** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/Game-Mode-Windows-10.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch Dying Light again after you disabled Game Mode to see if this fix works. If not, try the next fix, below.
 
 ---
@@ -194,9 +216,6 @@ Below are the system requirements for Dying Light from the Steam client:
 2. In the Properties Window, navigate to**the Compatibility tab** ,**check the box** next to**Run this program in compatibility mode for:** and select**Windows 7** from the drop-down list.**Check the box** next to**Run as an administrator** and click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-12_14-25-41.png)
 3. Double-click the shortcut of Dying Light on your desktop to launch it. This time Dying Light will run in the compatibility mode you set in step 2.
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  See if this fix works for you. If this issue never reappears in the compatibility mode, it suggests that the cause of the issue is the game incompatibility in Windows 10.
 
@@ -213,8 +232,6 @@ Below are the system requirements for Dying Light from the Steam client:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +239,26 @@ Below are the system requirements for Dying Light from the Steam client:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-an-in-depth-examination-of-samsungs-picture-editing-tech/"><u>[New] An In-Depth Examination of Samsung’s Picture Editing Tech</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-superior-video-cameras-previewed/"><u>[New] In 2024, Superior Video Cameras Previewed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-fallout-4-long-loading-times/"><u>[Solved] Fallout 4 LONG Loading Times</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-in-2024-gamer-friendly-video-capture-apps/"><u>[Updated] In 2024, Gamer-Friendly Video Capture Apps</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-topline-numbers-pewdiepies-yearly-income/"><u>[Updated] Topline Numbers PewDiePie's Yearly Income</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/an-in-depth-review-how-the-outer-worlds-blends-fun-with-futuristic-fiction/"><u>An In-Depth Review: How 'The Outer Worlds' Blends Fun with Futuristic Fiction</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/android-unlock-code-sim-unlock-your-honor-magic-5-lite-phone-and-remove-locked-screen-by-drfone-android/"><u>Android Unlock Code Sim Unlock Your Honor Magic 5 Lite Phone and Remove Locked Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-arma-3-crash-errors-with-these-proven-techniques/"><u>Banish Arma 3 Crash Errors with These Proven Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002472136-cyberpunk-2077-performance-issues-resolved-enjoy-smooth-frame-rates/"><u>Cyberpunk 2077 Performance Issues Resolved: Enjoy Smooth Frame Rates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/easy-instructions-for-booting-up-windows-10-on-your-new-pcs-drive/"><u>Easy Instructions for Booting Up Windows 10 on Your New PC's Drive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-enhance-your-dayz-gameplay-increased-fps-now/"><u>Effortlessly Enhance Your DayZ Gameplay – Increased FPS Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/identifying-and-overcoming-concurrently-lowered-frame-rates-in-pc-games/"><u>Identifying and Overcoming Concurrently Lowered Frame Rates in PC Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/instantly-resolve-your-fortnite-startup-problems-with-these-tips/"><u>Instantly Resolve Your Fortnite Startup Problems with These Tips</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210232448-9781591434085-journeys-with-plant-spirits/"><u>Journeys with Plant Spirits | Free Book</u></a></li>
+<li><a href="https://driver-install.techidaily.com/streamlining-windows-11-upgraded-hd-audio-driver-setup/"><u>Streamlining Windows 11: Upgraded HD Audio Driver Setup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-opening-origin-on-windows-1011-systems/"><u>Troubleshooting Steps for Opening Origin on Windows 10/11 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723014165047-unlock-uninterrupted-playtime-fix-fall-guys-freezing-on-your-computer/"><u>Unlock Uninterrupted Playtime - Fix Fall Guys' Freezing on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/victory-over-launch-blockers-enjoy-resident-evil-village-without-delays/"><u>Victory over Launch Blockers: Enjoy Resident Evil Village Without Delays</u></a></li>
+<li><a href="https://howto.techidaily.com/xiaomi-redmi-k70e-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Xiaomi Redmi K70E Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
 

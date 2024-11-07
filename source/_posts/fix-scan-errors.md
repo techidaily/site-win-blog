@@ -1,7 +1,7 @@
 ---
 title: Fix Scan Errors
-date: 2024-09-01T08:50:08.119Z
-updated: 2024-09-02T08:50:08.119Z
+date: 2024-11-02T02:22:14.726Z
+updated: 2024-11-06T22:30:48.514Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ If it takes you forever to go into GTA 5 online, it could piss you off. You may 
 * [Console](https://tools.techidaily.com/drivereasy/download/)
 * [PC](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### For Console
 
 1. [Restart your console](https://tools.techidaily.com/drivereasy/download/)
@@ -78,8 +75,12 @@ From the Home Screen of your PS4, follow these steps:
  If the above fixes didn’t help, you can contact the[Rockstar Support team](https://support.rockstargames.com/categories/200013306) for more information. It’s quite rare but when your account has been banned by Rockstar, you can’t log in to the game and you won’t know till you contact the support team.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### For PC
 
 1. [Get a bigger SSD](https://tools.techidaily.com/drivereasy/download/)
@@ -102,9 +103,20 @@ You can either be patient, or buy a bigger SSD to replace the old one.
 3. Click**Open Resource Monitor** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/2021-02-05_12-02-24.jpg)
 4. Shut down all the GTA 5 services.
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. Reboot your computer and launch the game to check.
 
 #### 3\. Update your network driver
@@ -120,15 +132,16 @@ You can either be patient, or buy a bigger SSD to replace the old one.
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -145,9 +158,18 @@ You can either be patient, or buy a bigger SSD to replace the old one.
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 4. Relaunch GTA 5 online.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1983588">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983588.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983588">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983588.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983588%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983588/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  By the way, you can temporarily disable your firewalls, antivirus software to make sure it’s not your firewall blocking part of the game and cause the problem. Make sure that “GTAV.exe” is unblocked.
@@ -168,8 +190,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +197,20 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-maximizing-your-reach-live-360-videos-on-facebook/"><u>[New] Maximizing Your Reach Live 360 Videos on Facebook</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-seamless-searches-the-updated-guide-for-finding-youtube-on-fb/"><u>[Updated] Seamless Searches The Updated Guide for Finding YouTube on FB</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-stutter-and-lag-in-total-war-saga-troy-for-computer-gaming-enthusiasts/"><u>Fixing Stutter and Lag in Total War: Saga - Troy for Computer Gaming Enthusiasts</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/how-to-send-a-snap-from-memoriescamera-roll-on-snapchat/"><u>How to Send a Snap From Memories/Camera Roll on Snapchat</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-unlock-motorola-edge-40-neo-by-drfone-android-unlock-android-unlock/"><u>How to unlock Motorola Edge 40 Neo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-wow-disruptions-easy-solutions-to-game-crashing-issues/"><u>No More WoW Disruptions: Easy Solutions to Game Crashing Issues!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006394378-phasmophobia-crash-troubles-heres-your-ultimate-guide-to-2ebarriers-2024-resolutions/"><u>Phasmophobia Crash Troubles? Here's Your Ultimate Guide to 2Ebarriers 2024 Resolutions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-overcome-internet-explorers-failure-to-render-pages/"><u>Resolved: How To Overcome Internet Explorer's Failure To Render Pages</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-playtime-on-updated-cyberpunk-2077-without-the-troublesome-lags-or-stutters/"><u>Seamless Playtime on Updated Cyberpunk 2077 Without the Troublesome Lags or Stutters</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/the-ideal-ebook-readers-on-iphone-and-ipad-a-comprehensive-guide-to-the-best-6-options/"><u>The Ideal eBook Readers on iPhone & iPad: A Comprehensive Guide to the Best 6 Options</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-tutorial-how-to-perform-a-website-ping-successfully/"><u>The Ultimate Tutorial: How to Perform a Website Ping Successfully</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-best-cheap-video-editing-software-for-2024/"><u>Updated Best Cheap Video Editing Software for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valheim-launch-problems-solutions-for-not-starting-the-game-correctly/"><u>Valheim Launch Problems? Solutions for Not Starting the Game Correctly</u></a></li>
+</ul></div>
 

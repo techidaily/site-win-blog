@@ -1,7 +1,7 @@
 ---
 title: Solving Unhandled Exception (Error Code 0Xc0000005) in Call Stack Overflow for Black Ops Cold War Players
-date: 2024-09-01T08:46:23.952Z
-updated: 2024-09-02T08:46:23.952Z
+date: 2024-11-04T03:26:50.673Z
+updated: 2024-11-06T20:53:25.679Z
 tags:
   - win11
   - win10
@@ -62,8 +62,12 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 1: Update your graphics drivers
 
  Your crashing issue in Star Wars Jedi may be caused by outdated or corrupt graphics card drivers (aka video drivers). To check if that’s the root cause, you should try updating your video drivers to a relatively new and stable version first.
@@ -81,17 +85,18 @@ Star Wars Jedi: Fallen Order, an action-adventure game, was released on November
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged driver (say your graphics card driver) to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Check to see if the crashing problem reoccurs. If it does, please try out the next method, below.
@@ -116,9 +121,6 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of game files
 
  Chances are the crashing issue has been triggered by a corrupted game file. If that’s indeed the cause, you should attempt to verify the integrity of all the game files, using the built-in tool of Steam, Origin, or Epic Games Launcher.
@@ -133,18 +135,12 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![This image has an empty alt attribute; its file name is image-23.png](https://images.drivereasy.com/wp-content/uploads/2019/06/image-23.png)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Right-click **Star Wars Jedi: Fallen Order** and select **Properties** .
 
  3) Go to the **LOCAL FILES** tab and select **VERIFY INTEGRITY OF GAME FILES…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1025.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  4) Wait for the process to complete. When finished, exit Steam and then reopen it. Run Star Wars Jedi and see if it keeps crashing.
 
 #### I’m playing Star Wars Jedi on Origin
@@ -163,9 +159,23 @@ If you continue to have the crashing problem, please proceed to Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-65.png)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) In the drop-down menu, click**Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-67.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135414/19272" target="_top" id="2135414">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135414" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135414/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) After the verification is finished, relaunch Star Wars Jedi and see if your problem goes away.
 
@@ -186,6 +196,13 @@ To completely shut down a program:
  2) In the **Task Manager**  window, on the **Processes** tab, select the program you want to shut down and click **End task** . (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-243.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **Exercise caution when you try to end these processes** . If you mistakenly close one of the important system programs, that might cause your computer to stop running properly.
 
@@ -209,9 +226,6 @@ To completely shut down a program:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Wait for more updates
 
  This method may seem rather passive, but if the root cause doesn’t really lie in your gaming machine, then you should probably just wait for some new updates to get the problem fixed. Of course, if you’d like to do something else, you can also forward your problem to the developer ( **[Contact EA](https://help.ea.com/en/contact-us/)**  ) or look for other solutions on related forums.
@@ -219,8 +233,12 @@ To completely shut down a program:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134490/18498" target="_top" id="2134490">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134490" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134490/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Extra Info:**Unreal Engine crashes**
 
  Some players reported that they’ve encountered crashes relating to Unreal Engine and received an error message reading “Unreal Engine is exiting due to D3D device being lost.” If that’s also the problem for you, here are two articles you can refer to:
@@ -243,8 +261,6 @@ To completely shut down a program:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +268,26 @@ To completely shut down a program:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-2024-approved-optimal-settings-for-watching-nba-live-streams/"><u>[New] 2024 Approved Optimal Settings for Watching NBA LIVE STREAMs</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-top-fifa-scoreboard-tactics-in-infographics/"><u>[New] 2024 Approved Top FIFA Scoreboard Tactics in Infographics</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/nsightful-ways-to-monitor-youtube-viewership-trends/"><u>[New] Insightful Ways to Monitor YouTube Viewership Trends</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/aking-control-your-comprehensive-yt-studio-manual-for-2024/"><u>[New] Taking Control Your Comprehensive YT Studio Manual for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-tales-of-arise-ue4-fatal-error/"><u>[SOLVED] Tales of Arise UE4 Fatal Error</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-explore-10-websites-for-unlicensed-gaming-tunes-for-2024/"><u>[Updated] Explore 10 Websites for Unlicensed Gaming Tunes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-rapid-remedies-for-smoother-gameplay-overcoming-fps-drops-in-elden-ring/"><u>6 Rapid Remedies for Smoother Gameplay: Overcoming FPS Drops in Elden Ring</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/clarifying-the-cloud-demystifying-nine-top-myths-about-bots/"><u>Clarifying the Cloud: Demystifying Nine Top Myths About Bots</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-connection-problems-between-astro-command-center-and-a50-headset/"><u>Fixing Connection Problems Between Astro Command Center & A50 Headset</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-lag-and-stutter-in-fortnite-when-played-on-a-pc/"><u>How to Resolve Lag and Stutter in Fortnite When Played on a PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-passfab-apple-iphone-11-pro-backup-unlocker-top-4-alternatives-by-drfone-ios/"><u>In 2024, PassFab Apple iPhone 11 Pro Backup Unlocker Top 4 Alternatives</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-turning-off-two-factor-authentication-from-apple-iphone-6-5-tips-you-must-know-by-drfone-ios/"><u>In 2024, Turning Off Two Factor Authentication From Apple iPhone 6? 5 Tips You Must Know</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/innovate-your-writing-process-using-these-nine-insights-on-chatgpt/"><u>Innovate Your Writing Process Using These Nine Insights on ChatGPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/new-fsr-3-from-amd-game-changer-for-graphics-supremacy/"><u>New FSR 3 From AMD: Game Changer for Graphics Supremacy?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-your-obs-lag-woes-tips-for-flawless-broadcasts-and-recordings/"><u>Overcome Your OBS Lag Woes - Tips for Flawless Broadcasts & Recordings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-phasmophobia-solutions-for-the-persistent-90-load-screens/"><u>Overcoming Phasmophobia: Solutions for the Persistent 90% Load Screens</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-with-steams-connection-to-its-official-gaming-servers/"><u>Resolved: Issues with Steam's Connection to Its Official Gaming Servers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-stability-issues-no-more-halo-cuhing-on-personal-computers/"><u>Solving Stability Issues: No More Halo Cuhing on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-overcoming-error-code-103003-in-arma-3/"><u>Step-by-Step Solution for Overcoming 'Error Code 103003' In Arma 3</u></a></li>
+</ul></div>
 

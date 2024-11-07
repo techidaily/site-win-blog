@@ -1,7 +1,7 @@
 ---
 title: How to Troubleshoot When Elder Scrolls Online Won't Launch Properly
-date: 2024-09-01T08:49:29.445Z
-updated: 2024-09-02T08:49:29.445Z
+date: 2024-10-31T19:29:17.732Z
+updated: 2024-11-06T18:38:07.865Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-7.png)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click the **Allow an app or feature through Windows Defender Firewall** from the left panel.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
@@ -46,11 +53,15 @@ Here’s how to allow the ESO launcher through the firewall.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Delete the program data
 
  If the program data has corrupted, you may encounter the ESO not loading issue. In this case, we need to delete corrupted files. The launcher will redownload missing files automatically.
@@ -62,8 +73,12 @@ Here’s how to allow the ESO launcher through the firewall.
 4. Restart the ESO Launcher to check.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896532/19272" target="_top" id="1896532">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896532" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896532/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Repair the launcher
 
  When the game is not loading or stuck on the loading scree, you can repair the launcher to fix the issue. If any files are found to have problems, the launcher will re-download those files.
@@ -75,9 +90,6 @@ Here’s how to allow the ESO launcher through the firewall.
 4. The launcher will reinstall missing files, wait for the process to finish.
 5. Relaunch the game and check to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  The Elder Scrolls Online is an online game that requires connecting servers. Make sure you have a stable network with updated drivers. Updating your drivers to the latest version always help. With the latest working driver, you’ll have a better gaming experience.
@@ -102,15 +114,22 @@ OR
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<span id="1977028">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977028.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977028">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977028.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977028%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977028/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -124,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +150,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/1722998996326-call-of-duty-modern-warfare-stability-enhancement-resolving-the-recurrent-game-crashes/"><u>Call of Duty: Modern Warfare Stability Enhancement - Resolving the Recurrent Game Crashes</u></a></li>
+<li><a href="https://win11.techidaily.com/clear-the-clutter-experience-unadorned-windows-11/"><u>Clear the Clutter: Experience Unadorned Windows 11</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-review-navigating-through-google-voice-features/"><u>Comprehensive Review: Navigating Through Google Voice Features</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/enhance-your-story-game-applying-fun-sticker-themes/"><u>Enhance Your Story Game Applying Fun Sticker Themes</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/enhancing-system-responsiveness-in-windows-11-strategies-to-fix-and-prevent-latency-challenges/"><u>Enhancing System Responsiveness in Windows 11: Strategies to Fix and Prevent Latency Challenges</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-restore-corsair-icue-interface-functionality-on-the-latest-windows-operating-system/"><u>Expert Tips to Restore Corsair iCUE Interface Functionality on the Latest Windows Operating System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-starfield-comprehensive-guide-to-resolve-pc-game-crashes/"><u>Fixing Starfield: Comprehensive Guide to Resolve PC Game Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/integrating-dall-e-with-gpt-4-for-ai-driven-visuals/"><u>Integrating DALL-E with GPT-4 for AI-Driven Visuals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-starting-fallout-3-without-a-hitch-proven-fixes-and-tips-2024/"><u>Master The Art of Starting Fallout 3 Without A Hitch - Proven Fixes & Tips 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-gaming-ahead-fast-and-efficient-remedies-for-login-errors-in-fortnite/"><u>Smooth Gaming Ahead: Fast & Efficient Remedies for Login Errors in Fortnite</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-brainiac-challenge-gk-quizzes-for-2024/"><u>Ultimate Brainiac Challenge - GK Quizzes for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/unlock-your-tech-potential-mastering-macs-screen-capturing-with-just-shortcuts/"><u>Unlock Your Tech Potential Mastering Mac's Screen Capturing with Just Shortcuts</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/unveiling-the-top-six-photoshop-alternatives-that-wont-break-your-budget/"><u>Unveiling the Top Six Photoshop Alternatives That Won't Break Your Budget</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-free-online-video-editing-made-easy-a-jaycut-user-guide/"><u>Updated 2024 Approved Free Online Video Editing Made Easy A Jaycut User Guide</u></a></li>
+</ul></div>
 

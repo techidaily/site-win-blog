@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Garry's Mod Stability Issues (Updated for 2Er)"
-date: 2024-09-01T08:44:11.897Z
-updated: 2024-09-02T08:44:11.897Z
+date: 2024-11-02T19:28:28.975Z
+updated: 2024-11-07T03:04:25.860Z
 tags:
   - win11
   - win10
@@ -49,9 +49,6 @@ System requirements of WRC 10 from Steam
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify and repair the game files.
@@ -64,22 +61,30 @@ System requirements of WRC 10 from Steam
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 **To verify game files in Epic Games Launcher:**
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **WRC 10 FIA World Rally Championship** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151893/7443" target="_top" id="2151893">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151893" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151893/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If WRC 10 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -94,6 +99,14 @@ System requirements of WRC 10 from Steam
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -108,9 +121,6 @@ System requirements of WRC 10 from Steam
 
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game files, which may also crash the game.
@@ -128,30 +138,39 @@ System requirements of WRC 10 from Steam
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1484940/16446" target="_top" id="1484940">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484940" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484940/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
 
  After enabling each services, you need to restart your PC to apply the changes.
@@ -177,8 +196,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +203,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-synching-release-timings-to-audience-trends/"><u>[New] 2024 Approved Synching Release Timings to Audience Trends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/bringing-back-your-social-connection-resurrecting-a-dormant-snapchat-account-easily/"><u>Bringing Back Your Social Connection: Resurrecting a Dormant Snapchat Account Easily</u></a></li>
+<li><a href="https://win-able.techidaily.com/effortless-techniques-for-fixing-recurring-crashing-glitches-in-wow-gaming/"><u>Effortless Techniques for Fixing Recurring Crashing Glitches in WOW Gaming</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/enhance-your-artistry-mastering-clear-edges-in-photos/"><u>Enhance Your Artistry Mastering Clear Edges in Photos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/escape-from-tarkov-optimization-six-pro-tips-for-higher-frame-rates/"><u>Escape From Tarkov Optimization: Six Pro-Tips for Higher Frame Rates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-to-solving-cod-mw3s-application-stopped-working-problem/"><u>Expert Guide to Solving COD MW3's 'Application Stopped Working' Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-eliminate-stutter-and-freezing-in-your-deathloop-adventures-on-pc-and-ps5/"><u>Expert Tips to Eliminate Stutter & Freezing in Your Deathloop Adventures on PC and PS5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gamers-rejoice-as-red-dead-redemption-2-pc-version-overcomes-crashing-glitches/"><u>Gamers Rejoice as Red Dead Redemption 2 PC Version Overcomes Crashing Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-slow-load-times-in-fallout-4-expert-tips-and-tricks/"><u>How to Fix Slow Load Times in Fallout 4: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-your-escape-from-tarkov-connection-issue/"><u>How to Repair Your Escape From Tarkov Connection Issue</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-contacts-from-xiaomi-redmi-a2plus-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Contacts from Xiaomi Redmi A2+ to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-the-rise-of-facebooks-quick-vids/"><u>In 2024, The Rise of Facebook's Quick Vids</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/the-ultimate-selection-of-16-memorable-sites-brimming-with-trending-and-viral-internet-memes/"><u>The Ultimate Selection of 16 Memorable Sites Brimming with Trending & Viral Internet Memes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-for-preventing-your-gas-station-simulator-game-from-crashing-on-computer-monitor/"><u>Tips for Preventing Your Gas Station Simulator Game From Crashing on Computer Monitor</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshoot-your-astro-a1e-microphone-fixes-for-common-issues/"><u>Troubleshoot Your Astro A1e Microphone - Fixes for Common Issues</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-tips-how-to-forcefully-reset-your-iphone-and-reach-the-recovery-interface/"><u>Troubleshooting Tips: How to Forcefully Reset Your iPhone & Reach the Recovery Interface</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-non-functional-clownfish-speech-modifier/"><u>Troubleshooting Tips: Resolving Non-Functional Clownfish Speech Modifier</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-wow-playthrough-solutions-to-prevent-crashes/"><u>Troubleshooting Your Wow Playthrough: Solutions to Prevent Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/unlocking-iphone-photo-potential-discover-these-amazing-8-camera-roll-optimization-techniques/"><u>Unlocking iPhone Photo Potential: Discover These Amazing 8 Camera Roll Optimization Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Battling Bugs: Ensuring a Smooth Run of 'Tormented Souls' Across PC Platforms"
-date: 2024-09-01T08:47:27.456Z
-updated: 2024-09-02T08:47:27.456Z
+date: 2024-10-31T20:10:12.616Z
+updated: 2024-11-06T19:16:25.952Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 5. [Change priority](https://tools.techidaily.com/drivereasy/download/)
 6. [Verify the game files](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137380/7443" target="_top" id="2137380">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137380" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137380/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Switch programs & move the game to SSD
 
  This tip is from a player who figured out if his frames drop, he can use the**Alt+Tab** shortcut to switch out and back in. After that, the game starts running flawlessly.
@@ -64,8 +71,12 @@ If you got frame drops during the game for no reason, don’t worry, you’re no
 If this fix doesn’t help, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Change NVIDIA settings
 
  If you have a NVIDIA graphic card, change the NVIDIA program settings would fix the issue.
@@ -99,17 +110,14 @@ If it doesn’t help, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2006955/19272" target="_top" id="2006955">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006955" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006955/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Fix 5: Change priority
 
  Some players found changing the game priority would fix the FPS issue. Although some players said it’s a partial fix, it’s worth trying. Follow the steps below to get rid of the FPS drop issue.
@@ -119,18 +127,12 @@ No advertising on the website.
 3. Right-click on it and select**Set priority > Realtime** or**High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_16-56-17.jpg)
 4. Reboot the game and change Game Settings to**Windowed Full-Screen** mode.
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Check the FPS.
 
  Next time, check the priority settings in the Task Manager before you play. Because it sometimes changes back to Normal.
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Verify the game files
 
  Sometimes there’re some missing files that cause the FPS drop issue. You can fix it by Verify the game files.
@@ -139,9 +141,14 @@ If it’s not working, move to the next fix.
 2. Right-click on Dying Light and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-07_17-10-14.png)
 3. Click**LOCAL FILES** and click**Verify integrity of game files…**  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify.png)
 4. When the process is finished, reboot the game to check.
 
@@ -159,8 +166,6 @@ Hope this post helps and you can enjoy the game. Have fun!
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +173,16 @@ Hope this post helps and you can enjoy the game. Have fun!
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-a-guide-to-gathering-creative-themes-using-google-trends-for-2024/"><u>[New] A Guide to Gathering Creative Themes Using Google Trends for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-a-comprehensive-tutorial-on-vimeo-in-insta/"><u>2024 Approved A Comprehensive Tutorial on Vimeo in Insta</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-easy-troubleshooting-steps-to-resolve-roblox-crashes-on-your-pc/"><u>6 Easy Troubleshooting Steps to Resolve Roblox Crashes on Your PC -</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-proven-techniques-to-resolve-hogwarts-legacy-stuttering-problems-expert-advice-for-a-seamless-2024-gaming-session/"><u>6 Proven Techniques to Resolve Hogwarts Legacy Stuttering Problems - Expert Advice for a Seamless 2024 Gaming Session</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/crafting-instagram-magic-with-professional-edits-for-2024/"><u>Crafting Instagram Magic with Professional Edits for 2024</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/explore-interaction-tips-for-uploading-videos-from-twitter-snapchat/"><u>Explore Interaction Tips for Uploading Videos From Twitter (Snapchat)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-can-you-prevent-saving-slides-as-a-video-in-powerpoint/"><u>How Can You Prevent Saving Slides as a Video in PowerPoint?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-connection-issues-in-minecraft-how-to-fix-unable-to-connect-to-world/"><u>Troubleshooting Connection Issues in Minecraft: How to Fix 'Unable to Connect to World'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008124181-winwordexe-hiccups-here-are-5-effortless-fixes-for-word/"><u>WINWORD.EXE Hiccups? Here Are 5 Effortless Fixes for Word!</u></a></li>
+</ul></div>
 

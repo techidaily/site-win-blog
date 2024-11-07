@@ -1,7 +1,7 @@
 ---
 title: "Quick Solutions: Stop Chrome From Crashing on Windows 10 with These Simple Fixes"
-date: 2024-09-01T08:44:07.460Z
-updated: 2024-09-02T08:44:07.460Z
+date: 2024-11-02T03:34:22.263Z
+updated: 2024-11-07T03:29:22.750Z
 tags:
   - win11
   - win10
@@ -72,8 +72,12 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
  Try running Steam to see if it can work faster now. If Steam still works slow, there are 5 more fixes you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Clear Steam cache and cookies
 
  Over time, your PC accumulates Steam cache files and cookies. These files and cookies may affect your PC performance and cause Steam to slow down.
@@ -84,16 +88,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-789.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 **2)** Click**Steam** , and then select**Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Select**Web Browser** and click**DELETE WEB BROWSER CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
@@ -102,23 +100,14 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Click**DELETE ALL BROWSER COOKIES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-785.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **7)** Select**Downloads,** and then click**CLEAR DOWNLOAD CACHE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-781.png)
@@ -126,6 +115,13 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 **8)** Click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-780.png)
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484951/16446" target="_top" id="1484951">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484951" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484951/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **9)** **Restart** Steam.
 
@@ -145,9 +141,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-17_12-11-59-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the**Update** button next to the driver you need to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -163,9 +156,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 If your problem persists, then move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable auto proxy settings
 
  Incorrect proxy settings can cause connection issues such as slow webpage load speed.**For those who don’t use a proxy at all** , follow the instructions below to disable the automatic detection of a proxy service to see if that fixes your issue.
@@ -176,9 +166,6 @@ If your problem persists, then move on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-806.png)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click**Internet Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
@@ -197,9 +184,6 @@ If your problem persists, then move on and try the fix below.
 
 If this didn’t resolve your problem, move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair the Steam service
 
  Corrupt or missing Steam files may also Steam performance issues. To fix it, you’ll need to verify Steam files. Here is how:
@@ -214,6 +198,13 @@ If this didn’t resolve your problem, move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_17-44-26.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1959773/19272" target="_top" id="1959773">
+  <img src="//a.impactradius-go.com/display-ad/19272-1959773" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959773/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Restart Steam to test your issue.
 
 If your issue continues to occur, then move on to the next fix below.
@@ -227,11 +218,22 @@ If your issue continues to occur, then move on to the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-766.png)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1997662/19272" target="_top" id="1997662">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997662" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997662/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back up it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-768-1024x724.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
@@ -245,33 +247,45 @@ If your issue continues to occur, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-772.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135412/19272" target="_top" id="2135412">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135412" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135412/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **6)** Right-click**Steam** , and then click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-771.png)
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aidotcom.pxf.io/c/5597632/2134500/19576" target="_top" id="2134500">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134500" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134500/19576" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **7)** Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-769.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
 
 **9)** Right-click**the Steam icon** and select**Open file location** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-766.png)
 
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **10)** Move the backup**steamapps** folder you create before to your current directory location. Then, restart Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-764.png)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Hopefully, this article helped in speeding up Steam! If you have any questions or suggestions, please feel free to leave a comment below.
 
 * [Steam](https://tools.techidaily.com/drivereasy/download/)
@@ -285,8 +299,6 @@ If your issue continues to occur, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +306,21 @@ If your issue continues to occur, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-expert-tips-efficiently-download-igtv-on-windows-and-macos/"><u>[New] In 2024, Expert Tips Efficiently Download IGTV on Windows & MacOS</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/n-2024-the-importance-of-channel-consistency-on-youtube/"><u>[New] In 2024, The Importance of Channel Consistency on YouTube</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-mastering-content-capture-5-must-have-social-apps/"><u>[Updated] 2024 Approved Mastering Content Capture 5 Must-Have Social Apps</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-from-social-networks-to-personal-messages-twitchs-journey-through-whatsapp/"><u>2024 Approved From Social Networks to Personal Messages Twitch's Journey Through WhatsApp</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-for-dragon-age-origins-stability-problems-on-windows-11-released/"><u>Fix for 'Dragon Age: Origins' Stability Problems on Windows 11 Released</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ghostrunner-malfunction-in-windows-10-causes-and-solutions-revealed/"><u>Ghostrunner Malfunction in Windows 10: Causes and Solutions Revealed</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-delving-deep-youtubes-revenue-system-from-publisher-to-you/"><u>In 2024, Delving Deep YouTube's Revenue System From Publisher to You</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-2024-approved-from-clip-to-cohesive-mastering-color-in-fcp/"><u>New 2024 Approved From Clip to Cohesive Mastering Color in FCP</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-addressing-non-functional-msi-mystic-light-devices-under-windows/"><u>Solution Guide: Addressing Non-Functional MSI Mystic Light Devices Under Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-wwe-2k20s-stability-issues-on-your-computer-effortlessly/"><u>Solving WWE 2K20's Stability Issues on Your Computer Effortlessly</u></a></li>
+<li><a href="https://win-special.techidaily.com/step-by-step-guide-converting-maharashtra-raat-performances-into-multiple-formats-mp4-mov-mp3/"><u>Step-by-Step Guide: Converting Maharashtra Raat Performances Into Multiple Formats (MP4, MOV, MP3)</u></a></li>
+<li><a href="https://app-tips.techidaily.com/top-desktop-distributions-reviewed-why-linux-mint-22-stands-out-above-the-rest/"><u>Top Desktop Distributions Reviewed - Why Linux Mint 22 Stands Out Above the Rest</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-resolving-google-chrome-not-opening-problems/"><u>Troubleshooting Guide for Resolving Google Chrome Not Opening Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-how-to-fix-the-issue-with-robocop-rogue-city-failure-to-start-on-windows/"><u>Troubleshooting Steps: How to Fix the Issue with 'Robocop: Rogue City' Failure to Start on Windows</u></a></li>
+</ul></div>
 

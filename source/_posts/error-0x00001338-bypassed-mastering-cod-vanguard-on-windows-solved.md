@@ -1,7 +1,7 @@
 ---
 title: "Error 0X00001338 Bypassed: Mastering CoD Vanguard on Windows - Solved"
-date: 2024-09-01T08:48:45.012Z
-updated: 2024-09-02T08:48:45.012Z
+date: 2024-11-04T03:16:30.646Z
+updated: 2024-11-07T05:35:53.537Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 
  You can change the operator skin by selecting a default one. The operator skin is the major cause of this error code, and you shall be playing the game without any error codes when you use the base skin.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2\. Clear the game cache
 
  If you’re still running into Vanguard error codes, it might be caused by your game cache. A quick fix is to delete the “Players” folder. Here’s how:
@@ -49,8 +46,12 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 ![open program data folder](https://images.drivereasy.com/wp-content/uploads/2021/11/image-10.png)
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Navigate to**Blizzard Entertainment** \>**Battle.net** \>**Cache**
 `(C:\ProgramData\Blizzard Entertainment\Battle.net\Cache)`
 
@@ -74,19 +75,28 @@ We have been receiving a lot of complaints about the[Vanguard Dev error 5573](ht
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144280/7443" target="_top" id="2144280">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144280" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144280/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your drivers, restart your PC and test the gameplay.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2082530/7443" target="_top" id="2082530">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082530" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082530/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5\. Revert to DX11
 
  One reason for the Call of Duty Vanguard in-game error code 0x00001338 N is DirectX 12\. The game uses DX12 by default and doesn’t have any option in-game to change it to DirectX 11\. Here’s how to force revert back to DX11 manually:
@@ -97,9 +107,6 @@ After updating your drivers, restart your PC and test the gameplay.
 
 ![set lauch options](https://images.drivereasy.com/wp-content/uploads/2021/11/image-11-1200x639.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Launch CoD Vanguard and test the gameplay.
 
 ### Fix 6\. Disable in-game overlays
@@ -143,9 +150,6 @@ Launch CoD Vanguard and test the gameplay.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -163,8 +167,12 @@ Launch CoD Vanguard and test the gameplay.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2087234/19272" target="_top" id="2087234">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087234" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087234/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Click**Yes** when prompted for permission to make changes to your device.
 
  2) In the Command Prompt, type the following command and hit**Enter** .
@@ -174,6 +182,13 @@ sfc /scannow
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) You may receive something like the following messages after the verification.
 
@@ -224,8 +239,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +246,23 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-blueprints-to-locate-top-tier-videographers/"><u>[New] Blueprints to Locate Top-Tier Videographers</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-mastering-the-shift-to-macos-11-big-sur/"><u>[New] Mastering the Shift to macOS 11 Big Sur</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-crafting-the-quintessential-thumbnails-for-live-video-success/"><u>[Updated] 2024 Approved Crafting the Quintessential Thumbnails for Live Video Success</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-step-by-step-guide-to-smooth-facetime-calls-on-mobile/"><u>[Updated] Step-by-Step Guide to Smooth FaceTime Calls on Mobile</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-bridging-the-time-gap-in-social-storytelling-on-fb-pcmobile/"><u>2024 Approved Bridging the Time Gap in Social Storytelling on FB, PC/Mobile</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722998298963-accelerate-origin-syncing-expert-tips-to-skyrocket-download-speeds-now/"><u>Accelerate Origin Syncing - Expert Tips to Skyrocket Download Speeds Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009993501-god-of-war-not-working-overcome-inadequate-memory-error-here/"><u>God of War Not Working? Overcome 'Inadequate Memory' Error Here</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ideal-fps-levels-in-slow-motion-cinema-for-2024/"><u>Ideal FPS Levels in Slow Motion Cinema for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-iphone-13-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your iPhone 13 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-challenges-with-the-ffxiv-version-compatibility-test/"><u>Overcoming Challenges with the FFXIV Version Compatibility Test</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-gta-5-stability-issues-and-how-to-fix-game-crashes/"><u>Resolved: GTA 5 Stability Issues and How to Fix Game Crashes</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolving-issues-with-non-updating-iphone-mail-a-step-by-step-guide/"><u>Resolving Issues with Non-Updating iPhone Mail: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-silent-pcs-in-fallout-4-a-step-by-step-guide/"><u>Troubleshooting Silent PCs in Fallout 4: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011080943-troubleshooting-steps-for-persistent-crashes-in-necromunda-hired-gun-pc-gaming-woes-solved/"><u>Troubleshooting Steps for Persistent Crashes in Necromunda: Hired Gun - PC Gaming Woes Solved!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unveiling-the-best-android-and-ios-apps-for-monitoring-big-day-timers-for-2024/"><u>Unveiling the Best Android & iOS Apps for Monitoring Big Day Timers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-the-google-app-ensure-that-you-have-the-latest-version-of-the-google-app-installed-on-your-device-go-to-the-play-store-search-for-google-and-update-i415/"><u>Update the Google App: Ensure that You Have the Latest Version of the Google App Installed on Your Device. Go to the Play Store, Search for Google, and Update if Necessary.</u></a></li>
+</ul></div>
 

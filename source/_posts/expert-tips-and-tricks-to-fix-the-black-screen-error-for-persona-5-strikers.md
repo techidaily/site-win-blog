@@ -1,7 +1,7 @@
 ---
 title: Expert Tips and Tricks to Fix the Black Screen Error for Persona 5 Strikers
-date: 2024-09-01T08:47:07.219Z
-updated: 2024-09-02T08:47:07.219Z
+date: 2024-10-31T01:19:05.939Z
+updated: 2024-11-07T06:30:28.062Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ There’re things you can do before trying complicated fixes:
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
@@ -43,16 +40,17 @@ There’re things you can do before trying complicated fixes:
 2. Right-click on the shortcut and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Install Windows updates
 
@@ -61,18 +59,22 @@ If it’s not working, move to the next fix.
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
@@ -95,8 +97,12 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
@@ -116,8 +122,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +129,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-tailored-strategies-for-free-clock-usage-optimization/"><u>[New] Tailored Strategies for FREE Clock Usage Optimization</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-pros-guide-to-documenting-your-online-facebook-interactions-for-2024/"><u>[New] The Pro's Guide to Documenting Your Online Facebook Interactions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bid-farewell-to-lag-the-ultimate-guide-to-resolving-pathfinder-wrath-of-the-righteous-pc-issues/"><u>Bid Farewell to Lag: The Ultimate Guide to Resolving Pathfinder: Wrath of the Righteous PC Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-regain-access-to-your-steam-friends-after-an-unreachable-error/"><u>How to Regain Access to Your Steam Friends After an Unreachable Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-dragon-age-origins-from-crashing-on-your-windows-10-pc/"><u>How to Stop Dragon Age: Origins From Crashing on Your Windows 10 PC</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-iphone-14-pro-max-without-passcode-or-face-id-by-drfone-ios/"><u>How to Unlock iPhone 14 Pro Max without Passcode or Face ID</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-secure-and-seamless-file-sharing-with-20-preferred-no-fee-services/"><u>In 2024, Secure & Seamless File Sharing with 20 Preferred No-Fee Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-tactics-against-battlefront-ii-crashes-on-personal-computers-a-complete-guide/"><u>Master Tactics Against 'Battlefront II' Crashes on Personal Computers - A Complete Guide</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/new-in-2024-finding-bell-sound-effects-with-natural-echoes/"><u>New In 2024, Finding Bell Sound Effects with Natural Echoes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-resolved-fixes-for-reducing-fps-dips-in-resident-evil-village-pc/"><u>Optimizing [RESOLVED]: Fixes for Reducing FPS Dips in Resident Evil Village (PC)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/revolutionary-mobile-app-transforms-bathroom-visits-into-comprehensive-health-assessments-the-tech-trend/"><u>Revolutionary Mobile App Transforms Bathroom Visits Into Comprehensive Health Assessments - The Tech Trend</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-resolve-discord-not-launching-issue/"><u>Solved: How to Resolve 'Discord Not Launching' Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-mystery-of-halo-3-sudden-shutdowns-while-playing-on-pc/"><u>Solving the Mystery of Halo 3 Sudden Shutdowns While Playing on PC</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/strategies-for-penning-persuasive-vlogger-content-for-2024/"><u>Strategies for Penning Persuasive Vlogger Content for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/techniques-to-switch-off-microsofts-assistant/"><u>Techniques to Switch Off Microsoft's Assistant</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-access-violation-bugs-in-civilization-vi-what-you-need-to-know-for-the-2024-fix/"><u>Troubleshooting Access Violation Bugs in Civilization VI - What You Need to Know for the 2024 Fix</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-and-setting-up-handbrake-for-smooth-video-conversion-in-windows-11/"><u>Troubleshooting and Setting Up HandBrake for Smooth Video Conversion in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steams-secure-contents-lock-error-effectively/"><u>Troubleshooting Steam's Secure Contents Lock Error Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-brings-relief-solving-the-constant-pc-freezing-glitch-in-century-age-of-ashes/"><u>Update Brings Relief: Solving the Constant PC Freezing Glitch in 'Century: Age of Ashes'</u></a></li>
+</ul></div>
 

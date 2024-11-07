@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Resolving Battlefield 2042 PC Performance Issues
-date: 2024-09-01T08:45:14.678Z
-updated: 2024-09-02T08:45:14.678Z
+date: 2024-11-02T07:20:58.171Z
+updated: 2024-11-07T01:54:24.676Z
 tags:
   - win11
   - win10
@@ -58,11 +58,15 @@ Below are a few common overlays and how to disable them.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Game Overlay** on the navigation bar and switch **Enable in-game overlay** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-overlay.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 #### Twitch
 
 1. Open your Twitch studio. Then click on your profile at the top right and select**Settings** .  
@@ -73,13 +77,21 @@ Below are a few common overlays and how to disable them.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Twitch-in-game-overlay.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After disabling overlays, launch Battlefield 2042 and it should run smoothly.
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094422/7443" target="_top" id="2094422">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094422" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094422/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Update your graphics driver
 
  When you encounter performance issues with your game, it’s high time you consider if you’re using an outdated graphics driver. Outdated drivers can introduce compatibility issues.
@@ -88,9 +100,6 @@ Below are a few common overlays and how to disable them.
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -101,9 +110,6 @@ Below are a few common overlays and how to disable them.
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ### Option 2 – Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience or computer skills to update your network adapter driver manually, you can, instead, do it**automatically** with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct drivers for your exact device, and your Windows version, and it will download and install them correctly:
@@ -114,13 +120,40 @@ Below are a few common overlays and how to disable them.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/1013424/11832" target="_top" id="1013424">
+  <img src="//a.impactradius-go.com/display-ad/11832-1013424" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1013424/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
 ![Download & Update NVIDIA GeForce RTX 3080 Ti driver](https://images.drivereasy.com/wp-content/uploads/2021/06/Download-Update-NVIDIA-GeForce-RTX-3080-Ti-driver.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1498635">
+					<video width="320" height="320" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1498635.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17326-1498635">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1498635.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:200px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fancheer.sjv.io%2Fc%2F5597632%2F1498635%2F17326'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1498635/17326" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC for the changes to take full effect. If you still have FPS drops and stuttering issues, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948881/19272" target="_top" id="1948881">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948881" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948881/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Enable hardware-accelerated GPU scheduling
 
@@ -133,14 +166,21 @@ Below are a few common overlays and how to disable them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings-1.jpg)
 3. Toggle**On** Hardware-accelerated GPU scheduling.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 4. Also make sure you’ve selected**Desktop app** . Then click on the**Browse** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1977032">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977032.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977032">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977032.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977032%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977032/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/graphics-settings.png)
@@ -151,9 +191,6 @@ Below are a few common overlays and how to disable them.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/options-button.png)
 7. Select**High Performance** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/high-performance.png)
 
@@ -161,15 +198,8 @@ Below are a few common overlays and how to disable them.
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/browse-local-file.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After this, restart your computer to make sure it’s applied. Then test your gameplay. If disabling hardware-accelerated GPU scheduling doesn’t make any difference, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ## 5\. Delete the cache for the game
 
  Some players reported on Reddit that deleting the game cache helped them reduce the in-game stutters. So you can give it a try and see how it works.
@@ -181,9 +211,6 @@ Below are a few common overlays and how to disable them.
 
 If this doesn’t do the trick, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## 6\. Tweak in-game settings
 
  For some reason, settings by default may not always give you the best result. To make sure you can enjoy Battlefield 2042 to the fullest on your own computer, adjust the following in-game settings:
@@ -192,6 +219,13 @@ If this doesn’t do the trick, try the next fix below.
 * Vertical sync:**OFF**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/disable-vertical-sync-and-future-frame-rendering.png)
+
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  After applying the changes, relaunch your game and you should be able to gain a better performance without noticeable FPS drops and stutters.
 
@@ -205,8 +239,6 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +246,26 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/iche-networking-smaller-bizs-video-strategies/"><u>[New] Niche Networking Smaller Biz's Video Strategies</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-earnings-analysis-youtube-views-vs-financial-gain/"><u>[Updated] In 2024, Earnings Analysis YouTube Views vs Financial Gain</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-instagram-influence-without-compromise/"><u>[Updated] In 2024, Instagram Influence Without Compromise</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-making-your-mark-with-video-content-in-captivate/"><u>[Updated] In 2024, Making Your Mark with Video Content in Captivate</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-insight-into-quadcopters-functionality-uncovered/"><u>2024 Approved Insight Into Quadcopters Functionality Uncovered</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2s-battle-with-vegetables-april-2024-fix-for-infamous-broccoli-bug/"><u>Destiny 2'S Battle with Vegetables: April 2024 Fix for Infamous Broccoli Bug</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/discover-the-easy-way-enabling-the-hidden-file-navigator-tool-on-your-computer/"><u>Discover the Easy Way: Enabling the Hidden File Navigator Tool on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fix-battlefield-5-wont-launch-issue-2024-guide/"><u>Easy Fix Battlefield 5 Won’t Launch Issue – 2024 Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-to-stop-bloodhunt-from-crashing-or-stuttering-on-your-computer/"><u>Easy Fixes to Stop Bloodhunt From Crashing or Stuttering on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/five-essential-fixes-for-overcoming-the-cannot-connect-to-steam-account-issue-on-csgo/"><u>Five Essential Fixes for Overcoming the 'Cannot Connect to Steam Account' Issue on CS:GO</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-unleashing-potential-the-best-seo-practices-for-your-youtube-videos/"><u>In 2024, Unleashing Potential The Best SEO Practices for Your YouTube Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-overcoming-the-frequent-crash-issue-in-immortals-of-fenyx-rising/"><u>Mastering Stability: Overcoming the Frequent Crash Issue in Immortals of Fenyx Rising</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-gaming-alert-eradicating-delays-in-fortnite-once-and-for-all/"><u>Smooth Gaming Alert: Eradicating Delays in Fortnite Once and For All!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-good-the-bad-how-chatgpt-impacts-creativity-and-writing-skills/"><u>The Good, the Bad: How ChatGPT Impacts Creativity and Writing Skills</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-5-solar-powered-presents-perfect-for-eco-friendly-celebrations-zdnet/"><u>Top 5 Solar-Powered Presents Perfect for Eco-Friendly Celebrations - ZDNET</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-steps-for-a-nonfunctional-microphone-on-windows-11/"><u>Troubleshooting Steps for a Nonfunctional Microphone on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-preventing-constant-failures-in-nox-player-for-pc-users/"><u>Ultimate Guide to Preventing Constant Failures in Nox Player for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-ultimate-achievements-in-mass-effect-legendary-edition-a-guide-to-top-fps-drops/"><u>Unlock the Ultimate Achievements in Mass Effect Legendary Edition: A Guide to Top FPS Drops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-visual-excellence-swift-strategies-for-tuning-shaders-in-star-wars-battlefront-ii/"><u>Unlocking Visual Excellence: Swift Strategies for Tuning Shaders in Star Wars Battlefront II</u></a></li>
+</ul></div>
 

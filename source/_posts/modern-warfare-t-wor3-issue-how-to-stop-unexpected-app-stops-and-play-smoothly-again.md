@@ -1,7 +1,7 @@
 ---
 title: "Modern Warfare T WoR3 Issue: How to Stop Unexpected App Stops & Play Smoothly Again"
-date: 2024-09-01T08:51:07.891Z
-updated: 2024-09-02T08:51:07.891Z
+date: 2024-11-05T22:52:59.411Z
+updated: 2024-11-07T03:43:10.227Z
 tags:
   - win11
   - win10
@@ -59,18 +59,27 @@ Here are the requirements for RoboCop: Rogue City for your reference:
 2. Select **Gaming** , and make sure that the toggle for **Game Mode** is set to **On** . Then click the **Graphics** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-57.png)
 3. Select **RoboCop: Rogue City** or **Steam** from the list of apps, and select **High performance** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144309/7443" target="_top" id="2144309">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144309/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-56.png)
 4. Then click **Change default graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-59.png)
 5. Make sure that the toggles for **Hardware-accelerated GPU scheduling**  and **Optimizations for windowed games** are both set to **On** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-60.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137202/26400" target="_top" id="2137202">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137202" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137202/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Run RoboCop: Rogue City now to see if it launches well. Some also mentioned that turning off Hardware-accelerated GPU scheduling helps RoboCop: Rogue City to launch. So you can try this too to see if it works for you.
 
  If RoboCop: Rogue City still refuses to launch, please move on to the next fix, below.
@@ -82,6 +91,13 @@ Here are the requirements for RoboCop: Rogue City for your reference:
  An outdated or incorrect display card driver could also be the culprit to your RoboCop: Rogue City not launching problem, so if the above two methods don’t help RoboCop: Rogue City to launch, it’s likely that you have a corrupted or outdated graphics driver. So you should update your drivers to see if it helps.
 
  There are mainly 2 ways you can update your graphics driver: manually or automatically.
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Update your graphics driver manually
 
@@ -105,11 +121,14 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-1.png)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
@@ -119,9 +138,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Verify game files
 
  When a game refuses to launch on Steam, you can always try to verify the game files to make sure that the problem is not caused by faulty or corrupted game files. To do so:
@@ -131,15 +147,21 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 3. Select the**Installed Files** tab and click on the**Verified integrity of game files** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 4. Steam will then verify the game’s files – this process may take several minutes.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<span id="1531879">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1531879.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1531879">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1531879.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1531879%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1531879/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  When the verification is done, try to launch RoboCop: Rogue City again. If it’s still not launching, please move on.
@@ -159,8 +181,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135407/19272" target="_top" id="2135407">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135407" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135407/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Run Steam as admin
 
  It’s also possible that lacking certain system permissions is stopping Steam and RoboCop: Rogue City from running properly. To make sure that this is not why your RoboCop: Rogue City doesn’t launch, you can run Steam and RoboCop: Rogue City as administrator so as to give them all the privileges they may need to run. To do so:
@@ -169,11 +195,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-56.png)
 2. Select the **Compatibility**  tab. Tick the box for **Run this program as an administrator** . Then click **Apply > OK**  to save the changes.  
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-57.png)
 3. Then tick the box for **Run this program in compatibility mode for:**  then select **Windows 8** from the dropdown list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-58.png)
 
  Now open Steam and RoboCop: Rogue City again (it should be opened with administrative permission), to see if it launches well. If the problem still remains, please move on to the next fix.
@@ -190,19 +220,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. On your keyboard, press the **Windows** key and the **R** key together. Type **regedit** and hit **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-27.png)
 3. Go to the following location: ``**Computer\HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\`GraphicsDrivers`**``  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-87.png)
 4. On the right side, right-click the empty area and select **New > DWORD (32-bit) Value** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-88.png)
 5. Name the new entry **TdrLevel** , then double-click it and make sure that its **Value data** is**0** . Click OK to save.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-89.png)
 6. Restart your computer for the change to take effect.
 
@@ -220,8 +249,6 @@ Then see if RoboCop: Rogue City can launch now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -229,4 +256,21 @@ Then see if RoboCop: Rogue City can launch now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-a-deep-dive-into-luts-for-image-enhancement-for-2024/"><u>[New] A Deep Dive Into LUTs for Image Enhancement for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-insider-strategies-free-access-to-professional-imagery/"><u>[New] Insider Strategies Free Access to Professional Imagery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-natural-luminescence-in-home-interiors-simple-steps/"><u>[New] Natural Luminescence in Home Interiors Simple Steps</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-essential-5-online-video-capture-apps/"><u>[Updated] 2024 Approved Essential 5 Online Video Capture Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diablo-3-stability-issues-resolved-no-more-game-crashes/"><u>Diablo 3 Stability Issues Resolved: No More Game Crashes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dragons-dogma-2-performance-issues-solve-lag-frame-drops-and-hiccups/"><u>Dragon's Dogma 2 Performance Issues? Solve Lag, Frame Drops & Hiccups</u></a></li>
+<li><a href="https://games-able.techidaily.com/fixing-non-starting-display-drivers-in-win1011-oses/"><u>Fixing Non-Starting Display Drivers in Win10/11 OSes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-troubleshoot-a-frozen-minecraft-game-on-windowspc/"><u>How to Troubleshoot a Frozen Minecraft Game on Windows/PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-game-without-interruptions-addressing-pc-crash-issues-in-recent-video-game-releases/"><u>Master the Game Without Interruptions: Addressing PC Crash Issues in Recent Video Game Releases</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcome-apex-legends-glitches-in-depth-solutions-for-smoother-playing-experience/"><u>Overcome Apex Legends Glitches: In-Depth Solutions for Smoother Playing Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-failures-of-the-intel-support-and-driver-software/"><u>Overcoming Launch Failures of the Intel Support and Driver Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-and-easy-iphone-screen-recording-tutorial-for-2024/"><u>Quick & Easy IPhone Screen Recording Tutorial for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/startup-hiccups-for-atomic-heart-gamers-identifying-problems-and-implementing-solutions/"><u>Startup Hiccups for Atomic Heart Gamers: Identifying Problems & Implementing Solutions</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/which-artifice-inteligence-excels-chatgpt-or-gemini-for-programming/"><u>Which Artifice Inteligence Excels - ChatGPT or Gemini for Programming?</u></a></li>
+</ul></div>
 

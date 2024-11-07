@@ -1,7 +1,7 @@
 ---
 title: "Total War: Three Kingdoms Stability Improvements - No More Crashes"
-date: 2024-09-01T08:45:51.133Z
-updated: 2024-09-02T08:45:51.133Z
+date: 2024-11-05T01:04:11.014Z
+updated: 2024-11-07T02:52:55.077Z
 tags:
   - win11
   - win10
@@ -33,6 +33,13 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2047411/19272" target="_top" id="2047411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047411" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by restarting, it never hurts to restart your computer and your game. Often this will be enough to fix your GTA 5 crashing issue.
@@ -48,6 +55,13 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
  If you’re CPU is overheating,**clean out your computer case** and guarantee a**proper ventilation** . You can shut down your computer for a while until it’s getting cool and able to process normally.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972679/19272" target="_top" id="1972679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update graphics card driver
 
@@ -65,28 +79,22 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 2. Run Driver Easy and click**Scan Now** . Driver Easy will detect the problem drivers in your system.  
 ![](https://www.drivereasy.com/wp-content/uploads/2017/03/Driver-Easy-Scan-Needed.jpg)
 3. Click**Update** button next to the driver name to download the correct graphics card driver (you can do that with the**FREE** version), then install it on your computer.  
+
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the problem drivers (you can do that with **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you will be prompted to upgrade when you click**Update All** ).  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 4. Restart your computer and launch GTA 5 to see if it works.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 
  This should fix your problem. If not, don’t worry. There is something else to try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 4: Set graphics settings to Normal
 
  The proper graphics settings in GTA 5 can optimize the performance and help run your game faster. To fix the crashing issues in your computer, you can try lowering the graphics settings in your game. Here’s what you need to do:
@@ -95,9 +103,6 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
 2. Click**Graphics** and scroll down.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba351a0e7086.jpg)
 3. Set these settings to**Normal** :  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **Texture Quality**  
 **Shader Quality**  
 **Shadow Quality**  
@@ -105,8 +110,12 @@ thumbnail: https://thmb.techidaily.com/33f7a6674447c8f7173ff1c687707de6ab2b192d4
  **Grass Quality**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3516a59b02.jpg)
 4. Save your settings and try GTA 5 again.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -121,10 +130,6 @@ To do so:
 2. Click**Graphics** and scroll down. Find**VSync** and turn it**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3522a38573.jpg)  
  If it’s already**ON** , try turning it**OFF** , then restart your game and**turn VSync** **on** again.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 3. Restart your PC and GTA 5 again to see if it works.
 
 ---
@@ -140,8 +145,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +152,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-guidance.techidaily.com/new-saving-linkedin-videos-made-easy-with-this-6-app-selection-guide/"><u>[New] Saving LinkedIn Videos Made Easy with This 6-App Selection Guide</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-the-ultimate-guide-to-swift-periscope-broadcasting/"><u>[New] The Ultimate Guide to Swift Periscope Broadcasting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-transform-your-facebook-presence-with-dynamic-slideshows/"><u>[New] Transform Your Facebook Presence with Dynamic Slideshows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-hitman-3-not-launching-on-pc/"><u>[SOLVED] Hitman 3 Not Launching on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-solutions-for-the-recurring-issue-of-warno-keeps-crashing-on-your-desktop/"><u>Common Solutions for the Recurring Issue of WARNO Keeps Crashing on Your Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-guide-overcoming-nvidias-geforce-error-code-0x0003-challenge/"><u>Complete Guide: Overcoming Nvidia's GeForce Error Code 0X0003 Challenge</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-snap-camera-issues-why-no-camera-input/"><u>Dealing with Snap Camera Issues: Why No Camera Input?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-lava-blaze-2-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Lava Blaze 2 to Outlook | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-change-location-on-yik-yak-for-your-apple-iphone-11-pro-max-to-enjoy-more-fun-drfone-by-drfone-virtual-ios/"><u>In 2024, Change Location on Yik Yak For your Apple iPhone 11 Pro Max to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-looms-lens-sharpen-your-recording-skills/"><u>In 2024, Loom's Lens Sharpen Your Recording Skills</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-top-tips-for-zooming-in-on-superior-skype-meetings/"><u>In 2024, Top Tips for Zooming in on Superior Skype Meetings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outriders-visual-clarity-enhanced-resolving-blurry-issues/"><u>Outriders Visual Clarity Enhanced - Resolving Blurry Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcoming-failed-connection-in-your-steam-client/"><u>Resolved: Overcoming 'Failed Connection' In Your Steam Client</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722988994049-rocket-league-stability-issues-learn-how-to-prevent-app-crashes-now/"><u>Rocket League Stability Issues? Learn How to Prevent App Crashes Now</u></a></li>
+<li><a href="https://common-error.techidaily.com/speedy-solutions-tackling-slow-response-times-on-your-keyboard/"><u>Speedy Solutions: Tackling Slow Response Times on Your Keyboard</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-to-get-granblue-fantasy-relink-feature-working-smoothly-again/"><u>Step-by-Step Solutions to Get Granblue Fantasy ReLink Feature Working Smoothly Again</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/two-ways-to-sync-contacts-from-realme-12-5g-to-gmail-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Two Ways to Sync Contacts from Realme 12 5G to Gmail | Dr.fone</u></a></li>
+</ul></div>
 

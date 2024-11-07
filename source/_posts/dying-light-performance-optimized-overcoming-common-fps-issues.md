@@ -1,7 +1,7 @@
 ---
 title: "Dying Light Performance Optimized: Overcoming Common FPS Issues"
-date: 2024-09-01T08:48:42.017Z
-updated: 2024-09-02T08:48:42.017Z
+date: 2024-11-06T01:11:41.353Z
+updated: 2024-11-07T00:43:45.404Z
 tags:
   - win11
   - win10
@@ -42,8 +42,12 @@ The outdated or broken graphics driver may also lag the game.
  If you don’t remember when was the last time you updated your drivers, definitely do it now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -76,10 +80,22 @@ The outdated or broken graphics driver may also lag the game.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -99,18 +115,41 @@ The outdated or broken graphics driver may also lag the game.
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![run dialog control panel](https://images.drivereasy.com/wp-content/uploads/2019/09/run-dialog-control-panel.jpg)
 2. View Control Panel by**Large icons** .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![view control panel bycategory](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel-category.jpg)
 3. Click**NVIDIA Control Panel** to open it.  
 ![Nvidia-control-panel](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvidia-control-panel.jpg)
 4. Click**3D Settings** and select**Adjust image settings with preview** . Then select**Use my preference emphasizing** and**drag the slider to the left** .  
+
+<!-- affiliate ads begin -->
+<a href="https://review-au.sjv.io/c/5597632/2098704/14409" target="_top" id="2098704">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098704" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098704/14409" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![Nvida-control-panel-3D-settings](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvida-control-panel-3D-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<span id="1374819">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1374819.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1374819">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1374819.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1374819%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1374819/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Lower the in-game graphics settings
 
 1. Launch Dying Light and modify the following in-game video settings:  
@@ -146,21 +185,12 @@ See if the game lag issue persists. If not, try the next fix, below.
 3. In the window that pops up, click**SET LAUNCH OPTIONS…** under the**GENERAL** tab.  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options.jpg)
 4. Copy and paste the commands below and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `-nologos -high -useallavailablecores`  
 ![Steam set launch options 1](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options-1.jpg)
 5. Save these steam settings and run the game.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  See if this fix reduces the lags in-game. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## Fix 5: Set process affinity for DyingLightGame.exe
 
  Some players reported that they fixed the Dying Light lag issue by setting process affinity for DyingLightGame.exe. If you haven’t tried this fix yet, just give it a shot.
@@ -172,14 +202,14 @@ See if the game lag issue persists. If not, try the next fix, below.
 5. **Right-click** on**DyingLightGame.exe** and select**Set affinity** .  
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager.jpg)
 6. **Check CPU 0** and**uncheck the rest** . (The game will freeze in the background, but don’t worry)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager-1.jpg)
 7. If the Affinity window closes, right-click on**DyingLightGame.exe** and open it again, then re-enable. The game will start running again as before.
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137220/26400" target="_top" id="2137220">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137220" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137220/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  See if the game runs more smoothly than before. If this fix still didn’t work, try reinstalling the game. Normally, after reinstalling the game, you’ll be able to fix the crashing issue.
@@ -197,8 +227,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +234,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-developing-intriguing-video-segments-for-channels-for-2024/"><u>[New] Developing Intriguing Video Segments for Channels for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-in-2024-incorporating-vimeo-videos-seamlessly-in-microsoft-slides/"><u>[New] In 2024, Incorporating Vimeo Videos Seamlessly in Microsoft Slides</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-ways-to-resolve-chrome-stalling-issues-on-windows-11/"><u>Easy Ways to Resolve Chrome Stalling Issues on Windows 11</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exclusive-reveal-the-most-exceptional-magsafe-wallet-not-by-appleanker-at-a-steep-discount/"><u>Exclusive Reveal: The Most Exceptional MagSafe Wallet (Not by Apple/Anker) at a Steep Discount</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-overcoming-launch-problems-in-resident-evil-5-for-windows-users/"><u>Expert Tips for Overcoming Launch Problems in Resident Evil #5 for Windows Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/exploring-basic-math-in-the-russian-language/"><u>Exploring Basic Math in the Russian Language</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/free-mp3-download-apps-compatible-with-android-ios-and-windows-phones/"><u>Free MP3 Download Apps Compatible with Android, iOS & Windows Phones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-i-fixed-persistent-league-of-legends-connectivity-errors/"><u>How I Fixed Persistent League of Legends Connectivity Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-troubleshooting-device-malfunctions-secure-stability-today/"><u>Master the Art of Troubleshooting Device Malfunctions: Secure Stability Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastery-guide-resolving-gtfo-issues-for-smoother-gameplay-and-better-graphics/"><u>Mastery Guide: Resolving GTFO Issues for Smoother Gameplay and Better Graphics</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/maximizing-your-pcs-potential-a-step-by-step-guide-to-flattening-windows-11-and-boosting-speed/"><u>Maximizing Your PC's Potential: A Step-by-Step Guide to Flattening Windows 11 and Boosting Speed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-connection-issues-between-steam-client-and-server/"><u>Resolved: Fixes for Connection Issues Between Steam Client and Server</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-evolution-of-dall-e-c-newly-added-editing-functionality-calls-for-refinements/"><u>The Evolution of DALL-E C: Newly Added Editing Functionality Calls for Refinements</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transformez-vos-fichiers-jpg-au-format-jpeg-sans-frais-via-lapplication-en-ligne-de-moovavi/"><u>Transformez Vos Fichiers JPG Au Format JPEG Sans Frais via L'application en Ligne De Moovavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-halo-infinite-errors-no-server-response-received/"><u>Troubleshooting Halo Infinite Errors: No Server Response Received</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Sons of Heavenwood PC Game Crashes: A Step-by-Step Guide"
-date: 2024-09-01T08:45:21.112Z
-updated: 2024-09-02T08:45:21.112Z
+date: 2024-10-31T01:55:16.474Z
+updated: 2024-11-06T19:36:16.163Z
 tags:
   - win11
   - win10
@@ -45,6 +45,13 @@ To check the specs of your PC:
 
  If your PC fails to meet any one of these requirements, you may need to update your system or upgrade your components.
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## How to fix Scavengers Crashing on PC
 
  Here are six fixes that have helped other players resolve the Scavengers crashing on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -55,6 +62,13 @@ To check the specs of your PC:
 * **[Fix 4: Update DirectX](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 5: Close background apps](https://tools.techidaily.com/drivereasy/download/)**
 * **[Fix 6: Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148636/16836" target="_top" id="2148636">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148636" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148636/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 1: Update your graphics driver
 
@@ -70,15 +84,9 @@ To check the specs of your PC:
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Adjust your graphics settings
 
  Scavenger has a myriad of graphics setting options at your disposal. Ideally, having “ultra” or “high” settings allows you to max out the performance of the game, but it could lead to crashing. If you have these strenuous settings, you should dial them down a bit to see if it helps with the situation.
@@ -108,9 +116,6 @@ Here is how to do it:
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update DirectX
 
  Your game of Scavengers may crash if you don’t have the latest version of DirectX. So you should check on your PC whether you have the latest version; if you don’t, you should update it.
@@ -121,22 +126,30 @@ Here is how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/dxdiag.jpg)
 2. Check out your **DirectX version** in the first page of the report.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Currently, the most up-to-date version for DirectX is DirectX12\. If you’re presented with a lower version, follow the steps below to update it.
 
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and install the updates (DirectX 12 included).
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148638/16836" target="_top" id="2148638">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148638" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148638/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 With the latest DirectX, check to see if Scavengers still crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Close background apps
 
  Having too many apps running in the background at the same time may also cause your game to crash. These apps compete for CPU, memory and network bandwidth and even induce instability issues.
@@ -149,9 +162,14 @@ Here’s how to close background apps:
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-1.png)
 3. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
 
 ### Fix 6: Stop overclocking
@@ -172,8 +190,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +197,22 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/-ultimate-free-online-editors-for-content-creators/"><u>[New] 9 Ultimate Free Online Editors for Content Creators</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-high-quality-capture-the-best-applications-reviewed/"><u>[Updated] High-Quality Capture The Best Applications Reviewed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-edit-like-a-pro-10-must-know-tips-for-newbies/"><u>2024 Approved Edit Like a Pro 10 Must-Know Tips for Newbies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-reasons-behind-inconsistent-game-performance/"><u>Diagnosing Reasons Behind Inconsistent Game Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-stability-problems-with-sony-vegas-no-more-crashes-guaranteed/"><u>Fixing Stability Problems with Sony Vegas - No More Crashes Guaranteed!</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-10-best-free-photo-collage-apps-to-combine-photos-on-iphone/"><u>In 2024, 10 Best FREE Photo Collage Apps to Combine Photos on iPhone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-compose-better-yi-4k-footage-must-have-accessories/"><u>In 2024, Compose Better YI 4K Footage Must-Have Accessories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/iphone-not-showing-up-in-itunes-on-windows-11-heres-how-to-solve-it/"><u>IPhone Not Showing Up in iTunes on Windows 11? Here's How to Solve It</u></a></li>
+<li><a href="https://win11.techidaily.com/preserve-personal-files-while-extending-windows-storage/"><u>Preserve Personal Files While Extending Windows Storage</u></a></li>
+<li><a href="https://fake-location.techidaily.com/spoofing-life360-how-to-do-it-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>Spoofing Life360 How to Do it on Xiaomi Redmi Note 13 Pro+ 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-fixes-to-optimize-cpu-usage-during-your-phasmophobia-sessions/"><u>Tips and Fixes to Optimize CPU Usage During Your Phasmophobia Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unraveling-error-327-in-star-wars-battlefront-ii-the-definitive-solution-strategy/"><u>Unraveling Error #327 in Star Wars Battlefront II – The Definitive Solution Strategy</u></a></li>
+<li><a href="https://common-error.techidaily.com/vcruntime140dll-not-found-startup-solutions-for-windows-11-users-a-step-by-step-fix/"><u>VCRUNTIME140.dll Not Found? Startup Solutions for Windows 11 Users: A Step-by-Step Fix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-20-playthroughs-without-latency-essential-fixes-and-hacks-of-2024/"><u>Warzone 2.0 Playthroughs without Latency: Essential Fixes & Hacks of 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/what-to-do-when-alan-wake-2-doesnt-launch-as-scheduled/"><u>What to Do When Alan Wake 2 Doesn't Launch as Scheduled?</u></a></li>
+</ul></div>
 

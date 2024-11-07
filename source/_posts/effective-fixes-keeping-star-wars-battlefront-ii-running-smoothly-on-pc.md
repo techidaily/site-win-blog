@@ -1,7 +1,7 @@
 ---
 title: "Effective Fixes: Keeping Star Wars Battlefront II Running Smoothly on PC"
-date: 2024-09-01T08:45:03.228Z
-updated: 2024-09-02T08:45:03.228Z
+date: 2024-11-04T22:23:14.193Z
+updated: 2024-11-07T03:04:50.598Z
 tags:
   - win11
   - win10
@@ -93,8 +93,12 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -104,8 +108,12 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2115932/19272" target="_top" id="2115932">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115932" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
@@ -116,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -129,6 +134,19 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<span id="2127886">
+					<video width="576" height="1024" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2127886.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2127886">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2127886.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2127886%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2127886/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -137,9 +155,6 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
@@ -155,15 +170,23 @@ thumbnail: https://thmb.techidaily.com/60a050976608e9140d90809a0ac2529ef41e9995b
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1902273/19272" target="_top" id="1902273">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902273" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902273/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +200,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +207,20 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-autoplay-youtube-on-mobile-no-distractions/"><u>[New] 2024 Approved AutoPlay YouTube on Mobile, No Distractions!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-mastering-the-art-of-incorporating-youtube-in-slate-presentations/"><u>[New] 2024 Approved Mastering the Art of Incorporating YouTube in Slate Presentations</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-demystifying-color-grading-with-powerful-luts/"><u>[Updated] Demystifying Color Grading with Powerful LUTs</u></a></li>
+<li><a href="https://win-answers.techidaily.com/asf/"><u>無造作ASFファイルを簡単に変換する方法：詳細ガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-guide-fixing-error-0xc1901e3-in-windows-11-for-smooth-operations/"><u>Complete Guide: Fixing Error 0Xc1901e3 in Windows 11 for Smooth Operations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/from-delay-to-launch-the-journey-of-guilty-gear-strives-release-timeline-unraveled/"><u>From Delay to Launch: The Journey of Guilty Gear Strive's Release Timeline Unraveled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-the-action-fast-solving-division-2s-game-crashing-woes/"><u>Get Back to the Action Fast: Solving Division 2'S Game Crashing Woes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-diagnosing-and-repairing-a-non-responsive-paradox-launcher/"><u>Guide to Diagnosing & Repairing a Non-Responsive Paradox Launcher</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-postponed-heres-everything-you-need-to-know-about-its-new-release-date/"><u>Guilty Gear Strive Postponed? Here's Everything You Need to Know About Its New Release Date</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-reset-the-security-questions-of-your-apple-id-from-your-iphone-12-by-drfone-ios/"><u>In 2024, How To Reset the Security Questions of Your Apple ID From Your iPhone 12</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-depth-analysis-of-premium-apps-to-boost-vtuber-audibility-for-2024/"><u>In-Depth Analysis of Premium Apps to Boost Vtuber Audibility for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-gameplay-smoothness-for-the-mass-effect-legendary-collection/"><u>Optimizing Gameplay Smoothness for the Mass Effect Legendary Collection</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/unraveling-the-definition-what-exactly-is-tagging-a-person-or-object/"><u>Unraveling the Definition: What Exactly Is 'Tagging' A Person or Object?</u></a></li>
+</ul></div>
 

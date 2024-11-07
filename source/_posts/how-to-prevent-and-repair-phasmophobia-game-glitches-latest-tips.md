@@ -1,7 +1,7 @@
 ---
 title: How to Prevent and Repair Phasmophobia Game Glitches - Latest Tips
-date: 2024-09-01T08:49:42.554Z
-updated: 2024-09-02T08:49:42.554Z
+date: 2024-11-05T16:36:26.124Z
+updated: 2024-11-07T05:55:25.379Z
 tags:
   - win11
   - win10
@@ -29,15 +29,19 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 6. [Increase page file size](https://tools.techidaily.com/drivereasy/download/)
 7. [Reset or reinstall Windows](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Disconnect any peripheral devices
 
  To the Star Citizen crashing issue, you need to disconnect any external devices. It’s because the crash could be caused by the conflicting device.
 
  If the issue is still there after moving off the peripheral devices, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable Win 10 Xbox gaming overlay
 
  Many users had reported that disabling the Windows10 Xbox gaming overlay would solve the problem. After disabling this feature, Star Citizen won’t crash again.
@@ -47,14 +51,16 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 3. Click**Game Bar** . Then make sure the switch of **Record game clips, screenshots, and broadcast using Game bar** is turned off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
+
 ### Fix 3: Kill background programs
 
  Kill unnecessary background programs will give the game more resources and prevent crashing. Sometimes the Star Citizen crashing issue is due to conflicts programs acting at the background. These conflict programs could be capture programs.
@@ -67,14 +73,12 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 3. Reboot the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  As a game player, the graphics card is one of the most important components of your PC. If the graphics driver is outdated or corrupted, you may not be able to enjoy the game. Graphics card manufacturers like Nvidia, AMD, and Intel constantly release new graphics drivers to fix bugs and improve gaming performance and experience, but Windows won’t always provide you with the latest version.
@@ -94,25 +98,17 @@ So, there are two ways that you can update your graphics driver:
  The PRO version comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Reset your character account
 
  According to players, somehow resetting your character account could fix the Star Citizen crashing issue. You may have a try. At least it’s not a complicated fix.
@@ -147,8 +143,6 @@ So, there are two ways that you can update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +150,21 @@ So, there are two ways that you can update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-the-freedom-of-filmmaking-top-android-video-editing-apps/"><u>[New] 2024 Approved The Freedom of Filmmaking Top Android Video Editing Apps</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-how-to-watch-deleted-youtube-videos-online-in-2-ways/"><u>2024 Approved How to Watch Deleted YouTube Videos Online in 2 Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-war-thunder-game-top-strategies-for-resolving-low-fps-issues/"><u>Boost Your War Thunder Game: Top Strategies for Resolving Low FPS Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/enhance-visual-experience-detecting-fps-in-android-gaming-2-strategies/"><u>Enhance Visual Experience: Detecting FPS in Android Gaming (2 Strategies)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-past-launch-errors-in-monster-hunter-stories-2-wings-of-ruin-a-comprehensive-fix-guide/"><u>Getting Past Launch Errors in Monster Hunter Stories 지네터 2: Wings of Ruin - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/in-2024-perfecting-your-rl-game-captures/"><u>In 2024, Perfecting Your RL Game Captures</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-reimagining-home-entertainment-with-lgs-bp550-update/"><u>In 2024, Reimagining Home Entertainment with LG's BP550 Update</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-influencers-blueprint-rapidly-amass-a-million-fans-with-our-top-15-instagram-tips/"><u>In 2024, The Influencer's Blueprint Rapidly Amass a Million Fans with Our Top 15 Instagram Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kodi-not-connected-solve-the-problem-of-missing-directory-information-now/"><u>Kodi Not Connected? Solve the Problem of Missing Directory Information Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-game-interruptions-in-baldurs-gate-a-guide-to-solving-six-critical-lag-issues/"><u>Say Goodbye to Game Interruptions in Baldur's Gate: A Guide to Solving Six Critical Lag Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-fixing-game-crashes-in-the-division-2/"><u>The Ultimate Guide to Fixing Game Crashes in The Division 2</u></a></li>
+<li><a href="https://blog-min.techidaily.com/top-5-beste-video-player-fur-360-vr-inhalte-auf-windows-und-macos/"><u>Top 5 Beste Video-Player Für 360° VR-Inhalte Auf Windows Und macOS</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-honor-magic-6-frp-bypass-by-drfone-android/"><u>Ultimate Guide from Honor Magic 6 FRP Bypass</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-vanguards-potential-initiating-skin-correctly-for-the-ultimate-valorant-experience/"><u>Unlocking Vanguard's Potential: Initiating Skin Correctly for the Ultimate Valorant Experience</u></a></li>
+</ul></div>
 
