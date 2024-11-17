@@ -1,7 +1,7 @@
 ---
 title: Investigating the Current Functionality of Xbox Live - Where to Check for Potential Disruptions?
-date: 2024-09-01T08:39:06.466Z
-updated: 2024-09-02T08:39:06.466Z
+date: 2024-11-15T06:35:17.934Z
+updated: 2024-11-16T23:58:15.096Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
  Before you try out the following solutions, make sure you’ve tried to restart your PC and Roblox to see if your problem is just a one-time random error.
 
+<!-- affiliate ads begin -->
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Turn up the volume for Roblox
 
  Sometimes your PC is unmuted but the volume of a certain app is turned down. You can check the audio for Roblox to see if it’s enabled and adjust the volume:
@@ -50,6 +57,13 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 
  If you’ve turned up the volume for Roblox but the audio is still missing, or Roblox doesn’t show up in your Volume mixer, try the next solution.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080333/19272" target="_top" id="2080333">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080333" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080333/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Check Roblox settings
 
  The next thing you can do is to check if the sound is enabled in your Roblox game. Roblox allows players to adjust settings for individual games. You can follow the steps below:
@@ -60,15 +74,8 @@ Many Roblox players have been reporting the**no sound issue** in Roblox, which c
 3. Switch to the**Settings** tab. Make sure your audio is not muted and the**Volume** is not too low.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-35-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  If you have turned up the in-game volume but still hear no sound, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Set your output device
 
  Sometimes you don’t hear the sound because it’s playing through other output devices instead of your computer speaker. Here’s how to switch audio output devices
@@ -76,18 +83,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Right-click the**little speaker icon** on the far right side of your taskbar, then click**Open Sound Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-settings.png)
 2. Under**Output** , make sure you choose your speaker or the device you wish to use. You can double-check by clicking**App volume and device preferences** and setting the output device and volume for Roblox.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/win11-sound-output.png)
 
  Sometimes the devices connected to your PC could interfere with normal audio output. If you’ve adjusted the above settings but your computer speaker still doesn’t work, make sure to unplug/disconnect devices such as your headset or external speaker from your PC.
 
 If the problem persists, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Update your audio driver
 
  An outdated or faulty audio driver could be responsible for the Roblox no sound issue. In our case, you may want to update your audio driver, to make sure it’s functioning properly.
@@ -119,16 +120,10 @@ If the problem persists, move on to the next solution.
 3. Switch to**View by: Small icons** , then click**Sound** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-54-50.jpg)
 4. Under the**Playback** tab, select**Speakers** then click**Configure** .  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-56-53.jpg)
 5. Switch the audio channel to**Stereo** . Click**Test** to see if the audio works normally, then click**Next** and follow the on-screen instructions to finish the configuration.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_14-05-52.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If configuring the audio channel on your PC doesn’t bring the sound back in Roblox, try the next fix.
 
 ## Fix 6: Run the Windows audio troubleshooter
@@ -139,45 +134,54 @@ If the problem persists, move on to the next solution.
 2. Type**control panel** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Small icons** , then click**Troubleshooting** .  
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-26-18.jpg)
 4. Click**Troubleshoot audio playback** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-28-15.jpg)
 5. Click**Next** to run the troubleshooter.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-29-12.jpg)
 6. Wait for it to detect problems. This usually takes only a few seconds.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-05.jpg)
 7. Select your speaker, then click**Next** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-32.jpg)
 8. It would suggest you turn off the audio enhancements for better sound quality. Click**Yes, Open Audio Enhancements** if you wish to do so. If you click no, it will skip to the scan results.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-30-57.jpg)
 9. Under the**Advanced** tab, make sure the**Enable audio enhancements** option is unchecked. Click**Apply** then**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-31-51-1.jpg)
 10. The troubleshooter will show you the results and fix the problems if it can. You can close the troubleshooter now.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_18-32-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 If the problem persists, try the last fix.
 
 ## Fix 7: Reinstall Roblox
@@ -188,6 +192,14 @@ If the problem persists, try the last fix.
 2. Type**control panel** , then click OK.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Switch to**View by: Category** , then click**Uninstall a program** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-24-05.jpg)
 4. Find Roblox player, right-click it then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-26-30.jpg)
@@ -197,8 +209,12 @@ If the problem persists, try the last fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-27_10-33-24.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2068440/7443" target="_top" id="2068440">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068440" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068440/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can log on to your account and play a game to see if the sound is back.
 
 ---
@@ -215,8 +231,6 @@ If the problem persists, try the last fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +238,24 @@ If the problem persists, try the last fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-ultimate-razer-webcam-analysis/"><u>[New] 2024 Approved Ultimate Razer Webcam Analysis</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/he-blueprint-to-climbing-your-way-up-in-youtube-ranks-for-2024/"><u>[New] The Blueprint to Climbing Your Way Up in YouTube Ranks for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-transformative-strategies-for-effective-pins-in-discord-dialogues/"><u>[Updated] 2024 Approved Transformative Strategies for Effective Pins in Discord Dialogues</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/amazfit-helio-ring-specs-release-timeline-and-price-breakdown-explained/"><u>Amazfit Helio Ring Specs, Release Timeline, and Price Breakdown Explained</u></a></li>
+<li><a href="https://video-capture.techidaily.com/elevate-your-virtual-engagement-with-snap-capabilities-in-meet/"><u>Elevate Your Virtual Engagement with Snap Capabilities in Meet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-baldurs-gate-iii-strategies-to-manage-and-fix-elevated-cpu-usage/"><u>Enhancing Baldur's Gate III - Strategies to Manage and Fix Elevated CPU Usage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-past-the-hurdles-with-call-of-duty-modern-warfare-3-launch-issues-and-solutions/"><u>Getting Past the Hurdles with Call of Duty: Modern Warfare 3 Launch Issues & Solutions</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-ultimate-hd-screensnap-equipment/"><u>In 2024, Ultimate HD Screensnap Equipment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-game-effective-techniques-to-prevent-freezing-in-minecraft-on-your-windows-or-mac-updated-for-players/"><u>Mastering the Game: Effective Techniques to Prevent Freezing in Minecraft on Your Windows or Mac, Updated for Players</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/maximizing-your-screen-real-estate-with-picture-in-picture-creation-for-2024/"><u>Maximizing Your Screen Real Estate with Picture in Picture Creation for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezes-overcome-ark-community-survivals-pc-downloads-and-play-smoothly-again/"><u>No More Freezes! Overcome ARK: Community Survival's PC Downloads & Play Smoothly Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-pc-for-consistent-frame-rates-in-the-latest-formula-one-game/"><u>Optimizing Your PC for Consistent Frame Rates in the Latest Formula One Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-players-rejoice-as-death-stranding-bugs-are-squashed/"><u>PC Players Rejoice as Death Stranding Bugs Are Squashed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-battlenet-wont-open-dilemma-with-these-tips-2024-update/"><u>Solve Your Battle.net Won’t Open Dilemma with These Tips - 2024 Update</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2622889-9781936740284-the-art-of-living-joyfully/"><u>The Art of Living Joyfully | Free Book</u></a></li>
+<li><a href="https://windows11.techidaily.com/unleashing-the-full-potential-of-win-for-ps1-gaming-duckstations-insight/"><u>Unleashing the Full Potential of WIN for PS1 Gaming - Duckstation's Insight</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-players-guide-eradicate-the-persistent-dev-error-6634-with-these-updated-fixes/"><u>Warzone Players' Guide: Eradicate the Persistent Dev Error 6634 with These Updated Fixes</u></a></li>
+</ul></div>
 

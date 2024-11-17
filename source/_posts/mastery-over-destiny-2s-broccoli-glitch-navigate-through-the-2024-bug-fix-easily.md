@@ -1,7 +1,7 @@
 ---
 title: "Mastery Over Destiny 2'S Broccoli Glitch: Navigate Through the 2024 Bug Fix Easily"
-date: 2024-09-01T08:40:34.878Z
-updated: 2024-09-02T08:40:34.878Z
+date: 2024-11-10T18:58:51.012Z
+updated: 2024-11-16T18:44:01.371Z
 tags:
   - win11
   - win10
@@ -53,12 +53,27 @@ To check the specs of your PC:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time, then type **dxdiag** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/dxdiag-Run-box.png)
 2. Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012401/19272" target="_top" id="2012401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012401" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012401/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dxdiag-diagnostic-tool-1.png)
 3. Select the **Display** tab, and you’ll be presented with the information about your **graphics card** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
  If your PC specs have been up to the mark but the broccoli error still occurs, please try**Fix 2** , below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043597/7443" target="_top" id="2043597">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043597" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043597/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 2: Update your device drivers
 
@@ -73,6 +88,13 @@ To check the specs of your PC:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135405/19272" target="_top" id="2135405">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135405" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135405/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/amd-graphics.png)
 4. Restart your computer for the change to take effect.
@@ -82,8 +104,12 @@ To check the specs of your PC:
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2151882/7443" target="_top" id="2151882">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151882" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151882/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Enable Vsync option in Game Settings
 
  VSync is a graphics technology designated to reduce syncing issues by matching the graphics processor’s frame rate with the monitor’s refresh rate. According to some players, enabling VSync has helped them mitigate the broccoli error crash in Destiny 2 games. You can try it to see if it works in your case.
@@ -97,8 +123,12 @@ The steps are pretty easy:
 5. Play Destiny 2 to see if you can play properly now, If it’s no joy, please head on to**Fix 4** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Switch game mode
 
  Game Mode is a feature introduced in newer versions of Windows. It is created to increase performance in games, irrespective of the build and age of your computer. However, not all PCs are made the same – some players have noticed an invisible improvement in FPS and smoothness with the mode on, while for others the opposite is the case.
@@ -112,9 +142,14 @@ Here’s how to do it:
 1. On your keyboard, press the**Windows logo** key and type**settings** , then click on**Settings** as it pops up as a result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/settings.png)
 2. In the pop-up window, click the**Gamings** category.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/gaming.png)
 3. In the left panel, click**Game Mode** , then switch the toggle for**Game Mode** to the opposite status.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/game-mode.png)
@@ -126,33 +161,29 @@ Here’s how to do it:
 2. Select Gaming, then Game Mode.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/game-mode-win-11-1.png)
 3. Toggle off the Game Mode option to see if Broccoli crashes still. If so, toggle it on and see how Broccoli works.  
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/game-mode-on-off.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Install all available Windows updates
 
  The Destiny 2 broccoli crashing error could be a vulnerability in your system. To rule out this as a possible cause, you could check on your system to see if there are any pending updates – if yes, you should let Windows install them all. After that, you can go on to check to see if the crashing issue is put to an end.
 
 Here are the steps:
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### On Windows 10
 
 1. On your keyboard, press**the Windows logo key** and type**check for updates** , then click on**Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1.png)
 2. Click**Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and automatically install the updates for you.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your computer.
 
 ### On Windows 11
@@ -163,21 +194,18 @@ Here are the steps:
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  Destiny 2 broccoli error still occurs? Please continue with**Fix 6** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484909/16446" target="_top" id="1484909">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484909/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Stop overclocking
 
@@ -197,8 +225,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +232,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-leading-alternatives-to-zoom-on-desktops-and-smartphones/"><u>[New] Leading Alternatives to Zoom on Desktops & Smartphones</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/updated-explore-the-hd-landscape-youtube-twitters-and-more-for-2024/"><u>[Updated] Explore the HD Landscape YouTube, Twitters, and More for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/1-innovative-techniques-for-capturing-virtual-meetings-on-camera/"><u>1. Innovative Techniques for Capturing Virtual Meetings on Camera</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-a-beginners-guide-to-frictionless-nft-making/"><u>2024 Approved A Beginner's Guide to Frictionless NFT Making</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-top-10-female-gamers-on-youtube/"><u>2024 Approved Top 10 Female Gamers on YouTube</u></a></li>
+<li><a href="https://fox-links.techidaily.com/bargain-cameras-that-dont-skimp-on-quality-for-2024/"><u>Bargain Cameras That Don't Skimp On Quality for 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/choosing-the-perfect-ipad-for-children-our-picks-s-best-tablets-zdnet/"><u>Choosing the Perfect iPad for Children: Our Picks 'S Best Tablets (ZDNet)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011803020-effortless-steps-get-your-discord-overlay-back-up-and-running-now/"><u>Effortless Steps: Get Your Discord Overlay Back Up and Running Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-resolving-black-screen-issues-for-persona-5-strikers-gamers/"><u>Expert Advice on Resolving Black Screen Issues for Persona 5 Strikers Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-a-seamless-jurassic-world-evolution-gaming-experience-no-more-crashes/"><u>Expert Tips for a Seamless Jurassic World Evolution Gaming Experience - No More Crashes!</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-best-camera-apps-to-shoot-and-record-videos-on-iphone-and-andriod-phones/"><u>In 2024, Best Camera Apps to Shoot and Record Videos on iPhone and Andriod Phones</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-deciding-the-best-skype-audio-capture-of-2023/"><u>In 2024, Deciding the Best Skype Audio Capture of 2023</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-smooth-gameplay-in-eldn-ring-swift-solutions-for-frame-rate-drop-offs-and-hiccups/"><u>Mastering Smooth Gameplay in Eldn Ring: Swift Solutions for Frame Rate Drop-Offs & Hiccups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-fortnite-lag-woes-with-these-proven-techniques/"><u>Solve Your Fortnite Lag Woes with These Proven Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-palworld-session-search-issues-a-comprehensive-guide/"><u>Solving Palworld Session Search Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-pc-crashes-while-playing-hearthstone/"><u>Troubleshooting Guide: Eliminating PC Crashes While Playing Hearthstone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-a-smooth-experience-resolving-continuous-pc-malfunctions-during-the-enhanced-metro-exodus/"><u>Unlocking a Smooth Experience: Resolving Continuous PC Malfunctions During the Enhanced Metro Exodus</u></a></li>
+</ul></div>
 

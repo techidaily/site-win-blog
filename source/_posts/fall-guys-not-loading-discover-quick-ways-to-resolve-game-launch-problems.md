@@ -1,7 +1,7 @@
 ---
 title: Fall Guys Not Loading? Discover Quick Ways to Resolve Game Launch Problems
-date: 2024-09-01T08:42:36.590Z
-updated: 2024-09-02T08:42:36.590Z
+date: 2024-11-15T01:31:14.110Z
+updated: 2024-11-17T13:52:50.652Z
 tags:
   - win11
   - win10
@@ -42,6 +42,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135399/19272" target="_top" id="2135399">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135399" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135399/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
@@ -51,8 +58,12 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997695/19272" target="_top" id="1997695">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997695" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997695/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -60,14 +71,16 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
@@ -85,6 +98,13 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118314/7443" target="_top" id="2118314">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118314" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118314/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -93,17 +113,18 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -111,9 +132,6 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
@@ -138,8 +156,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +163,19 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-innovative-photoplusmusic-recorder-software-of-the-year/"><u>[New] Innovative Photo+Music Recorder Software of the Year</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-top-5-browser-screen-recorders-2023/"><u>[Updated] In 2024, Top 5 Browser Screen Recorders 2023</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016034592-diy-solutions-getting-your-stereo-sound-back-in-action/"><u>DIY Solutions: Getting Your Stereo Sound Back in Action</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-easy-remedies-for-discord-javascript-malfunctions/"><u>Expert Tips: Easy Remedies for Discord JavaScript Malfunctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-gameloop-issues-solutions-for-stable-gaming-experience-on-windows-11-and-10/"><u>Fixing GameLoop Issues: Solutions for Stable Gaming Experience on Windows 11 & 10</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-rise-above-the-noise-must-have-video-seo-tools/"><u>In 2024, Rise Above the Noise – Must-Have Video SEO Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-game-crashes-expert-solutions-for-your-pc/"><u>Resolving Game Crashes : Expert Solutions for Your PC</u></a></li>
+<li><a href="https://howto.techidaily.com/restore-missing-app-icon-on-honor-x9b-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Restore Missing App Icon on Honor X9b Step-by-Step Solutions | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-successfully-running-lego-star-wars-the-skywalker-saga-on-your-pc-in-202e/"><u>Troubleshooting Guide: Successfully Running 'Lego Star Wars: The Skywalker Saga' On Your PC in 202E</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-fifa-19-directx-error-quick-and-effective-strategies/"><u>Troubleshooting the FIFA 19 DirectX Error - Quick and Effective Strategies</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/une-approche-pratique-comment-ajouter-des-sous-titres-a-une-video-mp4/"><u>Une Approche Pratique : Comment Ajouter Des Sous-Titres À Une Vidéo MP4</u></a></li>
+<li><a href="https://driver-install.techidaily.com/windows-fusion-reinstating-usb-port-functions/"><u>Windows Fusion: Reinstating USB Port Functions</u></a></li>
+</ul></div>
 

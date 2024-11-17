@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for League of Legends Software Issues - Resolved!
-date: 2024-09-01T08:41:44.612Z
-updated: 2024-09-02T08:41:44.612Z
+date: 2024-11-15T12:20:56.439Z
+updated: 2024-11-17T11:48:37.521Z
 tags:
   - win11
   - win10
@@ -82,23 +82,29 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135354/19272" target="_top" id="2135354">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135354" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135354/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -118,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -131,25 +134,22 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -164,11 +164,28 @@ thumbnail: https://thmb.techidaily.com/24c4d966d5ae08b9992d6ca8e560b523aa54e9e6e
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1160850">
+					<video width="576" height="324" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Run League of Legends to see if you resolved this issue.
 
@@ -183,8 +200,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +207,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-the-ultimate-guide-to-choosing-the-most-effective-9-multimedia-devices-ios-android/"><u>[Updated] 2024 Approved The Ultimate Guide to Choosing the Most Effective 9 Multimedia Devices (iOS, Android)</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-a-list-nintendo-switch-fighter-titles-max-156/"><u>[Updated] In 2024, A-List Nintendo Switch Fighter Titles (Max 156)</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-deleting-youtube-comments/"><u>[Updated] In 2024, Deleting YouTube Comments</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-understanding-vr-headsets-an-overview/"><u>[Updated] Understanding VR Headsets An Overview</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/2024-approved-comparative-review-smartphone-usage-of-the-leading-video-apps/"><u>2024 Approved Comparative Review Smartphone Usage of the Leading Video Apps</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/bypass-icloud-activation-lock-with-imei-code-from-your-apple-iphone-14-pro-by-drfone-ios/"><u>Bypass iCloud Activation Lock with IMEI Code From your Apple iPhone 14 Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-the-dragon-resolved-dauntless-pc-stability-problems/"><u>Conquer The Dragon - Resolved Dauntless PC Stability Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-down-on-e277-pc-players-guide-to-resolving-roblox-issues/"><u>Cracking Down on E277: PC Players' Guide to Resolving Roblox Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-latency-a-fix-for-cyberpunk-2077s-interactive-delay-problems/"><u>Eliminating Latency: A Fix for Cyberpunk 2077’S Interactive Delay Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-scan-errors/"><u>Fix Scan Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/genshin-impact-troubleshooting-overcoming-error-4201-for-a-seamless-play-experience/"><u>Genshin Impact Troubleshooting: Overcoming Error 4201 for a Seamless Play Experience</u></a></li>
+<li><a href="https://techtrends.techidaily.com/how-to-address-the-d3dx9-34dll-is-not-detected-issue-effectively/"><u>How to Address the 'D3dx9_ 34.dll Is Not Detected' Issue Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-warno-app-continuously-crashing-on-your-windows-computer/"><u>How to Fix 'Warno' App Continuously Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/maximizar-la-cooperacion-remota-reuniendonos-eficazmente-por-medio-de-zoom/"><u>Maximizar La Cooperación Remota: Reuniéndonos Eficazmente Por Medio De Zoom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fix-tips-for-persistent-crashes-in-palworld-game-on-your-computer/"><u>Quick Fix Tips for Persistent Crashes in PalWorld Game on Your Computer</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/reliable-user-guide-to-fix-oppo-reno-10-5g-running-slow-and-freezing-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reliable User Guide to Fix Oppo Reno 10 5G Running Slow and Freezing | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-tormented-souls-pc-freezes-update-solves-problems/"><u>Say Goodbye to Tormented Souls PC Freezes – Update Solves Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-frontier-crashes-on-your-pc/"><u>Troubleshooting Tips: Resolving 'Frontier Crashes' On Your PC</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtubing-101-the-right-devices/"><u>Youtubing 101 The Right Devices</u></a></li>
+</ul></div>
 

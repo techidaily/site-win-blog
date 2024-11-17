@@ -1,7 +1,7 @@
 ---
 title: "Batman: Arkham Knight - Instant Solutions for Game Crashes & Critical Failures"
-date: 2024-09-01T08:42:09.905Z
-updated: 2024-09-02T08:42:09.905Z
+date: 2024-11-09T16:27:49.143Z
+updated: 2024-11-17T12:59:58.160Z
 tags:
   - win11
   - win10
@@ -59,22 +59,28 @@ If this doesn’t solve your problem, try the next fix.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 If updating the graphics driver doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094476/7443" target="_top" id="2094476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Check your antivirus software
 
@@ -95,15 +101,20 @@ If updating the graphics driver doesn’t help, try the next fix.
 1. Right-click your taskbar, then click**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. In the**Processes** section, click on the process(es) that you want to shut down, and click**End task** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2018/10/task-manager-end-task.jpg)
 
  Players have reported a few programs that are known to cause the crashing issue, including audio applications Sonic and Nahimic. You can also refer to[the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) and identify the root cause of your crashing issue.
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Refresh your network
 
  Some players have also been able to solve the crashing issue by resetting their network, so it’s definitely worth a try. The quickest way is to restart your network adapter, and this works for both wireless and wired connections. Here’s how:
@@ -112,9 +123,20 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Type in**npca.cpl** , then click**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2022/07/win11-ncpa.cpl_.jpg)
 3. Find the network adapter you’re using. Right-click it and select**Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-11_14-50-06.jpg)
 4. Wait for a minute.
 5. Right-click on your network adapter again, then click**Enable** .  
@@ -145,15 +167,24 @@ If updating the graphics driver doesn’t help, try the next fix.
 3. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-disable-all.jpg)
 4. Switch to the**Startup** tab, and click**Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-msconfig-startup.jpg)
 5. Under the**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134227/18498" target="_top" id="2134227">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134227" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134227/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-task-manager-startup-disable.jpg)
 6. Restart your PC.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137203/26400" target="_top" id="2137203">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137203" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137203/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If Forza Horizon 5 doesn’t crash anymore, this means at least one of the programs you disabled was causing the problem.  
@@ -164,15 +195,9 @@ If updating the graphics driver doesn’t help, try the next fix.
 2. Type**msconfig** and hit Enter.  
 ![Windows 11 - System configuration](https://www.drivereasy.com/wp-content/uploads/2023/10/win11-msconfig.jpg)
 3. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 4. Reboot your computer and launch the game. If the crashes persist, then you know that one of the services you ticked above is conflicting with Forza Horizon 5\. If the game runs smoothly now, then the above five services are fine, and you’ll have to keep looking for the offending service.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Repeat steps 2 and 3 above until you find the service that conflicts with the game.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -182,11 +207,24 @@ If updating the graphics driver doesn’t help, try the next fix.
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/11/win-11-taskbar-task-manager.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094480/7443" target="_top" id="2094480">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094480" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094480/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Forza Horizon 5.
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134235/18498" target="_top" id="2134235">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134235" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134235/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Repeat until you find the startup item that’s conflicting with the game.
 5. Disable the problem program and reboot your PC.
 
@@ -204,14 +242,8 @@ If updating the graphics driver doesn’t help, try the next fix.
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ---
 
  Hopefully this article helps! Please feel free to leave a comment down below if you have any questions or suggestions!
@@ -222,8 +254,6 @@ If updating the graphics driver doesn’t help, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +261,22 @@ If updating the graphics driver doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-transform-shots-to-boost-circular-vignette-features/"><u>[New] 2024 Approved Transform Shots to Boost Circular Vignette Features</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unlimited-editing-discover-these-9-free-cloud-tools/"><u>[New] 2024 Approved Unlimited Editing Discover These 9 Free Cloud Tools</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/new-clear-and-bright-optimizing-visuals-in-zoom-calls/"><u>[New] Clear and Bright Optimizing Visuals in Zoom Calls</u></a></li>
+<li><a href="https://howto.techidaily.com/android-screen-stuck-general-vivo-x90s-partly-screen-unresponsive-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Android Screen Stuck General Vivo X90S Partly Screen Unresponsive | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-black-screens-in-far-cry-6-expert-solutions-revealed/"><u>Banish Black Screens in Far Cry 6 – Expert Solutions Revealed!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/deciphering-steady-system-crashes-while-gaming-a-comprehensive-guide-for-watch-dogs-legion-on-pc/"><u>Deciphering Steady System Crashes While Gaming - A Comprehensive Guide for 'Watch Dogs: Legion' On PC</u></a></li>
+<li><a href="https://apple-account.techidaily.com/detailed-guide-on-removing-apple-iphone-12-pro-max-activation-lock-without-previous-owner-by-drfone-ios/"><u>Detailed Guide on Removing Apple iPhone 12 Pro Max Activation Lock without Previous Owner?</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/extend-your-workspace-for-less-save-hundreds-with-our-dual-monitor-deal-featuring-the-versatile-teamgee-find-out-how-on-zdnet/"><u>Extend Your Workspace for Less: Save Hundreds with Our Dual Monitor Deal Featuring the Versatile TeamGee - Find Out How on ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/forza-horizon-navigates-2024-top-tricks-to-get-past-startup-problems/"><u>Forza Horizon Navigates 2024: Top Tricks to Get Past Startup Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-gameplay-in-cult-of-the-lamb-without-any-interruptions-or-crashes-pc/"><u>How to Ensure Smooth Gameplay in 'Cult of the Lamb' Without Any Interruptions or Crashes (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-dead-by-daylight-e-code-8014-a-step-by-step-guide/"><u>How to Resolve Dead by Daylight E-Code 8014 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/how-to-use-pokemon-go-joystick-on-oppo-reno-9a-drfone-by-drfone-virtual-android/"><u>How to use Pokemon Go Joystick on Oppo Reno 9A? | Dr.fone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-high-quality-video-webcams-top-5-combos-with-sound/"><u>In 2024, High-Quality Video Webcams - Top 5 Combo's With Sound</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-doom-eternal-fixes-to-stop-game-crashes/"><u>Troubleshooting DOOM Eternal - Fixes to Stop Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-tutorial-for-banishing-battlefield-5-latency-issues-top-strategies-inside/"><u>Ultimate Tutorial for Banishing Battlefield 5 Latency Issues: Top Strategies Inside</u></a></li>
+</ul></div>
 

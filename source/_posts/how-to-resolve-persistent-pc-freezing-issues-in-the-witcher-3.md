@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Persistent PC Freezing Issues in The Witcher 3
-date: 2024-09-01T08:42:57.834Z
-updated: 2024-09-02T08:42:57.834Z
+date: 2024-11-13T16:55:59.709Z
+updated: 2024-11-16T17:07:40.826Z
 tags:
   - win11
   - win10
@@ -41,13 +41,24 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. If the driver is outdated or corrupted, you’re more likely to run into issues like it takes an extremely long time to load into the main menu screen. To pinpoint the root cause, you’re supposed to update your graphics driver.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137974/21526" target="_top" id="2137974">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137974" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137974/21526" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics driver
 
@@ -59,9 +70,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience and computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -74,10 +82,24 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043638/7443" target="_top" id="2043638">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043638" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043638/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -85,9 +107,6 @@ Here’s how to update drivers with Driver Easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Delete temp files
 
  As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. They can take up a considerable amount of space and slow down your PC. This can also affect the responsiveness of your programs. To make sure you can run your system smoothly, you should delete those temporary files and it won’t cause any problems.
@@ -98,9 +117,6 @@ Here’s how to update drivers with Driver Easy:
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
@@ -113,9 +129,6 @@ Here’s how to update drivers with Driver Easy:
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4\. Disable firewall and antivirus software
 
  Windows firewall or antivirus software can help protect your computer from malware attacks. But sometimes they would block your game from launching or accessing the internet. Therefore, we would suggest you disable those antivirus software and Windows firewall temporarily before launching Among Us:
@@ -131,11 +144,28 @@ Here’s how to update drivers with Driver Easy:
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
+
+<!-- affiliate ads begin -->
+<span id="1424531">
+					<video width="864" height="NaN" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424531.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424531">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424531.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424531%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424531/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
 
@@ -153,8 +183,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +190,22 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-the-ultimate-list-of-influential-biz-channels-online/"><u>[New] 2024 Approved The Ultimate List of Influential Biz Channels Online</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-pinnacle-performance-discover-the-top-8-webcams-today/"><u>[Updated] 2024 Approved Pinnacle Performance Discover the Top 8 Webcams Today</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-easy-to-use-games-recorders-ranked-no-1-10/"><u>[Updated] Easy-to-Use Games Recorders Ranked No. 1-10</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/achieving-folder-and-file-unity-a-windows-exploration/"><u>Achieving Folder & File Unity: A Windows Exploration</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-no-more-expert-fixes-to-the-infamous-tales-of-arise-hiccups/"><u>Crash No More: Expert Fixes to the Infamous Tales of Arise Hiccups</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-install-logitech-hd-pro-c922x-camera-driver-for-enhanced-video-quality-on-windows-11/"><u>Download and Install Logitech HD Pro C922X Camera Driver for Enhanced Video Quality on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-troubleshooting-tips-downloading-cyberpunk-2077-on-steam-without-a-glitch/"><u>Easy Troubleshooting Tips: Downloading Cyberpunk 2077 on Steam without a Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-getting-outlook-to-open-without-a-glitch/"><u>Expert Advice: Getting Outlook to Open Without a Glitch</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-bypass-iphone-12-passcode-easily-video-inside-drfone-by-drfone-ios/"><u>How to Bypass iPhone 12 Passcode Easily Video Inside | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-echo-fabricator-bundle/"><u>In 2024, Echo Fabricator Bundle</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-asus-rog-phone-7-ultimate-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Asus ROG Phone 7 Ultimate? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lost-ark-pc-crashes-effective-solutions-for-a-smooth-gaming-experience/"><u>Lost Ark PC Crashes - Effective Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/precision-and-poise-an-examination-of-the-twelve-south-compass-pros-stable-construction/"><u>Precision and Poise: An Examination of the Twelve South Compass Pro’s Stable Construction</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-solutions-to-stop-your-vrchat-from-crashing-on-windows/"><u>Top 8 Solutions to Stop Your VRChat From Crashing on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-access-to-origin-games-again-overcoming-connectivity-troubleshooting-hurdles/"><u>Unlock Access to Origin Games Again - Overcoming Connectivity Troubleshooting Hurdles</u></a></li>
+</ul></div>
 

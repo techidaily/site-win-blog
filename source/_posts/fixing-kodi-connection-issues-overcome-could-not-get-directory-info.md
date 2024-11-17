@@ -1,7 +1,7 @@
 ---
 title: Fixing Kodi Connection Issues - Overcome 'Could Not Get Directory Info'
-date: 2024-09-01T08:41:54.110Z
-updated: 2024-09-02T08:41:54.110Z
+date: 2024-11-16T03:14:26.883Z
+updated: 2024-11-16T20:03:47.697Z
 tags:
   - win11
   - win10
@@ -38,6 +38,13 @@ Minimum system requirements:
 3. [Verify the game files](https://tools.techidaily.com/drivereasy/download/)
 4. [Reinstall Rust](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Update your graphic driver
 
  When problems that are related to graphics happened, the first thing you should do is updating your graphic driver. Because most of the issues are caused by missing or outdated graphics drivers.
@@ -52,6 +59,13 @@ Minimum system requirements:
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
@@ -68,9 +82,6 @@ Minimum system requirements:
 
 If the Rust graphic error persists, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Turn off new screen effects
 
  Changing the in-game settings will make the game look better.**Remove all of the new screen effects** . They are the culprit of the weird colors on the game. If you want to improve the graphics quality, follow the steps below.
@@ -81,12 +92,16 @@ If the Rust graphic error persists, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Head to**GRAPHICS** . Set**GRAPHICS QUALITY** as below. You’ll see the quality of the game would be highly improved.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/image-2.png)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Set**MESH QUALITY** as below.
 
@@ -96,19 +111,20 @@ If the Rust graphic error persists, then go ahead with the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/image-5.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Turn off all the settings under**EXPERIMENTAL** . They might actually bug your game out and mess it up.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/image-6.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)** Back to Rust and check the issue.
 
 If you still have this issue, move on to try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105876/7443" target="_top" id="2105876">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105876" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105876/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify the game files
 
@@ -120,23 +136,31 @@ If you still have this issue, move on to try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135393/19272" target="_top" id="2135393">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135393" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135393/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Right-click **Rust**  and select **Properties.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-795.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 **5)** Relaunch Rust to see if your problem has been resolved.
 
 If it’s not working, try the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137214/26400" target="_top" id="2137214">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137214" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137214/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Reinstall Rust
 
@@ -158,9 +182,6 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-790.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **5)**  Right-click the **Steam icon**  on the taskbar, then select **Exit** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH.jpg)
@@ -169,14 +190,17 @@ Follow the steps below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-3.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **7)** Paste **C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar, then press the **Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/06/WAR-THUNDER-CRASH-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 **8)**  Highlight the **Rust folder** , and then press the **Del** key on your keyboard to delete the folder.
 
 **9)**  Relaunch Steam to download and reinstall Rust.
@@ -193,8 +217,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +224,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-seamless-srt-to-video-leading-10-free-online-conversion-tools/"><u>[Updated] 2024 Approved Seamless SRT to Video - Leading 10 Free Online Conversion Tools</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-vivo-g2-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Vivo G2 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminate-gameplay-disruptions-fix-freezes-and-stutters-during-outriders-missions-on-pc/"><u>Eliminate Gameplay Disruptions: Fix Freezes & Stutters During Outriders Missions on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-assassins-creed-odyssey-freezing-issues-on-pc-expert-tips-and-tweaks-players/"><u>How to Overcome Assassin's Creed Odyssey Freezing Issues on PC: Expert Tips & Tweaks Players</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-ultimate-guide-from-xiaomi-civi-3-disney-100th-anniversary-edition-frp-bypass-by-drfone-android/"><u>In 2024, Ultimate Guide from Xiaomi Civi 3 Disney 100th Anniversary Edition FRP Bypass</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/live-streaming-on-mac-os-costless-option/"><u>Live Streaming on Mac OS - Costless Option</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/mastering-iphoneipad-premium-podcast-recording-tips-for-2024/"><u>Mastering iPhone/iPad Premium Podcast Recording Tips for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/reduzierung-der-grosse-von-hd-4k-und-8k-videos-um-bis-zu-90-effektive-methoden/"><u>Reduzierung Der Größe Von HD, 4K Und 8K Videos Um Bis Zu 90 % - Effektive Methoden</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-gaming-experience-achieved-solutions-to-stop-recurring-crashes-in-new-world-for-pc/"><u>Seamless Gaming Experience Achieved! Solutions to Stop Recurring Crashes in New World for PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fix-for-preventing-euro-truck-simulator-2-pc-malfunctions/"><u>Step-by-Step Fix for Preventing Euro Truck Simulator 2 PC Malfunctions</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-enigma-of-codegpt-writing-codes-without-humans/"><u>The Enigma of CodeGPT: Writing Codes without Humans?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-high-processor-use-on-god-of-war-platforms/"><u>Troubleshooting High Processor Use on God of War Platforms</u></a></li>
+</ul></div>
 

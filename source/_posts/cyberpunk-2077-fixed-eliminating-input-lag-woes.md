@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077 Fixed: Eliminating Input Lag Woes"
-date: 2024-09-01T08:41:22.389Z
-updated: 2024-09-02T08:41:22.389Z
+date: 2024-11-12T04:30:59.542Z
+updated: 2024-11-17T10:04:10.076Z
 tags:
   - win11
   - win10
@@ -36,6 +36,14 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. Launch the game and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137219/26400" target="_top" id="2137219">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137219" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137219/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
@@ -54,9 +62,23 @@ If you’re not using the controller, check the below settings.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1885928/19272" target="_top" id="1885928">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Change the mouse setting
 
@@ -66,25 +88,29 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<a href="https://appsumo.8odi.net/c/5597632/2151889/7443" target="_top" id="2151889">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151889" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151889/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134244/18498" target="_top" id="2134244">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134244" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134244/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -112,15 +138,9 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -135,8 +155,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +162,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-harnessing-youtubes-true-potential-in-studio/"><u>[New] 2024 Approved Harnessing YouTube's True Potential in Studio</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-8-exemplary-templates-dominate-social-media-creatives-for-2024/"><u>[New] 8 Exemplary Templates Dominate Social Media Creatives for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ow-to-use-google-trends-to-come-up-with-video-ideas/"><u>[New] How to Use Google Trends to Come up with Video Ideas?</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-deep-insight-screenflow-for-mac-performance-review/"><u>[New] In 2024, Deep Insight ScreenFlow for Mac Performance Review</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-lilliputian-storyboard-outline/"><u>[New] In 2024, Lilliputian Storyboard Outline</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-gameplay-solving-the-assassins-creed-valhalla-pc-performance-problem/"><u>Fix Your Gameplay: Solving the Assassin’s Creed Valhalla PC Performance Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-offline-origin-problem-it-works-again/"><u>Fixing Offline Origin Problem – It Works Again</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/leveraging-technology-for-optimal-fb-stream-recording-for-2024/"><u>Leveraging Technology for Optimal FB Stream Recording for 2024</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ating-through-your-preferred-youtube-viewing-pace-for-2024/"><u>Navigating Through Your Preferred YouTube Viewing Pace for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fix-for-apex-legends-not-opening-top-tips-inside/"><u>Quick Fix for 'Apex Legends Not Opening': Top Tips Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006526415-resolve-your-division-2-crash-issues-instantly-and-effortlessly/"><u>Resolve Your Division 2 Crash Issues Instantly & Effortlessly!</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/universal-iptv-broadcasting-for-2024/"><u>Universal IPTV Broadcasting for 2024</u></a></li>
+</ul></div>
 

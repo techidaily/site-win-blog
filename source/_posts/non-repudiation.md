@@ -1,7 +1,7 @@
 ---
 title: Non-Repudiation
-date: 2024-09-01T08:38:33.429Z
-updated: 2024-09-02T08:38:33.429Z
+date: 2024-11-14T06:17:25.317Z
+updated: 2024-11-17T07:09:46.999Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/be81dbeaaee0382765b77cee6cb291299a5244c86
 4. [Update your Microphone driver and audio driver](https://tools.techidaily.com/drivereasy/download/)
 5. [Reset Cortana](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Method 1: Reboot your Windows 10 PC
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
@@ -42,29 +49,31 @@ Check your region and language settings on your computer:
  1) On your keyboard, press the   **Windows logo key ![](https://images.drivereasy.com/wp-content/uploads/2017/08/img_59a516b53b983.png)** and **I** at the same time to open the **Settings** window.
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528681/16446" target="_top" id="1528681">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528681" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528681/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  2) Click **Time** **& language** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<a href="https://imp.i357552.net/c/5597632/1030129/11832" target="_top" id="1030129">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030129" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030129/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5) Try Cortana again to see if it works.
 
 ## Method 3: Make sure your Windows 10 system is up-to-date
@@ -75,16 +84,27 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f33c9a31.png)
 
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click **Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Method 4: Update your Microphone driver and audio driver
 
@@ -106,6 +126,13 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151859/7443" target="_top" id="2151859">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151859" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151859/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
@@ -114,10 +141,6 @@ Or click  **Update All** to automatically download and install the correct versi
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ## Method 5: Reset your Cortana
 
  The methods above may resolve your problem. But if they all fails, don’t be frustrated, follow these to reset your Cortana:
@@ -130,9 +153,6 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb177220ba8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
  3) Click the same button again to turn on Cortana. You should the see the **On**  status again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
@@ -148,8 +168,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +175,22 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-earning-big-from-youtube-shorts-key-requirements-and-profit-prospects/"><u>[New] In 2024, Earning Big From YouTube Shorts Key Requirements and Profit Prospects</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-navigating-the-world-of-lut-filters-for-obs-mastery/"><u>[New] In 2024, Navigating the World of LUT Filters for OBS Mastery</u></a></li>
+<li><a href="https://extra-support.techidaily.com/new-pushing-boundaries-of-editing-how-to-erase-image-borders-on-canva/"><u>[New] Pushing Boundaries of Editing How to Erase Image Borders on Canva</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-10-best-free-photo-collage-apps-for-iphone/"><u>[Updated] 10 Best FREE Photo Collage Apps for iPhone</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-visual-appeal-making-top-tier-video-banner-templates-for-2024/"><u>[Updated] Unlocking Visual Appeal Making Top-Tier Video Banner Templates for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-a-non-functional-logitech-software-suite-for-pc-users/"><u>How to Repair a Non-Functional Logitech Software Suite for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/masterful-guide-overcoming-outriders-lag-for-a-smoother-gaming-experience/"><u>Masterful Guide: Overcoming Outriders Lag for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-stuck-loader-challenge-in-your-minecraft-gameplay/"><u>Overcoming the 'Stuck Loader' Challenge in Your Minecraft Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-woes-solved-why-does-lost-ark-keep-quitting-and-how-you-can-stop-it-now/"><u>PC Woes Solved! Why Does 'Lost Ark' Keep Quitting and How You Can Stop It Now</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/spotlight-on-figure-skaters-2022-edition/"><u>Spotlight on Figure Skaters 2022 Edition</u></a></li>
+<li><a href="https://discover-great.techidaily.com/streamlined-methods-to-decrease-your-video-files-volume-effortlessly/"><u>Streamlined Methods to Decrease Your Video Files' Volume Effortlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-malfunctioning-msi-dragon-center/"><u>Troubleshooting and Repairing Malfunctioning MSI Dragon Center</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-continuous-crashes-in-insurgency-sandstorm/"><u>Troubleshooting Guide: Fixing Continuous Crashes in 'Insurgency: Sandstorm'.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-dev-error-e6068-mastering-mw-warzone-stability-issues/"><u>Ultimate Fixes for Dev Error E6068 - Mastering MW: Warzone Stability Issues</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-update-your-hardware-drivers-in-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to update your hardware drivers in Windows 11/10</u></a></li>
+</ul></div>
 

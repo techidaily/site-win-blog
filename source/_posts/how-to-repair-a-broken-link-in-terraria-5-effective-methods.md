@@ -1,7 +1,7 @@
 ---
 title: How To Repair A Broken Link In Terraria - 5 Effective Methods
-date: 2024-09-01T08:43:13.900Z
-updated: 2024-09-02T08:43:13.900Z
+date: 2024-11-14T20:45:46.843Z
+updated: 2024-11-16T22:09:48.914Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Terraria is a great game for you to explore randomly generated worlds. However, 
 5. [Enable port forwarding](https://tools.techidaily.com/drivereasy/download/)
 6. [Uninstall and reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896555/19272" target="_top" id="1896555">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896555" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896555/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1\. Check for the latest version of the game
 
  This connection issue happens most with multiplayer. If you get this error when you join a friend, you can log out and update Terraria. Also, ensure your friends are using the latest version of Terraria.
@@ -40,6 +47,13 @@ This can be done by verifying the game files in Steam.
 2. Right-click**Terraria** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties.png)
 3. Go to the**Local Files** tab and click “**Verify integrity of game cache** “.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY-1.png)
 
@@ -53,10 +67,6 @@ This can be done by verifying the game files in Steam.
 
  Make sure to create a character accordingly before and you won’t be seeing the**Connection Lost** error in Terraria.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Fix 3\. Deactivate Windows Firewall
 
  Make sure your Windows Firewall (as well as your antivirus software) is not blocking the connection. To do that, you will need to turn off Windows Firewall and uninstall your antivirus software temporarily. Here’s how:
@@ -68,9 +78,6 @@ This can be done by verifying the game files in Steam.
 2. From the left menu, select **Turn Windows Defender Firewall on or off** .  
 ![turn off firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/Turn-on-or-off.jpg)
 3. Select **Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network, and Public network. Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![turn off firewall for all](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-off.jpg)
 
  After turning off your firewall, restart Terraria to check if the**Connection Lost in Terraria** has been solved.
@@ -91,11 +98,15 @@ This can be done by verifying the game files in Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Or click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 4. Restart your PC and try to start your Terraria to see if this helps get rid of the ‘Lost Connection’ error.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1975816/19272" target="_top" id="1975816">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975816" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975816/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5\. Enable port forwarding
 
@@ -116,14 +127,16 @@ This can be done by verifying the game files in Steam.
 2. Type in**ipconfig /all** and press**Enter** .  
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take note of the following:**IPv4 Address, Subnet Mask, Default Gateway** and**DNS Servers** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130885/7443" target="_top" id="2130885">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130885" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130885/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
+
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste it to your browser’s address bar.
 
 #### Step 2\. Set up the static IP address
@@ -132,25 +145,43 @@ This can be done by verifying the game files in Steam.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click**Internet Protocol Version 4 (TCP/IPv4)** from the list.  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1834906">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834906.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834906">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834906.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834906%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834906/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137223/26400" target="_top" id="2137223">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137223" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137223/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  4\. Select **Use the following IP address** , and**Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
 4. Click**OK** to apply.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868575/19272" target="_top" id="1868575">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868575" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868575/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 #### Step 3\. Set up Port Forwarding
 
@@ -164,9 +195,6 @@ This can be done by verifying the game files in Steam.
 
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
 6. Once complete, enable the port forwarding rule with an **Enable** or **On** option.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 #### Fix 6\. Uninstall and reinstall the game
 
@@ -176,6 +204,14 @@ This can be done by verifying the game files in Steam.
 2. Type in**appwiz.cpl** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/appwiz.cpl_.jpg)
 3. Right-click Terraria and select**Uninstall** .
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Download and install Terraria again, and restart your computer to check if the ‘Lost Connection’ issue is fixed by now.
 
 ---
@@ -193,8 +229,6 @@ This can be done by verifying the game files in Steam.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +236,17 @@ This can be done by verifying the game files in Steam.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-breaking-barriers-next-level-strategies-for-fb-video-success/"><u>[New] In 2024, Breaking Barriers Next-Level Strategies for FB Video Success</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-top-10-gps-drones-that-follow-you/"><u>[New] Top 10 GPS Drones That Follow You</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/nlock-channels-success-key-equipment-insights/"><u>[New] Unlock Channels Success Key Equipment Insights</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/crafting-impeccable-crossfades-with-premiere-pro-for-2024/"><u>Crafting Impeccable Crossfades with Premiere Pro for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-gaming-smoothness-proven-techniques-for-higher-wow-fps-scores/"><u>Enhance Gaming Smoothness: Proven Techniques for Higher WoW FPS Scores</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-postponement-reasons-and-new-release-date-details/"><u>Guilty Gear Strive - Postponement Reasons and New Release Date Details</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-nwstoreexe-application-error/"><u>How to Fix NW_store.exe Application Error</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/hp-laptops-unresponsive-keys-master-the-rapid-restoration-methods-today/"><u>HP Laptops' Unresponsive Keys? Master the Rapid Restoration Methods Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-for-when-your-qbittorrent-gets-halted/"><u>Quick Solutions for When Your qBittorrent Gets Halted</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/the-artists-toolkit-creating-collages/"><u>The Artist's Toolkit Creating Collages</u></a></li>
+</ul></div>
 

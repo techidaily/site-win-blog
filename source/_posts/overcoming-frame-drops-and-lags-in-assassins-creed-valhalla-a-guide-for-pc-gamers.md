@@ -1,7 +1,7 @@
 ---
 title: Overcoming Frame Drops & Lags in Assassin's Creed Valhalla - A Guide for PC Gamers
-date: 2024-09-01T08:42:11.238Z
-updated: 2024-09-02T08:42:11.238Z
+date: 2024-11-15T04:44:24.928Z
+updated: 2024-11-17T09:30:53.351Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 7. **[Check the launcher log](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Assassin’s Creed Valhalla](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2087253/19272" target="_top" id="2087253">
+  <img src="//a.impactradius-go.com/display-ad/19272-2087253" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2087253/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your specs meet the requirements
 
  Just like the notorious Watch Dogs: Legion, Assassin’s Creed Valhalla is one of the best offerings of Ubisoft in 2020\. And when it comes to AAA titles in a Ray Tracing era, having a great gaming setup becomes a must for all the aficionados out there. So before you dive into any advance troubleshooting below, first**make sure your PC specs meets the minimum game requirements** :
@@ -58,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
@@ -71,29 +75,10 @@ thumbnail: https://thmb.techidaily.com/dc576bce0a179ba7a635140f867e3e38f81d54c67
 3. Select **Verify files** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  There’re 2 types of system updates in Windows 10, one addresses security and compatibility issues and another provides a regular feature update.**Keeping you system up to date** could help you avoid loads of stranger things.
@@ -105,9 +90,6 @@ You can use these steps to check for Windows updates manually:
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
 
  Once you’ve fully updated your system, restart your PC and check if Assassin’s Creed Valhalla becomes stable.
@@ -139,6 +121,14 @@ If the crash happens again, you can take a look at the next fix.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
@@ -147,6 +137,13 @@ If the crash happens again, you can take a look at the next fix.
  Once you’ve updated your graphics driver, restart your PC and test the gameplay in Assassin’s Creed Valhalla.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123730/7443" target="_top" id="2123730">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123730" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123730/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Lower in-game graphics settings
 
@@ -158,15 +155,23 @@ If the crash happens again, you can take a look at the next fix.
 2. Navigate to the**Graphics** tab. Turn off or set every options to**Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this trick failed to solve your problem, you can move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<a href="https://aligracehair.sjv.io/c/5597632/1896527/19272" target="_top" id="1896527">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896527" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896527/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Disable peripherals
 
  To some pro-gamers, a controller can be a whole lot more comfortable than a mouse and keyboard. While peripherals surely add more fun to games, there have been reports that they can also have compatibility issues with new titles. So if you’re using peripherals (e.g. controllers) in Assassin’s Creed Valhalla, try**returning to the classic mouse and keyboard bundle** and see if it helps.
@@ -177,13 +182,6 @@ If the crash happens again, you can take a look at the next fix.
 
  If you’re a tech-savvy player, one effective way to troubleshoot is to check the**launcher\_log.txt** after crashing. The default location to find your log files is:**C:\\Program Files (x86)\\Ubisoft\\Ubisoft Game Launcher\\logs** . In the file named**launcher\_log.txt** , you should see what happened exactly. Check if the crash involves certain game files. If yes, delete them and run a**Scan and Repair** to re-download the latest files.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 8: Reinstall Assassin’s Creed Valhalla
 
 [According to some Vikings](https://discussions.ubisoft.com/topic/76984/can-t-get-past-the-ac-valhalla-start-before-the-game-launches/21?lang=en-US) , **doing a clean reinstallation of Assassin’s Creed Valhalla** could be a potential fix to the crash. So if you’ve tried all the fixes above and none works for you, you can try to perform a reinstallation of Assassin’s Creed Valhalla. It allows you to get the latest build of the game, which might include a new patch targeting the crashing issue.
@@ -198,8 +196,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +203,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-discover-affordable-premium-asmr-audio-equipment/"><u>[New] 2024 Approved Discover Affordable Premium ASMR Audio Equipment</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-iphone-photography-simplified-adopt-these-10-easy-rules/"><u>[Updated] In 2024, IPhone Photography Simplified Adopt These 10 Easy Rules</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-the-ultimate-guide-to-night-photos-on-iphones/"><u>[Updated] The Ultimate Guide to Night Photos on iPhones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/age-of-empires-iv-overcoming-download-obstacles-on-the-microsoft-store-platform/"><u>Age of Empires IV: Overcoming Download Obstacles on the Microsoft Store Platform</u></a></li>
+<li><a href="https://games-able.techidaily.com/analyzing-discords-nitro-benefits/"><u>Analyzing Discord's Nitro Benefits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-bugs-ensuring-a-smooth-run-of-tormented-souls-across-pc-platforms/"><u>Battling Bugs: Ensuring a Smooth Run of 'Tormented Souls' Across PC Platforms</u></a></li>
+<li><a href="https://android-location.techidaily.com/easy-ways-to-manage-your-vivo-x100-location-settings-drfone-by-drfone-virtual/"><u>Easy Ways to Manage Your Vivo X100 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-improve-frame-rate-how-cyberpunk-2077-enhancements-boost-fps/"><u>Fixes Improve Frame Rate: How Cyberpunk 2077 Enhancements Boost FPS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/heterocyclic-compounds-can-be-aromatic-if-they-follow-huckels-rule-even-with-heteroatoms-like-nitrogen-or-oxygen-in-the-ring-structure/"><u>Heterocyclic Compounds Can Be Aromatic if They Follow Hückel's Rule, Even with Heteroatoms Like Nitrogen or Oxygen in the Ring Structure.</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-enablingdisabling-multitasking-feature-a-compreenas-guide/"><u>In 2024, Enabling/Disabling Multitasking Feature A Compreenas Guide</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-xiaomi-redmi-12-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Xiaomi Redmi 12? | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-novice-necessities-your-first-steps-in-gopro-world/"><u>In 2024, Novice Necessities - Your First Steps in GoPro World</u></a></li>
+<li><a href="https://win-answers.techidaily.com/1723003867612-pc-troubles-heres-the-solution-for-dread-hunger-keep-stopping-unexpectedly/"><u>PC Troubles? Here's The Solution For 'Dread Hunger' Keep Stopping Unexpectedly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steps-for-playing-disco-elysium-add-ons-on-windows-and-mac/"><u>Resolved! Troubleshooting Steps for Playing Disco Elysium Add-Ons on Windows and Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-game-crashes-in-forza-horizon-5-a-comprehensive-walkthrough/"><u>Resolving Game Crashes in Forza Horizon 5 - A Comprehensive Walkthrough</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-overview-for-steam-steamui-dll-missing-application-errored-out-issue/"><u>Solution Overview for Steam 'SteamUI DLL Missing - Application Errored Out' Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-black-screen-glitch-on-call-of-duty-wwii-windows/"><u>Troubleshooting Guide: Eliminating Black Screen Glitch on Call of Duty: WWII (Windows)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixes-for-nier-replicant-hd-remaster-startup-issues/"><u>Troubleshooting Guide: Fixes for NieR Replicant HD ReMASTER Startup Issues</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-xiaomi-redmi-note-12-pro-5g-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Xiaomi Redmi Note 12 Pro 5G | Dr.fone</u></a></li>
+</ul></div>
 

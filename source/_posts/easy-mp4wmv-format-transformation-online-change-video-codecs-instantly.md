@@ -1,7 +1,7 @@
 ---
 title: Easy MP4/WMV Format Transformation Online - Change Video Codecs Instantly
-date: 2024-11-06T03:45:40.920Z
-updated: 2024-11-07T07:32:32.271Z
+date: 2024-11-16T07:50:50.383Z
+updated: 2024-11-17T14:09:43.264Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/8b607e0e604394629b363ae69329923c5b752c9a4c4af741aef58011df0d7554.jpg
@@ -153,10 +153,10 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 Afficher plus
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://united.elfm.net/c/5597632/2139557/4704" target="_top" id="2139557">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139557" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139557/4704" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
@@ -168,13 +168,6 @@ Afficher plus
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134493/18498" target="_top" id="2134493">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134493" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134493/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
@@ -195,6 +188,13 @@ Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857869/11832" target="_top" id="857869">
+  <img src="//a.impactradius-go.com/display-ad/11832-857869" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857869/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -228,13 +228,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2148775/18498" target="_top" id="2148775">
-  <img src="//a.impactradius-go.com/display-ad/18498-2148775" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2148775/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
 Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été développé avec cette version. La bonne nouvelle est que la liste de ces jeux s'allonge chaque jour, car de plus en plus de sociétés de jeux adoptent cette version.
@@ -242,6 +235,13 @@ Pour bénéficier des fonctionnalités de DirectX 12, le jeu doit avoir été d�
 Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur la   **touche Windows** \+ **R**, tapez "dxdiag" et cliquez sur **OK**. L'outil de diagnostic DirectX s'ouvre.
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080347/19272" target="_top" id="2080347">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080347/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### 
 
@@ -328,10 +328,16 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 3. Si vous utilisez une carte AMD, vous n'avez pas besoin de MSI Afterburner pour contrôler les performances. Il vous suffit d'appuyer sur **Ctrl** \+ **Shift** \+ **O** pour que vos statistiques apparaissent dans le jeu.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997643/19272" target="_top" id="1997643">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997643" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997643/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1265663">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1265663.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/4482-1265663">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1265663.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmartinic.evyy.net%2Fc%2F5597632%2F1265663%2F4482'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1265663/4482" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Réduire la résolution dans un jeu
@@ -359,16 +365,10 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
 
 <!-- affiliate ads begin -->
-<span id="1983545">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1983545.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1983545">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983545.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983545%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983545/22993" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135397/19272" target="_top" id="2135397">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135397" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135397/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
@@ -436,6 +436,19 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
+<!-- affiliate ads begin -->
+<span id="2135472">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/2135472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/18498-2135472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/2135472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Funicoeye.pxf.io%2Fc%2F5597632%2F2135472%2F18498'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/2135472/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -447,6 +460,13 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -461,28 +481,15 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 3. Réglez les paramètres de vos ventilateurs pour qu'ils ne soient pas trop sollicités.
 4. Si vous le pouvez, jouez sur votre ordinateur portable dans un environnement frais.
 
-<!-- affiliate ads begin -->
-<span id="1160850">
-					<video width="576" height="324" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1160850.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/14559-1160850">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1160850.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fpropmoneyinc.pxf.io%2Fc%2F5597632%2F1160850%2F14559'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1160850/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2137379/7443" target="_top" id="2137379">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137379" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137379/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### 
@@ -549,13 +556,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1175223/12108" target="_top" id="1175223">
-  <img src="//a.impactradius-go.com/display-ad/12108-1175223" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1175223/12108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
@@ -613,18 +613,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-clearscreenstreamer-seamless-easy-w11-screenshots/"><u>[New] In 2024, ClearScreenStreamer Seamless, Easy W11 Screenshots</u></a></li>
-<li><a href="https://screen-capture.techidaily.com/new-leading-12-screen-recorders-no-time-limit/"><u>[New] Leading 12 Screen Recorders, No Time Limit</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/updated-innovative-video-enhancement-using-vce-22-for-2024/"><u>[Updated] Innovative Video Enhancement Using VCE 2.2 for 2024</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/updated-navigate-the-excellent-world-of-top-vr-cycling/"><u>[Updated] Navigate the Excellent World of Top VR Cycling</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/2024-approved-stabilizing-your-motion-sensitive-cameras-a-step-by-step-guide/"><u>2024 Approved Stabilizing Your Motion-Sensitive Cameras A Step by Step Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/arise-chronicles-fixes-and-solutions-for-bugs-and-stability-problems/"><u>Arise Chronicles - Fixes and Solutions for Bugs & Stability Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/bug-fixes-implemented-for-destiny-2-launch-on-personal-computers/"><u>Bug Fixes Implemented for Destiny 2 Launch on Personal Computers</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-honor-magic5-ultimate-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Honor Magic5 Ultimate IMEI without Root A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/masterful-hacks-to-stop-devil-may-cry-5-from-crashing-instantly/"><u>Masterful Hacks to Stop Devil May Cry 5 From Crashing Instantly</u></a></li>
-<li><a href="https://win-blog.techidaily.com/navigating-through-hazardous-programming-errors-in-modern-warfare-and-blackout/"><u>Navigating Through Hazardous Programming Errors in Modern Warfare and Blackout</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solving-the-issues-of-robocop-legacy-a-comprehensive-guide-to-overcome-pc-game-crashes/"><u>Solving the Issues of 'RoboCop: Legacy' - A Comprehensive Guide to Overcome PC Game Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-the-frostpunk-game-crash-problem/"><u>Troubleshooting Guide: Fixing the Frostpunk Game Crash Problem</u></a></li>
-<li><a href="https://video-capture.techidaily.com/ultimate-list-of-free-websites-to-enjoy-and-view-anime-streaming-services/"><u>Ultimate List of FREE Websites to Enjoy & View Anime Streaming Services</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-expert-level-quick-fixes-the-ultimate-5-diy-filmmaking-tricks/"><u>[New] Expert-Level Quick Fixes The Ultimate 5 DIY Filmmaking Tricks</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-propel-your-presence-on-facebook-mastering-the-art-of-going-live-for-2024/"><u>[New] Propel Your Presence on Facebook Mastering the Art of Going Live for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-bring-back-missing-watch-playlist-icon/"><u>[Updated] 2024 Approved Bring Back Missing Watch Playlist Icon</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-crack-the-code-unearthing-hidden-gems-in-youtubes-archive/"><u>2024 Approved Crack the Code Unearthing Hidden Gems in YouTube's Archive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mp2-wav-movavi/"><u>完全無料のオンラインMP2 WAV音楽ファイル変換ツール - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/orf-jpg-movavi/"><u>自動 ORF 到 JPG 在线免费转换 - 使用 Movavi 图像编辑工具</u></a></li>
+<li><a href="https://extra-information.techidaily.com/behind-the-brand-pewdiepies-financial-figures-unveiled-for-2024/"><u>Behind the Brand PewDiePie’s Financial Figures Unveiled for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/choosing-the-right-video-resume-creator-a-comparison-of-the-best-6-platforms/"><u>Choosing the Right Video Resume Creator: A Comparison of the Best 6 Platforms</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1722988506423-cyberpunk-2077-overheating-issues-heres-the-solution-for-lowering-cpu-load/"><u>Cyberpunk 2077 Overheating Issues? Here’s the Solution for Lowering CPU Load</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-the-power-of-movavi-all-features-in-one-place-the-ultimate-guide/"><u>Discover the Power of Movavi - All Features in One Place: The Ultimate Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dvd-movavi/"><u>DVD에서 영상/음악 파일로의 원활한 전환: Movavi 동영상 변퓨터 사용법</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-4-ways-to-transfer-music-from-sony-xperia-1-v-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 4 Ways to Transfer Music from Sony Xperia 1 V to iPhone | Dr.fone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/in-2024-master-your-art-on-iphone-discover-the-8-prime-drawing-tools/"><u>In 2024, Master Your Art on iPhone Discover the 8 Prime Drawing Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-free-online-3gp-e-er-arquivos-em-3g2-converter-aulas-gratuitas/"><u>Movavi Free Online 3GP E Er Arquivos Em 3G2 Converter - Aulas Gratuitas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/scaricare-il-programma-di-editing-video-ottimizzato-per-google-movavi/"><u>Scaricare Il Programma Di Editing Vidéo Ottimizzato per Google: Movavi</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-camcorder-features-front-view-display/"><u>Ultimate Camcorder Features - Front View Display</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mpeg-3g2-movavi/"><u>オンラインで手軽に行う MPEG-3G2 ファイル変換 - Movavi無料ツール</u></a></li>
 </ul></div>
 

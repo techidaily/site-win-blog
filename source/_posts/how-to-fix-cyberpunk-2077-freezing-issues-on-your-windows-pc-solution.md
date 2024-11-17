@@ -1,7 +1,7 @@
 ---
 title: How To Fix Cyberpunk 2077 Freezing Issues On Your Windows PC - SOLUTION
-date: 2024-09-01T08:41:39.411Z
-updated: 2024-09-02T08:41:39.411Z
+date: 2024-11-14T12:41:47.405Z
+updated: 2024-11-17T01:26:29.515Z
 tags:
   - win11
   - win10
@@ -63,11 +63,15 @@ If your issue continues to occur, you can move to the next fix.
 2. Right-click the programs you want to close and select **End Task** . Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 3. Restart Cyberpunk 2077 to see if this fixed your issue.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this fix doesn’t help your case, simply take a look at the next one.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094421/7443" target="_top" id="2094421">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094421" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094421/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify your game files
 
@@ -81,11 +85,15 @@ If your issue continues to occur, you can move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/verify-integrity-of-game-files-Steam-1.jpg)
 5. Relaunch Cyberpunk 2077 to check the issue.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918679/19272" target="_top" id="1918679">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918679" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918679/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Adjust your virtual memory
 
 **Virtual memory**  is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when running Cyberpunk 2077, Windows will dip into virtual memory for temporary file storage.
@@ -99,35 +107,43 @@ If your issue continues to occur, you can move to the next fix.
 2. Click **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 3. Click the **Advanced**  tab, and then click **Change** .  
+
 <!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
+<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938721/19272" target="_top" id="1938721">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938721" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938721/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 7. Click **Set** , then **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047361/19272" target="_top" id="2047361">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047361" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047361/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 8. Restart your computer and test your game.
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If your issue still exists, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your game
 
  The problem may cause by the incorrect or not inproperly installed on the PC. Therefore, reinstalling the game is an option to fix the issue.  
@@ -141,9 +157,6 @@ If your issue still exists, move to the next fix.
 
 If the issue continues to occur, go to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 6: Perform a clean boot
 
  A clean boot is basically starting your system with the most basic services and programs. In some cases, this can minimize the chances of software conflicts and reserve the most resources for your game.
@@ -155,17 +168,40 @@ You can follow these simple steps to do a clean boot:
 2. In the pop-up window, navigate to the **Services**  tab and check the box before **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2144271/7443" target="_top" id="2144271">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144271" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144271/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC and check if Cyberpunk 2077 freezing again.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1542129">
+					<video width="864" height="1152" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1542129.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1542129">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1542129.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1542129%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1542129/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ---
@@ -180,8 +216,6 @@ You can follow these simple steps to do a clean boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +223,26 @@ You can follow these simple steps to do a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/eversal-techniques-a-new-perspective-on-youtube-videos/"><u>[New] Reversal Techniques A New Perspective on YouTube Videos</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-chuckling-and-crying-on-the-same-ig-feed-top-memetic-pages/"><u>[Updated] Chuckling and Crying on the Same IG Feed Top Memetic Pages</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-elevating-your-gameplay-on-youtube-with-these-essential-tags/"><u>[Updated] In 2024, Elevating Your Gameplay on YouTube with These Essential Tags</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-unveiling-the-mystery-of-proper-lighting-in-youtube-vids/"><u>[Updated] Unveiling the Mystery of Proper Lighting in YouTube Vids</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/discover-the-best-chatgpt-enabled-pdf-tools-to-save-time-and-simplify-tasks/"><u>Discover the Best ChatGPT-Enabled PDF Tools to Save Time and Simplify Tasks</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/dji-flying-series-fundamentals-advanced-features-high-res-vision-for-2024/"><u>DJI Flying Series Fundamentals, Advanced Features, High-Res Vision for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/get-the-latest-logitech-g402-keyboard-software-and-system-requirements-for-optimal-performance/"><u>Get the Latest Logitech G402 Keyboard Software & System Requirements for Optimal Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-dark-screen-glitch-in-hitman-3-on-your-computer/"><u>How to Resolve the Dark Screen Glitch in Hitman 3 on Your Computer</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-8-solutions-to-fix-find-my-friends-location-not-available-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>In 2024, 8 Solutions to Fix Find My Friends Location Not Available On Lava Blaze 2 | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-master-review-unveiling-the-full-potential-of-android-lightroom/"><u>In 2024, Master Review Unveiling the Full Potential of Android Lightroom</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-story-why-wolcen-lords-of-mayhem-is-still-not-available-to-players/"><u>Inside Story: Why Wolcen: Lords of Mayhem Is Still Not Available to Players</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-stop-motion-mastery-top-software-picks-for-mac-and-pc-users-for-2024/"><u>New Stop Motion Mastery Top Software Picks for Mac and PC Users for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-game-interruptions-ultimate-2-groove-ultimate-strategies-to-fix-dead-by-daylight-crashes/"><u>No More Game Interruptions: Ultimate 2 Groove, Ultimate Strategies to Fix Dead by Daylight Crashes .</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolution-assassins-creed-valhalla-release-delay-clarified/"><u>Resolution: Assassin's Creed Valhalla Release Delay Clarified</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007384463-solving-high-memory-consumption-in-google-chrome-a-step-by-step-guide/"><u>Solving High Memory Consumption in Google Chrome: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/star-wars-battlefront-2-mishap-heres-how-to-tackle-error-code-327-successfully/"><u>Star Wars Battlefront 2 Mishap? Here's How to Tackle Error Code 327 Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-fix-unending-failures-of-remnants-ashen-adventure/"><u>Steps to Fix Unending Failures of Remnant's Ashen Adventure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-mechanism-of-action-involving-transferring-pollutants-from-the-gas-phase-to-the-liquid-phase-followed-by-removal-as-part-of-the-wastewater-stream/"><u>The Mechanism of Action Involving Transferring Pollutants From the Gas Phase to the Liquid Phase, Followed by Removal as Part of the Wastewater Stream</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-the-vr-game-crashes-on-your-windows-pc/"><u>Troubleshooting Guide: Resolving the VR Game Crashes on Your Windows PC</u></a></li>
+</ul></div>
 

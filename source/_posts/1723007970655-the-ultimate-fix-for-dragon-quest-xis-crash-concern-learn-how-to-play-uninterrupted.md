@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Fix for Dragon Quest XI's Crash Concern - Learn How to Play Uninterrupted!
-date: 2024-09-01T08:43:19.645Z
-updated: 2024-09-02T08:43:19.645Z
+date: 2024-11-09T21:34:55.228Z
+updated: 2024-11-17T07:02:52.464Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 6. **[Modify in-game graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Minecraft Dungeons](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135350/19272" target="_top" id="2135350">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135350" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135350/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Make sure your PC meets the minimum requirements
 
  Before we begin to troubleshoot the game crashing issue, you’ll need to make sure your PC meets the minimum requirements to run Minecraft Dungeons properly.
@@ -41,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/be34f09b3263dabe58e7e8e9b611840eed5d78451
 
  After confirming your PC is good enough for Minecraft Dungeons, go ahead with the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Install the latest game patch
 
  The developers of Minecraft Dungeons constantly release game patches to add new features and fix the known bugs. If you haven’t updated your game to the most recent version, you should give it a try to see if it can resolve your crashing issue.
@@ -78,15 +82,16 @@ If the crashing issue remains, continue to the next fix.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your computer and launch Minecraft Dungeons to see if the game crashes again.
@@ -94,8 +99,12 @@ If the crashing issue remains, continue to the next fix.
 If the issue persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  Windows updates often bring new features and security improvements. If you don’t remember the last time you updated your system, you can try to check for updates manually and see if it helps. Here’s how:
@@ -104,21 +113,26 @@ If the issue persists, move on to the next fix.
 2. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/update.jpg)
 3. Under Windows Update, click**Check for updates** . Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2047406/19272" target="_top" id="2047406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047406" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047406/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  Once you’ve installed all the updates, restart your computer and launch Minecraft Dungeons to see if the crashing issue is resolved.
 
 If this fix doesn’t do the trick, try the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair your game
 
  The crashing issue in Minecraft Dungeons may occur due to the corrupted game files. If you’re on Windows 10, you can try repairing the game without reinstalling it. The game’s data won’t be affected. Here’s how:
@@ -131,13 +145,17 @@ If this fix doesn’t do the trick, try the next one.
 4. Scroll down the page, then click**Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/repair-minecraft-dungeons.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123734/7443" target="_top" id="2123734">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123734" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123734/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Now you can relaunch Minecraft Dungeons to check if the game works properly.
 
 If this fix doesn’t work for you, check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Modify in-game graphics settings
 
  High graphics settings in Minecraft Dungeons are likely to overload your system and may cause the crashing issue. So you can modify the in-game graphics settings to alleviate the stress of your PC and improve the game’s performance. Here’s how:
@@ -146,13 +164,24 @@ If this fix doesn’t work for you, check out the next one.
 2. Click**Display / Graphics** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-display-graphics.jpg)
 3. Select**Advanced Graphics** .  
+
+<!-- affiliate ads begin -->
+<span id="1975503">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975503.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975503">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975503.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975503%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975503/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/minecraft-dungeons-advanced-graphics.jpg)
 4. **Turn off** V-sync, Anti-Aliasing Quality, Shadow Quality and Bloom.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-off.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 Check if Minecraft Dungeons still crashes.
 
 If this fix doesn’t help, check out the last one.
@@ -165,9 +194,6 @@ If this fix doesn’t help, check out the last one.
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-settings-apps.jpg)
 3. Under Apps & features, click**Minecraft Dungeons** and select**Uninstall** . Then follow the on-screen instructions to uninstall the game.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/uninstall-minecraft-dungeons.jpg)
 4. Go to **[Minecraft Dungeon’s official website](https://www.minecraft.net/en-us/about-dungeons)**  to download and install the latest version.
 
@@ -186,8 +212,6 @@ Check if Minecraft Dungeons works properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +219,22 @@ Check if Minecraft Dungeons works properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-building-an-audience-with-exceptional-fb-reel-content/"><u>[New] Building an Audience with Exceptional FB Reel Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-fixing-the-frustrating-missing-footage-in-fb-feed/"><u>[New] In 2024, Fixing the Frustrating Missing Footage in FB Feed</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-mastering-amazing-ig-video-creation-for-2024/"><u>[New] Mastering Amazing IG Video Creation for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-i-fixed-crusader-kings-2-wont-start-problem/"><u>How I Fixed Crusader Kings 2 Won't Start Problem</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-10-fake-gps-location-apps-on-android-of-your-honor-magic-6-pro-drfone-by-drfone-virtual/"><u>In 2024, 10 Fake GPS Location Apps on Android Of your Honor Magic 6 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-breakthrough-tactics-for-capturing-virtual-conferences/"><u>In 2024, Breakthrough Tactics for Capturing Virtual Conferences</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-iphone-xr-with-imei-code-by-drfone-ios/"><u>In 2024, How to Unlock iPhone XR with IMEI Code?</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-investing-in-success-budget-for-youtube-growth/"><u>In 2024, Investing in Success Budget for YouTube Growth</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kernelbasedll-stability-restored-easily-learn-how-in-this-comprehensive-guide/"><u>Kernelbase.DLL Stability Restored Easily! Learn How in This Comprehensive Guide.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/monster-hunter-rise-failed-to-open-heres-the-remedy/"><u>Monster Hunter Rise Failed to Open? Here's the Remedy</u></a></li>
+<li><a href="https://program-issues.techidaily.com/optimizing-your-gaming-experience-avoid-crashes-with-house-flipper-amo-on-pc/"><u>Optimizing Your Gaming Experience: Avoid Crashes with House Flipper Amo on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-freezing-problems-with-outpost-infinity-on-computer-expert-tips-and-tricks/"><u>Overcoming Freezing Problems with Outpost: Infinity on Computer – Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-connection-woes-ultimate-fixes-for-ubisoft-connect-malfunctions/"><u>Resolving Connection Woes: Ultimate Fixes for Ubisoft Connect Malfunctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-crashes-in-the-lost-ark-pc-gaming-experience/"><u>Resolving Crashes in the Lost Ark PC Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-strategies-escaping-the-perpetual-launch-screen-of-fortnite/"><u>Winning Strategies: Escaping the Perpetual Launch Screen of Fortnite</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Hitman 3 Won't Start: Troubleshooting Guide for PC Users"
-date: 2024-09-01T08:42:51.484Z
-updated: 2024-09-02T08:42:51.484Z
+date: 2024-11-15T05:42:37.115Z
+updated: 2024-11-16T21:56:18.281Z
 tags:
   - win11
   - win10
@@ -39,6 +39,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![Windows Defender Firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/windows-firewall-1.jpg)
 2. From the left panel, click **Allow an app or feature through Windows Defender Firewall** .  
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134489/18498" target="_top" id="2134489">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134489/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
@@ -47,6 +54,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1484910/16446" target="_top" id="1484910">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484910" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484910/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 2\. Run your game launcher as administrator
 
@@ -60,9 +74,6 @@ If this doesn’t do the trick, try the next fix below.
 
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. In addition, having too many programs, especially those memory-hogging programs running in the background can eat up the system resources, causing unexpected issues.
@@ -74,17 +85,26 @@ If this doesn’t do the trick, try the next fix below.
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unneeded applications.  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075462/7443" target="_top" id="2075462">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075462" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075462/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  When you’re done, launch your game. If your problem persists, try the next fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1972684/19272" target="_top" id="1972684">
+  <img src="//a.impactradius-go.com/display-ad/19272-1972684" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972684/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 4\. Repair corrupted game files
 
@@ -117,9 +137,6 @@ If this doesn’t do the trick, try the next fix below.
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### How to update your graphics driver
 
 * [Manually](https://tools.techidaily.com/drivereasy/download/)
@@ -134,11 +151,15 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137210/26400" target="_top" id="2137210">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137210" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137210/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Once you find out the brand of your graphics card, visit the manufacturer’s website to get the most up-to-date driver. All you have to do is follow the on-screen instructions to download and install the driver for your system.
 
@@ -162,13 +183,30 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983549">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983549.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983549">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983549.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983549%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983549/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135359/19272" target="_top" id="2135359">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135359" border="0" alt="https://techidaily.com" width="392" height="72"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135359/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 6\. Run a full system scan
 
  If none of the methods outlined above work, it’s time to make some tweaks on the system level. It’s that you need to check if you have any corrupted system files, which may be the culprit of your certain programs not functioning properly. To verify if that’s your case, you can use the**System File Checker** tool by running the sfc /scannow command. However, most of the time, it only scans major files and may miss minor issues that could also make your PC error-prone.
@@ -181,9 +219,6 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Fortect-start-repair.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  After the repair, try to launch Modern Warfare II and you should be able to enjoy your game to the fullest without much unexpected interruptions.
 
 ---
@@ -196,8 +231,6 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +238,19 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-2024-approved-the-top-8-tiktok-hacks-for-maximizing-income/"><u>[New] 2024 Approved The Top 8 TikTok Hacks for Maximizing Income</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-your-workflow-ultimate-convertor-list-1-8/"><u>[Updated] Streamline Your Workflow Ultimate Convertor List #1-8</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-fixing-the-drop-in-fps-on-forza-horizon-5-solved/"><u>Boost Your Frame Rate: Fixing the Drop in FPS on Forza Horizon 5 [Solved]</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/el-name-wizardry-brainstorm-and-create/"><u>Channel Name Wizardry Brainstorm & Create!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-powered-tips-to-take-your-dungeons-and-dragons-game-to-the-next-level/"><u>ChatGPT-Powered Tips to Take Your Dungeons & Dragons Game to the Next Level</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/essential-macbook-enhancements-for-2aturate-your-laptop-expertly-tested-gear-of-2024/"><u>Essential MacBook Enhancements for 2Aturate Your Laptop | Expertly Tested Gear of 2024</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changeadd-location-filters-on-snapchat-for-your-gionee-f3-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Add Location Filters on Snapchat For your Gionee F3 Pro | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-fix-icloud-lock-from-your-iphone-13-pro-max-and-ipad-by-drfone-ios/"><u>In 2024, How to fix iCloud lock from your iPhone 13 Pro Max and iPad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723014078967-quick-guide-to-achieving-higher-fps-on-apex-legends-top-6-strategies-inside/"><u>Quick Guide to Achieving Higher FPS on Apex Legends - Top 6 Strategies Inside!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reviving-soundscapes-fixing-your-pcs-silent-fallout-4-experience/"><u>Reviving Soundscapes: Fixing Your PC’s Silent Fallout 4 Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fix-how-to-resolve-ongoing-issues-with-the-finals-game-on-desktop-computers/"><u>The Ultimate Fix: How to Resolve Ongoing Issues with The Finals Game on Desktop Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-dragon-age-origins-freezing-issue-on-win-10-computers/"><u>Troubleshoot Dragon Age: Origins Freezing Issue on Win 10 Computers</u></a></li>
+</ul></div>
 

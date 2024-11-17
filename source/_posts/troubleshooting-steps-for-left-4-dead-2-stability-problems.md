@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps for Left 4 Dead 2 Stability Problems
-date: 2024-09-01T08:42:20.892Z
-updated: 2024-09-02T08:42:20.892Z
+date: 2024-11-10T16:48:54.911Z
+updated: 2024-11-17T06:04:32.483Z
 tags:
   - win11
   - win10
@@ -32,6 +32,13 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2049363/7443" target="_top" id="2049363">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049363" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049363/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by restarting, it never hurts to restart your computer and your game. Often this will be enough to fix the error.
@@ -39,8 +46,12 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
  Game developers always keep releasing patches to improve their games and fix any issues, so you should manually check for updates of your game. Then install the latest patch to keep it up to date. This can fix some issues like WOW crashing.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  A graphics card driver corruption in your computer can also cause your game crashing. So you should update the graphics card driver to the latest version to fix the issue,
@@ -62,10 +73,6 @@ thumbnail: https://thmb.techidaily.com/8acacdc22230e6f80289d91bcd880583b7cb15e9e
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
@@ -79,21 +86,20 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 2. Click the icon of**World of Warcraft** from the game list on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
+<a href="https://laganoo.pxf.io/c/5597632/1484945/16446" target="_top" id="1484945">
+  <img src="//a.impactradius-go.com/display-ad/16446-1484945" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1484945/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable DVR app in Xbox
 
  Windows automatically enables DVR in Xbox app, but sometimes this is incompatible with games running in your computer. So you can disable DVR in Xbox, so World of Warcraft stops crashing.
@@ -108,11 +114,16 @@ Here’s what you can do:
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -122,6 +133,20 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
+
+<!-- affiliate ads begin -->
+<span id="1328683">
+					<video width="200" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328683.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328683">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328683.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:125px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328683%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328683/15852" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
 
@@ -138,8 +163,6 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +170,26 @@ Here’s what you can do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-connecting-worlds-mastering-video-chats-on-xbox-one-with-zoom-for-2024/"><u>[New] Connecting Worlds Mastering Video Chats on Xbox One with Zoom for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-10-premium-image-editing-overlays-free-for-android-and-iphone-users/"><u>[Updated] 2024 Approved 10 Premium Image Editing Overlays Free for Android & iPhone Users</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-content-creation-crossroads-igtv-vs-youtube-which-one-fits-best/"><u>[Updated] 2024 Approved Content Creation Crossroads IGTV Vs. YouTube - Which One Fits Best?</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-leading-cloud-services-for-android/"><u>[Updated] Leading Cloud Services for Android</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-strategically-showcasing-achievements/"><u>2024 Approved Strategically Showcasing Achievements</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997605180-dark-souls-iii-performance-fixed-say-goodbye-to-unexpected-shutdowns/"><u>Dark Souls III Performance Fixed - Say Goodbye to Unexpected Shutdowns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-your-fortnite-experience-solutions-to-in-game-stuttering-on-desktop/"><u>Enhancing Your Fortnite Experience: Solutions to In-Game Stuttering on Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-playback-lags-in-the-2022-update-of-spotifys-desktop-application-expert-tips-and-tricks/"><u>Fixing Playback Lags in the 2022 Update of Spotify's Desktop Application - Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-resident-evil-village-game-crashes-on-pc-solutions-inside/"><u>How to Fix Resident Evil Village Game Crashes on PC - Solutions Inside</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-play-mp4-files-on-motorola-edge-2023-by-aiseesoft-video-converter-play-mp4-on-android/"><u>How to play MP4 files on Motorola Edge 2023?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-premium-data-buffering-unit-for-sony-a7s-ii/"><u>In 2024, Premium Data Buffering Unit for Sony A7S II</u></a></li>
+<li><a href="https://fox-place.techidaily.com/lost-no-more-a-step-by-step-guide-to-retrieve-and-rebuild-vanished-firefox-bookmarks/"><u>Lost No More: A Step-by-Step Guide to Retrieve and Rebuild Vanished Firefox Bookmarks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-latency-issues-for-a-smoother-experience-in-avatar-the-game-pandora-edition/"><u>Overcoming Latency Issues for a Smoother Experience in Avatar: The Game - Pandora Edition</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-no-response-issues-with-hp-printers/"><u>Overcoming No Response Issues with HP Printers</u></a></li>
+<li><a href="https://howto.techidaily.com/play-store-stuck-on-downloading-of-oppo-reno-8t-7-ways-to-resolve-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Play Store Stuck on Downloading Of Oppo Reno 8T? 7 Ways to Resolve | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcoming-the-issues-preventing-baldurs-gate-iii-from-starting/"><u>Resolved: Overcoming the Issues Preventing Baldur's Gate III From Starting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-unhandled-exception-error-code-0xc0000005-in-call-stack-overflow-for-black-ops-cold-war-players/"><u>Solving Unhandled Exception (Error Code 0Xc0000005) in Call Stack Overflow for Black Ops Cold War Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002941483-team-fortress-2-no-longer-experiencing-frequent-crashes-issue-resolved/"><u>Team Fortress 2 No Longer Experiencing Frequent Crashes - Issue Resolved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010249246-troubleshooting-tips-why-robocop-rogue-city-wont-start-on-your-pc/"><u>Troubleshooting Tips: Why 'RoboCop: Rogue City' Won't Start on Your PC</u></a></li>
+</ul></div>
 

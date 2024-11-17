@@ -1,7 +1,7 @@
 ---
 title: "Complete Walkthrough: Easy Steps to Download and Install Age of Empires IV without Glitches"
-date: 2024-09-01T08:40:48.777Z
-updated: 2024-09-02T08:40:48.777Z
+date: 2024-11-14T08:31:52.287Z
+updated: 2024-11-17T02:21:51.538Z
 tags:
   - win11
   - win10
@@ -50,12 +50,23 @@ thumbnail: https://thmb.techidaily.com/6f4cdd66eb80d6b11b40dd91cdc2954ad9c9332b6
 2. In the System panel, scroll down to find**About** . Click**About** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s2.jpg)
 3. The**Installed RAM** shows how much RAM do you have.  
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1868571/19272" target="_top" id="1868571">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868571" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868571/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your driver
 
  Many PC issues are related to your drivers. Updating your drivers would improve your PC performance and avoid any potential issues. Some gamers have fixed the God of War memory leak issue after updating drivers.
@@ -71,11 +82,25 @@ There are mainly two ways you can update the driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123512/26400" target="_top" id="2123512">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123512" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123512/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable your integrated graphics
 
@@ -86,32 +111,40 @@ There are mainly two ways you can update the driver:
 1. Right-click on the Desktop and launch NVIDIA Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Disable integrated graphics through Device Manager** :
 
 1. Click the**Search** icon on the bottom of your screen.
 2. Type**device manager** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s5.jpg)
 3. Click**Display adapters** .
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934142/19272" target="_top" id="1934142">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934142" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934142/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
 
@@ -124,9 +157,6 @@ There are mainly two ways you can update the driver:
 4. Click**UPDATES** , choosing**Always keep this game updated** and you can update God of War automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  If your PC has corrupted or missing system files, you would encounter a series of problems that may lead to the God of War memory leak or even crash. Use a repair tool to check various areas in your computer to determine the cause of your exact problem. It will deal with issues related to system errors, critical system files and find the right fit for you.
@@ -137,28 +167,10 @@ There are mainly two ways you can update the driver:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
@@ -178,8 +190,6 @@ There are mainly two ways you can update the driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +197,21 @@ There are mainly two ways you can update the driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-building-size/"><u>[New] 2024 Approved Building Size</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-spotlight-secrets-perfecting-vlogger-lights/"><u>[Updated] Spotlight Secrets Perfecting Vlogger Lights</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-elevate-your-profile-picture-game-with-these-high-end-online-services/"><u>2024 Approved Elevate Your Profile Picture Game with These High-End Online Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-higher-fps-performance-in-tainted-grail-conquest-with-proven-techniques/"><u>Achieve Higher FPS Performance in Tainted Grail: Conquest with Proven Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battle-tested-solutions-overcoming-game-interruptions-in-gears-of-war-4/"><u>Battle-Tested Solutions: Overcoming Game Interruptions in Gears of War 4</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/cutthroat-capitalism-reimagined-an-in-depth-review-of-offworld-trading-companys-economy-simulation/"><u>Cutthroat Capitalism Reimagined: An In-Depth Review of Offworld Trading Company's Economy Simulation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-resolving-the-screen-blackout-glitch-in-persona-5-strikers-a-step-by-step-guide/"><u>Expert Advice on Resolving the 'Screen Blackout' Glitch in Persona 5 Strikers: A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/from-basic-to-powerhouse-win11-home-to-pro-guide/"><u>From Basic to Powerhouse: Win11 Home to Pro Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722998661497-get-your-steam-remote-play-running-smoothly-again-with-these-tips/"><u>Get Your Steam Remote Play Running Smoothly Again with These Tips!</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/1726027393320-gif/"><u>GIFアニメの品質保ちつつコンパクトな形で効果的に圧縮する手びん付けガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-nier-replicant-game-freezing-issues/"><u>How to Fix Nier Replicant Game Freezing Issues?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-google-pixel-8-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Google Pixel 8 to Mac? | Dr.fone</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-unlock-professional-vimeo-edits-without-paid-software/"><u>In 2024, Unlock Professional Vimeo Edits Without Paid Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-issues-with-gray-zone-warfare-troubleshooting-steps-for-pc-players/"><u>Resolving Issues with Gray Zone Warfare: Troubleshooting Steps for PC Players</u></a></li>
+</ul></div>
 

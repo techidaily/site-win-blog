@@ -1,7 +1,7 @@
 ---
 title: "Reviving Your Roblox Experience: A Guide to Fixing No-Sound on PCs with Windows 11 or 10"
-date: 2024-09-01T08:39:54.132Z
-updated: 2024-09-02T08:39:54.132Z
+date: 2024-11-14T19:12:14.238Z
+updated: 2024-11-16T16:46:06.340Z
 tags:
   - win11
   - win10
@@ -35,8 +35,12 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 1: Run the troubleshooter
 
  Windows has built-in troubleshooter to fix some common errors. You can try Windows Store Apps troubleshooter to fix the Microsoft Edge crashing problem.
@@ -52,9 +56,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -67,23 +68,21 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
+
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2126493/26400" target="_top" id="2126493">
+  <img src="//a.impactradius-go.com/display-ad/26400-2126493" border="0" alt="https://techidaily.com" width="640" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2126493/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  If this method can’t fix your problem, don’t upset, you can try the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
@@ -92,9 +91,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
@@ -110,9 +114,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Method 5: Run a System File Checker
 
  The corrupted system file may cause Microsoft Edge to crash. To solve it, you can use the 2 ways to repair the broken system files.
@@ -132,15 +133,32 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://oneplusfr.sjv.io/c/5597632/1622438/14044" target="_top" id="1622438">
+  <img src="//a.impactradius-go.com/display-ad/14044-1622438" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://oneplusfr.sjv.io/i/5597632/1622438/14044" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141680/17091" target="_top" id="2141680">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141680" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141680/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880972/19272" target="_top" id="1880972">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880972" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880972/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
@@ -154,6 +172,13 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
+
+<!-- affiliate ads begin -->
+<a href="https://sentrypc.7eer.net/c/5597632/398455/3022" target="_top" id="398455">
+  <img src="//a.impactradius-go.com/display-ad/3022-398455" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398455/3022" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -170,8 +195,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +202,23 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/1723006139210-pathfinder-wrath-of-the-righteous-error-free-gaming-experience-achieved/"><u>'Pathfinder: Wrath of the Righteous' Error-Free Gaming Experience Achieved!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-charting-the-differences-in-youtubes-ownership-and-cc-models-for-2024/"><u>[New] Charting the Differences in YouTube's Ownership and CC Models for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-hottest-online-spots-customized-packaging-at-your-fingertips-for-2024/"><u>[New] Hottest Online Spots Customized Packaging at Your Fingertips for 2024</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-connected-platforms-sharing-videos-between-twitter-and-tumblr-for-2024/"><u>[Updated] Connected Platforms Sharing Videos Between Twitter & Tumblr for 2024</u></a></li>
+<li><a href="https://win-top.techidaily.com/avoiding-forex-trading-blunders-top-13-key-missteps-for-traders-using-metatrader-4-systems/"><u>Avoiding Forex Trading Blunders: Top 13 Key Missteps for Traders Using MetaTrader 4 Systems</u></a></li>
+<li><a href="https://win-able.techidaily.com/1723001127536-cracking-the-code-stop-dauntless-from-crashing-on-your-computer-now/"><u>Cracking the Code: Stop Dauntless From Crashing on Your Computer Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-battlenet-launcher-failures-on-microsoft-windows-systems/"><u>Effective Fixes for 'Battle.net Launcher' Failures on Microsoft Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-pc-start-up-problem-with-cod-black-ops-cold-war-expert-tips/"><u>Fix Your PC Start-Up Problem with Cod: Black Ops Cold War - Expert Tips</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/in-2024-binge-worthy-banquet-these-15-unmissable-tiktok-cooking-and-baking-challenges/"><u>In 2024, Binge-Worthy Banquet These 15 Unmissable TikTok Cooking and Baking Challenges</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-pc-gaming-experience-for-fluid-playthrough-of-assassins-creed-valhalla-stuttering-no-more/"><u>Optimizing PC Gaming Experience for Fluid Playthrough of Assassin's Creed Valhalla – Stuttering No More</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/plain-gpt-or-gpt-with-browser-integration-make-the-choice-now/"><u>Plain GPT or GPT With Browser Integration? Make the Choice Now</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/say-goodbye-to-low-fps-woes-world-of-warcraft-optimization-techniques-for-peak-performance-in-2n24/"><u>Say Goodbye to Low FPS Woes: World of Warcraft Optimization Techniques for Peak Performance in 2N24</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-valheims-lag-issues-for-windows-users-tips-and-tricks/"><u>Solving Valheim's Lag Issues for Windows Users - Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-smoothing-out-v-gameplay-lag-on-your-computer/"><u>Troubleshooting Steps for Smoothing Out 'V' Gameplay Lag on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-stop-v-rising-from-freezing-or-crashing-on-pc/"><u>Troubleshooting Tips: Stop V Rising From Freezing or Crashing on PC</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unveiling-the-capabilities-of-codegpt-in-writing-software/"><u>Unveiling the Capabilities of CodeGPT in Writing Software</u></a></li>
+</ul></div>
 

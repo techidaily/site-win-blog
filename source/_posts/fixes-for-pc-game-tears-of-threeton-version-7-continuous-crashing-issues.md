@@ -1,7 +1,7 @@
 ---
 title: Fixes for PC Game 'Tears of Threeton' Version 7 Continuous Crashing Issues
-date: 2024-09-01T08:40:43.045Z
-updated: 2024-09-02T08:40:43.045Z
+date: 2024-11-15T12:08:43.454Z
+updated: 2024-11-16T18:39:34.966Z
 tags:
   - win11
   - win10
@@ -38,16 +38,35 @@ Here are the steps:
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934288/19272" target="_top" id="1934288">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934288" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934288/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
+  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
 
  Launch the OUTRIDERS-Win64-Shipping.exe file directly. If you’re asked to install components to run this program, follow the on-screen instructions to download the required files. Then see how Outriders works. If the crashes remain, the problem may be driver-related, and you can try the second method below.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics driver
 
  One of the most common causes of game crashes is an outdated or faulty graphics driver. If Outriders keeps crashing your PC, you should check if your graphics driver is up-to-date. If not, definitely update it now.
@@ -71,17 +90,18 @@ There are mainly two ways you can update the graphics driver:
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After the process finishes, restart your computer. If all the drivers are up-to-date but the gameplay is still buggy, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
+  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3 – Adjust the in-game settings
 
  According to Square Enix support, Outriders crashing occurs mostly on the -60 class GPUs, and tweaking the in-game graphics settings would make it run more smoothly. You can try this setup and see how things go.
@@ -90,9 +110,14 @@ There are mainly two ways you can update the graphics driver:
 2. Select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148641/16836" target="_top" id="2148641">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148641" border="0" alt="https://techidaily.com" width="254" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148641/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Windows Mode** :_Borderless_ or_Windowed_  
 **VSync** :_Off_  
 **Enable FPS Limit** :_On_  
@@ -111,13 +136,17 @@ There are mainly two ways you can update the graphics driver:
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 
  Please note that DX12 is not fully supported in Outriders, which means it might cause other compatibility issues like stuttering.
 
 Still no luck with DX12? Then check out the next method below.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of game files
 
@@ -130,9 +159,6 @@ Still no luck with DX12? Then check out the next method below.
 3. Select**Local Files** from the left pane and click**Verify Integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam-verify-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 Once done, start Outriders and test the game.
 
  If all the steps above couldn’t stop Outriders from crashing,**reinstallation** is the last resort. The constant crashes can be triggered by the issues during your previous installation and a thorough reinstallation would just refresh the whole thing.
@@ -149,8 +175,6 @@ Once done, start Outriders and test the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +182,26 @@ Once done, start Outriders and test the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-growth-acceleration-on-youtube-expert-tips-for-video-partnerships/"><u>[New] 2024 Approved Growth Acceleration on YouTube Expert Tips for Video Partnerships</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-tomtoms-actioncam-series-a-new-chapter/"><u>[Updated] 2024 Approved TomTom's ActionCam Series - A New Chapter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006676334-cannot-launch-original-diablo-reborn-solutions-inside/"><u>Cannot Launch Original Diablo Reborn - Solutions Inside!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/does-your-pc-comply-with-vanguards-essential-cpu-requirements/"><u>Does Your PC Comply with Vanguard's Essential CPU Requirements?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-optimization-mastering-shader-settings-in-star-wars-battlefront-ii-asap/"><u>Effortless Optimization: Mastering Shader Settings in Star Wars Battlefront II ASAP</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/enhanced-wifi-coverage-made-simple-inside-the-tp-link-deco-p9-mesh-system/"><u>Enhanced WiFi Coverage Made Simple - Inside the TP-Link Deco P9 Mesh System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-not-working-glitch-on-your-modern-warfare-3-game/"><u>Fixing the Not Working Glitch on Your Modern Warfare 지정전 3 Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-unstuck-from-the-loading-loop-in-madden-nfl-22-with-these-easy-steps/"><u>Get Unstuck From the Loading Loop in Madden NFL 22 with These Easy Steps</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-f23-5g-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo F23 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-keep-your-streams-running-smoothly-obs-on-windows-1011-stabilized/"><u>How to Keep Your Streams Running Smoothly: OBS on Windows 10/11 Stabilized</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-forgotten-pin-of-your-lava-storm-5g-by-drfone-android/"><u>How to Remove Forgotten PIN Of Your Lava Storm 5G</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-converting-memories-into-videos-the-power-of-pixiz-techniques/"><u>In 2024, Converting Memories Into Videos The Power of Pixiz Techniques</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-understanding-adobe-storage-alternatives-explained/"><u>In 2024, Understanding Adobe Storage, Alternatives Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-barriers-to-social-development-a-guide/"><u>Overcoming Barriers to Social Development: A Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-protection-success-the-ultimate-fix-guide-for-a-trouble-free-fnaf-experience/"><u>PC Protection Success! The Ultimate Fix Guide for a Trouble-Free FNAF Experience</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/spotify-keeps-crashing-a-complete-list-of-fixes-you-can-use-on-oneplus-nord-n30-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Spotify Keeps Crashing A Complete List of Fixes You Can Use on OnePlus Nord N30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-elder-scrolls-online-update-resolves-blackwood-lags-and-connectivity-problems/"><u>The Elder Scrolls Online Update Resolves Blackwood Lags and Connectivity Problems</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/ultimate-guide-to-the-rotibox-bluetooth-cap-stylish-cozy-and-audio-delivering-a-winning-experience/"><u>Ultimate Guide to the Rotibox Bluetooth Cap: Stylish, Cozy & Audio Delivering a Winning Experience</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unleashing-the-magic-searching-for-photos-on-pexels/"><u>Unleashing the Magic Searching for Photos on Pexels</u></a></li>
+</ul></div>
 

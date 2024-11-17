@@ -1,7 +1,7 @@
 ---
 title: "Fixing Cyberpunk 2077: How to Enable GPU Usage in Windows 11"
-date: 2024-09-01T08:40:19.501Z
-updated: 2024-09-02T08:40:19.501Z
+date: 2024-11-11T01:59:08.400Z
+updated: 2024-11-17T12:24:21.329Z
 tags:
   - win11
   - win10
@@ -37,6 +37,13 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  Before we dive into anything advanced, make sure you’ve restarted your PC to see if your problem is solved.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151883/7443" target="_top" id="2151883">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151883" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151883/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Make sure your PC meets the system requirements
 
  Cyberpunk 2077 is quite a demanding game, so you need to make sure your PC specifications are sufficient for the game. Below is a table for you to check the**minimum requirements** :
@@ -61,9 +68,6 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  If your PC specs are sufficient but you still get the Cyberpunk 2077 has flatlined error, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Close background programs
 
  Cyberpunk 2077 is extremely GPU and processor-intensive. So if you try to launch the game with many background programs running, you’ll likely get the Cyberpunk 2077 has flatlined error. Here’s how to completely close the programs running in the background and allow Cyberpunk 2077 to use more resources:
@@ -73,10 +77,14 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 2. Under the**Processes** tab, look for the processes that are CPU and memory-hogging. Take Chrome here, for example, right-click it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you still get the Cyberpunk has flatlined error after closing all the background programs, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135404/19272" target="_top" id="2135404">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135404" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135404/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3: Directly run the game executable
 
@@ -91,20 +99,38 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 1. Open your Steam library, find Cyberpunk 2077, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-Properties.png)
 2. Select the**Installed Files** tab and click the**Verify integrity of game files** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983573">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983573.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983573">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983573.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983573%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983573/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-1.png)
 3. Steam will scan your local game files and compare them to the files on the server. If there’s anything missing or damaged, Steam will add or replace them in your game folder.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 
  If verifying and repairing your game files doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1993650">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Update your graphics driver
 
  An outdated or faulty graphics driver could lead to the Cyberpunk 2077 has flatlined error. You may want to make sure your graphics driver is up-to-date and functioning properly.
@@ -131,6 +157,13 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 
  Restart your PC for the new driver to take effect. If updating your graphics driver doesn’t solve your problem, try the last fix.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 6: Repair the Microsoft Visual C++ redistributables
 
  Microsoft Visual C++ redistributable installs run-time components to your PC’s Visual C++ libraries. Developers usually put the required redistributable files in the game installer, so you get them bundled with the game installation. If these redistributables are corrupt, it could lead to the Cyberpunk 2077 has flatlined error. Below are the steps to fix the files:
@@ -139,19 +172,11 @@ thumbnail: https://thmb.techidaily.com/6ae77072947e6de85d2a8d631e24f7937491d0d11
 2. Type**appwiz.cpl** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-appwiz-cpl.png)
 3. In the pop-up window, scroll down to find the Microsoft Visual C++ redistributable files. You’ll see two redistributable files.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 4. Right-click the first redistributable file, then click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/change.png)
 5. Click**Repair** . If prompted for permission, click **Yes.**  
 **![](https://images.drivereasy.com/wp-content/uploads/2021/07/repair.png)**
 6. Repeat Steps 4-5 to repair the second redistributable file.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Once the repair is complete, restart your PC to let the changes take effect.
 
 ---
@@ -168,8 +193,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +200,20 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-amplifying-audio-and-visual-quality-in-your-youtube-videos/"><u>[New] 2024 Approved Amplifying Audio and Visual Quality in Your YouTube Videos</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-strategies-to-stay-in-clear-view-after-a-tiktok-ban/"><u>[Updated] Strategies to Stay in Clear View After a TikTok Ban</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-the-art-of-earning-ajeys-success-story-in-video-income/"><u>[Updated] The Art of Earning Ajey's Success Story in Video Income</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/calculating-earnings-ad-revenues-in-the-world-of-youtube-in-2024/"><u>Calculating Earnings Ad Revenues in the World of YouTube, In 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-stuck-load-errors-for-tekken-8-players-on-computers/"><u>Diagnosing and Repairing Stuck Load Errors for Tekken 8 Players on Computers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-the-efficiency-of-apc-back-ups-pro-1500va-power-surge-protection-and-extra-outlets-included/"><u>Exploring the Efficiency of APC Back-UPS Pro 1500VA – Power Surge Protection and Extra Outlets Included</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-xcom-2-crashes-effective-solutions-for-a-smooth-gameplay-experience-on-windows/"><u>Fixing XCOM 2 Crashes: Effective Solutions for a Smooth Gameplay Experience on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-pc-gameplay-effective-techniques-for-eliminating-lag-and-improving-fps/"><u>Mastering PC Gameplay: Effective Techniques for Eliminating Lag and Improving FPS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-portable-driver-easy-a-step-by-step-compact-software-setup/"><u>Mastering Portable Driver Easy: A Step-by-Step Compact Software Setup</u></a></li>
+<li><a href="https://program-issues.techidaily.com/mastering-the-art-of-starting-fallout-3-proven-fixes-and-guides/"><u>Mastering the Art of Starting Fallout 3: Proven Fixes and Guides</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/netflix-archive-the-complete-guide-to-screencapturing-your-views/"><u>Netflix Archive The Complete Guide to ScreenCapturing Your Views</u></a></li>
+<li><a href="https://extra-information.techidaily.com/streamlined-zoom-utilization-a-chromebook-perspective/"><u>Streamlined Zoom Utilization A Chromebook Perspective</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-fixing-dreamlight-valley-pc-software-issues/"><u>Troubleshooting Steps for Fixing Dreamlight Valley PC Software Issues</u></a></li>
+</ul></div>
 

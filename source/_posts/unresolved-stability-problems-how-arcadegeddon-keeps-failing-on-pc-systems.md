@@ -1,7 +1,7 @@
 ---
 title: "Unresolved Stability Problems: How Arcadegeddon Keeps Failing on PC Systems"
-date: 2024-09-01T08:42:28.772Z
-updated: 2024-09-02T08:42:28.772Z
+date: 2024-11-11T23:17:36.319Z
+updated: 2024-11-17T08:53:38.081Z
 tags:
   - win11
   - win10
@@ -41,6 +41,13 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 2. Click on the **three dots** under the **Arcadegeddon** game tile and select **Verify** .  
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137215/26400" target="_top" id="2137215">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137215" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137215/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  When the verifying process completed, launch Arcadegeddon and see if this fix works. If the game still crashes, don’t worry. Read on and try the next fix, below.
@@ -61,13 +68,18 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148129/17093" target="_top" id="2148129">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148129" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148129/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developer of Arcadegeddon releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -86,17 +98,17 @@ thumbnail: https://thmb.techidaily.com/9e8b456962dede45b52947713c8978e1ca5454c2b
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  If Arcadegeddon works well after you closed those CPU / memory hogging applications, congratulations!
 
  To prevent Arcadegeddon from crashing due to insufficient memory in the future, you may need to consider[upgrading the memory (RAM) on your computer](https://www.amazon.com/s?k=RAM&tag=drivereasycom-20) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885947/19272" target="_top" id="1885947">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885947" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885947/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Perform a clean boot
 
  Arcadegeddon would also crash if there is a certain application conlicting with it. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
@@ -104,23 +116,30 @@ The ultimate burning program for all your needs!</a>
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130875/7443" target="_top" id="2130875">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130875" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130875/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and run Arcadegeddon to check whether the problem reappears. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software. After enabling each services, you need to restart your PC to apply the changes.
@@ -146,8 +165,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +172,20 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-insight-into-youtubes-latest-income-and-rewards/"><u>[Updated] Insight Into YouTube's Latest Income and Rewards</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-leading-innovation-vr-controllers-reviewed/"><u>2024 Approved Leading Innovation VR Controllers Reviewed</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-can-i-get-more-stardust-in-pokemon-go-on-samsung-galaxy-m14-4g-drfone-by-drfone-virtual-android/"><u>How can I get more stardust in pokemon go On Samsung Galaxy M14 4G? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-oppo-f25-pro-5g-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>How to Change Your Oppo F25 Pro 5G Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-issues-after-patching-the-escapists-game-on-windows-systems/"><u>How to Resolve Issues After Patching 'The Escapists' Game on Windows Systems</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/optimal-tag-selection-elevate-your-videos-online-presence-for-2024/"><u>Optimal Tag Selection Elevate Your Video's Online Presence for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/path-of-exile-malfunctions-uncover-the-causes-and-solutions-for-game-stops/"><u>Path of Exile Malfunctions: Uncover the Causes & Solutions for Game Stops</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/process-of-screen-sharing-infinix-hot-40-to-pc-detailed-steps-drfone-by-drfone-android/"><u>Process of Screen Sharing Infinix Hot 40 to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-ghostwire-tokyo-pc-malfunction-problems-for-smoother-gameplay/"><u>Solving the Ghostwire: Tokyo PC Malfunction Problems for Smoother Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fixes-for-directx-error-in-call-of-duty-modern-warfare-2/"><u>Step-by-Step Fixes for DirectX Error in Call of Duty Modern Warfare 2</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/top-rated-budget-friendly-portable-chargers-comprehensive-reviews-by-tech-gurus-cnet/"><u>Top-Rated Budget-Friendly Portable Chargers - Comprehensive Reviews by Tech Gurus | CNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-sons-of-heavenwood-pc-game-crashes-a-step-by-step-guide/"><u>Troubleshooting Your Sons of Heavenwood PC Game Crashes: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-strategies-to-overcome-the-persistent-error-code-0xc19001e1-in-w10/"><u>Winning Strategies to Overcome the Persistent Error Code 0xC19001E1 in W10</u></a></li>
+</ul></div>
 

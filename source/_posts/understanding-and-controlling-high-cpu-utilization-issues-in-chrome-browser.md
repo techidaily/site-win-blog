@@ -1,7 +1,7 @@
 ---
 title: Understanding and Controlling High CPU Utilization Issues in Chrome Browser
-date: 2024-09-01T08:42:32.727Z
-updated: 2024-09-02T08:42:32.727Z
+date: 2024-11-12T17:55:00.226Z
+updated: 2024-11-17T03:08:26.430Z
 tags:
   - win11
   - win10
@@ -28,6 +28,13 @@ Specially designed for split-screen cooperative muliplayer,**It Takes Two** is d
 5. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Close other demanding apps running in the background](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Set the Power Plan of your PC for Best Performance](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135367/19272" target="_top" id="2135367">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135367" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135367/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 1: Install the latest game patch
 
@@ -57,11 +64,16 @@ There are mainly two methods for you to update the graphics driver:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Scan now](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005183/22899" target="_top" id="2005183">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005183" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005183/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 4. Once the driver is updated, reboot your PC for the changes to take effect.
@@ -78,18 +90,12 @@ There are mainly two methods for you to update the graphics driver:
 
  Launch It Takes Two to see if the game runs smoothly. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Optimize the graphics settings
 
  Optimizing the graphics settings is another fix that may boost the in-game FPS. If you haven’t tried this fix yet, you should give it a shot.
 
 To optimize the graphics settings, follow the steps below:
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Step 1: modify your graphics settings
 
  Firstly, you need to modify your graphics card settings. Just click on the graphics card you’re using to follow the step-by-step instruction:
@@ -102,13 +108,18 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel-1.jpg)
 2. View Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Select **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/nividia-control-panel.jpg)
 4. Click **Manage 3D Settings** on the left, then navigate to the **Program Settings** tab. In the **Select a program to customize:**  part, add**It Takes Two** from the program list.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144289/7443" target="_top" id="2144289">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144289" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144289/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. In the **Specify the settings for this program** : part, modify following settings:  
 
 `**CUDA – GPUs** : set it to _your dedicated GPU_  
@@ -127,8 +138,12 @@ To optimize the graphics settings, follow the steps below:
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135401/19272" target="_top" id="2135401">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135401" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135401/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Step 2: Lower in-game graphics settings
 
  By defualt, It Takes Two will automatically select the graphics settings that suits your hardware. If you want to get some extra FPS and performance, you can play with the graphics settings in the game.
@@ -137,9 +152,6 @@ To optimize the graphics settings, follow the steps below:
 
  If the FPS still doesn’t improved after you optimized the graphics settings, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Disable background recording and Xbox Game Bar
 
  Microsoft introduces many gaming features to Windows 10, such as background recording, Xbox Game Bar, etc.. Once enabled, they’ll constantly run in the background, hogging a ton of resources.
@@ -149,21 +161,27 @@ To optimize the graphics settings, follow the steps below:
 1. On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Click**Gaming** to open Windows 10 gaming settings.  
 ![Windows 10 settings gaming](https://images.drivereasy.com/wp-content/uploads/2021/04/Windows-10-settings-gaming.jpg)
 2. **Turn off** the toggle under**Xbox Game Bar** if it is turned on.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click**Captures** on the left, then**turn off** the toggle udner**Background recording** if it is turned on.  
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2118320/7443" target="_top" id="2118320">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118320" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118320/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
  Launch It Takes Two to see you can play it smoothly. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148633/16836" target="_top" id="2148633">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148633" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148633/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 6: Close other demanding apps running in the background
 
  The It Takes Two FPS dropping issue may occur if too many applications or programs are running at the same time in the background. So **try restricting applications and downloads in the background** before playing the game to see if the game would run smoothly. Here is how to do it:
@@ -172,11 +190,15 @@ To optimize the graphics settings, follow the steps below:
 2. Select any other applications and programs that take up a large amount of **CPU** , **memory** and **network**  and then click **End task**  to close it.  
 ![Restrict applications and downloads in the background](https://images.drivereasy.com/wp-content/uploads/2019/08/Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2148619/17108" target="_top" id="2148619">
+  <img src="//a.impactradius-go.com/display-ad/17108-2148619" border="0" alt="https://techidaily.com" width="100" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2148619/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Launch It Takes Two to see if the in-game FPS increases. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Set the Power Plan of your PC for Best Performance
 
  A power plan is a collection of hardware and system settings that manages how your computer use power. In most cases, the power plan on PCs are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU.
@@ -189,8 +211,12 @@ To optimize the graphics settings, follow the steps below:
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2094418/7443" target="_top" id="2094418">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094418" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094418/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Launch It Takes Two to see if you would get a better FPS.
 
 ---
@@ -206,8 +232,6 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +239,23 @@ Launch It Takes Two to see if you would get a better FPS.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-premier-music-selections-for-movie-making/"><u>[New] Premier Music Selections for Movie Making</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-from-novice-to-pro-a-guide-for-building-cool-metaverse-content/"><u>[Updated] 2024 Approved From Novice to Pro A Guide for Building Cool Metaverse Content</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/analyzing-the-strengths-and-weaknesses-of-pidgin-chat-application/"><u>Analyzing the Strengths and Weaknesses of Pidgin Chat Application</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/budget-blueprint-for-creating-musical-cinematic-pieces-for-2024/"><u>Budget Blueprint for Creating Musical Cinematic Pieces for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/comment-sauvegarder-en-vrac-avec-une-camera-web-les-techniques-meilleures-pour-windows-et-mac/"><u>Comment Sauvegarder En Vrac Avec Une Caméra Web ? - Les Techniques Meilleures Pour Windows Et Mac</u></a></li>
+<li><a href="https://driver-error.techidaily.com/end-of-struggle-graphics-driver-deployed-correctly/"><u>End of Struggle: Graphics Driver Deployed Correctly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-resolving-minecraft-setup-problems-in-windows-11-computers/"><u>Expert Tips for Resolving Minecraft Setup Problems in Windows 11 Computers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209694065-9780857721624-from-gabriel-to-lucifer/"><u>From Gabriel to Lucifer | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-correcting-server-link-failures-in-rainbow-six-siege/"><u>Guide to Correcting Server Link Failures in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-ls-0013-startup-bug-on-fortnite-platform/"><u>How to Resolve the LS-0013 Startup Bug on Fortnite Platform</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-game-preventing-and-resolving-tales-of-arise-system-crashes/"><u>Mastering the Game: Preventing and Resolving 'Tales of Arise' System Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-trouble-solutions-for-when-you-cant-access-your-world/"><u>Minecraft Trouble? Solutions for When You Can't Access Your World!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-pc-issues-a-guide-to-stabilizing-overwatch-2-performance-and-eliminating-crashes/"><u>Overcoming PC Issues - A Guide to Stabilizing Overwatch 2 Performance and Eliminating Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/pcbs11plus/"><u>PCで「BS11+」番組の録画方法教えます - ステップバイステップガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-the-mystery-of-persistent-darkness-on-discord-during-live-streaming-explained/"><u>SOLVED: The Mystery of Persistent Darkness on Discord During Live Streaming Explained</u></a></li>
+<li><a href="https://win-guides.techidaily.com/the-ultimate-technique-how-can-you-securely-acquire-and-save-videos-from-tubechop/"><u>The Ultimate Technique: How Can You Securely Acquire and Save Videos From TubeChop?</u></a></li>
+</ul></div>
 

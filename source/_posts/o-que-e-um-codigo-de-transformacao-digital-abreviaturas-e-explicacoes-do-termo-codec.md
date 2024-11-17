@@ -1,7 +1,7 @@
 ---
 title: O Que É Um Código De Transformação Digital - Abreviaturas E Explicações Do Termo Codec
-date: 2024-10-26T04:24:22.616Z
-updated: 2024-10-31T19:59:58.869Z
+date: 2024-11-10T17:23:54.415Z
+updated: 2024-11-17T07:10:27.958Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/c9b8fd1733901244b30160c420a56660fbc28694609982153cd6de4dd43a450d.jpg
@@ -162,6 +162,13 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135410/19272" target="_top" id="2135410">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135410" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135410/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
@@ -191,6 +198,13 @@ Chaque jeu possède des paramètres graphiques spécifiques qui peuvent vous aid
 1. **Anti-crénelage :** Lorsqu'un jeu utilise le crénelage, il corrige les petites lignes irrégulières et inégales autour de textures ou d'objets spécifiques. Pensez aux lignes floues que vous voyez lorsque l'herbe apparaît dans la plupart des jeux. Chaque jeu possède différents niveaux d'anticrénelage (SSAA, TAA, MSAA, etc.). - et vous pouvez généralement les modifier dans les paramètres du jeu pour obtenir de meilleures performances.
 2. **Flou de mouvement :** Pour rendre les choses plus réalistes, les jeux intègrent des flous de mouvement afin d'émuler la vie réelle. Le désactiver peut souvent vous aider à économiser de la puissance graphique.
 3. **Synchronisation verticale :** Parfois, lorsque vous vous déplacez rapidement, la carte graphique ne peut pas suivre et l'écran semble se déchirer en son milieu. La synchronisation verticale aide à résoudre ce problème mais ajoute un certain décalage. Une façon de corriger ce problème est d'utiliser le VSync adaptatif ou le Triple Buffering. Vous utiliserez davantage de puissance de la carte graphique, mais vous trouverez un juste milieu entre les déchirures et le décalage.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2012406/19272" target="_top" id="2012406">
+  <img src="//a.impactradius-go.com/display-ad/19272-2012406" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012406/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à jour les pilotes de votre GPU
 
@@ -236,6 +250,13 @@ Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour active
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137218/26400" target="_top" id="2137218">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137218" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137218/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Gérez vos heures actives
 
 ![](https://cdn.staticont.net/pages/0012/47/719892cfb3ccc9e05c269dd850ef3c6c37589035.webp)
@@ -279,10 +300,10 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123509/26400" target="_top" id="2123509">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123509" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123509/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Désactiver les notifications
@@ -304,13 +325,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151869/7443" target="_top" id="2151869">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151869" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151869/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -338,20 +352,13 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 ![](https://cdn.staticont.net/pages/0013/24/72b5f58442a79243cce53c3224e26755b436a620.webp)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997717/19272" target="_top" id="1997717">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997717" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997717/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136625/26400" target="_top" id="2136625">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136625" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2118323/7443" target="_top" id="2118323">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118323" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136625/26400" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118323/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ### Optez pour un SSD
@@ -361,6 +368,13 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006946/19272" target="_top" id="2006946">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006946" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006946/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -429,18 +443,18 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014857/22899" target="_top" id="2014857">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014857" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014857/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
-  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -490,6 +504,13 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036481/19272" target="_top" id="2036481">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036481" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036481/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 
 
 Foire aux questions 
@@ -523,23 +544,9 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135411/19272" target="_top" id="2135411">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135411" border="0" alt="https://techidaily.com" width="180" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135411/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -558,13 +565,6 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -601,22 +601,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/ominate-search-results-powerful-youtube-seo-techniques-exposed/"><u>[New] Dominate Search Results Powerful YouTube SEO Techniques Exposed</u></a></li>
-<li><a href="https://facebook-video-share.techidaily.com/new-the-10-best-youtube-music-rippers-for-android-and-ios/"><u>[New] The 10 Best YouTube Music Rippers for Android and iOS</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-initiate-google-meet-using-your-gadget/"><u>[Updated] 2024 Approved Initiate Google Meet Using Your Gadget</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamlining-mov-files-on-windows-11-os/"><u>[Updated] 2024 Approved Streamlining MOV Files on Windows 11 OS</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-convenient-ways-to-merge-igtv-and-insta-stories-for-2024/"><u>[Updated] Convenient Ways to Merge IGTV & Insta Stories for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/5-key-features-we-hope-apple-unveils-for-visionos-in-their-upcoming-wwdc-keynote-macrumors/"><u>5 Key Features We Hope Apple Unveils for VisionOS in Their Upcoming WWDC Keynote | MacRumors</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/mp3-wma-movavi/"><u>免費網路 MP3 至 WMA 格式转换 - 使用 Movavi 工具</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/como-convertir-archivos-wma-a-formato-mp3-facilmente-con-el-mejor-convertidor-de-movavi/"><u>Como Convertir Archivos WMA a Formato MP3 Fácilmente Con El Mejor Convertidor De Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/cracked-codes-in-modern-combat-a-deep-dive-into-call-of-dutys-fps-tactics/"><u>Cracked Codes in Modern Combat: A Deep Dive Into Call of Duty's FPS Tactics</u></a></li>
-<li><a href="https://win-advanced.techidaily.com/download-deezer-tracks-in-lossless-flac-format-and-preserve-album-covers-for-an-enhanced-listening-experience/"><u>Download Deezer Tracks in Lossless FLAC Format and Preserve Album Covers for an Enhanced Listening Experience</u></a></li>
-<li><a href="https://win-blog.techidaily.com/elevate-your-gameplay-experience-optimizing-frame-rates-and-eliminating-hiccups-for-a-seamless-warzone-session/"><u>Elevate Your Gameplay Experience: Optimizing Frame Rates & Eliminating Hiccups for a Seamless Warzone Session</u></a></li>
-<li><a href="https://win-blog.techidaily.com/master-the-quick-fixes-expert-advice-to-get-warzone-20-running-smoothly-on-your-pc/"><u>Master the Quick Fixes: Expert Advice to Get Warzone 2.0 Running Smoothly on Your PC</u></a></li>
-<li><a href="https://win-blog.techidaily.com/optimizing-your-experience-with-fixes-for-mass-effect-series-audio-interruptions/"><u>Optimizing Your Experience with Fixes for Mass Effect Series Audio Interruptions</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-launch-failures-in-counter-strike-2-a-comprehensive-guide/"><u>Overcoming Launch Failures in Counter-Strike 2 - A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-overcoming-issues-with-minecrafts-startup-process/"><u>Troubleshooting Tips - Overcoming Issues with Minecraft's Startup Process</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-no-more-warzone-pc-crashes-as-of-2024/"><u>Troubleshooting Tips: No More Warzone PC Crashes as of 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/understanding-launch-problems-in-mass-effect-legendary-edition-and-how-to-overcome-them/"><u>Understanding Launch Problems in Mass Effect Legendary Edition and How to Overcome Them</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-crafting-a-comprehensive-audience-plan-with-youtube-and-twitch-multi-streams-for-2024/"><u>[New] Crafting a Comprehensive Audience Plan with Youtube & Twitch Multi-Streams for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-experiential-playground-vr-innovations/"><u>[New] Experiential Playground VR Innovations</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-mac-high-quality-video-and-audible-recording/"><u>[New] In 2024, Mac High-Quality Video & Audible Recording</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-vidgrabber-mobilepc-for-fb-streams/"><u>[New] In 2024, VidGrabber Mobile/PC for Fb Streams</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-compact-cities-for-a-sustainable-future-for-2024/"><u>Crafting Compact Cities for a Sustainable Future for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/masterful-fixes-for-rainbow-six-siege-server-link-failures/"><u>Masterful Fixes for Rainbow Six Siege Server Link Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-installation-hurdles-get-your-copy-of-helldivers-2-running-on-steam/"><u>Overcoming Installation Hurdles: Get Your Copy of Helldivers 2 Running on Steam!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-with-sifu-fps-performance-and-frame-rate-stuttering-in-pc-gaming/"><u>Resolved: Issues with Sifu FPS Performance and Frame Rate Stuttering in PC Gaming</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-future-is-here-with-the-rumored-nothing-phone-amidst-speculation-on-release-dates-pricing-and-features/"><u>The Future Is Here with the Rumored Nothing Phone Amidst Speculation on Release Dates, Pricing & Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/total-war-warhammer-ii-crashes-top-5-solutions-to-try-now/"><u>Total War: Warhammer II Crashes – Top 5 Solutions to Try Now</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-steps-resolving-issues-when-astro-a50-is-unrecognized-by-the-command-center/"><u>Troubleshooting Steps: Resolving Issues When Astro A50 Is Unrecognized by the Command Center</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-higher-frame-rates-advanced-strategies-for-improving-fps-in-the-game-tainted-grail-conquest-edition/"><u>Unlocking Higher Frame Rates: Advanced Strategies for Improving FPS in the Game, Tainted Grail - Conquest Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/youtube-troubleshooting-continuous-sound-despite-frozen-video-on-chromefirefox/"><u>YouTube Troubleshooting: Continuous Sound Despite Frozen Video on Chrome/Firefox</u></a></li>
 </ul></div>
 

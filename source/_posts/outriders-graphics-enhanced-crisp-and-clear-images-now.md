@@ -1,7 +1,7 @@
 ---
 title: "Outriders Graphics Enhanced: Crisp and Clear Images Now"
-date: 2024-09-01T08:41:12.651Z
-updated: 2024-09-02T08:41:12.651Z
+date: 2024-11-12T10:02:23.873Z
+updated: 2024-11-17T04:25:41.887Z
 tags:
   - win11
   - win10
@@ -27,6 +27,19 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 4. [**Run Outriders on DirectX 12**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Enable HAGs (Hardware-accelerated GPU scheduling)](https://www.drivereasy.com/knowledge/solved-low-fps-issues-in-outriders/#fix5)**
 
+<!-- affiliate ads begin -->
+<span id="1983474">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983474.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983474">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983474.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983474%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983474/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Change your power plan
 
  Windows manages how your PC consumes power with a set of system and hardware settings called power plans. A while ago, a new plan named Ultimate performance was released, and it is said to be designed for high-end PCs. So you can try this and see if there’s any improvements.
@@ -34,10 +47,40 @@ thumbnail: https://thmb.techidaily.com/5ab9533fc8b349be19f63e7cbad029dfd19e210f5
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . (If you don’t see this power plan, simply continue to the next step to unhide it.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2052059/7443" target="_top" id="2052059">
+  <img src="//a.impactradius-go.com/display-ad/7443-2052059" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052059/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
+
+<!-- affiliate ads begin -->
+<span id="1424533">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424533.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424533">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424533.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424533%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424533/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130871/7443" target="_top" id="2130871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130871" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
@@ -74,7 +117,22 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139563/4704" target="_top" id="2139563">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139563" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139563/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027195/19272" target="_top" id="2027195">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027195" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027195/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -82,11 +140,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If the latest graphics driver doesn’t help you, simply check out the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  To keep your PC running efficiently and securely, it is important to install system updates regularly. Normally it’s a scheduled process, but you can manually check and make sure you’ve got all the patches.
@@ -102,13 +155,6 @@ Here’s how:
 
  If this trick doesn’t do the charm for you, try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 4: Run Outriders on DirectX 12
 
  Some gamers reported that running Outriders on DirectX 12 could drastically boost in-game performance, so you might want to try the same and see if it works for you.
@@ -118,20 +164,11 @@ If you don’t know how, here’s a quick guide:
 1. In your Steam client, navigate to the**LIBRARY** tab. Right click Outriders and select**Properties…**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-d12-1.jpg)
 2. Under the LAUNCH OPTIONS section, click the input box and type or paste**\-force -dx12** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-d12-2.jpg)
 3. Now launch your game and test the gameplay.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this method doesn’t solve your issue, simply move on to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5:**Enable HAGs (Hardware-accelerated GPU scheduling)**
 
  Hardware-accelerated GPU scheduling, or HAGs, is a new feature of the Windows 10\. According to NVIDIA and AMD, it can potentially improve performance and reduce latency. If you’re using a   **GeForce 10 series or later/Radeon 5600 or 5700 series graphics card** , you can go right ahead and give this feature a shot.
@@ -139,18 +176,20 @@ If you don’t know how, here’s a quick guide:
 1. In the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2027176/19272" target="_top" id="2027176">
+  <img src="//a.impactradius-go.com/display-ad/19272-2027176" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027176/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can check if Outriders runs smoother.
 
@@ -164,8 +203,6 @@ Now you can check if Outriders runs smoother.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +210,26 @@ Now you can check if Outriders runs smoother.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/024-approved-best-choice-streamline-your-youtube-audio/"><u>[New] 2024 Approved Best Choice Streamline Your YouTube Audio</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-streamlining-the-demo-process-in-adobe-captivate/"><u>[New] In 2024, Streamlining the Demo Process in Adobe Captivate</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-proven-picks-leading-capture-cards-for-enthusiast-streamers/"><u>[Updated] Proven Picks Leading Capture Cards for Enthusiast Streamers</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-techniques-to-effortlessly-attain-professional-graphic-content-for-2024/"><u>[Updated] Techniques to Effortlessly Attain Professional Graphic Content for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-do-shopping-blogs-have-a-payment-scheme-for-reports/"><u>2024 Approved Do Shopping Blogs Have a Payment Scheme for Reports?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/collaborative-triumph-how-it-takes-two-achieved-its-grand-debut/"><u>Collaborative Triumph: How 'It Takes Two' Achieved Its Grand Debut</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-the-frustration-a-comprehensive-guide-to-fixing-mordhaus-crashing-problem/"><u>End the Frustration: A Comprehensive Guide to Fixing Mordhau's Crashing Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-fixes-for-players-unable-to-start-steam-games-on-windows-11/"><u>Essential Fixes for Players Unable to Start Steam Games on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006744016-fast-track-your-browser-swift-solutions-for-a-speedy-chrome/"><u>Fast Track Your Browser: Swift Solutions for a Speedy Chrome!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/frp-hijacker-by-hagard-download-and-bypass-your-honor-magic-5-pro-frp-locks-by-drfone-android/"><u>FRP Hijacker by Hagard Download and Bypass your Honor Magic 5 Pro FRP Locks</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-is-pgsharp-legal-when-you-are-playing-pokemon-on-oppo-a59-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Is pgsharp legal when you are playing pokemon On Oppo A59 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-online-account-access-issues-corrected/"><u>Resolved: Online Account Access Issues Corrected</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-ultimate-guide-on-fixing-the-ring-of-elysium-game-crash-issue/"><u>Resolved: Ultimate Guide on Fixing the Ring of Elysium Game Crash Issue</u></a></li>
+<li><a href="https://win-dash.techidaily.com/solved-common-issues-when-installing-the-samsung-printer-driver-for-windows-users/"><u>Solved: Common Issues When Installing the Samsung Printer Driver for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-mw3-startup-problems-easy-steps-for-a-smooth-gameplay-experience/"><u>Solving MW3 Startup Problems - Easy Steps for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/tech-fix-done-comprehending-the-need-for-immediate-restart-following-system-errors/"><u>Tech Fix Done - Comprehending the Need for Immediate Restart Following System Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-get-your-iphone-detected-by-itunes-in-windows-10/"><u>Troubleshooting Guide: How to Get Your iPhone Detected by iTunes in Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-palworld-solutions-for-game-failure-at-startup/"><u>Troubleshooting Palworld: Solutions for Game Failure at Startup</u></a></li>
+<li><a href="https://extra-information.techidaily.com/ultimate-speedy-pics-viewing-tool/"><u>Ultimate Speedy Pics Viewing Tool</u></a></li>
+</ul></div>
 

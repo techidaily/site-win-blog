@@ -1,7 +1,7 @@
 ---
 title: Solutions for When Your Computer Freezes During Minecraft Gameplay
-date: 2024-09-01T08:40:18.248Z
-updated: 2024-09-02T08:40:18.248Z
+date: 2024-11-13T01:39:31.952Z
+updated: 2024-11-16T16:58:20.341Z
 tags:
   - win11
   - win10
@@ -50,8 +50,12 @@ thumbnail: https://thmb.techidaily.com/c6048430c1339bc95d70af5b42f06e3231c3552b0
 If the update message pops up again, check out the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137975/21526" target="_top" id="2137975">
+  <img src="//a.impactradius-go.com/display-ad/21526-2137975" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137975/21526" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Check the versions of Minecraft and your system
 
  Though the message tells you to update your graphics driver, it’s also a priority for you to **make sure both your Minecraft client and system are up to date** . Some players suggest that the message could also be telling you that you’re on an outdated client or system.
@@ -65,9 +69,14 @@ You can use the following steps to check for Minecraft updates.
 1. On your keyboard, press**Win** (the Windows logo key). Then click**Microsoft Store** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-1.jpg)
 2. On the top left corner, click**Get updates** and wait for the process to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-2.jpg)
 
 ##### Java edition
@@ -77,8 +86,12 @@ You can use the following steps to check for Minecraft updates.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/update-minecraft-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<a href="https://review-au.sjv.io/c/5597632/2098705/14409" target="_top" id="2098705">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098705" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098705/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 #### Make sure you’re on the latest Windows
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
@@ -86,9 +99,6 @@ You can use the following steps to check for Minecraft updates.
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all system updates, restart your PC and check if the issue persists.
@@ -105,6 +115,14 @@ If you’re still seeing the message, continue to the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006941/19272" target="_top" id="2006941">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006941" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006941/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -122,21 +140,28 @@ Here’s how you can check the preferred GPU of Minecraft:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Under**Graphics performance preference** , specify your app type (For Java Edition, select**Desktop app** . For Bedrock, choose**Microsoft Store app** ). Then click**Browse** and select your Minecraft launcher.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938677/19272" target="_top" id="1938677">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938677" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938677/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-1.jpg)
 4. Click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-2.jpg)
 5. Click**High performance** and then**Save** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://appsumo.8odi.net/c/5597632/2118322/7443" target="_top" id="2118322">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118322" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118322/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/minecraft-change-gpu-3.jpg)
 
 Now you can restart Minecraft and check if the message is still there.
@@ -153,8 +178,6 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +185,21 @@ Now you can restart Minecraft and check if the message is still there.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-techniques-for-accelerating-playback-on-spotify/"><u>[Updated] 2024 Approved Techniques for Accelerating Playback on Spotify</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/advanced-cropping-and-focus-mastery/"><u>Advanced Cropping and Focus Mastery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-the-unexpected-shutdowns-in-battlefield-5-on-your-gaming-computer/"><u>Battling the Unexpected Shutdowns in Battlefield 5 on Your Gaming Computer</u></a></li>
+<li><a href="https://fox-that.techidaily.com/clear-images-on-whatsapp-heres-how-you-can-correct-zoom-distortion/"><u>Clear Images on WhatsApp? Here's How You Can Correct Zoom Distortion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-techniques-to-get-your-ie-back-up-and-running-smoothly-again/"><u>Effective Techniques to Get Your IE Back Up and Running Smoothly Again</u></a></li>
+<li><a href="https://win-trending.techidaily.com/guide-de-depannage-debloquer-lacces-a-une-cle-usb-sur-windows-10-en-9-etapes-simples/"><u>Guide De Dépannage : Débloquer L'accès À Une Clé USB Sur Windows 10 en 9 Étapes Simples</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-quickly-resolve-outriders-continuous-crash-issues/"><u>How to Quickly Resolve Outriders Continuous Crash Issues</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-8-things-to-consider-before-buying-next-lens-for-4k-camera/"><u>In 2024, 8 Things to Consider Before Buying Next Lens for 4K Camera</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-change-your-apple-id-password-on-your-apple-iphone-14-plus-drfone-by-drfone-ios/"><u>In 2024, How To Change Your Apple ID Password On your Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-naraka-bladepoint-freezing-problems/"><u>Resolving Naraka: Bladepoint Freezing Problems</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/selective-list-of-pro-gopro-add-ons/"><u>Selective List of Pro-Gopro Add-Ons</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-overcoming-silent-screens-fixing-audio-glitches-in-discord-sharing-feature/"><u>Solved! Overcoming Silent Screens: Fixing Audio Glitches in Discord Sharing Feature</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-guide-to-playing-ps4-games-on-a-ps5-what-you-need-to-know/"><u>The Ultimate Guide to Playing PS4 Games on a PS5: What You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-strategies-to-fix-out-of-video-memory-in-fortnite-a-step-by-step-guide/"><u>Winning Strategies to Fix Out of Video Memory in Fortnite - A Step-by-Step Guide</u></a></li>
+</ul></div>
 

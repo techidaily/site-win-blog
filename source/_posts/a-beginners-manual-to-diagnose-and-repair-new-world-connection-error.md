@@ -1,7 +1,7 @@
 ---
 title: A Beginner's Manual to Diagnose and Repair 'New World Connection Error'
-date: 2024-09-01T08:41:47.123Z
-updated: 2024-09-02T08:41:47.123Z
+date: 2024-11-13T02:03:14.466Z
+updated: 2024-11-16T16:49:58.030Z
 tags:
   - win11
   - win10
@@ -40,8 +40,12 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
  If there isn’t any problem on the server end, you can continue to troubleshoot.
 
 <!-- affiliate ads begin -->
-
+<a href="https://imp.i357552.net/c/5597632/994842/11832" target="_top" id="994842">
+  <img src="//a.impactradius-go.com/display-ad/11832-994842" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/994842/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Test your internet connection
 
  If you’re getting the “No ping to our data centers detected” error, you would need to check your internet connection. Here are some basic troubleshooting steps you can try:
@@ -54,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 
  If your internet connection is solid but the error persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Verify the game files
 
  If your local game files are missing or corrupted, it could trigger random issues. You can use the Steam client to scan and repair your game files. Although it’s hard to identify if this is the root cause of the no ping error, verifying the game files can help prevent other game issues. Here’s how:
@@ -68,11 +69,22 @@ thumbnail: https://thmb.techidaily.com/d73b1ab39f29e2cca73b5589c07d89e3cba6a2b83
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files-1.jpg)
 4. This process may take a while. Once the scan is complete, restart the game to see if you still get the error.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123737/7443" target="_top" id="2123737">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123737" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123737/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If the error returns, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135416/19272" target="_top" id="2135416">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135416" border="0" alt="https://techidaily.com" width="336" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135416/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your network driver
 
  The error may suggest a driver issue. An outdated or faulty network driver could trigger connection errors for gaming. You may need to check your network driver to see if it’s up-to-date and functioning properly.
@@ -96,9 +108,6 @@ If the error returns, try the next fix.
 
  Restart your PC for the new drivers to take effect. If updating your network driver doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Configure DNS settings
 
  Corrupted DNS caches may cause random connection issues. If the fixes above didn’t work for you, you may want to give this fix a try and configure your DNS settings. There are two things you can do:
@@ -107,9 +116,6 @@ If the error returns, try the next fix.
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. This means that your PC will need to obtain the data from the DNS server again every time it’s accessing a new website. This may solve the no ping detected error for Halo Infinite, if the error was caused by corrupted or invalid DNS cache. Below are the steps:
@@ -120,14 +126,15 @@ If the error returns, try the next fix.
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2044583/7443" target="_top" id="2044583">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044583" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044583/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. We’ll use the Google DNS server as an example. Here’s how:
@@ -137,12 +144,24 @@ If the error returns, try the next fix.
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2132160/7443" target="_top" id="2132160">
+  <img src="//a.impactradius-go.com/display-ad/7443-2132160" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2132160/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://imp.i110150.net/c/5597632/798165/11305" target="_top" id="798165">
+  <img src="//a.impactradius-go.com/display-ad/11305-798165" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798165/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -150,10 +169,14 @@ If the error returns, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  If changing the DNS settings doesn’t solve your problem, there’s one more fix you can try.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130528/26400" target="_top" id="2130528">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130528" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130528/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 6: Use a VPN
 
@@ -177,8 +200,6 @@ If the error returns, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +207,23 @@ If the error returns, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-the-ultimate-guide-to-youtube-income-compliance/"><u>[New] In 2024, The Ultimate Guide to YouTube Income Compliance</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-complete-analysts-toolkit-for-tracking-youtube-audiences-and-money-flow-for-2024/"><u>[New] The Complete Analyst's Toolkit for Tracking YouTube Audiences & Money Flow for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-avoiding-upside-down-videos-in-your-instagram-feed/"><u>2024 Approved Avoiding Upside-Down Videos in Your Instagram Feed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/apex-legends-troubleshooting-guide-how-to-fix-error-23-once-and-for-all/"><u>Apex Legends Troubleshooting Guide - How to Fix Error 23 Once and For All!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avatar-unleashed-taming-technical-difficulties-to-explore-pandoras-frontier-on-pc/"><u>Avatar Unleashed: Taming Technical Difficulties to Explore Pandora's Frontier on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-pc-problems-preventing-launch-in-world-of-warcraft-game/"><u>Diagnosing PC Problems Preventing Launch in World of Warcraft Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-when-amazon-prime-video-freezes-or-crashes/"><u>Effective Solutions When Amazon Prime Video Freezes or Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-resolving-cannot-load-errors-in-stardewal-valley/"><u>Expert Advice: Resolving 'Cannot Load' Errors in Stardewal Valley</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-activation-lock-on-apple-watch-or-iphone-14-plus-by-drfone-ios/"><u>In 2024, How To Bypass Activation Lock On Apple Watch Or iPhone 14 Plus?</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-oppo-f25-pro-5g-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Oppo F25 Pro 5G</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-oppo-a78-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Oppo A78 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-ds4-controller-errors-in-windows-successful-driver-reinstallation-tips/"><u>Step-by-Step Solution for DS4 Controller Errors in Windows – Successful Driver Reinstallation Tips</u></a></li>
+<li><a href="https://win11.techidaily.com/temporary-user-profiles-avoiding-login-interruptions/"><u>Temporary User Profiles: Avoiding Login Interruptions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-cheatsheet-keeping-robocop-rise-of-the-machines-stable-on-windows-systems/"><u>Ultimate Troubleshooting Cheatsheet - Keeping Robocop: Rise of the Machines Stable on Windows Systems</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/updated-in-2024-the-safe-and-legal-route-to-free-filmora-software/"><u>Updated In 2024, The Safe and Legal Route to Free Filmora Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/will-ispoofer-update-on-nokia-c210-drfone-by-drfone-virtual-android/"><u>Will iSpoofer update On Nokia C210 | Dr.fone</u></a></li>
+</ul></div>
 

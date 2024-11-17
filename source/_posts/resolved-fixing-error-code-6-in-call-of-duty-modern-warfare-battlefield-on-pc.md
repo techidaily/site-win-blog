@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Fixing Error Code 6 in Call of Duty: Modern Warfare / Battlefield on PC"
-date: 2024-09-01T08:40:59.840Z
-updated: 2024-09-02T08:40:59.840Z
+date: 2024-11-16T01:30:33.178Z
+updated: 2024-11-17T01:48:49.883Z
 tags:
   - win11
   - win10
@@ -62,11 +62,15 @@ You can do it with only 2 steps:
 2. Navigate to the**Graphics** tab. Under the**Display** section and to the right of**Display Mode** , click the box and select**Fullscreen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/modern-warfare-set-to-fullscreen.jpg)
 3. Join a game and see if your FPS gets better.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If changing Display Mode doesn’t give you any luck, you can check out the next solution.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100533/7443" target="_top" id="2100533">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100533" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100533/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Update your graphics driver
 
@@ -78,24 +82,30 @@ You can do it with only 2 steps:
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144281/7443" target="_top" id="2144281">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144281" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144281/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and join a game in Modern Warfare. You can now test the gameplay and see if the driver update helps your case.
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Check for Windows updates
 
  If the last time you check for windows updates feel like ages ago, you need to do it right now. Every once in a while, aside from regular security patches, Windows updates install some edgy features on your computer, which might be a potential fix to your Modern Warfare FPS issue.
@@ -114,9 +124,6 @@ And it’s quite easy to update too:
 
  If this method doesn’t help your case, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
@@ -132,20 +139,35 @@ Here’s how to enable this power plan:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command box. Type**powercfg.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
+
+<!-- affiliate ads begin -->
+<a href="https://electronicx.pxf.io/c/5597632/1166360/14483" target="_top" id="1166360">
+  <img src="//a.impactradius-go.com/display-ad/14483-1166360" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1166360/14483" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<span id="1993647">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993647.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993647">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993647.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993647%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  After changing your power plan, you can then test the improvement in Modern Warfare.
 
 ---
@@ -158,8 +180,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +187,22 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-minecraft-branding-resources-for-youtubers/"><u>[New] 2024 Approved Minecraft Branding Resources for YouTubers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-comprehensive-youtube-video-editing-with-finalcut-pro-skills/"><u>[Updated] Comprehensive YouTube Video Editing with FinalCut Pro Skills</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/5-ways-to-send-ringtones-from-apple-iphone-6s-plus-to-iphone-including-iphone-15-drfone-by-drfone-transfer-from-ios/"><u>5 Ways to Send Ringtones from Apple iPhone 6s Plus to iPhone Including iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/accelerate-your-gameplay-instant-shader-hacks-for-star-wars-battlefront-ii-success/"><u>Accelerate Your Gameplay: Instant Shader Hacks for Star Wars Battlefront II Success</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/apple-unveils-improved-repairability-of-iphone-16-compared-to-earlier-models-insights/"><u>Apple Unveils Improved Repairability of iPhone 16 Compared to Earlier Models - Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/become-a-facetime-pro-skype-call-basics-for-mobile-users/"><u>Become a Facetime Pro Skype Call Basics for Mobile Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-performance-optimization-eliminating-lag-issues/"><u>Guilty Gear Strive Performance Optimization - Eliminating Lag Issues</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/in-2024-exploring-the-sky-the-syma-x5c-for-drone-beginners/"><u>In 2024, Exploring the Sky The Syma X5C for Drone Beginners</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-fix-iphone-xs-unavailable-issue-with-ease-drfone-by-drfone-ios/"><u>In 2024, How To Fix iPhone XS Unavailable Issue With Ease | Dr.fone</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-the-art-of-sharing-horizontals-in-igtvs-vertical-world/"><u>In 2024, The Art of Sharing Horizontals in IGTV's Vertical World</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-experience-fixing-a-slow-and-malfunctioning-2022-spotify-browser-app/"><u>Optimizing Your Experience: Fixing a Slow and Malfunctioning 2022 Spotify Browser App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obs-not-recording-video-tips-and-fixes-to-get-it-working-perfectly/"><u>Overcoming OBS Not Recording Video: Tips and Fixes to Get It Working Perfectly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-non-responsive-pacific-drive-errors-expert-fixes-revealed/"><u>Resolving Non-Responsive Pacific Drive Errors - Expert Fixes Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unsticking-microsoft-flight-simulator-2020-from-update-loops-pro-tips-and-solutions/"><u>Unsticking Microsoft Flight Simulator 2020 From Update Loops: Pro Tips & Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-my-fuser-keep-hitting-a-wall-resolving-critical-application-issues-in-windows-environments/"><u>Why Does My Fuser Keep Hitting a Wall? Resolving Critical Application Issues in Windows Environments</u></a></li>
+</ul></div>
 

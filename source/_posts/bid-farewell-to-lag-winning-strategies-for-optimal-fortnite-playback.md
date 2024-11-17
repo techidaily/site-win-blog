@@ -1,7 +1,7 @@
 ---
 title: "Bid Farewell to Lag: Winning Strategies for Optimal Fortnite Playback"
-date: 2024-09-01T08:41:49.614Z
-updated: 2024-09-02T08:41:49.614Z
+date: 2024-11-15T02:41:35.561Z
+updated: 2024-11-17T13:07:33.847Z
 tags:
   - win11
   - win10
@@ -45,6 +45,19 @@ Here’s how to do it on Nexon Launcher:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-verify-2.jpg)
 3. Once done, restart your game and test the results.
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="864" height="864" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If this doesn’t help you, check out the next fix below.
 
 ### Fix 2: Check compatibility settings
@@ -57,9 +70,6 @@ To do so, simply follow these instructions:
 2. Find all the .exe files inside this folder. One by one, right click the**.exe** file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-compatibility-1.jpg)
 3. Navigate to the**Compatibility** tab, Under**Compatibility mode** , check the box and select Windows 7\. Under**Settings** , check the box before**Run this program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-compatibility-2.jpg)
 4. After you finish with all the .exe files, restart the game and check if it crashes again.
 
@@ -78,8 +88,18 @@ To do so, simply follow these instructions:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, do a reboot and check if MapleStory stops crashing.
@@ -87,8 +107,12 @@ To do so, simply follow these instructions:
  If the latest drivers don’t do the trick for you, you can move on to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Edit the registry
 
  Another possible fix lies in the registry. You might be able to stop the crash by changing display settings in the registry:
@@ -96,18 +120,11 @@ To do so, simply follow these instructions:
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) and type or paste**regedit** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windows-10-run-regedit.jpg)
 2. In the address bar, paste **ComputerHKEY\_LOCAL\_MACHINESOFTWAREWOW6432NodeWizetMapleStory** and press**Enter** . Double click**soScreenMode**  and change the value to**3** . Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/maplestory-registry.jpg)
 3. Now enter the game and test the gameplay.
 
  If this trick doesn’t give you luck, you can undo it and continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 5: Make sure Windows is up to date
 
  You also need to check if you’re on the latest system. Windows updates sometimes improve the compatibility of legacy software.
@@ -119,24 +136,37 @@ Here’s how you can check for updates manually:
 2. Scroll down and select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137212/26400" target="_top" id="2137212">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137212" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137212/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2087485/7443" target="_top" id="2087485">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087485" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087485/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the updates, restart your PC and start MapleStory.
 
  If this method doesn’t work for you, simply try the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036467/19272" target="_top" id="2036467">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036467" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036467/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 6:**Use a VPN**
 
@@ -149,6 +179,13 @@ And here’re some VPNs we like:
 * **[NordVPN](https://tools.techidaily.com/drivereasy/download/)**
 * **[CyberGhost VPN](https://tools.techidaily.com/drivereasy/download/)**
 * **[SurfShark VPN](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Run on a virtual machine
 
@@ -164,8 +201,6 @@ And here’re some VPNs we like:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +208,18 @@ And here’re some VPNs we like:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-elite-tech-enhancement-with-top-srt-tweaks/"><u>[Updated] 2024 Approved Elite Tech Enhancement with Top SRT Tweaks</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-best-5-twitter-alternatives/"><u>[Updated] In 2024, Best 5 Twitter Alternatives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-wwii-windows-playthrough-fixing-the-persistent-black-screen-problem/"><u>Call of Duty: WWII Windows Playthrough: Fixing the Persistent Black Screen Problem</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/choosing-your-preferred-conversational-agent-gemini-or-chatgpt-plus/"><u>Choosing Your Preferred Conversational Agent: Gemini or ChatGPT Plus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-guide-what-to-do-if-you-cant-launch-avatar-frontiers-of-pandora/"><u>Fix Guide - What to Do If You Can’t Launch Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/infuse-vibrancy-mastering-music-integration-in-social-media-videos/"><u>Infuse Vibrancy Mastering Music Integration in Social Media Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009808735-no-more-mouse-troubles-in-resident-evil-village-heres-the-fix-you-need/"><u>No More Mouse Troubles in Resident Evil Village! Here's the Fix You Need</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-stardew-valleys-persistent-pc-crashing-problem-easily/"><u>Solve Stardew Valley's Persistent PC Crashing Problem Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-high-resource-use-by-wsappx-diagnosis-and-optimization-strategies/"><u>Tackling High Resource Use by WSAPPX: Diagnosis and Optimization Strategies</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-apple-iphone-15-pro-max-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On Apple iPhone 15 Pro Max Making It Possible</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/unlock-no-cost-neighborhood-sales-with-oodles-free-marketplace/"><u>Unlock No-Cost Neighborhood Sales with Oodle's Free Marketplace</u></a></li>
+</ul></div>
 

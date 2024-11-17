@@ -1,7 +1,7 @@
 ---
 title: How to Enable GPU Usage for Optimal Performance in Cyberpunk 2077 on Windows
-date: 2024-09-01T08:41:32.789Z
-updated: 2024-09-02T08:41:32.789Z
+date: 2024-11-13T22:57:59.853Z
+updated: 2024-11-17T00:31:00.279Z
 tags:
   - win11
   - win10
@@ -52,6 +52,13 @@ Finally, Cyberpunk 2077 is released! But it could be very frustrating to encount
 
 If your issue continues to occur, you can move to the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100542/7443" target="_top" id="2100542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 2: End unnecessary programs
 
  If you’re running multiple programs at the same time while gaming, that could cause your PC to overload and make your game freeze.
@@ -63,15 +70,22 @@ If your issue continues to occur, you can move to the next fix.
 2. Right-click the programs you want to close and select **End Task** . Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 3. Restart Cyberpunk 2077 to see if this fixed your issue.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If this fix doesn’t help your case, simply take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<span id="1993651">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1993651.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1993651">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993651.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993651%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993651/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Verify your game files
 
  This issue might happen when Cyberpunk 2077 files on your PC are corrupt or missing. If you’re playing the game on Steam, follow the instructions below to verify your game files:
@@ -87,8 +101,12 @@ If your issue continues to occur, you can move to the next fix.
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151855/7443" target="_top" id="2151855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Adjust your virtual memory
 
 **Virtual memory**  is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when running Cyberpunk 2077, Windows will dip into virtual memory for temporary file storage.
@@ -100,36 +118,49 @@ If your issue continues to occur, you can move to the next fix.
 1. On your keyboard, press the **Windows logo** key and type **advanced system settings.** Then click **View advanced system settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 2. Click **Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 3. Click the **Advanced**  tab, and then click **Change** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 4. Uncheck the box next to **Automatically manage paging file size for all drives** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27-1.jpg)
 5. Click your **C drive** .  
+
+<!-- affiliate ads begin -->
+<span id="1976998">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 6. Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-16.jpg)
 7. Click **Set** , then **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 8. Restart your computer and test your game.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137205/26400" target="_top" id="2137205">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137205" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137205/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 If your issue still exists, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall your game
 
  The problem may cause by the incorrect or not inproperly installed on the PC. Therefore, reinstalling the game is an option to fix the issue.  
@@ -154,18 +185,27 @@ You can follow these simple steps to do a clean boot:
 2. In the pop-up window, navigate to the **Services**  tab and check the box before **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig-uncheck-services-clean-boot.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC and check if Cyberpunk 2077 freezing again.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136617/26400" target="_top" id="2136617">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136617" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136617/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ---
 
@@ -179,8 +219,6 @@ You can follow these simple steps to do a clean boot:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +226,20 @@ You can follow these simple steps to do a clean boot:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/updated-strategies-for-producing-top-notch-professional-gopro-content/"><u>[Updated] Strategies for Producing Top-Notch, Professional Gopro Content</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-essential-guide-to-affordable-video-conferencing-tools-for-corporateeducational-use/"><u>[Updated] The Essential Guide to Affordable Video Conferencing Tools For Corporate/Educational Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/difficulties-initializing-diablo-ii-resurrected-heres-what-you-need-to-know/"><u>Difficulties Initializing Diablo II: Resurrected? Here’s What You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gtfo-gameplay-enhancements-to-address-latency-drops-stuttering-frames-and-overall-performance-boosts/"><u>GTFO Gameplay Enhancements to Address Latency Drops, Stuttering Frames, and Overall Performance Boosts</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-downgrade-iphone-12-pro-to-an-older-ios-system-version-drfone-by-drfone-ios-system-repair-ios-system-repair/"><u>How to Downgrade iPhone 12 Pro to an Older iOS System Version? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-solutions-to-unlocking-your-game-of-maplestory-seamlessly/"><u>Master the Solutions to Unlocking Your Game of MapleStory Seamlessly</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/quick-troubleshooting-steps-for-gpt-streaming-errors/"><u>Quick Troubleshooting Steps for GPT Streaming Errors</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-tech-gear-expert-insights-on-hardware/"><u>Tom's Tech Gear: Expert Insights on Hardware</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-complete-how-to-fix-persistent-black-screen-dilemma/"><u>Troubleshooting Complete: How To Fix Persistent Black Screen Dilemma</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-optimizing-tiny-tinas-wonderland-game-on-desktop-systems/"><u>Troubleshooting Guide for Optimizing Tiny Tina's Wonderland Game on Desktop Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-msi-mystic-light-problems-on-windows-systems/"><u>Troubleshooting Steps for Resolving MSI Mystic Light Problems on Windows Systems</u></a></li>
+<li><a href="https://solve-info.techidaily.com/ultimate-guide-to-downloading-movies-from-dvds-onto-your-pc-step-by-step-process/"><u>Ultimate Guide to Downloading Movies From DVDs Onto Your PC - Step by Step Process</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-hardware-drivers-with-windows-device-manager-in-windows-7-by-drivereasy-guide/"><u>Use Device Manager to identify missing hardware drivers with Windows Device Manager in Windows 7</u></a></li>
+</ul></div>
 

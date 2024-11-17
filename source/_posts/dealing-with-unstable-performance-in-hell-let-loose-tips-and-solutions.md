@@ -1,7 +1,7 @@
 ---
 title: "Dealing with Unstable Performance in 'Hell Let Loose': Tips and Solutions"
-date: 2024-09-01T08:41:26.196Z
-updated: 2024-09-02T08:41:26.196Z
+date: 2024-11-13T10:54:49.140Z
+updated: 2024-11-17T08:17:50.661Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 5. [Repair system files](https://tools.techidaily.com/drivereasy/download/)
 6. [Save and restart regularly](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the system requirements
 
  Before any complex fixes, check if your PC meets the minimum requirements.
@@ -50,11 +57,23 @@ thumbnail: https://thmb.techidaily.com/c556692b0a1b46bbb66857f1dcf736ab986ca8922
 2. In the System panel, scroll down to find**About** . Click**About** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s2.jpg)
 3. The**Installed RAM** shows how much RAM do you have.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136614/26400" target="_top" id="2136614">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136614" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136614/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your driver
 
  Many PC issues are related to your drivers. Updating your drivers would improve your PC performance and avoid any potential issues. Some gamers have fixed the God of War memory leak issue after updating drivers.
@@ -70,15 +89,26 @@ There are mainly two ways you can update the driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the Update button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<a href="https://bluettiit.sjv.io/c/5597632/2148127/17093" target="_top" id="2148127">
+  <img src="//a.impactradius-go.com/display-ad/17093-2148127" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettiit.sjv.io/i/5597632/2148127/17093" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) which comes with full support and 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1925549/19272" target="_top" id="1925549">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925549" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925549/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Disable your integrated graphics
 
  Many gamers have proved it’s a working fix. So if you have an internal GPU, follow the steps below to fix the God of War “not enough available memory” issue.
@@ -88,9 +118,6 @@ There are mainly two ways you can update the driver:
 1. Right-click on the Desktop and launch NVIDIA Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-control-panel.jpg)
 2. Select**Manage 3D settings** in the left panel.
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Under**Global Settings** , set the preferred graphics processor to your graphics card. Then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/gow-1.jpg)
 
@@ -103,9 +130,6 @@ There are mainly two ways you can update the driver:
 4. Right-click on your integrated graphics and click**Disable device** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s6.jpg)
 5. Restart the game and check if the issue persists.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 
 ### Fix 4: Update God of War
 
@@ -118,9 +142,6 @@ There are mainly two ways you can update the driver:
 4. Click**UPDATES** , choosing**Always keep this game updated** and you can update God of War automatically.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/s4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Repair system files
 
  If your PC has corrupted or missing system files, you would encounter a series of problems that may lead to the God of War memory leak or even crash. Use a repair tool to check various areas in your computer to determine the cause of your exact problem. It will deal with issues related to system errors, critical system files and find the right fit for you.
@@ -131,23 +152,28 @@ There are mainly two ways you can update the driver:
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2151858/7443" target="_top" id="2151858">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151858" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151858/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
  Email: **<support@fortect.com>**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Save and restart regularly
 
  If none of the fixes would help and the memory leak is there, this might be the workaround that would help.
@@ -164,8 +190,6 @@ There are mainly two ways you can update the driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +197,24 @@ There are mainly two ways you can update the driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-famebit-alternatives-for-finding-youtube-sponsorships-for-2024/"><u>[New] FameBit Alternatives for Finding YouTube Sponsorships for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-analyzing-online-video-discussions/"><u>[New] In 2024, Analyzing Online Video Discussions</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-closing-your-vlog-right-top-6-free-youtube-outro-tools/"><u>[Updated] In 2024, Closing Your Vlog Right Top 6 Free YouTube Outro Tools</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-secure-your-favorite-igtv-videos-download-strategies-for-pcmac-os-users-for-2024/"><u>[Updated] Secure Your Favorite IGTV Videos Download Strategies for PC/Mac OS Users for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-not-enough-available-memory-glitch-in-god-of-war-a-complete-guide/"><u>Beat the 'Not Enough Available Memory' Glitch in God of War: A Complete Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/demystifying-unexplained-cases-a-deep-dive-into-the-beyond-wire/"><u>Demystifying Unexplained Cases: A Deep Dive Into 'The Beyond Wire'</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/dominant-heavy-lift-drones-for-industrial-tasks-for-2024/"><u>Dominant Heavy-Lift Drones for Industrial Tasks for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/guia-paso-a-paso-conversion-de-videos-en-formato-quicktime-para-mac-y-windows/"><u>Guía Paso a Paso: Conversión De Videos en Formato QuickTime Para Mac Y Windows</u></a></li>
+<li><a href="https://extra-information.techidaily.com/harnessing-high-quality-photos-from-androids/"><u>Harnessing High-Quality Photos From Androids</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-a-black-screen-on-discord-during-screen-share-sessions/"><u>How to Fix a Black Screen on Discord During Screen Share Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-your-display-from-shimmering-ultimate-screen-stabilization-guide/"><u>How to Stop Your Display From Shimmering – Ultimate Screen Stabilization Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-terraria-stability-avoid-game-crashes-with-our-expert-tips/"><u>Mastering Terraria Stability: Avoid Game Crashes With Our Expert Tips</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/new-guide-how-to-check-icloud-activation-lock-status-on-your-apple-iphone-xr-by-drfone-ios/"><u>New Guide How To Check iCloud Activation Lock Status On Your Apple iPhone XR</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-system-for-crisp-uninterrupted-gameplay-in-warzone/"><u>Optimizing Your System for Crisp, Uninterrupted Gameplay in Warzone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-pacific-drive-installation-issues/"><u>Troubleshooting Guide: Resolving Pacific Drive Installation Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-success-solving-crash-issues-in-disco-elysium-for-windows-users/"><u>Troubleshooting Success! Solving Crash Issues in Disco Elysium for Windows Users</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-pros-and-cons-of-communication-with-pidgin-instant-messaging/"><u>Unveiling the Pros and Cons of Communication with Pidgin Instant Messaging</u></a></li>
+</ul></div>
 

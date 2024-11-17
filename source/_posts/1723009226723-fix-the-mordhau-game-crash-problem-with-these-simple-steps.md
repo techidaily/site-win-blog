@@ -1,7 +1,7 @@
 ---
 title: Fix the Mordhau Game Crash Problem with These Simple Steps
-date: 2024-09-01T08:39:45.237Z
-updated: 2024-09-02T08:39:45.237Z
+date: 2024-11-11T17:27:38.696Z
+updated: 2024-11-17T04:59:08.843Z
 tags:
   - win11
   - win10
@@ -34,6 +34,13 @@ But the good news is that you can fix it. Here are 8 solutions to try.
 7. **[Configure your virtual memory](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reinstall Mordhau](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Meet the minimum system requirements
 
  To run Mordhau smoothly on your PC, ensure your computer meets the game’s minimum system requirements.
@@ -57,6 +64,13 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-28.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)**  Check your **operating system, processor, and memory** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-32.jpg)
@@ -66,6 +80,13 @@ Follow the instructions below to view your computer hardware information:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-37.jpg)
 
  Make sure your system specs meet the requirements, then move on and try the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 2: Run the game as an administrator
 
@@ -77,9 +98,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-42.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **2)** Right-click the**Steam icon** and select**Run as administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-11-20.jpg)
@@ -88,9 +106,6 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Restart Mordhau.
 
 If your issue persists, go ahead with the next fix.
@@ -119,9 +134,6 @@ If this didn’t work for you, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-57.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 **4)** Click the**LOCAL FILES** tab, and then click**VERIFY INTEGRITY OF GAME FILES** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-01.jpg)
@@ -130,9 +142,6 @@ If this didn’t work for you, try the fix below.
 
 If Mordhau is still crashing, move on and check the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update your graphics driver
 
  Having the latest correct graphics driver can help you get the best performance out of your hardware and fix common game issues such as game crash, lag, or abnormal display.
@@ -164,9 +173,6 @@ If Mordhau is still crashing, move on and check the fix, below.
 
 If your problem persists, move on to Fix 6.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Change PC power settings
 
  Windows sets all computers to the Balanced power plan by default. This means that your computer may slow down to save energy, which can cause Mordhau to crash. To see if that’s the problem for you, try changing your power plan to**High Performance** . Here is how:
@@ -175,23 +181,14 @@ If your problem persists, move on to Fix 6.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-38.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)** Under **View by,** click **Large icons** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-46.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 **3)** Select **Power Options.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-54.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Select **High Performance** .
 
  **What’s the differences?**
@@ -203,6 +200,13 @@ If your problem persists, move on to Fix 6.
 **5)** Restart your computer and Mordhau to test your issue.
 
 If your game is still unplayable, move on to the fix below.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094477/7443" target="_top" id="2094477">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094477" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094477/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 7: Configure your virtual memory
 
@@ -222,27 +226,32 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-12.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **4)** Click the**Advanced** tab, and then click**Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-17.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 **5)** Uncheck the box next to**Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-22.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **6)** Click your**C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-29.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948876/19272" target="_top" id="1948876">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948876" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948876/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **7)** Click the option button next to**Custom size** , and then type**4096** in the text box next to**Initial size (MB)** and**Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger. In most cases, setting your virtual memory as 4 GB is enough.
@@ -253,17 +262,17 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-41.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 **9)** Restart your computer and Mordhau.
 
  If you’re still having trouble running Mordhau, don’t fret. There is still 1 more fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
+<a href="https://appsumo.8odi.net/c/5597632/2105870/7443" target="_top" id="2105870">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105870" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105870/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 9: Reinstall Mordhau
 
  If none of the fixes above helped, reinstalling Mordhau is very likely the solution to your problem. Here is how:
@@ -278,19 +287,20 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-20-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)**  On your keyboard, press the**Windows logo key** and**R** at the same time.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-14-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 **5)** Type**%LocalAppData%** , then press the**Enter key** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-04-48.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2044586/7443" target="_top" id="2044586">
+  <img src="//a.impactradius-go.com/display-ad/7443-2044586" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2044586/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **6)** Right-click the**Mordhau folder** , then select**Delete** .
 
@@ -314,8 +324,6 @@ If your game is still unplayable, move on to the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +331,21 @@ If your game is still unplayable, move on to the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-elevate-video-consumption-constructing-an-ideal-watch-later-list-on-youtube/"><u>[New] 2024 Approved Elevate Video Consumption Constructing an Ideal 'Watch Later' List on YouTube</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-unblemished-visuals-buying-high-quality-images/"><u>2024 Approved Unblemished Visuals Buying High-Quality Images</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefield-2042-update-fixes-smooth-gaming-with-no-more-fps-fluctuations-or-lags-on-pc/"><u>Battlefield 2042 Update Fixes: Smooth Gaming with No More FPS Fluctuations or Lags on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-tips-to-resolve-rockstar-games-launcher-problems-as-of-2024/"><u>Best Tips to Resolve Rockstar Games Launcher Problems as of 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-pc-version-how-to-stop-final-fantasy-xv-from-crashing/"><u>Fixing the PC Version: How to Stop Final Fantasy XV From Crashing</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-flash-dead-honor-magic5-ultimate-safely-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Flash Dead Honor Magic5 Ultimate Safely | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-three-ways-to-sim-unlock-itel-p40plus-by-drfone-android/"><u>In 2024, Three Ways to Sim Unlock Itel P40+</u></a></li>
+<li><a href="https://extra-support.techidaily.com/integrating-zooms-features-for-enhanced-facebook-live-for-2024/"><u>Integrating Zoom's Features for Enhanced Facebook LIVE for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/join-the-fun-best-gratuitous-meme-tools-available/"><u>Join the Fun Best Gratuitous Meme Tools Available</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/superior-engine-picks-elevating-your-quadcopters-capabilities-for-2024/"><u>Superior Engine Picks Elevating Your Quadcopter's Capabilities for 2024</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/the-best-free-video-editing-apps-for-32-bit-windows-systems/"><u>The Best Free Video Editing Apps for 32-Bit Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-keeping-call-of-duty-black-ops-cold-war-running-smoothly-on-your-gaming-rig/"><u>Troubleshooting Guide: Keeping Call of Duty: Black Ops Cold War Running Smoothly on Your Gaming Rig</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-wow-crashes-simple-solutions-you-can-apply/"><u>Troubleshooting WoW Crashes: Simple Solutions You Can Apply</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010859157-twitch-streaming-issues-here-are-7-fixes-to-get-your-content-up-and-running/"><u>Twitch Streaming Issues? Here Are 7 Fixes to Get Your Content Up and Running</u></a></li>
+</ul></div>
 

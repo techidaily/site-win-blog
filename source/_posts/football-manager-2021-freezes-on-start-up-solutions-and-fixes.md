@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2021 Freezes on Start-Up: Solutions & Fixes"
-date: 2024-09-01T08:40:44.193Z
-updated: 2024-09-02T08:40:44.193Z
+date: 2024-11-16T07:41:47.041Z
+updated: 2024-11-16T18:42:57.447Z
 tags:
   - win11
   - win10
@@ -35,6 +35,13 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 
 [6: Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135419/19272" target="_top" id="2135419">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135419/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 1: Unsubscribe from all the workshop items
 
  Outdated or damaged workshop items could interfere with the game when it’s launching. If your FM21 gets stuck on loading screen, you should try removing all the workshop files first:
@@ -50,8 +57,18 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
  If you’ve unsubscribed all the workshop items and the game still won’t load, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify your game files
 
  Another quick fix you can try is to verify your game files, which can be done within the Steam client and Epic Games Launcher. If any files are found missing in your local game folders, the game launcher will add them to your game folders and you should then be able to run FM21 without any problems. Here’s how:
@@ -61,11 +78,22 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 1. Go to your Steam library and find FM21\. Right-click the game icon then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<span id="1975658">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975658.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975658">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975658.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975658%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975658/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 3. Wait for Steam to complete the scan. It will take some time depending on the size of the game.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### On Epic Games Launcher
 
@@ -85,18 +113,25 @@ thumbnail: https://thmb.techidaily.com/99e083d06891d6b9709e3f748eff8a9d6ada1ef30
 2. Click**View** in the header, and make sure**Hidden items** are ticked to be shown.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/hidden-items.jpg)
 3. Navigate to **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021** .
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<span id="1982462">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982462.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982462">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982462.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982462%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982462/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Delete the**Preferences** and/or**Cache** folder(s).
 5. Run FM21 to test the issue.
 
 If this doesn’t solve your problem, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Backup and move your game files
 
  Sometimes a random game error can be solved by backing up and transferring your game files. Although the Steam client now has the built-in feature to help the players do this, there’s no similar feature in Epic Games Launcher. Here we’ll introduce the manual way to do it, which only takes a few steps and will work on both game launchers:
@@ -109,9 +144,6 @@ If this doesn’t solve your problem, move on to the next fix.
 
 If the game still gets stuck on loading screen, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Update your graphics driver
 
  If you’ve tried the fixes above but nothing worked, it’s time to consider updating your graphics driver. When your graphics driver is outdated or faulty, FM21 may have a problem proceeding to the graphics card check, and thus get stuck on the loading screen.
@@ -130,16 +162,17 @@ If the game still gets stuck on loading screen, try the next fix.
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134496/18498" target="_top" id="2134496">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134496" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134496/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -156,15 +189,16 @@ If the game still gets stuck on loading screen, try the next fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1948909/19272" target="_top" id="1948909">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948909" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948909/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
@@ -183,6 +217,14 @@ If the game still gets stuck on loading screen, try the next fix.
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch FM21\. If it once again won’t launch, then you know that one of the services you ticked above is conflicting with it. If it_does_ launch, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135368/19272" target="_top" id="2135368">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135368" border="0" alt="https://techidaily.com" width="250" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135368/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4. Repeat steps 2 and 3 above until you find the service that conflicts with FM21.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -192,6 +234,14 @@ If the game still gets stuck on loading screen, try the next fix.
 1. Right-click anywhere empty on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Switch to the**Startup** tab, and**enable the first five startup items** .  
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-59-36.jpg)
 3. Reboot and try launching Football Manager 2021.
 4. Repeat until you find the startup item that’s conflicting with FM21.
@@ -211,8 +261,6 @@ If the game still gets stuck on loading screen, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +268,24 @@ If the game still gets stuck on loading screen, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-maximizing-tweet-control-15-premier-unfollow-utilities/"><u>[New] Maximizing Tweet Control 15 Premier Unfollow Utilities</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-premiere-seminar-title-assembler/"><u>[New] Premiere Seminar Title Assembler</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-how-to-instantly-recover-lost-reddit-posts/"><u>2024 Approved How to Instantly Recover Lost Reddit Posts</u></a></li>
+<li><a href="https://fox-where.techidaily.com/boost-your-computers-precision-essential-windows-11-mouse-drivers-upgrade-guide/"><u>Boost Your Computer's Precision: Essential Windows 11 Mouse Drivers Upgrade Guide</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comprehensive-solutions-to-address-missing-or-damaged-msodll-files/"><u>Comprehensive Solutions to Address Missing or Damaged mso.dll Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/embark-on-a-digital-journey-through-detroit-a-flawlessly-running-adventure-on-personal-computers/"><u>Embark on a Digital Journey Through Detroit: A Flawlessly Running Adventure on Personal Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/guard-your-written-data-a-comprehhemode-on-securing-text-files-with-passwords/"><u>Guard Your Written Data: A Comprehhemode on Securing Text Files with Passwords</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/in-2024-navigating-the-world-of-digital-backdrops-a-beginners-guide-to-chroma-keying/"><u>In 2024, Navigating the World of Digital Backdrops A Beginner's Guide to Chroma Keying</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-bloodhunt-experience-on-pc-a-fix-for-stuttering-and-unexpected-shutdowns/"><u>Optimizing Your Bloodhunt Experience on PC: A Fix for Stuttering & Unexpected Shutdowns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-the-challenge-solving-your-problems-with-warzone-failing-to-load/"><u>Overcome the Challenge: Solving Your Problems with Warzone Failing to Load</u></a></li>
+<li><a href="https://extra-information.techidaily.com/passport-photo-creator-access-to-top-quality-portraits-for-desktoponline-use/"><u>Passport Photo Creator – Access to Top Quality Portraits for Desktop/Online Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-and-advanced-techniques-to-tackle-slow-connection-speeds-in-warzone-2024/"><u>Quick Fixes & Advanced Techniques to Tackle Slow Connection Speeds in Warzone 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fix-your-fnaf-game-crashes-on-windows-now-running-smoothly/"><u>Resolved: Fix Your FNaF Game Crashes on Windows - Now Running Smoothly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-lego-star-wars-the-skywalker-sagas-pc-game-crashes-in-2nd4/"><u>Resolved: Fixing Lego Star Wars: The Skywalker Saga's PC Game Crashes in 2nD4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-lag-problems-in-league-of-legends/"><u>Resolved: How to Fix Lag Problems in League of Legends</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/samsung-smart-tv-firmware-updates-made-simple-a-quick-how-to/"><u>Samsung Smart TV Firmware Updates Made Simple: A Quick How-To</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-steps-for-fixing-battlenet-startup-problems/"><u>Ultimate Troubleshooting Steps for Fixing Battle.net Startup Problems</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: League of Legends Play Without Disconnection - Fix & Tips
-date: 2024-09-01T08:42:50.192Z
-updated: 2024-09-02T08:42:50.192Z
+date: 2024-11-15T02:33:50.502Z
+updated: 2024-11-17T12:44:56.138Z
 tags:
   - win11
   - win10
@@ -60,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -85,9 +82,6 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -95,11 +89,22 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886048/19272" target="_top" id="1886048">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886048" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886048/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136622/26400" target="_top" id="2136622">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136622" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136622/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -109,13 +114,24 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<a href="https://aidotcom.pxf.io/c/5597632/2134502/19576" target="_top" id="2134502">
+  <img src="//a.impactradius-go.com/display-ad/19576-2134502" border="0" alt="https://techidaily.com" width="672" height="90"/>
+</a>
+<img height="0" width="0" src="https://aidotcom.pxf.io/i/5597632/2134502/19576" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2105866/7443" target="_top" id="2105866">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105866" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105866/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -143,8 +159,12 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137213/26400" target="_top" id="2137213">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137213" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137213/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -161,10 +181,6 @@ thumbnail: https://thmb.techidaily.com/82946b1471bda0a94f0756d1b1276fee19eddaa45
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -178,8 +194,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +201,24 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-taking-off-in-tutorials-the-beginners-guide-to-fashionable-mac-footage/"><u>[New] 2024 Approved Taking Off in Tutorials The Beginner’s Guide to Fashionable Mac Footage</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-2024-approved-unified-webcamscreen-capture-strategies/"><u>[Updated] 2024 Approved Unified Webcam/Screen Capture Strategies</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-experiencing-dji-inspire-2-in-full-scale/"><u>2024 Approved Experiencing DJI Inspire 2 in Full Scale</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-converter-mkv-to-mjpeg-video-format-with-movavi/"><u>Free Online Converter: MKV to MJPEG Video Format with Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-overcoming-cyberpunk-2077s-gpu-non-utilization-issue-on-windows-11/"><u>Guide: Overcoming Cyberpunk 2077'S GPU Non-Utilization Issue on Windows 11</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-prevent-a-macbook-from-sleeping-when-the-lid-is-closed/"><u>How to Prevent a MacBook From Sleeping When the Lid Is Closed</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/how-to-transcribe-live-broadcasts-into-digital-format-for-2024/"><u>How to Transcribe Live Broadcasts Into Digital Format for 2024</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/leading-cable-modemrouter-duos-of-the-year-a-2024-selection/"><u>Leading Cable Modem/Router Duos of the Year - A 2024 Selection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/naraka-bladepoint-ultimate-guide-to-fixing-game-crashes-and-errors/"><u>Naraka: Bladepoint - Ultimate Guide to Fixing Game Crashes & Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-repair-a-non-responsive-discord-application/"><u>Solved: How to Repair a Non-Responsive Discord Application</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-how-to-stop-fifa-19-from-freezing-or-crashing-on-pc/"><u>Solving the Issue: How to Stop FIFA 19 From Freezing or Crashing on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-persistent-black-screen-trouble-in-your-epic-games-launcher-experience/"><u>Solving the Persistent Black Screen Trouble in Your Epic Games Launcher Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-error-resolved-solutions-when-encountering-a-fatal-steamuidll-could-not-be-loaded-error-message/"><u>Steam Error Resolved: Solutions When Encountering a Fatal 'steamui.dll Could Not Be Loaded' Error Message</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-baldurs-gate-3-reducing-high-cpu-drain-with-these-6-fixes/"><u>Troubleshooting Baldur’s Gate 3: Reducing High CPU Drain with These 6 Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985303520-unlocking-secrets-cod-mws-most-intense-first-person-shooter-drops/"><u>Unlocking Secrets: Cod: MW's Most Intense First-Person Shooter Drops</u></a></li>
+<li><a href="https://fox-access.techidaily.com/upgrade-your-whatsapp-experience-with-a-bespokel-ringtones-design/"><u>Upgrade Your WhatsApp Experience with a Bespokel Ringtones Design</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/windows-7-and-8/"><u>Windows 7 & 8で簡単にオーディオ録音のコツ</u></a></li>
+</ul></div>
 

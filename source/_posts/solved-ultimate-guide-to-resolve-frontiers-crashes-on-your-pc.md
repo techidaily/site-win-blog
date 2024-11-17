@@ -1,7 +1,7 @@
 ---
 title: "Solved: Ultimate Guide to Resolve Frontier's Crashes on Your PC"
-date: 2024-09-01T08:40:16.871Z
-updated: 2024-09-02T08:40:16.871Z
+date: 2024-11-12T23:38:24.813Z
+updated: 2024-11-16T19:39:20.557Z
 tags:
   - win11
   - win10
@@ -66,24 +66,25 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
 6. Steam will verify the game’s files – this process may take several minutes.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 If you’re on Rockstar game launcher, you can verify integrity by:
 
 * Navigate to**Settings**
 * Select Red Dead Online from the list under**My installed games** on the left
 * Select**Verify Integrity** under Verify game file integrity from the options on the right
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Disable third-party software
 
  Some third-party tools or software can interfere with your Red Dead Online, especially if you’re using tools like MSI Afterburner or RGB software, OBS, and Bandicam. Open Task Manager (**Esc** +**Shift** +**Esc** ) to close all these background apps or simply uninstall them.
 
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Red Dead Online as admin
 
  Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
@@ -92,9 +93,6 @@ If you’re on Rockstar game launcher, you can verify integrity by:
 2. Click the **Compatibility** tab, tick both **Run this Program as an Administrator** and **Disable Fullscreen Optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/drivereasy-run-as-admin.jpg)
 3. Click**Apply** \>**OK** and now you can run this game as administrator permanently.
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Now launch Red Dead Online and see if the game crashes again. If running it as an administrator did not work, you can try the next fix.
 
@@ -140,8 +138,12 @@ OR
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 5: Stop overclocking your GPU
 
  If your Red Dead Online is still crashing, the reason might be your GPU. If you’re overclocking your GPU, you can revert it back to its default GPU clock.
@@ -154,8 +156,12 @@ OR
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1938693/19272" target="_top" id="1938693">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938693" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938693/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 6: Install Graphics Tools
 
  Some players find adding a Graphics Tool helped fix their Red Dead Online crashing issue. So if these methods above didn’t do the trick, you may want to have a try:
@@ -164,17 +170,27 @@ OR
 2. Click **Add a feature** .  
 ![add graphics tools](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-feature-1.jpg)
 3. Choose **Graphics Tools** from the results list.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134495/18498" target="_top" id="2134495">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134495" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134495/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/add-a-graphics-tool.jpg)
 4. Launch your game again to see if you can get rid of game crashes now.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://bluettius.sjv.io/c/5597632/2139113/17108" target="_top" id="2139113">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139113" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139113/17108" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -192,8 +208,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +215,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-social-snippets-showcase-twitters-trending-threads/"><u>[New] In 2024, Social Snippets Showcase Twitter’s Trending Threads</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-unsealing-the-secret-permanently-ditch-youtube-shorts/"><u>[New] In 2024, Unsealing the Secret Permanently Ditch YouTube Shorts</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-from-obscurity-to-star-in-3-simple-steps/"><u>[Updated] 2024 Approved From Obscurity to Star in 3 Simple Steps</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-chucklecanvas-funny-images-for-social-media-sharing/"><u>[Updated] In 2024, ChuckleCanvas Funny Images for Social Media Sharing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992139570-beat-the-blunder-effective-strategies-to-repair-your-steam-connection-errors-today/"><u>Beat the Blunder: Effective Strategies to Repair Your Steam Connection Errors Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-graphics-issue-why-is-your-gpu-not-utilized-on-windows-11/"><u>Cyberpunk 2077 Graphics Issue: Why Is Your GPU Not Utilized on Windows 11?</u></a></li>
+<li><a href="https://program-issues.techidaily.com/fix-your-game-crashes-solutions-for-when-modern-warfare-2-wont-open/"><u>Fix Your Game Crashes - Solutions for When 'Modern Warfare 2' Won't Open</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2022-pc-freezing-issues-how-to-fix-them/"><u>Football Manager 2022 PC Freezing Issues: How to Fix Them</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-switch-off-sound-amplification-and-effects-on-windows-11/"><u>How to Switch Off Sound Amplification and Effects on Windows 11</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-speedy-visual-scan-of-your-pictures-on-win11/"><u>In 2024, Speedy Visual Scan of Your Pictures on Win11</u></a></li>
+<li><a href="https://techtrends.techidaily.com/leading-server-rack-solutions-the-2024-market-overview/"><u>Leading Server Rack Solutions: The 2024 Market Overview</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/r-thumbnail-design-for-mac-users-youtube-edition-for-2024/"><u>Master Thumbnail Design for Mac Users - YouTube Edition for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997655349-nier-automata-stability-improvements-no-more-crashes/"><u>NieR: Automata Stability Improvements - No More Crashes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-stop-chrome-crashing-on-windows-11-with-these-simple-fixes/"><u>Quick Solutions: Stop Chrome Crashing on Windows 11 with These Simple Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/watch-dogs-legion-pc-stability-woes-effective-solutions-to-prevent-frequent-crashes/"><u>Watch Dogs Legion PC Stability Woes - Effective Solutions to Prevent Frequent Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-the-fight-against-subnautica-pc-crashes-a-complete-guide-for-players/"><u>Winning the Fight Against Subnautica PC Crashes - A Complete Guide for Players</u></a></li>
+</ul></div>
 

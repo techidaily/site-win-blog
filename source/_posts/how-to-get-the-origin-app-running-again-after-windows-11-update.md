@@ -1,7 +1,7 @@
 ---
 title: How to Get the 'Origin' App Running Again After Windows 11 Update
-date: 2024-09-01T08:38:32.088Z
-updated: 2024-09-02T08:38:32.088Z
+date: 2024-11-12T16:36:27.378Z
+updated: 2024-11-17T06:40:43.574Z
 tags:
   - win11
   - win10
@@ -40,8 +40,19 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-19_18-24-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134246/18498" target="_top" id="2134246">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134246" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134246/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1948949/19272" target="_top" id="1948949">
+  <img src="//a.impactradius-go.com/display-ad/19272-1948949" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948949/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 2: Reinstall the Logitech software
 
  It’s possible that the Logitech software could be the reason for the issue. Remove the Logitech software and download it from the official website, then install it.
@@ -50,17 +61,36 @@ Are you upset by your Logitech C920 webcam? It’s not working or no longer reco
 2. Type **appwiz  .  cpl**  and press**Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Right-click on Logitech software and select**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<span id="1912746">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1912746.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20231-1912746">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1912746.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fmindmanager.sjv.io%2Fc%2F5597632%2F1912746%2F20231'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1912746/20231" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
 4. During the uninstall process, only select THE DRIVER.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094415/7443" target="_top" id="2094415">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094415" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094415/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Finish the uninstall process and run the camera again. It should be working with your software.
 6. But if it doesn’t help, you can uninstall the whole software and go to the[Logitech website](https://support.logi.com/hc/en-us/articles/360024361233) to re-download.
 7. Then install it and reboot it to check.
 
 There’s another situation that
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Reinstall your drivers
 
  Outdated or wrong drivers could cause trouble. When you meet computer problems but have no clue to fix them, you can update related drivers for a try. Keeping your drivers updated can help you enhance device functions to improve computer performance.
@@ -73,9 +103,6 @@ OR
 
 **[Option 2 – Automatically (Recommended)](https://www.drivereasy.com/knowledge/solved-logitech-c920-webcam-not-working/#op2)**  – This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Option 1 – Download and install the driver manually
 
  You can download graphics drivers from the manufacturer’s official website. Search for the model you have and find the correct driver that suits your specific operating system. Then download the driver manually.
@@ -93,12 +120,22 @@ OR
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/de-scan-6.1.png)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
 
+<!-- affiliate ads begin -->
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2018/05/Logitech-HD-Pro-Webcam-C920.png)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -111,13 +148,7 @@ OR
 2. Find the conflicting app and click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/steam-end-task.png)
 3. Reboot your camera to check.
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Repair system files
 
  Sometimes corrupted system files and hardware issues will lead to all kinds of errors. To identify the cause and repair it, you don’t have to check those components one by one but perform a quick automatic system scan.
@@ -128,11 +159,16 @@ OR
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  The Pro version of Fortect comes with 24/7 technical support. If you need any assistance, please contact Fortect support:  
@@ -148,8 +184,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +191,20 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-unraveling-youtubes-viewer-metrics-a-deeper-look/"><u>[New] 2024 Approved Unraveling YouTube's Viewer Metrics A Deeper Look</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-must-haves-for-capturing-movies-on-the-move-for-2024/"><u>[New] Must-Haves for Capturing Movies on the Move for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-metro-exodus-crashing-on-pc/"><u>[Solved] Metro Exodus Crashing on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dying-light-2-on-pc-solving-the-common-lag-and-frame-rate-problems/"><u>Dying Light 2 on PC: Solving the Common Lag and Frame Rate Problems</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-fix-msstdfmtdll-not-found-issue-on-your-computer-easily/"><u>How to Fix Msstdfmt.dll Not Found Issue on Your Computer Easily</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-adobe-photos-sway-decrease-a-crucial-feature/"><u>In 2024, Adobe Photos' Sway Decrease - A Crucial Feature?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-pros-choice-top-10-cameras-with-advanced-stabilization/"><u>In 2024, Pro's Choice Top 10 Cameras With Advanced Stabilization</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-no-more-pc-freezes-while-playing-back-4-blood/"><u>Mastering Stability: No More PC Freezes While Playing 'Back 4 Blood'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-blockades-ultimate-solutions-when-roblox-wont-load/"><u>Navigating Through Blockades: Ultimate Solutions When Roblox Won't Load</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-code-6-glitches-on-your-pc-battlefield-2042-gameplay/"><u>Overcoming Code 6 Glitches on Your PC Battlefield 2042 Gameplay</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/stop-the-crashes-masterful-strategies-to-smooth-out-your-diablo-immortal-experience-on-pc/"><u>Stop the Crashes: Masterful Strategies to Smooth Out Your Diablo Immortal Experience on PC</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/tips-to-remove-black-display-on-pc-webcam/"><u>Tips to Remove Black Display on PC Webcam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fix-guide-resolve-forza-horizon-3-pc-stability-problems/"><u>Ultimate Fix Guide: Resolve Forza Horizon 3 PC Stability Problems</u></a></li>
+</ul></div>
 

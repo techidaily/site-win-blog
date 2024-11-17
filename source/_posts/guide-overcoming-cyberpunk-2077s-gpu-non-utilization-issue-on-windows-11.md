@@ -1,7 +1,7 @@
 ---
 title: "Guide: Overcoming Cyberpunk 2077'S GPU Non-Utilization Issue on Windows 11"
-date: 2024-09-01T08:43:03.501Z
-updated: 2024-09-02T08:43:03.501Z
+date: 2024-11-11T01:14:25.646Z
+updated: 2024-11-17T01:20:45.107Z
 tags:
   - win11
   - win10
@@ -65,6 +65,14 @@ Here’s how:
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082521/7443" target="_top" id="2082521">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082521" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082521/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the **Windows logo key** and type **cmd** . Select **Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
@@ -73,16 +81,10 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After changing your power plan, you can then check it there’s any improvements in Cyberpunk 2077.
 
  if this trick doesn’t give you luck, you can move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The FPS drops issue could indicate that you’re using**a faulty or outdated graphics driver** . GPU manufacturers keep updating their drivers to improve performance on new titles. So if you don’t remember when was the last time you updated your graphics driver, definitely do it now as it could be a zero-cost adrenaline for your PC.
@@ -110,12 +112,17 @@ First visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105867/7443" target="_top" id="2105867">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105867" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105867/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 runs smoother.
@@ -123,9 +130,12 @@ First visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t work for you, simply check out the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<a href="https://appsumo.8odi.net/c/5597632/2075483/7443" target="_top" id="2075483">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075483" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075483/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Install all Windows updates
 
  The newly released Windows 10 20H2 update includes loads of new features, some of which might come with compatibility fixes and a performance boost. If you never bother to install system updates manually, you should do it now.
@@ -135,16 +145,27 @@ And here’s a simple guide for that:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Then wait for Windows to download and install the available system updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151860/7443" target="_top" id="2151860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  If you haven’t been updating for a while,**repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all the system updates, restart your computer and test the gameplay in Cyberpunk 2077.
 
  If this method doesn’t help you, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136613/26400" target="_top" id="2136613">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136613" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136613/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable HAGS (hardware-accelerated GPU scheduling)
 
@@ -161,15 +182,16 @@ And here’s enable HAGS:
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn on **Hardware-accelerated GPU scheduling** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<a href="https://appsumo.8odi.net/c/5597632/2130869/7443" target="_top" id="2130869">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130869" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130869/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-4.jpg)
 5. Restart your PC for the changes to take effect.
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
 Now you can launch Cyberpunk 2077 and check the gameplay.
 
@@ -184,21 +206,28 @@ To change the in-game graphics settings, simply follow these steps:
 1. Launch Cyberpunk 2077 and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Navigate to the**GAMEPLAY** tab. Under the**Performance** section, set**Crowd Density** to**Low** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<a href="https://homestyler.sjv.io/c/5597632/1943647/22993" target="_top" id="1943647">
+  <img src="//a.impactradius-go.com/display-ad/22993-1943647" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://homestyler.sjv.io/i/5597632/1943647/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Under the**Miscellaneous** section, set**Enable Analytics** to**OFF** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. Navigate to the**GRAPHICS** tab. Under the**Basic** section, set both**Film Grain** and**Chromatic Aberration** to**OFF** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. The next two settings are optional. You can try turning off**Ray Tracing** and see if it improves the performance.**DLSS** is a new RTX technology that uses AI to boost your FPS. (Sounds fancy.) You can try setting it to**Performance** or**Ultra Performance** and see if it really helps. (Doing so might make the game seem blurry.)  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2094428/7443" target="_top" id="2094428">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094428" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094428/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
 
  For more tuning details, check out[this article](https://www.tomshardware.com/news/cyberpunk-2077-pc-benchmarks-settings-performance-analysis) .
@@ -213,8 +242,6 @@ To change the in-game graphics settings, simply follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -222,4 +249,18 @@ To change the in-game graphics settings, simply follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://bypass-frp.techidaily.com/addrom-bypass-an-android-tool-to-unlock-frp-lock-screen-for-your-honor-magic5-ultimate-by-drfone-android/"><u>AddROM Bypass An Android Tool to Unlock FRP Lock Screen For your Honor Magic5 Ultimate</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/all-you-need-to-know-about-mega-greninja-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>All You Need To Know About Mega Greninja For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-solution-for-dealing-with-incorrectly-installed-amd-ryzen-master-drivers/"><u>Comprehensive Solution for Dealing with Incorrectly Installed AMD Ryzen Master Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/curing-the-lag-in-grand-theft-auto-v-effective-solutions/"><u>Curing the Lag in Grand Theft Auto V – Effective Solutions</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-bypass-frp-on-oppo-by-drfone-android-unlock-remove-google-frp/"><u>How To Bypass FRP on Oppo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-cyberpunk-2077-freezing-issues-on-your-windows-pc-solution/"><u>How To Fix Cyberpunk 2077 Freezing Issues On Your Windows PC - SOLUTION</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-special-features-virtual-location-on-vivo-y28-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Use Special Features - Virtual Location On Vivo Y28 5G? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leading-cameras-for-automotive-tracking-unveiled-for-2024/"><u>Leading Cameras for Automotive Tracking Unveiled for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-technical-glitches-in-jurassic-world-evolution-expert-crash-solutions-revealed/"><u>Overcoming Technical Glitches in Jurassic World Evolution – Expert Crash Solutions Revealed</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/tech-insight-the-moto-g-power-shines-with-impressive-battery-life-and-performance/"><u>Tech Insight: The Moto G Power Shines with Impressive Battery Life & Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solutions-to-frame-drops-in-mass-effects-ultimate-release/"><u>Troubleshooting and Solutions to Frame Drops in Mass Effect's Ultimate Release</u></a></li>
+</ul></div>
 

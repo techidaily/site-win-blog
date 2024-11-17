@@ -1,7 +1,7 @@
 ---
 title: "Resolving the Issue: 'League of Legends Not Launching - Comprehensive Guide"
-date: 2024-09-01T08:38:34.675Z
-updated: 2024-09-02T08:38:34.675Z
+date: 2024-11-14T00:37:42.011Z
+updated: 2024-11-16T17:44:31.949Z
 tags:
   - win11
   - win10
@@ -38,13 +38,25 @@ Connection issues can happen in every online game and bother many players. The L
 1. Unplug both your router and modem.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/device.jpg)
 2. Wait at least 30 seconds to let the two machines cool down a bit.
+
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 3. Plug the modem back in and wait until the indicator lights are back to their normal state.
 4. Plug the router back in this time. Likewise, wait until the indicator lights are back to their normal state.
 5. Now that your routers and modem have been restarted properly, you can launch LOL again to see if the connection issue goes away.
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<a href="https://review-au.sjv.io/c/5597632/2098703/14409" target="_top" id="2098703">
+  <img src="//a.impactradius-go.com/display-ad/14409-2098703" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098703/14409" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 2: Switch Wi-Fi into a wired connection
 
  If you’ve already avoided possible wireless interference that weakens your Wi-Fi signal such as cordless phones and microwave ovens or simply move your laptop to a new location with a stronger Wi-Fi signal, but you still have the connection issue, you can try switch Wi-Fi into a wired connection.
@@ -63,6 +75,14 @@ Connection issues can happen in every online game and bother many players. The L
 3. Click **Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg) ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the LOL is checked. If not, click the Change settings button then check the LOL. If you see more than one LOL entries, check all of them. Ensure the Private box and the Publick box are checked too.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151890/7443" target="_top" id="2151890">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151890" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151890/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Run LOL to check the issue is resolved or not.
 
  If the LOL is already checked and this method doesn’t work for you, you can move on to try another method.
@@ -78,8 +98,12 @@ Connection issues can happen in every online game and bother many players. The L
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135395/19272" target="_top" id="2135395">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135395" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135395/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 5: Update your device drivers
 
  Outdated network drivers may cause a connection issue. So you can try to update your network adapter driver to fix the problem.
@@ -96,17 +120,18 @@ Connection issues can happen in every online game and bother many players. The L
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-715.png)
 4. Run League of Legends to check the connection issue is resolved or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 **Note** : If you have any problems using Driver Easy to update your drivers, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2137393/7443" target="_top" id="2137393">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137393" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137393/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Method 6: Disable your proxy & VPN
 
  If you’re using a VPN or a proxy, make sure you disable them before getting started to play LOL. These are useful tools to protect your privacy online, but they can also be the causes of your high ping issue.
@@ -119,18 +144,20 @@ Connection issues can happen in every online game and bother many players. The L
 2. Click**Proxy** on the left pane. Turn off the toggles under**Automatically detect settings**  and **Use setup script** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network1.jpg)
 3. Also, don’t forget to **disconnect your VPN** if you’re using it.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134240/18498" target="_top" id="2134240">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134240" border="0" alt="https://techidaily.com" width="540" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134240/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4. Launch LOL and check the connection issue.
 
  Don’t lose your hope if you still cannot fix the connection issue after trying all the methods above. Just read the next fix and give it a shot.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ### Method 7: Change your DNS server
 
  Try to switch your ISP’s DNS server to the Google Public DNS address. This may improve the resolution time and provide you with greater online security. Here’s how:
@@ -141,21 +168,20 @@ Connection issues can happen in every online game and bother many players. The L
 3. Set Control Panel view by **Category** then click **View network status and tasks** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network2.jpg)
 4. Click **Change adapter settings** .  
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network3.jpg)
 5. Right-click on your network and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/network4.jpg)
 6. Double-click **Internet Protocol Version 4 (TCP/IPv4)**  to view its properties.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-630.png)
 7. In the pop-up window, select these two options: **Obtain an IP address automatically** and **Use the following DNS server addresses** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  For the Preferred DNS server, enter 8.8.8.8 to replace the primary IP address; for the **Alternate DNS server** , enter **8.8.4.4** . Then click **OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-633.png)  
 **Note** : If you want to restore your DNS server addresses, simply change **Use the following DNS server addresses** to **Obtain DNS server address automatically** and then restart your network adapter.
@@ -173,8 +199,6 @@ Connection issues can happen in every online game and bother many players. The L
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +206,24 @@ Connection issues can happen in every online game and bother many players. The L
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/solved-the-elder-scrolls-online-blackwood-lagging/"><u>[SOLVED] The Elder Scrolls Online: Blackwood Lagging</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unmask-subject-with-backdrop-blanket-removal/"><u>[Updated] Unmask Subject with Backdrop Blanket Removal</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-essential-guide-for-instagram-video-uploads-from-pcmac/"><u>2024 Approved The Essential Guide for Instagram Video Uploads From PC/Mac</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95773196-9781317364948-a-guide-to-the-world-of-dreams/"><u>A Guide to the World of Dreams | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-fixing-persistent-launcher-crashes-in-everscape-2-pc-edition/"><u>Expert Tips for Fixing Persistent Launcher Crashes in Everscape 2 PC Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-xcom-2-windows-issues-say-goodbye-to-game-crashes-and-hello-to-smooth-play/"><u>Fixing XCOM 2 Windows Issues - Say Goodbye to Game Crashes and Hello to Smooth Play!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-v29-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on V29</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-unlock-apple-id-from-your-iphone-12-mini-without-security-questions-by-drfone-ios/"><u>How to Unlock Apple ID From your iPhone 12 mini without Security Questions?</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-complete-review-and-guide-to-techeligible-frp-bypass-and-more-for-poco-m6-pro-5g-by-drfone-android/"><u>In 2024, Complete Review & Guide to Techeligible FRP Bypass and More For Poco M6 Pro 5G</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-infinix-zero-5g-2023-turbo-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Infinix Zero 5G 2023 Turbo Phone Pattern Lock</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/install-official-hp-wireless-networking-drivers-on-windows-machines/"><u>Install Official HP Wireless Networking Drivers on Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-frame-rates-in-tainted-grail-conquest-a-step-by-step-guide/"><u>Maximizing Frame Rates in Tainted Grail: Conquest - A Step-by-Step Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/premium-internet-spots-for-glossy-3d-text-effects/"><u>Premium Internet Spots for Glossy 3D Text Effects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-enshrouded-application-crashes-in-windows-systems/"><u>Resolving 'Enshrouded' Application Crashes in Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-overcome-nba-2k23-pc-crashes-with-these-7-effective-solutions/"><u>Solved: Overcome NBA 2K23 PC Crashes with These 7 Effective Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-the-frustrating-connection-failure-in-hitman-3/"><u>Troubleshooting Guide: Eliminating the Frustrating Connection Failure in Hitman 3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/twitch-no-audio-problem-heres-the-ultimate-fix-that-works/"><u>Twitch No Audio Problem? Here's the Ultimate Fix That Works!</u></a></li>
+</ul></div>
 

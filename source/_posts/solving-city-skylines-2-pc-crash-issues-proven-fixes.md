@@ -1,7 +1,7 @@
 ---
 title: Solving 'City Skylines 2' PC Crash Issues - Proven Fixes
-date: 2024-09-01T08:38:45.674Z
-updated: 2024-09-02T08:38:45.674Z
+date: 2024-11-13T12:34:41.383Z
+updated: 2024-11-17T01:29:25.082Z
 tags:
   - win11
   - win10
@@ -26,6 +26,13 @@ Team Fortress 2 gameplay is endlessly fun but many players report the problem of
 3. **[Run TF2 in compatibility mode & as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Set Launch Options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2137411/7443" target="_top" id="2137411">
+  <img src="//a.impactradius-go.com/display-ad/7443-2137411" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2137411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Before getting started
 
@@ -53,22 +60,22 @@ By checking your system specs, just follow the instructions below:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Stop overclocking your GPU
 
  You might overclock your GPU in order to boost your game’s FPS. But it’ll lead to an increase in heat, and thus reduce the lifespan of your hardware components. So if you’ve been overclocking it, try to disable it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics drivers
 
  You might not be able to launch your games if your graphics drivers are corrupt or out-of-date. So to have a better gaming experience, have them updated.
 
  There are mainly two options you can take to update your graphics drivers:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2080342/19272" target="_top" id="2080342">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080342" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080342/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 1: Manually update your graphics drivers
 
@@ -80,9 +87,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 [AMD](https://www.amd.com/en/support)
 [Intel](https://downloadcenter.intel.com/download/29804/Intel-Graphics-Driver-for-Windows-15-40-?product=80939)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics drivers (recommended)
 
  If you don’t feel like updating the drivers all on your own, we recommend you use[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) . It’s a tool that detects, downloads and installs the correct versions of drivers that your computer needs. With Driver Easy, updating graphics drivers becomes much easier.
@@ -93,13 +97,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![update drivers; scan now](https://images.drivereasy.com/wp-content/uploads/2020/09/scan-now-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -116,8 +113,12 @@ OR
  If you’ve had all your drivers updated and the problem persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 3: Run TF2 in compatibility mode & as an administrator
 
  When your game keeps hanging on “Preparing to launch…” and it never launches, try running it in compatibility mode & as an administrator.
@@ -125,6 +126,13 @@ OR
  1) Right-click on the Steam icon on your desktop and select**Open file location** .
 
 ![run the game in compatibility mode; Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-1.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016148/19272" target="_top" id="2016148">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016148" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016148/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) Open the**steamapps** folder.
 
@@ -137,16 +145,29 @@ OR
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-3-3.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1915865/19272" target="_top" id="1915865">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915865" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915865/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  5) Select the**Compatibility** tab and check**Run this program in compatibility mode** and**Run this program as an administrator** . Then click**OK** .
 
 ![run the game in compatibility mode TF2](https://images.drivereasy.com/wp-content/uploads/2020/09/run-the-game-in-compatibility-mode-as-an-administrator.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<span id="1982457">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1982457.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1982457">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982457.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982457%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982457/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Verify the integrity of game files
 
  TF 2 might not launch when a certain file is missing or damaged. To fix it, you need to verify the integrity of game files on Steam.
@@ -164,9 +185,12 @@ OR
 ![Team Fortress 2 verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2020/09/verify-integrity-of-game-files-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5: Set Launch Options
 
  This method is proven to be working for many game players. So you can give it a shot by following these steps:
@@ -179,9 +203,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) When the window pops up, type**autoconfig** and click**OK** .
 
 ![set launch options Team Fortress 2](https://images.drivereasy.com/wp-content/uploads/2020/09/set-launch-options-3.png)
@@ -209,8 +230,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +237,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-advanced-techniques-for-professional-mac-burned-discs/"><u>[New] Advanced Techniques for Professional Mac-Burned Discs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-load-screen-fixing-madden-nfl-22-stuck-scenario-for-smooth-gaming/"><u>Beat the Load Screen: Fixing Madden NFL 22 Stuck Scenario for Smooth Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crisp-action-gaming-fixes-and-tweaks-for-blurry-graphics-in-call-of-duty-warzone-on-pc/"><u>Crisp Action Gaming: Fixes and Tweaks for Blurry Graphics in Call of Duty: Warzone on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-doom-eternals-disruptive-crashing-expert-advice-and-fixes-at-hand/"><u>Eliminating DOOM Eternal's Disruptive Crashing: Expert Advice and Fixes at Hand</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/exploring-toms-tech-reviews-a-comprehensive-guide-on-hardware-insights/"><u>Exploring Tom's Tech Reviews: A Comprehensive Guide on Hardware Insights</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-enable-autologin-functionality-on-your-windows-computer/"><u>Guide to Enable AutoLogin Functionality on Your Windows Computer</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/motorolas-moto-g-power-an-in-depth-look-at-its-stellar-endurance-and-solid-execution/"><u>Motorola's Moto G Power - An In-Depth Look at Its Stellar Endurance and Solid Execution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezes-stability-improvements-for-age-of-empires-ii-hd-edition-players/"><u>No More Freezes: Stability Improvements for Age of Empires II HD Edition Players</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211315078-9781416591924-postcards-from-heaven/"><u>Postcards from Heaven | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-black-screen-during-games-on-win/"><u>Resolving Black Screen During Games on WIN</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/step-by-step-guide-transforming-youtube-videos-into-high-quality-mp3-files/"><u>Step-by-Step Guide: Transforming YouTube Videos Into High-Quality MP3 Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/swtor-not-starting-discover-the-proven-techniques-to-get-back-in-game/"><u>SWTOR Not Starting? Discover the Proven Techniques to Get Back in Game</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/the-ultimate-viewing-guide-watching-lord-of-the-rings-trilogy-sequentially/"><u>The Ultimate Viewing Guide: Watching 'Lord of the Rings' Trilogy Sequentially</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-battlefield-5s-crash-dilemma-on-personal-computers/"><u>Ultimate Fixes for Battlefield 5'S Crash Dilemma on Personal Computers</u></a></li>
+</ul></div>
 

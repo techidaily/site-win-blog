@@ -1,7 +1,7 @@
 ---
 title: "How to Ensure Smooth Gaming: Fix Frontier Crashes on Your Computer"
-date: 2024-09-01T08:42:44.990Z
-updated: 2024-09-02T08:42:44.990Z
+date: 2024-11-10T11:08:19.463Z
+updated: 2024-11-17T05:12:55.718Z
 tags:
   - win11
   - win10
@@ -31,6 +31,13 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 
  After confirming your PC is good enough for Minecraft, then go ahead with the fixes below.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111964/7443" target="_top" id="2111964">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111964" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111964/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -51,35 +58,18 @@ thumbnail: https://thmb.techidaily.com/c48a785cefdb0843c6e76d439ab755593afd7522a
 1. Right-click your desktop and select**Display settings** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/display-settings.jpg)
 2. In Display settings, scroll down the page and select**Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/graphics-settings.jpg)
 3. Click**Browse** to add the executable file of Minecraft.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/browse.jpg)
 4. Then click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Minecraft-options-1.jpg)
 5. In the pop-up window, select**High performance** and click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/high-performance-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Once done, run Minecraft again and see if the stuttering issue still appears.
 
 If this solution doesn’t help, continue with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  Minecraft is a graphics-intensive game, so your graphics card is essential for its performance. You cannot have an outdated or faulty driver on your graphics card since this is usually what causes stuttering in Minecraft. To update your graphics driver, there are two ways you can try: manually and automatically.
@@ -87,6 +77,13 @@ If this solution doesn’t help, continue with the next fix below.
 ### Option 1: Update your graphics driver manually
 
  You can update your graphics drivers manually by going to the manufacturer’s website ([NVIDIA](http://nvidia.com/drivers) ,[AMD](https://www.amd.com/en/support) ,[Intel](https://downloadcenter.intel.com/) ) for your graphics card, and searching for the most recent correct driver. Be sure to choose only drivers that are compatible with your Windows version.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Option 2: Update your graphics driver automatically (recommended)
 
@@ -98,15 +95,23 @@ If this solution doesn’t help, continue with the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -115,9 +120,6 @@ If this solution doesn’t help, continue with the next fix below.
 
 If the stuttering issue persists, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Fix 3: Lower your Render Distance
 
  In Minecraft, chunks make up your world. And the render distance controls how many chunks of the world are visible at once. So if you set a high value of chunks, you may face the issue of fps drops or stuttering. To get better performance, you should lower the value to 8 or less, depending on your PC’s hardware. Here’s how:
@@ -128,22 +130,31 @@ If the stuttering issue persists, move on to the next fix.
 3. Click**Video Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/video-settings.jpg)
 4. Lower the**Render distance** according to your need.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925570/19272" target="_top" id="1925570">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925570" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925570/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/render-distance-1.jpg)
 
 This should give you a better game experience.
 
 But if it doesn’t, take a look at the next fix.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137201/26400" target="_top" id="2137201">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137201" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137201/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Fix 4: Enable VSync
 
  Sometimes the stuttering issue might occur due to a frame rate discrepancy between the monitor and GPU. But luckily you can fix it by enabling VSync in your graphics control panel.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Via NVIDIA Control Panel
 
 1. Right-click your desktop and select**NVIDIA Control Panel** .  
@@ -152,8 +163,12 @@ But if it doesn’t, take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-on-vsync.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148639/16836" target="_top" id="2148639">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148639" border="0" alt="https://techidaily.com" width="180" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148639/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Via AMD Radeon Settings
 
 1. Right-click your desktop and select**AMD Radeon Settings** .  
@@ -161,23 +176,22 @@ But if it doesn’t, take a look at the next fix.
 2. Click the**Gaming** Tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-gaming-1.jpg)
 3. Then click**Global Settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/amd-global-settings-1.jpg)
 4. Click**Wait for Vertical Refresh** , then select**Enhanced Sync** from the dropdown menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/enhanced-sync-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
  After you’ve done these, relaunch Minecraft to check if the stuttering persists.
 
 If enabling Vsync didn’t do the trick, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Fix 5: Turn off threaded optimization
 
  Threaded optimization is a setting in NVIDIA Control Panel that controls the use of multithreaded optimization for all 3D games on systems with multi-core/HyperThreaded CPUs. Most new games perform better with threaded optimization enabled. However, some gamers reported that they fixed the stuttering issue in Minecraft by turning off threaded optimization. You can give it a shot. To do so:
@@ -185,16 +199,10 @@ If enabling Vsync didn’t do the trick, proceed to the next fix.
 1. Right-click your desktop and select**NVIDIA Control Panel** from the menu.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-control-panel.jpg)
 2. In the left panel, click**Manage 3D settings** , navigate to the**Program Settings** tab, and select**Minecraft Launcher.exe** from the first dropdown menu.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step1.jpg)
 3. Scroll down to the bottom of the list and find the**Threaded optimization** , then click the dropdown menu next to it and**change the value from Auto to Off** . Click**Apply** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/step2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After doing so, restart Minecraft and check if the problem is resolved.
 
 If the stuttering issue remains, try the next fix.
@@ -212,9 +220,6 @@ If the stuttering issue remains, try the next fix.
 4. Under the**JVM ARGUMENTS** section, there’s a line of text. **Change the amount of RAM that Minecraft can utilize after Xmx** (for example, Xmx4G means Minecraft is allowed to use 4GB RAM). Then click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/4g-save.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Launch Minecraft and see if this helps fix the stuttering.
 
 If this solution doesn’t work, take a look at the next fix.
@@ -241,8 +246,6 @@ If this solution doesn’t work, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -250,4 +253,23 @@ If this solution doesn’t work, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-glue.techidaily.com/new-2024-approved-step-by-step-guide-to-kinemasters-mastery-plus-10-superior-editing-counterparts/"><u>[New] 2024 Approved Step-by-Step Guide to KineMaster's Mastery + 10 Superior Editing Counterparts</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-screen-time-storytelling-before-sleep-analysis-and-reviews/"><u>[New] In 2024, Screen-Time Storytelling Before Sleep Analysis and Reviews</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-easily-obtain-unique-epilogue-audio-files-online/"><u>[Updated] Easily Obtain Unique Epilogue Audio Files Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/alien-squads-ultimate-battle-fixes-for-fireteam-elite-continuous-pc-malfunctions/"><u>Alien Squad's Ultimate Battle - Fixes for 'Fireteam Elite' Continuous PC Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/bypassing-the-annoyance-fixing-constant-crashes-of-content-alerts-on-desktop-computers/"><u>Bypassing the Annoyance: Fixing Constant Crashes of Content Alerts on Desktop Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-nvidia-drivers-solutions-for-non-functioning-control-panels/"><u>Dealing with NVIDIA Drivers: Solutions for Non-Functioning Control Panels</u></a></li>
+<li><a href="https://win-blog.techidaily.com/escape-loop-completed-celebrating-deathloops-triumphant-launch-day/"><u>Escape Loop Completed: Celebrating Deathloop's Triumphant Launch Day</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fixes-for-stability-improvements-in-helldivers-2-for-desktop-players/"><u>Expert Fixes for Stability Improvements in Helldivers 2 for Desktop Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-how-to-stop-wallpaper-engine-from-crashing-in-windows-11-and-10/"><u>Fix: How to Stop Wallpaper Engine From Crashing in Windows 11 & 10</u></a></li>
+<li><a href="https://solve-howtos.techidaily.com/free-online-mkv-converter-upload-and-convert-videos-effortlessly/"><u>Free Online MKV Converter - Upload and Convert Videos Effortlessly</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722973953441-get-the-perfect-fit-epson-wf-2630-drivers-compatible-with-your-windows-os-version-download-here/"><u>Get the Perfect Fit: Epson WF-2630 Drivers Compatible with Your Window's OS Version - Download Here!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-best-ways-on-how-to-unlockbypassswiperemove-itel-a05s-fingerprint-lock-by-drfone-android/"><u>In 2024, Best Ways on How to Unlock/Bypass/Swipe/Remove Itel A05s Fingerprint Lock</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-2024-approved-the-ultimate-guide-to-editing-gopro-footage-on-mac-2023-edition/"><u>New 2024 Approved The Ultimate Guide to Editing GoPro Footage on Mac (2023 Edition)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-pc-instability-expert-tips-for-stable-gameplay-in-black-desert-online/"><u>Overcome PC Instability: Expert Tips for Stable Gameplay in Black Desert Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-to-eliminate-frames-per-second-fps-issues-in-assassins-creed-valhalla-on-pc/"><u>Troubleshooting Tips to Eliminate Frames Per Second (FPS) Issues in Assassin's Creed Valhalla on PC</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-2024-approved-how-to-fix-plugins-not-working-in-final-cut-pro-x/"><u>Updated 2024 Approved How to Fix Plugins Not Working in Final Cut Pro X?</u></a></li>
+</ul></div>
 

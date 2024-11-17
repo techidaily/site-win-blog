@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: What to Do When Phoenix Point Keeps Freezing or Crashing"
-date: 2024-09-01T08:40:47.459Z
-updated: 2024-09-02T08:40:47.459Z
+date: 2024-11-12T17:18:52.465Z
+updated: 2024-11-17T11:55:41.823Z
 tags:
   - win11
   - win10
@@ -72,13 +72,17 @@ If your issue continues to occur, then move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **3)** Restart_GTA5_ to see if this fixed your issue.
 
 If it didn’t, read on and try Fix 3.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Verify your game files
 
  This issue might happen when one or more_GTA5_ files on your PC are corrupt or missing. If you’re playing the game on Steam, follow the instructions below to verify your game files:
@@ -95,16 +99,17 @@ If it didn’t, read on and try Fix 3.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Relaunch_GTA5_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2037351/7443" target="_top" id="2037351">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037351" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037351/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 4: Adjust your virtual memory
 
 **Virtual memory** is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive. If your computer runs out of RAM when running _GTAV_ , Windows will dip into virtual memory for temporary file storage.
@@ -118,8 +123,12 @@ If it didn’t, read on and try Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-41.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **2)** Click **Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
@@ -128,9 +137,6 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27.jpg)
@@ -149,6 +155,13 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135408/19272" target="_top" id="2135408">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135408" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135408/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **8)** Restart your computer and your game.
 
  If your issue still exists, don’t fret. Read on and try the next fix.
@@ -164,11 +177,22 @@ If it didn’t, read on and try Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_14-18-11.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137224/26400" target="_top" id="2137224">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137224/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_14-21-51.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://united.elfm.net/c/5597632/2139558/4704" target="_top" id="2139558">
+  <img src="//a.impactradius-go.com/display-ad/4704-2139558" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://united.elfm.net/i/5597632/2139558/4704" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart **your computer** .
 
@@ -176,9 +200,6 @@ If it didn’t, read on and try Fix 3.
 
 If the issue continues to occur, go to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Check for Windows updates
 
  In some cases, this issue is triggered by out-of-date and incompatible Windows components. Try installing all the new Windows updates to see if this fixes your issue. Follow the instructions below:
@@ -192,8 +213,18 @@ If the issue continues to occur, go to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Restart your computer and your game.
 
  Hopefully, this article helped. Please leave a comment below if you have any questions or suggestions, or if you managed to fix this issue in some other way. I would love your thoughts!
@@ -211,8 +242,6 @@ If the issue continues to occur, go to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +249,22 @@ If the issue continues to occur, go to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-pioneering-techniques-youtube-to-facebook-amplification/"><u>[New] 2024 Approved Pioneering Techniques YouTube to Facebook Amplification</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/new-total-control-guide-powerdirector-user-manual/"><u>[New] Total Control Guide PowerDirector User Manual</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/amd-ryzen-5-7600x-processor-goes-on-sale-available-for-just-174-at-newegg/"><u>AMD Ryzen 5 7600X Processor Goes on Sale: Available for Just $174 at Newegg</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-lag-ultimate-fixes-for-high-ping-in-warzone-version-20/"><u>Beat the Lag: Ultimate Fixes for High-Ping in Warzone Version 2.0</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquering-wsappx-a-step-by-score-approach-to-lowering-your-computers-resource-demands/"><u>Conquering WSAPPX: A Step-by-Score Approach to Lowering Your Computer's Resource Demands</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-persistent-error-4201-in-genshin-impact/"><u>How to Resolve the Persistent Error 4201 in Genshin Impact</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-by-checkra1n-even-on-apple-iphone-se-2020-if-youve-tried-everything-by-drfone-ios/"><u>In 2024, How To Bypass iCloud By Checkra1n Even On Apple iPhone SE (2020) If Youve Tried Everything</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-quick-playlist-streaming-your-mp3-music-library-online/"><u>In 2024, Quick Playlist Streaming Your MP3 Music Library Online</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-10-hidden-strategies-in-canvas-image-design-toolkit/"><u>In 2024, Top 10 Hidden Strategies in Canva's Image Design Toolkit</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-installation-hurdles-successful-launch-of-cod-black-ops-cold-war-on-windows-machines/"><u>Overcoming Installation Hurdles: Successful Launch of Cod: Black Ops Cold War on Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-your-fortnite-lag-problems-a-step-by-step-guide/"><u>Resolving Your Fortnite Lag Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/top-cellphone-promotions-and-discounts-this-independence-day-a-guide-from-zdnet/"><u>Top Cellphone Promotions and Discounts This Independence Day: A Guide From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-correcting-incorrect-installation-of-amds-ryzen-master-tool/"><u>Troubleshooting Guide: Correcting Incorrect Installation of AMD's Ryzen Master Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/victory-over-chaos-how-developers-triumphed-in-rectifying-cod-warzones-pacific-crashing-issue/"><u>Victory Over Chaos: How Developers Triumphed in Rectifying COD: Warzone's Pacific Crashing Issue</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/vimeo-and-youtube-analyzing-their-unique-features-for-2024/"><u>Vimeo and YouTube Analyzing Their Unique Features for 2024</u></a></li>
+</ul></div>
 

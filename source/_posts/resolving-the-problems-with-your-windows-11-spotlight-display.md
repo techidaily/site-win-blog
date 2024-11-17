@@ -1,7 +1,7 @@
 ---
 title: Resolving the Problems with Your Windows 11 'Spotlight' Display
-date: 2024-09-01T08:40:46.370Z
-updated: 2024-09-02T08:40:46.370Z
+date: 2024-11-14T17:06:30.755Z
+updated: 2024-11-17T12:13:16.616Z
 tags:
   - win11
   - win10
@@ -27,6 +27,13 @@ It’s frustrating when you experience the launching problem when playing Age of
 4. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139114/17108" target="_top" id="2139114">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139114" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139114/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Run the game as an administrator
 
  In some cases, Windows may not give your game the necessary permissions to work as it should. This might result in the game not starting or running properly. Enabling the option to run AoE 2 as an administrator may help:
@@ -38,6 +45,13 @@ It’s frustrating when you experience the launching problem when playing Age of
 **2)** Click the**Compatibility tab** , then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-25-23-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902278/19272" target="_top" id="1902278">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902278" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902278/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **3)** Click**OK** .
 
@@ -61,11 +75,6 @@ It’s frustrating when you experience the launching problem when playing Age of
 
 If AoE still won’t launch, move on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Often times when a game fails, the main culprit behind this is your graphics card driver. You may be using a faulty graphics driver or it’s outdated, which causes the game to crash.
@@ -82,9 +91,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_10-40-48-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 **3)** Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
  Or click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
@@ -92,8 +98,12 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-20_11-14-00-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ursime.pxf.io/c/5597632/2136545/16384" target="_top" id="2136545">
+  <img src="//a.impactradius-go.com/display-ad/16384-2136545" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ursime.pxf.io/i/5597632/2136545/16384" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 **4)** Restart your game to see if updating your graphics driver fixed the issue for you. If no, then go ahead with the next fix below.
@@ -118,16 +128,17 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_10-46-50.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 **5)** Relaunch _AoE2_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<a href="https://appsumo.8odi.net/c/5597632/2043855/7443" target="_top" id="2043855">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043855" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043855/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Reinstall your game
 
  This issue might happen if your game isn’t properly installed on your PC. Try reinstalling it to see if that’s the issue for you. Follow the instructions below:
@@ -144,11 +155,22 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-19-32.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2043639/7443" target="_top" id="2043639">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043639" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043639/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-14-21.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134494/18498" target="_top" id="2134494">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134494" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134494/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 **4)** Restart **your computer** .
 
@@ -167,11 +189,22 @@ If the issue continues to occur, go to the next solution.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/01-18_10-54-08-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<a href="https://appsumo.8odi.net/c/5597632/2144275/7443" target="_top" id="2144275">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144275" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144275/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)** Click**Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-05-16-1.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135375/19272" target="_top" id="2135375">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135375" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135375/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  4) Go back to**App& features** , select**Age of Empires** and click**Uninstall** .
 
@@ -183,9 +216,6 @@ If the issue continues to occur, go to the next solution.
 
 If your game still won’t load, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Fix 5: Check for Windows updates
 
  If your game won’t launch at all, it’s not likely that out-of-date Windows components are the core issue, but you should rule out the possibility. Follow the instructions below:
@@ -214,8 +244,6 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -223,4 +251,22 @@ If your game still won’t load, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-the-ultimate-checklist-for-perfectly-crafted-podcast-titles-including-ideas/"><u>[Updated] The Ultimate Checklist for Perfectly Crafted Podcast Titles, Including Ideas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-smooth-gameplay-in-fallout-76-advanced-solutions-to-overcome-low-fps-2023-strategies/"><u>Achieve Smooth Gameplay in Fallout 76: Advanced Solutions to Overcome Low FPS - 2023 Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-optimization-overcoming-freezing-and-frame-drops-with-6-essential-tweaks/"><u>Baldur's Gate Optimization: Overcoming Freezing & Frame Drops with 6 Essential Tweaks</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/experts-selection-best-full-screen-recorders-for-pc-and-mac-for-2024/"><u>Expert's Selection Best Full-Screen Recorders for PC and Mac for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-overcoming-the-challenge-of-minecraft-installation-issues-on-windows-11/"><u>Fixes and Solutions: Overcoming the Challenge of Minecraft Installation Issues on Windows 11</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-8-to-other-iphone-11-pro-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 8 To Other iPhone 11 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-here-are-some-of-the-best-pokemon-discord-servers-to-join-on-samsung-galaxy-s23-fe-drfone-by-drfone-virtual-android/"><u>In 2024, Here are Some of the Best Pokemon Discord Servers to Join On Samsung Galaxy S23 FE | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-prevent-cross-site-tracking-on-apple-iphone-xs-max-and-browser-drfone-by-drfone-virtual-ios/"><u>In 2024, Prevent Cross-Site Tracking on Apple iPhone XS Max and Browser | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-leading-25-icons-setting-social-trends-on-insta/"><u>In 2024, The Leading 25 Icons Setting Social Trends on Insta</u></a></li>
+<li><a href="https://techidaily.com/is-your-motorola-g54-5g-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Motorola G54 5G working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-problems-with-the-battlenet-desktop-application-for-windows-users/"><u>Solving Problems with the Battle.net Desktop Application for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-sea-of-thieves-stuck-screen-problem-expert-advice-and-solutions/"><u>Solving Sea of Thieves Stuck Screen Problem: Expert Advice and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-free-setup-syncing-astro-a50-headset-with-command-center/"><u>Trouble-Free Setup: Syncing Astro A50 Headset with Command Center</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-rainbow-six-expedition-solving-incompatible-hardware-detection/"><u>Troubleshooting Rainbow Six Expedition: Solving Incompatible Hardware Detection</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>Which is the Best Fake GPS Joystick App On Apple iPhone 11? | Dr.fone</u></a></li>
+</ul></div>
 

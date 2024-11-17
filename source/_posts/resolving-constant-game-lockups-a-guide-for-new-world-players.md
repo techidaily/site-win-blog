@@ -1,7 +1,7 @@
 ---
 title: "Resolving Constant Game Lockups: A Guide for New World Players"
-date: 2024-09-01T08:41:08.877Z
-updated: 2024-09-02T08:41:08.877Z
+date: 2024-11-14T06:00:35.810Z
+updated: 2024-11-16T19:09:41.224Z
 tags:
   - win11
   - win10
@@ -86,14 +86,16 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/DE-csan-screen-2.png)
 3. Click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036496/19272" target="_top" id="2036496">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036496" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036496/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![Driver Easy update graphics driver](https://images.drivereasy.com/wp-content/uploads/2019/07/Driver-Easy-update-graphics-driver-1.png)
+
  Don’t worry; it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.
 
  Alternatively if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
@@ -103,13 +105,12 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1880976/19272" target="_top" id="1880976">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880976" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880976/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest DayZ patch
 
  The developers of DayZ release regular game patches to fix bugs. It’s possible that a recent patch has caused the FPS drops issue, and that a new patch is required to fix it.
@@ -127,16 +128,10 @@ thumbnail: https://thmb.techidaily.com/a3b5ab34eaf3f37a9a75db4fff942183c1ae755ba
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Then type **control**  and press **Enter**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-control-panel.jpg)
 2. View Control Panel by **Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-category.jpg)
 3. Click **NVIDIA Control Panel**  to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvidia-control-panel.jpg)
 4. Click **3D Settings** and select **Adjust image settings with preview** . Then select **Use my preference emphasizing** and **drag the slider to the left** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/Nvida-control-panel-3D-settings.jpg)
 
 #### Lower the in-game graphics settings
@@ -159,6 +154,13 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938716/19272" target="_top" id="1938716">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938716" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938716/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 5: Restrict applications and downloads in the background
 
  The DayZ FPS drops issue may occur if you’re running some other applications or programs at the same time. So **try restricting applications and downloads in the background** before playing the game to see if this issue reappears. Here is how to do it:
@@ -171,9 +173,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Temporarily disable the third-party antivirus application
 
  This issue may also be caused by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Day.
@@ -186,9 +185,6 @@ See if you can play the game smoothly. If not, try the next fix, below.
 
 Try the next fix below if this fix didn’t work for you.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Change the power plan of your PC
 
  Most PC are configured to **Balanced** , which may limits the operating capacity of your graphics card and CPU. If the power plan of your PC is **Power saver**  or **Balanced** , you might run into the game FPS drops issue.
@@ -198,14 +194,26 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key**  and **R** at the same time, then type **powercfg.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-powercfg.png)
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1880956/19272" target="_top" id="1880956">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880956" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880956/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
+
  Launch DayZ to see if you resolve the FPS drops issue. If not, try the next fix below to adjust your Windows system for the best performance.
 
 ---
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135396/19272" target="_top" id="2135396">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135396" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135396/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 8: Adjust your Windows system for the best performance
 
@@ -214,12 +222,24 @@ Try the next fix below if this fix didn’t work for you.
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to open the Run dialog. Type **control sysdm.cpl** and press **Enter** to open the**System Properties** window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/run-dialog-system-properties.png)
 2. In the pop-up window, navigate to the Advanced tab, then click **Settings…**  in the **Performance**  section.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/system-property-window.png)
 3. Select **Adjust for best performance**  and click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/adjust-for-best-performance.png)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135418/19272" target="_top" id="2135418">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135418" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135418/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Launch DayZ to see if the FPS drops not mot. If not, congratulations! You’ve fixed this issue.
 
@@ -236,8 +256,6 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -245,4 +263,22 @@ Try the next fix below if this fix didn’t work for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-implementing-youtubes-custom-markup-guide/"><u>[New] In 2024, Implementing YouTube's Custom Markup Guide</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-dividing-drama-a-step-by-step-chapters-integration-on-vimeo/"><u>[Updated] 2024 Approved Dividing Drama A Step-by-Step Chapters Integration on Vimeo</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-hero-session-vs-hero-session-duel/"><u>2024 Approved Hero Session Vs Hero Session Duel</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/augmenting-ai-intelligence-core-desired-traits-for-gpt-5/"><u>Augmenting AI Intelligence: Core Desired Traits for GPT-5</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/discover-the-ultimate-list-of-no-cost-mp3-tags-software-for-streamlined-song-organization-in-2n4/"><u>Discover the Ultimate List of No-Cost MP3 Tags Software for Streamlined Song Organization in 2N4!</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/excellence-in-gaming-graphics-at-4k-speeds/"><u>Excellence in Gaming Graphics at 4K Speeds</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/in-2024-streamlining-your-site-facebook-live-integration-guide/"><u>In 2024, Streamlining Your Site Facebook LIVE Integration Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-top-7-skype-hacker-to-hack-any-skype-account-on-your-vivo-y56-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Skype Hacker to Hack Any Skype Account On your Vivo Y56 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/is-your-xbox-live-connection-down-discover-real-time-server-availability-and-fixes/"><u>Is Your Xbox Live Connection Down? Discover Real-Time Server Availability & Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-resolve-control-application-errors-swiftly-and-effectively/"><u>Troubleshoot & Resolve Control Application Errors Swiftly & Effectively!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-fixes-for-obs-studio-crashing-problems-in-windows-1110-latest-tips/"><u>Troubleshooting and Fixes for OBS Studio Crashing Problems in Windows 11/10 - Latest Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-fix-recurring-overwatch-2-pc-instability-issues/"><u>Ultimate Guide to Fix Recurring Overwatch 2 PC Instability Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-to-successfully-starting-armored-core-vi-addressing-fires-of-rubicon-boot-issues/"><u>Unlocking the Secrets to Successfully Starting Armored Core VI: Addressing 'Fires of Rubicon' Boot Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/utorrent-freezes-during-use-discover-7-reliable-solutions/"><u>Utorrent Freezes During Use? Discover 7 Reliable Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wipe-out-the-glitches-in-fia-world-rally-championship-wrc-sweepstakes-pc-version/"><u>Wipe Out the Glitches in FIA World Rally Championship (WRC) Sweepstakes, PC Version</u></a></li>
+</ul></div>
 

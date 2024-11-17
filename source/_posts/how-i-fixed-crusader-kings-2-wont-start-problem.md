@@ -1,7 +1,7 @@
 ---
 title: How I Fixed Crusader Kings 2 Won't Start Problem
-date: 2024-09-01T08:40:14.282Z
-updated: 2024-09-02T08:40:14.282Z
+date: 2024-11-16T09:37:16.927Z
+updated: 2024-11-17T09:26:23.209Z
 tags:
   - win11
   - win10
@@ -29,6 +29,13 @@ Some players are reporting that they can’t get past the Mojang screen. It look
 6. **[Run Minecraft Launcher in compatibility mode](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean reinstall](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902304/19272" target="_top" id="1902304">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902304" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902304/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Fix 1: Uninstall your antivirus software
 
  Many things can cause Minecraft stuck on the loading screen issue, but one of the most known issues is your antivirus software. Many antivirus software is incompatible with Minecraft and should be uninstalled from your system.
@@ -51,9 +58,6 @@ The known problematic software are:
 
  Mojang has blocked most VPN users from logging into Minecraft as these free VPNs are often used by malicious users to hack into accounts. This can cause login/loading issues. Some VPNs such as[Express VPN](https://tools.techidaily.com/drivereasy/download/) and[NordVPN](https://tools.techidaily.com/drivereasy/download/) (get an[80% off coupon](https://tools.techidaily.com/drivereasy/download/) ) get Minecraft unblocked, giving you access to all of the latest features no matter where you live.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Just in case, make sure all your drivers are up to date. Outdated or corrupted device drivers are outdated or corrupted (especially your graphics driver) can lead to a lot of issues such as Minecraft being stuck on the loading screen.
@@ -80,8 +84,12 @@ There are mainly two ways to update your device drivers:
  Once the driver is updated, you’d better restart your computer and try launching your Minecraft again to check if it can load normally. If unfortunately not, you can try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2135365/19272" target="_top" id="2135365">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135365" border="0" alt="https://techidaily.com" width="125" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135365/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Remove the adware
 
  Many players find removing the adware helped them get past the forever-loading Majong screen. You can use the free utility AdwCleaner to remove useless adware:
@@ -93,9 +101,6 @@ There are mainly two ways to update your device drivers:
 
  Note: If you’re looking for advanced malware protection and don’t want it to mess with your Minecraft, you can check **[Malwarebyte](https://tools.techidaily.com/drivereasy/download/)** [**s**](https://tools.techidaily.com/drivereasy/download/) . (It offers the Free and Premium version, and the free version includes a 14-day trial of the premium.)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: End the runtime broker
 
  This is a temporary fix for many players, and you can try this to see if it works for you, too. Here’s how:
@@ -114,9 +119,14 @@ There are mainly two ways to update your device drivers:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/win11-Terminal-Admin.jpg)
 2. Type or paste**Get-AppxPackage \*photos\* | Remove-AppxPackage** and press**Enter** . This will uninstall the Windows Photo app from your machine.
+
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 3. Restart your PC to see if Minecraft can load normally.
 
 If this method doesn’t work for you, then try the next fix, below.
@@ -130,8 +140,12 @@ If this method doesn’t work for you, then try the next fix, below.
 3. Go to the**Compatibility** tab, and select**Windows 7** for the**Compatibility mode** . Also, remember to check the**Disable fullscreen optimizations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/save-all.jpg)
 4. Click**Apply** \>**OK** .
+
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Now you can launch your Minecraft again to see if this issue has been resolved by now.
@@ -143,12 +157,17 @@ If this method doesn’t work for you, then try the next fix, below.
 1. On your keyboard, press the Windows key and R at the same time to open the Run box. Type**appwiz.cpl** and press**Enter** .  
 ![uninstall app](https://images.drivereasy.com/wp-content/uploads/2021/01/appwiz.cpl_.jpg)
 2. Right-click Minecraft, and select**Uninstall** .
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Once complete, type**%appdata%** in the Windows Search bar, and select the**%appdata%** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/appdata.jpg)
 4. In case your system’s uninstallation removes all your worlds, you can create a backup of your worlds.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111981/7443" target="_top" id="2111981">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111981" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111981/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Once done, delete the**.Minecraft** folder.
 6. Download the most recent version of Minecraft Java[here](https://www.minecraft.net/en-us/download/) .
 
@@ -166,8 +185,6 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +192,26 @@ If this method doesn’t work for you, then try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-deep-dive-into-freeweb-recorder-v2-interface/"><u>[New] Deep Dive Into FreeWeb Recorder V2 Interface</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/avigating-the-complexities-of-youtubes-seo-landscape/"><u>[New] Navigating the Complexities of YouTube's SEO Landscape</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-analyzing-lack-of-interaction-is-it-a-block-for-2024/"><u>[Updated] Analyzing Lack of Interaction Is It a Block for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-how-to-record-screen-and-video-on-android-4-methods/"><u>[Updated] How to Record Screen and Video on Android? [4 Methods]</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-smart-shopping-guide-to-best-5k-screens-8/"><u>[Updated] Smart Shopping Guide to Best 5K Screens #8</u></a></li>
+<li><a href="https://win-answers.techidaily.com/20247/"><u>2024年の最新オーディオビジュアルエンコード方法トップ7セレクション</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-vanguard-fix-overcoming-error-0x00001338-on-your-gaming-pc/"><u>Call of Duty Vanguard Fix - Overcoming Error 0X00001338 on Your Gaming PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-infinite-wealth-in-like-a-dragon-tips-and-tricks-for-gamers/"><u>Cracking Infinite Wealth in Like a Dragon: Tips and Tricks for Gamers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enhance-your-gameplay-eliminate-high-lag-in-valheim-on-pc-systems/"><u>Enhance Your Gameplay - Eliminate High Lag in Valheim on PC Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-recurring-breakdowns-in-pathfinders-wrath-of-the-righteous-adventure/"><u>Fixing the Recurring Breakdowns in Pathfinder's Wrath of the Righteous Adventure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2021-launch-problems-how-to-fix-freezing-and-load-failures-on-startup/"><u>Football Manager 2021 Launch Problems – How to Fix Freezing & Load Failures on Startup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-stuttering-frames-and-latency-problems-in-forza-horizon-5/"><u>How to Overcome Stuttering Frames and Latency Problems in Forza Horizon 5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-stuttering-issues-with-fallout-3-on-your-windows-11-machine/"><u>How to Resolve Stuttering Issues with Fallout 3 on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-frequent-outlook-app-shutdowns-and-ensure-smooth-email-management/"><u>How to Stop Frequent Outlook App Shutdowns and Ensure Smooth Email Management</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-a-guide-to-gathering-gold-from-guided-goods-gazes-online/"><u>In 2024, A Guide to Gathering Gold From Guided Goods' Gazes Online</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-pitch-modulation-techniques-in-free-fire/"><u>In 2024, Pitch Modulation Techniques in Free Fire</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/lenovo-thinkpad-drivers-download-and-update-100-safe/"><u>Lenovo ThinkPad Drivers Download & Update [100% Safe]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-why-cant-i-launch-dead-space-remake-fixes/"><u>Troubleshooting Steps: Why Can't I Launch Dead Space Remake? Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-techniques-for-assassins-creed-odyssey-freezing-issues-latest-guide/"><u>Troubleshooting Techniques for Assassin's Creed Odyssey Freezing Issues - Latest Guide</u></a></li>
+</ul></div>
 

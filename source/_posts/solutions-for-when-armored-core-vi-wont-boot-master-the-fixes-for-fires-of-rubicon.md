@@ -1,7 +1,7 @@
 ---
 title: "Solutions for When Armored Core VI Won't Boot: Master the Fixes for Fires of Rubicon"
-date: 2024-09-01T08:43:16.467Z
-updated: 2024-09-02T08:43:16.467Z
+date: 2024-11-12T11:59:18.406Z
+updated: 2024-11-16T19:56:48.318Z
 tags:
   - win11
   - win10
@@ -30,6 +30,13 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Call-of-Duty-Modern-Warfare-II-not-launching-1200x675.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105864/7443" target="_top" id="2105864">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105864/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## 1\. Allow your game through Windows Firewall
 
  When a program fails to load properly, chances are your firewall is blocking it, even though the program you’re starting is legitimate and doesn’t do harm to your system. To ensure your game has access to your connection, take the steps as follows.
@@ -42,15 +49,19 @@ Call of Duty®: Modern Warfare® II is out, dropping players into an unprecedent
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 3. Under the **Allowed apps and features**  section, scroll down and find Modern Warfare II. If it’s not on the list, click **Change settings > Allow another app…** .  
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006960/19272" target="_top" id="2006960">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/allow-modern-warfare-through-windows-firewall.jpg)
 
  Now navigate to your game’s installation folder and add it to the list. Then check the boxes under**Domain** ,**Private** , and**Public** . Once done, click**OK** to apply the changes.
 
 If this doesn’t do the trick, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Run your game launcher as administrator
 
  In some circumstances, programs would not start properly when they lack administrative rights. To check if that’s what’s happening to you, try running Steam or Battle.net as an administrator by right-clicking on the desktop app. Then see how it goes.
@@ -64,8 +75,12 @@ If this doesn’t do the trick, try the next fix below.
  After this, try to launch Warfare II and see how it works. If your problem persists, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1915805/19272" target="_top" id="1915805">
+  <img src="//a.impactradius-go.com/display-ad/19272-1915805" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1915805/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 3\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. In addition, having too many programs, especially those memory-hogging programs running in the background can eat up the system resources, causing unexpected issues.
@@ -82,13 +97,27 @@ If this doesn’t do the trick, try the next fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<span id="1983472">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983472.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983472">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983472.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983472%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983472/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
  When you’re done, launch your game. If your problem persists, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## 4\. Repair corrupted game files
 
  From time to time, your game files can get corrupted. When that happens, a wide variety of problems would occur, ranging from minor game glitches to critical issues such as game crashing and failures to load. To check if that’s your case, you can utilize the repair tool. Depending on your gaming platform, the steps you take will vary.
@@ -112,9 +141,6 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/call-of-duty-modern-warfare-II-verify-game-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  Steam will verify the game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  Once the verification process is complete, close the window and check if it solves your problem. If your game still fails to launch properly, proceed to the next fix.
@@ -123,9 +149,6 @@ If this doesn’t do the trick, try the next fix below.
 
  To resolve any compatibility issues, one of the first things you should do is to update your drivers. Updates are released routinely. If you’re running a computer with out-of-date drivers, several issues can occur.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### How to update your graphics driver
 
 * [Manually](https://tools.techidaily.com/drivereasy/download/)
@@ -140,9 +163,6 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/dxdiag.jpg)
 3. When the DirectX Diagnostic Tool loads, select the**Display** tab. Then you’ll find your graphics card’s name and manufacturer listed in the Device section.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/graphics-card-name-and-manufacturer-new.jpg)
 
@@ -168,9 +188,23 @@ If this doesn’t do the trick, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettide.pxf.io/c/5597632/2141683/17092" target="_top" id="2141683">
+  <img src="//a.impactradius-go.com/display-ad/17092-2141683" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettide.pxf.io/i/5597632/2141683/17092" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. If your game still fails to launch, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151865/7443" target="_top" id="2151865">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151865/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 6\. Run a full system scan
 
@@ -196,8 +230,6 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +237,20 @@ If this doesn’t do the trick, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-google-meetings-archive/"><u>[New] 2024 Approved Google Meetings Archive</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-dynamicvidxp-reviews-and-rating-for-2024/"><u>[New] DynamicVidXP Reviews and Rating for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-eliminate-camera-sway-no-tripods-allowed-in-2024/"><u>[Updated] Eliminate Camera Sway No Tripods, Allowed, In 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-history-on-your-flip-watching-old-fb-stories/"><u>[Updated] In 2024, History on Your Flip Watching Old FB Stories</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-ultimate-youtube-watch-list-highest-watched-in-24-hours/"><u>[Updated] Ultimate YouTube Watch List Highest-Watched in 24 Hours</u></a></li>
+<li><a href="https://windows11.techidaily.com/bringing-print-functionality-to-microsofts-secure-edge/"><u>Bringing Print Functionality to Microsoft's Secure Edge</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-for-your-fortnite-login-issues-resolved/"><u>Easy Fixes for Your Fortnite Login Issues - Resolved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-recurring-garrys-mod-crashes-top-strategies-for-stability/"><u>Fixing the Recurring Garry's Mod Crashes: Top Strategies for Stability</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/how-to-make-every-snap-count-top-15-tips-and-tricks-for-2024/"><u>How to Make Every Snap Count Top 15 Tips & Tricks for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-resolve-the-problem-when-call-of-duty-warzone-fails-to-launch/"><u>How to Resolve the Problem When Call of Duty Warzone Fails to Launch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010727828-patch-notes-for-oxygen-not-included-crash-issues-now-solved/"><u>Patch Notes for Oxygen Not Included - Crash Issues Now Solved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-made-easy-fix-constant-wwe-2k20-pc-disruptions/"><u>Troubleshooting Made Easy: Fix Constant WWE 2K20 PC Disruptions</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-2024-approved-10-premiere-elements-competitors-you-need-to-know-2023-update/"><u>Updated 2024 Approved 10 Premiere Elements Competitors You Need to Know 2023 Update</u></a></li>
+</ul></div>
 

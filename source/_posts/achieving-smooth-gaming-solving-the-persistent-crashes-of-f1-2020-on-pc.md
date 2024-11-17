@@ -1,7 +1,7 @@
 ---
 title: "Achieving Smooth Gaming: Solving the Persistent Crashes of F1 2020 on PC"
-date: 2024-09-01T08:39:18.386Z
-updated: 2024-09-02T08:39:18.386Z
+date: 2024-11-11T18:21:23.879Z
+updated: 2024-11-17T07:00:27.553Z
 tags:
   - win11
   - win10
@@ -39,14 +39,18 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
  But if your game keeps crashing even after the restart, try the next solution below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 – Disconnect peripherals
 
  Your peripherals, especially gaming accessories, often run with 3rd party software that controls them. In some cases, the software may not be compatible with your game and prevent it from running correctly.
 
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2130531/26400" target="_top" id="2130531">
+  <img src="//a.impactradius-go.com/display-ad/26400-2130531" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2130531/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Fix 3 – Update your graphics driver
 
@@ -100,8 +104,12 @@ If Disco Elysium still crashes, try the next fix below.
 If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148648/16836" target="_top" id="2148648">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148648" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148648/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 5 – Verify integrity of game files
 
  Files of your game installation might get corrupt, or be deleted as a false positive by antivirus. This could cause issues such as crashes during gameplay.
@@ -118,9 +126,6 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
  This could take several minutes. Wait for the process to be complete.
@@ -132,15 +137,23 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 If your game still crashes after this, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2016129/19272" target="_top" id="2016129">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016129" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016129/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 6 – Stop overclocking
 
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2144273/7443" target="_top" id="2144273">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144273" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144273/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 7 – Reinstall the game
 
  If your game is not properly installed on your PC or if your game version is outdated, you’re likely to run into issues like game crashes. Try reinstalling your game to see if that’s the problem for you:
@@ -155,10 +168,6 @@ If your game still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Restart Steam and reinstall the game.
 
 **5)** Relaunch your game.
@@ -166,9 +175,12 @@ If your game still crashes after this, try the fix below.
 If the crashing issue still exists, there’s still 1 fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2123511/26400" target="_top" id="2123511">
+  <img src="//a.impactradius-go.com/display-ad/26400-2123511" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2123511/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Fix 8: Check for Windows updates
 
  If your game won’t launch at all, it’s not likely that out-of-date Windows components are the core issue, but you should rule out the possibility.
@@ -177,16 +189,17 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-44.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://25home.pxf.io/c/5597632/2148644/16836" target="_top" id="2148644">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148644" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148644/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **3)**  Restart your computer and your game.
 
 If the game still crashes, then try the next solution.
@@ -206,8 +219,12 @@ To run your game as administrator, follow the instructions below:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137208/26400" target="_top" id="2137208">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137208" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137208/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 4) Repeat steps 1-2 to grant Steam admin rights.
 
 5) Relaunch the game to see if it works now.
@@ -224,8 +241,6 @@ To run your game as administrator, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +248,22 @@ To run your game as administrator, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-2024-approved-essential-tips-for-setting-up-and-conducting-zoom-webinars/"><u>[New] 2024 Approved Essential Tips for Setting Up & Conducting Zoom Webinars</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/2024-approved-unlocking-twitters-potential-with-live-videos/"><u>2024 Approved Unlocking Twitter's Potential with Live Videos</u></a></li>
+<li><a href="https://win11.techidaily.com/bring-back-the-dormant-wastebin-icon-in-windows/"><u>Bring Back the Dormant Wastebin Icon in Windows</u></a></li>
+<li><a href="https://location-social.techidaily.com/change-location-on-yik-yak-for-your-tecno-spark-20-proplus-to-enjoy-more-fun-drfone-by-drfone-virtual-android/"><u>Change Location on Yik Yak For your Tecno Spark 20 Pro+ to Enjoy More Fun | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-method-for-protecting-text-files-through-password-encryption/"><u>Comprehensive Method for Protecting Text Files Through Password Encryption</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723207916874-decrease-wmi-cpu-load-on-win11-quick-guide/"><u>Decrease WMI CPU Load on Win11 - Quick Guide!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-troubleshooting-steps-for-getting-tekken-8-to-start-on-pc/"><u>Expert Guide: Troubleshooting Steps for Getting Tekken 8 to Start on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/functionalization-possibilities-for-nanofibers-including-electrostatic-charging-hydrophilic-treatments-or-catalytic-coatings-for-enhanced-pollutant-removal.518/"><u>Functionalization Possibilities for Nanofibers, Including Electrostatic Charging, Hydrophilic Treatments, or Catalytic Coatings for Enhanced Pollutant Removal.</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-remove-google-pixel-8-pro-pin-by-drfone-android-unlock-android-unlock/"><u>How to remove Google Pixel 8 Pro PIN</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-persistent-error-4201-on-your-genshin-impact-adventure/"><u>How to Resolve the Persistent 'Error 4201' On Your Genshin Impact Adventure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-reinstall-ds4-drivers-on-your-pc-when-windows-wont-detect-it/"><u>How to Successfully Reinstall DS4 Drivers on Your PC When Windows Won’t Detect It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-obstacles-successful-playthroughs-of-resident-evil-5-on-pc-unveiled/"><u>Overcoming Launch Obstacles: Successful Playthroughs of Resident Evil 5 on PC Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-dealing-with-non-responsive-amd-radeon-software-issues/"><u>Troubleshooting Tips: Dealing with Non-Responsive AMD Radeon Software Issues</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/ultimate-guide-syncing-your-logitech-mouse-with-any-device/"><u>Ultimate Guide: Syncing Your Logitech Mouse with Any Device</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unveil-the-8-key-services-for-video-marketing-growth-for-2024/"><u>Unveil the 8 Key Services for Video Marketing Growth for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "No More Interruptions: Effective Ways to Prevent 'Modern Warfare 2' Crashes on Windows Computers"
-date: 2024-09-01T08:42:24.815Z
-updated: 2024-09-02T08:42:24.815Z
+date: 2024-11-16T05:27:29.044Z
+updated: 2024-11-16T22:35:24.059Z
 tags:
   - win11
   - win10
@@ -35,8 +35,12 @@ thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744
  If you have a gamepad or controller connected to the computer, it’s likely they’ve interfered with Diablo Immortal and triggered the crash. You could simply **unplug those peripherals like the wheel, controller or other USB devices** to see if the problem gets fixed. If not, check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://wigfever.sjv.io/c/5597632/2014853/22899" target="_top" id="2014853">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014853" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014853/22899" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 2 – Launch the game in windowed mode
 
  There are increasing reports about Diablo Immortal crashing in fullscreen. To avoid it crashing on startup, you can force the game to launch in windowed mode. Here’s how:
@@ -44,25 +48,35 @@ thumbnail: https://thmb.techidaily.com/ae8c78a8c030725bbe9ccbbc07dfcf9053a98f744
 1. Launch the**Battle.net** launcher and select**Diablo Immortal** from the top pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-1.jpg)
 2. Click the**gear icon** next to the Play button and click**Game Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
-3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886015/19272" target="_top" id="1886015">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886015" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886015/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-2.jpg)
+3. Tick**Additional command line arguments** . Then type**\-w** in the field and click**Done** at the bottom right corner.  
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2016134/19272" target="_top" id="2016134">
+  <img src="//a.impactradius-go.com/display-ad/19272-2016134" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2016134/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2022/06/force-windowed-mode-3.jpg)
+
  Now that you’ve applied the changes, relaunch the game to test the issue. If the crashes persist, move on to the third fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100527/7443" target="_top" id="2100527">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100527" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100527/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 3 – Rename the game folder
 
  It’s hard to explain why but renaming the Diablo Immortal folder is a simple trick that helped many users to run the game properly. To do this, follow the steps:
@@ -88,14 +102,8 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/06/amd-6800xt.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  When the update finishes, reboot your computer for the changes to take effect. The game should be running more smoothly with better performance. If not, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Scan and repair game files
 
  Verifying the game files is a common workaround for you to resolve random crashes or failed installations. If there’s something wrong with the game files, you can have them repaired following the instruction below.
@@ -116,6 +124,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click the**gear icon** in the lower-left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select**Game Overlay** from the left pane and**toggle off** the button for**Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-2.jpg)
 
  Close Discord and relaunch your game. If the crashes occur again, you may need to contact Blizzard support for specific assistance.
@@ -133,8 +149,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +156,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-transformative-beauty-practices/"><u>[New] Transformative Beauty Practices</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-unveil-your-gaming-prowess-with-perfect-screen-shots-pc/"><u>[Updated] Unveil Your Gaming Prowess with Perfect Screen Shots (PC)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/3utools-virtual-location-not-working-on-infinix-note-30-vip-fix-now-drfone-by-drfone-virtual-android/"><u>3uTools Virtual Location Not Working On Infinix Note 30 VIP? Fix Now | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/a-comprehensive-guide-to-resolving-the-dilemma-of-non-launched-human-civilization/"><u>A Comprehensive Guide to Resolving the Dilemma of Non-Launched Human Civilization</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/download-intel-iris-plus-gvt-655-graphics-driver-compatible-with-windows-10-and-11/"><u>Download Intel Iris Plus GVT 655 Graphics Driver - Compatible with Windows 10 and 11</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/eliminating-windows-11-steam-error-missing-files/"><u>Eliminating Windows 11 Steam Error: Missing Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-solve-failed-connection-issue-with-steam-client-errors/"><u>Expert Tips to Solve 'Failed Connection Issue with Steam Client' Errors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/how-to-overcome-corsair-h115i-driver-challenges-in-recent-windows-versions/"><u>How to Overcome Corsair H115i Driver Challenges in Recent Windows Versions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-best-itel-frp-bypass-guide-by-drfone-android/"><u>In 2024, Best Itel FRP Bypass Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-baldurs-gate-3-resource-hogging-the-ultimate-guide-to-reduce-cpu-strain/"><u>Overcome Baldur's Gate 3 Resource Hogging: The Ultimate Guide to Reduce CPU Strain</u></a></li>
+<li><a href="https://win-blog.techidaily.com/total-war-three-kingdoms-stability-improvements-no-more-crashes/"><u>Total War: Three Kingdoms Stability Improvements - No More Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010372460-unraveling-the-mystery-assassins-creed-valhalla-release-date-finally-confirmed/"><u>Unraveling the Mystery: Assassin's Creed Valhalla Release Date Finally Confirmed!</u></a></li>
+</ul></div>
 

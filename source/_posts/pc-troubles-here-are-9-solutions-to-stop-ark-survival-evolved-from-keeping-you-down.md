@@ -1,7 +1,7 @@
 ---
 title: "PC Troubles? Here Are 9 Solutions to Stop ARK: Survival Evolved From Keeping You Down"
-date: 2024-09-01T08:39:24.199Z
-updated: 2024-09-02T08:39:24.199Z
+date: 2024-11-12T05:14:06.175Z
+updated: 2024-11-17T12:10:17.810Z
 tags:
   - win11
   - win10
@@ -36,17 +36,18 @@ Lost Ark is a free-to-play online game that was developed by Smilegate RPG and p
 4. Click**Open sound settings** . In the reproduction tab, check the volume of your main device.  
 ![open sound settings](https://images.drivereasy.com/wp-content/uploads/2021/04/open-sound-settings-1.png)
 5. Right-click on your output device and click**Properties** .
+
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 6. In the**Advanced** tab, check the**Exclusive Mode** checkboxes and click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/2022-02-21_17-04-18.jpg)
 7. Back to the game and check the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update Windows Media Feature pack
 
  This is a proven fix that has helped many gamers. Give it a try and it may solve your issue.
@@ -64,16 +65,18 @@ No advertising on the website.
 1. Press the **Windows logo key + I** together to open **Settings** , then click **Apps** \> Optional features.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/optional-features.jpg)
 2. Click**View features** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<a href="https://bluettifr.pxf.io/c/5597632/2145082/17095" target="_top" id="2145082">
+  <img src="//a.impactradius-go.com/display-ad/17095-2145082" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettifr.pxf.io/i/5597632/2145082/17095" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/view-features.jpg)
 3. Select the**Media Feature Pack** in the list of available optional features.
 4. Relaunch the game and check the audio.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your audio driver
 
  Hardware problems can be caused by outdated or malfunctioning drivers. If the driver is outdated or wrong, it could cause problems like no sound and audio issues. So make sure your audio driver is up to date.
@@ -86,20 +89,28 @@ No advertising on the website.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-audio-bluetooth-usb-unifying.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 Then, reboot your PC and relaunch the game to check.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://unicoeye.pxf.io/c/5597632/2134242/18498" target="_top" id="2134242">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134242" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134242/18498" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### Fix 4: Run as Administrator
 
  It’s a quick and easy fix that is worth trying. Run Lost Ark as Administrator so that the system won’t block its settings.
@@ -109,7 +120,22 @@ Then, reboot your PC and relaunch the game to check.
 3. Check**Run This Program As An Administrator** and**Disable full-screen optimisations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/run-as-administrator-lost-ark-1.jpg)
 4. Click the**Apply** \>**OK** button.
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 5. Relaunch the game and check you have sound or not.
+
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134492/18498" target="_top" id="2134492">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134492" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134492/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ### Fix 5: Verify game files
 
@@ -120,9 +146,6 @@ Then, reboot your PC and relaunch the game to check.
 2. Under **Local files** , click **Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files.jpg)
 3. It may take a while for Steam to complete the scan. When the process is finished, restart the game and see the problem persists or not.
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Hope this post would help. Since gamers have various PC specs and environments, we can’t expect these fixes would work for everyone. If no fixes help, try the troubleshooting over at [Microsoft Support](https://www.amazongames.com/en-us/forward-link?id=windows-10-sound-problems) .
 
@@ -132,8 +155,6 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +162,26 @@ Then, reboot your PC and relaunch the game to check.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-ultimate-success-setup-top-trending-tools-and-products-for-todays-entrepreneurs/"><u>[New] 2024 Approved The Ultimate Success Setup Top Trending Tools and Products for Today's Entrepreneurs</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-the-ultimate-tweet-to-facebook-manual-for-2024/"><u>[New] The Ultimate Tweet-to-Facebook Manual for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-step-by-step-instructions-for-finding-recent-facebook-views/"><u>[Updated] In 2024, Step-by-Step Instructions for Finding Recent Facebook Views</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-jumpstart-high-res-webcam-filming-for-amazing-results/"><u>[Updated] Jumpstart High-Res WebCam Filming for Amazing Results</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximizing-engagement-the-power-of-tailored-cards-and-ends-on-yt/"><u>[Updated] Maximizing Engagement The Power of Tailored Cards & Ends on YT</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-infinix-hot-40-pro-by-drfone-android/"><u>A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock from your Infinix Hot 40 Pro</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/boost-engagement-with-effective-wirecast-broadcasts-on-fb-for-2024/"><u>Boost Engagement with Effective Wirecast Broadcasts on FB for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cold-war-game-crash-fix-resolving-the-endless-loading-issue-on-pc-and-console/"><u>Cold War Game Crash Fix: Resolving the Endless Loading Issue on PC and Console</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-black-desert-online-pc-malfunctions-a-step-by-step-guide/"><u>End Black Desert Online PC Malfunctions – A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/everything-you-need-to-know-about-lock-screen-settings-on-your-lava-yuva-3-by-drfone-android/"><u>Everything You Need to Know about Lock Screen Settings on your Lava Yuva 3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-mending-the-problem-of-unresponsive-outlook-launching/"><u>Expert Advice on Mending the Problem of Unresponsive Outlook Launching</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-steam-issues-how-to-get-steam-games-running-again-on-windows-11/"><u>Fix Your Steam Issues: How to Get Steam Games Running Again on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/geforce-experience-error-resolution-a-step-by-step-walkthrough-for-users/"><u>GeForce Experience Error Resolution - A Step-by-Step Walkthrough for Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-avoid-and-fix-phasmophobia-game-glitches-the-2024-edition/"><u>How to Avoid and Fix Phasmophobia Game Glitches: The 2024 Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-scoop-why-guilty-gear-strive-delayed-release-has-gamers-buzzing/"><u>Inside Scoop: Why 'Guilty Gear Strive' Delayed Release Has Gamers Buzzing</u></a></li>
+<li><a href="https://win-able.techidaily.com/overcoming-freezes-and-crashes-masterclass-on-keeping-alan-wake-2-stable/"><u>Overcoming Freezes and Crashes: Masterclass on Keeping Alan Wake 2 Stable</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-for-madden-22-continuous-loading-problems-on-pcconsole/"><u>Solution Guide for Madden 22 Continuous Loading Problems on PC/Console</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-fixing-unresponsive-touchpad-scroll-issues-in-windows-10/"><u>Troubleshooting: Fixing Unresponsive Touchpad Scroll Issues in Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valorant-trouble-how-to-successfully-initialize-the-vanguard-agent-skin/"><u>Valorant Trouble? How to Successfully Initialize the Vanguard Agent Skin</u></a></li>
+</ul></div>
 
