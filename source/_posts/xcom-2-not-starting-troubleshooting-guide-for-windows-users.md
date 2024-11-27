@@ -1,7 +1,7 @@
 ---
 title: "XCOM 2 Not Starting: Troubleshooting Guide for Windows Users"
-date: 2024-09-01T08:38:20.037Z
-updated: 2024-09-02T08:38:20.037Z
+date: 2024-11-20T00:25:45.512Z
+updated: 2024-11-26T21:50:00.220Z
 tags:
   - win11
   - win10
@@ -49,9 +49,6 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
 
 There are mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way because you need to find exactly the right driver online, download it, and install it step by step.
@@ -69,8 +66,9 @@ There are mainly two ways you can update your graphics drivers:
 **Or**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -87,13 +85,16 @@ There are mainly two ways you can update your graphics drivers:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  You need to restart your PC after you finish updating your graphics driver.
@@ -101,6 +102,10 @@ There are mainly two ways you can update your graphics drivers:
  Launch the game to see if it crashes or not. Normally, after you update the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Install the latest game patch
 
@@ -120,6 +125,10 @@ There are mainly two ways you can update your graphics drivers:
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -128,9 +137,6 @@ There are mainly two ways you can update your graphics drivers:
 
  If this issue persists after you stop overclocking, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Update or reinstall DirectX files
 
  Most games require DirectX 11 to run properly, and It Takes Two is no exception. If there’s a problem with DirectX, the game would crash on startup. If that’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -139,9 +145,6 @@ There are mainly two ways you can update your graphics drivers:
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
 
@@ -161,8 +164,6 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +171,21 @@ There are mainly two ways you can update your graphics drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/2024-approved-explore-and-evaluate-the-top-10-mobile-video-conferencing-apps/"><u>2024 Approved Explore & Evaluate The Top 10 Mobile Video Conferencing Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-world-of-warcraft-game-crashes-with-these-easy-steps/"><u>End World of Warcraft Game Crashes with These Easy Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-arma-3-advanced-techniques-to-prevent-system-interruptions-in-the-new-year/"><u>Mastering Arma 3: Advanced Techniques to Prevent System Interruptions in the New Year</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-free-from-watermarks-7-reliable-video-merger-solutions/"><u>New In 2024, Free From Watermarks 7 Reliable Video Merger Solutions</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/precision-meets-creativity-top-accessories-for-yi-4k/"><u>Precision Meets Creativity Top Accessories for YI 4K</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-problem-why-your-snap-camera-wont-detect-a-source/"><u>Resolved Problem: Why Your Snap Camera Won't Detect a Source</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-fifa-20-pc-issues-a-comprehensive-troubleshooting-manual-for-stability-and-performance/"><u>Resolving FIFA 20 PC Issues: A Comprehensive Troubleshooting Manual for Stability and Performance</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/samsungs-latest-smartphone-release-unveiling-the-new-era/"><u>Samsung's Latest Smartphone Release: Unveiling the New Era</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012247386-stop-dayz-from-frequently-freezing-quick-fixes/"><u>Stop DayZ From Frequently Freezing - Quick Fixes!</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-pubg-building-loading-errors-effective-fixes-inside/"><u>Troubleshooting PUBG Building Loading Errors - Effective Fixes Inside!</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-data-from-lava-by-fonelab-android-recover-data/"><u>Undelete lost data from Lava</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unexpected-graphic-faults-in-valorant-heres-how-you-can-fix-them-swiftly/"><u>Unexpected Graphic Faults in Valorant? Here's How You Can Fix Them Swiftly!</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/unleashing-content-effortless-download-of-youtube-video-for-ios/"><u>Unleashing Content Effortless Download of Youtube Video for iOS</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/visual-harmony-on-screen-mastering-zooms-edge-magic-for-2024/"><u>Visual Harmony on Screen Mastering Zoom's Edge Magic for 2024</u></a></li>
+</ul></div>
 

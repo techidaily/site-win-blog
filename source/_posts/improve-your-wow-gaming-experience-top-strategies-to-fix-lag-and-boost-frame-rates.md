@@ -1,7 +1,7 @@
 ---
 title: "Improve Your WoW Gaming Experience: Top Strategies to Fix Lag & Boost Frame Rates"
-date: 2024-09-01T08:38:14.739Z
-updated: 2024-09-02T08:38:14.739Z
+date: 2024-11-23T00:48:37.884Z
+updated: 2024-11-27T00:53:30.457Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/9332c7608a3b7c0a804f93bd3e8889a390304fede
 ## Improve Apex Legends Gameplay: Boosting Your FPS in Six Simple Steps
 
 Having**low FPS** in**Apex Legends** ? If the answer is yes, don’t panic – you’re not alone. This is a rather common problem, and it’s usually not very hard to solve. Also, if you wish to boost your PC performance in gaming, you’ll find this post helpful as well.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6 Ways to boost FPS in Apex Legends
 
@@ -88,18 +92,12 @@ Listed below are the recommended graphics settings for Apex Legends:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-618.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Close Origin Launcher and then run it again. Now check to see your FPS in Apex Legends.
 
 In case your low FPS problem still remains, move on to the next method.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### **Way 3: Update graphics drivers**
 
  Low FPS in Apex Legends is sometimes caused by out-dated graphics drivers. If that’s indeed your problem, you should keep the drivers up-to-date in order to optimize your frame rate.
@@ -116,18 +114,12 @@ In case your low FPS problem still remains, move on to the next method.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-285.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to your graphics driver to automatically download its correct version, then you can manually install the driver (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
 
  Now launch Apex Legends and see if you continue to experience the low FPS problem. If you do, try out Way 4.
@@ -140,22 +132,31 @@ In case your low FPS problem still remains, move on to the next method.
 
  1) On your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and**S** to invoke the search box (you may also see it on the taskbar). Type in**game mode** and click**Game Mode settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-450.png)
 
  2) In the pop-up window, toggle off**Game Mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-620.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Move to the**Game bar** tab and turn off the toggle button below**Record game clips, screenshots, and broadcast using Game bar** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-452.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Go to the **Captures** tab and toggle off the option under **Record in the background while I’m playing a game** and **Record audio when I record a game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-538.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Now you need to close all the unnecessary programs running on your computer. To do this, switch to an unwanted program, and close it as you normally would (e.g. by clicking the × at the top right of the program).
 
@@ -163,21 +164,18 @@ In case your low FPS problem still remains, move on to the next method.
 
  1\. on your keyboard, press the**Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and**X** at the same time. Then select**Task Manager** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![This image has an empty alt attribute; its file name is image-449.png](https://images.drivereasy.com/wp-content/uploads/2019/08/image-449.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  2\. On the **Processes**  tab, select the program that you want to shut down from the list in Task Manager and click **End task**  to force a close. (If it’s a program you’re using, e.g. Microsoft Word, make sure you save any unsaved work first.)
 
 **Do not close any unfamiliar programs** . If you mistakenly shut down the important system programs, that may bring about critical problems.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-70.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  6) Your trouble is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily **disable your antivirus program** and check your FPS in the game. (Consult your antivirus documentation for instructions on disabling it.)
 
  If your FPS does improve, simply disable the antivirus when you’re playing Apex Legends. Or you can install a different antivirus solution.
@@ -194,23 +192,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  1) On your keyboard, press the **Windows logo key** ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5ae0331bc08e4-5.png) and **R** at the same time to invoke the Run dialog box. Type in **%temp%** and hit **Enter** .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-305.png)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  2) Press **Ctrl + A** to select all the files. Then hit the **Delete** button on your keyboard to clear them up. This won’t affect your personal files.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-310.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Skip** if you’re presented with a warning that reads “the folder or a file in it is open in another program.” Then wait till the deletion is complete.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-301.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box again. Type in **temp** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-302.png)
@@ -220,6 +219,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  6) On your keyboard, press the **Windows logo key** and **R** at the same time to invoke the Run dialog box. This time, type in **prefetch** and hit **Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-306.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  7) Repeat **Step 2** through **Step 3** to delete all the files in your **prefetch** folder.
 
@@ -233,9 +236,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### **Way 6: Adjust Windows power settings**
 
  Some people said adjusting Window power settings gave them a boost in FPS. Under the**Adjust for best performance** power plan, Windows will allow your CPU to run at a higher speed (for demanding games however, this tweak may not make a big difference) but your computer will also generate more heat and noise. To change your Windows power plan, here’re the steps:
@@ -248,23 +248,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-313.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
  3) Select **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-314.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  4) In the left pane, click **Advanced system settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-315.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) In the System Properties window, click the **Advanced**  tab. Then click **Settings…** in the **Performance** section.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-317.png)
@@ -274,8 +269,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-104.png)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run Apex Legends and see whether your low FPS problem has been solved or mitigated. Also**note** that if your computer is overheating after you change the default power plan, you should revert the plan to**Let Windows choose what’s best for my computer** .
 
 ---
@@ -290,8 +286,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -299,4 +293,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-ultimate-playtracker-insight/"><u>[New] Ultimate PlayTracker Insight</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-20plus-digital-hubs-unlimited-image-access-for-all/"><u>[Updated] 20+ Digital Hubs Unlimited Image Access for All</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-taking-control-of-your-digital-footprint-new-facebook-guide/"><u>[Updated] Taking Control of Your Digital Footprint New Facebook Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnose-and-fix-overcoming-launch-failures-in-the-witcher-3-wild-hunt/"><u>Diagnose & Fix: Overcoming Launch Failures In The Witcher 3 Wild Hunt</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-fixing-and-preventing-your-ark-software-from-crashing/"><u>Expert Solutions: Fixing and Preventing Your Ark Software From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-constant-fails-solutions-for-ghostwire-tokyo-continuous-pc-crashes/"><u>Fixing Constant Fails - Solutions for Ghostwire: Tokyo Continuous PC Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/how-to-stop-your-pc-from-crashing-while-playing-baldurs-gate-iii/"><u>How To Stop Your PC From Crashing While Playing Baldur's Gate III</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-sony-phone-password-without-factory-reset-by-drfone-android/"><u>In 2024, How to Unlock Sony Phone Password Without Factory Reset?</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-top-notch-solutions-for-disabled-apple-id-on-iphone-14-pro-max-making-it-possible-by-drfone-ios/"><u>In 2024, Top-Notch Solutions for Disabled Apple ID On iPhone 14 Pro Max Making It Possible</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995744194-is-netflix-down-or-is-it-just-me-check-netflix-server-status/"><u>Is Netflix Down Or Is It Just Me – Check Netflix Server Status</u></a></li>
+</ul></div>
 

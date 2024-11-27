@@ -1,7 +1,7 @@
 ---
 title: How To Overcome The Problem of Cyberpunk
-date: 2024-09-01T08:36:37.296Z
-updated: 2024-09-02T08:36:37.296Z
+date: 2024-11-20T22:26:53.270Z
+updated: 2024-11-26T17:53:29.090Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Don’t worry, here’re fixes may help you solve the issue.
 2. [Change the mouse setting](https://tools.techidaily.com/drivereasy/download/)
 3. [Update the device driver](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Change the in-game settings
 
  Change the in-game setting can help you fix the input lagging issue. If you’re not using controllers, change[Graphics settings](https://tools.techidaily.com/drivereasy/download/) would also help.
@@ -36,6 +40,11 @@ Don’t worry, here’re fixes may help you solve the issue.
 1. Launch the game and go to**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-13.jpg)
 2. Click the**CONTROLS** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under the**First-Person** Camera (Controller) section, find**Show Advanced Options** and click**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-48-52.jpg)
 4. In the open section, change**Response Curve** to**Raw** , and set**Horizontal Turning Bonus** and**Vertical Turning Bonus** to**0** .  
@@ -50,17 +59,23 @@ If you’re not using the controller, check the below settings.
 3. Make sure the Resolution matches the resolution of your monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -69,26 +84,18 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -116,10 +123,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -137,8 +140,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +147,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-leading-edge-techniques-for-video-based-seminars/"><u>[New] In 2024, Leading Edge Techniques for Video-Based Seminars</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-mastering-iphone-burst-photography-for-2024/"><u>[New] Mastering iPhone Burst Photography for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-stream-the-best-games-list-9-for-2024/"><u>[New] Stream the Best Games List #9 for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-in-2024-capturing-classroom-dynamics-easily/"><u>[Updated] In 2024, Capturing Classroom Dynamics Easily</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/become-a-close-up-connoisseur-advanced-roleplay-tips-for-2024/"><u>Become a Close-Up Connoisseur Advanced Roleplay Tips for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/138621300-9781601633767-between-now-and-when/"><u>Between Now and When | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2023-fixes-applied-now-running-smoothly/"><u>Football Manager 2023 - Fixes Applied, Now Running Smoothly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gameplay-upgrades-steps-taken-to-address-reduced-frame-rates-in-pc-version-of-forza-horizon-5/"><u>Gameplay Upgrades: Steps Taken to Address Reduced Frame Rates in PC Version of Forza Horizon 5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-overwatchs-problematic-graphics-drivers-solution-guide/"><u>How to Fix Overwatch's Problematic Graphics Drivers - Solution Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-continual-disruptions-during-warzone-20-sessions-on-your-gaming-laptop-or-desktop/"><u>How to Prevent Continual Disruptions During Warzone 2.0 Sessions on Your Gaming Laptop or Desktop</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-stardom-in-snapshot-vimeo-insight/"><u>In 2024, Stardom in Snapshot - Vimeo Insight</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-transform-your-videos-a-step-by-step-mp4-video-editing-guide-for-mac-and-windows-for-2024/"><u>New Transform Your Videos A Step-by-Step MP4 Video Editing Guide for Mac and Windows for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/optimizing-video-production-in-windows-11-workflows-for-2024/"><u>Optimizing Video Production in Windows 11 Workflows for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/prevent-garrys-mod-from-freezing-expert-tips-and-solutions-for-a-smooth-experience/"><u>Prevent Garry's Mod From Freezing: Expert Tips and Solutions for a Smooth Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-root-cause-how-to-fix-persistent-lag-in-lol/"><u>Resolving the Root Cause: How to Fix Persistent Lag in LoL</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-steelseries-gg-engine-connectivity-problems-on-pc/"><u>Solve Your SteelSeries GG (Engine) Connectivity Problems on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-step-by-step-guide-to-resolve-error-0x80fixed-in-the-minecraft-launcher-on-windows-1110/"><u>Troubleshooting Step-by-Step Guide to Resolve Error 0X80([fixed]) in the Minecraft Launcher on Windows 11/10</u></a></li>
+</ul></div>
 

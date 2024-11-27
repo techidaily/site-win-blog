@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Among Us Keeps Crashing – 2024 Tips"
-date: 2024-08-28T05:57:38.092Z
-updated: 2024-08-29T05:57:38.092Z
+date: 2024-11-23T03:39:56.780Z
+updated: 2024-11-27T03:10:24.642Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/3826690fad2bdad4d7aa62bd8a31b6771b0779110
 ## Halo ([Solved] Crashing on Computer - Top Fixes and Tips
 
 Games crashes are not something uncommon. And you might encounter the same issue while playing the popular Halo 3\. That’s pretty frustrating, right? Don’t worry, you can try these simple fixes in this article to rule out the causes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -45,26 +49,31 @@ _Halo 3 Minimum System Requirements_
  If your computer meets these requirements but still Halo 3 doesn’t launch properly, try the methods below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Stop apps from running in the background
 
  Generally, the game crashes because it’s running out of memory or overheating. So to save data usage and system resources, you can stop some apps from running in the background by following these steps:
 
  1) On the left end of the taskbar, click the**Start** ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Start-icon.jpg) icon and then click**Settings** .  
   
-![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![open settings](https://images.drivereasy.com/wp-content/uploads/2020/08/start-settings.jpg)
+
  2) Click**Privacy** .  
   
 ![privacy in settings](https://images.drivereasy.com/wp-content/uploads/2020/08/privacy.jpg)
   
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Scroll down and under the**App permissions** section, click**Background apps** .  
   
 ![Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/background-apps.jpg)
@@ -73,26 +82,19 @@ _Halo 3 Minimum System Requirements_
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/switch-it-to-off-1.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
  OR  
   
  Under the Choose which apps can run in the background section, manually select the ones you want to stop.  
   
 ![stop apps from running in the background](https://images.drivereasy.com/wp-content/uploads/2020/08/choose-which-apps-can-run-in-the-background-1.jpg)
   
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  After you free up disk space on your computer by disabling some apps from running in the background and still it doesn’t fix the problem of the game crashing, then don’t worry, there are a few other fixes you can try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Temporarily disable antivirus software
 
@@ -108,9 +110,6 @@ _Halo 3 Minimum System Requirements_
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Update your video card drivers
 
  A range of gaming problems such as crashing and freezing is caused by a wrong, faulty, or outdated graphics driver. Halo 3 is no exception. To enjoy smooth gameplay, you should always keep your graphics driver up to date.
@@ -133,14 +132,15 @@ Here’s how to update your drivers with Driver Easy:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and launch Halo3 to check if the issue is fixed. If not, try the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Perform a clean boot
 
@@ -154,18 +154,22 @@ To do so:
 
 ![msconfig open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Select the**Services** tab.  
  Then click**Hide all Microsoft services** and click**Disable all** .
 
 ![hide all Microsoft services; disable all](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  4) In the same window, select the**Startup** tab and then click**Open Task Manager** .  
   
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Under the**Startup** tab in the Task Manager window, right-click on each**Enabled** Startup item, then click**Disable** . After that, close the window.  
   
@@ -178,12 +182,9 @@ To do so:
 7) Restart your computer and it’ll be in a clean boot environment.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Run Halo 3 as an administrator
 
  If you’ve tried all the fixes above and still haven’t resolved the Halo 3 crashing issue, then you should try running the game as an administrator.
@@ -204,11 +205,6 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Fix 6: Install the latest game patch
 
  When a new game is released, there are still many bugs in it. And those bugs might cause the game crash issues. So developers keep updating the games to fix the bugs and improve the gaming performance.  
@@ -217,9 +213,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Verify the integrity of game files
 
  Halo 3 is available on PC through Steam. But players have been experiencing sudden crashes in Halo 3 on Steam. It can be caused by a bad game cache, so you need to ensure that the integrity of game files is intact.  
@@ -230,9 +223,6 @@ The powerful video editing program for your Windows PC</a>
   
 ![verify integrity of game files on Steam; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files.jpg)
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
  3) Right-click**Halo 3** and select**Properties** .  
   
 ![verify integrity of game files; Halo 3 game crash](https://images.drivereasy.com/wp-content/uploads/2020/08/verify-integrity-of-game-files-properties.jpg)
@@ -258,8 +248,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -267,4 +255,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/jedi-fallen-order-overcoming-pc-performance-hiccups-on-your-star-wars-adventure/"><u>'Jedi: Fallen Order': Overcoming PC Performance Hiccups on Your Star Wars Adventure</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-keep-your-music-memories-intact-top-three-storage-methods/"><u>[New] In 2024, Keep Your Music Memories Intact Top Three Storage Methods</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-the-ultimate-playbook-techniques-to-archive-your-unique-vr-adventures/"><u>[New] The Ultimate Playbook Techniques to Archive Your Unique VR Adventures</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-top-picks-exploring-the-best-screen-recorder-apps-for-2024/"><u>[New] Top Picks Exploring the Best Screen Recorder Apps for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-strategic-approaches-broadcasting-live-sports-with-precision/"><u>[Updated] 2024 Approved Strategic Approaches Broadcasting Live Sports with Precision</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-navigating-the-world-of-webcams-for-high-quality-streams-for-2024/"><u>[Updated] Navigating the World of Webcams for High-Quality Streams for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/complete-walkthrough-securing-your-iphone-information-by-syncing-with-an-outer-hard-drive-on-pcs-and-apple-computers/"><u>Complete Walkthrough: Securing Your iPhone Information by Syncing with an Outer Hard Drive on PCs and Apple Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-to-resolve-division-2-not-starting-tips/"><u>Effective Strategies to Resolve Division 2 Not Starting - Tips</u></a></li>
+<li><a href="https://driver-download.techidaily.com/effortless-upgrade-for-your-systems-intel-storage-controller/"><u>Effortless Upgrade for Your System's Intel Storage Controller</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/electronics-showdown-choosing-between-an-ipad-kindle-or-a-nook-device/"><u>Electronics Showdown: Choosing Between an iPad, Kindle or a NOOK Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-overcoming-steam-file-access-restrictions-easily/"><u>Expert Guide: Overcoming Steam File Access Restrictions Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-ark-scorched-earth-downloads-and-play-issues-on-laptop-effective-methods-explained/"><u>Fix ARK: Scorched Earth Downloads and Play Issues on Laptop - Effective Methods Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-game-latency-problems-on-the-naraka-bladepoint-platform/"><u>Fixing Game Latency Problems on the Naraka Bladepoint Platform</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/introduction-to-claude-2-a-comprehensive-guide-on-functionality-and-uses/"><u>Introduction to Claude 2 – A Comprehensive Guide on Functionality & Uses</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-the-easy-anti-cheat-missing-issue-successful-resolution-for-smooth-eac-launches/"><u>Overcome the Easy Anti-Cheat Missing Issue: Successful Resolution for Smooth EAC Launches</u></a></li>
+<li><a href="https://extra-support.techidaily.com/psychoacoustic-enhancement-for-playstation-titles-for-2024/"><u>Psychoacoustic Enhancement for PlayStation Titles for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-complete-black-display-glitches-in-rainbow-six-siege-gameplay-pc/"><u>Quick Fixes for Complete Black Display Glitches in Rainbow Six Siege Gameplay (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-guide-why-does-internet-explorer-fail-to-render-web-pages/"><u>Solved Guide: Why Does Internet Explorer Fail to Render Web Pages?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-roblox-launch-issues-proven-troubleshooting-steps/"><u>Ultimate Guide: Resolving Roblox Launch Issues - Proven Troubleshooting Steps</u></a></li>
+</ul></div>
 

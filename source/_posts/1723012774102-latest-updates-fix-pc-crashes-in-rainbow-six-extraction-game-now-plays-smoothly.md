@@ -1,7 +1,7 @@
 ---
 title: Latest Updates Fix PC Crashes in Rainbow Six Extraction - Game Now Plays Smoothly!
-date: 2024-08-28T05:51:47.498Z
-updated: 2024-08-29T05:51:47.498Z
+date: 2024-11-25T03:38:55.296Z
+updated: 2024-11-26T18:35:35.659Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/011cd437a5e5d10d41a78dcfee8a0e614c88ee22e
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/extraction-1200x675.jpg)
 
  What to do when Rainbow Six Extraction keeps crashing on your Windows PC? Are there any permanent fixes to this problem? You’re in the right spot. Below, you will find every possible fix that has helped many other players.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -52,8 +56,9 @@ _Rainbow Six Extraction_ System Requirements
  But if you’re experiencing Rainbow Six Extraction crashing issues when tweaking the clock speeds, you should stop overclocking and try resetting your processor (and GPU, if appropriate) to default settings.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 3\. Verify your game files
 
  This is a very basic troubleshooting step you should try before heading on to other fixes. Here’s how to do it in Ubisoft Connect PC:
@@ -70,9 +75,6 @@ _Rainbow Six Extraction_ System Requirements
 
  See if this issue persists after you repaired the game files. If this fix doesn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 4\. Update your graphics driver
 
  Game crashes can be blamed on   **the incompatibility between your current graphics card driver and this operating system** . Updating your graphics drivers can fix some game issues, such as game crashing.
@@ -86,25 +88,24 @@ _Rainbow Six Extraction_ System Requirements
 ![scan drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/scan-now-5.7.0.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
   
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  4) Launch the game and check whether it works without any crashes. Ty running Rainbow Six Extraction either on Vulkan (this requires the latest graphics driver) or DirectX 11.
 
 <!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Disable conflicting apps
 
  Antivirus software like BitDefender is known to interfere with your Rainbow Six Extraction. You might need to disable any antivirus software installed on your PC temporarily.
@@ -114,10 +115,9 @@ _Rainbow Six Extraction_ System Requirements
  To find out the problematic app, you can try[**performing a clean boot**](https://tools.techidaily.com/drivereasy/download/) . This allows your PC to run without any unnecessary startups. If your game stops crashing, then you need to enable the startup item one by one to find the problematic one.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 6\. Disable SMT
 
 Some Rainbow Six Extraction players find it helps when they disable SMT.
@@ -143,8 +143,6 @@ Some Rainbow Six Extraction players find it helps when they disable SMT.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +150,20 @@ Some Rainbow Six Extraction players find it helps when they disable SMT.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-free-yourself-from-cash-for-sound-the-best-18-audio-crackers-on-youtube-for-2024/"><u>[New] Free Yourself From Cash for Sound The Best 18 Audio Crackers on YouTube for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/n-2024-expert-choices-best-video-cards-for-youtubes-clearest-output/"><u>[New] In 2024, Expert Choices Best Video Cards for YouTube's Clearest Output</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-engaging-local-audiences-with-social-media-videos/"><u>[Updated] Engaging Local Audiences with Social Media Videos</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-mastering-windows-11s-in-built-auto-hdr-feature/"><u>2024 Approved Mastering Windows 11'S In-Built Auto HDR Feature</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-solutions-correcting-unable-to-connect-to-configuration-servers-online/"><u>Comprehensive Solutions: Correcting 'Unable to Connect to Configuration Servers Online'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012150791-download-and-dive-into-the-post-apocalyptic-world-days-gone-arrives-on-pc/"><u>Download and Dive Into the Post-Apocalyptic World: 'Days Gone' Arrives on PC!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/exploring-the-bounds-of-chatgpt-input-length-and-strategies-to-expand-it/"><u>Exploring the Bounds of ChatGPT Input Length and Strategies to Expand It</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-data-from-iphone-13-to-other-iphone-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From iPhone 13 To Other iPhone devices? | Dr.fone</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-elevate-your-gameplay-records-with-advanced-methods-on-w11/"><u>In 2024, Elevate Your Gameplay Records with Advanced Methods on W11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-game-fixing-critical-bugs-in-tales-of-arise-ue4/"><u>Mastering the Game: Fixing Critical Bugs in Tales of Arise (UE4)</u></a></li>
+<li><a href="https://win-answers.techidaily.com/no-more-crashes-stabilizing-fallout-3-gameplay-on-windows-10-systems/"><u>No More Crashes: Stabilizing Fallout 3 Gameplay on Windows 10 Systems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/resolving-error-messages-when-ssleay32dll-is-unavailable-on-your-pc/"><u>Resolving Error Messages: When Ssleay32.dll Is Unavailable on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008445593-the-road-to-releasing-immortals-fenyx-rising-cleared-details-inside/"><u>The Road to Releasing Immortals Fenyx Rising Cleared - Details Inside!</u></a></li>
+</ul></div>
 

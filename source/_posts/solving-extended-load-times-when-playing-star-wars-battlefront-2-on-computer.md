@@ -1,7 +1,7 @@
 ---
 title: "Solving Extended Load Times When Playing Star Wars: Battlefront 2 on Computer"
-date: 2024-08-28T05:52:30.295Z
-updated: 2024-08-29T05:52:30.295Z
+date: 2024-11-25T00:44:17.003Z
+updated: 2024-11-26T20:55:48.985Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 6. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Splitgate-how-to-boost-FPS-and-fix-stuttering-1200x675.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 1\. Close unnecessary programs
 
@@ -60,35 +64,28 @@ If you want to enjoy a video game to the fullest, you need decent FPS and there 
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 4. Press**Ctrl + A** at the same time to select all the files inside the folder. Then right-click and select**Delete** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/delete-all-the-files.png)
 5. If the following prompt appears, simply check**Do this for all current items** and click**Skip** .  
+
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ![delete temporary files](https://images.drivereasy.com/wp-content/uploads/2021/08/skip-for-all-current-items.png)
 6. After the files are deleted, go to your desktop and right-click on the **Recycling Bin**  and select **Empty Recycle Bin** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/empty-recycle-bin.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Now you should be able to play your game smoothly. But if it doesn’t work for you, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## 3\. Stop overclocking
 
  Some players might use overclocking applications such as MSI Afterburner to hopefully get a performance increase. But the truth is that these applications can cause crashes, stutters and other performance issues for some titles. If you suffer from sudden frame rate drops and stutters during Splitgate gameplay, you should stop overclocking.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -108,8 +105,9 @@ Here’s how to update drivers with Driver Easy:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your PC and then test the gameplay. If you’re still getting low FPS and stutters, don’t worry. Below are some other fixes you can try.
@@ -127,15 +125,20 @@ Here’s how to update drivers with Driver Easy:
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/grahics-settings-1.png)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/change-default-graphics-settings.jpg)
 4. Turn on**Hardware-accelerated GPU scheduling** .  
 
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-hardware-accelerated-GPU-scheduling.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After applying the changes, restart your PC and you should be able to gain a certain amount of FPS boost. However, if this doesn’t do the trick, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Optimize in-game settings
 
@@ -145,8 +148,9 @@ Here’s how to update drivers with Driver Easy:
 
 ![adjust in-game settings Splitgate](https://images.drivereasy.com/wp-content/uploads/2021/08/Settings-in-game.png)
 2. Under the**VIDEO** tab, adjust the following settings:  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **DISPLAY MODE:** Fullscreen  
@@ -154,6 +158,10 @@ Here’s how to update drivers with Driver Easy:
 **VSYNC:** turn it off  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/fullscreen-and-disable-vsync.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Then apply the changes and test your gameplay.
 
@@ -167,8 +175,6 @@ Here’s how to update drivers with Driver Easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +182,26 @@ Here’s how to update drivers with Driver Easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-snap-edit-and-assemble-a-rapid-google-collage-how-to/"><u>[New] 2024 Approved Snap, Edit & Assemble A Rapid Google Collage How-To</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-audience-appeal-expert-tips-on-post-production-and-editing-in-garageband/"><u>[New] Audience Appeal Expert Tips on Post-Production and Editing in GarageBand</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/harting-the-course-to-prodigy-status-for-ajey-carryminati-for-2024/"><u>[New] Charting the Course to Prodigy Status for Ajey (CarryMinati) for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-essential-techniques-for-quick-and-reliable-recording-of-online-classes/"><u>[Updated] Essential Techniques for Quick and Reliable Recording of Online Classes</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-enhancing-zoom-with-a-chrome-os-device/"><u>[Updated] In 2024, Enhancing Zoom with a Chrome OS Device</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-harness-the-power-of-analytics-to-rise-in-fan-counts/"><u>2024 Approved Harness the Power of Analytics to Rise in Fan Counts</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/approved-hot-list-todays-youtube-sensations/"><u>2024 Approved Hot List Today's YouTube Sensations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024s-top-strategies-for-troubleshooting-game-finale-failures/"><u>2024'S Top Strategies for Troubleshooting Game Finale Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cant-play-vanguard-boosting-cpu-capabilities-might-be-the-answer/"><u>Can't Play Vanguard? Boosting CPU Capabilities Might Be the Answer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-call-of-duty-warzone-display-problems-comprehensive-guide-for-2er/"><u>Fixing Call of Duty Warzone Display Problems - Comprehensive Guide for 2Er</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-minecraft-update-your-graphics-drivers-for-optimal-performance/"><u>Fixing Minecraft: Update Your Graphics Drivers for Optimal Performance</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/in-depth-analysis-resolving-crash-issues-on-your-computer-for-final-fantasy-xiv/"><u>In Depth Analysis: Resolving Crash Issues on Your Computer for Final Fantasy XIV</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010635162-is-my-xbox-live-account-working-a-quick-look-at-the-service-status-today/"><u>Is My Xbox Live Account Working? A Quick Look at the Service Status Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/latest-strategies-for-resolving-world-of-warcrafts-framerate-problems/"><u>Latest Strategies for Resolving World of Warcraft's Framerate Problems</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/methods-to-flip-video-content-in-android/"><u>Methods to Flip Video Content in Android</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-recurring-stability-problems-in-the-age-of-wonders-planetfall-optimize-your-pc-experience/"><u>Overcoming Recurring Stability Problems in the Age of Wonders: Planetfall - Optimize Your PC Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-fixes-how-to-successfully-start-and-enjoy-robocop-rogue-city/"><u>PC Gaming Fixes: How To Successfully Start and Enjoy 'RoboCop: Rogue City'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-pc-failure-to-start-far-cry-6-troubleshooting-guide/"><u>Resolving 'PC Failure to Start Far Cry 6': Troubleshooting Guide</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-in-2024-best-online-video-rotators-rotate-your-videos-with-ease/"><u>Updated In 2024, Best Online Video Rotators Rotate Your Videos with Ease</u></a></li>
+</ul></div>
 

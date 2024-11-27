@@ -1,7 +1,7 @@
 ---
 title: Minecraft Native Launcher Not Updating? Here's The Solution
-date: 2024-08-28T05:53:48.431Z
-updated: 2024-08-29T05:53:48.431Z
+date: 2024-11-23T21:22:56.141Z
+updated: 2024-11-27T02:17:52.367Z
 tags:
   - win11
   - win10
@@ -46,9 +46,6 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Download the updates from Website
 
  Instead of downloading the updates from the Minecraft Native Launcher, you can also go to Minecraft webpage to download the update files manually.
@@ -57,15 +54,22 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 2. Click**Try an alternative download** below the big green Download button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-28-23.jpg)
 3. Then download the Minecraft.exe and install it.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-30-37.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Check your antivirus software
 
@@ -75,9 +79,6 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Reinstall the Minecraft
 
  If no fix works, reinstalling Minecraft is a good option to try. The main purpose is that by downloading a fresh copy of the game from the official website and clean the old one completely.
@@ -86,14 +87,15 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 2. Type**appwiz.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s4.jpg)
 3. Right-click on **Minecraft** and click **Uninstall** .
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 4. Press the**Windows logo key + E** to open File Explorer.
 5. Type**%Appdata%** in the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-37-23.jpg)
 6. Find the Minecraft folder and delete it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Go to[Minecraft official website](https://www.minecraft.net/en-us/) to download the latest version.
 8. Install and run the program to check.
 
@@ -127,11 +129,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
@@ -148,8 +151,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +158,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/024-approved-conquer-your-screen-top-10-simple-youtube-projects-for-all-creators/"><u>[New] 2024 Approved Conquer Your Screen Top 10 Simple YouTube Projects for All Creators</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-picart-a-guide-to-clear-backgrounds/"><u>[Updated] Mastering PicArt A Guide to Clear Backgrounds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bust-the-freeze-on-borderlands-3-expert-tips-to-ensure-smooth-gameplay/"><u>Bust the Freeze on Borderlands 3: Expert Tips to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-troubleshooting-correcting-compromised-video-game-files-for-pc-insights-from-202/"><u>Comprehensive Troubleshooting: Correcting Compromised Video Game Files for PC - Insights From 202^</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1722988247447-dark-souls-crashes-and-bugs-heres-how-you-can-resolve-them/"><u>Dark Souls 지미: Crashes and Bugs? Here's How You Can Resolve Them!</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/deciphering-ai-exploring-the-essence-of-transfer-learning/"><u>Deciphering AI: Exploring the Essence of Transfer Learning</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-fix-call-of-duty-warzone-display-glitches-avoiding-the-black-screen-scenario/"><u>Expert Tips to Fix Call of Duty Warzone Display Glitches: Avoiding the Black Screen Scenario</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-syma-x5c-review-best-drone-for-beginner/"><u>In 2024, Syma X5C Review Best Drone for Beginner</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1724765872285-macx-dvd-ripper-pro/"><u>MacX DVD Ripper Proを正しく購入する方法：公式チャネルの簡単レシピ</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-the-block-fixed-guide-for-fixing-stuck-on-loading-in-minecraft/"><u>Overcome the Block: Fixed Guide for Fixing 'Stuck on Loading' In Minecraft</u></a></li>
+<li><a href="https://os-tips.techidaily.com/successfully-streaming-from-your-ipad-to-the-big-screen-tv-compatibility-tips/"><u>Successfully Streaming From Your iPad to the Big Screen - TV Compatibility Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-game-steps-to-correct-elden-rings-black-initialization-error/"><u>Troubleshooting Your Game: Steps to Correct Elden Ring's Black Initialization Error</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Challenge of Input Latency in Cyberpunk 2077 - Fixed
-date: 2024-08-28T05:57:27.978Z
-updated: 2024-08-29T05:57:27.978Z
+date: 2024-11-20T18:54:31.251Z
+updated: 2024-11-26T18:25:30.825Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2fa065b01e8af0dc1b8ed804f9e907992c266eafc
 Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel your mouse/keyboard/controller wired during the game? If so, your device may encounter an input lag issue.
 
 Don’t worry, here’re fixes may help you solve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -50,6 +54,11 @@ If you’re not using the controller, check the below settings.
 3. Make sure the Resolution matches the resolution of your monitor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-53-01.jpg)
 4. If you need to lower your graphic resolution, move to the**GRAPHICS** tab.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Scroll down to find the**Resolution Scaling** section.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
@@ -59,8 +68,9 @@ If you’re not using the controller, check the below settings.
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -69,25 +79,22 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -115,9 +122,6 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -135,8 +139,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +146,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-prime-fps-range-in-leisurely-cinematic-scenes/"><u>[New] Prime FPS Range in Leisurely Cinematic Scenes</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-unlock-the-art-of-snapchat-pins/"><u>[Updated] In 2024, Unlock the Art of Snapchat Pins</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-transform-films-activate-xp-movie-maker-now/"><u>[Updated] Transform Films, Activate XP Movie Maker Now</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-pro-create-with-photoshops-radial-shadow-and-blur-features/"><u>2024 Approved Pro Create with Photoshop's Radial Shadow & Blur Features</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/4-easy-ways-for-your-samsung-galaxy-s23plus-hard-reset-drfone-by-drfone-reset-android-reset-android/"><u>4 Easy Ways for Your Samsung Galaxy S23+ Hard Reset | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dead-by-daylight-ultimate-troubleshooting-guide-fixes-for-the-persistent-2024-crash/"><u>Dead By Daylight - Ultimate Troubleshooting Guide: Fixes for the Persistent 2024 Crash</u></a></li>
+<li><a href="https://network-issues.techidaily.com/dropped-offline-the-internets-lament/"><u>Dropped Offline: The Internet's Lament</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-gaming-experience-with-solutions-to-lower-frame-rates-in-forza-horizon-5/"><u>Improve Gaming Experience with Solutions to Lower Frame Rates in Forza Horizon 5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/launch-success-the-power-of-duo-dynamics-unveiled/"><u>Launch Success: The Power of Duo Dynamics Unveiled</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-the-challenge-of-non-functioning-print-to-pdf-feature-in-windows-11/"><u>Overcoming the Challenge of Non-Functioning Print to PDF Feature in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-players-rejoice-solving-crashes-in-the-latest-version-of-five-nights-at-freddys-6-update/"><u>PC Players Rejoice! Solving Crashes in the Latest Version of 'Five Nights at Freddy's 6 Update</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-oppo-reno-8t-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Oppo Reno 8T? | Dr.fone</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/proven-ways-to-fix-there-was-a-problem-parsing-the-package-on-vivo-x-fold-2-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Proven Ways to Fix There Was A Problem Parsing the Package on Vivo X Fold 2 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-download-errors-efficiently-installing-age-of-empires-iv-via-microsoft-store/"><u>Resolving Download Errors: Efficiently Installing Age of Empires IV via Microsoft Store</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996211483-tactical-fixes-for-continuous-stability-in-total-war-three-kingdoms-no-more-crashing/"><u>Tactical Fixes for Continuous Stability in Total War: Three Kingdoms – No More Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-solutions-for-reducing-load-times-of-battlefront-2-on-windows-based-pcs/"><u>Tips and Solutions for Reducing Load Times of Battlefront 2 on Windows-Based PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-tips-for-increasing-arks-fps-performance-on-your-pc/"><u>Top Tips for Increasing ARK's FPS Performance on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-your-force-powers-fixing-star-wars-jedi-fallen-orders-startup-errors/"><u>Unlocking Your Force Powers: Fixing Star Wars Jedi: Fallen Order's Startup Errors</u></a></li>
+<li><a href="https://win-able.techidaily.com/windows-10mov/"><u>Windows 10上でMOV形式の動画ファイルを組み立てる詳しいガイド</u></a></li>
+</ul></div>
 

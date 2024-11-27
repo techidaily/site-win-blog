@@ -1,7 +1,7 @@
 ---
 title: Ubisoft's Assassin's Creed Unity Crashing Problems? Here's How to Fix Them
-date: 2024-08-28T05:52:31.690Z
-updated: 2024-08-29T05:52:31.690Z
+date: 2024-11-21T18:19:50.224Z
+updated: 2024-11-26T22:25:42.657Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/6e60383647786ca91fac6705ee563d1d14735cbfc
 
 Logitech Gaming Software is used to control your Logitech devices. It’s surely frustrating if you couldn’t open the program when need. Don’t worry, the problem could be fixed easily.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -26,6 +30,10 @@ Logitech Gaming Software is used to control your Logitech devices. It’s surely
 * [Fix 3: Allow the app through Windows Firewall](https://tools.techidaily.com/drivereasy/download/)
 * [Fix 4: Reinstall Logitech Gaming Software](https://tools.techidaily.com/drivereasy/download/)
 * [Bonus: Update your drivers](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Restart the program
 
@@ -48,8 +56,9 @@ Logitech Gaming Software is used to control your Logitech devices. It’s surely
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Allow the app through Windows Firewall
 
  One reason for Logitech gaming software won’t opening is that the Windows Defender Firewall blocks some features of the app. The Windows Defender Firewall aims to protect your system, sometimes the program becomes too stringent to apps. So you can solve the problem by giving Logitech gaming software permissions.
@@ -59,15 +68,13 @@ Logitech Gaming Software is used to control your Logitech devices. It’s surely
 2. Click**Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/firewall1.jpg)
 3. Click**Change settings** then check Logitech gaming software.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 4. After click**OK** . Restart your computer and reboot the app.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/firewall2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ### Fix 4: Reinstall Logitech Gaming Software
@@ -78,23 +85,18 @@ Logitech Gaming Software is used to control your Logitech devices. It’s surely
 2. Type **appwiz.cpl** , then press **Enter** on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
 3. Right-click Logitech gaming software in the list and select **Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Logitech-4.jpg)
 4. Go to[Logitech gaming software](https://tools.techidaily.com/drivereasy/download/) and click**Logitech Gaming Software** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2020-01-19_14-44-59.jpg)
 5. Click**Download** and install it. Then run the application.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Bonus: Update your drivers
 
  Updating device drivers is important to your devices. It’s because, with the latest drivers, your devices could provide you better user experience and let you fully enjoy the functions of your devices.
@@ -135,8 +137,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +144,20 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-cut-to-impress-youtube-video-editing-made-simple/"><u>[New] Cut to Impress YouTube Video Editing Made Simple</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-essential-insight-into-the-best-6-harnesses-for-gopro-headsets/"><u>[New] Essential Insight Into The Best 6 Harnesses for GoPro Headsets</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-in-2024-the-art-of-instagram-video-craftsmanship/"><u>[New] In 2024, The Art of Instagram Video Craftsmanship</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cured-non-appearance-of-tiny-vid-content/"><u>[Updated] Cured Non-Appearance of Tiny Vid Content</u></a></li>
+<li><a href="https://article-files.techidaily.com/clearer-views-the-top-10-online-photo-fixes-for-2024/"><u>Clearer Views The Top 10 Online Photo Fixes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diablo-ii-reimagined-now-stable-solving-the-infamous-crash-problems/"><u>Diablo II Reimagined Now Stable: Solving the Infamous Crash Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discord-screen-audio-malfunction-heres-how-to-solve-it/"><u>Discord Screen Audio Malfunction? Here's How to Solve It!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-deleted-photos-on-100-by-stellar-photo-recovery-android-mobile-photo-recover/"><u>How to Retrieve deleted photos on 100</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/lenovo-ideapad-130s-analysis-a-look-at-its-constrained-power-and-unexpectedly-usable-design/"><u>Lenovo IdeaPad 130S Analysis: A Look at Its Constrained Power and Unexpectedly Usable Design</u></a></li>
+<li><a href="https://win11.techidaily.com/mastering-tpm-bypass-in-windows-11-through-rufus-expertise/"><u>Mastering TPM Bypass in Windows 11 Through Rufus Expertise</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-performance-effective-strategies-for-enhancing-fps-in-war-thunder/"><u>Maximizing Performance: Effective Strategies for Enhancing FPS in War Thunder</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-directx-glitches-effectively-in-call-of-duty-modern-warfare-2/"><u>Resolving DirectX Glitches Effectively in Call of Duty: Modern Warfare 2</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-9-motorola-edge-2023-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-android/"><u>Top 9 Motorola Edge 2023 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+</ul></div>
 

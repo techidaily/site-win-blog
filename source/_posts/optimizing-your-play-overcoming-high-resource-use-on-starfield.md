@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Play: Overcoming High Resource Use on Starfield"
-date: 2024-08-28T05:53:38.542Z
-updated: 2024-08-29T05:53:38.542Z
+date: 2024-11-25T00:22:40.902Z
+updated: 2024-11-26T17:57:43.076Z
 tags:
   - win11
   - win10
@@ -35,6 +35,11 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 2. Right-click on the shortcut and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
@@ -47,23 +52,27 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 3. In the**Compatibility** tab, check**Run this program in compatibility mode for** and select**Windows 7** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 4. Launch the game to check.
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change System Configuration
 
 1. Press the**Windows logo key + R** together to open the Run box.
 2. Type**msconfig** and press**Enter.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig.jpg)
 3. Click the**Services** tab and check**Hide all Microsoft services** on the bottom left corner.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 4. Disable all that on the left, beside NVIDIA Display Container.
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
@@ -92,17 +101,15 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Use Registry editor
 
  This method should be your final solution cause it has potential risks. You’d better backup files before trying this method.
@@ -114,9 +121,6 @@ OR
 4. Type**regedit** and press Enter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 5. Press**Windows key + F** together open the search menu.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 6. Type**soScreenMode** and press Enter.
 7. Change the**0** to**3** . Save the change.
 8. Launch the game in compatibility mode and check.
@@ -131,8 +135,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +142,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-content-creation-in-the-digital-age-audio-vs-visual/"><u>[New] 2024 Approved Content Creation in the Digital Age Audio vs Visual</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-your-quick-guide-to-successful-online-television-archiving/"><u>[New] Your Quick Guide to Successful Online Television Archiving</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722983840633-solved-chrome-being-slow-quickly-and-easily/"><u>[SOLVED] Chrome Being Slow | Quickly & Easily</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-comparing-easy-flexible-recording-tools-for-mac-users/"><u>[Updated] 2024 Approved Comparing Easy, Flexible Recording Tools for Mac Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/acrylic-sealant-optional-for-added-durability/"><u>Acrylic Sealant (Optional for Added Durability)</u></a></li>
+<li><a href="https://blog-min.techidaily.com/bemavvi-online-free-converter-mp3-to-aiff-format/"><u>Bemavvi Online Free Converter: MP3 to AIFF Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-gaming-thrills-in-watch-dogs-the-secret-techniques-for-higher-fps-and-zero-lag-scenarios/"><u>Boost Gaming Thrills in Watch Dogs: The Secret Techniques for Higher FPS and Zero Lag Scenarios</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/cookiebot-enhanced-sites-boost-your-websites-performance/"><u>Cookiebot-Enhanced Sites: Boost Your Website's Performance</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/for-experts-only-top-5-best-drones-to-buy-for-2024/"><u>For Experts Only – Top 5 Best Drones to Buy for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/freeze-no-more-expert-advice-to-overcome-cod-bocw-freezing-problems/"><u>Freeze No More! Expert Advice to Overcome COD: BOCW Freezing Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985041081-improve-streaming-speeds-on-steam-with-these-simple-solutions/"><u>Improve Streaming Speeds on Steam with These Simple Solutions!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-can-you-unlock-apple-iphone-6-after-forgetting-the-passcode-drfone-by-drfone-ios/"><u>In 2024, Can You Unlock Apple iPhone 6 After Forgetting the Passcode? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009984506-instantly-resolve-gamepad-issues-say-goodbye-to-constant-disconnects/"><u>Instantly Resolve Gamepad Issues - Say Goodbye to Constant Disconnects!</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/iphone-and-ios-a-beginners-approach-to-vr-videos/"><u>IPhone & IOS A Beginner's Approach to VR Videos</u></a></li>
+<li><a href="https://discover-awesome.techidaily.com/step-by-step-guide-using-handbrake-software-to-create-dvd-backups/"><u>Step-by-Step Guide: Using Handbrake Software to Create DVD Backups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-your-wos-gameplay-essential-fixes-for-pc-freezes-and-crashes/"><u>Troubleshoot Your WOs Gameplay: Essential Fixes for PC Freezes and Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/untangling-the-dark-mystery-a-comprehensive-guide-to-fixing-epic-games-launchers-black-screen-issue/"><u>Untangling the Dark Mystery: A Comprehensive Guide to Fixing Epic Games Launcher's Black Screen Issue</u></a></li>
+</ul></div>
 

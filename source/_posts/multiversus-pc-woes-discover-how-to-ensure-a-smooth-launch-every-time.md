@@ -1,7 +1,7 @@
 ---
 title: MultiVersus PC Woes? Discover How to Ensure a Smooth Launch Every Time!
-date: 2024-08-28T05:56:09.935Z
-updated: 2024-08-29T05:56:09.935Z
+date: 2024-11-21T23:23:40.409Z
+updated: 2024-11-27T02:51:03.134Z
 tags:
   - win11
   - win10
@@ -45,6 +45,10 @@ Here’s how to restart it:
 4. Restart your computer.
 5. Start streaming in Twitch and see if the loading issue is resolved.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2 Update your graphics driver
 
  A graphics driver is an essential piece of software program that enables your computer to work with your graphics hardware. If the driver is wrong, corrupt or outdated, you may experience issues like slow loading or not loading at all. So you should update your graphics driver to see if it fixes your problem.
@@ -57,17 +61,15 @@ Here’s how to restart it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 
  Or, you can click the Update button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3 Change your DNS settings
 
@@ -79,33 +81,19 @@ To fix this, you can try using Google Public DNS. Here’s how:
 2. Type “ncpa.cpl” and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-386.png)
 3. Right click your Internet connection (**Ethernet** for wired connection or **Wi-Fi** for wireless), then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-387.png)
 4. Double click **Internet Protocol Version 4 (TCP/IPv4)** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-388.png)
 5. Select **Use the following DNS server addresses** , fill in the Google Public DNS addresses (**8.8.8.8** for **Preferred DNS server** and **8.8.4.4** for **Alternate** ), and then click **OK** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-389.png)
 6. Click **OK** .
 7. Restart your computer as well as your router/modem.
 
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4 Clear cache and cookies
 
@@ -117,22 +105,19 @@ Clear cache and cookies in Google Chrome:
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Clear browsing data…**  
 ![clear browsing data](https://images.drivereasy.com/wp-content/uploads/2017/10/clear-browsing-data.png)
 3. Click **Clear data** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5 Disable browser extensions
 
  Ad blockers and other browser extensions can interfere with Twitch’s functionality and cause streams not to load. Disabling them temporarily can help resolve the issue. Follow the steps below to disable ad blockers and extensions in Google Chrome:
@@ -143,9 +128,6 @@ Clear cache and cookies in Google Chrome:
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6 Use VPN to change your IP address
 
  You won’t be able to visit Twitch if you are trying to open the website in a country without access to Twitch, as it isn’t readily available in some locations. Fortunately, there is a simple and reliable solution to this problem. Using a**VPN (Virtual Private Network)** will help you “mask” your IP to make it appear as though it’s coming from a country where Twitch is allowed.
@@ -159,7 +141,15 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/nordvpn-pc.jpg)
 3. Check to see if you can open the website without problems this time. If yes, then you’ve worked around the issue. If no, please head on to Fix 7, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7 Launch in safe mode
 
@@ -169,10 +159,11 @@ Here’s how to use it:
 2. Type “**msconfig** ” in the search box and press Enter to open **System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
 
  Hopefully you can fix Twitch streams not loading with the methods above. If you have any questions, ideas or suggestions, feel free to leave your comments below.
@@ -183,8 +174,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +181,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-approaches.techidaily.com/new-quick-fix-tips-crafting-charming-insta-groups/"><u>[New] Quick-Fix Tips Crafting Charming Insta Groups</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-premier-selection-of-11-costless-yt-moniker-makers/"><u>[New] The Premier Selection of 11 Costless YT Moniker Makers</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/updated-cultivate-inner-peace-and-physical-strength-with-these-channels/"><u>[Updated] Cultivate Inner Peace & Physical Strength with These Channels</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-directly-uploading-youtube-vids-to-multiple-social-sites-focusing-on-fb/"><u>[Updated] In 2024, Directly Uploading YouTube Vids to Multiple Social Sites, Focusing on FB</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-preventing-htc-vive-disorientation-and-nausea/"><u>2024 Approved Preventing HTC Vive Disorientation and Nausea</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-the-code-effective-solutions-for-preventing-persistent-overwatch-cuffing-of-the-game-on-your-pc/"><u>Cracking the Code: Effective Solutions for Preventing Persistent Overwatch Cuffing of the Game on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-your-discomfort-expert-solutions-for-eliminating-display-shaking-problems/"><u>End Your Discomfort: Expert Solutions for Eliminating Display Shaking Problems</u></a></li>
+<li><a href="https://win-able.techidaily.com/fixes-unveiled-resolving-pc-issues-in-the-remastered-version-of-yakuza-3/"><u>Fixes Unveiled: Resolving PC Issues in the Remastered Version of Yakuza 3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-get-your-msi-mystic-light-functioning-on-pc/"><u>Fixing the Issue: How to Get Your MSI Mystic Light Functioning on PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/guide-to-efficient-webp-jpeg-conversion/"><u>Guide to Efficient WebP JPEG Conversion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-fix-overcome-freeze-problems-with-assassins-creed-odyssey-on-pc/"><u>Master the Fix: Overcome Freeze Problems with Assassin's Creed Odyssey on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-players-beware-overcoming-launch-hurdles-in-hitman-3/"><u>PC Players Beware! Overcoming Launch Hurdles in Hitman 3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-metro-exodus-pc-enhanced-editions-frequent-crashes/"><u>Resolved: Fixes for Metro Exodus PC Enhanced Editions Frequent Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-display-issues-defeating-the-darkness-on-your-destiny-2-screen/"><u>Solving Display Issues: Defeating the Darkness on Your Destiny 2 Screen</u></a></li>
+<li><a href="https://fox-http.techidaily.com/top-11-techniques-for-spectacular-color-enhancement/"><u>Top 11 Techniques for Spectacular Color Enhancement</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-gta-v-crashes-efficiently/"><u>Troubleshooting Tips: Resolving GTA V Crashes Efficiently</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlocking-academic-savings-a-guide-to-securing-your-dell-educational-price-cut/"><u>Unlocking Academic Savings: A Guide to Securing Your Dell Educational Price Cut</u></a></li>
+<li><a href="https://win-news.techidaily.com/zoom-feature-for-dual-page-viewing-in-pdfs-created-with-flipbuilder-explained/"><u>Zoom Feature for Dual-Page Viewing in PDFs Created with FlipBuilder Explained</u></a></li>
+</ul></div>
 

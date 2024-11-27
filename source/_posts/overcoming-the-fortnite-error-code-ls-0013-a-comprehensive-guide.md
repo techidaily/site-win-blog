@@ -1,7 +1,7 @@
 ---
 title: Overcoming the Fortnite Error Code LS-0013 – A Comprehensive Guide
-date: 2024-09-01T08:38:13.261Z
-updated: 2024-09-02T08:38:13.261Z
+date: 2024-11-20T01:38:55.422Z
+updated: 2024-11-26T17:22:14.917Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 2. **[Verify game integrity](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Run Epic Games Launcher and Fortnite as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: **Update your device drivers**
 
  Updating drivers should always be your go-to option when something goes wrong with your computer or system. Whether you choose to update the device drivers manually, using Windows Update, or you use a trusted third party product, it’s essential that you have the latest correct device drivers for your operating system at all times.
@@ -45,6 +49,10 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also do it for free if you like, but it’s partly manual.
 
 4) Restart your computer for the changes to take effect.
@@ -54,8 +62,9 @@ Fortnite is not launching because of LS-0013 error? You’re certainly not the o
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -68,16 +77,14 @@ Here is how to verify the integrity of Fortnite:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-772.png)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Once completed, click to run Fortnite to see if it launches properly. If yes, then congrats! If the issue still remains, please try **Fix 3** , below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
  In some cases, Fortnite won’t launch properly because it is not granted the necessary access to running the game. To make sure the LS-0013 error is not thrown up because of insufficient rights, you should run **Epic Games Launcher** and **Fortnite** as administrator.
@@ -88,16 +95,14 @@ Here is how to run Epic Games Launcher as administrator:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-805.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Run Fortnite to see if it works without fail. If yes, then you have solved the issue! If the error still happens, you can then run Fortnite**as administrator** , the steps are similar as those for Epic Games Launcher.
 
  Once finished, don’t forget to check if the Fortnite**LS-0013** error is resolved.
@@ -118,8 +123,6 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +130,26 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-basic-understanding-of-digital-lore-making/"><u>[New] 2024 Approved Basic Understanding of Digital Lore Making</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-top-10-game-bar-alternative-recorders/"><u>[Updated] In 2024, Top 10 Game Bar Alternative Recorders</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-in-2024-your-ultimate-companion-a-stepwise-approach-to-filming-with-logitech/"><u>[Updated] In 2024, Your Ultimate Companion A Stepwise Approach to Filming with Logitech</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-depth-review-tunefabs-latest-in-screen-capture-tech/"><u>[Updated] In-Depth Review Tunefab's Latest in Screen Capture Tech</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-top-facts-in-the-asmr-world-for-2024/"><u>[Updated] Top Facts in the ASMR World for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-solutions-resolving-wwe-2k2es-pc-crashing-issues/"><u>Effortless Solutions: Resolving WWE 2K2e's PC Crashing Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-your-play-experience-easy-ways-to-resolve-recurring-outriders-crashes/"><u>Enhance Your Play Experience: Easy Ways to Resolve Recurring Outriders Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-cortana-how-to-troubleshoot-and-resolve-common-issues/"><u>Fixing Cortana: How to Troubleshoot and Resolve Common Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-persistent-crashing-in-battlefield-2042-on-your-computer/"><u>How to Overcome Persistent Crashing in Battlefield 2042 on Your Computer</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-setting-up-your-first-zoom-call-on-android/"><u>In 2024, Setting Up Your First Zoom Call on Android</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/mastering-pinterest-videos-to-mp3s-essential-strategies-for-2024/"><u>Mastering Pinterest Videos to MP3s Essential Strategies for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-guide-for-fixed-frontiers-game-crashes-on-windows/"><u>Resolved: Troubleshooting Guide for Fixed Frontier's Game Crashes on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-freezing-issues-in-elex-ii-on-windowsmac-os/"><u>Resolving Persistent Freezing Issues in Elex II on Windows/Mac OS</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/secure-your-spot-ahead-of-release-discover-the-top-strategies-for-gaining-pre-launch-access-to-apple-vision-pro-via-testflight-insights-from-zdnet/"><u>Secure Your Spot Ahead of Release: Discover the Top Strategies for Gaining Pre-Launch Access to Apple Vision Pro via TestFlight | Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-remedies-for-when-counter-strike-global-offensive-wont-launch/"><u>Step-by-Step Remedies for When Counter-Strike Global Offensive Won't Launch</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-insightful-guide-to-understanding-ai-transfer-learning-functions/"><u>The Insightful Guide to Understanding AI Transfer Learning Functions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-eliminating-lag-issues-in-rainbow-six-siege-gaming/"><u>Troubleshooting Guide: Eliminating Lag Issues in Rainbow Six Siege Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-defeating-the-ominous-black-screen-glitch-in-rainbow-six-siege-pc-edition/"><u>Troubleshooting Tips: Defeating the Ominous Black Screen Glitch in Rainbow Six Siege PC Edition</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-transforming-everyday-mac-users-into-pro-voice-recording-enthusiasts-a-beginners-approach-for-2024/"><u>Updated Transforming Everyday Mac Users Into Pro Voice Recording Enthusiasts A Beginners Approach for 2024</u></a></li>
+</ul></div>
 

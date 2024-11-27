@@ -1,7 +1,7 @@
 ---
 title: "Mastering Lost Ark: Strategies to Tackle Lag & Frame Drops"
-date: 2024-09-01T08:36:47.303Z
-updated: 2024-09-02T08:36:47.303Z
+date: 2024-11-23T19:14:32.794Z
+updated: 2024-11-26T20:58:24.768Z
 tags:
   - win11
   - win10
@@ -39,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
@@ -49,8 +46,9 @@ thumbnail: https://thmb.techidaily.com/7771a2b06b1c9409671f87688822caf9758687ec7
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics card driver
 
  If the device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the cause for Metro Exodus crashing, try updating your video driver to the latest version.
@@ -83,13 +81,14 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note: You can do it for free if you like, but it’s partly manual.
 
 4) Restart your computer to take effect.
@@ -118,6 +117,10 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -129,19 +132,20 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
@@ -153,9 +157,6 @@ Launch Metro Exodus and see if it works now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 5: Lower the in-game video settings
 
  If the graphics options are too much for your PC, your game will no doubt keep crashing because your PC hardware couldn’t support the graphics requirements configured in the game. So you should set the graphic settings in your game to Low in order to fix the crashing issue.
@@ -178,8 +179,6 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +186,21 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them/"><u>[New] 2024 Approved GoPro Versus Polaroid Editing Faces Vs. Cameras That Shoot Them</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-in-2024-the-ultimate-blueprint-for-memetic-virality/"><u>[New] In 2024, The Ultimate Blueprint for Memetic Virality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ltimate-guide-to-youtube-thumbnail-creation-on-mac-for-2024/"><u>[New] Ultimate Guide to YouTube Thumbnail Creation on Mac for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-2024-approved-chronoscope-effect-flip-your-snapchat-videos-right/"><u>[Updated] 2024 Approved Chronoscope Effect Flip Your Snapchat Videos Right</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-quick-scale-your-iphones-viewport/"><u>2024 Approved Quick Scale Your iPhone's Viewport</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-dragon-quest-xi-freezing-problems-with-our-expert-fix-guide/"><u>Banish Dragon Quest XI Freezing Problems with Our Expert Fix Guide</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/compact-5-listing-visuals-with-accompaniment-recorders/"><u>Compact 5 Listing Visuals with Accompaniment Recorders</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001859828-minecraft-connection-problems-here-are-proven-fixes-for-a-smooth-gameplay-experience/"><u>Minecraft Connection Problems? Here Are Proven Fixes for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-sea-of-thieves-load-screen-issues-a-comprehensive-guide/"><u>Resolving Sea of Thieves Load Screen Issues - A Comprehensive Guide</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-s23-fe-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy S23 FE Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/solutions-for-the-unexpected-token-call-on-win10-devices/"><u>Solutions for the “Unexpected Token Call” On Win10 Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-windows-1110-sound-problem-reactivate-your-systems-spatial-audio-capability/"><u>Solve Windows 11/10 Sound Problem - Reactivate Your System's Spatial Audio Capability</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992673382-troubleshooting-warzones-gpu-usage-issue-on-windows-10-problem-fixed/"><u>Troubleshooting Warzone's GPU Usage Issue on Windows 10 – Problem Fixed!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-fixing-acrocefexe-errors-in-windows-systems/"><u>Understanding and Fixing AcroCEF.exe Errors in Windows Systems</u></a></li>
+</ul></div>
 

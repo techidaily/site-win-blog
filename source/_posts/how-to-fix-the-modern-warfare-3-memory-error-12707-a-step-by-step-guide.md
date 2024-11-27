@@ -1,7 +1,7 @@
 ---
 title: "How to Fix the 'Modern Warfare 3 Memory Error (12707): A Step-by-Step Guide"
-date: 2024-08-28T05:56:25.170Z
-updated: 2024-08-29T05:56:25.170Z
+date: 2024-11-20T02:43:44.815Z
+updated: 2024-11-26T19:13:52.061Z
 tags:
   - win11
   - win10
@@ -52,8 +52,9 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Rolling back your driver
 
  If updating the driver doesn’t work for you, you may need to try this fix, especially when you’re an NVIDIA user. Some users figured out the issue was related to NVIDIA drivers, if the latest driver doesn’t fix the flickering issue, rolling back to an older version of the driver would work. Though it could cause serious loss of optimization for other games and applications.
@@ -63,17 +64,16 @@ Restart your computer for the changes to take effect.
 3. Right-click on the Start button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Check the issue is persist or not.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
@@ -81,20 +81,24 @@ Restart your computer for the changes to take effect.
 1. Right-click on desktop and select **Display settings** .  
 ![enable hardware-acceleration GPU scheduling](https://images.drivereasy.com/wp-content/uploads/2021/08/display-settings-1.png)
 2. Scroll down to find**Advanced display settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 6. Restart your computer and check to see if the problem resolves.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Use windowed mode
 
  If you’re using fullscreen mode while playing World of Warcraft, then change to Windowed mode may fix the issue. Follow the steps to disable the fullscreen optimizations in the system
@@ -103,9 +107,11 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -118,8 +124,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +131,26 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/2024-approved-advanced-steps-for-securing-stock-photo-borders/"><u>2024 Approved Advanced Steps for Securing Stock Photo Borders</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-crafting-transitional-soundscapes-in-cubase/"><u>2024 Approved Crafting Transitional Soundscapes in Cubase</u></a></li>
+<li><a href="https://win-blog.techidaily.com/age-of-empires-iv-stability-guide-no-more-frustrating-crashes/"><u>Age of Empires IV Stability Guide – No More Frustrating Crashes!</u></a></li>
+<li><a href="https://location-social.techidaily.com/edit-and-send-fake-location-on-telegram-for-your-realme-c53-in-3-ways-drfone-by-drfone-virtual-android/"><u>Edit and Send Fake Location on Telegram For your Realme C53 in 3 Ways | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012703783-halo-infinite-pc-crash-woes-here-are-the-solutions/"><u>Halo Infinite PC Crash Woes? Here Are the Solutions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-robocop-rogue-city-working-properly-on-personal-computers-pc/"><u>How to Get 'RoboCop: Rogue City' Working Properly on Personal Computers (PC)</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-dissecting-revenue-allocation-for-shortform-content-makers/"><u>In 2024, Dissecting Revenue Allocation for Shortform Content Makers</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-expert-picks-the-best-skype-capture-tools/"><u>In 2024, Expert Picks The Best Skype Capture Tools</u></a></li>
+<li><a href="https://fox-links.techidaily.com/mastering-pixlr-15-essential-tips-for-enhanced-editing/"><u>Mastering Pixlr 15 Essential Tips for Enhanced Editing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-issues-with-days-gone-expert-pc-fixes-revealed/"><u>Overcoming Launch Issues with 'Days Gone': Expert PC Fixes Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rainbow-six-siege-fixed-now-running-smoothly/"><u>Rainbow Six Siege Fixed! Now Running Smoothly</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/realme-10t-5g-bootloop-problem-how-to-fix-it-without-data-loss-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Realme 10T 5G Bootloop Problem, How to Fix it Without Data Loss | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stable-playthrough-of-persona-3-overcoming-the-notorious-pc-crash-glitch/"><u>Stable Playthrough of Persona 3: Overcoming the Notorious PC Crash Glitch</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/strategies-to-reduce-lag-in-windows-based-discord/"><u>Strategies to Reduce Lag in Windows-Based Discord</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-repetitive-nature-of-its-resource-management-and-building-systems-limited-long-term-engagement-without-significant-content-updates-or-game-mechanic-chan567/"><u>The Repetitive Nature of Its Resource Management and Building Systems Limited Long-Term Engagement without Significant Content Updates or Game Mechanic Changes.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-lag-in-naraka-bladesports/"><u>Troubleshooting Steps to Resolve Lag in Naraka Bladesports</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-apex-legends-connections-expert-fixes/"><u>Troubleshooting Your Apex Legends Connections - Expert Fixes</u></a></li>
+<li><a href="https://win-forum.techidaily.com/understanding-the-big-four-social-media-platforms-facebook-twitter-instagram-and-youtube/"><u>Understanding the Big Four Social Media Platforms: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/zdnets-ultimate-selection-the-leading-headlamps-to-own-in-2ecky2022-gear-patrol-)(title)best-camping-headlamps-of-2023-reviews-and-buyers-guide-by-outdoor-e248/"><u>ZDNet's Ultimate Selection: The Leading Headlamps to Own in 2Ecky2022 | Gear Patrol /><Title>Best Camping Headlamps of 2023 - Reviews & Buyer's Guide by Outdoor Enthusiast</Title></Head><body></u></a></li>
+</ul></div>
 

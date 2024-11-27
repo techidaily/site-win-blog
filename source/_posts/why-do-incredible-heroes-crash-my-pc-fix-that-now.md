@@ -1,7 +1,7 @@
 ---
 title: Why Do Incredible Heroes Crash My PC? Fix That Now
-date: 2024-08-28T05:52:16.630Z
-updated: 2024-08-29T05:52:16.630Z
+date: 2024-11-20T20:05:27.785Z
+updated: 2024-11-26T20:14:10.394Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 
  Before we dive into anything advanced, please make sure you’ve tried to reboot your PC in case it was just a one-time glitch.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System requirements for Super People
 
 | **Minimum**   | **Required**                                       |                                                  |
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 | **Storage**   | 50 GB (SSD recommended)                            | 50 GB (SSD recommended)                          |
 | **DirectX**   | Version 11                                         | Version 12                                       |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  The first thing you can do is to verify Super People game files. Steam will help you scan and repair any missing or corrupted game files. Here’s how:
@@ -59,20 +67,15 @@ thumbnail: https://thmb.techidaily.com/a27b3a3de27d6b4c9a23aaf5bc90c6e51b30c3f53
 1. Find Super People CBT in your Steam library and right-click it. Click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 2. Under the**Local files** tab, click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files-1.jpg)
 3. It may take a while for Steam to finish the process. When it’s done, restart the Steam client and launch the game.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the problem persists, try the next fix.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  One of the most common causes of game crashing issues is a faulty or outdated graphics driver. You may want to make sure yours is up-to-date and functioning properly.
@@ -88,17 +91,11 @@ If the problem persists, try the next fix.
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC and run Super People. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Check for conflicting programs
 
  Super People may crash when background programs are conflicting with it. You can close any unnecessary programs first to see if the problem goes away.
@@ -119,9 +116,6 @@ If the problem persists, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  The repair is available with the paid version of Fortect which comes with full technical support. If you encounter any issues while using Fortect, feel free to contact their free support service.
 
 ## Fix 5: Disable overlays
@@ -144,6 +138,10 @@ If the problem persists, try the next fix.
 2. Under the **General tab** , make sure **Enable the Steam Overlay while in-game is unchecked** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-07_14-59-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### Discord
 
 1. Launch Discord. On the bottom-left, click the **gear-shaped icon** to open the user settings.  
@@ -154,17 +152,9 @@ If the problem persists, try the next fix.
 If disabling in-game overlays doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Keep your system up-to-date
 
  Another quick but effective fix is to install the latest Windows updates. You want to make sure your system is up-to-date so any known system bugs are fixed. It may also solve compatibility issues with programs on your PC, especially like a new game in the beta stage like Super People, and help with the crashing issue.
@@ -174,24 +164,24 @@ If disabling in-game overlays doesn’t help, try the next fix.
 1. In the search bar next to your Start button, type **update** , then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available system updates. If there are _no_  available updates, you’ll get a **You’re up to date** sign. You could also click **View all optional updates** and install them if needed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. You will be prompted to restart your PC. Make sure you save important files in advance.
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 
  When Windows is writing data into the drive, it could interfere with the gameplay. So make sure Super People is not running while Windows is installing the updates in the background.  
   
  If you’ve allowed Windows to automatically install the system updates for you, make sure you double-check the Windows Update is not running in the background while you’re playing the game.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 7: Restore MSVCP140\_1.dll
 
  You may see the error message “MSVCP140\_1.dll was not found” when Super People crashes on your PC. To fix this issue, you need to download the Microsoft Visual C++ Redistributable packs.
@@ -199,6 +189,10 @@ If disabling in-game overlays doesn’t help, try the next fix.
  Go to[Microsoft official download page](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170) and download the corresponding file for X64 version. Once the download is complete, run the executable file and follow on-screen instructions to complete the installation.
 
  X64 is for 64-bit and X84 is for 32-bit. If your PC is a 32-bit version, you won’t be able to run Super People since it’s not supported.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Reinstall Super People
 
@@ -218,8 +212,6 @@ If disabling in-game overlays doesn’t help, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +219,26 @@ If disabling in-game overlays doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-achieving-audiovisual-consistency-in-premiers-for-2024/"><u>[New] Achieving Audiovisual Consistency in Premiers for 2024</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-master-the-art-of-freezing-out-the-backdrop-in-your-design-for-2024/"><u>[New] Master the Art of Freezing Out the Backdrop in Your Design for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-picks-best-selling-oculus-rift-games/"><u>[New] Premier Picks Best-Selling Oculus Rift Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-roblox-no-sound-issue-on-windows-11-10/"><u>[SOLVED] Roblox No Sound Issue on Windows 11, 10</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-4-simplified-techniques-to-embed-youtube-content-in-powerpoint/"><u>[Updated] In 2024, 4 Simplified Techniques to Embed YouTube Content in PowerPoint</u></a></li>
+<li><a href="https://win-blog.techidaily.com/acknowledgment/"><u>Acknowledgment</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/chatgpt-intelligence-assessing-the-accusations-of-decreased-smartness/"><u>ChatGPT Intelligence: Assessing the Accusations of Decreased Smartness</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clearing-up-the-out-of-video-memory-problem-in-fortnite-effective-strategies/"><u>Clearing Up the 'Out of Video Memory' Problem in Fortnite: Effective Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-error-solving-robocop-rogue-city-launch-issues-for-pc-gamers/"><u>Fixing the Error: Solving 'RoboCop: Rogue City' Launch Issues for PC Gamers</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-20plus-creative-photo-collage-ideas-to-light-up-your-life/"><u>In 2024, 20+ Creative Photo Collage Ideas to Light Up Your Life</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-oppo-k11x-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Oppo K11x | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-changefake-your-xiaomi-redmi-a2plus-location-on-viber-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change/Fake Your Xiaomi Redmi A2+ Location on Viber | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003314258-mir4-fixed-no-more-pc-performance-problems/"><u>Mir4 Fixed – No More PC Performance Problems!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-help-overcoming-stardew-valleys-frequent-freezes-and-crashes/"><u>PC Gaming Help: Overcoming Stardew Valley's Frequent Freezes and Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/skyrims-echoed-silence-discover-ways-to-restore-in-game-sounds/"><u>Skyrim's Echoed Silence? Discover Ways to Restore In-Game Sounds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-persistent-crash-issues-with-microsoft-edge-on-windows-11-systems/"><u>Solving Persistent Crash Issues with Microsoft Edge on Windows 11 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-vpc-stuttering-issues-a-step-by-step-guide/"><u>Solving V:PC Stuttering Issues - A Step-by-Step Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/tcl-50-series-425-50-roku-smart-led-tv-201-review-premium-quality-at-an-unbeatable-price/"><u>TCL 50 Series 425 - 50 Roku Smart LED TV (201# Review): Premium Quality at an Unbeatable Price</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/the-insiders-srt-primer-must-know-elements/"><u>The Insider's SRT Primer Must-Know Elements</u></a></li>
+</ul></div>
 

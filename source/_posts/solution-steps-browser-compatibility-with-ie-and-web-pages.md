@@ -1,7 +1,7 @@
 ---
 title: "Solution Steps: Browser Compatibility with IE and Web Pages"
-date: 2024-08-28T05:54:06.900Z
-updated: 2024-08-29T05:54:06.900Z
+date: 2024-11-24T03:08:27.273Z
+updated: 2024-11-26T21:01:42.396Z
 tags:
   - win11
   - win10
@@ -44,14 +44,13 @@ As soon as you load into the game, Star Citizen crashes immediately. This could 
 3. Click**Game Bar** . Then make sure the switch of **Record game clips, screenshots, and broadcast using Game bar** is turned off.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-13-04.jpg)
 4. Click**Capture** . Under**Background recording** , turn off**Record in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-28_17-11-48.jpg)
+
 ### Fix 3: Kill background programs
 
  Kill unnecessary background programs will give the game more resources and prevent crashing. Sometimes the Star Citizen crashing issue is due to conflicts programs acting at the background. These conflict programs could be capture programs.
@@ -62,24 +61,15 @@ If you’re using D3DGear, you must uninstall it to fix the issue.
 2. Choose the program and click**End task** . Repeat the process until you’ve closed all the unnecessary background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Reboot the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your driver
 
  As a game player, the graphics card is one of the most important components of your PC. If the graphics driver is outdated or corrupted, you may not be able to enjoy the game. Graphics card manufacturers like Nvidia, AMD, and Intel constantly release new graphics drivers to fix bugs and improve gaming performance and experience, but Windows won’t always provide you with the latest version.
@@ -96,23 +86,17 @@ So, there are two ways that you can update your graphics driver:
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-scan-screen.png)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
  The PRO version comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund, no questions asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  (Alternatively, if you’re comfortable manually installing drivers, you can click ‘Update’ next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.)
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ### Fix 5: Reset your character account
 
  According to players, somehow resetting your character account could fix the Star Citizen crashing issue. You may have a try. At least it’s not a complicated fix.
@@ -126,6 +110,10 @@ No advertising on the website.
  This tip has worked for some users. By increasing page file size on your SSD, leaving enough room for the game is a pretty important element that affects how Star Citizen runs.
 
  Make sure you have enough free space on SSD and run the game in low settings with V-sync off.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reset or reinstall Windows
 
@@ -147,8 +135,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +142,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-top-5-virtual-reality-vr-treadmills-review-for-2024/"><u>[New] Top 5 Virtual Reality (VR) Treadmills Review for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/a-deep-dive-into-streamlining-your-google-podcast-process-for-2024/"><u>A Deep Dive Into Streamlining Your Google Podcast Process for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/davinci-resolve-wont-start-heres-how-you-can-get-it-running-smoothly-on-a-windows-machine/"><u>DaVinci Resolve Won't Start? Here's How You Can Get It Running Smoothly on a Windows Machine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-the-steam-corrupt-disk-glitch-with-these-simple-strategies/"><u>Fix the Steam Corrupt Disk Glitch with These Simple Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-issues-troubleshooting-non-functional-multiplayer-in-elden-ring/"><u>Fixing Issues: Troubleshooting Non-Functional Multiplayer in Elden Ring</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-microsoft-outlook-launching-problems-effectively/"><u>How to Fix Microsoft Outlook Launching Problems Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-recurring-diablo-4-disruptions-a-step-by-nstep-guide-for-ps5-xbox-and-pc-users/"><u>How to Fix Recurring Diablo 4 Disruptions: A Step-by-nStep Guide for PS5, Xbox & PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-your-discord-app-solutions-for-uninterrupted-streaming/"><u>How to Fix Your Discord App: Solutions for Uninterrupted Streaming</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-keywords-that-catapult-hashtag-hacks-in-gameplay-videos/"><u>In 2024, Keywords that Catapult Hashtag Hacks in Gameplay Videos</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/in-2024-ultimate-vimeo-cutting-suite-revealed/"><u>In 2024, Ultimate Vimeo Cutting Suite Revealed</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/iphone-discoverability-alert-journals-can-expose-you-by-default-learn-to-turn-off-this-feature-zdnet/"><u>IPhone Discoverability Alert: Journals Can Expose You by Default - Learn To Turn Off This Feature | ZDNet</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/laptop-keyboard-not-responding-in-windows-heres-how-to-make-it-work-again-solved/"><u>Laptop Keyboard Not Responding in Windows? Here's How to Make It Work Again [SOLVED]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/revamping-your-webcam-performance-how-to-update-the-driver-in-windows-10/"><u>Revamping Your Webcam Performance: How to Update the Driver in Windows 10</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/reviving-silent-histories-how-to-reclaim-lost-conversations-from-microsofts-ai-companer/"><u>Reviving Silent Histories: How to Reclaim Lost Conversations From Microsoft's AI Companer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-honor-x9b-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Honor X9b Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-twitch-errors-a-comprehensive-guide-to-fixing-loading-problems-fixed/"><u>Troubleshoot Twitch Errors: A Comprehensive Guide to Fixing Loading Problems (Fixed)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-getting-tekken-8-running-on-your-pc/"><u>Troubleshooting Steps: Getting Tekken 8 Running on Your PC</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "PC Players Rejoice: The Notorious Security Breach Bug Is Now Patched in FNAF"
-date: 2024-08-28T05:57:53.687Z
-updated: 2024-08-29T05:57:53.687Z
+date: 2024-11-22T23:45:49.291Z
+updated: 2024-11-26T20:31:13.804Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ thumbnail: https://thmb.techidaily.com/728afd7e20b349094de30222af4ebc05eabd7a8ee
 6. [**Perform a clean boot**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Temporarily disable your anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Disable in-game overlays
 
  In-game overlays allow you to unlock achievements, place orders and chat with friends during gameplay. Sounds convenient, right? But there’re also reports that in-game overlays could actually crash your game. So if you’re using any in-game overlays like**Steam** ,**Discord** and**NVIDIA GeForce Experience** , you can try disabling them and see if it stops the crashes.
@@ -41,12 +45,12 @@ For example, here’s how you can disable the Steam overlay:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. You can now launch Hades and test your gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this method doesn’t help your case, simply continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Hades as administrator
 
  Some gamers mentioned that they manage to solve the crash as well as the black screen error by running the game as administrator. You can try the same as it might fix your crash in a snap.
@@ -55,15 +59,17 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Navigate to the**LOCAL FILES** tab, select**BROWSE LOCAL FILES…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-browse-local-files.jpg)
 3. Right-click**Hades.exe** and select**Run as administrator** , then check if the game stops crashing. If it does, continue to the next step to always run Hades as administrator. Otherwise, please move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Right-click**Hades.exe** and select**Properties** .
 5. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/run-as-administrator.jpg)
 
  If this fix doesn’t give you any luck, you can check out the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify your game files
 
  Game crashes may indicate an integrity issue with your game files. If that’s the case, chances are your game will keep crashing at a certain mode or scene. To scan and repair missing files, you can follow these steps:
@@ -103,30 +109,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-pro-update-all-rtx-3090.jpg)
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated the graphics driver and restarted your computer, open Hades and see if the crash persists.
 
  If this method doesn’t give you any luck, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking
 
  As you may have known, overclocking is basically a zero-cost benefit, as it provides dramatic performance boost using the same hardware. But you should note that it could also trigger instability of your system. So if you’re running overclocking programs, such as**MSI Afterburner** and**Intel Extreme Tuning Utility** **(Intel XTU)** , you can try to turn them off and check if it fixes the crash.
@@ -140,24 +135,24 @@ You can follow these steps to do a clean boot:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the run box. Type or past**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-1.png)
 2. Navigate to the**Services** tab. Check the box next to**Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. Find services that **DO NOT** belong to your graphics card or sound card manufacturers such as**NVIDIA** ,**AMD** ,**Realtek** and**Intel** . **Uncheck**  the boxes next to these services and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. Restart your computer and test your gameplay in Hades.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 
  If the crash stops, you can root out the offender by repeating these steps and disable only half of the services.
 
 If the crash reappears, please continue to the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE&autoplay=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Temporarily disable your anti-virus programs
 
  The crash with Hades could be triggered by your anti-virus software. This is actually pretty common with new games, as the virus library might not update as frequently as you’ve expected. You can therefore try to disable your anti-virus programs, such as**Windows Defender** ,**Window Security** ,**Norton** and**Avast** , as they might be interfering with your game.
@@ -172,8 +167,6 @@ If the crash reappears, please continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -181,4 +174,19 @@ If the crash reappears, please continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-dive-into-new-worlds-comprehensively-reviewed-top-10-vr-players-on-pc/"><u>[New] In 2024, Dive Into New Worlds Comprehensively Reviewed Top 10 VR Players on PC</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-unveiling-the-truth-a-speedy-guide-to-spotting-phony-followers-on-instagram/"><u>[Updated] 2024 Approved Unveiling the Truth A Speedy Guide to Spotting Phony Followers on Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-glitch-ultimate-guide-to-stop-war-thunder-crashes/"><u>Beat the Glitch: Ultimate Guide to Stop War Thunder Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clearing-up-the-mystery-diagnosing-and-fixing-black-screens-in-p5strikers/"><u>Clearing Up the Mystery: Diagnosing & Fixing Black Screens in P5Strikers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-ntips-restoring-your-connection-when-youve-lost-it-solved/"><u>Destiny nTips: Restoring Your Connection When You've Lost It [SOLVED]</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/easy-steps-to-download-and-install-epson-xp-330-printer-driver/"><u>Easy Steps to Download and Install Epson XP-330 Printer Driver</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-tower-of-fantasy-from-continuously-crashing-on-your-computer/"><u>How To Stop Tower of Fantasy From Continuously Crashing On Your Computer</u></a></li>
+<li><a href="https://discover-community.techidaily.com/resolving-common-itunes-freezes-on-windows-your-guide-to-fixing-pesky-itunes-bugs/"><u>Resolving Common ITunes Freezes on Windows - Your Guide to Fixing Pesky iTunes Bugs</u></a></li>
+<li><a href="https://win11.techidaily.com/solutions-to-limit-high-utilization-by-windows-module-worker/"><u>Solutions to Limit High Utilization by Windows Module Worker</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-the-red-dead-redemption-groblems-of-errgfxstate-error/"><u>Troubleshooting and Resolving the Red Dead Redemption Groblems of ERR_GFX_STATE Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/what-is-the-newest-generation-of-ipad/"><u>What Is the Newest Generation of iPad?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/what-pokemon-evolve-with-a-dawn-stone-for-realme-gt-neo-5-drfone-by-drfone-virtual-android/"><u>What Pokémon Evolve with A Dawn Stone For Realme GT Neo 5? | Dr.fone</u></a></li>
+</ul></div>
 
