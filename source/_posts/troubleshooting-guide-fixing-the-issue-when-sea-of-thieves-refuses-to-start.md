@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing the Issue When Sea of Thieves Refuses to Start"
-date: 2024-08-28T05:48:12.697Z
-updated: 2024-08-29T05:48:12.697Z
+date: 2024-12-02T16:26:14.101Z
+updated: 2024-12-06T16:08:09.061Z
 tags:
   - win11
   - win10
@@ -26,11 +26,19 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | Graphics card   | NVIDIA GeForce GTX 660/ AMD Radeon HD 7850   |
 | RAM             | 4 GB                                         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
 2. [Lower the graphics settings in the game](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
@@ -50,22 +58,14 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 9. Select the **Open** button. This will add the path to your Exception List.
 10. Select **OK** to save your changes and close the Exception List window.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your driver
 
  The outdated or missing driver can cause game crashing. You have to make sure your drivers have been updated and install correctly.
@@ -80,15 +80,17 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
@@ -101,8 +103,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -110,4 +110,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-demystifying-the-instagram-selfie-process/"><u>[Updated] In 2024, Demystifying the Instagram Selfie Process</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-top-10-forgetful-fun-mobile-idle-escapes/"><u>[Updated] Top 10 Forgetful Fun Mobile Idle Escapes</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/2024s-definitive-techniques-for-fixing-videoaudio-out-of-sync-issues/"><u>2024'S Definitive Techniques for Fixing Video/Audio Out-of-Sync Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discovering-the-exact-build-number-and-update-status-of-your-windows-10-system-in-easy-steps/"><u>Discovering the Exact Build Number and Update Status of Your Windows 10 System in Easy Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-troubleshooting-a-non-booting-windows-system/"><u>Effective Solutions for Troubleshooting a Non-Booting Windows System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-the-latest-enhancements-in-icloud-windows-app-version/"><u>Experience the Latest Enhancements in iCloud Windows App Version</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-your-digital-trail-a-comprehensive-guide-to-previewing-off-facebook-activities/"><u>Exploring Your Digital Trail - A Comprehensive Guide to Previewing Off-Facebook Activities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/folder-comparison-techniques-in-windows-11-vs-windows-10/"><u>Folder Comparison Techniques in Windows 11 Vs. Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-completely-deactivate-windows-11s-built-in-antivirus-software-microsoft-defender/"><u>Guide: Completely Deactivate Windows 11'S Built-In Antivirus Software, Microsoft Defender</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-arm-technology-enhances-my-copilotplus-computer-experience-a-detailed-look/"><u>How ARM Technology Enhances My Copilot+ Computer Experience – A Detailed Look</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-regain-lost-disk-capacity-in-your-linux-based-virtualbox-machine-without-hassle/"><u>How to Regain Lost Disk Capacity in Your Linux-Based VirtualBox Machine Without Hassle</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-xiaomi-photos-an-easy-method-explained-by-fonelab-android-recover-photos/"><u>How to Restore Deleted Xiaomi Photos An Easy Method Explained.</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-g54-5g-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola G54 5G Bootloader Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/imminent-shift-in-visualization-software-as-microsoft-phases-out-paint-3d/"><u>Imminent Shift in Visualization Software as Microsoft Phases Out Paint 3D</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improved-update-installation-process-in-latest-windows-10-version/"><u>Improved Update Installation Process in Latest Windows 10 Version</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-vpna-to-fake-gps-location-on-lava-yuva-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use VPNa to Fake GPS Location On Lava Yuva 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/internet-laughter-fabricator/"><u>Internet Laughter Fabricator</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/score-big-savings-on-gaming-pcs-with-asus-rog-strix-g15-save-600-today-techreview/"><u>Score Big Savings on Gaming PCs with ASUS ROG Strix G15 - Save $600 Today! | TechReview</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/to-upgrade-or-not-expert-advice-on-choosing-the-iphone-n-top-reasons-by-zdnets-editorial-team/"><u>To Upgrade or Not: Expert Advice on Choosing the iPhone N - Top Reasons by ZDNet's Editorial Team</u></a></li>
+</ul></div>
 

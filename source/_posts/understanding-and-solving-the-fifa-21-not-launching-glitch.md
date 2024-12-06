@@ -1,7 +1,7 @@
 ---
 title: Understanding and Solving the FIFA 21 Not Launching Glitch
-date: 2024-08-28T05:48:42.820Z
-updated: 2024-08-29T05:48:42.820Z
+date: 2024-12-01T18:19:17.101Z
+updated: 2024-12-06T18:22:31.944Z
 tags:
   - win11
   - win10
@@ -47,6 +47,10 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 4. [**Close in-game overlay**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Turn off VSync](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of game files
 
  At some point, 2K21 will crash if you have important game files missing or corrupted. To verify the integrity of your game files, simply follow these steps:
@@ -54,14 +58,16 @@ thumbnail: https://thmb.techidaily.com/ffb0273089dad909d1970227a2adf2a6505fbce5d
 1. Open your Steam client. Navigate to the**LIBRARY** tab. Right-click**NBA 2K21** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles.jpg)
 2. In the pop-up window, navigate to the**LOCAL FILES** tab and select**VERIFY INTEGRITY OF GAME FILES…** . Then wait for the checking to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-verify-gamefiles-02.jpg)
 3. Launch NBA 2K21 and check if it crashes again.
 
  If this method doesn’t give you any luck, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ### Fix 2: Install all Windows updates
 
  Microsoft releases Windows updates from time to time. They usually**tackle stability issues** and sometimes offer a**performance boost** . Also, updating your system could**address software conflicts** , making it a potential fix to your 2K21 crashing issue.
@@ -74,18 +80,15 @@ You can follow these steps to install all Windows updates:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  system updates, repeat these steps until it prompts “You’re up to date” when you click **Check for updates** .
 
 After updating your system, you can open NBA 2K21 and test your gameplay.
 
 If 2K21 crashes again, simply move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of crashing is**a corrupted or outdated graphics driver** . So you should definitely try updating your graphics drivers before testing anything more complicated.
@@ -98,8 +101,17 @@ If 2K21 crashes again, simply move on to the next method.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-rtx-2080-pro-update-all.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -108,8 +120,9 @@ If 2K21 crashes again, simply move on to the next method.
  If this fix doesn’t solve your problem, you can try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Close in-game overlay
 
  Some players reported that 2K21 stopped crashing after they disabled some overlay features. So you can check if you’re using the**overlay** feature in**Steam** ,**Discord** or**NVIDIA GeForce Experience** . If you do, try turning off this feature and see if it fixes the crash.
@@ -121,13 +134,6 @@ For example, you can use these steps to disable Steam overlay:
 2. Select**In-Game** from the left menu. Under the**Steam Overlay** section,**uncheck** these three boxes and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch NBA 2K21 and see if the issue persists.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
  If turning off in-game overlay doesn’t do the trick for you, simply move on to the next method.
 
@@ -138,9 +144,6 @@ No advertising on the website.
 1. First you need to turn off VSync in your **graphics control panel** . To do so, right-click a blank area on desktop, then select**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-control-panel-vsync.jpg)
 2. From the menu on the left, select **Manage 3D settings** . Make sure you’re at the **Global Settings** tab, then click the text to the right of **Vertical sync** and select **off** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/turn-off-vsync-nvidia-control-panel.jpg)
 3. Second, you need to disable VSync in NBA 2K21\. Launch 2K21 and go to FEATURES > VIDEO SETTINGS. Then set**Vertical Sync** to**off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nba-2k21-vsync-off.jpg)
@@ -156,8 +159,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +166,17 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-amplify-your-channels-evading-synthetic-watchers/"><u>[Updated] 2024 Approved Amplify Your Channels Evading Synthetic Watchers</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-the-social-network-savants-secret-for-downloading-chats-for-2024/"><u>[Updated] The Social Network Savant’s Secret for Downloading Chats for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-dominant-alternatives-to-game-bars-recorder-functionality/"><u>2024 Approved Dominant Alternatives to Game Bar's Recorder Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beginners-tutorial-on-crafting-essential-forms-using-microsoft-excel-features/"><u>Beginners' Tutorial on Crafting Essential Forms Using Microsoft Excel Features</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/closer-look-techniques-for-microsoft-teams-for-2024/"><u>Closer Look Techniques for Microsoft Teams for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/customizing-and-applying-data-labels-on-your-ms-excel-chart-a-step-by-step-guide/"><u>Customizing & Applying Data Labels on Your MS Excel Chart - A Step-By-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-xcom-2-game-crashes-in-windows-a-comprehensive-guide/"><u>Fixing the 'XCOM 2' Game Crashes in Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-forgot-pattern-lock-heres-how-you-can-unlock-vivo-y100i-pattern-lock-screen-by-drfone-android/"><u>In 2024, Forgot Pattern Lock? Heres How You Can Unlock Vivo Y100i Pattern Lock Screen</u></a></li>
+<li><a href="https://win-answers.techidaily.com/resolved-the-graphic-error-in-destiny-2-a-comprehensive-walkthrough-for-gamers/"><u>Resolved the Graphic Error in Destiny 2 - A Comprehensive Walkthrough for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003445598-ultimate-fixes-for-stuttering-in-half-life-alyx-boost-your-gaming-pcs-performance-now/"><u>Ultimate Fixes for Stuttering in Half-Life: Alyx - Boost Your Gaming PC's Performance Now!</u></a></li>
+</ul></div>
 

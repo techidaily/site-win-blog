@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Dragon Age: Origins Freezing Problems in Windows 11"
-date: 2024-08-28T05:50:11.610Z
-updated: 2024-08-29T05:50:11.610Z
+date: 2024-12-03T19:26:18.120Z
+updated: 2024-12-06T17:03:04.367Z
 tags:
   - win11
   - win10
@@ -34,8 +34,9 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
  If this fix doesn’t help, don’t worry, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Limit your FPS
 
  The high FPS and extended distance scaling could be the reason for the GTA 5 stuttering issue. To solve it, you could reduce them.
@@ -45,9 +46,6 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 3. Reduce it to the lowest cause the higher it would cost more video memory.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/close.jpg)
 4. Click**Graphics** and find**Refresh Rate** . Keep it around 60Hz or smaller to limit your FPS.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/refresh.jpg)
 5. Relaunch the game to check.
 
@@ -61,17 +59,7 @@ Does**Grand Theft Auto** (**GTA** ) **5 stutter**  whenever you’re in the midd
 4. In the**Compatibility** mode, check the**Disable full-screen optimisations** box.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/full.jpg)
 5. Relaunch the game and check.
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update graphics card driver
 
  The GTA stuttering issue could relate to graphics quality. To improve the game graphics quality, update the graphics card driver is a good option. Because with outdated or wrong drivers, you may encounter the GTA 5 stuttering issue or other problems.
@@ -100,15 +88,25 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it will stutter or not.
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -120,9 +118,11 @@ To do so:
 2. Click **Graphics** and scroll down. Find **VSync** and turn it **OFF** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/off.jpg)  
  If it’s already **OFF** , try turning it**ON** , then restart your game and **turn VSync** **OFF** again.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Restart your PC and GTA 5 again to see if it works.
 
  Hopefully, the above methods can help. If you have any questions, ideas or suggestions, please feel free to leave your comments.
@@ -135,8 +135,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +142,24 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-capture.techidaily.com/new-2024-approved-camerasection-breakdown-analysis/"><u>[New] 2024 Approved CameraSection Breakdown Analysis</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-creating-engaging-youtube-trailers-in-filmora/"><u>[New] 2024 Approved Creating Engaging YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-mastering-audio-transformation-complete-morphvox-techniques-for-2024/"><u>[New] Mastering Audio Transformation Complete MorphVOX Techniques for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-multi-user-android-calls-the-top-8-tools/"><u>[Updated] In 2024, Multi-User Android Calls The Top 8 Tools</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-rising-to-the-top-essential-youtube-video-seo-techniques-for-success/"><u>[Updated] In 2024, Rising to the Top Essential YouTube Video SEO Techniques for Success</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-optimized-expert-tips-to-fix-crashes-and-lag-for-an-uninterrupted-adventure/"><u>Baldur's Gate Optimized! Expert Tips to Fix Crashes and Lag for an Uninterrupted Adventure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-dev-error-6034-in-call-of-duty-modern-warfare-pc-and-xbox-users-manual/"><u>Bypass Dev Error 6034 in Call of Duty: Modern Warfare – PC & Xbox User's Manual</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012974263-century-age-of-ashes-fixed-pc-version-no-more-crashes/"><u>Century: Age of Ashes - Fixed PC Version No More Crashes!</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/enabling-instant-access-to-youtube-videos-in-your-facebook-browsing/"><u>Enabling Instant Access to YouTube Videos in Your Facebook Browsing</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/expert-advice-enhancing-your-graphics-processor-speed-a-guide-by-yl-software/"><u>Expert Advice: Enhancing Your Graphics Processor Speed - A Guide by YL Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-and-move-past-error-code-4201-in-your-genshin-impact-gameplay/"><u>How to Fix and Move Past Error Code 4201 in Your Genshin Impact Gameplay</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/mastering-car-alarm-codes-how-to-locate-and-set-your-radio-password/"><u>Mastering Car Alarm Codes: How to Locate and Set Your Radio Password</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-beyond-adobe-top-4-video-editing-solutions-you-need-to-know-for-2024/"><u>New Beyond Adobe Top 4 Video Editing Solutions You Need to Know for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-users-rejoice-resolved-how-the-new-world-game-continuously-fails-to-load/"><u>PC Users Rejoice: Resolved! How the 'New World' Game Continuously Fails to Load</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-internet-explorer-cant-show-website/"><u>Resolved: Fixes for 'Internet Explorer Can't Show Website'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-gta-5-why-it-keeps-crashing-and-how-to-fix-it/"><u>Troubleshooting GTA 5: Why It Keeps Crashing and How to Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-pc-freezing-fixes-expert-tips-and-tweaks-to-enjoy-smooth-gaming/"><u>Warzone PC Freezing Fixes: Expert Tips and Tweaks to Enjoy Smooth Gaming</u></a></li>
+</ul></div>
 

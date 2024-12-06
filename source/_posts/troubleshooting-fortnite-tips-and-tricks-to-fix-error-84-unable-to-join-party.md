@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Fortnite: Tips and Tricks to Fix 'Error 84, Unable to Join Party'"
-date: 2024-08-28T05:49:36.737Z
-updated: 2024-08-29T05:49:36.737Z
+date: 2024-12-01T17:53:06.549Z
+updated: 2024-12-06T17:00:10.735Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -59,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
@@ -69,20 +70,21 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your network driver
 
  If your network driver is outdated or faulty, it could be responsible for the code leaf server connection issue. You may want to update your network adapter driver to make sure it’s functioning properly.
@@ -98,8 +100,9 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -107,8 +110,9 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -120,9 +124,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -138,8 +139,6 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +146,26 @@ thumbnail: https://thmb.techidaily.com/5d7817aad095517ef8a3802d67c136a4ed2562ac9
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-framing-it-all-a-comprehensive-list-of-best-11-bridge-cams/"><u>[Updated] In 2024, Framing It All A Comprehensive List of Best 11 Bridge Cams</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-jujutsu-kaisen-making-waves-tiktok-edition-for-2024/"><u>[Updated] Jujutsu Kaisen Making Waves TikTok Edition for 2024</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-itel-a05s-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Itel A05s | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-gaming-experience-boost-frame-rates-for-better-performance-in-ring-of-elysium/"><u>Elevate Your Gaming Experience: Boost Frame Rates for Better Performance in Ring of Elysium</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002831139-eliminate-fallout-4-stutters-with-these-pro-solutions/"><u>Eliminate Fallout 4 Stutters with These Pro Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-the-rebirth-of-avatar-navigating-and-solving-pandora-crashes-in-windows-edition/"><u>Experience the Rebirth of Avatar: Navigating and Solving Pandora Crashes in Windows Edition</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/in-2024-comprehensive-overview-of-whatsapp-voice-calls/"><u>In 2024, Comprehensive Overview of WhatsApp Voice Calls</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-looking-for-a-location-changer-on-apple-iphone-13-mini-look-no-further-drfone-by-drfone-virtual-ios/"><u>In 2024, Looking For A Location Changer On Apple iPhone 13 mini? Look No Further | Dr.fone</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-skyrocket-your-channels-with-smart-use-of-youtube-data/"><u>In 2024, Skyrocket Your Channels with Smart Use of YouTube Data</u></a></li>
+<li><a href="https://article-tips.techidaily.com/launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users-for-2024/"><u>Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-gameplay-in-resident-evil-village-solutions-for-mouse-malfunction/"><u>Mastering Gameplay in Resident Evil Village: Solutions for Mouse Malfunction</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-troubleshooting-effective-fixes-for-zooms-missing-video-feature-at-launch/"><u>Mastering Troubleshooting: Effective Fixes for Zoom’s Missing Video Feature at Launch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-update-woes-heres-how-you-can-resolve-out-of-date-drivers-easily/"><u>Minecraft Update Woes? Here's How You Can Resolve Out-of-Date Drivers Easily</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/overcoming-challenges-when-running-the-windows-computer-wellness-app/"><u>Overcoming Challenges When Running the Windows Computer Wellness App</u></a></li>
+<li><a href="https://win-answers.techidaily.com/pc-users-struggle-with-ongoing-technical-difficulties-in-arcadegeddon-game/"><u>PC Users Struggle with Ongoing Technical Difficulties in Arcadegeddon Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackle-the-trouble-proven-fixes-for-continuous-battlfield-2e42-crashes-on-pc/"><u>Tackle the Trouble: Proven Fixes for Continuous BattlField 2E42 Crashes on PC</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-12-no-cost-movie-streaming-sites-you-cant-miss/"><u>Top 12 No-Cost Movie Streaming Sites You Can't Miss</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tf2-overcoming-issues-with-team-fortress-2-launch-failures/"><u>Troubleshooting TF2: Overcoming Issues with Team Fortress 2 Launch Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-correcting-uninitialized-vanguard-errors-within-valorant/"><u>Understanding and Correcting Uninitialized Vanguard Errors Within VALORANT</u></a></li>
+</ul></div>
 

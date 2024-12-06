@@ -1,7 +1,7 @@
 ---
 title: "Essential Techniques to Enhance FPS in the Game of Tainted Grail: Conquest"
-date: 2024-08-28T05:47:03.518Z
-updated: 2024-08-29T05:47:03.518Z
+date: 2024-12-04T16:07:41.123Z
+updated: 2024-12-06T18:06:40.251Z
 tags:
   - win11
   - win10
@@ -54,13 +54,14 @@ To disable Full Screen Optimization, follow these steps:
 3. Navigate to the **Compatibility** tab, and check the box next to **Disable fullscreen optimizations** . Click**OK** to finish.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/fallguys-disable-full-screen.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can open Fall Guys and check if the problem has gone.
 
 If the issue is still there, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The Fall Guys lag issue can be caused by**a faulty or outdated graphics driver** . If you’re not sure whether you’re using the latest graphics driver, you should definitely have a check. Driver updates are basically a zero-cost benefit, so it’s always a smart move to keep your drivers up to date.
@@ -71,9 +72,11 @@ If the issue is still there, take a look at the next fix.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/rtx-2060-de-install.jpg)
 4. Restart your computer for the changes to take full effect.
@@ -84,9 +87,6 @@ If the issue is still there, take a look at the next fix.
 
  If updating the graphics driver doesn’t solve your problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows updates offer bug fixes and sometimes a performance boost, so it might be one potential solution to the lag issue. Besides, it requires only little computer skills.
@@ -96,11 +96,12 @@ Here’re the steps:
 1. On your keyboard, press **the Windows logo key** and **I**  at the same time to invoke **Windows Settings app** . Select **Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . It’ll try to download and install available updates. It might take a while depending on your network speed.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Wait until all the updates are installed. After that, restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can now open Fall Guys and see if the problem remains. If yes, there’re still some fixes for you to try.
 
@@ -115,36 +116,40 @@ Here’re the steps:
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the **Run** dialog. Type **control** and click **OK**  to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-box-dialog-control.jpg)
 2. **View** the Control Panel **by Category** . Select**Hardware and Sound** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-control-panel.jpg)
 3. Click**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-power-options.jpg)
 4. Select**Ultimate Performance** . If you don’t see this option, continue to the following steps to unhide this power plan.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 5. On your keyboard, press the**Windows logo key** and type **cmd** . Select **Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 6. In the pop-up window, type (or copy and paste) the following command and hit**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**go back to step 3** to enable the Ultimate Performance power plan.![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After changing your power plan, you can launch Fall Guys and test the improvement.
 
 If it doesn’t do the trick, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Close unnecessary programs
 
  One possible cause of lag might be the background tasks that are eating your resources secretly. To ensure a smooth and undisturbed gameplay, Fall Guys should be the only large program running on your computer. So before you start the game, make sure you’ve closed Chrome, Skype, Discord and any other programs that might be resource-hungry.
@@ -181,8 +186,6 @@ If it doesn’t do the trick, check out the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +193,23 @@ If it doesn’t do the trick, check out the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-guiding-users-through-sending-video-troubles-on-iphone-and-android-based-messenger-app-for-2024/"><u>[New] Guiding Users Through Sending Video Troubles on iPhone and Android-Based Messenger App for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-in-2024-swipe-right-to-fb-vids-swipe-left-for-mp4s/"><u>[New] In 2024, Swipe Right to FB Vids, Swipe Left for MP4s</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-leading-av-creators-digital-edition-list/"><u>[New] Leading AV Creators Digital Edition List</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-dread-hunger-keeps-crashing-on-pc/"><u>[SOLVED] Dread Hunger Keeps Crashing on PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-push-boundaries-top-windows-10-innovations-in-games-and-apps-for-2024/"><u>[Updated] Push Boundaries Top Windows 10 Innovations in Games and Apps for 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-present-day-vr-tech-diary/"><u>2024 Approved Present-Day VR Tech Diary</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-guide-to-storing-with-adobe-including-what-not-to-miss-elsewhere/"><u>Essential Guide to Storing with Adobe, Including What Not To Miss Elsewhere</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/immerse-in-pixel-worlds-the-best-pc-vr-playback-titles-compared/"><u>Immerse in Pixel Worlds The Best PC VR Playback Titles Compared</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/quick-and-simple-guide-to-downloading-targus-docking-station-drivers-for-free/"><u>Quick and Simple Guide to Downloading Targus Docking Station Drivers for Free</u></a></li>
+<li><a href="https://win-blog.techidaily.com/skyrim-quiet-dilemma-heres-how-to-restore-game-sound/"><u>Skyrim Quiet Dilemma? Here's How to Restore Game Sound</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-game-crash-issues-in-cod-vanguard-top-methods-for-seamless-gaming/"><u>Solve Game-Crash Issues in COD: Vanguard – Top Methods for Seamless Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-repairing-minecraft-error-with-exiting-code-0/"><u>Step-by-Step Guide to Repairing Minecraft Error with Exiting Code 0</u></a></li>
+<li><a href="https://article-posts.techidaily.com/the-essential-skills-editing-blurring-and-background-removal/"><u>The Essential Skills Editing, Blurring, and Background Removal</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-oculus-links-blackout-fast-with-these-easy-solutions/"><u>Troubleshoot Oculus Link’s Blackout Fast with These Easy Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-the-issue-of-witcher-3-wild-hunt-failing-to-start/"><u>Troubleshooting Guide: Resolving the Issue of Witcher 3: Wild Hunt Failing to Start</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-why-cant-i-hear-during-a-discord-video-call/"><u>Troubleshooting Steps: Why Can’t I Hear During a Discord Video Call?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Getting Rid of Persistent Black Screens While Playing Persona 5 Strikers"
-date: 2024-08-28T05:46:05.306Z
-updated: 2024-08-29T05:46:05.306Z
+date: 2024-12-03T18:48:53.702Z
+updated: 2024-12-06T19:01:15.443Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Update graphics card driver
 
  Because the WOW screen flickering issue is related to the graphic card driver directly, updating your graphic driver is a way to fix the issue. You might update your graphic driver through Windows Update, however, **many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.**  So, the outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -46,12 +43,17 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -66,16 +68,19 @@ Restart your computer for the changes to take effect.
 3. Right-click on the Start button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
+
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Check the issue is persist or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 4: Change the screen refresh rate
 
@@ -86,16 +91,15 @@ Restart your computer for the changes to take effect.
 2. Scroll down to find**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Restart your computer and check to see if the problem resolves.
 
 ### Method 5: Use windowed mode
@@ -118,8 +122,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +129,26 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/rief-beatcasts-role-of-the-melody/"><u>[New] Brief Beatcasts Role of the Melody</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-pivotal-moments-top-20-anime-themes/"><u>[Updated] Pivotal Moments Top 20 Anime Themes</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/2024-approved-instant-solutions-to-banish-background-noise-swiftly-from-audio-files/"><u>2024 Approved Instant Solutions to Banish Background Noise Swiftly From Audio Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/cant-locate-your-lost-iphone-on-find-my-learn-why-it-shows-offline-and-how-you-can-still-find-it/"><u>Can't Locate Your Lost iPhone on Find My? Learn Why It Shows 'Offline' And How You Can Still Find It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decoding-the-facts-what-caused-the-delay-of-assassins-creed-valhalla/"><u>Decoding the Facts: What Caused The Delay of Assassin's Creed Valhalla?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-high-latency-issues-ultimate-guide-for-smoother-gameplay-in-back-4-blood/"><u>Fixing High Latency Issues: Ultimate Guide for Smoother Gameplay in Back 4 Blood</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-address-error-code-6-bugs-while-playing-call-of-duty-black-ops-cold-war/"><u>How to Address Error Code 6 Bugs While Playing Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-enable-audio-in-your-discord-screen-sharing-session/"><u>How to Enable Audio in Your Discord Screen Sharing Session</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-roblox-running-again-top-tips-for-overcoming-launch-errors/"><u>How to Get Roblox Running Again: Top Tips for Overcoming Launch Errors</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/iphone-photography-hacks-upside-down-and-sideways-shots-for-2024/"><u>IPhone Photography Hacks Upside-Down & Sideways Shots for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-file-damage-in-video-games-on-computers-modern-fixes-for-2e24/"><u>Overcoming File Damage in Video Games on Computers - Modern Fixes for 2E24</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/reinforcing-windows-photo-viewer-functionality-in-windows-10/"><u>Reinforcing Windows Photo Viewer Functionality in Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-valorants-pc-gameplay-issues-eliminating-input-lag/"><u>Solving Valorant's PC Gameplay Issues: Eliminating Input Lag</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/tackling-spec-challenges-for-intel-gpu-installation/"><u>Tackling Spec Challenges for Intel GPU Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-repair-minecraft-launcher-error-code-0x803f8001-on-windows-1110-systems-effectively/"><u>Troubleshoot and Repair Minecraft Launcher Error Code 0X803f8001 on Windows 11/10 Systems Effectively</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-guide-solving-iphone-mobile-hotspot-issues/"><u>Troubleshooting Guide: Solving iPhone Mobile Hotspot Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-star-wars-battlefront-ii-crashing-problems-in-pc-versions/"><u>Troubleshooting Steps to Resolve 'Star Wars: Battlefront II' Crashing Problems in PC Versions</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/will-natural-language-understanding-upend-se-rankings/"><u>Will Natural Language Understanding Upend SE Rankings?</u></a></li>
+<li><a href="https://win-top.techidaily.com/vybiraem-vyhod-k-pervoj-vitrine-interneta-s-kopengagenskimi-agentstvami-seo-vozvyshenie-brenda-cherez-powersuite/"><u>Выбираем Выход К Первой Витрине Интернета С Копенгагенскими Агентствами SEO: Возвышение Бренда Через PowerSuite</u></a></li>
+</ul></div>
 

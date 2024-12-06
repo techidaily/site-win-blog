@@ -1,7 +1,7 @@
 ---
 title: Ultimate Troubleshooting Guide for Resolving Metro Exodus PC Game Crashes
-date: 2024-08-28T05:47:13.585Z
-updated: 2024-08-29T05:47:13.585Z
+date: 2024-12-02T18:57:46.053Z
+updated: 2024-12-06T18:01:17.158Z
 tags:
   - win11
   - win10
@@ -42,20 +42,26 @@ You can update your video driver either manually or automatically.
 1. Download and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1b9f02530c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1ba333061d.jpg)
 
  Restart your computer after updating your video driver. Then check if Overwatch runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Stop other background programs
 
  Overwatch needs internet when running. If other programs running background on your computer and eats up a lot network usage, that may cause Overwatch to stutter. So **stop any other unnecessary programs especially those are using a lot of network usage and system space** . Once you do, check if OverWatch runs smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Turn off fullscreen optimization
 
@@ -71,6 +77,10 @@ Re-run your Overwatch game and see if it runs smoothly.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mK1lEBRm_1w?si=FSaM0OKO0XBCgjtT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Turn off Game Mode
 
  There’s a feature called**Game Mode** in Windows 10, with Game Mode on, Windows 10 ensures you play your games with the best possible experiences. But sometimes it could cause problems, including the Overwatch stuttering issue. In this case, make sure Game Mode is turned off if you’re playing Overwatch on Windows 10.
@@ -80,16 +90,18 @@ Here’s how to turn off Game Mode:
 1. On your keyboard, hold down**the Windows logo key** , then press**I** to bring up the**Settings** window.
 2. Click**Gaming.** ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
 3. Select**Game Mode** in the left, then set**Use Game Mode** to**Off** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bdd00abb4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Check to see if Overwatch runs smoothly.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn off Game DVR
 
@@ -101,22 +113,8 @@ Here’s how you can turn Game DVR off.
 2. Click**Gaming** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bc6f7ccca.jpg)
 3. Select**Game bar** in the left then toggle off **Record game clips, screenshots, and broadcast using Game bar** .![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1be60bd72d.jpg)
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 4. Select**Game DVR** in the left, then**turn off each option** in this section.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba1bee7c51a7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Re-run your Overwatch game and check to see if it runs smoothly.
 
 ---
@@ -131,8 +129,6 @@ Re-run your Overwatch game and check to see if it runs smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +136,16 @@ Re-run your Overwatch game and check to see if it runs smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/updated-streamlining-your-path-a-comprehensive-guide-to-google-podcasts/"><u>[Updated] Streamlining Your Path A Comprehensive Guide to Google Podcasts</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-leading-vector-image-creators-the-ultimate-10-tool-guide/"><u>2024 Approved Leading Vector Image Creators The Ultimate 10-Tool Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/4-feasible-ways-to-fake-location-on-facebook-for-your-realme-v30t-drfone-by-drfone-virtual-android/"><u>4 Feasible Ways to Fake Location on Facebook For your Realme V30T | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985967142-boost-your-dayz-gameplay-rapid-and-straightforward-fixes-for-reducing-lag/"><u>Boost Your DayZ Gameplay: Rapid & Straightforward Fixes for Reducing Lag</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-fix-android-app-not-installed-error-on-oppo-a1x-5g-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Fix Android App Not Installed Error on Oppo A1x 5G Quickly? | Dr.fone</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-get-the-latest-canon-pixma-tr4520-printer-drivers-on-your-windows-device/"><u>How to Get the Latest Canon PIXMA TR4520 Printer Drivers on Your Windows Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-wsappx-control-effective-methods-for-curtailing-hard-drive-and-processor-intensity/"><u>Mastering WSAPPX Control: Effective Methods for Curtailing Hard Drive and Processor Intensity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-slow-chrome-quick-and-easy-troubleshooting-steps/"><u>Say Goodbye to Slow Chrome: Quick & Easy Troubleshooting Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-blands-borderline-issue-fixing-game-falls-in-line/"><u>Ultimate Guide: Resolving Bland's Borderline Issue - Fixing Game Falls in Line</u></a></li>
+</ul></div>
 

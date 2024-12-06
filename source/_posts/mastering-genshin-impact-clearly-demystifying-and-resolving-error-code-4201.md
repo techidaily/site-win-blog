@@ -1,7 +1,7 @@
 ---
 title: "Mastering Genshin Impact: Clearly Demystifying and Resolving Error Code 4201"
-date: 2024-08-28T05:47:38.046Z
-updated: 2024-08-29T05:47:38.046Z
+date: 2024-12-04T18:58:06.253Z
+updated: 2024-12-06T16:10:21.364Z
 tags:
   - win11
   - win10
@@ -47,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
  If your Internet connection is valid and reliable but you still get Error 4201 on Genshin Impact, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Run the game executable as Admin
 
  Another possible cause of Error 4201 is the game being blocked on your PC. If Genshin Impact is blocked on your PC, it won’t be able to connect to the server. You may need to give administrative permissions to Genshin Impact on your PC, and it’s important to do this to the game executable itself instead of the game shortcut. Here’s how:
@@ -60,8 +61,9 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
 
 ## Fix 3: Check your VPN
@@ -76,6 +78,10 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 
  If disabling or using a VPN doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4: Configure DNS settings
 
  Your ISP’s (Internet Service Provider) default DNS server is not always the best. There are many public DNS servers that are safe and good for gaming. Using the Quad9 DNS may help solve Error 4201 on Genshin Impact, and it already helped many players with this issue, so it’s worth trying. Here’s how:
@@ -85,28 +91,21 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Quad9 DNS server addresses as below, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Preferred DNS server:** **9.9.9.9**  
  Alternate DNS server:**149.112.112.112**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  If configuring DNS settings doesn’t solve your problem, try the last fix.
 
 ## Fix 5: Update your network adapter driver
@@ -122,6 +121,10 @@ thumbnail: https://thmb.techidaily.com/92459487433dd8191ecb6f79f9b025b7d93038fc1
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
@@ -147,8 +150,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +157,23 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-bioshock-2-remastered-crash/"><u>[FIXED] BioShock 2 Remastered Crash</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/n-2024-the-filmmakers-guide-to-selecting-excellent-lenses/"><u>[New] In 2024, The Filmmaker's Guide to Selecting Excellent Lenses</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/uperstars-with-a-subscriber-base-for-2024/"><u>[New] Superstars with a Subscriber Base for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-prime-time-editing-selecting-the-best-software-for-2024/"><u>[Updated] Prime-Time Editing Selecting the Best Software for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-transforming-patience-into-speed-with-apps/"><u>[Updated] Transforming Patience Into Speed with Apps</u></a></li>
+<li><a href="https://win-forum.techidaily.com/efficient-ways-to-defrag-in-windows-11-using-revo-uninstaller-tools/"><u>Efficient Ways to Defrag in Windows 11 Using Revo Uninstaller Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-getting-rid-of-persistent-black-screens-while-playing-persona-5-strikers/"><u>Expert Advice: Getting Rid of Persistent Black Screens While Playing Persona 5 Strikers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-woes-master-swift-troubleshooting-techniques-now/"><u>League of Legends Woes? Master Swift Troubleshooting Techniques Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-tips-and-solutions-to-optimize-madden-nfl-21-performance-on-your-computer/"><u>No More Crashes: Tips and Solutions to Optimize Madden NFL 21 Performance on Your Computer</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/pattern-locks-are-unsafe-secure-your-nubia-red-magic-8s-proplus-phone-now-with-these-tips-by-drfone-android/"><u>Pattern Locks Are Unsafe Secure Your Nubia Red Magic 8S Pro+ Phone Now with These Tips</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/razer-man-o-war-headset-troubleshooting-a-complete-guide-to-restoring-mic-functionality/"><u>Razer Man O' War Headset Troubleshooting: A Complete Guide to Restoring Mic Functionality</u></a></li>
+<li><a href="https://win11.techidaily.com/restoring-functionality-to-faulty-bt-speaker-outputs/"><u>Restoring Functionality to Faulty BT Speaker Outputs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-overcoming-common-problems-with-vrchat-not-working/"><u>Solution Found! Overcoming Common Problems with VRChat Not Working</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-overcoming-common-obs-recording-issues-step-by-step/"><u>Solved! Overcoming Common OBS Recording Issues Step-by-Step</u></a></li>
+<li><a href="https://fox-info.techidaily.com/swift-shadowing-in-1-minute-for-2024/"><u>Swift Shadowing in 1 Minute for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-doom-eternal-solutions-for-game-crashes/"><u>Troubleshooting DOOM Eternal: Solutions for Game Crashes</u></a></li>
+</ul></div>
 

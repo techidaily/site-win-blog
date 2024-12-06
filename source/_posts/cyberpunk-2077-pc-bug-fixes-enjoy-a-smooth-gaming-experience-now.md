@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 PC Bug Fixes - Enjoy a Smooth Gaming Experience Now!
-date: 2024-08-28T05:47:16.128Z
-updated: 2024-08-29T05:47:16.128Z
+date: 2024-12-01T16:25:31.937Z
+updated: 2024-12-06T16:08:53.058Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/ab11097b735383eb1301c6c7953b6d3e90027241d
 Cyberpunk 2077 is finally here! After several hours of gameplay, did you feel your mouse/keyboard/controller wired during the game? If so, your device may encounter an input lag issue.
 
 Don’t worry, here’re fixes may help you solve the issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,13 +58,18 @@ If you’re not using the controller, check the below settings.
 6. Set the**Static FidelityFX CAS** to**ON** and lower the Resolution Scaling.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_15-59-50.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Some users have reported that by disabling all the aim assist options in settings, the issue has been improved a lot.
 
 If this fix doesn’t work, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change the mouse setting
 
  If you’re suffering mouse lagging, and the first fix not work, you can try to change mouse settings.
@@ -69,25 +78,18 @@ If this fix doesn’t work, move to the next one.
 2. Click**Devices** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-46-09.jpg)
 3. Go to the**Mouse** tab, click**Additional mouse options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-00-50.jpg)
 4. Make sure you uncheck the**Enhance pointer precision** . Click**Apply > OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_16-01-18.jpg)
 5. Launch the game and check.
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update the device driver
 
  One reason for input lagging is faulty or outdated drivers. Update your device with the latest driver may help you fix the issue. However, Windows 10 doesn’t always give you the latest version.  
@@ -119,8 +121,9 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
@@ -135,8 +138,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +145,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-seize-your-online-sessions-the-ultimate-browser-recording-tools-list/"><u>[New] 2024 Approved Seize Your Online Sessions The Ultimate Browser Recording Tools List</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-in-2024-quick-tips-making-high-quality-recordings-on-iphone/"><u>[New] In 2024, Quick Tips Making High-Quality Recordings on iPhone</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-elevating-social-media-stardom-with-dji-drones-livestreams/"><u>[Updated] Elevating Social Media Stardom with DJI Drones' Livestreams</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-cost-effective-desktop-capture-the-ultimate-top-10-list/"><u>[Updated] In 2024, Cost-Effective Desktop Capture The Ultimate Top 10 List</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-step-by-step-using-inshot-software-effectively/"><u>[Updated] Step-by-Step Using Inshot Software Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-call-of-duty-warzone-performance-ultimate-guide-to-enhance-fps-and-resolve-stutter/"><u>Boost Your Call of Duty: Warzone Performance - Ultimate Guide to Enhance FPS & Resolve Stutter</u></a></li>
+<li><a href="https://article-files.techidaily.com/enhanced-audio-guide-engaging-interview-topics-for-2024/"><u>Enhanced Audio Guide Engaging Interview Topics for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-oculus-headset-now-with-updated-graphics-drivers/"><u>Fix Your Oculus Headset Now with Updated Graphics Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-fix-error-code-0xc19001e1-in-windows-11-expert-tips-and-solutions/"><u>Guide to Fix 'Error Code 0xC19001E1' In Windows 11: Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003097705-how-to-fix-dev-error-6634-in-warzone-2022-tips/"><u>How to Fix Dev Error 6634 in Warzone – 2022 Tips</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/in-2024-jujutsu-kaisen-characters-in-the-world-of-tiktok-creatives/"><u>In 2024, Jujutsu Kaisen Characters in the World of TikTok Creatives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-modern-warfare-effective-strategies-to-resolve-dev-error-6034-for-both-pc-and-xbox-gamers/"><u>Mastering Modern Warfare: Effective Strategies to Resolve Dev Error 6034 for Both PC & Xbox Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-constant-disruptions-solving-the-dirt-5-breakdown-issue-on-personal-computers/"><u>Overcome Constant Disruptions: Solving The Dirt 5 Breakdown Issue On Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-the-freezing-curse-in-assassins-creed-odyssey-on-your-computer-the-best-fixes-april-2024/"><u>Overcome the Freezing Curse in Assassin's Creed Odyssey on Your Computer: The Best Fixes (April 2024)</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/the-essential-guide-to-the-garmin-venu-tracking-your-fitness-and-health-journey-247/"><u>The Essential Guide to the Garmin Venu: Tracking Your Fitness & Health Journey 24/7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-minecraft-launch-issues/"><u>Troubleshooting Tips: Resolving Minecraft Launch Issues</u></a></li>
+<li><a href="https://some-skills.techidaily.com/ultimate-quick-picture-viewer-on-windows-10-for-2024/"><u>Ultimate Quick Picture Viewer on Windows 10 for 2024</u></a></li>
+</ul></div>
 

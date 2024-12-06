@@ -1,7 +1,7 @@
 ---
 title: Update Issues with Minecraft's Default Launcher? Here's How You Can Solve Them
-date: 2024-08-28T05:48:06.675Z
-updated: 2024-08-29T05:48:06.675Z
+date: 2024-12-02T18:57:41.407Z
+updated: 2024-12-06T16:56:09.789Z
 tags:
   - win11
   - win10
@@ -41,14 +41,24 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 2. In the Search bar, type Minecraft and click**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-01-37.jpg)
 3. Right-click on the Minecraft Launcher and click**Troubleshoot compatibility** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_15-55-11.jpg)
 4. Follow the on-screen instructions to finish the process.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Download the updates from Website
 
  Instead of downloading the updates from the Minecraft Native Launcher, you can also go to Minecraft webpage to download the update files manually.
@@ -59,11 +69,12 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 3. Then download the Minecraft.exe and install it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-30-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Check your antivirus software
 
  One common cause for the crashing issue is your antivirus software blocking some features of the game and causing problems. So go to your antivirus software and unblock the game program to fix it.
@@ -80,22 +91,20 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 2. Type**appwiz.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s4.jpg)
 3. Right-click on **Minecraft** and click **Uninstall** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Press the**Windows logo key + E** to open File Explorer.
 5. Type**%Appdata%** in the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-37-23.jpg)
 6. Find the Minecraft folder and delete it.
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Go to[Minecraft official website](https://www.minecraft.net/en-us/) to download the latest version.
 8. Install and run the program to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Update Windows drivers
 
  It is very important to update your device drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter various issues. So it’s really important to keep your drivers updated to improve your gaming experience.
@@ -124,15 +133,9 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -148,8 +151,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +158,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-clips.techidaily.com/new-2024-approved-mastering-the-art-of-tweeting-video-uploads-on-instagram/"><u>[New] 2024 Approved Mastering the Art of Tweeting Video Uploads on Instagram</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-virtual-realms-at-your-fingertips-the-1-list-of-immersive-vr-streamers-for-pc-for-2024/"><u>[New] Virtual Realms at Your Fingertips The #1 List of Immersive VR Streamers for PC for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-aesir-rebellion-skies-of-valhalla/"><u>[Updated] Aesir Rebellion Skies of Valhalla</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unique-ways-to-document-your-console-games/"><u>[Updated] Unique Ways to Document Your Console Games</u></a></li>
+<li><a href="https://article-tips.techidaily.com/exclusive-list-general-knowledge-quiz-channels-24/"><u>Exclusive List General Knowledge Quiz Channels '24</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-work-focus-using-the-pomodoro-timer-in-windows-11-an-effective-tool-with-minor-shortcomings/"><u>Maximizing Work Focus Using the Pomodoro Timer in Windows 11 - An Effective Tool With Minor Shortcomings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-unveils-experimental-start-menu-and-promotional-content-update-for-windows-11-preview/"><u>Microsoft Unveils Experimental Start Menu & Promotional Content Update for Windows 11 Preview</u></a></li>
+<li><a href="https://win-blog.techidaily.com/new-features-and-enhancements-latest-update-for-notepadplusplus-released/"><u>New Features and Enhancements: Latest Update for Notepad++ Released</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-dpc-timeout-errors-in-windows-11-effective-troubleshooting-techniques/"><u>Overcoming DPC Timeout Errors in Windows 11: Effective Troubleshooting Techniques</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/override-video-freeze-code-cx0d36c4/"><u>Override Video Freeze: Code Cx0d36c4</u></a></li>
+<li><a href="https://article-files.techidaily.com/pinnacle-camera-technology-the-best-reviewed/"><u>Pinnacle Camera Technology – The Best Reviewed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/prepare-your-system-unleash-the-power-of-copilot-plus-computers/"><u>Prepare Your System: Unleash the Power of Copilot Plus Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rediscover-the-past-a-trip-down-memory-lane-with-obscure-classics-like-msn-gamespy-and-more/"><u>Rediscover the Past: A Trip Down Memory Lane with Obscure Classics Like MSN, GameSpy & More</u></a></li>
+<li><a href="https://games-able.techidaily.com/top-10-excellent-gamer-progress-tools/"><u>Top 10 Excellent Gamer Progress Tools</u></a></li>
+</ul></div>
 

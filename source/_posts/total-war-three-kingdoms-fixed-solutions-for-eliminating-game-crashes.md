@@ -1,7 +1,7 @@
 ---
 title: "Total War: Three Kingdoms Fixed – Solutions for Eliminating Game Crashes"
-date: 2024-08-28T05:45:05.599Z
-updated: 2024-08-29T05:45:05.599Z
+date: 2024-12-02T16:54:48.101Z
+updated: 2024-12-06T19:04:38.985Z
 tags:
   - win11
   - win10
@@ -37,13 +37,18 @@ thumbnail: https://thmb.techidaily.com/96b0dc304ed2f0b22e595834a3c54ad2566287334
 
 If Biomutant still crashes, there are more fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2 – Restart your computer and Steam
 
  Sometimes the program glitches like crashes can be resolved by a simple restart. You could**restart your computer and Steam** to see if this helps your case. If not, try the next method.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Verify integrity of game files
 
  When there’s something wrong with Biomutant, it’s necessary to do an integrity check to see if any corrupted or missing game files are causing the crashes. Here are the steps:
@@ -51,16 +56,15 @@ If Biomutant still crashes, there are more fixes below.
 1. Launch the Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. From the game list, right-click**Biomutant** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
-3. Select the**Local Files** tab on the left and click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
+3. Select the**Local Files** tab on the left and click**Verify integrity of game files** .  
+![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
+
  Wait a few minutes for the process to complete and test the game. If the same issue persists, move on to the next solution.
 
 ### Fix 4 – Update your graphics driver
@@ -81,22 +85,17 @@ There are two ways to do this:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you could click**Update** to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/de-6900xt.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  So does the driver update dramatically boost the game performance? If not, check out the next method below.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Disable overlays
 
  According to other players, the Steam overlay is a buggy feature that can trigger Biomutant crashing. Simply disable this option to see how the game works. If you’re using an overlay with any third-party app, make sure to turn them off as well.
@@ -107,6 +106,10 @@ There are two ways to do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. On the **General** tab, untick **Enable Steam overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the setting is configured correctly, restart the game and it should be working fine.
 
@@ -121,8 +124,6 @@ There are two ways to do this:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +131,22 @@ There are two ways to do this:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-elevate-video-quality-webcam-filming-made-simple-for-2024/"><u>[New] Elevate Video Quality Webcam Filming Made Simple for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-top-tricks-for-smooth-auditory-paths-for-2024/"><u>[New] Top Tricks for Smooth Auditory Paths for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-yield-cash-reviewing-gadgets-apparel-and-more-on-the-web/"><u>[Updated] Yield Cash Reviewing Gadgets, Apparel, and More on the Web</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-experts-list-prime-business-sky-saver/"><u>2024 Approved Expert's List Prime Business Sky Saver</u></a></li>
+<li><a href="https://win-blog.techidaily.com/detailed-steps-to-rectify-your-dota-2-vac-ban-expert-advice-and-strategies/"><u>Detailed Steps to Rectify Your Dota 2 VAC Ban – Expert Advice and Strategies</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/enhancing-your-english-mondly-unveiled-strategies/"><u>Enhancing Your English: Mondly Unveiled Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-how-to-ensure-smooth-play-in-starfield-without-any-interruptions/"><u>Expert Advice on How to Ensure Smooth Play in Starfield Without Any Interruptions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005580396-fixing-the-risk-of-rain-t-crashes-solutions-that-work-for-gamers/"><u>Fixing the Risk of Rain T Crashes - Solutions That Work for Gamers</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/how-to-embellish-videos-with-melodies-on-iphone-three-free-ways/"><u>How to Embellish Videos with Melodies on iPhone – Three Free Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-gameplay-quality-by-fixing-low-fps-on-your-computer-system/"><u>Improve Gameplay Quality by Fixing Low FPS on Your Computer System</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-lock-apps-on-realme-gt-5-pro-to-protect-your-individual-information-by-drfone-android/"><u>In 2024, How to Lock Apps on Realme GT 5 Pro to Protect Your Individual Information</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lay-down-newspapers-or-a-drop-cloth-to-protect-your-work-area-from-paint-spills/"><u>Lay Down Newspapers or a Drop Cloth to Protect Your Work Area From Paint Spills.</u></a></li>
+<li><a href="https://fox-web3.techidaily.com/revive-your-dell-the-ultimate-guide-to-mastering-bios-password-recovery/"><u>Revive Your Dell: The Ultimate Guide to Mastering BIOS Password Recovery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/successfully-overcome-your-destiny-2-network-problems-a-comprehensive-guide/"><u>Successfully Overcome Your Destiny ^2 Network Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-naraka-bladesword-delays-and-improving-game-performance/"><u>Troubleshooting Naraka Bladesword Delays and Improving Game Performance</u></a></li>
+</ul></div>
 

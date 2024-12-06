@@ -1,7 +1,7 @@
 ---
 title: "Escape From Tarkov Connectivity Troubles: How to Overcome Server Disconnection Problems"
-date: 2024-08-28T05:45:04.384Z
-updated: 2024-08-29T05:45:04.384Z
+date: 2024-12-02T19:01:00.963Z
+updated: 2024-12-06T18:42:42.524Z
 tags:
   - win11
   - win10
@@ -37,7 +37,15 @@ The server is down in Escape from Tarkov? Many gamers are reporting that they ge
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/unchecked.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Does the ‘Server Connection Lost’ error in Tarkov persist? If the manual server selection doesn’t do the trick, you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2\. Restart your router
 
@@ -59,9 +67,6 @@ The server is down in Escape from Tarkov? Many gamers are reporting that they ge
 
  The difference between a free VPN and a paid one is the ping. Tarkov’s servers are extremely sensitive to any latency or ping fluctuation. So be sure to choose the VPN with the lowest ping.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4\. Disable IPv6
 
  Many players fix this issue by disabling IPv6\. It’s not a guaranteed fix, but still, it’s worth a shot. Here’s how:
@@ -72,20 +77,17 @@ The server is down in Escape from Tarkov? Many gamers are reporting that they ge
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  3) Right-click your active network adapter (**Ethernet** or **Wi-Fi** ) and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Scroll down and uncheck **Internet Protocol Version 6 (TCP/IPv6)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/IPV6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**OK** to save the changes.
 
@@ -105,12 +107,13 @@ You may need to restart your computer for the setting to take effect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update** button next to the flagged network adapter driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
 ![network adapter driver](https://images.drivereasy.com/wp-content/uploads/2021/02/family-controller.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click _Update All_ .)
 
@@ -127,24 +130,26 @@ You may need to restart your computer for the setting to take effect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ncpa.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Right-click your active connection, and select**Status** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/status.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click**Details** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/details.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Note down the**IPv4 Address** and**IPv4 Subnet Mask** . You can write it down or take a screenshot because you will need this later on.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/IPV4-address.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Now go back to the**Network Connection** window, right-click your active connection, and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/properties-2.jpg)
@@ -153,16 +158,10 @@ You may need to restart your computer for the setting to take effect.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ipv-4-change.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  7) Select the**Use the following IP address** option, and then type in the IP address, subnet mask you acquired earlier. Next, type in your preferred and alternate DNS server addresses.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/dns-and-ipv4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
  8) Click**OK** to save the changes.
 
  9) You can verify your new settings by using the `**ipconfig**` command at the command prompt.
@@ -170,8 +169,9 @@ You may need to restart your computer for the setting to take effect.
  Try launching your game and test the issue. But if unfortunately, the Tarkov Server connection lost error persists, you can try the following fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7\. Change from DS-Lite to Dual-Stack
 
  If none of these methods above fix your issue, you can ask your Internet service provider to change from DS Lite to Dual Stack. This has been proved helpful to many players, though it has varying success.
@@ -192,8 +192,6 @@ You may need to restart your computer for the setting to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +199,24 @@ You may need to restart your computer for the setting to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-fundamental-principles-of-powerful-video-product-endorsements-for-2024/"><u>[New] Fundamental Principles of Powerful Video Product Endorsements for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-critical-review-best-bargain-video-call-apps-ios-and-android/"><u>[Updated] 2024 Approved Critical Review Best Bargain Video Call Apps - iOS & Android</u></a></li>
+<li><a href="https://win-blog.techidaily.com/batman-arkham-knight-instant-solutions-for-game-crashes-and-critical-failures/"><u>Batman: Arkham Knight - Instant Solutions for Game Crashes & Critical Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-troubleshooting-tips-downloading-cyberpunk-2077-on-steam-without-a-glitch/"><u>Easy Troubleshooting Tips: Downloading Cyberpunk 2077 on Steam without a Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-ghost-recon-breakpoint-game-crashes-fast-and-easy/"><u>Fix Ghost Recon Breakpoint Game Crashes Fast and Easy</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lost-ark-pc-crashes-effective-solutions-for-a-smooth-gaming-experience/"><u>Lost Ark PC Crashes - Effective Solutions for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/mastering-hdcp-mistakes-a-step-by-step-troubleshooting-manual/"><u>Mastering HDCP Mistakes: A Step-by-Step Troubleshooting Manual</u></a></li>
+<li><a href="https://win-deluxe.techidaily.com/mastering-safe-communication-a-step-by-step-guide-on-protected-email-dispatch-in-gmail-and-outlook/"><u>Mastering Safe Communication: A Step-by-Step Guide on Protected Email Dispatch in Gmail and Outlook</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-social-media-engagement-on-facebook-twitter-instagram-and-youtube/"><u>Mastering Social Media Engagement on Facebook, Twitter, Instagram & Youtube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-frame-drops-and-lags-in-assassins-creed-valhalla-a-guide-for-pc-gamers/"><u>Overcoming Frame Drops & Lags in Assassin's Creed Valhalla - A Guide for PC Gamers</u></a></li>
+<li><a href="https://program-issues.techidaily.com/pc-users-resolving-stability-problems-in-the-updated-yakuza-e3/"><u>PC Users! Resolving Stability Problems in the Updated Yakuza E3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-steps-why-nier-remastered-edition-wont-boot-and-how-to-fix-it/"><u>Solution Steps: Why NieR Remastered Edition Won't Boot and How to Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-the-troublesome-nvidia-geforce-problem-clearing-up-error-code-0x0003/"><u>Tackling the Troublesome NVIDIA Geforce Problem – Clearing Up Error Code 0X0003</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/troubleshooting-steps-resolving-non-opening-applications-on-your-mac/"><u>Troubleshooting Steps: Resolving Non-Opening Applications on Your Mac</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/tutorial-to-change-vivo-y78plus-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>Tutorial to Change Vivo Y78+ IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-access-to-origin-games-again-overcoming-connectivity-troubleshooting-hurdles/"><u>Unlock Access to Origin Games Again - Overcoming Connectivity Troubleshooting Hurdles</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/user-guide-to-navigating-and-benefiting-from-googles-calling-solutions/"><u>User Guide to Navigating and Benefiting From Google's Calling Solutions</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Mastering Discord Performance: Strategies to Curb Elevated CPU Usage"
-date: 2024-08-28T05:51:09.674Z
-updated: 2024-08-29T05:51:09.674Z
+date: 2024-12-04T17:36:08.014Z
+updated: 2024-12-06T19:12:08.368Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-74.png)
 
  If**Metro Exodus crashes** on your computer, don’t worry. There are solutions to fix Metro Exodus crashing issues. Follow the instructions below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Metro Exodus crashing
 
@@ -40,17 +44,15 @@ thumbnail: https://thmb.techidaily.com/46c8cf4fef4d9caceb585d24cb1efd4ab3d96a7a0
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  If the device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the cause for Metro Exodus crashing, try updating your video driver to the latest version.
@@ -97,18 +99,6 @@ If your problem still persists, don’t worry. There is another try.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Switch to DX11 in your game settings
 
  This method works like a charm for many players who have the same crashing issue in Metro Exodus, so it’s worth a try when you’re using DirectX 12 for Metro Exodus.
@@ -138,25 +128,28 @@ To do so, follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-79.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right click on**Metro Exodus** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Save your changes and restart your computer.
 
@@ -186,8 +179,6 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +186,26 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-how-to-elevate-video-closure-vimeos-end-screen-essentials-for-2024/"><u>[New] How to Elevate Video Closure Vimeo's End Screen Essentials for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-2024-approved-enhancing-visuals-tips-for-recording-ppt-effectively/"><u>[Updated] 2024 Approved Enhancing Visuals Tips for Recording PPT Effectively</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-premiere-seminar-title-assembler/"><u>[Updated] Premiere Seminar Title Assembler</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-art-of-subscriber-chatter-best-practices-for-comments/"><u>[Updated] The Art of Subscriber Chatter Best Practices for Comments</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-top-10-youtube-download-apps-best-in-class-compatibility/"><u>2024 Approved Top 10 YouTube Download Apps - Best in Class Compatibility</u></a></li>
+<li><a href="https://games-able.techidaily.com/best-five-text-escapades-online-only/"><u>Best Five Text Escapades Online-Only</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-resolving-issues-with-microsofts-cortana-assistant/"><u>Expert Tips for Resolving Issues with Microsoft's Cortana Assistant</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-resolving-wallpaper-engine-app-crashes-on-windows-1110/"><u>Fixes and Solutions: Resolving Wallpaper Engine App Crashes on Windows 11/10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ghost-recon-breakpoint-no-more-crashes-fast-fix-guide/"><u>Ghost Recon Breakpoint No More Crashes - Fast Fix Guide!</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/guide-to-producing-distinctive-ai-visuals-via-microsofts-copilot-image-generator/"><u>Guide to Producing Distinctive AI Visuals via Microsoft's Copilot Image Generator</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-launch-problems-with-civilization-6-on-windows-10-pcs/"><u>How to Overcome Launch Problems with Civilization 6 on Windows 10 PCs</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-vivo-y17s-by-drfone-android/"><u>In 2024, How to Bypass FRP on Vivo Y17s?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-connectivity-fixes-no-more-disconnects/"><u>League of Legends Connectivity Fixes - No More Disconnects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-lost-arks-frame-rate-drops-a-complete-guide/"><u>Resolving Lost Ark's Frame Rate Drops: A Complete Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-pc-stability-problems-with-starfield-a-comprehensive-guide/"><u>Solving PC Stability Problems with Starfield: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-mystery-of-pc-failures-tackling-gzw-errors/"><u>Solving the Mystery of PC Failures: Tackling GZW Errors</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/step-by-step-tutorial-on-accessing-chatgpt-plugin-options/"><u>Step-by-Step Tutorial on Accessing ChatGPT Plugin Options</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/the-essentials-everyone-needs-to-know-about-youtube-tv-services/"><u>The Essentials Everyone Needs to Know About YouTube TV Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-your-palworld-account-on-eos-a-guide-to-successfully-resolving-6-common-login-problems/"><u>Unlock Your Palworld Account on EOS: A Guide to Successfully Resolving 6 Common Login Problems</u></a></li>
+</ul></div>
 

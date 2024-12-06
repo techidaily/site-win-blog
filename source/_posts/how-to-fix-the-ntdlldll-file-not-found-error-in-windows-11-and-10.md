@@ -1,7 +1,7 @@
 ---
 title: How to Fix the 'ntdll.dll' File Not Found Error in Windows 11 & 10
-date: 2024-08-28T05:46:12.554Z
-updated: 2024-08-29T05:46:12.554Z
+date: 2024-12-04T16:15:43.506Z
+updated: 2024-12-06T18:17:33.711Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 
  If not, eg. saying it’s already up to date, you may have installed the old DS4 Windows. You should uninstall the current DS4 Windows and proceed to the next fix to download the latest version.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reinstall your DS4 Windows
 
  To get the latest version, you can go to[**DS4 Windows New Releases**](https://ryochan7.github.io/ds4windows-site/) and download the app according to your operating system.
@@ -49,14 +46,15 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
  2) Launch**DS4Windows.exe**  in the extracted folder.  
 ![ds4 windows not installing driver](https://images.drivereasy.com/wp-content/uploads/2020/01/ds4-windows.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) You may be prompted to install the **[.NET 5.0 Runtime](https://dotnet.microsoft.com/download/dotnet/5.0/runtime)**  if you haven’t installed it.  
 ![install the net](https://images.drivereasy.com/wp-content/uploads/2020/01/proceed.jpg)
 
  4) Under “**Run desktop apps** “, select**Download X64** .  
 ![desktop](https://images.drivereasy.com/wp-content/uploads/2020/01/desktop-app.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Select**Appdata** when you’re prompted to choose where to save the settings and files, for it will ensure you have full access.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/save.jpg)
@@ -68,28 +66,20 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 ![complete](https://images.drivereasy.com/wp-content/uploads/2020/01/complete.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  8) You can install optional drivers if you want other cool features. Once complete, you can click**Finished** .  
 ![finish ds4 windows driver installation](https://images.drivereasy.com/wp-content/uploads/2020/01/finished.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  9) Go to the**Settings** tab and select**Hide DS4 Controller** .  
  This will prevent your system from recognizing two controllers and causing connection issues.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/Hide-DS4-Controller.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
  You need to reconnect your DS4 controller device. If nothing changes — DS4 Windows driver not installing or DS4 Windows not detecting controller, you should move on to the next fix.
 
 **Note:** The DS4 Windows from<http://ds4windows.com/> has not been updated for a long time. It is the one on **[DS4 Windows New Releases](https://github.com/Ryochan7/DS4Windows/releases)**  that keeps updating from time to time.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Re-enable your controller
 
  DS4 Windows will fail to detect your PS4 if your controller is disabled. To check if this is the culprit, you can go to Device Manager.
@@ -98,14 +88,15 @@ Many of us would like to use a PS4 controller (instead of Xbox) on our Windows P
 
 ![](https://images.drivereasy.com/wp-content/uploads/2015/11/run-devmgmt.msc_.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Expand**Human Interface Devices** and right-click**HID-compliant game controller** , then select**Enable** **device** . (For Bluetooth users, it’s**Bluetooth-HID-device** . )
 
 If it’s already enabled, you can disable and enable it again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/enable.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Disconnect your controller and restart your PC.
 
@@ -119,6 +110,10 @@ If it’s already enabled, you can disable and enable it again.
 
  If re-enabling the controller fails, you can go back to the Device Manager to uninstall the**HID-compliant game controller** . Then close your DS4 Windows and disconnect your controller and connect it again. Afterward, open DS4 Windows, and you will see your controller here again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Uninstall the game controller driver
 
  Still can’t fix your DS4 Windows not detecting your controller problem? It might be other device drivers that are causing your DS4 Windows not to work. You can follow these steps to test the issue:
@@ -128,9 +123,9 @@ If it’s already enabled, you can disable and enable it again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/how-to-open-control-panel.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Go to**Devices and Printers** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/devices.jpg)
@@ -140,11 +135,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/wireless-controller.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Go to the**Hardware** tab, and double-click the**HID-compliant game controller** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/hid-game.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go to the**Driver** tab, and select**Uninstall Device** .
 
@@ -161,8 +161,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/app-uninstall.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Select**View installed updates** on the left panel.
 
  3) Right-click the problematic update and select**Uninstall** .
@@ -187,14 +188,15 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/scan-now-4.png)
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the**Update** button next to your graphics card driver to automatically download the correct version of that driver, and then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will get full support and a**30-day money-back guarantee** . You’ll be prompted to upgrade when you click_Update All._ )
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/update-all-your-drivers-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -212,8 +214,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +221,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-top-15-windows-10-recording-applications-reviewed/"><u>[New] 2024 Approved Top 15 Windows 10 Recording Applications Reviewed</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-a-quick-guide-to-purging-watched-youtube-videos/"><u>[New] In 2024, A Quick Guide to Purging Watched YouTube Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-connection-errors-on-apex-legends-for-seamless-gameplay/"><u>Dealing with Connection Errors on Apex Legends for Seamless Gameplay</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/exposing-windows-11s-data-collection-strategies/"><u>Exposing Windows 11'S Data Collection Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ffxiv-update-troubles-overcoming-the-version-check-hurdle/"><u>FFXIV Update Troubles: Overcoming the Version Check Hurdle</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/from-subpar-to-spectaculous-elevating-proposals-with-gpt-3/"><u>From Subpar to Spectaculous: Elevating Proposals with GPT-3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004712328-game-enhancement-say-goodbye-to-fallout-ebuttings-hello-to-fluid-action/"><u>Game Enhancement: Say Goodbye to Fallout Ebuttings, Hello to Fluid Action</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-understanding-instagrams-reels-vs-stories-format/"><u>In 2024, Understanding Instagram’s Reels vs Stories Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-thaumaturge-gameplay-disruptions-pc-edition-troubleshooting-guide/"><u>Overcoming Thaumaturge Gameplay Disruptions: PC Edition Troubleshooting Guide</u></a></li>
+</ul></div>
 
