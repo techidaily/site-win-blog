@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Booting Microsoft Office Suite (Word, Excel & PowerPoint) Into Safe Mode"
-date: 2024-08-28T05:42:31.847Z
-updated: 2024-08-29T05:42:31.847Z
+date: 2024-12-09T18:39:37.391Z
+updated: 2024-12-12T18:27:25.972Z
 tags:
   - excel
 categories:
@@ -11,6 +11,10 @@ thumbnail: https://thmb.techidaily.com/bd283f525b3e6f9ab0f82e7d532a7dcceb86337b9
 
 ## Step-by-Step Guide: Booting Microsoft Office Suite (Word, Excel & PowerPoint) Into Safe Mode
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [What Is Office Safe Mode?](https://win-blog.techidaily.com/season-8-on-fortnite-explored-investigating-causes-behind-fps-dips-and-optimization-strategies/)
@@ -19,6 +23,10 @@ thumbnail: https://thmb.techidaily.com/bd283f525b3e6f9ab0f82e7d532a7dcceb86337b9
 * [How to Leave Safe Mode](https://extra-hints.techidaily.com/discover-the-finest-no-fee-list-of-excellent-luts/)
 
  Microsoft Office applications have a built-in Safe Mode feature. This helps when you can't use Office normally. Perhaps Word crashes every time you open it, or maybe Excel crashes when you open a single file. You can start the application in Safe Mode and there's a good chance it will work normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is Office Safe Mode?
 
@@ -39,22 +47,15 @@ Related: [How to Use Safe Mode to Fix Your Windows PC (and When You Should)](htt
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/img_59949a1061cff.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll see a message saying "You're holding down the CTRL key. Do you want to start \[Application\] in Safe Mode?".
 
  You can release the Ctrl key when this message box appears. Click "OK" to launch the application in Safe Mode.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/img_59949a68cf4a9.png) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Launch Safe Mode with a Command Argument
 
  You can also launch Office applications in Safe Mode by launching them with the 
@@ -83,8 +84,9 @@ Related: [How to Use Safe Mode to Fix Your Windows PC (and When You Should)](htt
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/img_59949b9f6cbab.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need to open an Office application in Safe Mode regularly, you could make a new desktop shortcut to the Office application and add 
 
         `/safe`
@@ -94,11 +96,9 @@ Related: [How to Use Safe Mode to Fix Your Windows PC (and When You Should)](htt
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/img_59949aff04b59.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  How to Leave Safe Mode
 
  To leave Safe Mode, you will need to close the Office application and launch it normally.
@@ -109,16 +109,11 @@ Related: [How to Use Safe Mode to Fix Your Windows PC (and When You Should)](htt
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/img_59949b758f708.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-format="autorelaxed"
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -127,4 +122,21 @@ Related: [How to Use Safe Mode to Fix Your Windows PC (and When You Should)](htt
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-2024-approved-essential-top-5-iphone-podcast-aggregators/"><u>[New] 2024 Approved Essential Top 5 iPhone Podcast Aggregators</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-googles-ar-stickers-usage-and-options-beyond/"><u>[New] 2024 Approved Google's AR Stickers Usage & Options Beyond</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-interactive-realities-face-off-metaverse-and-omniverse-guide/"><u>[New] Interactive Realities Face-Off Metaverse & Omniverse Guide</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-navigating-youtube-tv-the-ultimate-guide/"><u>[Updated] In 2024, Navigating YouTube TV The Ultimate Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoiding-dota-2s-vac-ban-strategies-and-solutions/"><u>Avoiding Dota 2'S VAC Ban - Strategies and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-gameplay-a-guide-to-overcoming-lag-in-rainbow-six-siege/"><u>Enhancing Gameplay: A Guide to Overcoming Lag in Rainbow Six Siege</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/momentum-with-these-strategies-for-trending-youtubers-for-2024/"><u>Gain Momentum with These Strategies for Trending YouTubers for 2024</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/in-2024-the-ultimate-vllo-experience-on-mac-download-and-alternatives/"><u>In 2024, The Ultimate VLLO Experience on Mac Download and Alternatives</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/in-2024-things-you-should-know-about-youtube-live-thumbnails/"><u>In 2024, Things You Should Know About YouTube Live Thumbnails</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/learn-to-control-illuminated-areas-on-windows-11/"><u>Learn to Control Illuminated Areas on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-in-call-of-duty-black-ops-4-solutions-inside/"><u>Overcoming Launch Problems in Call of Duty Black Ops 4 - Solutions Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-the-stuttering-problem-in-halo-infinite/"><u>Resolved: How to Fix the Stuttering Problem in Halo Infinite</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-lag-in-fortnite-effective-strategies-for-optimal-performance/"><u>Say Goodbye to Lag in Fortnite: Effective Strategies for Optimal Performance</u></a></li>
+<li><a href="https://win11.techidaily.com/windows-protocol-port-assessment-techniques/"><u>Windows Protocol Port Assessment Techniques</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Rediscover the Past: A Trip Down Memory Lane with Obscure Classics Like MSN, GameSpy & More"
-date: 2024-08-28T05:39:33.263Z
-updated: 2024-08-29T05:39:33.263Z
+date: 2024-12-06T16:09:13.185Z
+updated: 2024-12-12T19:04:22.738Z
 tags:
   - windows
 categories:
@@ -47,6 +47,10 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Modern equivalents include Apple’s Messages, Meta’s WhatsApp, and upstarts like Signal and Telegram.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Flash and Shockwave
 
 **You might also remember:** Microsoft Silverlight, Java Web Plugin, 3D Groove
@@ -72,8 +76,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 ![The official Winamp skin museum.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/01/winamp_skins.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **You might also remember:** iTunes, Sonic Stage, Windows CD Player
 
 [Winamp](https://player.winamp.com/trending) was once the _coolest_ way to listen to MP3s of dubious origin. Originally released in 1997, sold to AOL in 1999, and acquired by what is now known as the Llama Group in 2014, Winamp was perhaps best remembered for its immensely customizable interface and wacky skins. Many of these are available for browsing on the [official Winamp skin museum](https://skins.webamp.org/about/).
@@ -83,8 +88,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  Many of the original competitors to Winamp, like [foobar2000](https://www.foobar2000.org), never went away. For Windows users, iTunes is still a necessary evil for accessing Apple Music and local iPhone operations.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  CD-ROM Edutainment: Microsoft Encarta, The Incredible Machine, Carmen Sandiego, and More
 
 **You might also remember:** The Oregon Trail, Math Blaster!, The Magic School Bus, The Way Things Work, Kid Pix, Mavis Beacon Teaches Typing
@@ -95,12 +101,13 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Edutainment was designed to teach and entertain about all manner of topics from biology and physics to practical skills like typing, logic puzzles, and more. One of the best resources to see these games in action is the [LGR YouTube channel](https://www.youtube.com/@LGR), which has a [CD-ROM Edutainment playlist](https://www.youtube.com/playlist?list=PLE6039486A9B854CC) full of titles that will take you back.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## [mIRC](https://www.mirc.com) 
 
 ![The mIRC IRC client running in Windows 11 can replace Discord too](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/08/mirc.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Internet relay chat, or IRC for short, is an internet chat protocol that first appeared in 1988\. It works using a series of servers, on which users chat within channels. It’s not dissimilar to a modern chat solution like Discord (so much so that [we gave it a nod in our Discord alternatives roundup](https://activate-lock.techidaily.com/in-2024-how-to-remove-activation-lock-from-the-apple-iphone-6s-without-previous-owner-by-drfone-ios/)). Unlike Discord, chat history isn’t saved to the server and is not retrievable later.
 
@@ -108,9 +115,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  mIRC is still around, as are many of the IRC servers that made the protocol so popular in the first place.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ##  Dial-Up Software: CompuServe, AOL, and More
 
 **You might also remember:** FreeServe, MSN, Prodigy
@@ -121,9 +125,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
 
  Though dial-up has largely been replaced in the US, [a very small percentage of users still connect to the internet using dial-up](https://screen-mirroring-recording.techidaily.com/updated-kids-car-clubbing-capers-for-2024/).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ##  Defunct Browsers: Internet Explorer, Netscape Navigator
 
 **You might also remember:** Mozilla, Internet Explorer for Mac
@@ -135,8 +136,9 @@ A lot of your favorite old software has been lost to the sands of time, much of 
  By the time Chrome joined the race in 2008, Internet Explorer was falling out of favor. Though Internet Explorer 11 will officially be supported for the best part of a decade yet, the browser has effectively been abandoned in favor of [Chromium-based Microsoft Edge](https://facebook-video-recording.techidaily.com/updated-unlocking-organic-growth-your-afb-playbook/).
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## [eJay](https://www.ejayshop.com) 
 
  A deep cut for some, [eJay](https://www.ejayshop.com) was one of the easiest (and most limiting) ways to make music on a computer in the late 90s and early 2000s. At a time when “proper” [digital audio workstations](https://android-unlock.techidaily.com/the-ultimate-guide-to-oppo-find-x7-ultra-pattern-lock-screen-everything-you-need-to-know-by-drfone-android/) like Fruity Loops and Ableton Live seemed complex with demands for expensive sound cards and powerful computers, eJay let you throw a track together in a matter of minutes.
@@ -165,8 +167,6 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -174,4 +174,16 @@ A lot of your favorite old software has been lost to the sands of time, much of 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-how-to-master-iphone-video-screening/"><u>[New] 2024 Approved How to Master iPhone Video Screening</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-endless-entertainment-loop-youtube-videos-for-continuous-tv-viewing/"><u>[Updated] Endless Entertainment Loop YouTube Videos for Continuous TV Viewing</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-top-bargain-video-snippets-grab-youtube-images-without-cost/"><u>[Updated] In 2024, Top Bargain Video Snippets - Grab YouTube Images Without Cost</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997494550-fixing-launch-problems-with-cyberpunk-2077-success-stories-inside/"><u>Fixing Launch Problems with Cyberpunk 2077 – Success Stories Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/google-chrome-not-responding-expert-tips-on-getting-your-browser-running-smoothly-again/"><u>Google Chrome Not Responding? Expert Tips on Getting Your Browser Running Smoothly Again</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-itel-a60s-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Itel A60s to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steps-when-vanguard-doesnt-initialize-in-valorant/"><u>Resolved: Troubleshooting Steps When Vanguard Doesn't Initialize in Valorant</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/steps-for-resolving-user-not-found-issue-windows-1011/"><u>Steps for Resolving 'User Not Found' Issue: Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-frequent-crashes-in-battlefield-2042-for-windows-users/"><u>Troubleshooting Guide: Resolving Frequent Crashes in Battlefield 2042 for Windows Users</u></a></li>
+</ul></div>
 

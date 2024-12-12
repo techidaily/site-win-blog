@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Merging: Comprehensive Guide to Joining Cells in Microsoft Excel"
-date: 2024-08-28T05:42:21.926Z
-updated: 2024-08-29T05:42:21.926Z
+date: 2024-12-07T19:43:41.325Z
+updated: 2024-12-12T19:12:05.143Z
 tags:
   - excel
 categories:
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/2dd2e24a58c5be887d5c8f88ca29fd663a35485ed
 ="Mahesh"&"Makvana"
 
 ![Enter the values to join.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/2-join-hard-coded-values.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also take values from your cells and join them. To do so, use the following formula. Here, replace `B2` and `C2` with the cell references you want to use.
 
@@ -64,6 +68,10 @@ Related: [Concatenate Using the CONCAT Function in Excel](https://www.howtogeek.
 
 ![Click a cell in the spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/1-excel-select-cell.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you want to specify the values in the function itself, then type the function as follows. Here, replace `Mahesh` and `Makvana` with your own values that you want to join.
 
 =CONCAT("Mahesh","Makvana")
@@ -76,11 +84,19 @@ Related: [Concatenate Using the CONCAT Function in Excel](https://www.howtogeek.
 
 ![Add a space between values in CONCAT.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/7-add-space-concat.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can also use cell references with this function so your values are taken from your chosen cells. Use the function as follows replacing `B2` and `C2` with your cells:
 
 =CONCAT(B2,C2)
 
 ![Concatenate values using cell references.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/8-cell-reference-concat.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To add a space between your joined values, manually add the space between your cell references, as follows:
 
@@ -91,6 +107,10 @@ Related: [Concatenate Using the CONCAT Function in Excel](https://www.howtogeek.
  Excel will [join your referred cells](https://location-social.techidaily.com/in-2024-how-to-sharefake-location-on-whatsapp-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/) and display the result in your selected cell.
 
 ![Merge values with CONCAT in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/10-concatenated-items-excel.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Keep in mind that you'll [lose your text's formatting](https://remote-screen-capture.techidaily.com/new-2024-approved-capture-video-perfection-in-minutes/) when you use it in the `CONCAT` function. To add your text formatting, use the `TEXT` function within the `CONCAT` function.
 
@@ -104,8 +124,6 @@ Related: [Concatenate Using the CONCAT Function in Excel](https://www.howtogeek.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -113,8 +131,19 @@ Related: [Concatenate Using the CONCAT Function in Excel](https://www.howtogeek.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/reative-commons-legalities-explained-simply/"><u>[New] Creative Commons Legalities Explained Simply</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-what-lies-unseen-in-instagram-story-watching/"><u>[New] What Lies Unseen in Instagram Story Watching</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-photoshop-picmaster-guide-and-assessment/"><u>2024 Approved Photoshop PicMaster Guide & Assessment</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-the-layers-of-a-great-humorous-poster/"><u>2024 Approved The Layers of a Great Humorous Poster</u></a></li>
+<li><a href="https://blog-min.techidaily.com/8-ways-to-transfer-photos-from-itel-a60s-to-iphone-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>8 Ways to Transfer Photos from Itel A60s to iPhone Easily | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/accelerating-hevch265-video-compression-tips-to-boost-speed/"><u>Accelerating HEVC/H.265 Video Compression - Tips to Boost Speed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeating-the-crash-bug-assassins-creed-syndicate-stability-hacks-players/"><u>Defeating the Crash Bug: Assassin’s Creed Syndicate Stability Hacks Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-call-of-duty-warzone-pc-game-crashes-with-these-expert-hacks/"><u>Fix Your Call of Duty: Warzone PC Game Crashes with These Expert Hacks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-your-sims-4-visual-malfunctions-with-ease/"><u>How to Resolve Your Sims #4 Visual Malfunctions with Ease</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-bypass-icloud-lock-on-apple-iphone-xs-max-by-drfone-ios/"><u>In 2024, How to Bypass iCloud Lock on Apple iPhone XS Max</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-low-frame-rate-and-gameplay-hiccups-on-naraka-bladepoint/"><u>Troubleshooting Low Frame Rate & Gameplay Hiccups on Naraka: Bladepoint</u></a></li>
+<li><a href="https://discover-able.techidaily.com/tutorial-detaille-pour-configurer-un-serveur-windows-2016-a-laide-dune-machine-virtuelle/"><u>Tutorial Détaillé Pour Configurer Un Serveur Windows 2016 À L'aide D'une Machine Virtuelle</u></a></li>
+</ul></div>
 
-
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->

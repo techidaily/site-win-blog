@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Organization: A Comprehensive Guide to Using Microsoft Excel's Sort Feature"
-date: 2024-08-28T05:41:37.650Z
-updated: 2024-08-29T05:41:37.650Z
+date: 2024-12-09T18:46:44.003Z
+updated: 2024-12-12T19:40:39.847Z
 tags:
   - excel
 categories:
@@ -24,6 +24,10 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
  The benefit of using the SORT function is that you can [sort the data](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/) in a different spot. If you want to manipulate the items without disturbing the original data set, you'll like the sorting function in Excel. However, if you prefer to sort the items in place, you should [use the sort feature](https://win11-tips.techidaily.com/steps-to-resolve-iphone-image-failure-in-windows-os/) instead.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  About the Excel SORT Formula
 
  The syntax for the Excel sort formula is 
@@ -40,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/eba0a5b42c98b9f5083f688e46f3bb9b2578fe7a0
 
  Now, let's look at examples using the SORT function in Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  Use the Excel SORT Function
 
  You can use the SORT function for a range or array in Excel. Again, this does not [sort your items](https://vimeo-videos.techidaily.com/simplify-your-edits-mastering-the-art-of-vimeo-video-snipping-in-5-ways/) in place but in the spot where you enter the formula.
@@ -55,9 +56,6 @@ Related: [How to List and Sort Unique Values and Text in Microsoft Excel](https:
 
 ![SORT function for a single cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/BasicSort-ExcelSortFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To sort a wider range, we'll include the cells B2 through B6 as well:
 
 =SORT(A2:B6)
@@ -67,8 +65,9 @@ Related: [How to List and Sort Unique Values and Text in Microsoft Excel](https:
 ![SORT function for a larger cell range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/BasicSortExpandedRange-ExcelSortFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now we'll sort our range by the second column rather than the first. So, we enter 2 for the `index` argument:
 
 =SORT(A2:B6,2)
@@ -77,18 +76,6 @@ Related: [How to List and Sort Unique Values and Text in Microsoft Excel](https:
 
 ![SORT function using the second column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortColumn2-ExcelSortFunction.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Next, we'll use an example with the `order` argument and sort our array in descending order by including -1:
 
 =SORT(A2:B6,,-1)
@@ -96,6 +83,10 @@ Related: [How to List and Sort Unique Values and Text in Microsoft Excel](https:
  Notice that we leave the `index` argument empty because Excel uses the first row and column by default. As intended, we have Tangerine first and Apple last.
 
 ![SORT function for descending order](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortDescending-ExcelSortFunction.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To sort in descending order by the second column, you'd use this formula:
 
@@ -106,8 +97,9 @@ Related: [How to List and Sort Unique Values and Text in Microsoft Excel](https:
 ![SORT function for descending order in the second column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortColumn2Descending-ExcelSortFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For one final example, we'll include a value for each argument so you can see how they all work together. We'll enter a larger array of A2 through C6, a 3 to sort by the third column, a 1 for ascending order, and False for sorting by row direction.
 
 =SORT(A2:C6,3,1,FALSE)
@@ -117,8 +109,9 @@ Related: [How to List and Sort Unique Values and Text in Microsoft Excel](https:
 ![SORT function formula using all arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortAllArguments-ExcelSortFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  By using the Excel SORT formula, you can get a different view of your data based on the order you want to see your items. This makes it a handy [data analysis tool](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/).
 
  For more, check out how to [sort by color](https://some-skills.techidaily.com/in-2024-unlocking-potential-with-efficient-audio-submission/) or how to [sort by date](https://screen-sharing-recording.techidaily.com/updated-2024-approved-economical-pc-playback-devices/) in Excel.
@@ -135,8 +128,6 @@ Related: [How to List and Sort Unique Values and Text in Microsoft Excel](https:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +135,17 @@ Related: [How to List and Sort Unique Values and Text in Microsoft Excel](https:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-real-time-broadcasts-at-your-fingertips-roku-and-fb-live/"><u>[New] 2024 Approved Real-Time Broadcasts at Your Fingertips Roku and FB Live</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-best-screen-reporter-toolkit-for-youtube-streamers-for-2024/"><u>[Updated] Best Screen Reporter Toolkit for YouTube Streamers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beating-the-blackout-expert-tips-for-league-of-legends-display-fixes-2024-edition/"><u>Beating the Blackout: Expert Tips for League of Legends Display Fixes, 2024 Edition</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/downloading-samfw-frp-tool-30-for-honor-by-drfone-android/"><u>Downloading SamFw FRP Tool 3.0 for Honor</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-reset-achievements-for-steam-games/"><u>How to Reset Achievements for Steam Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-total-war-saga-troy-overcoming-pc-performance-hiccups-and-crashes/"><u>Mastering TOTAL WAR SAGA: TROY - Overcoming PC Performance Hiccups & Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-troubles-conquer-the-black-screen-glitch-with-these-expert-fixes-for-2every-gamer/"><u>Minecraft Troubles? Conquer the Black Screen Glitch with These Expert Fixes for 2eveRy Gamer</u></a></li>
+<li><a href="https://discover-community.techidaily.com/optimal-duration-for-instagram-content-understanding-the-maximum-length-of-ig-videos/"><u>Optimal Duration for Instagram Content: Understanding the Maximum Length of IG Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-for-cyberpunk-2077-how-to-reduce-excessive-cpu-use/"><u>Optimizing Performance for Cyberpunk 2077: How to Reduce Excessive CPU Use</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/cting-youtube-shorts-step-by-step-video-production-tips/"><u>Perfecting YouTube Shorts Step-by-Step Video Production Tips</u></a></li>
+</ul></div>
 

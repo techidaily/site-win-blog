@@ -1,7 +1,7 @@
 ---
 title: "Efficiently Locating and Mastering Necessary Microsoft Excel Formulas: Tips & Tricks for Professionals"
-date: 2024-08-28T05:41:30.072Z
-updated: 2024-08-29T05:41:30.072Z
+date: 2024-12-07T18:31:14.314Z
+updated: 2024-12-12T16:51:21.507Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 ---
 
 ## Efficiently Locating and Mastering Necessary Microsoft Excel Formulas: Tips & Tricks for Professionals
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -28,13 +32,18 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
 ![Click Insert Function next to the Formula Bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormulaBarInsertFunction-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 * Go to the Formulas tab and click "Insert Function" on the left side of the ribbon.
 
 ![Click Insert Function on the Formulas tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormulasInsertFunction-ExcelFindFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Find a Function in Excel
 
  When the Insert Function window opens, you'll see a search option along with a drop-down box. This gives you two easy methods for finding the function you want.
@@ -43,13 +52,18 @@ thumbnail: https://thmb.techidaily.com/0cc5faa4648feed06dc36c6c4e0b5955761ab929b
 
 ![Search for a function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/SearchForFunction-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The drop-down list will also help you quickly find a useful function. Click it, next to the words "Or Select a Category," and pick a category. You'll see common options like Financial, [Logical](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), Text, and more. By selecting a category you'll see all available functions within it.
 
 ![Choose a function category](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionCategories-ExcelFindFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) 
 
  One other category to make note of is Most Recently Used. As the name implies, you'll find those functions you've used lately here. This can be helpful if you used a function say, last week, but can't remember what it was. Check this category and the function might pop out at you.
@@ -64,16 +78,10 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![Quartile function description](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/QuartileFunction-ExcelFindFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If once you narrow down the function choices and view the descriptions, you're still unsure if it's the right function for you, you can [get additional help](https://win11-tips.techidaily.com/understanding-and-fixing-windows-headset-mic-noise/). Select the function in the list and click "Help on This Function" on the lower-left corner of the window.
 
 ![Click Help on This Function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/HelpOnFunction-ExcelFindFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  This takes you to the Microsoft Support website for the function which provides additional information and example uses.
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -82,23 +90,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 | Types                        | [Basic](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) **·** [Budgeting](https://easy-unlock-android.techidaily.com/in-2024-how-to-reset-a-realme-narzo-60-pro-5g-phone-that-is-locked-by-drfone-android/) **·** [Data Entry](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) **·** [Logical](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) **·** [Text](https://video-screen-grab.techidaily.com/updated-the-art-of-smooth-video-transitioning-for-2024/) **·** [Time and Date](https://extra-lessons.techidaily.com/kickstart-your-telegram-promotion-journey-tips-for-newbies/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |  |
 | Explained                    | [Copying Formulas](https://extra-tips.techidaily.com/in-2024-converting-personal-memories-from-stillness-to-motion/) **·** [Evaluating Formulas](https://youtube-blog.techidaily.com/ed-the-role-of-youtube-images-in-video-promotion-and-discovery-for-2024/) **·** [Finding Functions](https://win11.techidaily.com/renaissance-pc-refresh-with-atlasos/) **·** [Fixing Formula Errors](https://extra-lessons.techidaily.com/step-into-premium-sound-quality-garageband-edition/) **·** [Functions vs Formulas](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) **·** [Comparing Lookup Functions](https://tech-revival.techidaily.com/examining-codegpts-capabilities-in-tech-innovation/) **·** [Locking Formulas](https://some-guidance.techidaily.com/in-2024-unveiling-effective-sales-methods/) **·** [Structuring Formulas](https://youtube-docs.techidaily.com/n-2024-automate-playlist-retrieval-from-youtube-directly/) **·** [Translating Formulas](https://extra-tips.techidaily.com/techniques-to-reduce-nausea-while-in-vr/)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |  |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ##  Use a Function You Find
 
  When you locate the function you want to use, be sure you have the cell selected where you want to insert it. Then, either double-click the function in the list or select it and click "OK."
@@ -109,13 +100,14 @@ Key features:
 
 ![Enter the arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionArguments-ExcelFindFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  At the bottom, you'll notice that brief description of the function once more, but you'll also see additional details and the result of the final formula.
 
 ![View the function and formula details](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionArgumentsDetails-ExcelFindFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  Let's look at a simple example. Here, we selected [the SUM function](https://instagram-videos.techidaily.com/updated-steps-to-instagram-verification-and-fan-growth-in-under-150-characters/). In the Function Arguments window, we entered the cell range in the Number1 box. You can see to the right of the box, the values in those cells and you can view the result of the formula in two spots in the window.
 
 ![Enter the arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FunctionArguments-ExcelFindFunction.png) 
@@ -142,9 +134,6 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
 
 ![Formula arguments](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/FormulaAutoCompleteArguments-ExcelFindFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
  Working with [functions and formulas in Excel](https://fox-helps.techidaily.com/new-2024-approved-safety-features-evaluated-in-syma-x8c/) can be a little intimidating if you don't do it often. But with helpful features like these, finding and using the function you need can be a lot easier.
 
 <ins class="adsbygoogle"
@@ -153,8 +142,6 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +149,22 @@ Related: [How to Calculate the Sum of Cells in Excel](https://instagram-videos.t
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-the-timeless-tale-of-roguelike-and-roguelite/"><u>[New] In 2024, The Timeless Tale of Roguelike and Roguelite</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-role-of-rhythm-and-pitch-in-trailer-tunes-for-2024/"><u>[New] The Role of Rhythm and Pitch in Trailer Tunes for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-the-potential-of-luminance-for-hdr/"><u>[New] Unveiling the Potential of Luminance for HDR</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/1728482458272-windows-10/"><u>解決方式： Windows 10 脫隊時無法升級檔案的同步問題</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-bugs-and-lag-improving-your-experience-with-deathloop-on-the-computer/"><u>Battling Bugs and Lag: Improving Your Experience with Deathloop on the Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-chromes-sluggishness-fast-and-simple-solutions/"><u>Fixing Chrome's Sluggishness: Fast and Simple Solutions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009885237-forza-horizon-4-pc-fix-no-more-vehicle-collisions/"><u>Forza Horizon 4 PC Fix - No More Vehicle Collisions</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-track-realme-11-pro-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>How to Track Realme 11 Pro Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-oneplus-ace-2-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Check Distance and Radius on Google Maps For your OnePlus Ace 2 Pro | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/premier-action-cams-for-dynamic-sports-for-2024/"><u>Premier Action Cams for Dynamic Sports for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-and-stable-fps-fluctuations-tackled-in-latest-cyberpunk-2077-update/"><u>Smooth and Stable: FPS Fluctuations Tackled in Latest Cyberpunk 2077 Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-for-baldurs-gate-3-wont-boot-problem/"><u>Solution Found for 'Baldur's Gate 3 Won't Boot' Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-itunes-connection-errors-for-iphones-with-windows-11-a-step-by-step-guide/"><u>Solving iTunes Connection Errors for iPhones with Windows 11 - A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ltimate-guide-to-setting-your-youtube-video-width-and-height/"><u>The Ultimate Guide to Setting Your YouTube Video Width and Height</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/toms-tech-insights-in-depth-computer-and-gadget-reviews/"><u>Tom's Tech Insights: In-Depth Computer & Gadget Reviews</u></a></li>
+</ul></div>
 

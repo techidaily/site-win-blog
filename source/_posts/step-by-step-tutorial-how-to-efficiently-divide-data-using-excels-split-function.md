@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: How to Efficiently Divide Data Using Excel's Split Function"
-date: 2024-08-28T05:42:40.138Z
-updated: 2024-08-29T05:42:40.138Z
+date: 2024-12-11T18:00:10.732Z
+updated: 2024-12-12T16:45:00.867Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ---
 
 ## Step-by-Step Tutorial: How to Efficiently Divide Data Using Excel's Split Function
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,6 +40,10 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 ![Click the C2 cell and manually enter the first value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/2-type-first-value.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9wiIVztRIqQ?si=GBgdwQ78k5hbeFDv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click the C2 cell so it's selected. Then, in [Excel's ribbon at the top](https://screen-mirror.techidaily.com/in-2024-how-to-mirror-honor-play-40c-to-mac-drfone-by-drfone-android/), click the "Data" tab.
 
 ![Click the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/3-excel-data-tab.png) 
@@ -45,22 +53,17 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 ![Select "Flash Fill" in the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/4-excel-flash-fill.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  And instantly, Excel will split the names from all the B column records and add those to the C column.
 
 ![The result of Flash Fill for the first value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/5-automatic-first-value-extraction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  To split the obtained marks, click the D2 cell and manually type the marks for the B2 cell. In this case, it will be "80."
 
 ![Click the D2 cell and manually enter the second value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/6-type-second-value.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click the B2 cell so it's selected. Then, in Excel's ribbon, click the "Data" tab. Select the "Flash Fill" option and all your marks will be split and be available in the D column.
 
 ![The result of Flash Fill for the second value.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/7-flash-fill-second-value.png) 
@@ -69,10 +72,6 @@ thumbnail: https://thmb.techidaily.com/30461ded64430f275adab068e1aa1246b69e0b370
 
 Related: [How to Use Excel's Split Screen Function](https://video-screen-grab.techidaily.com/updated-2024-approved-perfecting-sims-4-live-action-for-videographers/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Split Cells in Excel With Text to Columns
 
  Another way to split cells in Excel is to [use the Text to Columns feature](https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-14-pro-for-parents-drfone-by-drfone-virtual-ios/). In this feature, you specify what separates your values in your cells, and the feature then uses that separator to split the contents of your cells.
@@ -89,14 +88,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![Click the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/9-data-tab-excel.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the "Data" tab, from the "Data Tools" section, select the "Text to Columns" option.
 
 ![Click "Text to Columns" in the "Data" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/10-text-to-columns.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Excel will open a "Text to Columns Wizard" window. Here, choose the "Delimited" option and then click "Next" at the bottom.
 
 ![Select "Delimited" and click "Next" on the "Text to Columns Wizard" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/11-delimited-excel.png) 
@@ -107,23 +110,18 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![Specify the separator for values on the "Text to Columns Wizard" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/12-select-delimiters.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the following screen, click the "Destination" field and clear its contents. In the same field, click the up-arrow icon. You will choose where you want to save the split data.
 
 ![Clear the "Destination" field's value and click the up-arrow icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/13-clear-destination.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
  On your spreadsheet, click the C2 cell to store the split data in that cell. Then click the down-arrow icon.
 
 ![Click the C2 cell and then click the down-arrow icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/14-select-destination.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Back on the "Text to Columns Wizard" window, at the bottom, click "Finish."
 
 ![Click "Finish" on the "Text to Columns Wizard" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/15-finish-text-to-column.png) 
@@ -133,8 +131,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![Single cell data split into multiple cells in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/16-text-to-column-result.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When you've got all your data organized how you want it, you may want get insights on it using [Excel's built-in Data Analyzer tool](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/).
 
 Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-information.techidaily.com/symphonic-streams-exclusive-sites-for-downloadable-tones/)
@@ -145,8 +144,6 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +151,22 @@ Related: [How to Use the Analyze Data Feature in Microsoft Excel](https://extra-
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-essential-skills-for-high-quality-screen-recordings-using-nvidia/"><u>[New] 2024 Approved Essential Skills for High-Quality Screen Recordings Using NVIDIA</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-effective-techniques-for-screen-display-on-google-meet-for-2024/"><u>[New] Effective Techniques for Screen Display on Google Meet for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-chortlecraft-funny-visuals-for-social-engagement/"><u>[New] In 2024, ChortleCraft Funny Visuals for Social Engagement</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-2024-approved-e-lecture-documentation/"><u>[Updated] 2024 Approved E-Lecture Documentation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefield-2042-pc-game-crash-fix-a-comprehensive-guide-to-enhancing-performance-and-stability/"><u>Battlefield 2042 PC Game Crash Fix - A Comprehensive Guide to Enhancing Performance and Stability</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-when-your-google-chrome-browser-keeps-crashing-at-startup/"><u>Effective Fixes for When Your Google Chrome Browser Keeps Crashing at Startup</u></a></li>
+<li><a href="https://fox-sys.techidaily.com/effective-strategies-for-protecting-your-active-directory-with-windows-server-backup/"><u>Effective Strategies for Protecting Your Active Directory with Windows Server Backup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-gaming-experience-dead-space-remake-launch-issues-resolved-updated-guide/"><u>Fix Your Gaming Experience: Dead Space Remake Launch Issues Resolved (Updated Guide )</u></a></li>
+<li><a href="https://extra-information.techidaily.com/frosty-flourishes-at-the-winter-games/"><u>Frosty Flourishes at the Winter Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-fallout-3-launch-issues-comprehensive-guide/"><u>How to Fix Fallout ^3 Launch Issues - Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-your-fight-against-the-titan-quarter-in-elden-ring-with-6-quick-tweaks-for-better-performance/"><u>Improve Your Fight Against the Titan Quarter in Elden Ring with 6 Quick Tweaks for Better Performance</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-itel-a60-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Itel A60 without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-lag-and-glitches-in-modern-warfare-3-pc-optimization-techniques/"><u>Overcome Lag and Glitches in Modern Warfare 3 - PC Optimization Techniques</u></a></li>
+<li><a href="https://win-able.techidaily.com/prevent-and-resolve-fifa-22-pc-instability-issues-now/"><u>Prevent and Resolve FIFA 22 PC Instability Issues Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revive-your-twitch-viewing-experience-effective-solutions-to-load-failures-on-the-platform/"><u>Revive Your Twitch Viewing Experience: Effective Solutions to Load Failures on the Platform</u></a></li>
+</ul></div>
 

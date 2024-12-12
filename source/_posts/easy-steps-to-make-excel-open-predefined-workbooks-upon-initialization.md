@@ -1,7 +1,7 @@
 ---
 title: Easy Steps to Make Excel Open Predefined Workbooks Upon Initialization
-date: 2024-08-28T05:42:03.833Z
-updated: 2024-08-29T05:42:03.833Z
+date: 2024-12-10T16:01:01.321Z
+updated: 2024-12-12T17:56:57.571Z
 tags:
   - excel
 categories:
@@ -26,6 +26,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
 
 ![01_clicking_file_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/01_clicking_file_tab.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the backstage screen, click “Options” in the list of items on the left.
 
 ![02_clicking_options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/02_clicking_options.png) 
@@ -34,9 +38,17 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
 
 ![03_clicking_trust_center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/03_clicking_trust_center.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the “Microsoft Excel Trust Center” section, click “Trust Center Settings”.
 
 ![04_clicking_trust_center_settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/04_clicking_trust_center_settings.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  On the “Trust Center” dialog box, click “Trusted Locations” in the list of items on the left.
 
@@ -65,24 +77,23 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
 ![10_file_pasted](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/10_file_pasted.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Option Two: Use Your Own Folder
 
  If you would rather Excel scan a different folder to open files at start--say, a folder you created in your Documents--you can do so. Access the “Excel Options” dialog box as described earlier in this article and click “Advanced” in the list of items on the left.
 
 ![11_clicking_advanced](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/11_clicking_advanced.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Scroll down to the “General” section, and enter the full path to the folder you want to use in the “At startup, open all files in” edit box. Click “OK” to accept the change and close the “Excel Options” dialog box.
 
 ![12_at_startup_open_all_files_in](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/02/12_at_startup_open_all_files_in.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now, when you start Excel, any files you placed in the XLSTART folder and the alternate folder you defined are opened automatically, even when you double-click on another Excel file to open the program. The files in the XLSTART and the alternate folders will open first, and then the file you double-clicked.
 
  If you don’t want to open the files in these folders automatically anymore, simply move the files out of these folders. For example, you may want to replace your time sheet file with a current one at the beginning of each pay period so you always have access to your current time sheet.
@@ -93,8 +104,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -102,4 +111,26 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-five-tips-for-writing-dialogue-and-narrative-scripts-for-2024/"><u>[New] Five Tips for Writing Dialogue and Narrative Scripts for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-free-game-themes-and-melodies-10-best-websites/"><u>[New] Free Game Themes & Melodies – 10 Best Websites</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-maximize-your-media-influence-with-10-effortless-steps/"><u>[New] In 2024, Maximize Your Media Influence with 10 Effortless Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-age-of-empires-4-not-launching/"><u>[SOLVED] Age of Empires 4 Not Launching</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/approved-rapidly-evolving-yt-spaces-enhancing-cerebral-growth/"><u>2024 Approved Rapidly Evolving YT Spaces Enhancing Cerebral Growth</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/bridging-language-barriers-adding-subtitles-to-windows-media-player-for-2024/"><u>Bridging Language Barriers Adding Subtitles to Windows Media Player for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/code-vein-stutter-fix-tips-for-a-smoother-gaming-experience/"><u>Code Vein Stutter Fix: Tips for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-solutions-to-stop-horizon-zero-dawn-witchlight-from-crashing-on-your-pc/"><u>Complete Solutions to Stop Horizon Zero Dawn Witchlight From Crashing on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001555810-cracking-the-code-on-ue4s-back-4-blood-gobi-fatality-fix-your-game-now/"><u>Cracking the Code on UE4's Back 4 Blood 'Gobi' Fatality - Fix Your Game Now</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/cyber-conundrum-explore-4-cutting-edge-online-puzzle-adventures/"><u>Cyber Conundrum: Explore 4 Cutting-Edge Online Puzzle Adventures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/exploring-the-causes-behind-arcadegeddons-persistent-malfunction-on-pc-setups/"><u>Exploring the Causes Behind Arcadegeddon's Persistent Malfunction on PC Setups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/god-of-war-memory-crunch-solving-the-not-enough-ram-dilemma/"><u>God of War Memory Crunch: Solving the Not-Enough-RAM Dilemma</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-get-back-lost-photos-from-vivo-y100i-by-fonelab-android-recover-photos/"><u>How to get back lost photos from Vivo Y100i.</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-to-come-up-with-the-best-pokemon-team-on-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Come up With the Best Pokemon Team On Apple iPhone 6s? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-thaumaturge-crash-glitch-expert-advice-for-smooth-gaming-sessions/"><u>Overcoming the Thaumaturge Crash Glitch: Expert Advice for Smooth Gaming Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010936012-pathfinder-wrath-of-the-righteous-fixed-pc-freeze-issues-and-more/"><u>Pathfinder: Wrath of the Righteous - Fixed PC Freeze Issues and More!</u></a></li>
+<li><a href="https://howto.techidaily.com/quick-fixes-for-why-is-my-oneplus-11r-black-and-white-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Quick Fixes for Why Is My OnePlus 11R Black and White | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-elevate-your-war-thunder-fps-with-expert-tips-for-the-2evolution-of-gaming/"><u>Step-by-Step Guide: Elevate Your War Thunder FPS with Expert Tips for the 2Evolution of Gaming</u></a></li>
+<li><a href="https://discover-great.techidaily.com/1728493506217-windows-112/"><u>Windows 11向けフォルダ同期のための2コツ!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Steps for Transferring Charts From Excel with Copy-Paste Function
-date: 2024-08-28T05:43:06.630Z
-updated: 2024-08-29T05:43:06.630Z
+date: 2024-12-06T16:40:10.503Z
+updated: 2024-12-12T17:38:07.889Z
 tags:
   - excel
 categories:
@@ -31,13 +31,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Select Copy](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/Copy-ExcelCopyPasteChart.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  All of these copy actions place the chart on [your clipboard](https://change-location.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-vivo-y27-4g-drfone-by-drfone-virtual-android/). It's then ready for you to paste where needed.
 
 Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Paste a Chart in an Office Application
 
 Related: [How to Link or Embed an Excel Worksheet in a Word Document](https://extra-approaches.techidaily.com/new-reviewing-the-unseen-facebooks-privacy-and-security-guide/) 
@@ -54,20 +55,19 @@ Related: [How to Link or Embed an Excel Worksheet in a Word Document](https://ex
 ![Paste Special button options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/PasteButtonOptions-ExcelCopyPasteChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using the second method, you can choose the Paste Special option before pasting the chart. Right-click the spot in the application where you want the chart. You should see your choices below Paste Options in the shortcut menu.
 
 ![Paste Options in the shortcut menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/PasteOptionsShortcut-ExcelCopyPasteChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Paste Special Options
 
  Here are the different paste special options you can pick from and what they mean.
@@ -83,11 +83,16 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 ![Home tab in Word, Paste, Paste Special](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/HomePasteSpecialWord-ExcelCopyPasteChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Choose the option you want in the Paste Special box that appears and click "OK."
 
 ![Paste Special for objects and images](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/PasteSpecialObjectImage-ExcelCopyPasteChart.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Paste a Chart in Another Type of Application
 
@@ -99,9 +104,6 @@ Related: [How to Link or Embed an Excel Worksheet in a PowerPoint Presentation](
 
 ![Paste an Excel chart in Slack](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/PasteSlack-ExcelCopyPasteChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
  Depending on where you'd like to paste your chart, you can also consider [saving it as an image](https://fake-location.techidaily.com/how-can-i-use-a-fake-gps-without-mock-location-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/) in Excel instead. That way you can use it wherever you like and reuse the image if needed.
 
 <ins class="adsbygoogle"
@@ -110,8 +112,6 @@ Related: [How to Link or Embed an Excel Worksheet in a PowerPoint Presentation](
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +119,22 @@ Related: [How to Link or Embed an Excel Worksheet in a PowerPoint Presentation](
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-mastering-webinar-recording-techniques/"><u>[New] 2024 Approved Mastering Webinar Recording Techniques</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-virtual-arena-transcript/"><u>[New] Virtual Arena Transcript</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-youtube-listening-made-easy-with-direct-recording-for-2024/"><u>[Updated] YouTube Listening Made Easy with Direct Recording for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-quick-clip-cinema-scenario/"><u>2024 Approved Quick Clip Cinema Scenario</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-maplestory-bugs-in-windows-11-new-tips-and-tricks-2023/"><u>Beat MapleStory Bugs in Windows 11 (New Tips & Tricks, 2023)</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/comment-nettoyer-son-historique-dantivirus-sur-windows-11-and-windows-navigateur-10-une-liste-des-5-meilleurs-solutions/"><u>Comment Nettoyer Son Historique D'Antivirus Sur Windows 11 & Windows Navigateur 10: Une Liste Des 5 Meilleurs Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improving-gameplay-frame-rates-mastering-tainted-grail-conquest/"><u>Improving Gameplay Frame Rates: Mastering Tainted Grail: Conquest</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-graphics-card-software-for-asus-z170-board-compatible-with-windows-1087-download-here/"><u>Latest Graphics Card Software for ASUS Z170 Board Compatible with Windows 10/8/7: Download Here</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013876450-logitech-gaming-software-wont-opensolved/"><u>Logitech Gaming Software Won't Open[Solved]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/persistent-problems-with-remnant-from-the-ashes-game-keeps-crashing-down/"><u>Persistent Problems with 'Remnant: From the Ashes': Game Keeps Crashing Down</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/priority-picks-high-rated-graphics-cards-for-seamless-playback-for-2024/"><u>Priority Picks High-Rated Graphics Cards for Seamless Playback for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rest-avoid-activities-that-may-aggrave-the-injury-or-cause-further-damage-to-the-affected-area-allowing-the-body-time-to-rest-promotes-proper-healing/"><u>Rest: Avoid Activities that May Aggrave the Injury or Cause Further Damage to the Affected Area. Allowing the Body Time to Rest Promotes Proper Healing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-problem-how-to-get-monster-hunter-stories-2-wings-of-ruin-up-and-running-on-your-device/"><u>Solving the Problem: How to Get Monster Hunter Stories 2: Wings of Ruin Up and Running on Your Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-error-fix-conquering-code-130-with-these-easy-troubleshooting-tips/"><u>Steam Error Fix: Conquering Code 130 With These Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-2024-approved-editing-videos-in-mavericks-tips-tricks-and-techniques/"><u>Updated 2024 Approved Editing Videos in Mavericks Tips, Tricks, and Techniques</u></a></li>
+</ul></div>
 

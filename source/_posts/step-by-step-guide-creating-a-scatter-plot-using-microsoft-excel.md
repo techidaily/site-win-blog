@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Creating a Scatter Plot Using Microsoft Excel"
-date: 2024-08-28T05:42:34.243Z
-updated: 2024-08-29T05:42:34.243Z
+date: 2024-12-09T17:45:12.576Z
+updated: 2024-12-12T16:24:57.006Z
 tags:
   - excel
 categories:
@@ -11,10 +11,18 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ## Step-by-Step Guide: Creating a Scatter Plot Using Microsoft Excel
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Quick Links
 
 * [Create a Scatter Plot](https://some-skills.techidaily.com/2024-approved-transforming-patient-reach-top-fb-med-ad-tactics/)
 * [Format Your Scatter Plot](https://win-blog.techidaily.com/1722988859700-no-charge-fixes-for-call-of-duty-black-ops-cold-war-beating-the-chilling-glitch/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Key Takeaways
 
@@ -22,15 +30,16 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
  A scatter plot, sometimes referred to as a scatter chart or XY chart, compares the relationship between two different data sets. This makes it easier to visualize two sets of values in your [Excel spreadsheet](https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-a54-5g-by-drfone-android/). Here's how it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Create a Scatter Plot
 
  To create a scatter plot, [open your Excel spreadsheet](https://ai-vdieo-software.techidaily.com/updated-beyond-quik-exploring-the-best-pc-video-editing-software-for-gopro-users/) that contains the two data sets, and then highlight the data you want to add to the scatter plot.
 
 ![Highlighted plot data.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Highlighted-plot-data..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once highlighted, go to the "Insert" tab and then click the "Insert Scatter (X, Y) or Bubble Chart" in the "Charts" group. A drop-down menu will appear. Here, select the scatter plot style you'd like to use.
 
 ![Select a scatter plot.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/Select-a-scatter-plot..png) 
@@ -39,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/207578e24a0a184b7539ba9edecf41bf44046bb66
 
 ![A scatter plot in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/05/A-scatter-plot-in-Excel..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
  The data from our Value 1 column appears on the x-axis, and Value 2 on the y-axis.
 
 Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techidaily.com/top-techniques-for-enhancing-photo-quality-on-your-ios-device/) 
@@ -56,30 +62,26 @@ Related: [How to Make a Graph in Microsoft Excel](https://technical-tips.techida
 
 ![Change the chart style.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Change-the-chart-style..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
  Once selected, the change will happen automatically.
 
 ![The chart after changing the design.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/The-chart-after-changing-the-design..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Format tab, you can change the fill, outline, and effects of the chart. For example, you can apply a glow effect around the graph. To do so, click "Shape Effects" in the Shape Styles group.
 
 ![Click shape effects.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Click-shape-effects..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Hover your cursor over "Glow" and then select an option from the Glow Variations group in the sub-menu. We'll select the third orange option in this example.
 
 ![Apply a glow effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/Apply-a-glow-effect..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The effect will be applied once selected.
 
 ![A chart with the glow effect.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/09/A-chart-with-the-glow-effect..png) 
@@ -94,8 +96,6 @@ Related: [How to Create a Chart Template in Microsoft Excel](https://bypass-frp.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +103,24 @@ Related: [How to Create a Chart Template in Microsoft Excel](https://bypass-frp.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-business-breakthroughs-on-youtube-the-simplest-channel-launches-ranked/"><u>[Updated] 2024 Approved Business Breakthroughs on YouTube The Simplest Channel Launches Ranked</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-the-blueprint-for-winning-campaigns-snapchat-edition-for-2024/"><u>[Updated] The Blueprint for Winning Campaigns Snapchat Edition for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/4-ways-to-fix-android-blue-screen-of-death-on-xiaomi-redmi-note-12t-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Ways to Fix Android Blue Screen of Death On Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anno-1800-troubleshooting-guide-overcoming-directx-issues/"><u>Anno 1800 Troubleshooting Guide - Overcoming DirectX Issues</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/disabling-apex-legends-cross-play-best-platform-tactics-unveiled-for-2024/"><u>Disabling Apex Legends Cross-Play Best Platform Tactics Unveiled for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-to-prevent-your-modern-warfare-3-game-from-keeping-onoff-on-windows/"><u>Easy Fixes to Prevent Your Modern Warfare 3 Game From Keeping On/Off on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-ways-to-fix-gensh-impact-not-starting-up-right-now/"><u>Effortless Ways to Fix Gensh Impact Not Starting Up Right Now</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/enhance-obs-transcoding-troubleshooting-guide/"><u>Enhance OBS Transcoding Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enjoy-a-trouble-free-avatar-journey-in-the-world-of-pandora-for-desktop-users/"><u>Enjoy a Trouble-Free Avatar Journey in the World of Pandora for Desktop Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-implemented-resolving-fps-dips-and-frame-rate-stutters-in-pc-version-of-battlefield-2042/"><u>Fixes Implemented: Resolving FPS Dips & Frame Rate Stutters in PC Version of Battlefield 2042</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-game-crashes-in-jurasseic-world-evolution-expert-solutions-and-tips/"><u>Fixing Game-Crashes in Jurasseic World Evolution: Expert Solutions & Tips</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-ways-to-trade-pokemon-go-from-far-away-on-realme-10t-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Ways to trade pokemon go from far away On Realme 10T 5G? | Dr.fone</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-google-maps-app-on-ios-devices-user-experience-and-features/"><u>In-Depth Analysis: Google Maps App on iOS Devices - User Experience & Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-solution-to-unstuck-yourself-from-far-cry-ergy-screen-deadlock/"><u>Mastering the Solution to Unstuck Yourself From Far Cry Ergy Screen Deadlock</u></a></li>
+<li><a href="https://win-answers.techidaily.com/solving-the-issue-stabilizing-minecraft-dungeons-gameplay-on-your-pc/"><u>Solving the Issue: Stabilizing Minecraft Dungeons Gameplay on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-tips-for-a-smooth-halo-3-experience-without-any-more-pc-malfunctions/"><u>Top Tips for a Smooth Halo 3 Experience Without Any More PC Malfunctions</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/wsl-not-essential-your-guide/"><u>WSL: Not Essential - Your Guide</u></a></li>
+</ul></div>
 

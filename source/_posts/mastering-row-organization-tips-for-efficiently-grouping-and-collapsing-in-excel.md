@@ -1,7 +1,7 @@
 ---
 title: "Mastering Row Organization: Tips for Efficiently Grouping & Collapsing in Excel"
-date: 2024-08-28T05:41:41.218Z
-updated: 2024-08-29T05:41:41.218Z
+date: 2024-12-05T17:34:46.735Z
+updated: 2024-12-12T17:36:10.729Z
 tags:
   - excel
 categories:
@@ -24,40 +24,48 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
  Viewing only the data you want to see can be tedious when you're working with a large spreadsheet. Luckily, Excel offers various tools you can use to simplify your data. For example, you can easily group rows in Excel and then collapse or expand your data as needed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Group Rows in Excel
 
  To [group by rows](https://mondly-stories.techidaily.com/grasping-the-basics-of-spanish-verb-conjugation/) in Excel, start by selecting the adjacent rows you want to use. You can do this by dragging your cursor through the row headers or by selecting the first row, holding Shift, and then selecting the last row in the range.
 
 ![Rows selected in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SelectRows-ExcelGroupRows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  Go to the Data tab and select the Outline drop-down arrow. Pick "Group" in the menu.
 
 ![Group in the Outline menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/GroupRows-ExcelGroupRows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  You'll then see your selected rows grouped together, ready to be collapsed and expanded when you need them to be.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Collapse a Grouped Row
 
  Note the buttons on the left side of your grouped rows. You'll use these buttons to collapse and expand your group.
 
 ![Grouped rows in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/GroupedRows-ExcelGroupRows.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To collapse the group, click the minus (-) sign or button 1\. To expand the group again, click the plus (+) sign or button 2.
 
 ![Grouped rows in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/GroupedRows-ExcelGroupRows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use Subgroups, Additional Groups, and Subtotals
 
  You can create more than one group in a sheet. You can also create subgroups or use the subtotal feature to both group and [add calculations](https://article-tips.techidaily.com/2024-approved-deciphering-the-world-of-augmented-reality-stickers-googles-role/).
@@ -72,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
 ![Expanded and collapsed group and subgroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/ExpandCollapseSubgroup-ExcelGroupRows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To create another group in the sheet, follow the same steps as earlier.
 
 ![Two groups of rows in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/TwoGroups-ExcelGroupRows-1.png) 
@@ -93,9 +98,6 @@ thumbnail: https://thmb.techidaily.com/72d87bf38b3f988e318217c000305d7e3da283a04
 
 ![Subtotals in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/Subtotal-ExcelGroupRows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Ungroup Rows in Excel
 
  If you want to remove the grouping you've created, you can do so for both groups and subgroups.
@@ -111,17 +113,15 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
 ![Grouped rows in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/GroupedRows-ExcelGroupRows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also use the Ungroup option to remove only certain rows from a group. For example, if you have rows 2 through 10 in a group but want to remove rows 8 through 10, you can do so.
 
  Select the rows you want to remove from the group. Then, select Outline > Ungroup on the Data tab.
 
 ![Rows selected to ungroup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupCertainRows-ExcelGroupRows.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Those rows are then removed from the group while the rest of the rows remain in it.
 
 ![Ungrouped certain rows in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/UngroupedCertainRows-ExcelGroupRows.png) 
@@ -131,13 +131,9 @@ Related: [How to Add and Remove Columns and Rows in Microsoft Excel](https://art
 ![Collapsed remaining rows in a group](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/CollapsedRemainingGroup-ExcelGroupRows.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you want to group rows in Excel for easier viewing, try the grouping feature in your spreadsheet.
 
  For more, check out how to [insert multiple rows](https://some-tips.techidaily.com/in-2024-stream-side-stacking-pewdiepies-payday-portion/) or how to [move rows in Excel](https://screen-activity-recording.techidaily.com/updated-2024-approved-synchronizing-teams-mastering-device-agnostic-zoom-events/).
@@ -150,8 +146,6 @@ Related: [How to Create an Automatic Outline in Microsoft Excel](https://youtube
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -159,4 +153,18 @@ Related: [How to Create an Automatic Outline in Microsoft Excel](https://youtube
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevating-roi-by-mastering-the-craft-of-fb-animated-advertising/"><u>[Updated] 2024 Approved Elevating ROI by Mastering the Craft of FB Animated Advertising</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-top-gamers-choice-best-4k-monitors/"><u>2024 Approved Top Gamer's Choice Best 4K Monitors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-persistent-loads-swift-fixes-for-far-cry-5s-startup-issues/"><u>Bypassing Persistent Loads: Swift Fixes for Far Cry 5'S Startup Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracked-the-code-how-to-get-the-ascent-app-up-and-running-smoothly/"><u>Cracked the Code! How to Get 'The Ascent' App Up and Running Smoothly</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/enhancing-your-gopros-energy-duration/"><u>Enhancing Your GoPro's Energy Duration</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-poco-x5-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Poco X5 Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-launch-issues-in-pathfinder-wrath-of-the-righteous-top-tips-and-tricks/"><u>Solving Launch Issues in Pathfinder: Wrath of the Righteous – Top Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-destiny-2-beyond-light-pc-crash-dilemma-step-by-step-solutions/"><u>Solving the Destiny 2 Beyond Light PC Crash Dilemma - Step by Step Solutions</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-editors-lifeline-essential-responses-to-filmora-queries/"><u>The Editor's Lifeline Essential Responses to Filmora Queries</u></a></li>
+<li><a href="https://app-tips.techidaily.com/the-future-is-digital-how-non-cash-transactions-are-set-to-soar-to-1nt-led-by-asian-markets-zdnet-insights/"><u>The Future Is Digital: How Non-Cash Transactions Are Set to Soar to $1.nT, Led by Asian Markets | ZDNET Insights</u></a></li>
+<li><a href="https://ai-video-translation.techidaily.com/updated-in-2024-an-exhaustive-list-of-lip-sync-apps-for-vibrant-video-creation/"><u>Updated In 2024, An Exhaustive List of Lip Sync Apps for Vibrant Video Creation</u></a></li>
+</ul></div>
 

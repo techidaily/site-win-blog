@@ -1,7 +1,7 @@
 ---
 title: Effortless Techniques for Choosing Multiple Cells at Once in Excel Spreadsheets
-date: 2024-08-28T05:42:07.383Z
-updated: 2024-08-29T05:42:07.383Z
+date: 2024-12-11T19:00:19.313Z
+updated: 2024-12-12T17:02:57.387Z
 tags:
   - excel
 categories:
@@ -31,15 +31,16 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b1127eeaa321.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Drag your pointer over all the cells you want in the selection, and then release your mouse button.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b1128b9f05f6.png) 
 
  You should now have a group of cells selected.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ##  Select a Large Range of Cells With the Shift Key
 
  Sometimes, clicking and dragging isn't convenient because the range of cells you want to select extends off your screen. You can select a range of cells using your Shift key, much the same way you'd select a group of files in a file folder.
@@ -48,6 +49,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112ddeb27af.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Scroll your sheet until you find the last cell in the range you want to select. Hold down your Shift key, and then click that cell.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112e1ed76ca.png) 
@@ -55,6 +60,14 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
  All the cells in the range are now selected.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112e638aefd.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Select (or Deselect) Independent Cells Outside a Range With the Ctrl Key
 
@@ -68,16 +81,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2018-06-05-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also use your Ctrl key to deselect an already selected cell---even from a selection range. In the image below, we deselected several cells from a range of cells we'd already selected just by holding down the Ctrl key while clicking the cells.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2018-06-05-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ##  Select a Range of Cells Using the Name Box
 
  If you know the exact range of cells you want to select, using the name box is a useful way to make the selection without any clicking or dragging.
@@ -94,18 +101,18 @@ First Cell:LastCell
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b1126f0d6153.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Hit Enter (or Return on Mac), and the cells you input are selected.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112742688f0.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
+
 ##  Select an Entire Row of Cells
 
  You may need to select an entire row of cells at one time---perhaps to apply formatting a header row. It's easy to do this.
@@ -125,15 +132,13 @@ The powerful video editing program for your Windows PC</a>
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112b02af9b4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Continuing to hold down your mouse button, drag your cursor across all the rows you want to select. Or, if you prefer, you can hold down your Shift key and click the bottom-most row you want to select. Either way, you'll select a range of rows.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112b4a94e0b.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To select noncontiguous rows, click the row number of a row you want to select.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112b02af9b4.png) 
@@ -147,11 +152,13 @@ The powerful video editing program for your Windows PC</a>
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/2018-06-05-4.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Select One or More Entire Columns of Cells
 
  Sometimes, you may want to select an entire column of cells. It's easy to do this, too. In fact, it works exactly like selecting rows.
@@ -160,9 +167,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2018/06/img_5b112c46049f2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also select multiple columns by clicking and dragging or by using the Shift key, just like with rows. The Ctrl key also works for selecting noncontiguous columns or for deselecting columns from a selected range.
 
 <ins class="adsbygoogle"
@@ -171,8 +175,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +182,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-ideal-iphone-and-android-gopro-apps-cutting-edge-edits-for-2024/"><u>[Updated] Ideal iPhone & Android GoPro Apps Cutting-Edge Edits for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-revolutionizing-video-sharing-alternatives-to-youtube-for-2024/"><u>[Updated] Revolutionizing Video Sharing Alternatives to YouTube for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/conversational-edge-elevating-chatgpt-with-the-top-10-enhancements/"><u>Conversational Edge: Elevating ChatGPT with the Top 10 Enhancements</u></a></li>
+<li><a href="https://win-blog.techidaily.com/death-stranding-pc-version-fixed-solved-issues-and-updates/"><u>Death Stranding PC Version Fixed: Solved Issues and Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/deathloop-stuttering-problem-solved-for-pc-gamers-a-comprehensive-guide/"><u>Deathloop Stuttering Problem Solved for PC Gamers - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dragon-age-origins-not-running-smoothly-on-windows-11-heres-how-to-fix-it/"><u>Dragon Age: Origins Not Running Smoothly on Windows 11? Here's How to Fix It!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-address-and-fix-the-notorious-minecraft-exit-code-0-problem/"><u>Expert Advice: Address and Fix the Notorious Minecraft Exit Code 0 Problem</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-xiaomi-redmi-13c-5g-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Xiaomi Redmi 13C 5G</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-preparation-to-beat-giovani-in-pokemon-go-for-nubia-red-magic-9-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Preparation to Beat Giovani in Pokemon Go For Nubia Red Magic 9 Pro | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-f15-5g-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy F15 5G Screen | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/install-up-to-date-drivers-for-brother-hl-l2360dw-beginner-guide/"><u>Install Up-to-Date Drivers for Brother HL-L2360DW - Beginner Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-initialization-errors-in-the-latest-counter-strike-game-version/"><u>Overcoming Initialization Errors in the Latest Counter-Strike Game Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixed-overcoming-pc-game-crashes-in-call-of-duty-black-ops-cold-war-2024/"><u>Resolved: [FIXED] Overcoming PC Game Crashes in Call of Duty: Black Ops Cold War - 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/rhythmic-reworks-for-enhanced-imovie-experience-for-2024/"><u>Rhythmic Reworks for Enhanced iMovie Experience for 2024</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/step-up-to-championship-level-in-console-gaming-with-the-superior-asus-vg245h-monitor/"><u>Step Up to Championship Level in Console Gaming with the Superior Asus VG245H Monitor</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-enhancing-performance-overcoming-frame-rate-drops-in-farming-simulator-22-pc/"><u>Troubleshooting and Enhancing Performance: Overcoming Frame Rate Drops in Farming Simulator 22 (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-persistent-pc-crashes-in-total-war-warhammer-iii/"><u>Troubleshooting Persistent PC Crashes in Total War: Warhammer III</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-battled-field-4-wont-boot-up-error/"><u>Troubleshooting Steps for Battled Field 4 Won't Boot Up Error</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/vegaspros-new-era-reviewed-2019-for-2024/"><u>VegasPro's New Era Reviewed (2019) for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Keep Your Desktop Window in Sight: Top 5 Methods for Ensuring Applications Stay On Top of Others on PC"
-date: 2024-08-28T05:39:22.004Z
-updated: 2024-08-29T05:39:22.004Z
+date: 2024-12-11T19:18:28.510Z
+updated: 2024-12-12T17:29:47.811Z
 tags:
   - windows
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b4457
 ---
 
 ## Keep Your Desktop Window in Sight: Top 5 Methods for Ensuring Applications Stay On Top of Others on PC
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b4457
 
  Microsoft offers an official tool to keep any window always-on-top of other windows on Windows 10 or Windows 11\. We can also recommend some awesome third-party tools for making any window always on top—and many applications have a hidden option for this.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  The Official Way: Microsoft PowerToys
 
  We recommend Microsoft PowerToys for keeping a window always on top. Microsoft PowerToys is a free, open-source package full of powerful Windows utilities developed by Microsoft. The Always-on-Top PowerToy provides an easy, convenient, official way of making any window always on top, and it works on both Windows 10 and Windows 11.
@@ -37,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b4457
 
 ![A window made always on top with PowerToys on Windows 11.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2017/08/always-on-top-notepad-window.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can customize this behavior by launching the PowerToys Settings window. To do so, launch "PowerToys" from the Windows Start menu or click the PowerToys icon in your taskbar's notification area and click the gear-shaped Settings icon.
 
  Select "Always on Top" in the sidebar. If the keyboard shortcut didn't work, ensure the "Always on Top" PowerToy is enabled at the top here. You can use the options here to change the keyboard shortcut, control whether a colored border appears around the window and customize that border, choose whether the sound plays, and configure windows that will never be made always on top.
@@ -60,13 +58,18 @@ thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b4457
 
 ![Select 'New,' then select 'AutoHotKey Script.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/2-7.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Give the new script file whatever name you want, click then click "Edit." When prompted, open the script in Notepad. 
 
 ![Name your script, then click 'Edit.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/3-7.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the Notepad window, paste the following line of code at the bottom. You can then save and close the script.
 
         `^space::  
@@ -92,32 +95,26 @@ thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b4457
 
 ![Note the pin icon on the taskbar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-3.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  When you have a window you want to pin to be always on top, click that system tray icon. Your pointer turns into a pin, and you can then click any window to pin it so that it's always on top. Pinned windows actually have a red pin added to the title bar, so that you can tell easily which windows are pinned and which are not.
 
 ![The pin icon visible on the titlebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/6-5.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To remove a pin from a window, move your mouse over the pin. Your pointer will show a small "X" on it to let you know you're about to remove the pin. And if you want to remove pins from all windows you've pinned at once, right-click the system tray icon, and then choose the "Remove All Pins" option.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## ![Right-click the icon on the Taskbar, then select 'Remove All Pins.'](https://static0.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/7-3.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Without Installing Anything Extra: Built-in App Options
 
  Many apps have built-in options so that you can set their windows to become always on top. You often find these options in media players, system utilities, and other tools that you might want to see all the time. Programs that accept plug-ins may also have an always-on-top plugin you can install.
@@ -128,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b4457
 
 ![Enable the 'Always on top' checkbox in the Settings tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/task-manager-always-on-top.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here's how to enable the built-in always-on-top option in some other popular programs:
 
 * **VLC**: Click Video > Always on top.
@@ -146,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b4457
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +147,26 @@ thumbnail: https://thmb.techidaily.com/dd0fbdf5cb36119cb6841081ccc0579ed7b5b4457
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-extensive-appraisal-hero4-black-capabilities/"><u>[New] In 2024, Extensive Appraisal Hero4 Black Capabilities</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mirth-in-monotony-the-top-20-fb-detention-reprieve-humor-for-2024/"><u>[New] Mirth in Monotony The Top 20 Fb Detention Reprieve Humor for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-expert-picks-top-9-video-chat-and-conference-apps-iosandroid-for-2024/"><u>[Updated] Expert Picks Top 9 Video Chat & Conference Apps iOS/Android for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-fashion-meets-makeup-brilliance-for-2024/"><u>[Updated] Fashion Meets Makeup Brilliance for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-frontline-contenders-top-7-action-fps-games-for-2024/"><u>[Updated] Frontline Contenders Top 7 Action FPS Games for 2024</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/2024-approved-searching-for-free-sports-streaming-sites-look-no-further/"><u>2024 Approved Searching for Free Sports Streaming Sites? Look No Further</u></a></li>
+<li><a href="https://win-blog.techidaily.com/alien-fireteam-elite-on-pc-now-stable-after-fixing-frequent-failures/"><u>Alien: Fireteam Elite on PC Now Stable After Fixing Frequent Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/education-and-support/"><u>Education and Support</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-developer-bug-5573-in-call-of-duty-vanguard-gameplay/"><u>How to Overcome Developer Bug 5573 in Call of Duty: Vanguard Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-modern-warfare-2-from-crashing-on-your-computer-a-comprehensive-guide/"><u>How to Stop 'Modern Warfare 2' From Crashing on Your Computer: A Comprehensive Guide</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-arcadegeddon-on-pc-how-to-prevent-unwanted-game-shutdowns/"><u>Mastering Arcadegeddon on PC: How to Prevent Unwanted Game Shutdowns</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-the-ultimate-guide-to-slow-motion-video-editing-with-windows-live-movie-maker/"><u>New The Ultimate Guide to Slow Motion Video Editing with Windows Live Movie Maker</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/professional-picture-taking-within-microsoft-teams/"><u>Professional Picture Taking Within Microsoft Teams</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-stop-serious-sam-4-from-freezing-and-hiccuping-during-playtime/"><u>Resolved! How to Stop Serious Sam 4 From Freezing and Hiccuping During Playtime</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/secrets-unveiled-stealthily-protect-your-chatgpt-dialogues-from-prying-eyes/"><u>Secrets Unveiled: Stealthily Protect Your ChatGPT Dialogues From Prying Eyes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/start-by-incorporating-more-plant-based-meals-into-your-week-and-see-how-you-feel-with-these-changes/"><u>Start by Incorporating More Plant-Based Meals Into Your Week and See How You Feel with These Changes.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-overcoming-the-black-screen-problem-with-epic-games-launcher/"><u>Troubleshooting Guide: Overcoming the 'Black Screen' Problem with Epic Games Launcher</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-start-last-epoch-successfully-on-your-pc-latest-solutions/"><u>Troubleshooting Steps to Start 'Last Epoch' Successfully on Your PC - Latest Solutions</u></a></li>
+</ul></div>
 

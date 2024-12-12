@@ -1,7 +1,7 @@
 ---
 title: 1. Top 5 Features Excel Users Hope to Enhance
-date: 2024-08-28T05:41:57.889Z
-updated: 2024-08-29T05:41:57.889Z
+date: 2024-12-10T16:16:18.587Z
+updated: 2024-12-12T18:40:37.840Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## 1. Top 5 Features Excel Users Hope to Enhance
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -27,11 +31,19 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
 ![Excel project dashboard on a laptop.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/05/excel-project-dashboard-on-a-laptop.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Lucas Gouveia / How-To Geek | [selinofoto](https://www.shutterstock.com/image-photo/excel-project-dashboard-on-laptop-computer-1157884030) / Shutterstock
 
  AI enthusiasts might argue that Copilot for Excel is the way forward to maximizing the program's use. However, that doesn't help someone who is [applying for a job that requires Excel expertise](https://youtube-stream.techidaily.com/2024-approved-the-key-to-online-success-mastering-backlink-construction/), and in today's technological age, we should be especially [careful not to let AI replace our fundamental computer skills](https://android-pokemon-go.techidaily.com/in-2024-how-to-get-the-dragon-scale-and-evolution-enabled-pokemon-on-xiaomi-13t-drfone-by-drfone-virtual-android/). As it stands, however, people might see this as an easier route than learning how to use Excel from scratch.
 
  While it's great to know you can rely on [How-to Geeks' articles](https://activate-lock.techidaily.com/how-to-remove-icloud-on-iphone-12-smoothly-by-drfone-ios/) to help you wade through the treacherous waters of Excel's complex menus, tools, and formulas, you shouldn't _have_ to. As it stands, Excel is a program for specialists, and adopting a simpler ribbon and offering a more intuitive experience (closer to Google Sheets' user interface) would go some way to improving its accessibility.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Excel's Desktop App Should Be Free (or Cheaper)
 
@@ -41,10 +53,6 @@ Lucas Gouveia / How-To Geek | [selinofoto](https://www.shutterstock.com/image-ph
 
 ![Dollar sign built out of yellow LEGO bricks.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/a40e8d94.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-made-by-brick-743325682)_
 
  Moreover, Microsoft no longer supports one-time purchases. So, while you'll still get security updates, you won't get any new features, and once you've set it up on your computer, Microsoft won't help you with any other issues you have.
@@ -53,9 +61,6 @@ _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-m
 
  Since Microsoft's primary competitor, Google, offers users the best version of its spreadsheet software for free, it would seem right for Microsoft to strive to do the same. On the other hand, if Microsoft can't offer it for free, there should be better options available for those who want to use only Excel, such as subscription plans for individual programs.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Excel Shouldn't Break Your Computer
 
  Excel is notorious for the vast memory it consumes on your computer, especially if you're trying to work on a spreadsheet with complex formatting or operations. If you're on a lower-spec device, you can forget about creating an all-singing-all-dancing spreadsheet without causing your system to slow or crash. While my [tips to speed up your spreadsheet](https://apple-account.techidaily.com/in-2024-apple-id-locked-for-security-reasons-from-apple-iphone-6-plus-find-the-best-solution-here-by-drfone-ios/) might help, adding advanced tools, such as macros or add-ins, can cause frustrating issues with the program's performance.
@@ -63,15 +68,13 @@ _[Lewis Tse / Shutterstock.com](https://www.shutterstock.com/image-photo/money-m
 ![Man looking at laptop screen with frustrated expression.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/frustrated-man-laptop.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 _[fizkes / Shutterstock.com](https://www.shutterstock.com/image-photo/frustrated-black-male-student-work-laptop-1463228459)_
 
  Many people who use Excel don't necessarily need to use all of its advanced features, so a slimline version of the program for quick and easy spreadsheet work would address its well-known complexity and performance issues. Those of us who do want to use Excel to its full capacity should be able to do so without worrying about it crashing our devices.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ##  Excel Should Spot Human Errors
 
  Yes, Excel will sometimes flag formula inconsistencies (for example, if you have a column of formulas and one cell contains a formula that is different from the others), but one single typo in a formula could destroy a whole spreadsheet's functionality. Excel is too sensitive to errors without offering too much of a solution to overcome such sensitivity.
@@ -80,9 +83,6 @@ _[fizkes / Shutterstock.com](https://www.shutterstock.com/image-photo/frustrated
 
 ![Copilot and Cortana logos with an alert icon.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/07/copilot-and-cortana-logos-with-an-alert-icon.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 Lucas Gouveia / How-To Geek
 
  I'm sure some big corporations would agree.
@@ -95,6 +95,10 @@ Lucas Gouveia / How-To Geek
 
  After all, it _is_ possible. My bank alerts me if a regular payment is lower or higher than usual, so Excel should be able to spot abnormal data in a spreadsheet.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 ##  Replace Merge Cells With Center Across Selection
@@ -103,18 +107,6 @@ Lucas Gouveia / How-To Geek
 
 ![An Excel spreadsheet with an error message reading 'You can't do that to a merged cell.'](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/06/merge-error-2.png) 
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Instead, it's better to use the [Center Across Selection](https://android-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-from-your-motorola-moto-g73-5g-by-drfone-android/) tool, which results in the cells being merged but the cells' structures being retained.
 
  Since I discovered this alternative and better way to present my data in Excel, I've not once used the program's Merge And Center tool, and I would bet that others would be of the same view. So, instead of having the Merge And Center icon in the Home tab on the ribbon, Excel should have the Center Across Selection option as a default tool, not least because this supports the spreadsheet's long-term structural integrity more than the Merge And Center option does.
@@ -129,8 +121,6 @@ Lucas Gouveia / How-To Geek
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +128,22 @@ Lucas Gouveia / How-To Geek
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/updated-gag-generator-for-the-web/"><u>[Updated] Gag Generator for the Web</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-deleted-and-found-again-streaming-yts-forgotten-videos/"><u>[Updated] In 2024, Deleted and Found Again Streaming YT’s Forgotten Videos</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-how-to-get-the-most-out-of-your-streamlabs-obs-setup/"><u>2024 Approved How to Get the Most Out of Your Streamlabs OBS Setup</u></a></li>
+<li><a href="https://games-able.techidaily.com/bringing-the-joy-ios-compatible-nintendo-games/"><u>Bringing the Joy: IOS Compatible Nintendo Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-free-gaming-your-guide-to-a-smoother-diablo-3-experience/"><u>Crash-Free Gaming: Your Guide to a Smoother Diablo 3 Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dying-light-game-crashes-solved-enhancing-your-frame-rate-experience/"><u>Dying Light Game Crashes Solved: Enhancing Your Frame Rate Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-the-critical-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war/"><u>Expert Tips to Resolve the Critical Error Code 0Xc0000005 in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-honor-70-lite-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Honor 70 Lite 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://printer-issues.techidaily.com/overcoming-inkjet-breakdowns-quickly/"><u>Overcoming Inkjet Breakdowns Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rainbow-six-extraction-compatibility-woes-heres-how-to-fix-common-driverhardware-errors/"><u>Rainbow Six Extraction Compatibility Woes? Here’s How to Fix Common Driver/Hardware Errors</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/reset-itunes-backup-password-of-apple-iphone-7-plus-prevention-and-solution-by-drfone-ios/"><u>Reset iTunes Backup Password Of Apple iPhone 7 Plus Prevention & Solution</u></a></li>
+<li><a href="https://location-social.techidaily.com/simple-and-effective-ways-to-change-your-country-on-youtube-app-of-your-xiaomi-redmi-k70-pro-drfone-by-drfone-virtual-android/"><u>Simple and Effective Ways to Change Your Country on YouTube App Of your Xiaomi Redmi K70 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-for-addressing-performance-errors-in-three-kingdoms-strategy-game/"><u>Tips for Addressing Performance Errors in Three Kingdoms Strategy Game</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/tivo-television-sets-set-to-hit-american-markets-in-upcoming-spring-season/"><u>TiVO Television Sets Set to Hit American Markets in Upcoming Spring Season</u></a></li>
+<li><a href="https://win-blog.techidaily.com/yakuza-3-remastered-essential-fixes-and-tweaks-to-eliminate-game-crashing-on-windows-pc/"><u>Yakuza 3 Remastered: Essential Fixes and Tweaks to Eliminate Game Crashing on Windows PC</u></a></li>
+</ul></div>
 

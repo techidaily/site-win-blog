@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Efficiency with Excel's Subtotal Feature: An In-Depth Tutorial for Professionals and Students Alike"
-date: 2024-08-28T05:42:42.559Z
-updated: 2024-08-29T05:42:42.559Z
+date: 2024-12-05T19:36:42.558Z
+updated: 2024-12-12T18:25:28.122Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
 ---
 
 ## Unlocking Efficiency with Excel's Subtotal Feature: An In-Depth Tutorial for Professionals and Students Alike
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -22,6 +26,10 @@ thumbnail: https://thmb.techidaily.com/f0d0c2a077419838d019249854e895427fabffcba
  To use the SUBTOTAL function, create a formula using the syntax: SUBTOTAL(function\_number, reference 1, reference 2,...). You can also use the Subtotal feature by selecting your rows, then clicking the "Data" tab. In the Outline drop-down menu, select "Subtotal."
 
  Obtaining subtotals for groups of related items is easy in Microsoft Excel. In fact, you have two ways to do this. You can either use the SUBTOTAL function or the Subtotal feature, whichever works best. We'll show you how.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  What Is a Subtotal in Excel?
 
@@ -93,12 +101,6 @@ Related: [How to Sum a Column in Microsoft Excel](https://techtrends.techidaily.
 
 ![SUBTOTAL function excluding hidden rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/AverageExcludeHidden-ExcelSubtotal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ###  Notes on the SUBTOTAL Function
 
  Here are a few things to keep in mind when using the SUBTOTAL function in Excel:
@@ -106,6 +108,10 @@ Related: [How to Sum a Column in Microsoft Excel](https://techtrends.techidaily.
 * The function works for columns or vertical ranges, not rows or horizontal ranges.
 * If you have nested subtotals in the reference argument area, Excel ignores these in the subtotal result.
 * When you [use a filter](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/), the data filtered out is excluded from the subtotal result.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Use the Subtotal Feature
 
@@ -120,8 +126,9 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 ![Subtotal in the Outline menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/OutlineSubtotal-ExcelSubtotal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  When the Subtotal box opens, choose how you want to add the subtotals.
 
 * **At Each Change In** **:** Select the column you want to use for the grouping. Here, we picked Month so that a new group is created when the Month changes in the sheet.
@@ -132,13 +139,18 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal settings for the Sum function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSettingsSum-ExcelSubtotal.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll then see your data update to group _and_ subtotal the rows and create a grand total at the bottom. Use the plus, minus, and number buttons to collapse or expand the groups for easier viewing.
 
 ![Subtotal for the Sum function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSum-ExcelSubtotal.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  As another example, we'll use student grades. We'll use the Subtotal and Group features to display an average grade for each student. Here's the process.
 
  Select the rows, go to Data, and pick "Subtotal" in the Outline drop-down menu.
@@ -147,23 +159,14 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
 
 ![Subtotal settings for the Average function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalSettingsAverage-ExcelSubtotal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  We now have our rows grouped by student with an average grade for each and an overall average at the bottom. Again, you can use the buttons on the left to collapse and expand the groups.
 
 ![Subtotal for the Average function](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalAverage-ExcelSubtotal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
  If you decide to ungroup the rows after you use the Subtotal feature, the rows return to normal. However, those containing the SUBTOTAL function used by Excel remain for you to continue using or simply delete if you prefer.
 
 ![Subtotal average for ungrouped rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/10/SubtotalAverageUngrouped-ExcelSubtotal.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The Subtotal feature can become complex if you plan to use many groups. However, these basic examples should help get you started if you're interested in this function.
 
  One thing to note is that you can't [add an Excel table](https://instagram-videos.techidaily.com/updated-2024-approved-how-to-convert-your-best-videography-into-melodic-mp3s-insta/) subtotal with this feature. If you have your data in a table, you can either insert the Excel formula for SUBTOTAL as described earlier or [convert your table to a cell range](https://video-capture.techidaily.com/new-2024-approved-revolutionize-your-laptop-experience-innovative-methods-for-screen-capture/) to use the feature. If you choose the latter, you'll lose the table functionality.
@@ -182,8 +185,6 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +192,26 @@ Related: [How to Calculate Workdays With a Function in Microsoft Excel](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-10-stellar-tools-that-amplify-your-videos-youtube-presence/"><u>[New] In 2024, 10 Stellar Tools That Amplify Your Video's YouTube Presence</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-innovate-in-fb-advertising-access-no-cost-video-tools/"><u>[Updated] In 2024, Innovate in FB Advertising - Access No-Cost Video Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/3-simple-free-methods-to-infuse-music-into-mobile-video-creations-on-iphones-for-2024/"><u>3 Simple, Free Methods to Infuse Music Into Mobile Video Creations on iPhones for 2024</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/advanced-zooming-practices-in-microsoft-teams/"><u>Advanced Zooming Practices in Microsoft Teams</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/chivalry-2-stability-fix-how-to-prevent-game-from-freezing-or-crashing/"><u>Chivalry 2 Stability Fix: How To Prevent Game From Freezing or Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquering-the-cod-warzone-error-code-6328-pro-tips-for-a-seamless-gaming-experience/"><u>Conquering the Cod Warzone Error Code 6328: Pro Tips for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/converting-aac-audio-files-to-mp3-free-of-charge-with-movavi-web-tool/"><u>Converting AAC Audio Files to MP3 Free of Charge with Movavi Web Tool</u></a></li>
+<li><a href="https://fox-access.techidaily.com/dive-into-a-world-of-timelessness-crafting-slow-motion-videos-using-mobile-apps-for-2024/"><u>Dive Into a World of Timelessness Crafting Slow Motion Videos Using Mobile Apps for 2024</u></a></li>
+<li><a href="https://win-dash.techidaily.com/effortless-update-of-lenovo-t500-drivers-fresh-downloads-at-your-fingertips/"><u>Effortless Update of Lenovo T500 Drivers: Fresh Downloads at Your Fingertips</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-realme-narzo-60-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Realme Narzo 60 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-palworld-effective-strategies-for-handling-eos-login-problems/"><u>Mastering PalWorld: Effective Strategies for Handling EOS Login Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-3-wont-start-heres-how-to-get-the-game-running-again/"><u>Modern Warfare 3 Won't Start? Here's How to Get the Game Running Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-play-experience-tackling-lag-on-avatar-frontiers-of-pandora/"><u>Optimizing Your Play Experience: Tackling Lag on Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-blog.techidaily.com/path-of-exile-performance-fixes-how-to-stop-your-game-from-freezing-for-free/"><u>Path of Exile Performance Fixes: How to Stop Your Game From Freezing for FREE</u></a></li>
+<li><a href="https://win-blog.techidaily.com/sea-of-thieves-no-more-freezing-eliminating-the-crash-factor/"><u>Sea of Thieves No More Freezing: Eliminating the Crash Factor.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/success-story-correcting-the-common-error-of-outlook-disconnection/"><u>Success Story: Correcting the Common Error of Outlook Disconnection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-severe-dev-errors-in-activisions-battle-royale-titles/"><u>Troubleshooting Severe (Dev) Errors in Activision's Battle Royale Titles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-dota-2-game-crashes-easily/"><u>Troubleshooting Tips: Resolving Dota 2 Game Crashes Easily</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/web-based-viewer-ratio-optimization/"><u>Web-Based Viewer Ratio Optimization</u></a></li>
+</ul></div>
 

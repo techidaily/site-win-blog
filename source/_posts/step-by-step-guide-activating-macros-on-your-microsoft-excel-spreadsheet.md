@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Activating Macros on Your Microsoft Excel Spreadsheet"
-date: 2024-08-28T05:42:30.585Z
-updated: 2024-08-29T05:42:30.585Z
+date: 2024-12-10T16:35:55.014Z
+updated: 2024-12-12T17:06:45.654Z
 tags:
   - excel
 categories:
@@ -28,12 +28,9 @@ Related: [Macros Explained: Why Microsoft Office Files Can Be Dangerous](https:/
  For example, if you've got your spreadsheet from an unknown source, you shouldn't trust it to run any macros as you aren't sure what it will end up doing. However, if you know the sender and you trust them, then it should be okay to allow your spreadsheets to execute macros.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Turn On Macros for a Specific Excel Spreadsheet
 
  To enable macros in a specific spreadsheet and not all spreadsheets, then first, open your spreadsheet with Microsoft Excel.
@@ -50,6 +47,10 @@ Related: [How to Disable the Security Warning Message Bar in Microsoft Office Pr
 
  It's not recommended to activate macros for all your spreadsheets, but if you're sure you'll only open safe and trusted files, then you can turn on the option as follows.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  Activate Macros in Excel on Windows
 
  If you're a Windows user, first, launch Microsoft Excel on your PC.
@@ -58,44 +59,41 @@ Related: [How to Disable the Security Warning Message Bar in Microsoft Office Pr
 
 ![Choose "Options" from the left sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/2-excel-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On the "Excel Options" window, in the left sidebar, click "Trust Center."
 
 ![Select "Trust Center" from the left sidebar.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/3-excel-trust-center.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the right pane, click the "Trust Center Settings" button.
 
 ![Choose "Trust Center Settings" on the right.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/4-excel-trust-center-settings.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll see a "Trust Center" window. In the left sidebar of this window, click "Macro Settings."
 
 ![Select "Macro Settings" on the left.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/5-excel-macro-settings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  On the right pane, activate the "Enable VBA Macros (Not Recommended; Potentially Dangerous Code Can Run)" option. Then select "OK" at the bottom.
 
  In the future, to disable macros for all spreadsheets, select an appropriate option on this screen.
 
 ![Enable all Excel macros and click "OK."](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/6-enable-all-excel-macros.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Select "OK" at the bottom of the "Excel Options" window.
 
 ![Click "OK" at the bottom.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/06/7-save-excel-macro-settings.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  And that's it. Excel will now allow any spreadsheet to run macros.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  Activate Macros in Excel on Mac
 
@@ -119,8 +117,6 @@ Related: [Learn How to Use Excel Macros to Automate Tedious Tasks](https://win-b
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +124,24 @@ Related: [Learn How to Use Excel Macros to Automate Tedious Tasks](https://win-b
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-direct-transformation-from-gif-to-video-with-best-web-services/"><u>[New] Direct Transformation From GIF to Video with Best Web Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-battlefield-4-not-launching-on-pc/"><u>[SOLVED] Battlefield 4 Not Launching on PC</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-efficiently-speaking-out-a-blueprint-for-reporting-incidents-in-digital-communities-for-2024/"><u>[Updated] Efficiently Speaking Out A Blueprint for Reporting Incidents in Digital Communities for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-stepwise-guide-to-youtube-video-enhancement-in-imovie/"><u>[Updated] Stepwise Guide to YouTube Video Enhancement in iMovie</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/2024-approved-essential-sandbox-experiences-for-gamers/"><u>2024 Approved Essential Sandbox Experiences for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008413542-ascent-on-your-pc-overcome-those-annoying-crashes-with-this-step-by-step-guide/"><u>Ascent on Your PC? Overcome Those Annoying Crashes with This Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-dragons-dogma-2-gaming-experience-by-resolving-low-fps-and-freezing-problems/"><u>Boost Your Dragon's Dogma 2 Gaming Experience by Resolving Low FPS and Freezing Problems</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/el-compendium-best-of-the-bunch-historical-youtubes-for-study/"><u>Channel Compendium Best of the Bunch - Historical YouTubes For Study</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-fixing-the-problematic-nvidia-geforce-experience-error-code-0x0003/"><u>Expert Advice on Fixing the Problematic NVIDIA Geforce Experience Error Code 0X0003</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-low-fps-problems-for-a-smoother-rainbow-six-extraction-experience/"><u>Fixing Low FPS Problems for a Smoother Rainbow Six Extraction Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-monster-hunter-rise-running-after-update-issues/"><u>How To Get Monster Hunter Rise Running After Update Issues</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-iphone-is-disabled-here-is-the-way-to-unlock-disabled-iphone-xr-by-drfone-ios/"><u>In 2024, iPhone Is Disabled? Here Is The Way To Unlock Disabled iPhone XR</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-last-epoch-error-in-your-pc-top-strategies/"><u>Resolving 'Last Epoch Error' In Your PC: Top Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-when-snap-camera-shows-no-input-detected/"><u>Step-by-Step Solution for When Snap Camera Shows No Input Detected</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/the-key-role-of-the-great-leap-forward-in-history-a-detailed-analysis-by-yl-computing-and-yl-software/"><u>The Key Role of the Great Leap Forward in History: A Detailed Analysis by YL Computing & YL Software</u></a></li>
+<li><a href="https://change-location.techidaily.com/the-magnificent-art-of-pokemon-go-streaming-on-vivo-x100-pro-drfone-by-drfone-virtual-android/"><u>The Magnificent Art of Pokemon Go Streaming On Vivo X100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209860860-9780999636510-the-origin-comes-alive/"><u>The Origin Comes Alive | Free Book</u></a></li>
+</ul></div>
 

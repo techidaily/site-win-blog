@@ -1,7 +1,7 @@
 ---
 title: "Top 7 Methods for Organizing Information with Excel: A Comprehensive Guide"
-date: 2024-08-28T05:41:49.517Z
-updated: 2024-08-29T05:41:49.517Z
+date: 2024-12-05T16:14:03.326Z
+updated: 2024-12-12T16:19:24.851Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
 ---
 
 ## Top 7 Methods for Organizing Information with Excel: A Comprehensive Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/d529ee3f9777395e3e6b4e63c228e25fbb4330a46
  It's easy to [sort data in Excel](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/) alphabetically or numerically. But maybe you want to sort based on color, formatting, or a list like months of the year. We'll show you different ways to sort data in Excel.
 
  You can use the quick sort for those basic options or create a custom sort that gives you more flexibility. Whatever your data, be it text or numbers, take a look at these various ways you can sort it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  A to Z Sorting
 
@@ -45,8 +53,9 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
  You can also use the A to Z sorting when you create a custom sort which we'll describe next.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Row Sorting
 
  For more advanced options in Excel like sorting by row instead of column, you can create a custom sort.
@@ -63,6 +72,10 @@ Related: [How to Sort Values in Microsoft Excel](https://win11-tips.techidaily.c
 
 ![Rows listed in the Sort by menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortByRow-ExcelWaysSortData.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Color Sorting
 
  Also using the custom sort option in Excel, you can [sort by color](https://some-skills.techidaily.com/in-2024-unlocking-potential-with-efficient-audio-submission/). This allows you to sort your data by the cell or font color. Select your data and then "Sort" on the Data tab to open the Sort box.
@@ -77,16 +90,14 @@ Related: [How to Sort by Color in Microsoft Excel](https://some-skills.techidail
 
 ![Sort by color settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortByColor-ExcelWaysSortData.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f3PFn06LijE?si=zHrmlTOzrKxXe-k4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "OK" when you finish, and you'll see your data sorted by your chosen color.
 
 ![Data sorted by color](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortedByColor-ExcelWaysSortData.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Conditional Formatting Icon Sorting
 
  If you take advantage of [displaying icons for your data in Excel](https://activate-lock.techidaily.com/in-2024-the-ultimate-guide-to-bypassing-icloud-activation-lock-on-iphone-15-pro-max-by-drfone-ios/) based on conditional formatting, you can use this as a sort option too. Select your data and then "Sort" on the Data tab to open the Sort box.
@@ -101,22 +112,14 @@ Related: [How to Use Icon Sets to Represent Values in Microsoft Excel](https://a
 
 ![Sort by icon settings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortByIcon-ExcelWaysSortData.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Click "OK" when you finish, and you'll see your data sorted by your chosen conditional formatting icon.
 
 ![Data sorted by icon](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortedByIcon-ExcelWaysSortData.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  List Sorting
 
  One convenient sorting option many don't realize exists in Excel is list sorting. For instance, you may want to sort by day of the week or month of the year. Select your data and then "Sort" on the Data tab to open the Sort box.
@@ -129,23 +132,22 @@ Related: [How to Use Icon Sets to Represent Values in Microsoft Excel](https://a
 
 ![Available lists to sort by](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SelectList-ExcelWaysSortData.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  You'll see the list appear in the Order drop-down menu in the Sort box. Click "OK" to sort your data by the list.
 
 ![List added to the Sort box Order menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortByList-ExcelWaysSortData.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see your data sorted by your chosen list.
 
 ![Data sorted by a list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortedByList-ExcelWaysSortData.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  New List Sorting
 
  Another way to sort using a list is with a new custom list. This is convenient if you haven't had time to [create the custom list](https://win-blog.techidaily.com/maximizing-fps-essential-tricks-for-optimizing-fallout-76-performance/) in Excel yet, because you can make it with the sort tool. Select your data and then "Sort" on the Data tab to open the Sort box.
@@ -160,6 +162,10 @@ Related: [How to Create a Custom List in Microsoft Excel](https://win-blog.techi
 
 ![Create a new list and entries box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CreateList-ExcelWaysSortData.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see the list in the Sort box's Order drop-down menu. Click "OK" to sort your data by this list.
 
 ![List added to the Sort box Order menu](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortByCreatedList-ExcelWaysSortData.png) 
@@ -168,9 +174,6 @@ Related: [How to Create a Custom List in Microsoft Excel](https://win-blog.techi
 
 ![Data sorted by a custom list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SortedByCreatedList-ExcelWaysSortData.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ##  Multi-Level Sorting
 
  If you'd like to sort by more than one column or row in Excel, you can add another level when you create a [custom sort](https://some-techniques.techidaily.com/2024-approved-gopro-versus-polaroid-editing-faces-vs-cameras-that-shoot-them/). For example, you might sort alphabetically by name first and color second. And, you can add levels to any of the above sorting methods if you like.
@@ -181,16 +184,10 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
 
 ![Add Level button in the Sort box](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/AddLevel-ExcelWaysSortData.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Keep in mind that, Excel sorts your data based on this list of levels from top to bottom. So if needed, you can rearrange them. Select a level and then use the arrow buttons to move that level up or down.
 
 ![Multiple sort levels and arrows to rearrange them](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MoveLevel-ExcelWaysSortData.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  When you finish, click "OK" to apply the sort for your multiple levels.
 
 ---
@@ -203,8 +200,6 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -212,4 +207,18 @@ Related: [How to Use the Microsoft Excel SORT Function](https://some-techniques.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/heme-it-right-top-5-winter-scenes-as-video-bgs-for-2024/"><u>[New] Theme It Right Top 5 Winter Scenes as Video Bgs for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-uncovering-youtubes-top-viewed-comments/"><u>[Updated] Uncovering YouTube's Top Viewed Comments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeating-launch-problems-with-battlefield-4-on-windows-a-comprehensive-guide/"><u>Defeating Launch Problems with Battlefield 4 on Windows: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-ghost-runner-critical-crash-issue-in-windows-10/"><u>How to Fix the Ghost Runner Critical Crash Issue in Windows 10</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-the-10-best-tools-to-bypass-icloud-activation-lock-from-iphone-x-you-should-try-out-by-drfone-ios/"><u>In 2024, The 10 Best Tools to Bypass iCloud Activation Lock From iPhone X You Should Try Out</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-art-of-quick-fixes-valorants-guide-to-resolving-pc-launch-issues/"><u>Mastering the Art of Quick Fixes: Valorant's Guide to Resolving PC Launch Issues</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/mastering-vimeos-end-screens-for-creative-directives/"><u>Mastering Vimeo's End Screens for Creative Directives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/on-the-move-car-management-optimizing-your-use-of-driver-easy-mobile/"><u>On-The-Move Car Management: Optimizing Your Use of Driver Easy Mobile</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/step-by-step-guide-watching-dvd-movies-on-your-windows-10-computer/"><u>Step-by-Step Guide: Watching DVD Movies on Your Windows 10 Computer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transform-your-teams-collaboration-with-professional-tips-for-using-slack/"><u>Transform Your Team's Collaboration with Professional Tips for Using Slack</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-resolving-pathfinder-wrath-of-the-righteous-keyboard-issues/"><u>Ultimate Troubleshooting Guide: Resolving 'Pathfinder - Wrath of the Righteous' Keyboard Issues</u></a></li>
+</ul></div>
 

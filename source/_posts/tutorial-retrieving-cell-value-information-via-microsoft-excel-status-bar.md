@@ -1,7 +1,7 @@
 ---
 title: "Tutorial: Retrieving Cell Value Information via Microsoft Excel Status Bar"
-date: 2024-08-28T05:41:53.110Z
-updated: 2024-08-29T05:41:53.110Z
+date: 2024-12-09T17:00:01.487Z
+updated: 2024-12-12T16:26:22.712Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/fe142fc722967440c0a67173b1e546447bf0e8013
 
  As of this writing in April 2022, the ability to copy values from the Status Bar is slowly [rolling out to Excel on Windows users](https://insider.office.com/en-us/blog/copy-values-quickly-from-the-status-bar-in-excel-for-windows?ocid=PROD%5FCore%5FCONS%5FOIP%5FUSG%5FOINews0322) beginning with Office Insiders. So if you don't see the feature yet, you should soon.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Choose Your Status Bar Calculations
 
  Because you can customize the elements that appear in the [Excel Status Bar](https://win-blog.techidaily.com/fix-the-camera-problem-in-google-meets-a-step-by-step-solution/), you'll need to confirm that those you want to view and copy are selected.
@@ -32,8 +36,13 @@ Related: [How to Customize and Use the Status Bar in Excel](https://win-blog.tec
 ![Status Bar selected calculations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/SelectedValues-ExcelStatusBarCopy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Select the Cells to View the Calculations
 
  Calculations like [average](https://win-able.techidaily.com/fixing-overwatch-startup-issues-how-to-get-rid-of-the-persistent-black-screen/), sum, minimum, maximum, and others only display in the Status Bar when they apply. This means you'll need to select the cells in your sheet to show those calculations.
@@ -45,12 +54,9 @@ Related: [How to Calculate Average in Microsoft Excel](https://win-able.techidai
 ![Status Bar calculations](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Values-ExcelStatusBarCopy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
+
 ##  Copy the Status Bar Values
 
  Once you select the cells and see the calculations at the bottom, simply click the value you want in the Status Bar. This places it on your clipboard. You can then [paste](https://facebook-videos.techidaily.com/new-ultimate-collection-20-chuckle-inducing-detention-cell-photos-for-a-better-day-for-2024/) it directly in your sheet or another application.
@@ -66,8 +72,9 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
 ![Paste a Status Bar value](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/Paste-ExcelStatusBarCopy.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Sometimes small updates to applications we use daily like Microsoft Excel are the best kind. This handy feature allows you to [add calculations to your spreadsheets](https://screen-activity-recording.techidaily.com/detailed-guide-to-screen-record-skype-via-obs-for-2024/) easier than ever before.
 
 <ins class="adsbygoogle"
@@ -76,8 +83,6 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -85,4 +90,24 @@ Related: [How to Paste Text Without Formatting Almost Anywhere](https://facebook
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-miniature-marketers-guide-to-video-promos-infographic/"><u>[New] 2024 Approved Miniature Marketer's Guide to Video Promos (Infographic)</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-ideal-selection-of-top-9-mobile-video-collaboration-tools-ios-android-for-2024/"><u>[New] Ideal Selection of Top 9 Mobile Video Collaboration Tools (iOS, Android) for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/he-visual-guide-to-aspect-ratios-on-platforms-like-youtube/"><u>[New] The Visual Guide to ASPECT RATIOS on Platforms Like YouTube</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-upgrading-visual-appeal-a-how-to-guide-for-twitter-video-image-changes-for-2024/"><u>[New] Upgrading Visual Appeal A How-To Guide for Twitter Video Image Changes for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-smoothly-record-time-lapse-on-your-ipad/"><u>2024 Approved Smoothly Record Time-Lapse on Your iPad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clownfish-vocal-enhancer-troubleshooting-quick-fixes-for-a-smooth-voice-transformation-experience/"><u>Clownfish Vocal Enhancer Troubleshooting: Quick Fixes for a Smooth Voice Transformation Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-fixing-and-understanding-the-error-0xc19001e1-in-windows-10-systems/"><u>Expert Advice: Fixing and Understanding the 'Error 0xC19001E1' In Windows 10 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-track-solutions-overcoming-palworlds-loading-difficulties/"><u>Fast-Track Solutions: Overcoming Palworld's Loading Difficulties</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-resident-evil-village-pc-game-crashes-solutions-explored/"><u>How to Fix Resident Evil Village PC Game Crashes - Solutions Explored</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-vivo-y56-5g-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Vivo Y56 5G</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mastering-the-art-of-3d-paint-keyboard-essentials/"><u>Mastering the Art of 3D Paint: Keyboard Essentials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-windows-11-hurdles-for-a-functional-corsair-icue-experience/"><u>Overcoming Windows 11 Hurdles for a Functional Corsair iCUE Experience</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/sculpt-visual-jokes-adobe-memes-guide/"><u>Sculpt Visual Jokes Adobe Memes Guide</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamline-content-discovery-leveraging-youtubes-featured-channel-guide/"><u>Streamline Content Discovery Leveraging Youtube's Featured Channel Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-solutions-for-eliminating-lag-in-hogwarts-legacy-a-comprehensive-guide/"><u>Top 6 Solutions for Eliminating Lag in Hogwarts Legacy: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-speeding-up-your-sluggish-spotify-web-player/"><u>Troubleshooting: Speeding Up Your Sluggish Spotify Web Player</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-secrets-of-evil-genius-2-fixing-initialization-difficulties/"><u>Unlock the Secrets of Evil Genius 2 - Fixing Initialization Difficulties</u></a></li>
+</ul></div>
 

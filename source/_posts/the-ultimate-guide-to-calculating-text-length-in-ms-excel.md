@@ -1,7 +1,7 @@
 ---
 title: The Ultimate Guide to Calculating Text Length in MS Excel
-date: 2024-08-28T05:43:07.777Z
-updated: 2024-08-29T05:43:07.777Z
+date: 2024-12-06T17:53:28.730Z
+updated: 2024-12-12T18:44:08.782Z
 tags:
   - excel
 categories:
@@ -37,19 +37,24 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![The character count of cell A1.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/The-character-count-of-cell-A1..png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or, you can simply copy the content of the cell you want to get the character count of, paste it in the formula in place of the reference cell, and wrap it in quotation marks. For example:
 
 =LEN("How many characters are in this cell?")
 
 ![Paste the content of the cell in the formula.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Paste-the-content-of-the-cell-in-the-formula..png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  This will return the same result.
 
  If you're parsing data, you may also want to [split your text across multiple columns](https://tiktok-clips.techidaily.com/2024-approved-speeding-up-tiktok-videos-made-simple/).
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ##  How to Get the Character Count of Multiple Cells
 
  The LEN function can also be used in combination with the SUM function to get the character count of multiple cells. First, click the cell you would like to place the word count in. Next, enter this formula:
@@ -60,16 +65,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
 ![Enter the LEN and SUM function combination.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Enter-the-LEN-and-SUM-function-combination..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click on any other cell and the character count will be returned.
 
 ![The character count of cells A1 and A2.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/The-character-count-of-cells-A1-and-A2..png) 
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can add as many cells as you like in the formula.
 
  It's also easy to [combine text](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/) from these different cells into one.
@@ -77,8 +76,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-redmi-13c-5g-drfone-by-drfone-virtual-android/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  How to Get the Count of a Specific Character in a Cell
 
  You can also use the LEN function to get the count of how many times a specific character appears in a cell. Select the cell you'd like the count to be returned in and then enter this formula:
@@ -90,15 +90,17 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
 ![Enter the LEN function to get the specific character count.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/Enter-the-LEN-function-to-get-the-specific-character-count..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click on any other cell and the count of the specified character will be returned.
 
 ![The count of the specified character.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/10/The-count-of-the-specified-character..png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  That's all there is to it. Excel is full of [extremely useful functions](https://some-techniques.techidaily.com/new-exploring-whatsapp-voice-chat-features/), from the [COUNTIF function](https://win-forum.techidaily.com/complete-tutorial-clearing-out-windows-10-memory-dump-data/) to the [FREQUENCY function](https://digital-screen-recording.techidaily.com/new-ideal-low-impact-recording-devices-for-eco-conscious-filmmakers/) to many [different Logical functions](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/), all designed to streamline your workflow.
 
 <ins class="adsbygoogle"
@@ -107,8 +109,6 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -116,4 +116,20 @@ Related: [How to Combine Text from Multiple Cells into One Cell in Excel](https:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-videography-secrets-leveraging-strikethrough-for-impactful-edits/"><u>[New] In 2024, Videography Secrets Leveraging Strikethrough for Impactful Edits</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-jokejumper-generate-share-worthy-images-quickly/"><u>[New] JokeJumper Generate Share-Worthy Images Quickly</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-peervid-grabber-fb-live/"><u>[Updated] 2024 Approved PeerVid Grabber FB Live</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/diy-tech-solutions-overcoming-windows-driver-power-failures-easily/"><u>DIY Tech Solutions: Overcoming Windows Driver Power Failures Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/five-essential-fixes-for-a-stable-world-of-warships-gameplay-on-windowslinux-pcs/"><u>Five Essential Fixes for a Stable World of Warships Gameplay on Windows/Linux PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994138449-fortnite-loading-screen-issue-solutions-for-getting-unstuck/"><u>Fortnite Loading Screen Issue - Solutions for Getting Unstuck</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-battling-in-valorant-expert-fixes-for-pc-startup-failures-updated-for-2econd/"><u>Get Back to Battling in Valorant: Expert Fixes for PC Startup Failures (Updated for 2Econd)</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/how-to-determine-if-robloxs-downtime-affects-everyone-or-just-your-connection/"><u>How to Determine if Roblox's Downtime Affects Everyone or Just Your Connection.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-hearthstone-from-freezing-and-crashing-on-your-computer-expert-tips/"><u>How to Prevent Hearthstone From Freezing and Crashing on Your Computer - Expert Tips</u></a></li>
+<li><a href="https://article-tips.techidaily.com/launching-joining-and-scheduling-zoom-calls-made-simple-for-android-users-for-2024/"><u>Launching, Joining, and Scheduling Zoom Calls Made Simple for Android Users for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solved-rectifying-lack-of-sound-in-pc-version-of-borderlands-3-gameplay/"><u>Solved! Rectifying Lack of Sound in PC Version of Borderlands 3 Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steam-how-to-speed-up-a-lagging-stream/"><u>Troubleshooting Steam: How to Speed Up a Lagging Stream</u></a></li>
+<li><a href="https://win-blog.techidaily.com/war-thunder-gaming-prowess-unleashed-fps-optimization-guide-and-troubleshooting-steps-to-conquer-2eep-play/"><u>War Thunder Gaming Prowess Unleashed: FPS Optimization Guide & Troubleshooting Steps to Conquer 2Eep Play</u></a></li>
+</ul></div>
 

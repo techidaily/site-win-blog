@@ -1,7 +1,7 @@
 ---
 title: Top 10 Fundamental Windows Terminal Commands for Novices
-date: 2024-08-28T05:41:04.057Z
-updated: 2024-08-29T05:41:04.057Z
+date: 2024-12-09T18:10:06.543Z
+updated: 2024-12-12T18:28:43.194Z
 tags:
   - windows
 categories:
@@ -38,9 +38,17 @@ cd Documents
 
 ![Windows change directory command in the terminal.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or maybe you want to go up one level; you can type **cd ..** which will bring you back to the previous directory. This can be useful if you need to navigate through different directories quickly.
 
 ![Using the change directory command in Windows to go up one level.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/cd_up_one_level.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also navigate to a specific path, no matter where you are, by providing the full path, starting from the root directory. Remember to use the correct syntax and spelling. To navigate to the System32 directory, type this command:
 
@@ -50,9 +58,6 @@ cd C:\Windows\System32
 
  It's all about making your file system a lot more accessible. For a deeper dive into changing directories on Windows, learn [how to change directories in command prompt on Windows 10](https://extra-information.techidaily.com/quick-and-easy-iphone-burst-techniques/).
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2  dir: List Directory Contents 
 
  Do you want to see what's inside a folder without opening it? The dir (directory) command is your answer. It lists all files and directories right in the terminal. Just type **dir** to get a list of everything in the current directory.
@@ -65,6 +70,10 @@ cd C:\Windows\System32
 
  Use the Tab key to auto-complete file and directory names while typing commands, saving time and reducing errors.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 3  mkdir: Create New Directories 
 
  Organize your files in a snap with the mkdir (make directory) command. Create new folders wherever you want. Creating a new folder is as simple as typing this command:
@@ -74,25 +83,15 @@ mkdir NewFolder
 ![Using the mkdir command in Windows to create a new directory.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_newfolder.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  This command is a great way to keep your system organized.
 
  If you want to create a nested directory structure in one go, you can use the **mkdir a\\b\\c** command. This command will create directory "a," and within "a," it will create directory "b," and within "b," it will create directory "c." It's a convenient way to set up multiple levels of directories with a single command rather than having to create each directory individually.
 
 ![Using mkdir to create nested directories in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/mkdir_nested.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 4  rmdir: Remove Directories 
 
  Do you have an empty folder you don’t need? The rmdir (remove directory) command will take care of it. But if it’s not empty, you’ll need a different approach. To remove an empty directory, simply type:
@@ -105,15 +104,16 @@ rmdir NewFolder
 
 ![Using the rmdir command in Windows to remove a directory and its contents.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/rmdir_newfolder_andcontents.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Just be careful with that second one, and make sure you really want everything gone.
 
  When using the mkdir or rmdir commands, you won't see any confirmation message if the action is successful. To ensure the directory has been created or removed, you can use the dir command to list the contents of the current directory. If the action is successful, the new directory will appear or disappear from the list accordingly.
 
  If you need more information on a specific command, simply enter help followed by the command. For example, if you need more information on the rmdir command, type the **help rmdir** command.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5  del: Delete Files 
 
  Do you need to delete a file? The del command will do it. Use it wisely because once it's gone, it's gone (sort of). [Deleted files on hard drives aren't immediately erased](https://screen-recording.techidaily.com/updated-enhancing-facebook-viewership-with-obs-broadcasts/), while on solid-state drives, the data may be wiped more quickly.
@@ -125,11 +125,16 @@ del file.txt
 ![Using the del command in Windows to delete a file.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/del_file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It’s a powerful command, so handle it with care.
 
  The del command doesn't print anything in response to its use, which might surprise you. Once you run the command, the file will be deleted silently. You can verify that the file has been deleted by using the dir command to check the contents of the directory where the file was located.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6  copy: Copy Files to Another Location 
 
@@ -139,9 +144,6 @@ copy file.txt C:\Backup
 
 ![Using the copy command in Windows to copy a file to a new location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/copy_to_another_location.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  By using the wildcard symbol "\*" followed by the file extension, you can copy all files with the same extension. For example, to copy all text files to the C:\\Backup directory, you use this command:
 
 copy * .txt C:\Backup
@@ -149,6 +151,10 @@ copy * .txt C:\Backup
 ![Using the copy command to copy multiple files in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/copy_multiple_files.png) 
 
  Press F7 to view and select from your command history. This allows you to easily re-run previous commands without retyping them.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7  move: Move Files to a New Location 
 
@@ -160,17 +166,6 @@ move file.txt C:\Backup
 
 ![Using the move command in Windows to move a file to a new location.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/move_tobackup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 8  type: Display the Contents of a Text File 
 
  Do you want to peek inside a text file without opening it? The type command displays its contents right in the terminal. This can be done by entering type followed by the text file you want to read. To read file.txt, use this command:
@@ -188,8 +183,9 @@ type file.txt
 ![Using the systeminfo command in Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/08/systeminfo.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 10  tree: Display Directory Structure 
 
  The tree command displays a graphical representation of the directory structure of a drive or path. It's a handy way to see the layout of your files and folders. To see the structure of the Users directory, type this command:
@@ -208,8 +204,6 @@ tree C:\Users
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -217,4 +211,26 @@ tree C:\Users
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-2-pc-game-optimization-guide-eliminating-frame-rate-drops-and-stuttering-issues-for-a-smooth-experience/"><u>'Modern Warfare 2' PC Game Optimization Guide: Eliminating Frame Rate Drops and Stuttering Issues for a Smooth Experience</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-sdr-vs-hdr-the-superiority-of-high-dynamic-range-in-video-production/"><u>[New] 2024 Approved SDR Vs. HDR The Superiority of High Dynamic Range in Video Production</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-ultimate-kickboxing-and-karate-game-round-up-for-2024/"><u>[New] Ultimate Kickboxing & Karate Game Round-Up for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-proficient-use-of-obs-studio-on-your-android-phone/"><u>[Updated] 2024 Approved Proficient Use of OBS Studio on Your Android Phone</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-discovering-the-top-8-truly-efficient-advancement-services/"><u>[Updated] In 2024, Discovering the Top 8 Truly Efficient Advancement Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cod-black-ops-cold-war-error-fix-overcoming-the-80070057-issue/"><u>COD: Black Ops Cold War Error Fix: Overcoming the 80070057 Issue</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/discover-the-value-in-large-screens-caixuns-75-4k-smart-tv-a-cost-efficient-choice/"><u>Discover the Value in Large Screens: Caixun's 75'' 4K Smart TV - A Cost-Efficient Choice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/exploring-the-causes-of-lowered-fps-in-fortnites-eighth-season/"><u>Exploring the Causes of Lowered FPS in Fortnite's Eighth Season</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-audio-issues-how-to-resolve-discords-screen-sharing-sound-problem/"><u>Fixing Audio Issues: How to Resolve Discord's Screen Sharing Sound Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-stutter-and-lag-solutions-for-higher-frame-rates-in-outriders/"><u>Fixing Stutter and Lag: Solutions for Higher Frame Rates in Outriders</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-black-ops-cold-war-xc0000005-error-a-step-by-step-guide/"><u>Fixing the 'Black Ops: Cold War' XC0000005 Error - A Step-by-Step Guide</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/how-to-transform-avi-files-into-mkv-a-list-of-the-finest-techniques-with-no-cost/"><u>How to Transform AVI Files Into MKV: A List of the Finest Techniques with No Cost</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-master-your-craft-smartphone-lut-enhancements/"><u>In 2024, Master Your Craft Smartphone LUT Enhancements</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/in-depth-review-unlocking-performance-with-sabrents-rocket-nano-2242-1tb-ssd-for-your-m2-pcie-needs/"><u>In-Depth Review: Unlocking Performance with Sabrent's Rocket Nano 2242 1TB SSD for Your M.2 PCIe Needs</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/new-filmora-scrn-essentials-recording-your-desktop-in-minutes/"><u>New Filmora Scrn Essentials Recording Your Desktop in Minutes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-to-smooth-out-fortnites-stutter-issues-on-desktop-systems/"><u>Step-by-Step Solutions to Smooth Out Fortnite's Stutter Issues on Desktop Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722982181542-swtor-game-starts-failing-heres-how-you-can-resolve-it/"><u>SWTOR Game Starts Failing? Here's How You Can Resolve It!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009959364-troubleshoot-and-resolve-control-application-errors-swiftly-and-effectively/"><u>Troubleshoot & Resolve Control Application Errors Swiftly & Effectively</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/troubleshooting-hp-deskjet-printing-errors-for-windows-11-users/"><u>Troubleshooting HP Deskjet Printing Errors for Windows 11 Users</u></a></li>
+</ul></div>
 

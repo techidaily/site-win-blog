@@ -1,7 +1,7 @@
 ---
 title: "Creating an Effective Presentation: Integrating Excel Data Into PowerPoint for Organizational Charts"
-date: 2024-08-28T05:41:22.127Z
-updated: 2024-08-29T05:41:22.127Z
+date: 2024-12-10T19:42:01.269Z
+updated: 2024-12-12T17:09:27.782Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 ---
 
 ## Creating an Effective Presentation: Integrating Excel Data Into PowerPoint for Organizational Charts
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -38,9 +42,6 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 
  Our chart includes team members and their respective positions. Double-check to make sure the information is correct, save the Excel file, then exit out.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ##  Inserting Your Organizational Chart in PowerPoint
 
  Now it’s time to work in PowerPoint. Open up your presentation and move to the slide where you want the organizational chart. Go to the “Insert” tab and select “Object."
@@ -48,8 +49,9 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 ![insert object](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/insert-object.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The “Insert Object” window will appear. Here, choose the “Create from file” option and select “Browse.”
 
 ![create from file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/create-from-file.png) 
@@ -59,22 +61,25 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 ![Browse PC for excel file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Browse-PC-for-excel-file.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Make sure the file path is correct and then click “OK.”
 
 ![insert excel file in powerpoint](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/insert-excel-file-in-powerpoint.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Your organizational chart from Excel now appears in your PowerPoint presentation! If you need to edit any of the content inside the chart, it’s as simple as double-clicking the chart and editing the content. You'll have full access to Excel tools when you do.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Gif-1.gif) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Merging the cells in the background may also be a good idea, as they can be quite distracting. To do so, double click the chart and then select all of the cells that appear.
 
 ![](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/Gif-2.gif) 
@@ -83,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
 
 ![merge and center](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/01/merge-and-center.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
  Now you’ll have a nice, clean organizational chart in your PowerPoint presentation. Good luck!
 
 <ins class="adsbygoogle"
@@ -94,8 +96,6 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +103,23 @@ thumbnail: https://thmb.techidaily.com/ffcad7f48962d75f242ed7b8339741a057dbb5359
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/finalized-say-goodbye-to-call-of-duty-black-ops-cold-war-pc-issues-master-these-fixes-for-seamless-gaming-in-202/"><u>[FINALIZED] Say Goodbye to Call of Duty: Black Ops Cold War PC Issues! Master These Fixes for Seamless Gaming in 202지</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-crafting-shareable-instagram-stories-that-spread-like-wildfire-for-2024/"><u>[New] Crafting Shareable Instagram Stories That Spread Like Wildfire for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-from-canvas-to-cryptos-select-7-nft-creating-powerhouses/"><u>[New] In 2024, From Canvas to Cryptos Select 7 NFT-Creating Powerhouses</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-prime-choices-for-valheims-agricultural-success/"><u>[New] Prime Choices for Valheim's Agricultural Success</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-comprehensive-walkthrough-for-bulk-tiktok-download/"><u>[Updated] Comprehensive Walkthrough for Bulk TikTok Download</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-the-role-of-crossfade-in-modern-music-mixing/"><u>[Updated] The Role of Crossfade in Modern Music Mixing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-resolving-palworld-session-search-problems-a-step-by-step-approach/"><u>Guide to Resolving Palworld Session Search Problems – A Step-by-Step Approach</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-unlock-on-iphone-7-how-to-fix-it-by-drfone-ios/"><u>In 2024, Apple ID Unlock On iPhone 7? How to Fix it?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-fixes-for-launching-overwatch-2-as-of-2024-a-step-by-step-guide/"><u>Mastering Fixes for Launching Overwatch 2 as of 2024: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-premium.techidaily.com/navigating-the-complexities-of-crypto-regulations-insights-from-yl-software-experts/"><u>Navigating the Complexities of Crypto Regulations: Insights From YL Software Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-unraveling-the-mystery-behind-the-double-drop-in-fps/"><u>PC Gaming: Unraveling the Mystery Behind the Double Drop in FPS</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/recovering-deleted-execution-records-on-windows/"><u>Recovering Deleted Execution Records on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-freezing-issues-in-call-of-duty-black-ops-cold-war-a-step-by-step-guide/"><u>Solving Freezing Issues in Call of Duty: Black Ops Cold War - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-simple-strategies-for-repairing-winwordexe-hiccups/"><u>Top 5 Simple Strategies for Repairing WINWORD.EXE Hiccups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solution-resolving-your-football-manager-202n1-issues-on-windows-computers/"><u>Ultimate Solution: Resolving Your Football Manager 202N1 Issues on Windows Computers</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/updated-in-2024-the-ultimate-list-of-photo-and-video-montage-makers/"><u>Updated In 2024, The Ultimate List of Photo and Video Montage Makers</u></a></li>
+</ul></div>
 

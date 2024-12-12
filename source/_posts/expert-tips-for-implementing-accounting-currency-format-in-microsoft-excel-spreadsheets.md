@@ -1,7 +1,7 @@
 ---
 title: Expert Tips for Implementing Accounting Currency Format in Microsoft Excel Spreadsheets
-date: 2024-08-28T05:42:14.978Z
-updated: 2024-08-29T05:42:14.978Z
+date: 2024-12-06T19:01:27.074Z
+updated: 2024-12-12T19:17:57.051Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Expert Tips for Implementing Accounting Currency Format in Microsoft Excel Spreadsheets
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -51,17 +55,22 @@ Related: [How to Change How Excel Displays Negative Numbers](https://tech-reviva
 
 ![Click the "Home" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-excel-home-tab-1.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  On the "Home" tab, in the "Number" section, click the down-arrow icon next to the "Accounting Number Format" option.
 
 ![Select "Accounting Number Format" in the "Home" tab.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/3-accounting-number-format.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In the menu that opens, select the currency for your numbers.
 
 ![Choose a currency.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/4-select-currency.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
  And your selected numbers now use the accounting number format.
 
 ![Selected numbers now using the accounting number format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/5-numbers-in-accounting-number-format.png) 
@@ -71,8 +80,9 @@ Related: [How to Change How Excel Displays Negative Numbers](https://tech-reviva
 Related: [How to Add New Buttons to the Microsoft Office Ribbon](https://smart-video-creator.techidaily.com/transform-your-footage-expert-advice-for-creating-polished-professional-movies/) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Apply the Accounting Number Format With a Drop-Down Menu
 
  Another way to apply the accounting number format is to use the number formatting drop-down menu.
@@ -81,30 +91,22 @@ Related: [How to Add New Buttons to the Microsoft Office Ribbon](https://smart-v
 
 ![Select numbers in an Excel spreadsheet.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/1-select-numbers.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  In Excel's ribbon at the top, click the "Home" tab.
 
 ![Click the "Home" tab in Excel.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/2-excel-home-tab-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the "Home" tab, in the "Number" section, click the drop-down menu.
 
 ![Click the drop-down menu in the "Number" section.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/6-excel-number-menu.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  From the drop-down menu, choose "Accounting."
 
 ![Select "Accounting" from the drop-down menu.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/7-choose-accounting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  And all your selected numbers are now in the accounting number format.
 
 ![Selected numbers using the accounting number format.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/8-accounting-number-format-applied.png) 
@@ -113,9 +115,6 @@ Related: [How to Add New Buttons to the Microsoft Office Ribbon](https://smart-v
 
 Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](https://fox-blue.techidaily.com/updated-diving-into-the-depths-with-gopro-hero5-for-2024/) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ##  Use Accounting Numbers With the Format Cells Window
 
  The third way to use the accounting number format in Excel is by opening the Format Cells window.
@@ -128,6 +127,10 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 
 ![Select "Accounting" on the "Format Cells" window.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/10-format-cells-accounting.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  In the pane on the right, [specify decimal points](https://screen-capture.techidaily.com/updated-in-2024-the-ultimate-screen-recorder-test-active-vs-top-contenders/) for your numbers using the "Decimal Places" option. Then, [choose a currency](https://on-screen-recording.techidaily.com/updated-rapid-reel-sound-mixed-screenshotting/) from the "Symbol" drop-down menu.
 
  Finally, click "OK" at the bottom of the window.
@@ -139,8 +142,9 @@ Related: [How to Create Expense and Income Spreadsheets in Microsoft Excel](http
 ![The accounting number format applied to the selected cells.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/11/12-use-accounting-number-format.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You're now ready for your accounting tasks in your Excel spreadsheets.
 
 ---
@@ -155,8 +159,6 @@ Related: [How to Enter Zero Before a Number in Excel](https://iphone-location.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +166,20 @@ Related: [How to Enter Zero Before a Number in Excel](https://iphone-location.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-advanced-strategies-for-youtube-audio-editing-mastery/"><u>[New] 2024 Approved Advanced Strategies for YouTube Audio Editing Mastery</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-unveiling-the-premier-android-emulators-for-ps2-games/"><u>[New] In 2024, Unveiling the Premier Android Emulators for PS2 Games</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-trending-image-memes-unveiling-the-real-story-for-2024/"><u>[New] Trending Image Memes Unveiling the Real Story for 2024</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-understanding-bandicam-key-facts-revealed/"><u>[Updated] In 2024, Understanding Bandicam - Key Facts Revealed</u></a></li>
+<li><a href="https://article-posts.techidaily.com/2024-approved-best-in-class-music-video-platforms/"><u>2024 Approved Best-in-Class Music Video Platforms</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/empower-your-site-visitors-the-magic-of-cookiebot-personalized-content/"><u>Empower Your Site Visitors: The Magic of Cookiebot Personalized Content</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-file-recovery-solutions-for-pc-users-a-comprehensive-guide/"><u>Game File Recovery Solutions for PC Users – A Comprehensive Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/get-the-latest-hp-printer-software-downloads-here/"><u>Get the Latest HP Printer Software Downloads Here!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-fixing-the-corsair-icue-interface-for-windows-10-and-11-users/"><u>Guide to Fixing the Corsair iCUE Interface for Windows 10 and 11 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stable-gaming-experience-achieved-overcome-freezing-in-fallout-4/"><u>Stable Gaming Experience Achieved - Overcome Freezing in Fallout 4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-solved-establishing-a-stable-connection-with-steam-servers/"><u>Troubleshooting Solved: Establishing a Stable Connection with Steam Servers</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ng-creative-minds-a-guide-to-selecting-youtube-pairings-for-2024/"><u>Uniting Creative Minds A Guide to Selecting YouTube Pairings for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-samsung-galaxy-s23-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Samsung Galaxy S23? | Dr.fone</u></a></li>
+</ul></div>
 

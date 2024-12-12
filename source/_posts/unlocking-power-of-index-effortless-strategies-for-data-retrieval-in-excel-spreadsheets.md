@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Power of INDEX: Effortless Strategies for Data Retrieval in Excel Spreadsheets"
-date: 2024-08-28T05:41:54.274Z
-updated: 2024-08-29T05:41:54.274Z
+date: 2024-12-11T17:48:11.788Z
+updated: 2024-12-12T16:46:39.807Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 
  You might be creating a complex formula or have values that change often. By using the INDEX function, you designate the cell range along with a [row number](https://howto.techidaily.com/play-store-not-working-on-motorola-razr-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/) and column number. Excel locates the value at that intersection and provides the result from the formula.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The INDEX Function in Excel
 
  You can use the INDEX function two different ways in Excel: Array Form and Reference Form.
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 
  Let's look at how to use both.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Use INDEX in Array Form
 
  The syntax for the function in Array Form is 
@@ -55,8 +56,9 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 ![INDEX in Array Form for a row](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ArrayRow-ExcelINDEXFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To find the value in the third row and fifth column for the cell range A1 through E10, you would use this formula.
 
 =INDEX(A1:E10,3,5)
@@ -66,13 +68,11 @@ thumbnail: https://thmb.techidaily.com/76bc2de184e61e693dbac8bc5f62288cf6610a7d1
 ![INDEX in Array Form for an intersection](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ArrayIntersection-ExcelINDEXFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/play-store-not-working-on-motorola-razr-40-8-solutions-inside-drfone-by-drfone-fix-android-problems-fix-android-problems/) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Use INDEX in Reference Form
 
  The syntax for the function in Reference Form is `INDEX(reference, row_number, column_number, area_number)` where the first two arguments are required and second two are optional.
@@ -92,8 +92,9 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
 ![INDEX in Reference Form for area one](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReferenceFirstArea-ExcelINDEXFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To find the value using the same cell ranges, row number, and column number, but in the second area instead of the first, you would use this formula:
 
 =INDEX((A1:E4,A7:E10),3,4,2)
@@ -103,8 +104,9 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
 ![INDEX in Reference Form for area two](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/03/ReferenceSecondArea-ExcelINDEXFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The INDEX function in Excel is a handy one to keep in mind. If you plan to use lookup and reference functions often, be sure to check out how to [use VLOOKUP for a range of values](https://win-able.techidaily.com/1723001670706-troubleshooting-genshin-impact-fix-stability-issues-and-stop-pc-crashes/) and how to [use XLOOKUP in Excel](https://android-transfer.techidaily.com/in-2024-5-ways-to-transfer-music-from-asus-rog-phone-7-ultimate-to-other-android-devices-easily-drfone-by-drfone-transfer-from-android-transfer-from-android/).
 
 | |  Mastering Excel Functions |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  |
@@ -119,8 +121,6 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -128,4 +128,26 @@ Related: [How to Number Rows in Microsoft Excel](https://howto.techidaily.com/pl
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-charting-creators-fortune-revenue-generated-from-youtube-advertisements/"><u>[New] 2024 Approved Charting Creator's Fortune Revenue Generated From Youtube Advertisements?</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-sprint-through-photo-composition-googles-easy-way/"><u>[Updated] Sprint Through Photo Composition - Google's Easy Way</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/a-comprehemail-protectede-for-modernizing-outdated-powerpoint-presentations/"><u>A Compreh([email Protected])e for Modernizing Outdated PowerPoint Presentations</u></a></li>
+<li><a href="https://windows11.techidaily.com/elevate-usability-and-style-for-windows-1011-in-8-ways/"><u>Elevate Usability and Style for Windows 10/11 in 8 Ways</u></a></li>
+<li><a href="https://fox-place.techidaily.com/elevate-your-admin-panel-with-the-laravel-livewire-integration-of-material-dashboard-created-by-creative-tim-and-updivision/"><u>Elevate Your Admin Panel with the Laravel Livewire Integration of Material Dashboard, Created by Creative Tim and UPDIVISION</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-pc-gaming-disruptions-solutions-to-horizon-zero-dawn-crashes/"><u>Eliminating PC Gaming Disruptions: Solutions to Horizon Zero Dawn Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-solving-game-crashes-in-xcom-2-on-windows-machines/"><u>Expert Tips for Solving Game Crashes in XCOM 2 on Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-steam-content-file-locked-issue-a-step-by-step-guide/"><u>Fixing the 'Steam Content File Locked' Issue: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-how-to-unlock-any-vivo-y55s-5g-2023-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo Y55s 5G (2023) Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/iphone-tricks-to-embrace-cameras-motion-artistry/"><u>IPhone Tricks to Embrace Camera's Motion Artistry</u></a></li>
+<li><a href="https://win11.techidaily.com/method-to-release-restricted-app-on-pc/"><u>Method to Release Restricted App on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-difficulties-with-football-manager-2023-a-comprehensive-guide/"><u>Overcoming Launch Difficulties with Football Manager 2023 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-and-effective-ways-to-prevent-your-pc-from-freezing-during-assassins-creed-odyssey/"><u>Quick and Effective Ways to Prevent Your PC From Freezing During Assassin's Creed Odyssey</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/rejuvenate-your-pc-unlock-the-secrets-of-a-hard-system-restore/"><u>Rejuvenate Your PC: Unlock the Secrets of a Hard System Restore</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/resolving-pubg-mobile-stuck-issues-a-comprehensive-guide/"><u>Resolving PUBG Mobile Stuck Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-troubleshooting-steps-resolving-wwe-2k2e-pc-game-crashes/"><u>Simple Troubleshooting Steps: Resolving WWE 2K2e PC Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-dilemma-why-does-palworld-keep-freezing-on-my-computer/"><u>Solving the Dilemma: Why Does PalWorld Keep Freezing on My Computer?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-fixing-tribes-of-midgard-a-players-approach-to-eliminating-crashes/"><u>Step-by-Step Guide to Fixing 'Tribes of Midgard': A Player's Approach to Eliminating Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-made-simple-discover-these-n8-trusted-techniques-against-vrchat-crashes-on-pc/"><u>Troubleshooting Made Simple: Discover These N8 Trusted Techniques Against VRChat Crashes on PC</u></a></li>
+</ul></div>
 

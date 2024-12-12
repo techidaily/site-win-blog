@@ -1,7 +1,7 @@
 ---
 title: Transforming Lengthy Excel Columns Into Multiple Segments - A Comprehensive Tutorial
-date: 2024-08-28T05:41:50.735Z
-updated: 2024-08-29T05:41:50.735Z
+date: 2024-12-08T17:19:51.751Z
+updated: 2024-12-12T18:28:49.847Z
 tags:
   - excel
 categories:
@@ -31,6 +31,10 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
  To test this feature, we'll be using a set of data (an employee list, showing names, dates of birth, and other information) in a single column. Each section of data is in a single cell, separated by a semicolon.
 
 ![Data, in a single column, in Microsoft Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Text-to-Column-Initial-Data.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You'll need to select the cells containing your data first (cells A1 to A12 in the example above).
 
@@ -62,13 +66,14 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Confirm the column formatting options, then click Finish to confirm the Text to Column conversion process in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Text-to-Column-Final.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Your single column will separate each section, using the delimiters, into individual columns using the cell formatting options you selected.
 
 ![Data in Excel, separated using the Text to Column feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Text-to-Column-Finished-Data.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  How to Use Flash Fill in Excel
 
  If you'd like to keep your original data intact, but still separate the data, you can use the "Flash Fill" feature instead.
@@ -77,9 +82,6 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 
 ![Data, separated by a delimiter, in Microsoft Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Data-Example.png) 
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
  To use the "Flash Fill" feature, start by typing out the column headers in row 1\. For our example, "Employee ID" would go in cell B1, "First Name" in cell C1, etc.
 
  For each column, select your header row. Start with B1 (the "Employee ID" header in this example) and then, in the "Data Tools" section of the "Data" tab, click the "Flash Fill" button.
@@ -87,8 +89,9 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 ![Select your column header cell, then click Data > Flash Fill](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Flash-Fill-Button.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Repeat the action for each of your header cells (C1, D1, etc) to automatically fill the new columns with the matching data.
 
  If the data is formatted correctly in your original column, Excel will automatically separate the content using the original header cell (A1) as its guide. If you receive an error, type the following value in the sequence in the cell below your header cell, then click the "Flash Fill" button again.
@@ -98,19 +101,17 @@ Related: [How to Use Text to Columns Like an Excel Pro](https://ios-location-tra
 ![Data in Microsoft Excel, ready for the Flash Fill feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Flash-Fill-Data.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Each new column will fill with the data from the original column, using the initial first or second rows as the guide to choose the correct data.
 
 ![Data in Microsoft Excel, ready for the Flash Fill feature](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2019/12/Excel-Flash-Fill-Data.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the example above, the long column (column A) has been separated into six new columns (B to G).
 
  Because the layout of rows 1 to 12 is the same, the "Flash Fill" feature is able to copy and separate the data, using the header row and first bit of data.
@@ -121,8 +122,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +129,17 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-accessing-global-events-facebook-live-on-roku-devices/"><u>[Updated] 2024 Approved Accessing Global Events Facebook Live on Roku Devices</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-ideal-websites-for-painless-jpeg-to-gif-changeover/"><u>[Updated] 2024 Approved Ideal Websites for Painless JPEG to GIF Changeover</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/behebt-die-fehlerbehebung-von-windows-amoynebzbk-die-sicherungsgrosse-wird-mit-null-byte-aufgefuhrt/"><u>Behebt Die Fehlerbehebung Von Windows Amoynebzbk: Die Sicherungsgröße Wird Mit Null Byte Aufgeführt</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-gta-ves-fps-drop-rapid-and-simple-methods-to-improve-performance/"><u>Fix Your GTA Ve's FPS Drop: Rapid and Simple Methods to Improve Performance</u></a></li>
+<li><a href="https://win-able.techidaily.com/how-to-resolve-the-problem-of-resident-evil-village-not-starting-properly/"><u>How to Resolve the Problem of Resident Evil Village Not Starting Properly</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-xiaomi-redmi-a2plus-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Xiaomi Redmi A2+ Phone with Broken Screen</u></a></li>
+<li><a href="https://techtrends.techidaily.com/latest-updates-on-apples-electric-vehicle-pricing-details-and-launch-timeline-revealed/"><u>Latest Updates on Apple's Electric Vehicle: Pricing Details & Launch Timeline Revealed!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-restarting-a-frozen-microsoft-ie-browser/"><u>Solutions for Restarting a Frozen Microsoft IE Browser</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-quick-remedies-to-your-discord-javascript-glitches/"><u>Step-by-Step: Quick Remedies to Your Discord JavaScript Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-to-boost-frames-per-second-in-avatar-the-game-frontiers-of-pandora/"><u>Tips to Boost Frames Per Second in 'Avatar: The Game - Frontiers of Pandora'</u></a></li>
+</ul></div>
 

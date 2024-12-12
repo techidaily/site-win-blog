@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Building & Personalizing Funnel Charts with Microsoft Excel Tools
-date: 2024-08-28T05:41:33.601Z
-updated: 2024-08-29T05:41:33.601Z
+date: 2024-12-11T16:55:55.879Z
+updated: 2024-12-12T16:44:54.026Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ---
 
 ## Expert Tips on Building & Personalizing Funnel Charts with Microsoft Excel Tools
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -44,8 +48,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The funnel chart pops right into your spreadsheet. From it, you can review the data and as mentioned, see the largest gaps in your process.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
@@ -54,11 +59,6 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021
 
  We can also see the small gap between those who signed up for the trial and then subscribed. This shows us that this particular stage in the process works pretty well.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ##  Customize Your Funnel Chart
 
  As with the other types of charts in Excel such as a [waterfall](https://youtube-docs.techidaily.com/approved-strategies-for-effective-youtube-playlist-distribution/) or [treemap](https://extra-guidance.techidaily.com/maximizing-value-in-your-cloud-service-expenditure-for-2024/), you can customize the funnel chart. This not only helps you include the most important elements in your chart but also gives its appearance a bit of a boost.
@@ -68,15 +68,17 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Next, you can add or remove chart elements, choose a different layout, pick a color scheme or style, and adjust your data selection. Select the chart and click the Chart Design tab that displays. You'll see these options in the ribbon.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you'd like to customize the line styles and colors, add a shadow or 3-D effect, or size the chart to exact measurements, double-click the chart. This opens the Format Chart Area sidebar where you can use the three tabs at the top to adjust these chart items.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
@@ -88,15 +90,13 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 * **Chart Styles**: Use the Style and Color tabs to add some pizzazz to your chart's appearance.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Once you finish customizing your chart, you can also move it or resize it to fit nicely on your spreadsheet. To move the chart, simply select and drag it to its new spot. To resize it, select it and drag inward or outward from an edge or corner.
 
 ![Microsoft Excel Funnel Chart](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2021/09/ExcelFunnelChart.png) 
@@ -109,8 +109,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -118,4 +116,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-quicknetflix-screenshots-a-mac-users-guide/"><u>[Updated] QuickNetflix Screenshots A Mac User's Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024-solutions-for-a-smooth-run-of-cities-skylines-fixing-common-crashes-and-bugs/"><u>2024 Solutions for a Smooth Run of Cities: Skylines – Fixing Common Crashes and Bugs</u></a></li>
+<li><a href="https://howto.techidaily.com/6-solutions-to-fix-error-505-in-google-play-store-on-tecno-spark-20c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>6 Solutions to Fix Error 505 in Google Play Store on Tecno Spark 20C | Dr.fone</u></a></li>
+<li><a href="https://driver-error.techidaily.com/alleviate-io-scheduling-conflict/"><u>Alleviate I/O Scheduling Conflict</u></a></li>
+<li><a href="https://fake-location.techidaily.com/complete-tutorial-to-use-vpna-to-fake-gps-location-on-honor-70-lite-5g-drfone-by-drfone-virtual-android/"><u>Complete Tutorial to Use VPNa to Fake GPS Location On Honor 70 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dying-light-performance-issues-solved-ending-those-annoying-lags/"><u>Dying Light Performance Issues Solved: Ending Those Annoying Lags</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-gameplay-fluidity-effective-fixes-for-dying-lights-graphics-glitches/"><u>Enhance Gameplay Fluidity: Effective Fixes for Dying Light's Graphics Glitches</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/expert-tips-for-crafting-viral-video-content-using-massmail-tool-boost-your-digital-presence-effortlessly/"><u>Expert Tips for Crafting Viral Video Content Using MassMail Tool – Boost Your Digital Presence Effortlessly</u></a></li>
+<li><a href="https://driver-download.techidaily.com/get-updated-windows-1n-support-rtx-2060-super-gpu-drivers-download/"><u>Get Updated Windows 1N Support: RTX 2060 Super GPU Drivers Download</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-install-age-of-empires-iv-overcoming-mstsc-hurdles/"><u>How to Successfully Install Age of Empires IV: Overcoming MSTSC Hurdles</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-5-solutions-for-huawei-nova-y91-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Huawei Nova Y91 Unlock Without Password</u></a></li>
+<li><a href="https://win-blog.techidaily.com/life-is-strange-true-colors-glitch-resolution/"><u>Life Is Strange: True Colors Glitch Resolution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outriders-slow-performance-troubleshooting-guide/"><u>Outriders Slow Performance Troubleshooting Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/protecting-sensitive-information-when-integrating-chatgpt-into-your-workflow/"><u>Protecting Sensitive Information When Integrating ChatGPT Into Your Workflow</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009705806-the-division-2-game-crash-fix-fast-simple-steps-to-resolve/"><u>The Division 2 Game Crash Fix - Fast, Simple Steps to Resolve</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-legend-of-zelda-improve-graphics-and-speed-with-advanced-tweaks/"><u>The Legend of Zelda: Improve Graphics & Speed with Advanced Tweaks</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-motorola-moto-g84-5g-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Motorola Moto G84 5G Location | Dr.fone</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/who-takes-the-lead-in-live-action-footage-hero-4-or-x1000v/"><u>Who Takes The Lead In Live-Action Footage, Hero 4 or X1000V?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-against-fortnites-windows-display-problem-solutions-unveiled/"><u>Winning Against Fortnite's Windows Display Problem: Solutions Unveiled</u></a></li>
+</ul></div>
 

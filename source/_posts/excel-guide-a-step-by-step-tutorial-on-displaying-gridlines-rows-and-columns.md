@@ -1,7 +1,7 @@
 ---
 title: "Excel Guide: A Step-by-Step Tutorial on Displaying Gridlines, Rows & Columns"
-date: 2024-08-28T05:42:13.718Z
-updated: 2024-08-29T05:42:13.718Z
+date: 2024-12-10T17:00:51.195Z
+updated: 2024-12-12T17:51:32.489Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
 ---
 
 ## Excel Guide: A Step-by-Step Tutorial on Displaying Gridlines, Rows & Columns
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -36,52 +40,41 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
  You can also [change the color of the gridlines](https://change-location.techidaily.com/how-to-use-life360-on-windows-pc-for-tecno-pova-5-drfone-by-drfone-virtual-android/).
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Print Row and Column Headings
 
  By default, Excel doesn’t print the row and column headings you see on the screen. However, you can choose to do so.
 
 ![03_row_and_column_headings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/03_row_and_column_headings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the desired workbook and click the tab at the bottom for the worksheet for which you want to print row and column headings.
 
 ![04_selecting_a_sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/04_selecting_a_sheet.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click the “Page Layout” tab, if it’s not already the active tab.
 
 ![05_clicking_page_layout_tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/05_clicking_page_layout_tab.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  In the “Sheet Options” section, select the “Print” check box under “Headings” so there is a check mark in the box.
 
 ![06_selecting_print_under_headings](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2015/06/06_selecting_print_under_headings.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Just like the “Print Gridlines” option, the “Print Headings” option only affects the currently active worksheet in the current workbook. To print row and column headings for other worksheets in your workbook, select each worksheet and turn on this option.
 
 <!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Troubleshooting
 
  If gridlines don't appear in the print preview or the resulting printout, you probably have the "Draft quality" enabled for your printer. This mode is designed to save ink, so it omits things like the gridlines.
@@ -94,8 +87,6 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +94,26 @@ thumbnail: https://thmb.techidaily.com/953f2bfad0053de9c1fba300c8af977033f308f5e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-cultivate-creativity-best-video-concepts-for-viewers/"><u>[New] In 2024, Cultivate Creativity Best Video Concepts for Viewers</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-2024-approved-from-dull-to-delightful-how-to-craft-standout-youtube-thumbnails/"><u>[Updated] 2024 Approved From Dull to Delightful How To Craft Standout YouTube Thumbnails</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-intro-to-radial-photo-distortion-ps-tutorial/"><u>[Updated] 2024 Approved Intro to Radial Photo Distortion PS Tutorial</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-comparative-review-smartphone-usage-of-the-leading-video-apps-for-2024/"><u>[Updated] Comparative Review Smartphone Usage of the Leading Video Apps for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-professional-webcam-recording-solutions-explored-for-2024/"><u>[Updated] Professional WebCam Recording Solutions Explored for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/apex-legends-wont-load-master-these-simple-fixes/"><u>Apex Legends Won't Load? Master These Simple Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ark-survival-ascended-proven-techniques-for-optimal-frame-rate-improvements-on-desktops/"><u>ARK Survival Ascended - Proven Techniques for Optimal Frame Rate Improvements on Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-delays-strategies-for-overcoming-high-latency-in-the-game-back-vein-blood/"><u>Dealing with Delays: Strategies for Overcoming High Latency in the Game Back Vein Blood</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-erase-iphone-12-pro-data-permanently-drfone-by-drfone-ios-full-data-eraser-ios-full-data-eraser/"><u>How To Erase iPhone 12 Pro Data Permanently | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-valorants-graphics-driver-crash-error-quickly-and-easily/"><u>How to Resolve Valorant’s Graphics Driver Crash Error Quickly & Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-steamvr-hurdles-in-no-time-expert-tips-for-immediate-relief/"><u>Overcome SteamVR Hurdles in No Time: Expert Tips for Immediate Relief</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/pros-picks-of-handheld-stabilizers-ensuring-perfect-videos/"><u>Pro's Picks of Handheld Stabilizers Ensuring Perfect Videos</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/quick-guide-installingupdating-synaptics-graphics-drivers-on-windows-systems/"><u>Quick Guide: Installing/Updating Synaptics Graphics Drivers on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-resolution-for-apex-legends-not-launching-master-these-fixes-today/"><u>Quick Resolution for Apex Legends Not Launching? Master These Fixes Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-shooting-in-halo-infinite-tackling-the-notorious-stutter-issue/"><u>Smooth Shooting in Halo Infinite: Tackling the Notorious Stutter Issue</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/the-photopea-blueprint-for-flawless-image-backdrop-for-2024/"><u>The Photopea Blueprint for Flawless Image Backdrop for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-performance-problems-overcoming-dying-lights-fps-challenges/"><u>Troubleshooting Performance Problems: Overcoming Dying Light's FPS Challenges</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999569339-ultimate-fixes-for-outriders-stutter-and-lags-game-optimized-now/"><u>Ultimate Fixes for Outriders Stutter and Lags - Game Optimized Now!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unleash-creativity-on-instagram-stories-with-branded-emojis-for-2024/"><u>Unleash Creativity on Instagram Stories with Branded Emojis for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Simplified Steps for Efficiently Merging Multiple Spreadsheets in Excel: An Expert's Approach"
-date: 2024-08-28T05:43:00.633Z
-updated: 2024-08-29T05:43:00.633Z
+date: 2024-12-09T19:37:12.228Z
+updated: 2024-12-12T18:30:31.177Z
 tags:
   - excel
 categories:
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/3fc14c15f73df5f4c8b19f8291c51668294576df8
 * [Ungrouping Worksheets in Microsoft Excel](https://extra-tips.techidaily.com/updated-2023s-leading-pc-vr-headsets-revealed/)
 
  If you're editing multiple worksheets in Microsoft Excel, it might be helpful to group them together. This allows you to make changes to the same range of cells across multiple worksheets. Here's how to do it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Grouping Multiple Worksheets in Microsoft Excel
 
@@ -37,6 +41,10 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![To group worksheets together in Excel, hold down the Ctrl key and press each worksheet to select it from the worksheet tabs list at the bottom of the Excel window](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/Excel-Grouped-Worksheets.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Grouped worksheets appear with a white background, while unselected worksheets appear in gray.
 
  The example below shows the IF formula we suggested above inserted in the "Class B" worksheet. Thanks to worksheet grouping, the same formula was inserted in cells G4 to G12 on the "Class A" and "Class C" worksheets, too.
@@ -45,9 +53,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
  If we further modify any of these cells---like by adding a second set of formulas to column H---the change will be applied to all the grouped worksheets simultaneously.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  Grouping All Worksheets in Microsoft Excel
 
  When you press and hold Ctrl, you can select multiple individual worksheets and group them together. If you have a much larger workbook, though, this is impractical.
@@ -59,11 +64,13 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 ![To group all of the worksheets in an Excel workbook at once, right-click on a worksheet and click Select All Sheets](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/Excel-Select-All-Sheets.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Ungrouping Worksheets in Microsoft Excel
 
  After you've finished making changes to multiple worksheets, you can ungroup them in two ways.
@@ -73,8 +80,9 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 ![To ungroup worksheets in Excel, right-click on a selected worksheet and click the Ungroup Sheets option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/02/Excel-Ungroup-Sheets.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can also ungroup individual sheets one at a time. Just press and hold Ctrl, and then select the sheets you want to remove from the group. Worksheet tabs you ungroup will return to a gray background.
 
 <ins class="adsbygoogle"
@@ -83,8 +91,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -92,4 +98,26 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-download-and-organize-facebook-urls-top-8-tools-of-the-year/"><u>[New] In 2024, Download & Organize Facebook URLs Top 8 Tools of the Year</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-beginners-guide-to-av1-codec/"><u>[Updated] In 2024, Beginner's Guide to AV1 Codec</u></a></li>
+<li><a href="https://win-blog.techidaily.com/a-beginners-roadmap-enabling-and-using-hyper-v-technology-on-windows-10/"><u>A Beginner's Roadmap: Enabling and Using Hyper-V Technology on Windows 10</u></a></li>
+<li><a href="https://fox-access.techidaily.com/a-step-by-step-approach-to-professional-chromatic-control-for-2024/"><u>A Step by Step Approach to Professional Chromatic Control for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/ai-conversation-revolution-snapchat-myai-or-gpt/"><u>AI Conversation Revolution: Snapchat MyAI or GPT?</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-realme-gt-3-drfone-by-drfone-virtual-android/"><u>Detailed guide of ispoofer for pogo installation On Realme GT 3 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-methods-for-eliminating-game-crash-issues-in-ghost-recon-breakpoint/"><u>Effortless Methods for Eliminating Game Crash Issues in Ghost Recon Breakpoint</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-4-visual-hiccups-resolved-how-to-fix-black-screen-errors/"><u>Fallout 4 Visual Hiccups Resolved: How To Fix Black Screen Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-the-persistent-crashes-of-sovleds-warno-game-on-windows-and-mac/"><u>Fix the Persistent Crashes of SOVLED's Warno Game on Windows & Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-input-problems-a-comprehensive-solution-for-pathfinder-wrath-of-the-righteous-keyboard-malfunction/"><u>Fixing Input Problems: A Comprehensive Solution for Pathfinder Wrath of the Righteous Keyboard Malfunction</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-remove-iphone-14-plus-sim-lock-by-drfone-ios/"><u>How to Remove iPhone 14 Plus SIM Lock?</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-clan-the-challenge-best-games-similar-to-ghost-of-tsushima/"><u>In 2024, Clan the Challenge Best Games Similar to Ghost of Tsushima</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-crafted-clicks-guide-to-software-and-sites-for-superior-photo-framing/"><u>In 2024, Crafted Clicks Guide to Software & Sites for Superior Photo Framing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/24-step-by-step-guide-to-crafting-engaging-valorant-thumbnails/"><u>In 2024, Step-by-Step Guide to Crafting Engaging Valorant Thumbnails</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-fortnite-lag-problems-on-windowsmac-computers/"><u>Solve Your Fortnite Lag Problems on Windows/Mac Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/subnautica-below-zero-on-pc-stop-the-game-from-crashing-with-these-tips/"><u>Subnautica: Below Zero on PC - Stop the Game From Crashing with These Tips!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-continuous-sos2-crashes/"><u>Troubleshooting Guide: Fixing Continuous SOS2 Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-why-call-of-duty-warzone-ignores-your-graphics-card-in-win10/"><u>Troubleshooting: Why Call of Duty Warzone Ignores Your Graphics Card in Win10</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/be-copyright-demystified-key-principles-and-practices-for-2024/"><u>YouTube Copyright Demystified Key Principles and Practices for 2024</u></a></li>
+</ul></div>
 

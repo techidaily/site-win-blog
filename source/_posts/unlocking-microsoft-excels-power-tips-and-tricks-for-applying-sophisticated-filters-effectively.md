@@ -1,7 +1,7 @@
 ---
 title: "Unlocking Microsoft Excel's Power: Tips and Tricks for Applying Sophisticated Filters Effectively"
-date: 2024-08-28T05:43:11.293Z
-updated: 2024-08-29T05:43:11.293Z
+date: 2024-12-10T17:27:36.243Z
+updated: 2024-12-12T17:28:37.788Z
 tags:
   - excel
 categories:
@@ -25,9 +25,6 @@ thumbnail: https://thmb.techidaily.com/c283e5cd1292f67bf9915abb6f80512d4b71e7281
 
  While Microsoft Excel offers a built-in [feature for filtering data](https://facebook-video-share.techidaily.com/free-audio-treasures-to-amplify-youtube-in-2024/), you may have a large number of items in your sheet or need a more complex filter. Here, we'll explain how to create an advanced filter in Excel.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  How to Set Up the Criteria Range
 
  Before you can use the advanced filter in Excel, you'll need to create a cell range for the conditions you'll use.
@@ -46,9 +43,6 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
 ![Criteria range added to a data set](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRangeAdded-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  Once you have the range for your filter conditions set up, you're ready to create the advanced filter.
 
  You can [name your criteria range](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) to automatically pop it into the filter if you like.
@@ -76,6 +70,14 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
 ![Criteria format example in Excel](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaExample-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use a Single Criterion, Single Column Excel Filter
 
  The best way to get started is with a simple example using one condition and one column. Here, we'll filter our data based on the Location ID 2B.
@@ -86,6 +88,10 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
 ![Single condition and column in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/SingleCriteria-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Next, select a cell in your data set, head to the Data tab, and pick "Advanced" in the Sort & Filter section of the ribbon.
 
 ![Advanced filter on the Data tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/DataAdvanced-ExcelAdvancedFilter.png) 
@@ -94,19 +100,21 @@ Related: [How to Insert Multiple Rows in Microsoft Excel](https://some-tips.tech
 
 ![Copy To field for filtering in another location](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CopyTo-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Now confirm the cells in the List Range box. Excel should have added them for you automatically, so simply make sure they're correct.
 
 ![List Range for a filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ListRange-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, enter the cell range into the Criteria Range box. You can do this easily by clicking inside the box and then using your cursor to [drag through the range](https://buynow-tips.techidaily.com/exploring-a-ravaged-world-on-motorcycle-in-days-gone-our-comprehhavis-review/) in your sheet. Be sure to include the column label cells and only additional rows with cells that contain criteria. If you include [empty rows](https://facebook-video-recording.techidaily.com/how-to-maximize-revenue-the-secret-of-fb-animation-campaigns/), it's highly likely that your filter results will be incorrect.
 
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Optionally check the box [if you want unique records](https://youtube-help.techidaily.com/in-2024-unleash-potential-with-optimal-hashtags-for-gaming-vids/) only. Click "OK" when you finish.
 
@@ -140,11 +148,19 @@ Related: [How to Count Unique Values in Microsoft Excel](https://youtube-help.te
 
 ![Multiple condition for one column filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaSingleColumnFiltered-ExcelAdvancedFilter.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  How to Use a Multiple Criteria, Multiple Column Excel Filter
 
  Next, we'll look at using multiple conditions in an advanced Excel filter. This can be [AND or OR](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) criteria. For example, you can filter for Location ID equals 1A _and_ Lead equals Jones where all conditions are true. Or you can filter for Location ID equals 1B _or_ Lead equals Jones where any conditions are true.
 
 Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://extra-skills.techidaily.com/in-2024-spark-engagement-the-ultimate-list-of-video-text-effects/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  All Conditions True
 
@@ -162,14 +178,6 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 
 ![AND conditions in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnAND-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  And just like before, select a cell in the data set, go to the Data tab, and pick "Advanced" to open the tool.
 
  For this filter, we change our criteria range since it only includes rows 1 and 2\. Adjust the other options as necessary and click "OK."
@@ -179,8 +187,9 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  We then have our one result. Remember that placing the criteria in the same row indicates the AND operator. So, even though we have Jones as a Lead for two locations, we filtered for only location 1A with Jones.
 
 ![AND conditions filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnANDFiltered-ExcelAdvancedFilter.png) 
@@ -188,8 +197,9 @@ Related: [How to Use Logical Functions in Excel: IF, AND, OR, XOR, NOT](https://
 Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://some-skills.techidaily.com/new-the-impact-of-testimonial-videos-today/) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ###  Any Conditions True
 
  Next, we'll filter by multiple conditions again, but using OR criteria. For this, you place the conditions in separate rows below the corresponding labels.
@@ -206,9 +216,6 @@ Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://
 
 ![OR conditions in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnOR-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the Advanced filter tool as before, adjust the criteria range to accommodate the additional row, and click "OK."
 
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
@@ -217,19 +224,10 @@ Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://
 
 ![OR conditions filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnORFiltered-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The key to setting up a multiple criteria filter in Excel is that for AND criteria, you place the conditions in the same row and for OR criteria, you place the conditions in separate rows.
 
 ![Criteria range setup for AND versus OR](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/ANDvsOR-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  Any and All Conditions True
 
  For one final example, we'll apply a more complex filter using AND and OR criteria together with a different comparison operator. We'll filter for Location ID equals 1A _and_ Lead equals Jones _or_ Sales is greater than 50,000.
@@ -248,23 +246,18 @@ Related: [How to See All of the Named Cell Ranges in an Excel Workbook](https://
 
 ![AND with OR conditions in the criteria range](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnANDOR-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Open the Advanced filter tool, double-check or adjust the fields as needed, and click "OK."
 
 ![Criteria range for an advanced filter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/CriteriaRange-ExcelAdvancedFilter.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see the results. Here, we have row 2 containing our AND criteria, 1A and Jones. Then, additional rows 3 through 5 containing our OR criteria for Sales greater than 50,000.
 
 ![AND with OR conditions filtered](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/11/MultipleCriteriaColumnANDORFiltered-ExcelAdvancedFilter.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you have a large amount of data in your spreadsheet and need a more [robust filter option](https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-by-drivereasy-guide/), keep the advanced filter in Excel in mind.
 
 Related: [How to Apply a Filter to a Chart in Microsoft Excel](https://blog-min.techidaily.com/how-to-install-device-drivers-manually-on-windows-10-by-drivereasy-guide/)
@@ -275,8 +268,6 @@ Related: [How to Apply a Filter to a Chart in Microsoft Excel](https://blog-min.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -284,4 +275,23 @@ Related: [How to Apply a Filter to a Chart in Microsoft Excel](https://blog-min.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-leading-the-vr-charge-top-10-pc-headsets/"><u>2024 Approved Leading The VR Charge Top 10 PC Headsets</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/approved-maximizing-video-game-earnings/"><u>2024 Approved Maximizing Video Game Earnings</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-navigate-to-noteworthy-youtube-commentaries/"><u>2024 Approved Navigate to Noteworthy YouTube Commentaries</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/discover-the-ultimate-selection-of-7-premium-free-flv-plays-and-download-them-today/"><u>Discover the Ultimate Selection of 7 Premium-Free FLV Plays & Download Them Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/final-fixes-deployed-overcoming-launch-hurdles-for-death-stranding-game/"><u>Final Fixes Deployed - Overcoming Launch Hurdles for Death Stranding Game</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/how-to-safely-update-your-facebook-login-credentials-step-by-step/"><u>How To: Safely Update Your Facebook Login Credentials Step-by-Step</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/identifying-key-windows-movie-maker-alternatives/"><u>Identifying Key Windows Movie Maker Alternatives</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-itel-p40-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Itel P40 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-tips-and-tricks-for-setting-up-your-honor-100-phone-pattern-lock-by-drfone-android/"><u>In 2024, Tips and Tricks for Setting Up your Honor 100 Phone Pattern Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-troubleshooting-no-audio-issues-for-evil-genius-2-players/"><u>Solution Found! Troubleshooting No Audio Issues for Evil Genius 2 Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007775877-successfully-fixed-access-your-origin-profile-again/"><u>Successfully Fixed: Access Your Origin Profile Again!</u></a></li>
+<li><a href="https://techidaily.com/the-easiest-methods-to-hard-reset-huawei-nova-y91-drfone-by-drfone-reset-android-reset-android/"><u>The Easiest Methods to Hard Reset Huawei Nova Y91 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992305353-troubleshoot-your-fortnite-password-problems-in-seconds/"><u>Troubleshoot Your Fortnite Password Problems in Seconds!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-dragons-dogma-2-performance-issues-solutions-for-frame-rate-drops-and-hitches/"><u>Troubleshooting Dragon's Dogma 2 Performance Issues: Solutions for Frame Rate Drops & Hitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-risk-of-rain-2-stability-issues/"><u>Troubleshooting Steps for Resolving Risk of Rain 2 Stability Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-stutters-in-assassins-creed-valhalla-pc-optimization-tips/"><u>Troubleshooting Stutters in Assassin's Creed Valhalla: PC Optimization Tips</u></a></li>
+</ul></div>
 

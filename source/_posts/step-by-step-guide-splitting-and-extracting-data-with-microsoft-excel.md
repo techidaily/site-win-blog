@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Splitting & Extracting Data with Microsoft Excel"
-date: 2024-08-28T05:43:04.247Z
-updated: 2024-08-29T05:43:04.247Z
+date: 2024-12-09T17:06:29.431Z
+updated: 2024-12-12T17:25:26.681Z
 tags:
   - excel
 categories:
@@ -46,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 ![TEXTBEFORE function for a basic extraction](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTBEFOREbasic-ExcelExtractSplitText.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Using this next formula, we'll extract all text before the second instance of the word "text."
 
 =TEXTBEFORE(A2,"text",2)
@@ -60,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/a65a2d3fb958e05df694286812a1e2454a9d6c6ff
 
 Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.techidaily.com/in-2024-high-end-downloads-best-10-apps-for-extracting-vimeo-videos/) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ##  The TEXTAFTER Function
 
  TEXTAFTER is the exact opposite of TEXTBEFORE. The syntax for the function is `TEXTAFTER(text, delimiter, instance, match_mode, match_end, if_not_found)`.
@@ -78,8 +79,9 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 ![TEXTAFTER function for a basic extraction](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTAFTERbasic-ExcelExtractSplitText.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Using this next formula, we'll extract all text after the second instance of the word "text."
 
 =TEXTAFTER(A2,"text",2)
@@ -93,8 +95,13 @@ Related: [13 Essential Excel Functions for Data Entry](https://vimeo-videos.tech
 ![TEXTAFTER function using case sensitive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTAFTERCaseSensitive-ExcelExtractSplitText.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  The TEXTSPLIT Function
 
  With the TEXTSPLIT function you can [split the text](https://fox-glue.techidaily.com/new-in-2024-navigating-the-essentials-of-av1-coders/) into cells in a row or column based on the delimiter, for example, a space or period.
@@ -115,9 +122,6 @@ Related: [How to Split Data Into Multiple Columns in Excel](https://fox-glue.tec
 
 ![TEXTSPLIT function across columns](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTSPLITbasic-ExcelExtractSplitText.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Instead of splitting the string across columns, we'll split it across rows using a space as our `row_delimiter` with this formula:
 
 =TEXTSPLIT(A2,," ")
@@ -126,9 +130,6 @@ Related: [How to Split Data Into Multiple Columns in Excel](https://fox-glue.tec
 
 ![TEXTSPLIT function across rows](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTSPLITRows-ExcelExtractSplitText.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  For this next example, we'll split only after the semicolon into another column:
 
 =TEXTSPLIT(A2,";")
@@ -142,8 +143,9 @@ Related: [How to Split Data Into Multiple Columns in Excel](https://fox-glue.tec
 ![TEXTSPLIT function across rows with a single delimiter](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/08/TEXTSPLITSemicolonRow-ExcelExtractSplitText.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The TEXTSPLIT function is a powerful one. If you're looking for more complex examples of using the optional arguments, visit the [Microsoft Support page for the TEXTSPLIT function](https://support.microsoft.com/en-us/office/textsplit-function-b1ca414e-4c21-4ca0-b1b7-bdecace8a6e7).
 
  The next time you want to extract text from a cell or split a long text string, keep these [Excel functions](https://visual-screen-recording.techidaily.com/in-2024-a-step-by-step-recorder-for-discord-enthusiasts/) in mind. Then, when you need to put strings back together again, learn how to easily [add text to a cell with a formula](https://buynow-reviews.techidaily.com/a-comprehensive-review-top-long-reach-routers-dominating-the-market-in-ebytes/).
@@ -154,8 +156,6 @@ Related: [How to Split Data Into Multiple Columns in Excel](https://fox-glue.tec
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +163,22 @@ Related: [How to Split Data Into Multiple Columns in Excel](https://fox-glue.tec
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-equality-in-tech-easeus-experts-take/"><u>[New] Equality in Tech EaseUS Experts' Take</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-2024-approved-crafting-sequences-a-movie-maker-approach-to-animation/"><u>[Updated] 2024 Approved Crafting Sequences A Movie Maker Approach to Animation</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-leading-ps2-emulators-unveiled-for-iphone-and-ipad/"><u>2024 Approved Leading PS2 Emulators Unveiled for iPhone and iPad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-proven-tweaks-to-minimize-resource-drain-in-baldurs-gate-3-a-step-by-step-guide-for-pc-players-2024-version/"><u>6 Proven Tweaks to Minimize Resource Drain in Baldur's Gate 3: A Step-by-Step Guide for PC Players (2024 Version)</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/deciding-on-ideal-vimeo-subscription-plan-for-2024/"><u>Deciding on Ideal Vimeo Subscription Plan for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-e-game-crash-on-pc-heres-how-to-get-it-running-smoothly/"><u>Hitman E Game Crash on PC? Here's How to Get It Running Smoothly</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-screen-casting-features-in-vlc-examined/"><u>In 2024, Screen Casting Features in VLC Examined</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003538293-master-the-art-of-stable-gaming-overcome-yakuza-6-pc-faults-easily/"><u>Master the Art of Stable Gaming: Overcome Yakuza 6 PC Faults Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pandoras-edge-optimized-and-bug-free-avatar-gaming-on-personal-computers/"><u>Pandora's Edge: Optimized and Bug-Free Avatar Gaming on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-fixes-enjoy-a-smooth-run-with-the-latest-patch-of-wrc-10-by-fia-world-rally-championship/"><u>PC Gaming Fixes: Enjoy a Smooth Run with the Latest Patch of WRC 10 by FIA World Rally Championship</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/professional-filmmaking-essentials-ideal-lenses-to-consider-for-2024/"><u>Professional Filmmaking Essentials Ideal Lenses to Consider for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/quick-guide-unlocking-windows-11/"><u>Quick Guide: Unlocking Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-network-issues-troubleshooting-guide-for-apex-legends-players/"><u>Resolving Network Issues: Troubleshooting Guide for Apex Legends Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-rainbow-six-sieges-server-connectivity-issues/"><u>Troubleshooting Steps: Resolving Rainbow Six Siege's Server Connectivity Issues</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209842427-9780994072504-4k6o4kl4k6v4kn4k6v4k6u4kn/"><u>நோக்கம் | Free Book</u></a></li>
+</ul></div>
 

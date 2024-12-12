@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Guide: Generating Dummy Data Sets with Microsoft Excel"
-date: 2024-08-28T05:42:35.426Z
-updated: 2024-08-29T05:42:35.426Z
+date: 2024-12-09T17:35:05.415Z
+updated: 2024-12-12T18:54:21.910Z
 tags:
   - excel
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 ---
 
 ## Step-by-Step Guide: Generating Dummy Data Sets with Microsoft Excel
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -26,7 +30,15 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![Excel formula bar](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/formula-bar.png.pagespeed.ce_.8yZx-vULvh-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  From there, it's about adding the data you want and then doing a little cleanup.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Adding Random Numbers
 
@@ -46,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![Excel copy data plus](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/plus-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  You can use the same formula for monetary values with a simple tweak. By default, RANDBETWEEN only returns whole numbers, but we can change that by using a slightly modified formula. Just change the dates in parenthesis to meet your needs. In this case, we're choosing a random number between $1 and $1,000.
 
         `=RANDBETWEEN(1,1000)/100`
@@ -59,19 +68,14 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![Excel format cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  Next, choose "Currency" under the "Category" menu and then select the second option under the "Negative Numbers" option. Press "Enter" on the keyboard to finish.
 
 ![Excel format currency](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-currency-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
+
 ##  Adding Dates
 
  Excel's built-in calendar treats each date as a number, with the number one being January 1, 1900\. Finding the number for the date you need isn't so straightforward, but we've got you covered.
@@ -84,38 +88,24 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![Excel date formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/date-formula-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll notice that this doesn't look anything like a date yet. That's okay. Just like in the previous section, we're going to click the "+" sign at the bottom right of the cell and drag it down as far as needed to add additional randomized data.
 
  Once done, highlight all of the data in the column.
 
 ![Excel highlight column](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/date-highlight-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  Right-click and select "Format Cells" from the menu.
 
 ![Excel format cells](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/format-3.png) 
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  From here, choose the "Date" option and then choose the format you prefer from the available list. Press "OK" once you're done (or "Enter" on the keyboard). Now, all of your random numbers should look like dates.
 
 ![Excel data format](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/date-format-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ##  Adding Item Data
 
  Randomized data in Excel isn’t limited to just numbers or dates. Using the "VLOOKUP" feature, we can create a list of products, name it, then pull from it to create a randomized list in another column.
@@ -136,22 +126,24 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
 
 ![Excel highlight cell](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/highlight-cell-2.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Copy and paste the formula into the Formula bar and then press "Enter" on the keyboard or click the "Green" arrow to apply it. You can change the values (1,10) and the name ("products") to fit your needs:
 
         `=VLOOKUP(RANDBETWEEN(1,10),products,2)`
     
 ![Excel formula](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/pets-formula-2.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Click and drag the "+" sign at the bottom right of the cell to copy the data into additional cells below (or to the side).
 
 ![Excel copy data](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/09/more-pets-2.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Whether learning pivot tables, experimenting with formatting, or learning how to create a chart for your next presentation, this dummy data could prove to be just what you need to get the job done.
 
 <ins class="adsbygoogle"
@@ -160,8 +152,6 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +159,21 @@ thumbnail: https://thmb.techidaily.com/b696c7a6d905a9ee861ec6672081d59f4acbd6b39
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-a-leap-forward-in-mobile-photography-iphone-x-unveiled/"><u>[New] In 2024, A Leap Forward in Mobile Photography IPhone X Unveiled</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-top-choice-microphones-for-youtube-creators/"><u>[New] Top Choice Microphones for YouTube Creators</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-2024-approved-4-ways-to-record-powerpoint-presentation-with-webcam-2023/"><u>[Updated] 2024 Approved 4 Ways to Record PowerPoint Presentation with Webcam 2023</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-quality-hearables-leading-podcasters-on-googloud/"><u>[Updated] High-Quality Hearables Leading Podcasters on GooGloud</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-financial-free-editing-the-ultimate-guide-to-fcp/"><u>2024 Approved Financial-Free Editing The Ultimate Guide to FCP</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-overcoming-challenges-in-periscope-livestreams/"><u>2024 Approved Overcoming Challenges in Periscope Livestreams</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-solving-metro-exodus-pc-stability-problems/"><u>Comprehensive Guide to Solving Metro Exodus PC Stability Problems</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/craft-chic-designs-with-easy-to-use-templates-at-flipbuildercom/"><u>Craft Chic Designs with Easy-to-Use Templates at FlipBuilder.com</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/detailed-guide-of-ispoofer-for-pogo-installation-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>Detailed guide of ispoofer for pogo installation On Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-unexpected-app-crashes-6-reliable-techniques-for-windows-users/"><u>How to Stop Unexpected App Crashes: 6 Reliable Techniques for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011624733-la-noire-release-delayed-for-pc-platform-resolved/"><u>L.A. Noire Release Delayed for PC Platform? Resolved!</u></a></li>
+<li><a href="https://win11.techidaily.com/optimizing-pc-with-effective-directx-updates/"><u>Optimizing PC with Effective DirectX Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008312412-resolved-problems-in-call-of-duty-modern-warfare-fps-enjoy-the-fixes-and-features/"><u>Resolved Problems in Call of Duty: Modern Warfare FPS - Enjoy the Fixes and Features</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-the-latest-pc-launch-problems-with-call-of-duty-modern-warfare-202cuadro/"><u>Solve the Latest PC Launch Problems with Call of Duty: Modern Warfare (202Cuadro)</u></a></li>
+</ul></div>
 

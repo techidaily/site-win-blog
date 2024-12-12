@@ -1,7 +1,7 @@
 ---
 title: "Mastering Data Retrieval From Office Docs: Images, Text, & File Extraction Techniques"
-date: 2024-08-28T05:42:54.771Z
-updated: 2024-08-29T05:42:54.771Z
+date: 2024-12-07T16:37:12.207Z
+updated: 2024-12-12T18:04:13.859Z
 tags:
   - excel
 categories:
@@ -31,6 +31,10 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![02a_rename_confirmation](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/02a_rename_confirmation.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Windows automatically recognizes the file as a zipped file. To extract the contents of the file, right-click on the file and select “Extract All” from the popup menu.
 
 ![03_selecting_extract_all](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/03_selecting_extract_all.png) 
@@ -47,19 +51,35 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![06_clicking_extract](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/06_clicking_extract.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ###  How to Access the Extracted Images
 
  Included in the extracted contents is a folder named “word”, if your original file is a Word document (or “xl” for an Excel document or “ppt” for a PowerPoint document). Double-click on the “word” folder to open it.
 
 ![07_opening_word_folder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/07_opening_word_folder.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Double-click the “media” folder.
 
 ![08_opening_media_folder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/08_opening_media_folder.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  All the images from the original file are in the “media” folder. The extracted files are the original images used by the document. Inside the document, there may be resizing or other properties set, but the extracted files are the raw images without these properties applied.
 
 ![09_images_from_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/09_images_from_file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ###  How to Access the Extracted Text
 
@@ -67,25 +87,14 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![10_document_xml_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/10_document_xml_file.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can open this file in a text editor, such as Notepad or WordPad, but it’s easier to read in a special XML editor, such as the free program, [XML Notepad](https://xmlnotepad.codeplex.com/). All the text from the file is available in chunks of plain text regardless of the style and/or formatting applied in the document itself. Of course, if you're going to download free software to view this text, you might as well download [LibreOffice](https://www.libreoffice.org/download/libreoffice-fresh/), which can read Microsoft Office documents.
 
 ![11_document_xml_file_open_in_xml_notepad](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/11_document_xml_file_open_in_xml_notepad.png) 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ###  How to Extract Embedded OLE Objects or Attached Files
 
  To access embedded files in a Word document when you don’t have access to Word, first open the Word file in WordPad (which comes built into Windows). You might notice that some of the embedded file icons do not display, but they’re still there. Some of the embedded files might have partial filenames. WordPad does not support all of Word’s features, so some content might be displayed improperly. But you should be able to access the files.
@@ -94,9 +103,6 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![11a_opening_pdf_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/11a_opening_pdf_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If WordPad doesn't have an option for opening your file, make note of its file type here. For example, our second file in this document is a .mp3 file.
 
  Then, go back to your "Files from \[Document\]" folder and double-click the “embeddings” folder inside the “word” folder.
@@ -107,9 +113,6 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 
 ![13_extracted_embedded_files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/13_extracted_embedded_files-1.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Note that not all files will necessarily open using this process--for example, our PDF file opened correctly from WordPad, but we couldn't get it to open by renaming its .bin file.
 
  Once you’ve extracted the content of the zipped file, you can revert the extension of the original file back to .docx, .xlsx, or .pptx. The file will remain intact and can be opened normally in the corresponding program.
@@ -123,19 +126,20 @@ Say someone sent you a Word document with a lot of images, and you want you to s
 ![14_welcome_screen](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/14_welcome_screen.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  First, we need to select the file from which you want to extract the images. On the Input & Output screen, click the "Browse" (folder icon) button to the right of the Document edit box.
 
 ![15_clicking_browse_for_document](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/15_clicking_browse_for_document.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Navigate to the folder containing the document you want, select it, and click "Open".
 
 ![16_opening_word_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/16_opening_word_file.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The folder that contains the selected file automatically becomes the Output folder. To create a subfolder within that folder named the same as the selected file, click the "Create a folder here" check box so there is a check mark in the box. Then, click "Next".
 
@@ -146,50 +150,37 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![18_ready_to_start](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/18_ready_to_start.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The following screen displays while the extraction processes.
 
 ![19_processing_please_wait](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/19_processing_please_wait.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  On the Finished screen, click the "Click here to open destination folder" to view the resulting image files.
 
 ![20_opening_destination_folder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/20_opening_destination_folder.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
  Because we chose to create a subfolder, we get a folder containing the image files extracted from the file.
 
 ![21_opening_subfolder](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/21_opening_subfolder.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You will see all the images as numbered files.
 
 ![22_images_from_older_word_file](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/22_images_from_older_word_file.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also extract images from multiple files at once. To do this, on the Input & Output screen, click the "Batch Mode" check box so there is a check mark in the box.
 
 ![23_clicking_batch_mode](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/23_clicking_batch_mode.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  The Batch Input & Output screen displays. Click "Add Files".
 
 ![24_clicking_add_files](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2016/03/24_clicking_add_files.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the Open dialog box, navigate to the folder containing any of the files from which you want to extract images, select the files using the "Shift" or "Ctrl" key to select multiple files, and click "Open".
 
  You can add files from another folder by clicking "Add Files" again, navigating to the folder on the Open dialog box, selecting the desired files, and clicking "Open".
@@ -232,8 +223,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +230,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-how-to-make-and-download-your-own-instagram-sound/"><u>[New] How to Make & Download Your Own Instagram Sound</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-century-age-of-ashes-keeps-crashing-on-pc/"><u>[SOLVED] Century: Age of Ashes Keeps Crashing on PC</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-excellence-in-viewing-windows-phones-premium-apps/"><u>[Updated] 2024 Approved Excellence in Viewing Windows Phone's Premium Apps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-explore-the-limitless-potential-of-fb-vr-upload-tips/"><u>[Updated] In 2024, Explore the Limitless Potential of FB VR Upload Tips</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-top-20-youtube-friendly-facebook-video-editors-for-2024/"><u>[Updated] Top 20 YouTube-Friendly Facebook Video Editors for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-the-blockade-how-to-successfully-launch-your-adobe-app-after-encountering-error-0xc0000-(b)c(b)22/"><u>Bypassing the Blockade: How to Successfully Launch Your Adobe App After Encountering Error 0xC0000 <B>c</B>22</u></a></li>
+<li><a href="https://fox-place.techidaily.com/download-now-new-pcdj-karaoki-beta-v08770-for-testing-and-feedback-unlocked-trial-edition/"><u>Download Now: New PCDJ Karaoki Beta v0.8.#770 for Testing and Feedback | Unlocked Trial Edition</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/guide-setting-up-your-input-devices-on-android-mouse-keyboard-and-controllers/"><u>Guide: Setting Up Your Input Devices on Android – Mouse, Keyboard & Controllers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-your-football-manager-2022-from-crashing-on-windows/"><u>How to Stop Your Football Manager 2022 From Crashing on Windows</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-3-ways-to-unlock-iphone-6-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>In 2024, 3 Ways to Unlock iPhone 6 without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-achieve-proficiency-in-audio-upload-with-google/"><u>In 2024, Achieve Proficiency in Audio Upload with Google</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-childhood-cruisers-crafted-games/"><u>In 2024, Childhood Cruisers, Crafted Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/increase-your-frame-rate-proven-methods-to-enhance-fps-in-ring-of-elysium/"><u>Increase Your Frame Rate: Proven Methods to Enhance FPS in Ring of Elysium</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-a-stutter-free-experience-in-halo-infinite-with-these-fixes/"><u>Mastering a Stutter-Free Experience in Halo Infinite with These Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-fix-permanent-solutions-for-pc-players-struggling-with-slime-rancher-2-downloads/"><u>Mastering the Fix: Permanent Solutions for PC Players Struggling with Slime Rancher 2 Downloads</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/mending-windows-update-error-0x8024800c-failure/"><u>Mending Windows Update Error 0X8024800C Failure</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-lag-in-fortnite-expert-tips-and-fixes-that-work/"><u>Overcome Lag in Fortnite: Expert Tips and Fixes That Work!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006724950-quick-fix-for-gamepad-failures-get-back-to-gaming-now/"><u>Quick Fix for Gamepad Failures – Get Back to Gaming Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valheim-gaming-guide-eliminating-stutters-and-crashes-for-uninterrupted-pc-gameplay/"><u>Valheim Gaming Guide: Eliminating Stutters & Crashes for Uninterrupted PC Gameplay</u></a></li>
+</ul></div>
 

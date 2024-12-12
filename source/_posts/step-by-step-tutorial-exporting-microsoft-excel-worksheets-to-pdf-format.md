@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Tutorial: Exporting Microsoft Excel Worksheets to PDF Format"
-date: 2024-08-28T05:43:05.446Z
-updated: 2024-08-29T05:43:05.446Z
+date: 2024-12-06T17:29:01.379Z
+updated: 2024-12-12T19:03:08.938Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  Saving an Excel spreadsheet as a PDF can be confusing, and the finished file often looks different from how we want it to be presented. Here's how to save a sheet as a readable clean PDF file.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Excel Files as PDFs
 
  There are many scenarios when you may want to save an Excel document as a PDF file instead of a spreadsheet. For example, if you wish to send out only a specific portion of a larger sheet, or you don't want it to be editable. However, converting an Excel file to a PDF can be a bit tricky.
@@ -29,12 +33,13 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
  Here's how to turn your spreadsheet into a presentable and printable PDF document.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Setting Up the Page
 
 ![Excel - Page Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/page-setup.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you're using Office 2008 or later, navigate to the Page Layout tab. Here, you'll see several options grouped under the Page Setup section. Here are the first three:
 
@@ -52,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/9a0ccdfbe8da8591524befa7834f5f64eb569a97d
 
 Related: [How to Print an Excel Spreadsheet with a Background](https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/) 
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Defining a Print Area and Fitting
 
  Next, you need to determine what area is going to be turned into a PDF, as well as how many rows and columns will be on each page.
@@ -68,24 +70,23 @@ Related: [How to Print an Excel Spreadsheet with a Background](https://article-p
 ![Excel - Page Breaks](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/insert-page-break.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Another important thing to do is to define the Scale to Fit option. To the right of Page Setup, you'll see three options: Width, Height, and Scale. The Width and Height options allow you to set how many pages the rows or columns of your table will appear in. For example, if you have a lot of rows but just a few columns, setting the Width to one page is ideal. Scale, on the other hand, will determine the overall resizing of your entire print area.
 
 ![Excel - Scale to Fit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/scale-to-fit.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Sheet Options
 
  The last menu you should pay attention to is Sheet Options. These are settings that affect the appearance of your final printed sheet. To access the full sheet options, click on the arrow on the lower-left corner of Sheet Options sections.
 
 ![Excel - Sheet Options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/sheet-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here's an overview of the various customizations you can do in this menu:
 
 * **Print Titles:** You can freeze specific rows and columns of the sheet in place so that they appear on every page, such as headers and labels.
@@ -98,10 +99,6 @@ Related: [How to Print an Excel Spreadsheet with a Background](https://article-p
 
 Related: [How to Print a Worksheet with Comments in Excel](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-c67-4g-for-parents-drfone-by-drfone-virtual-android/) 
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ##  Saving or Printing as PDF
 
  With your document correctly formatted and all set to go, there are two ways you can create a PDF.
@@ -121,6 +118,10 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ![Excel - Print as PDF](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/print-as-pdf.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Related: [How to Print to PDF in Windows: 4 Tips and Tricks](https://some-knowledge.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-for-free/)
 
 <ins class="adsbygoogle"
@@ -129,8 +130,6 @@ Related: [How to Print to PDF in Windows: 4 Tips and Tricks](https://some-knowle
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +137,19 @@ Related: [How to Print to PDF in Windows: 4 Tips and Tricks](https://some-knowle
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-ignite-your-networking-join-the-1k-club-on-instagram-regularly/"><u>[Updated] 2024 Approved Ignite Your Networking Join the 1K Club on Instagram Regularly</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-the-artisans-approach-to-script-dialogue/"><u>[Updated] In 2024, The Artisan’s Approach to Script Dialogue</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-transforming-scenes-with-ease-your-gopro-time-lapse-guide/"><u>[Updated] Transforming Scenes with Ease Your GoPro Time-Lapse Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fix-for-unstable-darkest-dungeon-gameplay-on-windows-computers/"><u>Expert Fix for Unstable Darkest Dungeon Ⅱ Gameplay on Windows Computers</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/flash-videos-aus-webseiten-wie-youtube-facebook-und-dailymotion-bequem-speichern/"><u>Flash-Videos Aus Webseiten Wie YouTube, Facebook Und Dailymotion Bequem Speichern</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-counter-strike-2-performance-tips-to-increase-fps-and-reduce-lag/"><u>Improve Counter-Strike 2 Performance: Tips to Increase FPS & Reduce Lag</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-ultimate-list-where-to-pull-off-ringtone-files/"><u>In 2024, Ultimate List Where To Pull Off Ringtone Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maplestory-pc-troubleshooting-guide-stop-windows-10-crashes-and-enjoy-gaming/"><u>MapleStory PC Troubleshooting Guide - Stop Windows 10 Crashes & Enjoy Gaming</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/mastering-dvd-to-hevch265-mp4-conversion-a-comprehensive-tutorial-for-windows-and-mac-enthusiasts/"><u>Mastering DVD to HEVC/H.265 MP4 Conversion: A Comprehensive Tutorial for Windows and Mac Enthusiasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-connectivity-effective-solutions-to-address-new-world-server-delays-and-connection-issues/"><u>Optimizing Connectivity: Effective Solutions to Address 'New World' Server Delays and Connection Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-remote-play-malfunctions-proven-fixes-for-a-seamless-gaming-experience/"><u>Steam Remote Play Malfunctions: Proven Fixes for a Seamless Gaming Experience!</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-2024-approved-the-ultimate-list-of-free-online-video-editing-tools/"><u>Updated 2024 Approved The Ultimate List of Free Online Video Editing Tools</u></a></li>
+</ul></div>
 

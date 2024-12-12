@@ -1,7 +1,7 @@
 ---
 title: "Unlocking New Possibilities with Hyperlink in MS Excel: Discover 6 Key Ways to Use It"
-date: 2024-08-28T05:42:43.716Z
-updated: 2024-08-29T05:42:43.716Z
+date: 2024-12-10T17:41:55.436Z
+updated: 2024-12-12T16:58:49.760Z
 tags:
   - excel
 categories:
@@ -21,15 +21,16 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 * [Link to a Workbook on the Web](https://article-tips.techidaily.com/2024-approved-the-prime-picks-best-storytelling-channels-fans/)
 * [Link to a Word Document](https://video-screen-grab.techidaily.com/updated-pocket-safari-androids-selection-of-best-simulators/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Key Takeaways
 
 With the HYPERLINK function, you can enter a file path or URL with the sheet, cell, or defined name you want to link to. For example: "=HYPERLINK("\[HTG\_Desktop.xlsx\]Sheet1!A6")" Insert display text to make your link friendlier.
 
  Excel offers its own [built-in linking feature in the toolbar](https://tech-revival.techidaily.com/enhance-your-at-home-workflow-with-these-6-ingenious-uses-of-chatgpt/). But the HYPERLINK function lets you do more, like a link to a workbook on your company intranet, shared server, another drive, or even a bookmark in a Word document. Let's look at everything you can do with this versatile function.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  What Is the HYPERLINK Function?
 
  HYPERLINK in Excel is a function for [creating clickable links](https://android-location.techidaily.com/in-2024-3-effective-methods-to-fake-gps-location-on-android-for-your-samsung-galaxy-s23-drfone-by-drfone-virtual/) to all sorts of places and objects. You could, of course, do some of the same things that HYPERLINK does using the Link tool in Excel. However, a [formula](https://games-able.techidaily.com/is-premium-play-on-demand-worth-it/) gives you finer control of the link, and HYPERLINK is a simple function to learn that can get you comfortable with creating formulas in general. Additionally, HYPERLINK lets you link directly to a specific cell or defined name.
@@ -44,14 +45,6 @@ With the HYPERLINK function, you can enter a file path or URL with the sheet, ce
 
 Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.techidaily.com/new-secure-and-unshakable-direct-url-addition-on-your-tiktok-profile/) 
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  1\. Link to a Cell in the Spreadsheet
 
  To link to a certain cell in the current spreadsheet, you'll include the file name, sheet name, and cell reference. Notice that you place the file name in brackets and the entire argument in quotes.
@@ -62,14 +55,15 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link within the current sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkCurrentSheet-ExcelHYPERLINKFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  To link to the same file, sheet, and cell, but use a friendly name for the link like "Go to A6", you can use this formula:
 
 =HYPERLINK("[HTG_Desktop.xlsx]Sheet1!A6","Go to A6")
 
 ![HYPERLINK function to link within the current sheet and use display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkCurrentSheetText-ExcelHYPERLINKFunction.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  2\. Link to a Cell Within the Workbook
 
@@ -81,14 +75,15 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link to a cell in another sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherSheet-ExcelHYPERLINKFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can also insert the [CELL function](https://support.microsoft.com/en-us/office/cell-function-51bd39a5-f338-4dbe-a33f-955d67c2b2cf) as the `location` argument rather than typing the file name. Here's the formula for linking to the same cell as above:
 
 =HYPERLINK(CELL("address",Sheet2!B2))
 
 ![HYPERLINK and CELL functions](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherSheetCELL-ExcelHYPERLINKFunction.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For this combined function formula, you can also enter display text for the `text` argument. Instead of adding text in quotes, we'll use the value in cell D1 which is the word "Title":
 
@@ -97,11 +92,13 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 ![HYPERLINK and CELL functions with a cell as display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherSheetCELLText-ExcelHYPERLINKFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  3\. Link to a Defined Name
 
  Maybe you'd like to link to a [named range of cells](https://fox-blue.techidaily.com/2024-approved-mastering-chroma-key-techniques-in-live-broadcasts/) in the current or another Excel workbook. In this case, you'll add brackets around the path directly before the defined name.
@@ -113,29 +110,21 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 ![HYPERLINK function to link a defined name](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkCurrentDefinedName-ExcelHYPERLINKFunction.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To link to the defined name Totals in a different workbook, you'll enter the complete path in brackets followed by the cell range name like this:
 
 =HYPERLINK("[C:\\Users\Sandy\Desktop\MyDataEntryForm.xlsx]Totals")
 
 ![HYPERLINK function to link a defined name in another sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDefinedName-ExcelHYPERLINKFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To use something different for the display text, in either example, simply add it to the second argument:
 
 =HYPERLINK("[HTG_Desktop.xlsx]Scores","Go There")
 
 ![HYPERLINK function to link a defined name with display text](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDefinedNameText-ExcelHYPERLINKFunction.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  4\. Link to a Workbook on Another Drive
 
 [Linking to an Excel file](https://extra-approaches.techidaily.com/new-reviewing-the-unseen-facebooks-privacy-and-security-guide/) on a different drive on your computer is another option. You can also link directly to a cell or named range if needed.
@@ -158,6 +147,10 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 
 ![HYPERLINK function to link a defined name on another drive](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkOtherDriveDefinedNameText-ExcelHYPERLINKFunction.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  5\. Link to a Workbook on the Web
 
  Maybe the workbook you want to link to is on your company intranet or a website. You can link to a remote XLSX file by including the full path in quotes as follows:
@@ -171,6 +164,10 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
 =HYPERLINK("[http://www.mysite.com/report.xlsx],Sheet1!A7")
 
 ![HYPERLINK function to link a workbook cell on the web](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/12/LinkWebCell-ExcelHYPERLINKFunction.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  6\. Link to a Word Document
 
@@ -204,8 +201,6 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -213,4 +208,21 @@ Related: [How to Remove Hyperlinks in Microsoft Excel](https://extra-guidance.te
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ey-elements-of-successful-youtube-channel-imagery-for-2024/"><u>[New] Key Elements of Successful YouTube Channel Imagery for 2024</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-snapedit-101-simple-steps-to-stunning-photos/"><u>[New] Snapedit 101 Simple Steps to Stunning Photos</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-zooming-in-a-step-by-step-guide-to-perfect-screenshare/"><u>[Updated] In 2024, Zooming In A Step-by-Step Guide to Perfect Screenshare</u></a></li>
+<li><a href="https://win11.techidaily.com/correcting-nvidia-experience-error-setting-retrieval-woes-in-windows-1011/"><u>Correcting NVIDIA Experience Error - Setting Retrieval Woes in Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-free-experience-resolving-kernelbasedll-glitches-with-ease/"><u>Crash-Free Experience: Resolving KernelBase.dll Glitches with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/detailed-guide-overcoming-the-2022-dota-2-cheating-flag-vac-error-in-steps/"><u>Detailed Guide: Overcoming the 2022 Dota 2 Cheating Flag (VAC Error) in Steps</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easiest-guide-how-to-clone-honor-90-pro-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>Easiest Guide How to Clone Honor 90 Pro Phone? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-unstuck-repairing-issues-with-fnaf-security-breach-for-pc-users/"><u>Get Unstuck! Repairing Issues with FNAF Security Breach for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-fixing-eac-startup-problems-confirm-successful-installation-of-easy-anti-cheat-software/"><u>Guide to Fixing EAC Startup Problems: Confirm Successful Installation of Easy Anti-Cheat Software</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-4-sim-location-trackers-to-easily-find-your-lost-vivo-t2x-5g-device-by-drfone-android/"><u>In 2024, Top 4 SIM Location Trackers To Easily Find Your Lost Vivo T2x 5G Device</u></a></li>
+<li><a href="https://fox-place.techidaily.com/install-microsoft-windows-11-sur-un-nouveau-disque-dur-decouvrez-deux-methodes-faciles-a-suivre/"><u>Install Microsoft Windows 11 Sur Un Nouveau Disque Dur : Découvrez Deux Méthodes Faciles À Suivre</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/overcome-the-invisibility-of-short-videos-for-2024/"><u>Overcome The Invisibility of Short Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-tormented-souls-pc-bugs-a-step-by-step-guide-to-preventing-game-crashes/"><u>Overcoming Tormented Souls PC Bugs: A Step-by-Step Guide to Preventing Game Crashes</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/unleashing-your-potential-top-7-efficiency-enhancing-widgets-for-win-11/"><u>Unleashing Your Potential: Top 7 Efficiency Enhancing Widgets for Win 11</u></a></li>
+</ul></div>
 

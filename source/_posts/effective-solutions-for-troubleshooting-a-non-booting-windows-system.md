@@ -1,7 +1,7 @@
 ---
 title: Effective Solutions for Troubleshooting a Non-Booting Windows System
-date: 2024-08-28T05:39:59.545Z
-updated: 2024-08-29T05:39:59.545Z
+date: 2024-12-11T18:17:38.247Z
+updated: 2024-12-12T19:20:54.924Z
 tags:
   - windows
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 ---
 
 ## Effective Solutions for Troubleshooting a Non-Booting Windows System
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -24,6 +28,10 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
 
  Modern versions of Windows are better at recovering from this sort of thing. Where Windows XP might have stopped in its tracks when faced with this problem, modern versions of Windows will try to automatically run Startup Repair.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  First Things First: Has Anything Changed?
 
  Be sure to think about changes you've made recently—did you recently install a new hardware driver, connect a new hardware component to your computer, or open your computer's case and do something? It's possible the hardware driver is buggy, the new hardware is incompatible, or that you accidentally unplugged something while working inside your computer.
@@ -31,17 +39,9 @@ thumbnail: https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024
  With those things in mind, you may be able to narrow down where the problem is. 
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  If the Computer Won't Power On At All
 
 ![A Windows PC being assembled.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/52650799621_1bf28092b3_o.jpg) 
@@ -58,12 +58,13 @@ Hannah Stryker / How-To Geek
 
  Be sure to check your computer monitor—if your computer seems to power on, but your screen stays black, ensure your monitor is powered on and that the cable connecting it to your computer's case is plugged in securely at both ends.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ##  The Computer Powers On And Says No Bootable Device
 
 ![no-bootable-medium-found](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/10/no-bootable-medium-found.png) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If your computer is powering on but you get a black screen that says something like "No Bootable Device" or another sort of "disk error" message, your computer can't seem to boot from the drive that Windows was installed on. Enter your computer's BIOS or UEFI firmware setup screen and [check its boot order setting](https://extra-guidance.techidaily.com/2024-approved-navigating-through-gopros-burst-recording-options/), ensuring that it's set to boot from the correct hard drive.
 
@@ -72,8 +73,9 @@ Hannah Stryker / How-To Geek
  If everything looks fine in the BIOS and your drive isn't disconnected, you may want to insert Windows installation or recovery media and [run the Startup Repair operation](https://fox-blue.techidaily.com/guide-to-fade-out-music-in-premiere-pro-for-2024/). This will attempt to make Windows bootable again. For example, if something overwrote your Windows drive's boot sector, this will repair the boot sector. If the recovery environment won't load or doesn't see your hard drive, you likely have a hardware problem. Be sure to check your BIOS or UEFI's boot order first if the recovery environment won't load.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  If Windows Freezes or Crashes During Boot
 
 ![windows-startup-repair](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/10/windows-startup-repair-1.png) 
@@ -86,9 +88,6 @@ Hannah Stryker / How-To Geek
 
 ![/wordpress/wp-content/uploads/2013/05/windows-8-blue-screen-error.png](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2013/05/windows-8-blue-screen-error.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If Windows crashes or blue screens on you every time it boots, you may be facing a hardware or software problem. For example, malware or a buggy driver may be loading at boot and causing the crash, or your computer's hardware may be malfunctioning.
 
  To test this, [boot your Windows computer in safe mode](https://video-capture.techidaily.com/new-essential-scripting-instant-stopwatch-integration-in-obs-for-2024/). In safe mode, Windows won't load typical hardware drivers or any software that starts automatically at startup. If the computer is stable in safe mode, try uninstalling any recently installed hardware drivers, performing a system restore, and scanning for malware. If you're lucky, one of these steps may fix your software problem and allow you to boot Windows normally. You should also remove any new devices you installed, even if it is something simple, like a new mouse, keyboard, or webcam. 
@@ -101,16 +100,10 @@ chkdsk /f /r
 
  If your problem isn't fixed, try [reinstalling Windows](https://android-unlock.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-lava-blaze-2-pro-by-drfone-android/) or performing a [reset on Windows 10 or Windows 11](https://extra-support.techidaily.com/2024-approved-mastering-video-editing-on-a-budget-with-free-fcp/). This will reset your computer back to its clean, factory-default state. If you're still experiencing crashes, your computer likely has a hardware problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ##  How to Recover Files When Windows Won't Boot
 
 ![File Explorer open on Windows 11 showing the primary drive.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/stuff-on-drive.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
  If you have important files that will be lost and want to back them up before reinstalling Windows, you can [use a Windows installer or Linux live media to recover the files](https://extra-guidance.techidaily.com/new-step-by-step-approach-for-verifying-your-age-on-tiktok/). These run entirely from a CD, DVD, or USB drive and allow you to copy your files to another external media, such as another USB stick or an external hard drive.
 
  If you're incapable of booting a Windows installer disc or Linux live CD, you may need to go into your BIOS or UEFI and change the boot order setting.
@@ -129,8 +122,6 @@ chkdsk /f /r
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -138,4 +129,18 @@ chkdsk /f /r
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-capture-speeches-and-load-onto-ppt-clips/"><u>[New] Capture Speeches and Load Onto PPT Clips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-download-unlimited-mcb-visual-elements-for-2024/"><u>[New] Download Unlimited MCB Visual Elements for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-crafting-universal-streams-for-youtube-and-beyond-networks/"><u>[New] In 2024, Crafting Universal Streams for YouTube & Beyond Networks</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/3-effective-ways-to-unlock-icloud-account-without-password-from-iphone-12-mini-by-drfone-ios/"><u>3 Effective Ways to Unlock iCloud Account Without Password From iPhone 12 mini</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bluestacks-keeping-you-down-solve-the-problem-with-this-easy-5-step-fix/"><u>BlueStacks Keeping You Down? Solve the Problem with This Easy 5-Step Fix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-error-messages-and-solutions-for-the-battlenet-desktop-client/"><u>Common Error Messages and Solutions for the Battle.net Desktop Client</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-oneplus-12r-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, Top 5 Tracking Apps to Track OnePlus 12R without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/inside-llms-revolutionizing-text-understanding/"><u>Inside LLMs: Revolutionizing Text Understanding</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/troubleshooting-and-tips-for-successfully-setting-up-your-samsung-universal-tv-remote-with-any-television-brand/"><u>Troubleshooting and Tips for Successfully Setting Up Your Samsung Universal TV Remote with Any Television Brand</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-fixing-fallout-4s-monochrome-visual-glitch/"><u>Troubleshooting Tips: Fixing Fallout 4'S Monochrome Visual Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-ending-lag-issues-with-obs-for-seamless-streaming-and-recording/"><u>Ultimate Guide: Ending Lag Issues with OBS for Seamless Streaming & Recording</u></a></li>
+</ul></div>
 

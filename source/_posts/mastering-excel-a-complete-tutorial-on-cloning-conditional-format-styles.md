@@ -1,7 +1,7 @@
 ---
 title: "Mastering Excel: A Complete Tutorial on Cloning Conditional Format Styles"
-date: 2024-08-28T05:42:25.018Z
-updated: 2024-08-29T05:42:25.018Z
+date: 2024-12-05T18:02:28.265Z
+updated: 2024-12-12T16:04:38.646Z
 tags:
   - excel
 categories:
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/b1cba008df1c48de3d3ce1280dbcf873e7a62b2d4
 
  You might have [a conditional formatting rule based on date](https://fox-blue.techidaily.com/updated-2024-approved-ultimate-list-selecting-excellent-webcams-for-podcasts/) that you want to use for other dates. Or, you may have [a rule for finding duplicates](https://instagram-clips.techidaily.com/how-to-share-igtv-videos-to-facebook-3-ways-for-2024/) and need to use it on another sheet. We'll show you three ways to copy conditional formatting in Excel and use it elsewhere in your spreadsheet or in another sheet in the same workbook.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Copy Formatting Using Format Painter
 
 [Format Painter](https://fix-guide.techidaily.com/restore-missing-app-icon-on-motorola-razr-40-step-by-step-solutions-drfone-by-drfone-fix-android-problems-fix-android-problems/) is a helpful Office tool that lets you copy formatting to other parts of your document. With it, you can copy a conditional formatting rule to other cells.
@@ -31,6 +35,10 @@ Related: [Copy Excel Formatting the Easy Way with Format Painter](https://fix-gu
 
 ![Format Painter on the Home tab](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/HomeFormatPainter-ExcelCopyConditionalFormatting.png) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You'll see your cursor change to a plus sign with a paint brush. Select the cells you want to apply the same rule to, making sure to drag through adjacent cells.
 
 ![Using the Painter to copy the formatting rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/UseFormatPainter-ExcelCopyConditionalFormatting.png) 
@@ -39,9 +47,6 @@ Related: [Copy Excel Formatting the Easy Way with Format Painter](https://fix-gu
 
 ![Confirm the rule in the Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ConfirmFormatPainter-ExcelCopyConditionalFormatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  Copy Formatting Using Paste Special
 
  The Paste Special options in Excel can do more than help you [add or multiply values](https://extra-support.techidaily.com/2024-approved-step-by-step-perfectly-sharing-your-photography-on-youtube/). You can use the formatting paste action to apply conditional formatting too.
@@ -65,17 +70,17 @@ Related: [How to Add or Multiply Values with Paste Special in Microsoft Excel](h
 ![Paste Special Formatting option](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/HomePasteSpecial-ExcelCopyConditionalFormatting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You'll then see the formatting apply to your selected cells. Again, you can confirm that the rule copied and not just the formatting by viewing the Conditional Formatting Rules Manager.
 
 ![Confirm the rule in the Manager](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/ConfirmPasteSpecial-ExcelCopyConditionalFormatting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  Copy Formatting Using the Conditional Formatting Rules Manager
 
  The Conditional Formatting Rules Manager helps you [keep track of rules](https://howto.techidaily.com/full-guide-how-to-fix-connection-is-not-private-on-tecno-spark-10-pro-drfone-by-drfone-fix-android-problems-fix-android-problems/) you've set up in your sheet or workbook. It can also help you copy formatting by making a duplicate rule and then editing it slightly to fit other cells.
@@ -86,16 +91,14 @@ Related: [How to Manage Conditional Formatting Rules in Microsoft Excel](https:/
 
 ![Manage Rules in the Conditional Formatting drop-down list](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/HomeManageRules-ExcelCopyConditionalFormatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When the Conditional Formatting Rules Manager opens, select "This Worksheet" in the drop-down box at the top. If the rule you want to duplicate is on a different sheet, you can select it from the drop-down list instead.
 
 ![Select a sheet](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/SelectSheet-ExcelCopyConditionalFormatting.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then, select the rule you want to copy at the bottom and click "Duplicate Rule."
 
 ![Duplicate the rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/DuplicateRule-ExcelCopyConditionalFormatting.png) 
@@ -104,10 +107,6 @@ Related: [How to Manage Conditional Formatting Rules in Microsoft Excel](https:/
 
 ![Duplicate the rule](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2022/02/DuplicateRule-ExcelCopyConditionalFormatting.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Click "Apply" to apply the rule to the new cells and "Close" to exit the Rules Manager window.
 
 [Conditional formatting](https://facebook-video-share.techidaily.com/updated-in-depth-asmr-video-insights/) gives you a great way to make certain data in your sheet stand out. So if you decide to apply the same rule to other cells or sheets, remember to save some time and just copy it!
@@ -118,8 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +124,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-proven-techniques-to-enhance-engagement-and-interaction/"><u>[New] Proven Techniques to Enhance Engagement and Interaction</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-no-cost-conversion-elevate-your-facebook-videos-to-mp4-and-hd-quality/"><u>2024 Approved No-Cost Conversion Elevate Your Facebook Videos to MP4 & HD Quality</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-the-ultimate-guide-to-mobile-snapchat-screen-capture/"><u>2024 Approved The Ultimate Guide to Mobile Snapchat Screen Capture</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/deciphering-your-pathway-to-youtubes-maker-land/"><u>Deciphering Your Pathway to YouTube's Maker Land</u></a></li>
+<li><a href="https://win-blog.techidaily.com/detailed-walkthrough-resolving-installation-problems-with-robocop-rogue-city-on-personal-computers/"><u>Detailed Walkthrough: Resolving Installation Problems with 'RoboCop: Rogue City' On Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hp-display-problems-expert-tips-and-tricks-for-restoring-screen-functionality/"><u>HP Display Problems: Expert Tips and Tricks for Restoring Screen Functionality</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-resolve-your-apple-iphone-7-keeps-asking-for-outlook-password-by-drfone-ios/"><u>In 2024, Resolve Your Apple iPhone 7 Keeps Asking for Outlook Password</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-supreme-top-4k-tvs-for-gamers/"><u>In 2024, Supreme Top 4K TVs for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-how-to-keep-your-minecraft-dungeons-game-from-freezing-on-desktop/"><u>Mastering Stability: How to Keep Your Minecraft Dungeons Game From Freezing on Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-sony-vegas-media-studio-frequent-crashes-and-solutions/"><u>Troubleshooting Sony Vegas Media Studio Frequent Crashes & Solutions</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/ultimate-guide-testing-and-insights-on-the-new-fitbit-charge/"><u>Ultimate Guide: Testing and Insights on the New Fitbit Charge</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-smoother-gaming-experience-advanced-techniques-to-maintain-high-frame-rates-and-resolve-lags/"><u>Unlock Smoother Gaming Experience: Advanced Techniques to Maintain High Frame Rates and Resolve Lags</u></a></li>
+</ul></div>
 

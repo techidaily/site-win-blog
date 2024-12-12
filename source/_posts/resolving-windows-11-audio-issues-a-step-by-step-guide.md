@@ -1,7 +1,7 @@
 ---
 title: "Resolving Windows 11 Audio Issues: A Step-by-Step Guide"
-date: 2024-08-28T05:39:34.616Z
-updated: 2024-08-29T05:39:34.616Z
+date: 2024-12-06T17:24:54.308Z
+updated: 2024-12-12T16:51:11.674Z
 tags:
   - windows
 categories:
@@ -10,6 +10,10 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 ---
 
 ## Resolving Windows 11 Audio Issues: A Step-by-Step Guide
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Quick Links
 
@@ -31,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
  Have you encountered the "No Audio Output Device Is Installed" error while unmuting audio via the system tray? If so, your audio output device could be unplugged or disabled, the audio drivers could be outdated, or the audio services could be turned off. Here are some solutions you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  1\. Perform Some Preliminary Checks
 
  Start the troubleshooting process by applying some basic fixes. First, [restart your computer](https://screen-video-capture.techidaily.com/updated-in-2024-addressing-mute-problems-in-obs-live-recording/) to fix any minor glitches that may be causing the issue. If you use external speakers or headphones as your primary audio output device, check that they are correctly plugged into your computer. Also, unplug and then plug them back in to your system.
@@ -42,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
  Additionally, uninstall any audio customization applications you might be using. If none of these basic checks help resolve the issue, apply the remaining fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  2\. Run the Audio Troubleshooter
 
  Windows comes with an audio troubleshooter that can help identify the primary cause of audio issues and help you fix them. If the above basic checks don't solve the problem, try running the audio troubleshooter. Right-click the Start button, open "Settings," and go to Troubleshoot > Other Troubleshooters.
@@ -49,8 +54,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 ![Other Troubleshooters option in the Settings app](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/11/other-troubleshooters.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Click on the "Run" button next to Audio, and it will open the Get Help app, where you need to follow the on-screen instructions to help Windows diagnose the problem for you.
 
 ![Running the audio troubleshooter on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/1-running-the-audio-troubleshooter-on-windows.jpg) 
@@ -67,6 +73,10 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
 ![Enabling the audio playback device in sound settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/2-enabling-the-playback-device-on-windows.jpg) 
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  4\. Enable the Audio Output Device From Device Manager
 
  If you don't see any device listed in the playback tab of sound settings, the audio output devices may be disabled in Device Manager. To ensure that's not the case, right-click the Start button and open "Device Manager." Then, expand the "Sound, Video, and Game Controllers" category.
@@ -75,9 +85,6 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
 ![Enabling the audio device in device manager on Windows.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/3-enabling-the-audio-device-in-device-manager-on-windows.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ##  5\. Turn On the Audio Services
 
  If the audio output devices seem enabled in Device Manager but aren't visible in the playback devices, the audio services could be disabled. To rule out this possibility, type **Services** in Windows Search and open the "Services" app. Locate the "Windows Audio" and "Windows Audio Endpoint Builder" services.
@@ -86,18 +93,12 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 
  Double-click on each service, one after the other. If you find the Service Status as "Stopped," click the "Start" button to enable them.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ##  6\. Enable or Disable Chipset Audio From BIOS
 
  If you don't see the entire "Sound, Video, and Game Controllers" category in Device Manager, the chipset audio might be turned off in BIOS. So, you need to enable it in BIOS or UEFI settings. To [enter the BIOS](https://screen-recording.techidaily.com/2024-approved-capture-and-record-a-new-era-of-iphoneipad-recording/), open the Settings app, go to System > Recovery, and click "Restart Now" next to Advanced Startup.
 
 ![Opening the advanced startup from Windows settings.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/6-opening-the-advanced-startup-in-windows-settings.jpg) 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  Before restarting your computer, you'll be prompted to save your work. Save it, then click the "Restart Now" button in the confirmation popup. Your device will boot directly into the "Choose an Option" screen. From here, go to Troubleshoot > Advanced Options > UEFI Firmware Settings, and click "Restart."
 
  The process to enable or [disable onboard audio](https://android-pokemon-go.techidaily.com/9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-infinix-smart-8-hd-drfone-by-drfone-virtual-android/) will vary depending on your laptop or motherboard manufacturer and the model you're using. If you're unable to find it, refer to the manufacturer's documentation. Using that information, locate the onboard audio option; if it's disabled, turn it back on.
@@ -105,8 +106,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
  If you've [installed a new sound card](https://activate-lock.techidaily.com/best-ways-to-bypass-icloud-activation-lock-from-apple-iphone-11-proipadipod-by-drfone-ios/) or sound adapter and encountered the error afterward, consider turning off the onboard audio to rule out any conflict between the cards.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  7\. Reinstall the Default Audio Drivers
 
  Having corrupted or outdated audio drivers is another common cause of this error. To ensure that's not the case, you should uninstall and reinstall them. Right-click on the Start button, open "Device Manager," expand the "Sound, Video, and Game Controllers" category, then right-click on the audio driver, and select "Uninstall Device."
@@ -114,13 +116,11 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
 ![Uninstalling an audio device in device manager.](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2024/04/5-uninstalling-an-audio-device-in-device-manager.jpg) 
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After uninstalling the drivers, restart your computer. Windows will automatically reinstall them from scratch, which may help resolve the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ##  8\. Install Manufacturer-Specific Audio Drivers
 
  If you're unable to use a specific audio output device on your computer, you may need to install the manufacturer's drivers. To rule out this possibility, go to the manufacturer's website and download the latest audio drivers available. Most manufacturer-specific audio drivers come in an executable format, so you may only need to run the driver file to install it.
@@ -128,8 +128,9 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
  If installing the manufacturer-specific audio drivers also fails to restore audio on your computer, ensure you don't have any pending system updates that need to be installed.
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ##  9\. Check for System Updates
 
  If none of the above fixes work, ensure your [system is fully up-to-date](https://howto.techidaily.com/fix-unfortunately-settings-has-stopped-on-realme-v30-quickly-drfone-by-drfone-fix-android-problems-fix-android-problems/). Right-click on the Start button and open "Settings." Navigate to the "Windows Update" tab on the left. If your system is fully up-to-date, you'll see a message stating, "You're Up to Date." You can also click the "Check for Updates" button to search for available updates.
@@ -148,8 +149,6 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +156,26 @@ thumbnail: https://thmb.techidaily.com/389ba287b9f30e51bc8552f55032d1c330a9a54c7
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-2024-approved-top-20-moments-of-laughter-best-fb-jail-gems-for-a-sunny-outlook/"><u>[New] 2024 Approved Top 20 Moments of Laughter Best FB Jail Gems for a Sunny Outlook</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-10-power-players-youtubes-ladies-in-gaming/"><u>[Updated] 2024 Approved 10 Power Players YouTube's Ladies in Gaming</u></a></li>
+<li><a href="https://howto.techidaily.com/4-solutions-to-fix-unfortunately-your-app-has-stopped-error-on-tecno-camon-20-premier-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>4 Solutions to Fix Unfortunately Your App Has Stopped Error on Tecno Camon 20 Premier 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/an-expert-guide-to-clear-up-steamvr-error-message-308/"><u>An Expert Guide to Clear Up SteamVR Error Message 308</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-airplane-mode-turn-off-gps-location-on-lava-blaze-2-drfone-by-drfone-virtual-android/"><u>Does Airplane Mode Turn off GPS Location On Lava Blaze 2? | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/driving-healthy-change-via-digital-campaign-tactics/"><u>Driving Healthy Change via Digital Campaign Tactics</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2021-pc-freezing-issue-solutions/"><u>Football Manager 2021 PC Freezing Issue Solutions</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/free-top-9-best-watermark-apps-for-iphone-how-to-watermark-photos-on-iphone/"><u>FREE Top 9 Best Watermark Apps for iPhone - How to Watermark Photos on iPhone</u></a></li>
+<li><a href="https://change-location.techidaily.com/full-guide-to-catch-100-iv-pokemon-using-a-map-on-samsung-galaxy-m34-5g-drfone-by-drfone-virtual-android/"><u>Full Guide to Catch 100 IV Pokémon Using a Map On Samsung Galaxy M34 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/helldivers-2-launch-problems-a-step-by-step-guide-to-fix-the-black-screen-error/"><u>Helldivers 2 Launch Problems: A Step-by-Step Guide to Fix the Black Screen Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-launch-obstacles-in-dangerous-enterprises-2024s-best-practices/"><u>How to Overcome Launch Obstacles in Dangerous Enterprises: 2024'S Best Practices</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-exposed-the-hazards-of-fake-follower-purchases-on-youtube/"><u>In 2024, Exposed The Hazards of Fake Follower Purchases on YouTube</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revealing-the-techniques-for-perfect-sound-transitions/"><u>In 2024, Revealing the Techniques for Perfect Sound Transitions</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/jump-the-queue-handy-tips-to-resolve-loading-screen-deadlocks-in-forza-horizon-5/"><u>Jump the Queue: Handy Tips to Resolve Loading Screen Deadlocks in Forza Horizon 5.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-nvidia-configuration-difficulties-crashes-and-opening-failures-explained/"><u>Overcoming NVIDIA Configuration Difficulties: Crashes and Opening Failures Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/race-ahead-of-glitches-the-ultimate-fix-guide-for-stuck-players-in-forza-horizon-5/"><u>Race Ahead of Glitches: The Ultimate Fix Guide for Stuck Players in Forza Horizon 5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/success-tips-for-when-you-cant-connect-to-steam-network-services/"><u>Success! Tips for when You Can't Connect to Steam Network Services</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-resolving-bloodhunts-pc-crashes-and-stutters/"><u>Troubleshooting Steps for Resolving Bloodhunt's PC Crashes & Stutters</u></a></li>
+</ul></div>
 

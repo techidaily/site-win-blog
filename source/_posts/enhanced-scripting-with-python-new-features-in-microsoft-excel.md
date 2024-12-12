@@ -1,7 +1,7 @@
 ---
 title: "Enhanced Scripting with Python: New Features in Microsoft Excel"
-date: 2024-08-28T05:42:11.379Z
-updated: 2024-08-29T05:42:11.379Z
+date: 2024-12-07T16:52:26.912Z
+updated: 2024-12-12T18:48:05.163Z
 tags:
   - excel
 categories:
@@ -33,8 +33,6 @@ Microsoft
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -42,8 +40,26 @@ Microsoft
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-explore-all-content-jointly-shared-photos-and-vids-for-2024/"><u>[New] Explore All Content Jointly Shared Photos & Vids for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-high-quality-streaming-choice-go-with-obs-or-fraps/"><u>[New] High-Quality Streaming Choice Go With OBS or Fraps?</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-tweeting-videos-to-tweenish-animations-for-no-fee-for-2024/"><u>[New] Tweeting Videos to Tweenish Animations for No Fee for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-chromebooks-best-capture-tools-no-cost/"><u>[Updated] Chromebook's Best Capture Tools (No Cost)</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-iphone-hdr-a-professionals-secret-weapon/"><u>[Updated] In 2024, IPhone HDR A Professional's Secret Weapon</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clear-instructions-to-solve-the-tfla0002-problem-in-end-of-term-assessments/"><u>Clear Instructions to Solve the TFLA0002 Problem in End-of-Term Assessments</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/insiders-take-top-9-digital-mic-recorder-selections/"><u>Insider's Take Top 9 Digital Mic Recorder Selections</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-troubleshooting-overcoming-black-screen-glitches/"><u>League of Legends Troubleshooting: Overcoming Black Screen Glitches</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/mastering-the-art-of-creating-fantastic-stable-diffusion-prompts/"><u>Mastering the Art of Creating Fantastic Stable Diffusion Prompts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-waiting-swift-fixes-to-get-you-into-action-with-battlefield-5-a-comprehensive-tutorial/"><u>No More Waiting: Swift Fixes to Get You Into Action with Battlefield 5 - A Comprehensive Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-issues-with-scavengers-game-crashes-on-pc-platforms/"><u>Resolving Issues with Scavengers Game Crashes on PC Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-to-get-your-hogwarts-legacy-running-smoothly-latest-fixes/"><u>Step-by-Step Solutions to Get Your Hogwarts Legacy Running Smoothly - Latest Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-high-latency-how-to-enhance-warzone-2n-gaming-experience/"><u>Troubleshooting High Latency: How to Enhance Warzone 2.n Gaming Experience</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-messages-from-motorola-razr-40-by-fonelab-android-recover-messages/"><u>Undelete lost messages from Motorola Razr 40</u></a></li>
+<li><a href="https://techidaily.com/use-device-manager-to-identify-missing-your-drivers-with-windows-device-manager-on-windows-1110-by-drivereasy-guide/"><u>Use Device Manager to identify missing your drivers with Windows Device Manager on Windows 11/10</u></a></li>
+</ul></div>
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+

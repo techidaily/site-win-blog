@@ -1,7 +1,7 @@
 ---
 title: "1. Ultimate Guide: Converting Your Excel Spreadsheet Into a PDF File"
-date: 2024-08-28T05:41:59.054Z
-updated: 2024-08-29T05:41:59.054Z
+date: 2024-12-05T16:37:08.838Z
+updated: 2024-12-12T19:28:14.112Z
 tags:
   - excel
 categories:
@@ -29,13 +29,14 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
  Here's how to turn your spreadsheet into a presentable and printable PDF document.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Setting Up the Page
 
 ![Excel - Page Setup](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/page-setup.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you're using Office 2008 or later, navigate to the Page Layout tab. Here, you'll see several options grouped under the Page Setup section. Here are the first three:
 
 * **Margins:** How large the whitespace is between the edge of a document and the first cell
@@ -48,12 +49,13 @@ thumbnail: https://thmb.techidaily.com/033e16fe59890bceeadfe993413908bd7b5cc9fe4
 
 ![Excel - Header and Footer](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/header-footer.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You also have the option to change the background of your printout. To do this, click the [Background](https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/) button in Page Setup. You can select an image from your laptop or from the cloud, and this image will be tiled across your entire sheet.
 
 Related: [How to Print an Excel Spreadsheet with a Background](https://article-posts.techidaily.com/new-the-essence-of-burst-in-gopro-filming-techniques/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Defining a Print Area and Fitting
 
@@ -72,17 +74,19 @@ Related: [How to Print an Excel Spreadsheet with a Background](https://article-p
 ![Excel - Scale to Fit](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/scale-to-fit.png) 
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ##  Sheet Options
 
  The last menu you should pay attention to is Sheet Options. These are settings that affect the appearance of your final printed sheet. To access the full sheet options, click on the arrow on the lower-left corner of Sheet Options sections.
 
 ![Excel - Sheet Options](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/sheet-options.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Here's an overview of the various customizations you can do in this menu:
 
 * **Print Titles:** You can freeze specific rows and columns of the sheet in place so that they appear on every page, such as headers and labels.
@@ -94,6 +98,10 @@ Related: [How to Print an Excel Spreadsheet with a Background](https://article-p
  In this menu, you can go to the Print Preview screen, where you can get a glimpse of your final document. You can also go to the screen with the shortcut Ctrl+P.
 
 Related: [How to Print a Worksheet with Comments in Excel](https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-realme-c67-4g-for-parents-drfone-by-drfone-virtual-android/) 
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ##  Saving or Printing as PDF
 
@@ -110,16 +118,10 @@ Related: [How to Print a Worksheet with Comments in Excel](https://android-locat
 
 ![Excel - Save as PDF](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/save-as-pdf.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You could also print the file as a PDF. Microsoft has a [built-in PDF printer](https://some-knowledge.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-for-free/) called Microsoft Print to PDF that you can select in the printer dropdown menu. If you have another PDF drive, such as Adobe PDF, Foxit, or PDF Xchange, you can use one of those as well. Before you click "Print", look through your print preview to make sure everything looks correct.
 
 ![Excel - Print as PDF](https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2020/03/print-as-pdf.png) 
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 Related: [How to Print to PDF in Windows: 4 Tips and Tricks](https://some-knowledge.techidaily.com/new-how-to-add-music-to-a-video-on-iphone-for-free/)
 
 <ins class="adsbygoogle"
@@ -128,8 +130,6 @@ Related: [How to Print to PDF in Windows: 4 Tips and Tricks](https://some-knowle
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -137,4 +137,18 @@ Related: [How to Print to PDF in Windows: 4 Tips and Tricks](https://some-knowle
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/xplore-the-world-of-frames-5-free-youtube-tips-for-you-for-2024/"><u>[New] Explore the World of Frames 5 Free YouTube Tips for You for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-elevate-your-shots-vloggers-guide-to-the-9-finest-camera-gadgets/"><u>[New] In 2024, Elevate Your Shots Vlogger's Guide to the 9 Finest Camera Gadgets</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-boost-ig-content-three-steps-for-compelling-video-descriptions/"><u>[Updated] 2024 Approved Boost IG Content - Three Steps for Compelling Video Descriptions</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/analyzing-status-bt-budget-friendly-but-needs-some-upgrades/"><u>Analyzing Status BT: Budget-Friendly but Needs Some Upgrades</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-fixing-guide-restoring-your-ds4-controllers-functionality-on-windows-when-facing-driver-installation-issues/"><u>DIY Fixing Guide: Restoring Your DS4 Controller's Functionality on Windows When Facing Driver Installation Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-fix-risk-of-rain-2-crashing-issues-effectively/"><u>How to Prevent and Fix Risk of Rain 2 Crashing Issues Effectively</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-poco-m6-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Poco M6 Pro 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/investigating-fortnite-season-8-the-impact-on-gameplay-performance-and-fps/"><u>Investigating Fortnite Season 8: The Impact on Gameplay Performance and FPS</u></a></li>
+<li><a href="https://howto.techidaily.com/samsung-galaxy-m14-4g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Samsung Galaxy M14 4G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-4-ways-to-trace-samsung-galaxy-a05-location-drfone-by-drfone-virtual-android/"><u>Top 4 Ways to Trace Samsung Galaxy A05 Location | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-success-how-to-eliminate-exit-code-0-error-in-minecraft/"><u>Troubleshooting Success: How to Eliminate Exit Code 0 Error in Minecraft</u></a></li>
+</ul></div>
 
