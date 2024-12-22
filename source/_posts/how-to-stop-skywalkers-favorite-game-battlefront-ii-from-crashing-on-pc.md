@@ -1,7 +1,7 @@
 ---
 title: How to Stop Skywalker's Favorite Game, Battlefront II, From Crashing on PC
-date: 2024-08-27T21:33:06.254Z
-updated: 2024-08-28T21:33:06.254Z
+date: 2024-12-21T03:27:25.982Z
+updated: 2024-12-21T22:05:59.955Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/d9697a004ae2bbc53020d06bba853be86eb98852f
 
 If you’re stuck in the endless Everspace 2 crashing and looking for some tried-and-true methods, you’ve come to the right place. In this post, we’ll walk you through 4 easy and quick fixes for the issue and help you get back to the game right away!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You don’t have to try them all. Simply work from the top down until you find the one that solves your problem.
@@ -25,6 +29,10 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 2. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Stop overclocking
 
@@ -39,19 +47,20 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 1. Launch your Steam client and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Everspace 2 from the game list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
-3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
+3. Go to the**Local Files** tab and click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
  After the detecting and repairing process completes, relaunch Everspace 2 to test. If the crashes still exist, follow[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) to check your graphics driver.
 
 #### If you’re on GOG
@@ -96,9 +105,6 @@ If you’re stuck in the endless Everspace 2 crashing and looking for some tried
 
  How does your game work now? If it crashes again, head to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Set launch options
 
  According to some players, Everspace 2 just crashes in DirectX 12\. In this case, the workaround is to force the game to use DirectX 11 and then everything should be fine.
@@ -108,16 +114,15 @@ Here are the steps:
 1. Open Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam.jpg)
 2. Right-click Everspace 2 and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
-3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-2.jpg)
+3. On the**General** tab, type**\-dx11** in the text field under Launch Options.  
+![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-launch-options.jpg)
+
  Close the window and restart Everspace 2 to check if the crashing got fixed. If none of the steps above do the trick, wait patiently for the upcoming patches. Since the game is still in Early Access, it should be further optimized before long.
 
 ---
@@ -133,8 +138,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +145,26 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/ed-2024-approved-from-camera-roll-to-youtube-posting-short-clips-seamlessly/"><u>[Updated] 2024 Approved From Camera Roll to YouTube Posting Short Clips Seamlessly</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/2024-approved-50plus-impressive-tiktok-username-ideas-to-boost-more-views/"><u>2024 Approved 50+ Impressive TikTok Username Ideas to Boost More Views</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descargar-e-importar-archivos-avi-de-formato-3gpp-sin-coste-adicional-con-movavi/"><u>Descargar E Importar Archivos AVI De Formato 3GPP Sin Coste Adicional Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descubre-como-transformar-tus-fotos-en-formato-cr2-a-jpg-con-herramienta-libre-y-garantizar-la-maxima-fidelidad-visual/"><u>Descubre Cómo Transformar Tus Fotos en Formato CR2 a JPG Con Herramienta Libre Y Garantizar La Máxima Fidelidad Visual</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortlessly-switch-from-wma-to-mkv-streaming-convert-your-videos-for-free-today/"><u>Effortlessly Switch From WMA to MKV Streaming - Convert Your Videos for Free Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratis-omzettingen-3gpp-dokuments-in-online-bewerking-movavi/"><u>Gratis Omzettingen: 3GPP-Dokuments In Online Bewerking - Movavi</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/guia-completo-sobre-a-extensao-do-arquivo-ogg-tipos-e-solucoes-de-playback/"><u>Guia Completo Sobre a Extensão Do Arquivo Ogg - Tipos E Soluções De Playback</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-fixing-foneazy-mockgo-not-working-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Fixing Foneazy MockGo Not Working On Oppo Reno 11 5G | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-paving-a-path-to-prominence-instagrams-power-brokers-in-your-sphere/"><u>In 2024, Paving a Path to Prominence Instagram's Power Brokers in Your Sphere</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-strategizing-for-success-the-essential-guide-to-online-individuality/"><u>In 2024, Strategizing for Success The Essential Guide to Online Individuality</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-the-essential-process-of-modifying-your-online-community-background/"><u>In 2024, The Essential Process of Modifying Your Online Community Background</u></a></li>
+<li><a href="https://win-blog.techidaily.com/los-mejores-conversores-de-video-a-mp4-en-2023-los-12-mas-eficientes-y-faciles-de-usar-seleccionados-por-movavi/"><u>Los Mejores Conversores De Video a MP4 en 2023 - Los 12 Más Eficientes Y Fáciles De Usar, Seleccionados Por Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mov-m4a-m4b-movavi/"><u>MOV 以及 M4A, M4B 等多種格式的直接 MOVAVI 無限制免費解碼器 - 適用於任何平台的優化</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavis-no-cost-tool-for-swiftly-transforming-snd-audio-to-high-quality-mp3-streams/"><u>Movavi's No-Cost Tool for Swiftly Transforming .SND Audio to High-Quality MP3 Streams</u></a></li>
+<li><a href="https://games-able.techidaily.com/surging-to-success-enhance-fps-in-windows-games/"><u>Surging to Success: Enhance FPS in Windows Games</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-complete-guide-to-samsungs-comprehensive-picture-editing-tools-2023-for-2024/"><u>The Complete Guide to Samsung’s Comprehensive Picture Editing Tools, 2023 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-choosing-the-best-subtitling-companies-top-picks-revealed/"><u>The Ultimate Guide to Choosing the Best Subtitling Companies - Top Picks Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-10-applicazioni-genalogiche-del-2024-la-scelta-ottimale-movavi/"><u>Top 10 Applicazioni Genalogiche Del 2024: La Scelta Ottimale - Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/uncover-the-ultimate-selection-of-spontaneous-holiday-bargains-for-savvy-shoppers-featured/"><u>Uncover the Ultimate Selection of Spontaneous Holiday Bargains for Savvy Shoppers – Featured</u></a></li>
+</ul></div>
 

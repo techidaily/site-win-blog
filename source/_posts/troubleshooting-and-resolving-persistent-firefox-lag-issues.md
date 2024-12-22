@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting & Resolving Persistent Firefox Lag Issues
-date: 2024-08-27T21:30:50.554Z
-updated: 2024-08-28T21:30:50.554Z
+date: 2024-12-20T22:33:00.833Z
+updated: 2024-12-21T21:15:05.045Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/disable-preview-obs.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
 ### Fix 2 – Run OBS as an administrator
@@ -42,13 +46,15 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click the**OBS icon** on your desktop and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Close unnecessary background programs
 
  Software conflicts can also be a cause. To avoid this, you should shut down all unneeded programs running in the background before using OBS. Here are the steps:
@@ -56,13 +62,19 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click any empty area of the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-1.jpg)
 2. Right-click a program you’d like to close and click **End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Change the graphics settings
 
@@ -71,34 +83,28 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Click the**Start** button and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Update your device drivers
 
  If none of the methods above resolves your problem, the cause can be driver-related. If your device drivers are missing, faulty or outdated, you may run into the OBS black screen issue and it won’t be able to record the screen properly. To update your device drivers, here are two ways for you:
@@ -130,8 +136,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +143,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-outriders-unreal-process-has-crashed-ue4-madness-error/"><u>[Fixed] Outriders ‘Unreal Process Has Crashed: UE4-Madness’ Error</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-delving-into-the-world-of-mukbang-videos/"><u>[New] 2024 Approved Delving Into the World of Mukbang Videos</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-2024-approved-quicklooker-windows-11s-speedy-photo-viewer/"><u>[New] 2024 Approved QuickLooker Windows 11'S Speedy Photo Viewer</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-sharing-twitter-video-feeds-via-facebook-platform/"><u>[New] 2024 Approved Sharing Twitter Video Feeds via Facebook Platform</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/new-a-step-by-step-approach-to-assembling-picture-panoramas/"><u>[New] A Step-by-Step Approach to Assembling Picture Panoramas</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-essential-tech-for-effective-pc-image-capture-the-5-best/"><u>[New] Essential Tech for Effective PC Image Capture, The 5 Best</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/rofessional-video-setup-ideal-stabilizers-for-youtubers/"><u>[New] Professional Video Setup Ideal Stabilizers for YouTubers</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-expert-advice-hassle-free-recordings-with-ios-devices/"><u>[Updated] 2024 Approved Expert Advice Hassle-Free Recordings with iOS Devices</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-premium-top-11-list-ultimate-recording-gear/"><u>[Updated] Premium Top 11 List - Ultimate Recording Gear</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-maplestorys-initial-hurdles-and-dive-into-the-game-seamlessly/"><u>Bypass MapleStory's Initial Hurdles & Dive Into the Game Seamlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722983131952-dragon-quest-xi-freezes-discover-the-fix/"><u>Dragon Quest XI Freezes? Discover the Fix!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997494550-fixing-launch-problems-with-cyberpunk-2077-success-stories-inside/"><u>Fixing Launch Problems with Cyberpunk 2077 – Success Stories Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/google-chrome-not-responding-expert-tips-on-getting-your-browser-running-smoothly-again/"><u>Google Chrome Not Responding? Expert Tips on Getting Your Browser Running Smoothly Again</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-instagram-edge-selecting-the-best-mobile-and-desktop-video-editors/"><u>In 2024, Instagram Edge Selecting the Best Mobile & Desktop Video Editors</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-shadow-broadcasters-master-the-art-of-anonymous-livestreaming-on-instagram/"><u>In 2024, Shadow Broadcasters Master the Art of Anonymous Livestreaming on Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-black-ops-cold-war-display-mishap-error-code-27711-fixed/"><u>Resolved: Black Ops Cold War Display Mishap (Error Code 27711) Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steps-when-vanguard-doesnt-initialize-in-valorant/"><u>Resolved: Troubleshooting Steps When Vanguard Doesn't Initialize in Valorant</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fix-issues-when-battlefield-4-wont-start-on-desktop-computers/"><u>Troubleshooting Guide: Fix Issues When Battlefield 4 Won't Start on Desktop Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-frequent-crashes-in-battlefield-2042-for-windows-users/"><u>Troubleshooting Guide: Resolving Frequent Crashes in Battlefield 2042 for Windows Users</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: How to Solve the Issue When GTA 5 Doesn't Open
-date: 2024-08-27T21:30:23.334Z
-updated: 2024-08-28T21:30:23.334Z
+date: 2024-12-20T01:03:36.580Z
+updated: 2024-12-21T16:49:18.445Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ Once done, launch Madden 21 and check if it crashes again.
 
 If the fix doesn’t stop the crash, you can try the next one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  In most cases, game crashes are graphics related. In other words, the constant crashes could indicate you’re using a**buggy or outdated graphics driver** . New drivers usually tackle compatibility issues, so always make sure you’re using the latest graphics driver.
@@ -54,20 +58,27 @@ If the fix doesn’t stop the crash, you can try the next one below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating the latest graphics driver, restart your PC and test the gameplay in Madden 21.
 
  If the latest graphics driver doesn’t help, you can take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -76,17 +87,15 @@ To minimize conflicts, you also need to install all the system patches:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  If you’re sure your system is up to date, simply check out the next trick below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Switch your DirectX version
 
@@ -95,11 +104,13 @@ To minimize conflicts, you also need to install all the system patches:
 1. Launch Madden NFL 21\. At the bottom right corner, click the gear icon and select**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-1.jpg)
 2. Click**SETTINGS** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-2.jpg)
 3. Select**GRAPHICS** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-3.jpg)
 4. Click to change DIRECTX VERSION. Then save the changes and restart the game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/madden-21-directx-4.jpg)
@@ -108,9 +119,6 @@ Now you can check if the crash stops.
 
  If changing DirectX version doesn’t give you luck, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Lower in-game graphical settings
 
  There’s also feedback showing that low graphics settings could help make the game stable. You can do the same and fine-tune the settings if it stops crashing.
@@ -134,8 +142,6 @@ Once done, restart your game and test the improvement.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +149,24 @@ Once done, restart your game and test the improvement.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-essential-strategies-successful-webcam-and-gaming-recordings/"><u>[New] In 2024, Essential Strategies Successful Webcam & Gaming Recordings</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-seamless-video-watch-removing-youtube-barriers/"><u>[Updated] 2024 Approved Seamless Video Watch Removing YouTube Barriers</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-maximize-impact-instagrams-ideal-video-resolution-for-2024/"><u>[Updated] Maximize Impact Instagram's Ideal Video Resolution for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-top-10-zoom-recording-essentials/"><u>[Updated] Top 10 Zoom Recording Essentials</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-simplifying-video-editing-on-iphone-trim-and-adjust-sizes/"><u>2024 Approved Simplifying Video Editing on iPhone Trim & Adjust Sizes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bluestacks-keeping-you-down-solve-the-problem-with-this-easy-5-step-fix/"><u>BlueStacks Keeping You Down? Solve the Problem with This Easy 5-Step Fix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-on-pandora-tips-to-resolve-avatars-fps-and-stuttering-problems/"><u>Boost Your Gameplay on 'Pandora': Tips to Resolve Avatar's FPS and Stuttering Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-error-messages-and-solutions-for-the-battlenet-desktop-client/"><u>Common Error Messages and Solutions for the Battle.net Desktop Client</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/from-novice-to-expert-mastering-movie-maker-in-windows-8-systems-for-2024/"><u>From Novice to Expert Mastering Movie Maker in Windows 8 Systems for 2024</u></a></li>
+<li><a href="https://discover-community.techidaily.com/get-official-winx-pro-dvd-ripper-and-converter-secure-download/"><u>Get Official WinX Pro DVD Ripper & Converter - Secure Download</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-infinix-smart-8-hd-phone-with-broken-screen-by-drfone-android/"><u>How to Unlock Infinix Smart 8 HD Phone with Broken Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-in-new-world-fixing-stutter-and-improving-fps-for-ultimate-playability/"><u>Optimizing Performance in 'New World': Fixing Stutter and Improving FPS for Ultimate Playability</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-solutions-resolve-steam-disk-corruption-issues-quickly-and-effectively/"><u>Simple Solutions: Resolve Steam Disk Corruption Issues Quickly and Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-dead-by-daylight-understanding-and-fixing-error-8014/"><u>Troubleshooting Dead by Daylight: Understanding and Fixing Error 8014</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-fixing-fallout-4s-monochrome-visual-glitch/"><u>Troubleshooting Tips: Fixing Fallout 4'S Monochrome Visual Glitch</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/troubleshooting-your-scanner-fixing-inaccurate-size-readings-insights-from-yl-computing/"><u>Troubleshooting Your Scanner: Fixing Inaccurate Size Readings - Insights From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-wont-my-discord-open-and-how-to-make-it-work-again/"><u>Why Won't My Discord Open and How to Make It Work Again?</u></a></li>
+</ul></div>
 

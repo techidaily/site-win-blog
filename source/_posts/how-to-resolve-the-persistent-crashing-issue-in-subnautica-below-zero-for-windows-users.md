@@ -1,7 +1,7 @@
 ---
 title: "How to Resolve the Persistent Crashing Issue in Subnautica: Below Zero for Windows Users"
-date: 2024-08-27T21:28:28.191Z
-updated: 2024-08-28T21:28:28.191Z
+date: 2024-12-19T17:10:18.576Z
+updated: 2024-12-22T02:10:22.827Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/75e496d7d03af882c809a7273c9e1eb1d9baeae9a
 Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on their PC. If you’re running into the exact same issue, don’t worry. Although it’s quite frustrating, the good news is that this issue can be fixed easily!
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -49,6 +53,10 @@ The outdated or broken graphics driver often crashes the game.
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
@@ -56,8 +64,9 @@ The outdated or broken graphics driver often crashes the game.
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
@@ -68,14 +77,11 @@ The outdated or broken graphics driver often crashes the game.
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -91,13 +97,13 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
-![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
+
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
 ## Fix 5: Set launch options on Steam
@@ -108,16 +114,10 @@ The powerful video editing program for your Windows PC</a>
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -139,8 +139,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +146,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-compact-content-leading-5-services-to-compress-video-urls/"><u>[New] 2024 Approved Compact Content Leading 5 Services to Compress Video URLs</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-artisans-approach-to-color-balancing-for-2024/"><u>[New] The Artisan's Approach to Color Balancing for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-how-to-achieve-impactful-big-head-aesthetics-in-your-tiktoks-3-ways/"><u>[Updated] How To Achieve Impactful Big Head Aesthetics in Your TikToks (3 Ways)</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-cutting-edge-techniques-for-powerful-youtube-thumbnail-designs/"><u>[Updated] In 2024, Cutting-Edge Techniques for Powerful YouTube Thumbnail Designs</u></a></li>
+<li><a href="https://blog-min.techidaily.com/44cm56m25qw144gu44gk5q2j5pyi44gk44gb44gh5paz55cg6yg444gz44ks44kk44oj77yb5a625pep44gn5qw944gx44kb44kl44os44k344ou44go6yen566x6kmw44kb44og44kv44ol44od44kv44cn68/"><u>「究極のお正月おせち料理選びガイド！家族で楽しめるレシピと重箱詰めテクニック」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ark-survival-ascended-keeps-crashing-on-pc-9-fixes/"><u>ARK: Survival Ascended Keeps Crashing on PC - 9 Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-troubleshooting-techniques-to-restore-obs-microphone-functionality/"><u>Best Troubleshooting Techniques to Restore OBS Microphone Functionality</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/comparing-leading-ais-which-reigns-supreme-notion-or-chatgpt/"><u>Comparing Leading AIs: Which Reigns Supreme, Notion or ChatGPT?</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/content-writing-in-a-digital-age-the-8-hurdles-of-relying-solely-on-ai-chatbot-technology/"><u>Content Writing in a Digital Age: The 8 Hurdles of Relying Solely on AI Chatbot Technology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-eliminating-performance-lags-in-naraka-bladesports-gameplay/"><u>Effective Solutions for Eliminating Performance Lags in Naraka Bladesports Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-your-steam-stream-tips-to-overcome-lag-issues/"><u>Enhance Your Steam Stream: Tips to Overcome Lag Issues</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/t-advice-on-youtube-short-pitfalls-for-2024/"><u>Expert Advice on YouTube Short Pitfalls for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-frequent-restarts-of-necromunda-hired-gun-game-on-pc-expert-advice/"><u>How To Prevent Frequent Restarts of Necromunda: Hired Gun Game on PC - Expert Advice</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-smart-7-to-other-android-devices-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Smart 7 to Other Android Devices Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obstacles-strategies-for-reinvigorating-global-growth/"><u>Overcoming Obstacles: Strategies for Reinvigorating Global Growth</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-complete-darkness-on-your-discord-during-screen-share-sessions/"><u>Resolved: Fixing the Complete Darkness on Your Discord During Screen Share Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rocket-league-resolved-chilling-glitch-now-running-smoothly/"><u>Rocket League: Resolved Chilling Glitch - Now Running Smoothly</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/subtle-image-alteration-mastery-in-photoshop/"><u>Subtle Image Alteration Mastery in Photoshop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-checklist-eliminating-hiccups-and-smoothening-your-minecraft-experience-on-pc-2023-edition/"><u>The Ultimate Checklist: Eliminating Hiccups and Smoothening Your Minecraft Experience on PC – 2023 Edition</u></a></li>
+</ul></div>
 

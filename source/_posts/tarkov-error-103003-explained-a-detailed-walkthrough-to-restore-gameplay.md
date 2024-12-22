@@ -1,7 +1,7 @@
 ---
 title: Tarkov Error 103003 Explained - A Detailed Walkthrough to Restore Gameplay
-date: 2024-08-27T21:33:03.757Z
-updated: 2024-08-28T21:33:03.757Z
+date: 2024-12-14T21:19:57.354Z
+updated: 2024-12-21T19:23:51.900Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 6. [Repair Epics Games launcher](https://tools.techidaily.com/drivereasy/download/)
 7. [Add the game folder to the exceptions list of your 3rd party antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Verify the game files
 
  One of the common causes of A Total War Saga: Troy crashing issue is the corrupted game files. If it’s the case, you need to verify the game files. Here’s how to do it:
@@ -38,18 +42,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
@@ -60,10 +52,6 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 
 There’re mainly two ways you can update your graphics drivers:
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually
 
  You’ll need some computer skills and patience to update your drivers this way, because you need to find exactly the right the driver online, download it and install it step by step.
@@ -96,9 +84,6 @@ Or
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
@@ -110,6 +95,10 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -119,8 +108,9 @@ Or
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Install the latest DirectX files
 
  Most games require DirectX 11 to run properly, and A Total War Saga: Troy is no exception. If there’s a problem with DirectX, the game would crash on startup. If it’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -129,9 +119,18 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Stop overclocking
 
@@ -152,16 +151,15 @@ Or
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**appwiz.cpl** and press**Enter** to open the Programs and Features window in Control Panel.  
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Add A Total War Saga: Troy to the exceptions list of your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure it doesn’t block the game files.
@@ -186,8 +184,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +191,26 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-explore-movies-for-free-simple-video-player-software/"><u>[New] Explore Movies for Free Simple VIDEO Player Software</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/n-2024-from-viewers-to-vips-ajays-strategy-for-sustainable-income-streams/"><u>[New] In 2024, From Viewers to VIPs Ajay's Strategy for Sustainable Income Streams</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-in-2024-cultivating-commerce-on-instagram-partnering-with-profitable-brands/"><u>[Updated] In 2024, Cultivating Commerce on Instagram Partnering with Profitable Brands</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1726221869028-avi-movavi/"><u>網路無錫自由下載AVI格式 - Movavi</u></a></li>
+<li><a href="https://win-manuals.techidaily.com/comment-utiliser-wbadmin-pour-rendre-des-snapshots-du-systeme-dans-les-serveurs-windows/"><u>Comment Utiliser WBAdmin Pour Rendre Des Snapshots Du Système Dans Les Serveurs Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convertis-de-facilement-un-fichier-vers-mp4-en-ligne-gratuitement-avec-movavi/"><u>Convertis De Facilement Un Fichier Vers MP4 en Ligne Gratuitement - Avec Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/criar-e-salvaguardar-fotos-raw-cr2-ferramentas-livres-e-pesquisa-web-do-movavi/"><u>Criar E Salvaguardar Fotos RAW CR2: Ferramentas Livres E Pesquisa Web Do Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-audio-enhanced-slideshows-with-van-movavi-dutch-presentation-software/"><u>Easy Audio-Enhanced Slideshows with Van Movavi - Dutch Presentation Software</u></a></li>
+<li><a href="https://games-able.techidaily.com/foster-fluidity-in-your-playtime-by-addressing-launcher-issues/"><u>Foster Fluidity in Your Playtime by Addressing Launcher Issues</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/get-your-hands-on-the-latest-apple-watch-series-10-early-preorder-guide-and-savings-tips-techinsights/"><u>Get Your Hands on the Latest Apple Watch Series 10 Early - Preorder Guide and Savings Tips | TechInsights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guia-passo-a-passo-cortando-bordas-em-videos-para-adicionar-um-contorno-preto/"><u>Guia Passo a Passo: Cortando Bordas Em Vídeos Para Adicionar Um Contorno Preto</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-old-videos-from-your-infinix-smart-8-by-fonelab-android-recover-video/"><u>How to recover old videos from your Infinix Smart 8</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-unlock-honor-90-pro-pattern-lock-if-forgotten-6-ways-by-drfone-android/"><u>How to Unlock Honor 90 Pro Pattern Lock if Forgotten? 6 Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movavi-teams-expertise-in-content-creation/"><u>Movavi Team's Expertise in Content Creation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/o-melhor-da-tabela-descoberta-das-principais-aplicacoes-de-genealogia-em-2024-incluindo-o-concorrente-ao-movavi/"><u>O Melhor Da Tabela: Descoberta Das Principais Aplicações De Genealogia Em 2024 (Incluindo O Concorrente Ao Movavi)</u></a></li>
+<li><a href="https://games-able.techidaily.com/revel-in-great-sounds-a-look-at-mmx-200/"><u>Revel in Great Sounds: A Look at MMX 200</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/o-ads-creators-course-earnings-strategies-for-self-sustained-success-for-2024/"><u>The No-Ads Creator’s Course Earnings Strategies for Self-Sustained Success for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/utanfor-synlig-apnering-av-lydbilledillosser-i-windows-11-en-losning/"><u>Utanfor-Synlig Åpnering Av Lydbilledillosser I Windows 11 - En Løsning</u></a></li>
+<li><a href="https://win-blog.techidaily.com/iuyasoumroqwgcdsojzqs7xtlzjripqg66y066omioybueuvvcdrj5nsmihsg4eg67oa7zmyioyenou5hoykpdog66qo67cu7j2067meig/"><u>우리가 제공하는 무료 웹민 동영상 변환 서비스: 모바이비</u></a></li>
+</ul></div>
 

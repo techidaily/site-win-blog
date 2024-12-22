@@ -1,7 +1,7 @@
 ---
 title: How to Fix the Destiny Warzone Memory Glitch (Error Code 0-1766) on Your Console & PC
-date: 2024-08-27T21:28:16.852Z
-updated: 2024-08-28T21:28:16.852Z
+date: 2024-12-20T19:30:46.758Z
+updated: 2024-12-22T00:35:33.306Z
 tags:
   - win11
   - win10
@@ -50,21 +50,16 @@ If you encounter the issue on your computer, try these solutions.
 2. From the left menu, select**Call of Duty: MW** . Click**Options** and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-1.jpg)
 3. Click**Begin Scan** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you can launch Warzone and check if the error code reoccurs during gameplay.
 
 If this method doesn’t help you, check out the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Install all Windows updates
 
  To avoid possible compatibility issues, you need to make sure your system is up to date. By default Windows 10 will ask you to install patches on a regular basis, but you can also check for updates manually:
@@ -74,9 +69,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
 
  Once you’ve installed all the system updates, restart your PC and check if the problem persists.
@@ -84,8 +76,9 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 If the issue remains, you can try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  There’re multiple reports suggesting that the dev error 5573 is graphics-related. In other words, it could indicate that you’re using**a faulty or outdated graphics driver** . If you don’t remember when was the last time you checked for drivers update, definitely do it now.
@@ -96,15 +89,14 @@ If the issue remains, you can try the next fix below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-2060-super-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated all your drivers, restart your PC and see if Warzone crashes again.
@@ -112,8 +104,9 @@ If the issue remains, you can try the next fix below.
  If the latest drivers didn’t help you, simply continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Perform a clean boot
 
  In order to further rule out any possible interference, you need to**perform a clean boot** to make sure your system is free of compatibility issues. It means you need to start your PC with only the essential software and services.
@@ -125,20 +118,18 @@ If the issue remains, you can try the next fix below.
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 Now you can join a match and see if the error pops up again.
 
  If this trick doesn’t do the trick for you, move on to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Rebuild your settings
 
@@ -148,27 +139,16 @@ Now you can join a match and see if the error pops up again.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/run-open-documents.jpg)
 2. Delete all files inside the folder named**Call of Duty Modern Warfare** /**Call of Duty** . (Leave the folder empty.) Then launch Warzone and check if the problem persists.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick doesn’t give you luck, simply continue to the cross-platform solutions below.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes for PC & console
 
 The following fixes apply to both PC and console.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Change to Windowed mode
 
  According to the feedback, changing in-game settings to Windowed mode could be a potential fix for the crash. So you can try this and see how things go.
@@ -176,6 +156,10 @@ The following fixes apply to both PC and console.
  To do this, go to**OPTIONS** \>**GRAPHICS** . Under the**DISPLAY** section, set**Display Mode** to**Windowed** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/warzone-windowed.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If changing the display mode doesn’t solve your problem, you can try the next method.
 
@@ -186,13 +170,18 @@ The following fixes apply to both PC and console.
 If the issue lingers on, take a look at the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Switch to Modern Warfare operators
 
  If you’re using an operator from Black Ops Cold War, you can try another one from Modern Warfare. Some users reported that the error disappeared when**using operators that are not from Black Ops Cold War** . It’s unclear whether it’s just a glitch or a compatibility issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/mw-operators.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  For an overview of operators, you can check out[this page](https://www.gamesatlas.com/cod-modern-warfare/operators/) .
 
@@ -212,8 +201,6 @@ If the issue lingers on, take a look at the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +208,26 @@ If the issue lingers on, take a look at the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/solved-lost-ark-no-sound/"><u>[SOLVED] Lost Ark No Sound</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-in-2024-fiscal-flyers-list-least-expensive-drones-in-market/"><u>[Updated] In 2024, Fiscal Flyers' List Least Expensive Drones in Market</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-periscope-streaming-made-simple/"><u>[Updated] Periscope Streaming Made Simple</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-techniques-to-transform-your-ppt-into-professional-videos/"><u>[Updated] Techniques to Transform Your PPT Into Professional Videos</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-todays-vr-hardware-review/"><u>[Updated] Today's VR Hardware Review</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209977859-9780750993494-britains-paranormal-forests/"><u>Britain's Paranormal Forests | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/death-stranding-pc-version-fixed-solved-issues-and-updates/"><u>Death Stranding PC Version Fixed: Solved Issues and Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/deathloop-stuttering-problem-solved-for-pc-gamers-a-comprehensive-guide/"><u>Deathloop Stuttering Problem Solved for PC Gamers - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-developer-error-5573-in-call-of-duty-warzone-across-platforms-with-easy-fixes/"><u>Defeat Developer Error 5573 in Call of Duty Warzone Across Platforms with Easy Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-address-and-fix-the-notorious-minecraft-exit-code-0-problem/"><u>Expert Advice: Address and Fix the Notorious Minecraft Exit Code 0 Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-playability-errors-for-pathfinder-wrath-of-the-righteous-title/"><u>Fixing Playability Errors for Pathfinder: Wrath of the Righteous Title</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-10-easy-to-use-frp-bypass-tools-for-unlocking-google-accounts-on-realme-narzo-60-pro-5g-by-drfone-android/"><u>In 2024, 10 Easy-to-Use FRP Bypass Tools for Unlocking Google Accounts On Realme Narzo 60 Pro 5G</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-a54-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy A54 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-initialization-errors-in-the-latest-counter-strike-game-version/"><u>Overcoming Initialization Errors in the Latest Counter-Strike Game Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixed-overcoming-pc-game-crashes-in-call-of-duty-black-ops-cold-war-2024/"><u>Resolved: [FIXED] Overcoming PC Game Crashes in Call of Duty: Black Ops Cold War - 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-ubisoft-online-access-difficulties-expert-advice-and-fixes/"><u>Resolving Ubisoft Online Access Difficulties : Expert Advice & Fixes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-journey-of-the-obsolete-from-floppy-disks-to-modern-transport-uncovering-their-hidden-presence-zdnet/"><u>The Journey of the Obsolete: From Floppy Disks to Modern Transport - Uncovering Their Hidden Presence | ZDNet</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-get-back-lost-videos-from-motorola-moto-g-5g-2023-by-fonelab-android-recover-video/"><u>The way to get back lost videos from Motorola Moto G 5G (2023)</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-10-criteria-for-choosing-a-premier-streamer-network-for-2024/"><u>Top 10 Criteria for Choosing a Premier Streamer Network for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Discover Effective Techniques to Lower Discord CPU Usage (Guide)
-date: 2024-08-27T21:30:04.139Z
-updated: 2024-08-28T21:30:04.139Z
+date: 2024-12-15T02:33:16.273Z
+updated: 2024-12-21T18:41:14.209Z
 tags:
   - win11
   - win10
@@ -35,6 +35,10 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 
 [6: Make sure your system is up-to-date](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## System requirements for God of War
 
 | **Minimum**          | **Recommended**                                                      |                                                                        |
@@ -48,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 | **Additional Notes** | DirectX feature level 11\_1 required                                 | DirectX feature level 11\_1 required                                   |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Check conflicting programs
 
  Programs running in the background can take up the resources and eat your CPU. Try turning off your browser and video chatting apps before launching the game. Some apps may also interfere with the game, such as aggressive antivirus software. You can add the game to the exception list and then test the issue.
@@ -59,14 +64,8 @@ thumbnail: https://thmb.techidaily.com/a6fbcf7b87c69b74abd8f2d894637274c942b2c57
 1. Right-click your taskbar, then click **Task Manager** . Or you can press **Ctrl**  and **Shift** and **Esc** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the **Processes** tab, look for the processes that are CPU-hogging. Right-click it then click **End task** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 If you’re still seeing high CPU usage, try the next fix.
 
 ## Fix 2: Update your graphics driver
@@ -85,16 +84,14 @@ If you’re still seeing high CPU usage, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fix 3: Change your PC’s power plan
 
  Your PC’s power plan is usually set to “balanced” by default. With this power plan on, your CPU speed can be limited since your PC’s priority is to reach a balance between energy consumption and performance. If you notice a high CPU usage problem, you can switch to “High Performance” mode and allow your CPU to run at full load. Here’s how:
@@ -103,16 +100,20 @@ If you’re still seeing high CPU usage, try the next fix.
 2. Type **control panel** , then click **OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-26_17-53-31.jpg)
 3. Choose **View by: Small icons** , then click **Power options** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/control-panel-power-options.jpg)
-4. Choose the **High performance** power plan.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/high-performance-power-plan.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/control-panel-power-options.jpg)
+4. Choose the **High performance** power plan.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/high-performance-power-plan.jpg)
+
  Launch the game to see if the problem persists. If this doesn’t solve your problem, try the next fix.
 
 ## Fix 4: Turn on high graphics performance mode
@@ -128,12 +129,18 @@ If you’re still seeing high CPU usage, try the next fix.
 3. Once the game executable of God of War is added, click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-49.jpg)
 4. Select **High performance** , then click **Save** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_14-08-57.jpg)
+
  You can also try the steps below to configure your graphics card settings via the NVIDIA control panel. Note that the method we introduced above applies at a higher level and it can overwrite your NVIDIA settings.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PUDdKOsEN74?si=tkZf-KVinjuwmgx9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Optional: For NVIDIA users
 
@@ -142,9 +149,11 @@ If you’re still seeing high CPU usage, try the next fix.
 1. Right-click an empty area on your desktop and click **NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/snap000108.png)
 2. Navigate to **Manage 3D settings** \>> **Global Settings** . Choose **High-performance NVIDIA processor** as your preferred graphics processor.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/n1.jpg)
 3. If you only want to apply the setting to God of War or Steam, you can go to **Program Settings** and customize it.
 4. Click **Apply** to save the changes.
@@ -164,15 +173,13 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
  If you’re still experiencing the high CPU usage problem for God of War, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Make sure your system is up-to-date
 
  High CPU usage could be a sign of an outdated system. If your system isn’t updated regularly, you may experience compatibility issues and bugs which can trigger a high CPU usage problem. You need to make sure that your system is up-to-date. Here’s how to check for available updates and install them:
@@ -182,18 +189,6 @@ If this doesn’t help, try the next fix.
 2. Windows will scan for any available updates. If there are_no_ available updates, you’ll get a**You’re up to date** sign. You could also click**View all optional updates** and install them if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. You may be prompted to restart your PC. Make sure you save important files in advance.
 
@@ -207,8 +202,6 @@ If this doesn’t help, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -216,4 +209,23 @@ If this doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-top-ranked-sources-for-embedding-text-visual-effects/"><u>[New] 2024 Approved Top Ranked Sources for Embedding Text Visual Effects</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bridging-distances-with-easy-to-use-xbox-zooming/"><u>[New] Bridging Distances with Easy-to-Use Xbox Zooming</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-from-project-board-to-public-display-imovie-on-youtube/"><u>[Updated] 2024 Approved From Project Board to Public Display IMovie on YouTube</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-hourly-video-consumption-total-daily-gb-amount/"><u>[Updated] 2024 Approved Hourly Video Consumption Total Daily GB Amount</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/consigli-esperti-per-eludere-le-restrizioni-di-sicurezza-su-film-e-cartoni-animati-disney-in-formato-dvd/"><u>Consigli Esperti per Eludere Le Restrizioni Di Sicurezza Su Film E Cartoni Animati Disney in Formato DVD</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dota-5/"><u>Dota 지그재그즈 : 게임이 끝날 수 없는 방법, 플레이어가 찾아야 할 5가지 해결 방법</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enable-routines-open-the-google-app-tap-on-more-three-horizontal-lines-then-go-to-routine-tap-on-add-more-routines-or-plus-add-new-routine-the-wording-may-v442/"><u>Enable Routines: Open the Google App, Tap on More (Three Horizontal Lines), Then Go to Routine. Tap on Add More Routines or + Add New Routine (the Wording May Vary Depending on Your Device). Here You Can Create Custom Routines for Your Assistant.</u></a></li>
+<li><a href="https://discover-blog.techidaily.com/guia-paso-a-paso-para-mejorar-su-clips-de-video-en-mp4-uso-del-editor-de-videos-movipeak/"><u>Guía Paso a Paso Para Mejorar Su Clips De Video en MP4: Uso Del Editor De Videos Movipeak</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fake-gps-on-xiaomi-14-ultra-for-mobile-legends-drfone-by-drfone-virtual-android/"><u>In 2024, How To Fake GPS On Xiaomi 14 Ultra For Mobile Legends? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-unlock-icloud-activation-lock-and-icloud-account-from-apple-iphone-11-by-drfone-ios/"><u>In 2024, How to Unlock iCloud Activation Lock and iCloud Account From Apple iPhone 11?</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-unveiling-9plus-ingenious-methods-for-online-cricket-viewing/"><u>In 2024, Unveiling 9+ Ingenious Methods for Online Cricket Viewing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009326983-no-more-quiet-menace-fixing-lack-of-sound-in-evil-genius-2/"><u>No More Quiet Menace: Fixing Lack of Sound in Evil Genius 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-glitches-strategies-to-stop-tribes-of-midgard-from-crashing/"><u>Overcoming Glitches - Strategies to Stop 'Tribes of Midgard' From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-network-issues-in-apex-legends-proven-fixes-and-tips-for-gamers/"><u>Overcoming Network Issues in Apex Legends: Proven Fixes and Tips for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-bluestacks-from-crashing-a-five-step-solution-guide/"><u>Stop BlueStacks From Crashing: A Five-Step Solution Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valorant-performance-upgrade-advanced-strategies-to-combat-low-fps-issues/"><u>Valorant Performance Upgrade: Advanced Strategies to Combat Low FPS Issues</u></a></li>
+</ul></div>
 

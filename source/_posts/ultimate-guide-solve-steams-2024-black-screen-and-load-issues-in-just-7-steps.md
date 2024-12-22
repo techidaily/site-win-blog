@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solve Steam's 2024 Black Screen & Load Issues in Just 7 Steps"
-date: 2024-08-27T21:30:09.162Z
-updated: 2024-08-28T21:30:09.162Z
+date: 2024-12-19T03:04:18.935Z
+updated: 2024-12-21T22:48:19.484Z
 tags:
   - win11
   - win10
@@ -39,11 +39,12 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update Graphics Card Drivers
 
  Outdated graphics drivers may cause the “Fallout 4 black screen” issue. So you can try to update the graphics driver to fix the problem.
@@ -57,13 +58,7 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ---
 
 ### Fix 3: Edit configuration files
@@ -83,8 +78,9 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -93,17 +89,24 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
-4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 5. Run the game to check the problem will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter Unable to connect world issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -122,8 +125,6 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +132,22 @@ thumbnail: https://thmb.techidaily.com/b53e4c331196053afd389dad87c586f0b9c8a334f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://discover-help.techidaily.com/1-multicam-pro-advanced-livestreaming-solutions-with-virtual-camera-features/"><u>1. MultiCam Pro: Advanced Livestreaming Solutions with Virtual Camera Features</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-comprehensive-3d-lut-development-course/"><u>2024 Approved Comprehensive 3D LUT Development Course</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-resolving-issues-with-the-logitech-c920-webcam-device/"><u>Diagnosing and Resolving Issues with the Logitech C920 Webcam Device</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/tial-5-gaming-earbuds-for-video-creators-for-2024/"><u>Essential 5 Gaming Earbuds for Video Creators for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-gameplay-experience-addressing-fps-drops-in-call-of-duty-modern-warfare-3-for-optimal-performance/"><u>Fix Your Gameplay Experience: Addressing FPS Drops in Call of Duty: Modern Warfare 3 for Optimal Performance</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-realme-11-proplus-device-by-drfone-android/"><u>In 2024, Mastering Android Device Manager The Ultimate Guide to Unlocking Your Realme 11 Pro+ Device</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/polaroid-cubeplus-camera-insight-for-fans-of-live-action-for-2024/"><u>Polaroid Cube+ Camera Insight for Fans of Live-Action for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-ultimate-tutorial-for-lut-use-in-after-effects-for-2024/"><u>The Ultimate Tutorial for LUT Use in After Effects for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-tricks-to-fix-critical-crashes-in-tales-of-arise-unreal-engine-4/"><u>Tips & Tricks to Fix Critical Crashes in Tales of Arise (Unreal Engine 4)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-resolve-a-malfunctioning-msi-mystic-light-in-the-windows-environment/"><u>Troubleshoot and Resolve a Malfunctioning MSI Mystic Light in the Windows Environment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-stop-your-pc-games-from-freezing-in-2n4/"><u>Troubleshooting Steps: Stop Your PC Games From Freezing in 2N4!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006878104-troubleshooting-tips-for-football-manager-2023-that-wont-open-solved/"><u>Troubleshooting Tips for Football Manager 2023 That Won't Open: Solved!</u></a></li>
+<li><a href="https://some-skills.techidaily.com/tune-and-time-lapses-creating-music-videos-with-your-phone-for-2024/"><u>Tune & Time Lapses Creating Music Videos with Your Phone for 2024</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unveiling-iphone-17-details-anticipated-launch-timeline-pricing-and-feature-rumors/"><u>Unveiling iPhone 17 Details: Anticipated Launch Timeline, Pricing & Feature Rumors</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/1725288773015-winxvideo-ai/"><u>Winxvideo의 AI 기술을 활용한 고해상도 이미지 확대 및 회수</u></a></li>
+</ul></div>
 

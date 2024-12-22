@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Dota 2 Fixes 'Stuck at Launch' Issue"
-date: 2024-08-27T21:32:17.154Z
-updated: 2024-08-28T21:32:17.154Z
+date: 2024-12-16T21:06:44.810Z
+updated: 2024-12-22T03:31:13.294Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
 5. **[Optimize the graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Verify the integrity of game files
 
  Before trying anything more complicated, you could check if the game files are missing or corrupted. That will prevent your FIFA 22 from running normally. Below is the detailed instruction for an integrity check on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  or **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -53,17 +57,9 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
  It may take a few minutes to scan and repair, and then you can test if the crashing issue is still there. If yes, try the second solution.
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics driver
 
  The constant FIFA 22 crashes can also indicate a driver issue. If you’re using a broken or outdated graphics driver, various gaming problems can occur and affect your experience. To avoid any annoying crashing issues, make sure to keep your graphics driver up-to-date.
@@ -91,12 +87,17 @@ Here are two ways you can update the graphics driver easily and quickly:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Now all your device drivers are the latest. Check if FIFA 22 is back to the normal state. If not, there are three more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Change the DirectX settings
 
@@ -119,19 +120,24 @@ Here are two ways you can update the graphics driver easily and quickly:
 1. Open Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
 2. From the game list, right-click**FIFA** **22** and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-3.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-steam-overaly.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Play the game again to see if this method does the trick. If not, follow[Fix 5](https://tools.techidaily.com/drivereasy/download/) to adjust the in-game settings.
 
 #### On Origin
@@ -139,12 +145,13 @@ Here are two ways you can update the graphics driver easily and quickly:
 1. Launch Origin. Select**My Game Library** , and choose the FIFA 22 tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-verify-game-files.jpg)
 2. Click the**gear icon** and click**Game Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game.jpg)
 3. Make sure**Enable Origin In Game for FIFA 22 Ultimate Edition** is**unticked** . Click**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  How does the game work with overlay disabled? If it keeps crashing as before, continue to the next fix.
 
@@ -155,17 +162,10 @@ Here are two ways you can update the graphics driver easily and quickly:
 1. Launch FIFA 22 and select**Game** **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings.jpg)
 2. Select the**Windowed** or**Windowed** **Borderless** mode.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings-2.jpg)
 3. Select**Lock to 60fps** under Frame Rates, and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Open the game to check out on its performance. Still no luck? Try the last method.
 
 ### Fix 6 – Reinstall the game
@@ -187,8 +187,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -196,4 +194,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-overcoming-common-windows-10-photos-display-problems/"><u>[Updated] Overcoming Common Windows 10 Photos Display Problems</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/best-free-iphone-13-pro-imei-checker-by-drfone-ios/"><u>Best Free iPhone 13 Pro IMEI Checker</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/beyond-the-buzzwords-the-leading-edits-without-vimeo/"><u>Beyond the Buzzwords The Leading Edits Without Vimeo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conexao-gratuita-convertendo-mp4-e-wmv-on-line-com-o-movavi/"><u>Conexão Gratuita: Convertendo Mp4 E Wmv On-Line Com O Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/convert-your-m4v-files-into-compressed-3g2-format-for-free-via-movavis-web-service/"><u>Convert Your M4V Files Into Compressed 3G2 Format for Free via Movavi's Web Service</u></a></li>
+<li><a href="https://win-blog.techidaily.com/descargar-e-importar-libremente-archivos-webm-como-mp4-con-la-ayuda-de-movavi-transformacion-en-linea-gratis/"><u>Descargar E Importar Libremente Archivos Webm Como MP4 Con La Ayuda De Movavi - Transformación en Línea Gratis</u></a></li>
+<li><a href="https://win-exceptional.techidaily.com/diagnosing-internal-pc-problems-with-windows-insights-by-yl-software-experts/"><u>Diagnosing Internal PC Problems with Windows: Insights by YL Software Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-image-editing-mastering-the-art-of-photo-cropping-using-movavi-photo-editor/"><u>Effortless Image Editing: Mastering the Art of Photo Cropping Using Movavi Photo Editor</u></a></li>
+<li><a href="https://win-blog.techidaily.com/free-online-conversion-change-mp4-to-wmv-using-movavis-tool/"><u>Free Online Conversion: Change MP4 to WMV Using Movavi's Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/les-top-10-apps-de-slow-motion-video-pour-ios-et-android/"><u>Les Top 10 Apps De Slow Motion Video Pour iOS Et Android</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/microsoft-project-mpp/"><u>Microsoft Project ファイル修理講座：破損したMPPファイルの元通りに</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/microsoft-targets-resolution-of-fuzzy-font-issue-in-windows-version-of-chrome/"><u>Microsoft Targets Resolution of Fuzzy Font Issue in Windows Version of Chrome</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/pro-tips-for-crafting-and-sharing-content-on-reddit/"><u>Pro Tips for Crafting & Sharing Content on Reddit</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/ready-to-experience-cinema-creations-from-advanced-ai-technology/"><u>Ready to Experience Cinema Creations From Advanced AI Technology?</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/1722895997242-the-ultimate-guide-to-overcoming-code-n-series-hiccups-especially-43/"><u>The Ultimate Guide to Overcoming Code N-Series Hiccups – Especially #43!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-14-stock-footage-websites-high-quality-and-free-options/"><u>Top 14 Stock Footage Websites: High-Quality & Free Options</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-no-cost-dvd-disc-creation-programs-compatible-with-windows-11-8-and-7/"><u>Top 6 No-Cost DVD Disc Creation Programs Compatible with Windows 11, 8 & 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/transforma-tus-fotos-con-image2video-en-formato-mov-gratuito-usando-el-sitio-web-de-movavi-sin-tarifas-ni-limitaciones/"><u>Transforma Tus Fotos Con IMAGE2VIDEO en Formato MOV Gratuito Usando El Sitio Web De Movavi: Sin Tarifas Ni Limitaciones</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unsere-dvd-spielt-nicht-auf-ihrem-pc-oder-laptop-ab-losungen-und-workarounds/"><u>Unsere DVD Spielt Nicht Auf Ihrem PC Oder Laptop Ab: Lösungen Und Workarounds</u></a></li>
+</ul></div>
 

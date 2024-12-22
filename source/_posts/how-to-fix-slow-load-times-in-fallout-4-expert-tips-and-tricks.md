@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Slow Load Times in Fallout 4: Expert Tips and Tricks"
-date: 2024-08-27T21:31:39.258Z
-updated: 2024-08-28T21:31:39.258Z
+date: 2024-12-15T16:44:29.190Z
+updated: 2024-12-22T03:32:55.003Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/d6d8993d1273f8bc00bb7a2e686014c201566f379
 Players have been reporting an issue of extremely slow download speed in Origin. If you happened to be one of them, don’t worry. We’ve got some fixes for you.
 
 ![Origin slow download speed](https://images.drivereasy.com/wp-content/uploads/2020/09/EA-image-1-1200x675.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -46,9 +50,6 @@ Players have been reporting an issue of extremely slow download speed in Origin.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your network adapter driver
 
  Your Origin’s slow download speed may indicate an issue related to your network connection. And**your outdated network adapter driver** can be the culprit. To fix it, you need to update your network adapter driver, especially if you can’t remember when was the last time you updated it.
@@ -71,9 +72,6 @@ OR
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer for them to take effect. And your download speed should be boosted.
@@ -98,10 +96,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 4: Perform a clean boot
 
  A clean boot on PC or safe mode on Mac might help fix the issue by disabling all background programs including Steam. Because chances are they are interfering with your games. Below are the steps on how to perform a clean boot on a PC. If you’re using Mac, please visit the page on[How to use safe mode on your Mac](https://support.apple.com/en-us/HT201262) .
@@ -112,16 +106,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![how to bring up system configuration](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  3) Click on the**Services** tab. Check the box to**Hide all Microsoft services** , then click**Disable all** .
 
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click on the**Startup** tab and click**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-2.png)
@@ -130,22 +118,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/prevent-programs-from-starting-automatically.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Close the**Task Manager** window and go back to the**System Configuration** window.
 
  7) Click**OK** to save your changes, then restart your computer.
 
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  8) Click**restart** .
 
 ![perform a clean boot](https://images.drivereasy.com/wp-content/uploads/2020/09/perform-a-clean-boot-5.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
 ## Fix 5: Start Origin in R&D mode
@@ -156,9 +146,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
  2) Double-click on the**New Text Document** you just created.
 
  3) Paste the lines into the document:
@@ -179,23 +166,29 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-3.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 After that, you’ll see an icon on your desktop like the picture.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/EACore-icon.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Now start Origin, and click Yes when the USE CONFIGURATION FILE ON DESKTOP window pops up. This will overwrite your old config file. After that, log into Origin.
 
 ![Use R&D Mode Origin; Start Origin in R&D Mode](https://images.drivereasy.com/wp-content/uploads/2020/09/Start-Origin-in-RD-Mode-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The**EACore.ini** file is deleted from your desktop once you import it. If you want to leave R&D mode, you can navigate to the file by typing**%ProgramData%/Origin** in the Run box.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Clean the Origin cache file
 
@@ -213,9 +206,6 @@ After that, you’ll see an icon on your desktop like the picture.
 
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/09/task-manager.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  3) Under the**Processes** tab, make sure that**Origin .exe** and**OriginWebHelperService.exe** aren’t on there. (They’re listed in alphabetical order.) If they’re, right-click on it and click**End task** .
 
 ![check if Origin is running in the background
@@ -232,8 +222,9 @@ After that, you’ll see an icon on your desktop like the picture.
 ![open the cache files](https://images.drivereasy.com/wp-content/uploads/2020/09/open-the-cache-files.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Delete all the files and folders inside Origin**except for LocalContent** . Do not delete this folder.
 
  4) Open the**Run** box again. Type**%AppData%** and then click**OK** .
@@ -241,8 +232,9 @@ After that, you’ll see an icon on your desktop like the picture.
 ![access the appdata](https://images.drivereasy.com/wp-content/uploads/2020/09/access-the-appdata.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) In the**Roaming** folder, delete the**Origin** folder.
 
 ![delete the Origin folder](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-the-Origin-folder-3.png)
@@ -260,16 +252,13 @@ After that, you’ll see an icon on your desktop like the picture.
 ![delete the Origin cache](https://images.drivereasy.com/wp-content/uploads/2020/09/delete-the-Origin-cache-3-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 After that, restart your computer and log into Origin.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Fix 7: Reinstall Origin
 
  If none of the fixes listed above work for you, then you might consider uninstalling and reinstalling the app. To do so, you can:
@@ -287,6 +276,10 @@ After that, restart your computer and log into Origin.
  After you finish uninstalling the app, navigate to[EA Origin](https://www.origin.com/hkg/en-us/store/download) to download the latest version. Till then, follow the on-screen instructions to install it.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## If your problem persists
 
@@ -310,8 +303,6 @@ Below is the VPN we would like to recommend:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -319,4 +310,21 @@ Below is the VPN we would like to recommend:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/he-fundamentals-of-earnings-on-youtube/"><u>[New] The Fundamentals of Earnings on YouTube</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-in-2024-innovative-approaches-to-customizing-your-tiktok-videos/"><u>[Updated] In 2024, Innovative Approaches to Customizing Your TikTok Videos</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-professional-panoramas-and-cinematography-with-hero5-black-for-2024/"><u>[Updated] Professional Panoramas & Cinematography with Hero5 Black for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/windows1011-7/"><u>「コーデックが見つからない」と表示されるWindows10/11 エラーに悩まされている?この7点で修正するための詳細ガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-launch-blockers-for-helldivides-2-on-your-steam-platform/"><u>Bypassing Launch Blockers for Helldivides 2 on Your Steam Platform</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/como-cambiar-vob-a-video-hd-libremente-en-la-web-sin-costes-la-facil-solucion-de-movavi/"><u>Cómo Cambiar VOB a Video HD Libremente en La Web Sin Costes: La Fácil Solución De Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-non-responsive-corsair-icue-setup-in-windows-1110-environments/"><u>Fixing Non-Responsive Corsair iCUE Setup in Windows 11/10 Environments</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-poco-c65-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Poco C65</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-enlarge-images-ensure-excellence/"><u>In 2024, Enlarge Images, Ensure Excellence</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-meizu-21-pro-location-drfone-by-drfone-virtual-android/"><u>In 2024, Top 7 Phone Number Locators To Track Meizu 21 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-launch-errors-with-these-simple-tips-to-get-palworld-running-smoothly/"><u>Overcome Launch Errors with These Simple Tips to Get Palworld Running Smoothly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-nvidia-geforce-error-message-code-0x0003/"><u>Resolved: Fixing the NVIDIA GeForce Error Message (Code 0X0003)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fixes-for-fixing-technical-glitches-in-pc-fortnite-games/"><u>The Ultimate Fixes for Fixing Technical Glitches in PC Fortnite Games</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/top-tools-for-capturing-call-of-duty-warzone-for-2024/"><u>Top Tools for Capturing Call of Duty Warzone for 2024</u></a></li>
+</ul></div>
 
