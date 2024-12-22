@@ -1,7 +1,7 @@
 ---
 title: "COD: Modern Warfare Continuous Freezing Issues Now Resolved!"
-date: 2024-08-27T21:40:17.651Z
-updated: 2024-08-28T21:40:17.651Z
+date: 2024-12-19T18:27:26.944Z
+updated: 2024-12-20T18:50:17.268Z
 tags:
   - win11
   - win10
@@ -40,8 +40,9 @@ Released on March 26, 2021,**It Takes Two** is currently topping the Steam chart
  Launch It Takes Two to see if it crashes or not. If the game still crashes, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  **The broken or outdated graphics driver may also be the main culprit** behind the game crashing issues. As we all know, an outdated or corrupted graphics driver would trigger game crashing, stuttering (FPS dropping), and even screen flickering issues.
@@ -68,9 +69,6 @@ There are mainly two ways you can update your graphics drivers:
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -90,15 +88,16 @@ There are mainly two ways you can update your graphics drivers:
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You need to restart your PC after you finish updating your graphics driver.
 
  Launch the game to see if it crashes or not. Normally, after you update the graphics driver, the game crashing issue will disappear.
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  Hazelight (the developer of It Takes Two) releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -108,9 +107,9 @@ There are mainly two ways you can update your graphics drivers:
  Launch It Takes Two to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Add the game as an exception to your 3rd party antivirus software
 
  If you have 3rd party antivirus software installed on your computer, make sure you’ve added It Takes Two as an exception to your antivirus software, because those third-party antivirus software hooks very deep into your system, and it may interfere with the game.
@@ -121,9 +120,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  See if the game crashes after you add it as an exception to your antivirus software. If it persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking / turbo boosting
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -133,10 +129,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If this issue persists after you stop overclocking, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Update or reinstall DirectX files
 
  Most games require DirectX 11 to run properly, and It Takes Two is no exception. If there’s a problem with DirectX, the game would crash on startup. If that’s the case, updating the DirectX to the latest version may help. Here is how to do it:
@@ -145,6 +140,10 @@ The powerful video editing program for your Windows PC</a>
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  See if the game crashing issue reappears. If not, congratulations, you’ve fixed this issue!
 
@@ -164,8 +163,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +170,22 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-professional-recommendations-superior-voice-modification-tools/"><u>[New] In 2024, Professional Recommendations Superior Voice Modification Tools</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-resource-for-advanced-periscope-techniques/"><u>[New] The Ultimate Resource for Advanced Periscope Techniques</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-the-blueprint-to-climbing-your-way-up-in-youtube-ranks/"><u>[Updated] The Blueprint to Climbing Your Way Up in YouTube Ranks</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-acquire-excellent-images-at-no-cost-essential-strategies/"><u>2024 Approved Acquire Excellent Images at No Cost Essential Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-and-solving-frequent-crashes-of-scavengers-on-windows-pcs/"><u>Addressing & Solving Frequent Crashes of 'Scavengers' On Windows PCs</u></a></li>
+<li><a href="https://techtrends.techidaily.com/comparing-iphones-to-androids-which-device-fits-your-lifestyle/"><u>Comparing iPhones to Androids: Which Device Fits Your Lifestyle?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-diagnosing-and-fixing-previous-black-screen-errors/"><u>Comprehensive Guide to Diagnosing and Fixing Previous Black Screen Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/escape-from-tarkov-server-issues-decoded-strategies-to-restore-your-game-play-without-disconnects/"><u>Escape From Tarkov Server Issues Decoded: Strategies to Restore Your Game Play Without Disconnects</u></a></li>
+<li><a href="https://techtrends.techidaily.com/fixing-guide-fur-itunes-probleme-mit-iphone-xrxsxs-max-losungen-finden/"><u>Fixing Guide Für iTunes-Probleme Mit iPhone XR/XS/XS Max - Lösungen Finden</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outriders-fix-guide-resolving-the-notorious-ue4-madness-process-crash-error/"><u>Outriders Fix Guide: Resolving the Notorious ‘UE4 Madness’ Process Crash Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-in-call-of-duty-black-ops-cold-war-for-windows-users/"><u>Overcoming Launch Problems in Call of Duty: Black Ops Cold War for Windows Users</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/pioneering-profit-navigating-the-path-to-money-making-on-vimeo/"><u>Pioneering Profit Navigating the Path to Money-Making on Vimeo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-frame-rate-issues-and-lags-for-a-smooth-gameplay-experience-on-resident-evil-village-pc/"><u>Resolving Frame Rate Issues & Lags for a Smooth Gameplay Experience on Resident Evil Village (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-issues-how-to-prevent-ascent-from-crashing-in-your-web-browser/"><u>Resolving Issues: How to Prevent Ascent From Crashing in Your Web Browser</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-the-hp-laptop-camera-in-windows-10-expert-tips-and-fixes/"><u>Reviving the HP Laptop Camera in Windows 10: Expert Tips & Fixes</u></a></li>
+</ul></div>
 

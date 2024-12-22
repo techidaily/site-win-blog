@@ -1,7 +1,7 @@
 ---
 title: "Fixing Persistent Issues with Discord Live Broadcasts: Unstick Your Stream"
-date: 2024-08-27T21:40:53.446Z
-updated: 2024-08-28T21:40:53.446Z
+date: 2024-12-13T16:26:44.572Z
+updated: 2024-12-20T20:49:06.217Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/b2d913b57df62249e08cf6aa2213e0e218bf0ce45
  However, users sometimes encounter issues like streams not loading properly on the platform. Assuming that Twitch does not have any**server issues** , there are a variety of factors that could be preventing you from watching streams on your end. But don’t worry, with this guide, you can navigate your way down the list of solutions, until you get to the root of the problem and find the fix that works for you.
 
  If you stream Twitch on a web browser, try**restarting your web browser** and see if it could fix the issue (According to user feedback, the simple fix very likely works).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes for Twitch Streams Not Loading
 
@@ -57,21 +61,24 @@ Here’s how to restart it:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/de-scan-now-11.jpg)
 3. Click Update All to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or, you can click the Update button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/06/de-uodate-all.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy**  comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3 Change your DNS settings
 
  DNS (Domain Name System) is like an address book for the internet – it translates domain names to IP addresses so your device can load the correct website or server. Sometimes DNS issues cause errors or failed loading, so changing your DNS settings to alternate DNS servers can resolve the problem by routing your requests differently. Switching DNS provides a fresh lookup and mapping of domain names to IPs, allowing streams to connect successfully.
@@ -86,14 +93,25 @@ To fix this, you can try using Google Public DNS. Here’s how:
 4. Double click **Internet Protocol Version 4 (TCP/IPv4)** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-388.png)
 5. Select **Use the following DNS server addresses** , fill in the Google Public DNS addresses (**8.8.8.8** for **Preferred DNS server** and **8.8.4.4** for **Alternate** ), and then click **OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-389.png)
 6. Click **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Restart your computer as well as your router/modem.
 
  Now check to see if this helps you load Twitch streams. If yes, then congrats! If the black screen persists, please try Fix 4, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4 Clear cache and cookies
 
@@ -107,9 +125,6 @@ Clear cache and cookies in Google Chrome:
 3. Click **Clear data** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cleardata.png)
 4. Restart Google Chrome.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Open Twitch and see if you can play the streaming content properly. If it still doesn’t do the trick, please continue with **Fix 5** , below.
 
 ## Fix 5 Disable browser extensions
@@ -120,14 +135,8 @@ Clear cache and cookies in Google Chrome:
 2. In the top right corner of your screen, click the **three-vertical-dots** icon > **More tools > Extensions** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/extensions.jpg)
 3. Disable any ad blockers or extensions that you have installed by clicking the toggle switch next to them.
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart Google Chrome. If disabling browser extensions doesn’t help with the situation, please try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6 Use VPN to change your IP address
 
  You won’t be able to visit Twitch if you are trying to open the website in a country without access to Twitch, as it isn’t readily available in some locations. Fortunately, there is a simple and reliable solution to this problem. Using a**VPN (Virtual Private Network)** will help you “mask” your IP to make it appear as though it’s coming from a country where Twitch is allowed.
@@ -141,20 +150,18 @@ Here’s how to use it:
 ![](https://images.drivereasy.com/wp-content/uploads/2022/05/nordvpn-pc.jpg)
 3. Check to see if you can open the website without problems this time. If yes, then you’ve worked around the issue. If no, please head on to Fix 7, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  NordVPN’s**30-day money-back guarantee** allows you to test run the service for as long as 30 days – if you’re not 100% satisfied, refund anyway.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7 Launch in safe mode
 
  If the problem continues to appear even after applying the above workarounds, we recommend launching the app in safe mode. Here’s how to do it:
 
 1. Press **Win** ![](https://images.drivereasy.com/wp-content/uploads/2018/05/Windows-logo-key-5.png) **+R** keys to open the **Run** dialog.
 2. Type “**msconfig** ” in the search box and press Enter to open **System Configuration** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 3. Click the **Boot** tab, enable **Safe Boot** and the**Network** option, and then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/08/safe-mode.jpg)
@@ -167,8 +174,6 @@ Here’s how to use it:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +181,26 @@ Here’s how to use it:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/-powerful-applications-for-saving-youtube-content-on-android/"><u>[New] 9 Powerful Applications for Saving YouTube Content on Android</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-elevate-the-art-of-storytelling-6-leading-snapchat-apps-for-2024/"><u>[New] Elevate the Art of Storytelling 6 Leading Snapchat Apps for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-reveling-in-creativity-the-best-of-filmoras-edits/"><u>[New] In 2024, Reveling in Creativity The Best of Filmora's Edits</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-cashing-in-on-content-the-carminati-effect-ajay-for-2024/"><u>[Updated] Cashing In on Content The Carminati Effect (AJay) for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-mastering-cinematic-tones-beyond-basic-adjustments/"><u>2024 Approved Mastering Cinematic Tones Beyond Basic Adjustments</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/1726029296610-mts/"><u>簡単！MTSファイルをコンパクトに詰める究極ガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoiding-discord-downfalls-expert-advice-for-fixing-app-instability/"><u>Avoiding Discord Downfalls: Expert Advice for Fixing App Instability</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decode-and-repair-nvidia-geforce-experiences-0x0003-error-a-comprehensive-guide/"><u>Decode and Repair Nvidia Geforce Experience's 0X0003 Error: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enjoy-uninterrupted-gaming-wrc-10-no-more-pc-bugs-corrected/"><u>Enjoy Uninterrupted Gaming: WRC 10 No More PC Bugs Corrected!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-overcoming-repeated-shutdowns-in-the-pc-version-of-f1-2020-racing-game/"><u>Expert Tips: Overcoming Repeated Shutdowns in the PC Version of F1 2020 Racing Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-ghostwire-tokyo-from-frequently-crashing-on-your-computer-issue-solved/"><u>How to Stop Ghostwire: Tokyo From Frequently Crashing on Your Computer (Issue Solved)</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-8-safe-and-effective-methods-to-unlock-your-apple-iphone-14-pro-without-a-passcode-by-drfone-ios/"><u>In 2024, 8 Safe and Effective Methods to Unlock Your Apple iPhone 14 Pro Without a Passcode</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-mastery-in-minutes-full-vsco-app-guide/"><u>In 2024, Mastery in Minutes Full VSCO App Guide</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-tutorial-to-change-vivo-y100i-power-5g-imei-without-root-a-comprehensive-guide-by-drfone-android/"><u>In 2024, Tutorial to Change Vivo Y100i Power 5G IMEI without Root A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-quick-repairs-solving-battlefield-5-not-starting-in-the-latest-2024-update/"><u>Mastering Quick Repairs: Solving Battlefield 5 Not Starting in the Latest 2024 Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-fix-windows-pc-ignoring-your-gamepad/"><u>Solved: How to Fix Windows PC Ignoring Your Gamepad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-persistent-stutters-in-overwatch-gameplay/"><u>Troubleshooting Guide: Fixing Persistent Stutters in Overwatch Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-csgo-startup-problems/"><u>Troubleshooting Guide: Resolving CS:GO Startup Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/troubleshooting-the-zlibdll-missing-issue-effectively/"><u>Troubleshooting the 'zlib.dll Missing' Issue Effectively</u></a></li>
+</ul></div>
 

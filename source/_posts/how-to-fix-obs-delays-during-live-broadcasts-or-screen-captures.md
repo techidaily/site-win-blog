@@ -1,7 +1,7 @@
 ---
 title: How to Fix OBS Delays During Live Broadcasts or Screen Captures
-date: 2024-08-27T21:40:14.050Z
-updated: 2024-08-28T21:40:14.050Z
+date: 2024-12-14T17:58:09.177Z
+updated: 2024-12-20T19:29:19.413Z
 tags:
   - win11
   - win10
@@ -87,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-18.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you cannot open or use Firefox, you’re still able to find your profile folders:  
  1\. On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run dialog box.  
  2\. Type in**%APPDATA%\\Mozilla\\Firefox\\Profiles\\** and then click**OK** .  
@@ -103,6 +107,10 @@ thumbnail: https://thmb.techidaily.com/0b6ddfcc355a034bc5a8feec71361dd4191fefb9c
  5) On the**General** tab, make sure the**Read-only** option has not been checked. Then, click**Apply > OK** to save any changes you’ve made.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-21.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now go on to check if the problem remains with your Firefox browser.
 
@@ -124,6 +132,10 @@ Now go on to check if the problem remains with your Firefox browser.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-28.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Rename it as**places.sqlite.old** . (Since its original name is place.sqlite, you just need to add**.old** to the end and then hit**Enter** on your keyboard.)
 
  Mind that this step will erase your browsing history and delete bookmarks of the day.
@@ -142,12 +154,13 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-29.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) On the**General** tab, in the results pane, under**Performance** , untick the**Use recommended performance settings** check box. Then, uncheck**Use hardware acceleration when available** .
 
@@ -170,8 +183,9 @@ If this fix didn’t help, please proceed to the next one.
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Click**Options** .
 
 ![This image has an empty alt attribute; its file name is image-29.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-29.png)
@@ -183,6 +197,10 @@ If this fix didn’t help, please proceed to the next one.
  4) Select the two check boxes as shown below, then click**Clear** . (You can decide whether to clear all these data depending on your actual situation.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-35.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  When prompted for confirmation, click**Clear Now** .
 
@@ -198,20 +216,18 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Help** \>**Troubleshooting Information** .
 
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Under**Try Safe Mode** , click**Restart with Add-ons Disabled…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-58.png)
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  When prompted for confirmation, click**Restart** . Then another dialog box will pop up, click**Start in Safe Mode** .
 
  You can also initiate Safe Mode by pressing the**Shift** key on your keyborad while double-clicking Firefox to launch it.
@@ -226,16 +242,10 @@ If this fix didn’t help, please proceed to the next one.
 
 ![This image has an empty alt attribute; its file name is image-59.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-59.png)
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  On the**Themes** tab, click on the three-dot button of your disabled**Default** theme and select**Enable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-61-1024x401.png)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and wait to see if the problem disappears. If it does, then reverting your Firefox theme to the default should have well resolved the issue; if it doesn’t, keep trying the next step.
 
  7)**Check for problematic extensions** . To do this, click the**menu** button at the top right and then select**Add-ons** (as shown in Step 6).
@@ -251,9 +261,9 @@ If this fix didn’t help, please proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-62.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If there’re any updates detected, click**Install Updates** . Then, click the menu button at the top right and select**Exit** . After that, reopen Firefox the way you normally do and see if it works properly. In case updating extensions didn’t help, you can also check the extension settings, as shown below.
 
  9) Click the three-dot icon of that extension, and select**Options** .
@@ -274,9 +284,6 @@ Restart Firefox and see if the not-responding problem goes away.
 
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  2) Click**Help** \>**About Firefox** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-36.png)
@@ -284,6 +291,10 @@ Restart Firefox and see if the not-responding problem goes away.
  3) Then Firefox will check automatically whether your version is up-to-date and update it if it isn’t.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-37.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  In this screenshot, Firefox has been updated to the latest version.
 
@@ -299,23 +310,18 @@ Restart Firefox and see if the not-responding problem goes away.
 
 ![This image has an empty alt attribute; its file name is image-16.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-16.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
  2) Click**Help > Troubleshooting Information** .
 
 ![This image has an empty alt attribute; its file name is image-17.png](https://images.drivereasy.com/wp-content/uploads/2019/11/image-17.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the upper right corner, under**Give Firefox a tune up** , click**Refresh Firefox…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/image-49-1024x247.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If prompted for confirmation, click**Refresh Firefox** .
 
  4) When the refresh is finished, a wizard will pop up to notify you of your imported information. Click on the**Finish** button and then Firefox will restart.
@@ -332,8 +338,6 @@ Restart Firefox and see if the not-responding problem goes away.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -341,4 +345,18 @@ Restart Firefox and see if the not-responding problem goes away.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-cutting-through-complexity-simplifying-your-approach-to-lut-design/"><u>[Updated] 2024 Approved Cutting Through Complexity Simplifying Your Approach to LUT Design</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-chilly-competition-unveiling-highlights-of-2022s-snowboard-cross-showdown-for-2024/"><u>[Updated] Chilly Competition Unveiling Highlights of 2022'S Snowboard Cross Showdown for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-from-pages-to-production-creating-a-movie-blueprint/"><u>[Updated] From Pages to Production Creating a Movie Blueprint</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-starting-call-of-duty-black-ops-4-when-it-fails-to-load-initially/"><u>Expert Advice on Starting Call of Duty Black Ops 4 When It Fails to Load Initially</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-ready-fixing-the-red-dead-redemption-2-wont-launch-woes/"><u>Get Ready: Fixing the 'Red Dead Redemption 2' Won’t Launch Woes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-achieve-fluid-game-performance-with-elevated-frame-rates-advanced-strategies/"><u>How to Achieve Fluid Game Performance With Elevated Frame Rates - Advanced Strategies</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-oppo-a18-find-my-friends-no-location-found-drfone-by-drfone-virtual-android/"><u>How to Fix Oppo A18 Find My Friends No Location Found? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-to-apple-iphone-6-drfone-by-drfone-ios/"><u>How to Mirror PC to Apple iPhone 6? | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-vivo-y55s-5g-2023-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Vivo Y55s 5G (2023) to Outlook | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-frequent-game-interruptions-your-ultimate-fix-for-a-stable-fortnite-experience/"><u>Overcoming Frequent Game Interruptions: Your Ultimate Fix for a Stable Fortnite Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-woes-no-more-ultimate-guide-to-resolve-game-of-the-years-endless-crash/"><u>PC Woes No More: Ultimate Guide to Resolve Game of the Year's Endless Crash</u></a></li>
+</ul></div>
 

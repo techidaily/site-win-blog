@@ -1,7 +1,7 @@
 ---
 title: Expert Solutions to Prevent Guilty Gear Strive From Crashing on Your Computer
-date: 2024-08-27T21:39:59.358Z
-updated: 2024-08-28T21:39:59.358Z
+date: 2024-12-15T20:45:46.944Z
+updated: 2024-12-20T17:12:47.969Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ thumbnail: https://thmb.techidaily.com/194a7e702c94714cd1ade34a1eef99f1c71a4608c
 
 If not, go ahead and try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  If Guilty Gear Strive keeps crashing while in-game, it’s likely that your graphics driver is faulty or outdated. To see if that’s the case for you, you should update your drivers. There are two ways you can try.
@@ -61,6 +65,10 @@ If not, go ahead and try the next fix.
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money-back** guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once you’ve updated your graphics driver, restart your computer and launch Guilty Gear Strive again.
 
 If the game still crashes, don’t worry, try the next fix.
@@ -72,27 +80,32 @@ If the game still crashes, don’t worry, try the next fix.
 1. On your keyboard, press**the Windows logo key** and type**System Configuration** , then click**Open** from the list of results.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/systemconfiguration.jpg)
 2. In the System Configuration window, click the**Services** tab, check**Hide all Microsoft services** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. Select the Startup tab and click**Open Task Manager** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/startup.jpg)
 5. In the pop-up window, for each startup item, select the item and then click**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/end.jpg)
 6. Close Task Manager.
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 7. Go back to the System Configuration window and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ok.jpg)
 8. Restart your computer.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 
  After restarting your computer, launch the Guilty Gear Strive to see if it crashes.
 
@@ -102,10 +115,6 @@ If the game still crashes, don’t worry, try the next fix.
 
  If the game still crashes after you disabled all the programs and services, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 4: Try different launch options
 
  To launch the game with different launch options has been proven to be another useful way to fix crashing issues. For example, we can add the console command “-d3d11” to force the game to run on DirectX 11\. Or we can add the console command “-nohmd” to launch the game with no head-mounted display, so it won’t need to boot up SteamVR. Here’s how to do it:
@@ -113,17 +122,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open your**Steam Library** . Right-click Guilty Gear Strive and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/lib.jpg)
 2. On the General tab you’ll find the**LAUNCH OPTIONS** section. In the blank text box, type “**\-nohmd** ” or “**\-d3d11** ”.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/launch1.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/launch2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 3. Close the game’s Properties window.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Now you can launch Guilty Gear Strive again to see if it fixes the crashing issue.
@@ -137,9 +141,11 @@ If not, try the next fix.
 1. Open your**Steam Library** . Right-click Guilty Gear Strive and select**Manage** , then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/uninstall.jpg)
 2. Click**Uninstall** again to confirm that you want to delete its files.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Wait a few minutes to uninstall the game.
 4. Reinstall the game.
 
@@ -157,8 +163,6 @@ If not, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +170,24 @@ If not, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-2024-approved-covert-recording-erasing-identifiable-information/"><u>[New] 2024 Approved Covert Recording Erasing Identifiable Information</u></a></li>
+<li><a href="https://location-fake.techidaily.com/all-must-knows-to-use-fake-gps-go-location-spoofer-on-honor-magic-5-lite-drfone-by-drfone-virtual-android/"><u>All Must-Knows to Use Fake GPS GO Location Spoofer On Honor Magic 5 Lite | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-crusader-kings-2-error-starting-the-game-woes-explained/"><u>Battling Crusader Kings 2 Error: Starting The Game Woes Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-resolving-minecrafts-dark-display-problem-updated-tips-from-solved-2024/"><u>Comprehensive Guide to Resolving Minecraft's Dark Display Problem - Updated Tips From [SOLVED], 2024</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/essential-guide-overcoming-issues-with-full-file-backups-in-windows-10/"><u>Essential Guide: Overcoming Issues with Full-File Backups in Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/final-fantasy-xiv-overcoming-obstacles-during-game-version-assessment/"><u>Final Fantasy XIV - Overcoming Obstacles During Game Version Assessment</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-use-lav-filters-on-windows-and-what-they-do/"><u>How to Use LAV Filters on Windows, and What They Do</u></a></li>
+<li><a href="https://apple-account.techidaily.com/icloud-separation-how-to-disconnect-apple-iphone-8-plus-and-ipad-by-drfone-ios/"><u>iCloud Separation How To Disconnect Apple iPhone 8 Plus and iPad</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/immortals-fenyx-rising-addressing-the-problem-of-constant-game-freezes-and-clashes/"><u>Immortals: Fenyx Rising - Addressing the Problem of Constant Game Freezes and Clashes</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-comprehensively-reviews-easeus-experts-unite/"><u>In 2024, Comprehensively Reviews EaseUS, Experts Unite</u></a></li>
+<li><a href="https://facebook.techidaily.com/secure-personal-space-with-facebook-memory-blocking/"><u>Secure Personal Space with Facebook Memory Blocking</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-game-launching-problems-with-this-guide-for-persona-3-farewell-ruins/"><u>Solve Your Game-Launching Problems with This Guide for Persona 3 Farewell Ruins!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-elevated-cpu-utilization-in-god-of-war-expert-strategies/"><u>Solving Elevated CPU Utilization in God of War: Expert Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-solving-the-problem-of-witcher-ean-not-initializing/"><u>Step-by-Step Guide: Solving the Problem of Witcher Ean Not Initializing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-black-ops-cold-war-error-code-0xc0000005/"><u>Troubleshooting Steps for Black Ops: Cold War Error Code 0Xc0000005</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-repairing-your-pcs-among-us-voice-communication-issues/"><u>Troubleshooting Steps: Repairing Your PC's Among Us Voice Communication Issues</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/unlock-the-full-potential-of-group-video-conferencing-on-your-android-device-zoom/"><u>Unlock the Full Potential of Group Video Conferencing on Your Android Device (Zoom)</u></a></li>
+</ul></div>
 

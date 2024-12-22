@@ -1,7 +1,7 @@
 ---
 title: How to Fix Chivalry 2 High Ping and Lag Issues [2024 Tips]
-date: 2024-08-27T21:36:29.921Z
-updated: 2024-08-28T21:36:29.921Z
+date: 2024-12-16T17:27:15.958Z
+updated: 2024-12-20T19:17:23.175Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 3. [Update your drivers](https://tools.techidaily.com/drivereasy/download/)
 4. [Disable firewall/ antivirus software](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  If restarting the game and your PC doesn’t fix the issue, try running the game with admin rights. This will allow the game to use more system resources that might fix the issue. It’s a useful cliché method for most gamers.
@@ -49,9 +53,6 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 
 If it’s not working, move to next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -64,9 +65,6 @@ If it’s not working, move to next fix.
 
 No luck with this one? Move to the next.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -95,21 +93,25 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -120,9 +122,11 @@ OR
 2. Click **Settings** \> **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 3. Select**Windows Security** , in the **Firewall & Network Protection** tab, select **Network Profile** .
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Turn settings off in **Microsoft Defender** **Firewall** .
 5. Relaunch the game to see if Chivalry 2 would crash or not.
 
@@ -140,8 +144,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +151,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-vlog-editing-essentials-utilizing-jump-cuts-rightly/"><u>[New] 2024 Approved Vlog Editing Essentials Utilizing Jump Cuts Rightly</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-essential-low-cost-footage-source-directory/"><u>[Updated] 2024 Approved Essential Low-Cost Footage Source Directory</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-projector-vs-tv-which-is-best-for-your-4k-experience/"><u>[Updated] Projector vs TV Which Is Best for Your 4K Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-firefox-pip-a-complete-users-manual/"><u>2024 Approved Firefox PIP A Complete User's Manual</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013262746-cod-modern-warfare-continuous-freezing-issues-now-resolved/"><u>COD: Modern Warfare Continuous Freezing Issues Now Resolved!</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/experience-brighter-visuals-with-our-compact-mini-led-display-adjust-settings-for-perfect-viewing/"><u>Experience Brighter Visuals with Our Compact Mini LED Display - Adjust Settings for Perfect Viewing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gpu-not-detected-by-cyberpunk-2077-heres-the-solution-for-windows-10-users/"><u>GPU Not Detected by Cyberpunk 2077? Here's the Solution for Windows 10 Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-obs-delays-during-live-broadcasts-or-screen-captures/"><u>How to Fix OBS Delays During Live Broadcasts or Screen Captures</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-make-the-most-of-the-on-the-go-version-of-driver-easy-software/"><u>How to Make the Most of the On-the-Go Version of Driver Easy Software</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-beyond-borders-blurring-techniques-for-global-audienes/"><u>In 2024, Beyond Borders Blurring Techniques for Global Audienes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-resident-evil-village-a-step-by-nstep-guide-to-solve-launching-problems/"><u>Mastering Resident Evil Village: A Step-by-nStep Guide to Solve Launching Problems</u></a></li>
+<li><a href="https://driver-download.techidaily.com/newest-compatible-hp-laserjet-p1606dn-drivers-available-now-quick-setup-on-windows-systems/"><u>Newest Compatible HP LaserJet P1606dn Drivers Available Now: Quick Setup on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-comprehensive-guide-to-flawless-star-wars-squadrons-gaming-experience/"><u>No More Crashes! Comprehensive Guide to Flawless Star Wars: Squadrons Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-solving-frequent-crashing-problems-in-pc-version-of-hearthstone/"><u>Optimizing Performance: Solving Frequent Crashing Problems in PC Version of Hearthstone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-rockstar-games-launcher-hurdles-expert-fixes-for-gaming/"><u>Overcome Rockstar Games Launcher Hurdles: Expert Fixes for Gaming</u></a></li>
+<li><a href="https://techtrends.techidaily.com/three-years-later-the-evolution-of-my-iphone-revealed-a-comprehensive-review/"><u>Three Years Later: The Evolution of My iPhone Revealed - A Comprehensive Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-for-resident-evil-village-crashing-on-windows-10/"><u>Ultimate Troubleshooting Tips for Resident Evil Village Crashing on Windows 10</u></a></li>
+</ul></div>
 

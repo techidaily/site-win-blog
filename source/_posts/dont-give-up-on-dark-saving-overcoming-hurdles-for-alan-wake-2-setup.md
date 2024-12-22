@@ -1,7 +1,7 @@
 ---
 title: "Don't Give Up on Dark Saving: Overcoming Hurdles for Alan Wake 2 Setup"
-date: 2024-08-27T21:35:08.368Z
-updated: 2024-08-28T21:35:08.368Z
+date: 2024-12-19T17:43:42.164Z
+updated: 2024-12-20T20:53:34.221Z
 tags:
   - win11
   - win10
@@ -35,6 +35,11 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 2. Right-click on the shortcut and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
 
@@ -47,13 +52,7 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 3. In the**Compatibility** tab, check**Run this program in compatibility mode for** and select**Windows 7** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/compatibility.jpg)
 4. Launch the game to check.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change System Configuration
 
 1. Press the**Windows logo key + R** together to open the Run box.
@@ -62,6 +61,10 @@ MapleStory is a popular 2D side-scrolling MMORPG game developed by a South Korea
 3. Click the**Services** tab and check**Hide all Microsoft services** on the bottom left corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 4. Disable all that on the left, beside NVIDIA Display Container.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your driver
 
@@ -92,14 +95,16 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Use Registry editor
 
  This method should be your final solution cause it has potential risks. You’d better backup files before trying this method.
@@ -108,16 +113,14 @@ OR
 2. End up all the Nexon files and Maplestory files by clicking**End Task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/09/end-task-in-task-manager.png)
 3. Press the Windows logo key + R to open the Run box.
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Type**regedit** and press Enter.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 5. Press**Windows key + F** together open the search menu.
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 6. Type**soScreenMode** and press Enter.
 7. Change the**0** to**3** . Save the change.
 8. Launch the game in compatibility mode and check.
@@ -132,8 +135,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -141,4 +142,21 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-stream.techidaily.com/new-gain-insight-into-your-contents-success-via-youtube-rankers/"><u>[New] Gain Insight Into Your Content's Success via YouTube Rankers</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-a-guide-to-gauging-igtv-video-impressions/"><u>[New] In 2024, A Guide to Gauging IGTV Video Impressions</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/accelerez-le-lancer-dapplications-sur-windows-11-des-techniques-provencees-en-vous-offrant-une-experience-optimisee/"><u>Accélérez Le Lancer D’Applications Sur Windows 11: Des Techniques Provencées en Vous Offrant Une Expérience Optimisée!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/advanced-troubleshooting-techniques-to-improve-your-minecraft-gaming-experience-on-pc-tips-and-tutorials-2023-edition/"><u>Advanced Troubleshooting Techniques to Improve Your Minecraft Gaming Experience on PC (Tips & Tutorials, 2023 Edition)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-window-and-browser-freeze-ups-fixes-for-chrome-on-windows-10/"><u>Banish Window & Browser Freeze-Ups: Fixes for Chrome on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-cold-wars-loading-problem-expert-advice-for-pc-gamers-and-console-enthusiasts/"><u>Fixing Cold War's Loading Problem: Expert Advice for PC Gamers and Console Enthusiasts</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-how-to-remove-find-my-iphone-without-apple-id-on-your-iphone-6s-by-drfone-ios/"><u>In 2024, How to Remove Find My iPhone without Apple ID On your iPhone 6s?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-resident-evil-5-launch-failures-on-pc-a-comprehensive-guide/"><u>Resolve Resident Evil 5 Launch Failures on PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revamp-your-audio-the-6-best-ways-to-fix-an-unresponsive-obs-mic/"><u>Revamp Your Audio: The 6 Best Ways to Fix an Unresponsive OBS Mic</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-for-initializing-problem-in-stardew-valley-game/"><u>Solution Found for Initializing Problem in Stardew Valley Game</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/top-rated-tablets-comprehensive-reviews-by-tech-gurus-zdnet/"><u>Top-Rated Tablets - Comprehensive Reviews by Tech Gurus | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solving-the-stuck-shader-compilation-bug-in-black-ops-cold-war/"><u>Troubleshooting and Solving the Stuck Shader Compilation Bug in Black Ops Cold War</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-spotify-crashes-when-iphone-goes-into-sleep-mode-expert-tips/"><u>Troubleshooting Spotify Crashes When iPhone Goes Into Sleep Mode – Expert Tips</u></a></li>
+<li><a href="https://techtrends.techidaily.com/tutorial-ottimizzazione-del-controllo-del-volume-per-le-canzoni-audio-ed-mp3-usando-normalizzare/"><u>Tutorial: Ottimizzazione Del Controllo Del Volume per Le Canzoni Audio Ed MP3 Usando Normalizzare!</u></a></li>
+</ul></div>
 

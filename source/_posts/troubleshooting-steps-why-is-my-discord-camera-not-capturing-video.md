@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Steps: Why Is My Discord Camera Not Capturing Video?"
-date: 2024-08-27T21:41:14.692Z
-updated: 2024-08-28T21:41:14.692Z
+date: 2024-12-16T21:26:05.341Z
+updated: 2024-12-20T22:07:43.550Z
 tags:
   - win11
   - win10
@@ -61,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 
  If your PC specs are sufficient but you still get the Cyberpunk 2077 has flatlined error, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Close background programs
 
  Cyberpunk 2077 is extremely GPU and processor-intensive. So if you try to launch the game with many background programs running, you’ll likely get the Cyberpunk 2077 has flatlined error. Here’s how to completely close the programs running in the background and allow Cyberpunk 2077 to use more resources:
@@ -71,20 +68,10 @@ thumbnail: https://thmb.techidaily.com/e576cd8301018b2d3e3b69c8279df093bbbc31bad
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter.  
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU and memory-hogging. Take Chrome here, for example, right-click it then click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
  If you still get the Cyberpunk has flatlined error after closing all the background programs, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Directly run the game executable
 
  Sometimes the Cyberpunk 2077 has flatlined error is just a one-time random bug. In this case, you can try to launch the game by directly clicking the game executable, instead of using Steam. This fix has proven to help many players and it’s super easy, so it’s definitely worth trying!
@@ -98,11 +85,16 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. Open your Steam library, find Cyberpunk 2077, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-Properties.png)
 2. Select the**Installed Files** tab and click the**Verify integrity of game files** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-1.png)
 3. Steam will scan your local game files and compare them to the files on the server. If there’s anything missing or damaged, Steam will add or replace them in your game folder.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If verifying and repairing your game files doesn’t solve your problem, try the next fix.
@@ -124,8 +116,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -137,8 +130,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Restart your PC for the new driver to take effect. If updating your graphics driver doesn’t solve your problem, try the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Repair the Microsoft Visual C++ redistributables
 
  Microsoft Visual C++ redistributable installs run-time components to your PC’s Visual C++ libraries. Developers usually put the required redistributable files in the game installer, so you get them bundled with the game installation. If these redistributables are corrupt, it could lead to the Cyberpunk 2077 has flatlined error. Below are the steps to fix the files:
@@ -150,8 +144,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 4. Right-click the first redistributable file, then click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/change.png)
 5. Click**Repair** . If prompted for permission, click **Yes.**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **![](https://images.drivereasy.com/wp-content/uploads/2021/07/repair.png)**
 6. Repeat Steps 4-5 to repair the second redistributable file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Once the repair is complete, restart your PC to let the changes take effect.
 
 ---
@@ -168,8 +172,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +179,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-the-ultimate-list-of-tiktok-phenomena-on-twitter/"><u>[New] In 2024, The Ultimate List of TikTok Phenomena on Twitter</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-maximize-engagement-with-integrated-youtube-playlist-features/"><u>[New] Maximize Engagement with Integrated YouTube Playlist Features</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-decoding-youtubes-payment-scheme/"><u>2024 Approved Decoding YouTube's Payment Scheme</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficient-solutions-for-when-your-epic-games-launcher-keeps-failing-to-open/"><u>Efficient Solutions for When Your Epic Games Launcher Keeps Failing to Open</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-how-to-resolve-sea-of-thieves-game-crashes-effectively/"><u>Fixed: How to Resolve Sea of Thieves Game Crashes Effectively</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-in-2024-final-cut-pro-x-debugging-made-easy-a-step-by-step-guide/"><u>New In 2024, Final Cut Pro X Debugging Made Easy A Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-riches-economical-channels-for-monetization/"><u>Rookie Riches Economical Channels for Monetization</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-v-rising-game-crashes-on-windows-pc-a-comprehensive-guide/"><u>Solving the 'V Rising' Game Crashes on Windows PC: A Comprehensive Guide</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/top-8-apps-accelerating-slow-motion-footage/"><u>Top 8 Apps Accelerating Slow Motion Footage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-prevent-assassins-creed-odyssey-from-hanging-in-pc-version-2024-edition/"><u>Troubleshooting Steps to Prevent Assassin's Creed Odyssey From Hanging in PC Version - 2024 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/update-your-scansnap-s1300i-software-with-these-simple-tips/"><u>Update Your ScanSnap S1300i Software with These Simple Tips!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-cant-i-get-payday-2-running-on-my-computer-try-these-tips/"><u>Why Can't I Get Payday 2 Running on My Computer? Try These Tips</u></a></li>
+</ul></div>
 

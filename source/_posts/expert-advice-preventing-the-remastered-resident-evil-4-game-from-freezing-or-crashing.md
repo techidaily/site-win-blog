@@ -1,7 +1,7 @@
 ---
 title: "Expert Advice: Preventing the Remastered Resident Evil 4 Game From Freezing or Crashing"
-date: 2024-08-27T21:37:08.256Z
-updated: 2024-08-28T21:37:08.256Z
+date: 2024-12-18T21:38:11.194Z
+updated: 2024-12-20T18:50:45.744Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/102ab1b6aae4e1817df5a3836c10cfedb2eea5b3c
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-featured.jpg)
 
  The long-awaited Mass Effect Legendary Edition is finally here, but some issues have also emerged, and the most prominent one is the**constant crashes** . If you’re facing the same issue, don’t worry. The solution might turn out easier than you think.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,14 +43,16 @@ You can use these steps to scan and repair your game:
 1. Go to your steam**LIBRARY** . Right-click**Mass Effect Legendary Edition** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-verify-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files** and wait for the process to complete.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-game-files-1.jpg)
 3. Once done, return to Mass Effect and test your gameplay.
 
 If this doesn’t help, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  Game crashes tend to be graphics related, which means that you could be using**a broken or outdated graphics driver** . The remastered Mass Effect is graphically demanding, and having the latest graphics driver definitely gives you a leg up.
@@ -65,9 +71,6 @@ If this doesn’t help, check out the next fix below.
 
  If the latest graphics driver doesn’t give you luck, you can continue to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Disable hardware monitors
 
  Some gamers suggested that hardware monitoring software could be interfering with the game and hence the crashes. When troubleshooting crashing issues, we recommend closing other programs so as to minimize the risk. In other words, if you’re using hardware monitors such as**MSI Afterburner** ,**NVIDIA GeForce Experience** and**AIDA64** , make sure they’re turned off before launching Mass Effect.
@@ -84,6 +87,10 @@ Now you can start Mass Effect and test the improvements.
 
  If disabling overlays doesn’t help, you can try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Turn off VSync
 
  Another possible cause of the crashes is Vertical Sync. It’s a graphics feature that resolves screen tearing by locking the FPS to 60\. But there’re also reports showing that VSync could also lead to stability issues. So you need to make sure to disable VSync for Mass Effect.
@@ -95,15 +102,12 @@ Here’s how to disable VSync with NVIDIA graphics card:
 2. In the left pane, select**Manage 3D settings** . In the right pane, click**Vertical sync** and select**Off** from the drop down menu. Then click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/nvidia-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 Now you can launch Mass Effect and check if it crashes again.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Disable extra peripherals at launch (Xbox)
 
  There’re also feedback saying that Mass Effect is having issues with**wireless peripherals** on Xbox. So if Mass Effect is crashing on your Xbox, before the official patches come out, you can use these steps to work around the crash.
@@ -112,14 +116,13 @@ Now you can launch Mass Effect and check if it crashes again.
 2. Launch**Mass Effect** from your dashboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-1.jpg)
 3. Enter one of the games from the launcher menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/mass-effect-xbox-2.jpg)
 4. Once you’re on the startup screen of your game, turn on and connect your wireless headset.
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ---
 
@@ -131,8 +134,6 @@ Now you can launch Mass Effect and check if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +141,22 @@ Now you can launch Mass Effect and check if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-efficient-windows-11-recorders-to-ace-your-content-for-2024/"><u>[New] Efficient Windows 11 Recorders to Ace Your Content for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-guide-to-free-premiere-pro-template-hacks/"><u>[New] The Ultimate Guide to Free Premiere Pro Template Hacks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-igtv-video-submission-made-simple/"><u>[Updated] 2024 Approved IGTV Video Submission Made Simple</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-creating-a-domino-effect-with-memes/"><u>2024 Approved Creating a Domino Effect with Memes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-fast-fixes-to-restore-your-oculus-link-from-a-disruptive-black-screen-glitch/"><u>6 Fast Fixes to Restore Your Oculus Link From a Disruptive Black Screen Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-pc-stability-issues-resolved/"><u>Assassin's Creed Valhalla - PC Stability Issues Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gameplay-comprehensive-guide-to-fixing-maplestory-crashes-on-windows-10/"><u>Boost Your Gameplay : Comprehensive Guide to Fixing MapleStory Crashes on Windows 10</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/boosting-instagram-videos-online-strategies-for-faster-views-for-2024/"><u>Boosting Instagram Videos Online Strategies for Faster Views for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-when-your-astro-a50-isnt-detected-by-the-control-hub/"><u>Effective Solutions When Your Astro A50 Isn't Detected By the Control Hub</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/24-from-footage-to-frame-crafting-youtube-thumbnails-on-mobile-devices/"><u>In 2024, From Footage to Frame Crafting YouTube Thumbnails on Mobile Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-a-lost-poco-c55-for-free-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track a Lost Poco C55 for Free? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-launch-errors-a-modern-guide-to-starting-hogwarts-legacy-seamlessly-224/"><u>Mastering Launch Errors: A Modern Guide to Starting Hogwarts Legacy Seamlessly (2#24)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-destiny-2-server-disconnection-issues-a-comprehensive-guide/"><u>Resolving 'Destiny 2 Server Disconnection Issues': A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/this-years-most-engrossing-channel-list-youtube-storytellers/"><u>This Year’s Most Engrossing Channel List YouTube Storytellers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-fixing-your-hp-monitor-issues-solutions-inside/"><u>Troubleshooting Tips: Fixing Your HP Monitor Issues - Solutions Inside!</u></a></li>
+</ul></div>
 

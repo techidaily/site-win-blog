@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: Why Can't I Update Minecraft Native Launcher Anymore?"
-date: 2024-08-27T21:39:28.681Z
-updated: 2024-08-28T21:39:28.681Z
+date: 2024-12-15T17:50:31.629Z
+updated: 2024-12-20T19:21:15.243Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run Program Compatibility Troubleshooter
 
  Windows has many built-in troubleshooters. The Program Compatibility Troubleshooter can help games that are not downloaded from the Windows 10 Store.  
@@ -41,14 +45,16 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 2. In the Search bar, type Minecraft and click**Open file location** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-01-37.jpg)
 3. Right-click on the Minecraft Launcher and click**Troubleshoot compatibility** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_15-55-11.jpg)
 4. Follow the on-screen instructions to finish the process.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Download the updates from Website
 
  Instead of downloading the updates from the Minecraft Native Launcher, you can also go to Minecraft webpage to download the update files manually.
@@ -60,13 +66,11 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-30-37.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Check your antivirus software
 
  One common cause for the crashing issue is your antivirus software blocking some features of the game and causing problems. So go to your antivirus software and unblock the game program to fix it.
@@ -83,9 +87,11 @@ Your Minecraft Native Launcher starts to update but it never finishes and only g
 2. Type**appwiz.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/s4.jpg)
 3. Right-click on **Minecraft** and click **Uninstall** .
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Press the**Windows logo key + E** to open File Explorer.
 5. Type**%Appdata%** in the address bar and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_16-37-23.jpg)
@@ -123,15 +129,13 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
@@ -147,8 +151,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -156,4 +158,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-from-ftp-to-feed-the-complete-guide-to-uploading-to-youtube/"><u>[New] In 2024, From FTP to Feed The Complete Guide to Uploading to YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-step-by-step-guide-to-adjust-youtube-video-speeds-on-the-fly/"><u>[Updated] 2024 Approved Step-By-Step Guide to Adjust YouTube Video Speeds on the Fly</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-mastering-text-annotation-in-windows-photos-windows-11/"><u>[Updated] Mastering Text Annotation in Windows Photos (Windows 11)</u></a></li>
+<li><a href="https://location-fake.techidaily.com/5-easy-ways-to-change-location-on-youtube-tv-on-tecno-camon-30-pro-5g-drfone-by-drfone-virtual-android/"><u>5 Easy Ways to Change Location on YouTube TV On Tecno Camon 30 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-modern-warfare-stability-enhancement-resolving-the-recurrent-game-crashes/"><u>Call of Duty: Modern Warfare Stability Enhancement - Resolving the Recurrent Game Crashes.</u></a></li>
+<li><a href="https://win-forum.techidaily.com/connect-on-major-social-media-browse-through-facebook-twitter-instagram-youtube/"><u>Connect on Major Social Media: Browse Through Facebook, Twitter, Instagram, Youtube</u></a></li>
+<li><a href="https://windows11.techidaily.com/conquer-windows-servers-resolving-no-servers-found-in-apex-legends-(156-chars/"><u>Conquer Windows Servers: Resolving No Servers Found in Apex Legends (<156 Chars)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996997589-cyberpunk-2077-performance-issues-fixed-say-goodbye-to-lag-and-stuttering/"><u>Cyberpunk 2077 Performance Issues Fixed: Say Goodbye to Lag & Stuttering!</u></a></li>
+<li><a href="https://win-latest.techidaily.com/efficient-wegen-om-je-gezete-proyect-in-eclise-terug-te-trekken-4-handige-methoden/"><u>Efficiënt Wegen Om Je Gezete Proyect In Eclise Terug Te Trekken: 4 Handige Methoden</u></a></li>
+<li><a href="https://discover-help.techidaily.com/network-setup-essentials-expert-tips-from-yl-software-professionals/"><u>Network Setup Essentials: Expert Tips From YL Software Professionals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-7-strategies-to-stop-maplestory-from-crashing-in-windows-10/"><u>Top 7 Strategies to Stop MapleStory From Crashing in Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-wont-my-game-launch-ensuring-proper-game-file-setup-is-key/"><u>Why Won't My Game Launch? Ensuring Proper Game File Setup Is Key</u></a></li>
+</ul></div>
 

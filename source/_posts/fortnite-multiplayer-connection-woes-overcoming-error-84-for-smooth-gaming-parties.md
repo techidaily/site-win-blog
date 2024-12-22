@@ -1,7 +1,7 @@
 ---
 title: Fortnite Multiplayer Connection Woes? Overcoming Error 84 for Smooth Gaming Parties
-date: 2024-08-27T21:35:38.732Z
-updated: 2024-08-28T21:35:38.732Z
+date: 2024-12-18T21:34:07.857Z
+updated: 2024-12-20T23:05:22.440Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/657c6ed7c4c5009fda7b9debb5d0440f9ba124b99
 ## Warcraft 3 Reforged Still Crashing on PC? Discover Proven Solutions and Tips for a Smooth Game
 
 Are you seeing Warcraft 3 Reforged crashing constantly at startup or during gameplay, and making multiple attempts to relaunch but all to no avail? We know this can be totally annoying, but don’t worry, here are 6 fixes for you to solve the issue easily and quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,9 +58,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  A smooth and pleasant gaming performance also depends on your graphics card driver. If it’s incompatible, corrupt or out-of-date, you’ll run into various issues including Warcraft 3 crashing. To keep your graphics driver up-to-date, you should update it **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -107,9 +108,6 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ta-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **2)** Click the**Details** tab. Then, right-click**Warcraft 3\. exe** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-6.jpg)
@@ -119,16 +117,13 @@ Are you seeing Warcraft 3 Reforged crashing constantly at startup or during game
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Re-open Warcraft 3 Reforged and see if the crashing issue is fixed. If not, continue to troubleshoot with the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Close background applications
 
  Warcraft 3 Reforged sometimes fails to work when too many applications are running in the background. They may cause software conflicts or use up system resources. Make sure all unnecessary programs are closed before you start gaming. Here’s how:
@@ -141,15 +136,16 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/2-2-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Don’t end any programs you’re unfamiliar with, as they may be critical for the functioning of your computer.
 
  Relaunch Warcraft 3 and test if this method helps. If not, you can go for Fix 5 below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Stop overclocking
 
  To gain the best performance, many players attempted to overclock their GPUs. However, doing this is sometimes counterproductive and can render your game unstable. We suggest**lowering your GPU to the default settings** to stop Warcraft 3 Reforged from crashing. If the situation isn’t mitigated with this workaround, turn to the next fix below.
@@ -157,8 +153,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6 – Lower the graphics settings
 
  When your PC finds it difficult to handle the high graphics settings, the game will crash. In this case, you should lower the settings.
@@ -169,24 +166,26 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click**Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-2-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Make sure**VSync** is turned off.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Set each of the parameters under Graphical Quality to**Low** or**Medium** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
  After applying the lower settings, restore Warcraft 3 Reforged and the crashing problem should be gone.
 
 ---
@@ -201,8 +200,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -210,4 +207,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-sky-high-storages-expert-recommendations-for-2024/"><u>[New] Sky-High Storages Expert Recommendations for 2024</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-step-by-step-tutorial-download-save-and-share-gifs-from-social-networks-like-fb/"><u>[Updated] 2024 Approved Step-by-Step Tutorial Download, Save, and Share GIFs From Social Networks Like FB</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1-recupera-gratuitamente-i-tuoi-file-eliminati-con-semplicita/"><u>1. Recupera Gratuitamente I Tuoi File Eliminati Con Semplicità</u></a></li>
+<li><a href="https://fox-access.techidaily.com/2024-approved-formulating-fascinating-film-moments/"><u>2024 Approved Formulating Fascinating Film Moments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/adjusting-date-and-time-display-settings-on-windows-11-a-step-by-step-guide/"><u>Adjusting Date & Time Display Settings on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/assessing-chatgpts-role-in-novelty-generation/"><u>Assessing ChatGPT's Role in Novelty Generation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-remote-workflow-the-ultimate-6-toolkit-for-windows-mkjl-including-seo-friendly-keywords-such-as-remote-work-tools-windows-11-productivity-apps-an54/"><u>Boost Your Remote Workflow: The Ultimate 6 Toolkit for Windows ˈmɪŋkjʊl, Including SEO-Friendly Keywords Such as Remote Work Tools, Windows 11 Productivity Apps, and Enhance Efficiency Can Help Improve Search Engine Visibility.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/command-prompt-power-up-a-step-by-step-tutorial-for-locking-windows-10-computers-efficiently/"><u>Command Prompt Power-Up: A Step-by-Step Tutorial for Locking Windows 10 Computers Efficiently</u></a></li>
+<li><a href="https://win-blog.techidaily.com/critical-digital-safety-practices-your-tech-support-hopes-you-heed-a-10-point-guide/"><u>Critical Digital Safety Practices Your Tech Support Hopes You Heed: A 10-Point Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/customizing-ubuntu-interface-how-to-relocate-the-launcher-panel-sideways-or-downward/"><u>Customizing Ubuntu Interface: How To Relocate The Launcher Panel Sideways or Downward</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-how-to-access-the-settings-application-in-windows-10-with-these-13-methods/"><u>Discover How to Access the Settings Application in Windows 10 with These 13 Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-guide-step-by-step-manual-update-installation-for-windows-11/"><u>Effortless Guide: Step-by-Step Manual Update Installation for Windows 11</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/how-do-i-schedule-a-screen-recording-for-2024/"><u>How Do I Schedule A Screen Recording for 2024</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-spotify-location-after-moving-to-another-country-on-xiaomi-14-ultra-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Spotify Location After Moving to Another Country On Xiaomi 14 Ultra | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-ranking-of-phones-excellent-at-mobile-video-production/"><u>In 2024, Ranking of Phones Excellent at Mobile Video Production</u></a></li>
+<li><a href="https://games-able.techidaily.com/steering-clear-of-common-wi-fi-blunders-on-ps5/"><u>Steering Clear of Common Wi-Fi Blunders on PS5</u></a></li>
+</ul></div>
 
