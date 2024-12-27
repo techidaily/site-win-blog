@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Lost Ark Startup Issues : A Comprehensive Guide"
-date: 2024-08-27T21:26:36.720Z
-updated: 2024-08-28T21:26:36.720Z
+date: 2024-12-23T16:04:28.805Z
+updated: 2024-12-27T16:16:40.873Z
 tags:
   - win11
   - win10
@@ -39,11 +39,16 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update Graphics Card Drivers
 
  Outdated graphics drivers may cause the “Fallout 4 black screen” issue. So you can try to update the graphics driver to fix the problem.
@@ -57,14 +62,7 @@ thumbnail: https://thmb.techidaily.com/fcc2142966c5b1ee29ff8b93fc6fb55850db39c56
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ---
 
 ### Fix 3: Edit configuration files
@@ -83,6 +81,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try this method to fix the problem.
@@ -91,19 +93,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
-5. Run the game to check the problem will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
+4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
+5. Run the game to check the problem will appear or not.
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable antivirus software
 
@@ -123,8 +125,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +132,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-mastering-video-production-essential-lessons-for-beginners/"><u>[New] 2024 Approved Mastering Video Production Essential Lessons for Beginners</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-unveiling-a-simple-yet-powerful-copywriting-model-for-ads/"><u>[New] In 2024, Unveiling a Simple, Yet Powerful Copywriting Model for Ads</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-boost-your-media-library-top-20-freeware-tools-turning-instagram-videos-into-mp4-for-2024/"><u>[Updated] Boost Your Media Library Top 20 Freeware Tools Turning Instagram Videos Into MP4 for 2024</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-from-ordinary-to-outstanding-a-guide-to-snapchat-edits/"><u>[Updated] From Ordinary to Outstanding A Guide to Snapchat Edits</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-ace-your-screens-the-premium-guide-to-androids-top-8-capture-apps/"><u>2024 Approved Ace Your Screens The Premium Guide to Android’s Top 8 Capture Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminate-gameplay-interruptions-in-naraka-bladepoint-by-resolving-stutter-issues-and-fps-lag/"><u>Eliminate Gameplay Interruptions in Naraka: Bladepoint by Resolving Stutter Issues and FPS Lag</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-addressing-common-phasmophobia-game-crashes-of-2024/"><u>Fixed: Addressing Common Phasmophobia Game Crashes of 202^4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-black-display-issue-on-star-wars-battlefront-ii-a-step-by-step-tutorial/"><u>How to Fix the Black Display Issue on Star Wars Battlefront II - A Step-by-Step Tutorial</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-t-mobile-iphone-14-online-without-sim-card-by-drfone-ios/"><u>How to Unlock T-Mobile iPhone 14 online without SIM Card?</u></a></li>
+<li><a href="https://driver-download.techidaily.com/how-to-upgrade-your-amd-drivers-on-windows-10-11-and-7/"><u>How to Upgrade Your AMD Drivers on Windows 10, 11 & 7</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/in-2024-elevating-your-medical-ad-game-secrets-to-success-on-facebook/"><u>In 2024, Elevating Your Medical Ad Game Secrets to Success on Facebook</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723000062939-mastering-stability-prevent-guardians-of-the-galaxy-from-collapsing-on-your-pc-with-our-tricks/"><u>Mastering Stability: Prevent Guardians of the Galaxy From Collapsing on Your PC with Our Tricks!</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-how-to-increase-volume-of-the-media-files-for-2024/"><u>New How to Increase Volume of the Media Files for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-persistent-nwstoreexe-program-failure-issues/"><u>Solving the Persistent nw_store.exe Program Failure Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-repairing-house-flipper-2-pc-stability-issues/"><u>Troubleshooting and Repairing House Flipper 2 PC Stability Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-crashes-in-vr-games-on-your-computer/"><u>Troubleshooting Guide: Resolving Crashes in VR Games on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-stardew-valley-launch-problems-solutions-revealed/"><u>Troubleshooting Stardew Valley Launch Problems - Solutions Revealed!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-lag-and-frame-drops-in-new-world/"><u>Ultimate Guide: Solving Lag and Frame Drops in New World</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-adobe-premiere-pro-crashes-on-windows-11-and-10-systems-tips-included/"><u>Winning the Battle Against Adobe Premiere Pro Crashes on Windows 11 and 10 Systems - Tips Included</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Tired of Constant Game Crashes on Your PC? Get Resolved with Our Step-by-Step Guide !
-date: 2024-08-23T12:43:31.585Z
-updated: 2024-08-24T12:43:31.585Z
+date: 2024-12-25T16:32:02.182Z
+updated: 2024-12-27T16:26:59.651Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 * [Fix 5: Enable low spec mode](https://tools.techidaily.com/drivereasy/download/)
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC meets meets the system requirements for League of Legends
 
@@ -60,9 +64,6 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -91,12 +92,13 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -106,13 +108,14 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -120,8 +123,9 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -132,10 +136,6 @@ thumbnail: https://thmb.techidaily.com/526c473a4f2f84c7776ce16d41fe4812db866e7d1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -143,6 +143,10 @@ The ultimate burning program for all your needs!</a>
  4) Click**Yes** to continue. This may take a while.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
@@ -162,10 +166,6 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -179,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +186,24 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-top-10plus-best-online-screen-recorders-for-2024/"><u>[New] Top 10+ Best Online Screen Recorders for 2024</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-2024-approved-quick-guide-downloading-and-setting-up-vrecord/"><u>[Updated] 2024 Approved Quick Guide Downloading & Setting Up VRecord</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-broadcast-your-play-obs-studio-techniques-for-2024/"><u>[Updated] Broadcast Your Play - OBS Studio Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-step-by-step-strategies-for-successful-youtube-srt-downloads/"><u>[Updated] Step-by-Step Strategies for Successful YouTube SRT Downloads</u></a></li>
+<li><a href="https://howto.techidaily.com/app-wont-open-on-your-tecno-spark-20-here-are-all-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>App Wont Open on Your Tecno Spark 20? Here Are All Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-errors-the-ultimate-fixes-for-you-have-lost-connection-to-destiny-2-servers/"><u>Banish Errors: The Ultimate Fixes for 'You Have Lost Connection to Destiny 2 Servers'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-connectivity-problems-in-call-of-duty-warzone-for-pc-to-secure-match-ups/"><u>Fixing Connectivity Problems in Call of Duty: Warzone for PC to Secure Match-Ups</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-motorola-moto-g34-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Motorola Moto G34 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/masterful-fix-no-more-crashes-in-star-wars-squadrons/"><u>Masterful Fix: No More Crashes in Star Wars: Squadrons</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/meet-the-motorola-one-a-stunning-iphone-alternative-without-breaking-your-bank/"><u>Meet the Motorola One: A Stunning iPhone Alternative Without Breaking Your Bank</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-battlenet-opening-problems-a-comprehensive-guide/"><u>Overcoming Battle.net Opening Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rapid-repair-techniques-for-faulty-controllers-stabilize-and-enjoy-uninterrupted-play/"><u>Rapid Repair Techniques for Faulty Controllers - Stabilize and Enjoy Uninterrupted Play.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010583636-step-by-step-tutorial-stop-youtube-playback-hiccups-now/"><u>Step-by-Step Tutorial: Stop YouTube Playback Hiccups Now!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/stop-receiving-unwanted-emergency-alerts-on-your-android-device/"><u>Stop Receiving Unwanted Emergency Alerts on Your Android Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-cod-modern-warfare-3-app-crashes-fix-and-solutions/"><u>Troubleshooting Cod: Modern Warfare 3 App Crashes - Fix and Solutions</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/troubleshooting-your-asus-computers-booting-problem-discover-effective-solutions-in-7-simple-steps/"><u>Troubleshooting Your ASUS Computer's Booting Problem: Discover Effective Solutions in 7 Simple Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-wsappx-identifying-and-resolving-excessive-memory-and-processor-load/"><u>Understanding WSAPPX: Identifying & Resolving Excessive Memory and Processor Load</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Launch Issues with Dead Space Remake in 2N4"
-date: 2024-08-23T12:43:43.790Z
-updated: 2024-08-24T12:43:43.790Z
+date: 2024-12-25T16:12:36.575Z
+updated: 2024-12-27T16:10:42.973Z
 tags:
   - win11
   - win10
@@ -35,9 +35,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 
  Turning off OBS preview should also mitigate the FPS drops while recording. But if this doesn’t help your case, have a look at the second method below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Fix 2 – Run OBS as an administrator
 
  If OBS doesn’t have proper administrator privileges, it will fail to record your screen as expected, but you could run it as an administrator to fix the issue.
@@ -45,9 +42,6 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 1. Right-click the**OBS icon** on your desktop and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 2. Select the**Compatibility** tab, tick**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/run-obs-as-administrator.jpg)
 
  Now OBS should be working with full access and recording your screen properly. If not so, there are a few more fixes to try.
@@ -63,14 +57,11 @@ Many Windows users have been reporting the OBS not recording screen issue lately
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/ta-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Once done, restart OBS to test. If the OBS not recording problem persists, continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Change the graphics settings
 
  For users who are running OBS on a laptop or a multi-GPU system, using the wrong graphics card will trigger performance issues with the specific capture type. So OBS may not capture your screen. To fix this, you can select the dedicated graphics card manually via Windows settings.
@@ -78,23 +69,30 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Click the**Start** button and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-0.jpg)
 2. Select**System** .
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Select the**Display** tab on the left pane and click**Graphics** **settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-1.jpg)
 4. Choose**Desktop app** from the drop-down list and click**Browse** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-2.jpg)
 5. Locate your**OBS executable file** , which is usually located at_C:\\Program Files\\obs-studio\\bin\\64bit\\obs64.exe_ , and add this file.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 6. Click**OBS Studio** and click**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-3.jpg)
 7. If you intend to use_Display Captur_ e, select**Power saving** and click**Save** . If you’re using_Window capture_ or_Game capture_ , select**High performance** and**Save** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/change-graphics-settings-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if OBS works without trouble. If you’re still unable to use screen capture, there might be something wrong with your device drivers. Check out Fix 5 to solve it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Update your device drivers
 
@@ -108,10 +106,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -130,8 +134,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -139,4 +141,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-files.techidaily.com/new-in-2024-explore-top-5-apps-combining-photography-and-soundscape/"><u>[New] In 2024, Explore Top 5 Apps Combining Photography & Soundscape</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-dance-directives-finding-ideal-dj-templates/"><u>[Updated] Dance Directives Finding Ideal DJ Templates</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-perfect-harmony-in-vr-exploration/"><u>[Updated] In 2024, Perfect Harmony in VR Exploration</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-a-stepwise-journey-through-the-world-of-professional-srt-creation/"><u>2024 Approved A Stepwise Journey Through the World of Professional SRT Creation</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-quickstreamsuccess-essential-tips-for-flawless-live-podcast-streams/"><u>2024 Approved QuickStreamSuccess Essential Tips for Flawless Live Podcast Streams</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-and-eliminate-stutters-optimize-performance-in-the-ascent/"><u>Boost Your Frame Rate & Eliminate Stutters: Optimize Performance in 'The Ascent'</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/comedy-kings-and-queens-of-2023-for-2024/"><u>Comedy Kings & Queens of 2023 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985028863-cyberpunk-2077-resolved-issue-steady-frame-rates-achieved/"><u>Cyberpunk 2077: Resolved Issue - Steady Frame Rates Achieved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-ways-to-address-red-dead-redemption-2s-error-gfx-state-challenge/"><u>Effective Ways to Address Red Dead Redemption 2'S ERROR GFX STATE Challenge</u></a></li>
+<li><a href="https://win-blog.techidaily.com/f1-2021-game-stability-improvements-tips-to-avoid-pc-shutdowns-during-gameplay/"><u>F1 2021 Game Stability Improvements - Tips to Avoid PC Shutdowns During Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-implemented-remnant-game-now-smooth-sailing/"><u>Fixes Implemented: Remnant Game Now Smooth Sailing</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-top-10-fingerprint-lock-apps-to-lock-your-motorola-defy-2-phone-by-drfone-android/"><u>In 2024, Top 10 Fingerprint Lock Apps to Lock Your Motorola Defy 2 Phone</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/kostenloser-windows-11-32-bit-zu-64-bit-aufrusten-garantiert-sicheres-datenmanagement/"><u>Kostenloser Windows 11 32-Bit Zu 64-Bit-Aufrüsten - Garantiert Sicheres Datenmanagement</u></a></li>
+<li><a href="https://win-top.techidaily.com/navigateur-de-limaginaire-decouvrir-les-meilleurs-titres-pour-le-referencement-optimise/"><u>Navigateur De L'Imaginaire: Découvrir Les Meilleurs Titres Pour Le Référencement Optimisé</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-star-wars-bf2s-error-327-your-ultimate-resolution-roadmap/"><u>Navigating Through Star Wars BF2's Error 327 - Your Ultimate Resolution Roadmap</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-kernelbasedll-issues-speedy-resolution-techniques-unveiled/"><u>No More KernelBase.dll Issues - Speedy Resolution Techniques Unveiled!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revamp-your-rust-projects-pro-tips-for-fixing-unresponsiveness/"><u>Revamp Your Rust Projects: Pro Tips for Fixing Unresponsiveness</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-effective-methods-for-restoring-functionality-to-a-broken-discord-cam/"><u>Solved! Effective Methods for Restoring Functionality to a Broken Discord Cam</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/transform-your-images-on-os-x-and-linux-using-this-gratis-darkroom-suite-darktable/"><u>Transform Your Images on OS X and Linux Using This Gratis Darkroom Suite - Darktable</u></a></li>
+</ul></div>
 

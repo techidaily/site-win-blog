@@ -1,7 +1,7 @@
 ---
 title: "Resolving the KurtzPel App Freezing Problem: A Step-by-Step Guide"
-date: 2024-08-23T12:43:29.268Z
-updated: 2024-08-24T12:43:29.268Z
+date: 2024-12-23T16:27:51.427Z
+updated: 2024-12-27T16:04:59.456Z
 tags:
   - win11
   - win10
@@ -64,8 +64,9 @@ You can lower your in-game graphics settings according to the list below:
  If Fall Guys still freezes at the lowest graphics settings, please take a look at the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Disable Steam overlay
 
  Some gamers reported that the freezing issue might be related to the Steam Overlay feature, so you can try to disable this function and see whether it helps or not.
@@ -75,17 +76,20 @@ Here’s how:
 1. Open Steam client and click**Steam** on the top left corner. Select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-settings.jpg)
 2. Navigate to the**In-Game** tab, uncheck these boxes to disable the overlay feature. Click**OK** to save the changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Fall Guys and see if it freezes again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this fix doesn’t give you any luck, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  In some cases, you’ll have glitches during the game if you’re using a**faulty or outdated graphics driver** . That’s why updating your graphics driver is usually the thumb rule when troubleshooting game errors. Driver updates not only repair bugs but often come with a performance boost.**Updating your graphics driver** could be a potential fix to the freezing issue.
@@ -96,9 +100,6 @@ Here’s how:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-rtx-2060-clean.jpg)
 
@@ -107,6 +108,10 @@ Here’s how:
  After updating your graphics driver, restart your computer and check if Fall Guys freezes again.
 
  If updating the graphics driver does you no good, please continue to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Verify your game files
 
@@ -119,11 +124,12 @@ And here’s how to do it:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/fall-guys-verify-game-files.jpg)
 3. Launch Fall Guys and test your gameplay.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If the issue reappears, simply check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking your hardware
 
  Many people would like to exploit the full potential of their hardware by overclocking. It’s true that overclocking gives you a zero-cost performance boost, but the instability it brings along is also prominent.
@@ -132,18 +138,6 @@ If the issue reappears, simply check out the next method.
 
 If you’re not overclocking, go on and try the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable your peripherals
 
  If you’re using peripherals (e.g. controllers) with Fall Guys, try disabling them before starting the game. There’re reports that gamers stop having crashes or freezes after disconnecting their peripherals.
@@ -166,8 +160,6 @@ If you’re not overclocking, go on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +167,16 @@ If you’re not overclocking, go on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/updated-the-ultimate-secrets-of-phantoms-time-reversal-mode/"><u>[Updated] The Ultimate Secrets of Phantom's Time Reversal Mode</u></a></li>
+<li><a href="https://win-dash.techidaily.com/download-geforce-rtx-3080-drivers-now-compatible-with-older-windows-versions/"><u>Download GeForce RTX 3080 Drivers Now - Compatible with Older Windows Versions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-persistent-issues-in-total-war-warhammer-ii-gaming-experience/"><u>Effective Fixes for Persistent Issues in Total War: Warhammer II Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994687503-fixing-the-issue-nier-automata-freezing-glitch-resolved/"><u>Fixing the Issue: NieR: Automata Freezing Glitch Resolved</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-use-google-assistant-on-your-lock-screen-of-oneplus-11-5g-phone-by-drfone-android/"><u>In 2024, How to Use Google Assistant on Your Lock Screen Of OnePlus 11 5G Phone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001379844-quick-fixes-for-ghost-recon-wildlands-breaking-point-no-more-crashes/"><u>Quick Fixes for Ghost Recon: Wildlands Breaking Point - No More Crashes</u></a></li>
+<li><a href="https://win-fantastic.techidaily.com/seamless-iphone-to-pc-video-casting-the-ultimate-guide/"><u>Seamless iPhone-to-PC Video Casting: The Ultimate Guide</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/unleash-your-creativity-in-livestreaming-using-manycams-innovative-live-video-tools-and-virtually-actualized-cameras/"><u>Unleash Your Creativity in Livestreaming Using ManyCam's Innovative Live Video Tools and Virtually Actualized Cameras</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-smooth-gameplay-my-successful-strategy-to-overcome-apex-legends-connectivity-issues/"><u>Unlocking Smooth Gameplay: My Successful Strategy to Overcome Apex Legends' Connectivity Issues</u></a></li>
+</ul></div>
 

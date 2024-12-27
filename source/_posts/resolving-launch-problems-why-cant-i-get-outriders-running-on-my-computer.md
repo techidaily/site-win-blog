@@ -1,7 +1,7 @@
 ---
 title: Resolving Launch Problems - Why Can't I Get Outriders Running on My Computer?
-date: 2024-08-23T12:44:44.810Z
-updated: 2024-08-24T12:44:44.810Z
+date: 2024-12-22T16:04:00.755Z
+updated: 2024-12-27T16:17:10.100Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-12_14-45-33.jpg)
 
 **Having trouble launching Outriders on PC?** You’re not alone. Hundreds of gamers have reported this exact issue. The good news is that there’re some known solutions to this problem. In this article, we’ll introduce some available fixes, read on and find out what they are…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How do I fix the “Outriders Not Launching” issue?
 
@@ -52,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 
  You can also check out the[recommended specifications](https://tools.techidaily.com/drivereasy/download/) if needed.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  Sometimes your system doesn’t give your game enough permissions for it to launch. So you may want to grant the game administrative rights for it to function properly. To run as administrator:
@@ -65,21 +73,12 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 1. In your library, right-click**Outriders** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-46-04.jpg)
 2. Under**LOCAL FILES** , click**Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-51-05.jpg)
 3. Once you locate your game files, right-click**OUTRIDERS-Win64-Shipping.exe** , then select**Run as administrator** . If prompted for permission, click Yes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-52-07.jpg)
 
  Check if you can launch Outriders. If this doesn’t help, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify game files integrity
 
  If some of your game files are missing or corrupted, the game may fail to launch. You can verify the integrity of the game files for it to launch properly:
@@ -95,8 +94,17 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 1. Find Outriders in your library, right-click the game then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-46-04.jpg)
 2. Under**LOCAL FILES** , click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_12-12-55.jpg)
 3. It could take a few minutes for the scan to complete depending on the size. If anything’s missing or damaged, Steam will add the required files to your local folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once complete, launch the game to see if the problem persists. If this doesn’t give you luck, move on to the next solution.
 
@@ -118,24 +126,15 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new driver to take effect. Launch Outriders to see if it opens. If the problem returns, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Allow the game through firewall
 
  Sometimes Windows Defender will block your game if it assumes the game is a virus. Similarly, a third-party antivirus software could also conflict with your game. To stop your game from being blocked, there are two options:
@@ -151,15 +150,18 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 2. Click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-38-43.jpg)
 3. Click**Allow another app** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-39-57.jpg)
 4. Click**Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_15-07-37.jpg)
 5. Navigate to the folder containing your game files.  
+
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  For Steam, it’s in**C:Program Files (x86)Steamsteamappscommon** by default.  
@@ -175,9 +177,6 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
  If you play on a domain network or public network, you can check the boxes of these two options as well. Note that there could be connectivity issues and security concerns.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_15-17-36.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  You’ll also need to check if your game launcher is allowed through the firewall. If it’s allowed already,[skip to the next solution](https://tools.techidaily.com/drivereasy/download/) . If not, repeat the above steps to make sure your firewall no longer blocks your game launcher.
 
 **For Steam client:**
@@ -198,9 +197,6 @@ thumbnail: https://thmb.techidaily.com/c9e9de36eb357f7db5b739ff1ada424f8276ace68
 
 If this fix doesn’t help, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ### Fix 5: Check your Razer software
 
  This solution is for those using Razer software. If you don’t have any installed on your PC,[skip to the last solution](https://tools.techidaily.com/drivereasy/download/) .
@@ -212,6 +208,10 @@ If this fix doesn’t help, try the next solution.
 
  Check if you’re able to launch Outriders. If you’ve tried the above solutions but still no luck, we have one last fix for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Outriders
 
  It’s possible that Outriders won’t launch because the previous installation is incomplete or interrupted. Reinstalling the game can solve the not-launching issue in some cases. To reinstall Outriders:
@@ -221,6 +221,11 @@ If this fix doesn’t help, try the next solution.
 1. Find Outriders in your library. Right-click the game, select**Manage** then click**Uninstall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_17-19-29.jpg)
 2. Once Outrider’s removed from your computer, you’ll see the option to install the game on the Outrider’s page from your library.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Reinstall the game.
 
 **On Epic Games Launcher:**
@@ -259,8 +264,6 @@ If this fix doesn’t help, try the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -268,4 +271,17 @@ If this fix doesn’t help, try the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-top-gear-best-mac-apps-for-capturing-videos/"><u>[New] In 2024, Top Gear Best Mac Apps for Capturing Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-exclusive-review-of-top-mp4-players-for-2024/"><u>[Updated] Exclusive Review of Top MP4 Players for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bioshock-2-resurrected-ultimate-edition-with-no-more-crashes/"><u>BioShock 2 Resurrected: Ultimate Edition with No More Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/decode-your-issues-comprehensive-strategies-against-windows-error-code-31/"><u>Decode Your Issues: Comprehensive Strategies Against Windows Error Code 31</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-critical-bugs-in-total-war-warhammer-ii-gameplay/"><u>How to Resolve Critical Bugs in Total War: Warhammer II Gameplay</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-6-methods-to-mirror-apple-iphone-13-pro-to-your-windows-pc-drfone-by-drfone-ios/"><u>In 2024, 6 Methods to Mirror Apple iPhone 13 Pro to your Windows PC | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-syma-x5c-review-best-drone-for-beginner/"><u>In 2024, Syma X5C Review Best Drone for Beginner</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-will-pokemon-go-ban-the-account-if-you-use-pgsharp-on-vivo-y55s-5g-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Will Pokémon Go Ban the Account if You Use PGSharp On Vivo Y55s 5G (2023) | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-success-in-civ-6-overcoming-windows-10-startup-hurdles/"><u>Unlocking Success in Civ 6: Overcoming Windows 10 Startup Hurdles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009120190-warcraft-online-issues-resolved-reconnect-to-battle-for-azeroth-server-now/"><u>Warcraft Online Issues Resolved - Reconnect to Battle for Azeroth Server Now!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Hitman 3 Not Launching on PC"
-date: 2024-08-23T12:42:38.031Z
-updated: 2024-08-24T12:42:38.031Z
+date: 2024-12-21T16:11:15.291Z
+updated: 2024-12-27T16:28:29.145Z
 tags:
   - win11
   - win10
@@ -51,26 +51,24 @@ Here’s how:
 1. On your keyboard, press Win (the Windows logo key) and type Epic Games. In the search results, select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Launch Hitman 3 from game folder
 
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -98,11 +96,13 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 After updating your GPU driver, you can check if Hitman 3 is working now.
@@ -118,25 +118,29 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Check if it’s a server issue
 
  If you’ve tried all the methods above and none seem to work, then maybe it’s your fault at all. After the game was launched, there’re lots of complaints that the carry over server is down and the game is not connecting. So you might need to be patient before a hotfix is released. And to learn more about the Hitman 3 updates, you can check out the IOI[Twitter](https://twitter.com/iointeractive?lang=en) .
@@ -151,8 +155,6 @@ Here’s how you can check for updates manually:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +162,26 @@ Here’s how you can check for updates manually:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-boomerangs-demystified-your-comprehensive-guide/"><u>[New] In 2024, Snapchat Boomerangs Demystified Your Comprehensive Guide</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-efface-thin-borders-for-a-seamless-youtube-experience/"><u>[Updated] In 2024, Efface Thin Borders for a Seamless YouTube Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/a-legacy-of-strength-unlocking-the-secrets-to-perpetual-survival-in-a-hostile-world/"><u>A Legacy of Strength: Unlocking the Secrets to Perpetual Survival in a Hostile World</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/all-about-factory-reset-what-is-it-and-what-it-does-to-your-samsung-galaxy-a14-4g-drfone-by-drfone-reset-android-reset-android/"><u>All About Factory Reset, What Is It and What It Does to Your Samsung Galaxy A14 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-blizzards-wrath-fast-fixes-for-world-of-warcraft-delays/"><u>Beat Blizzard's Wrath: Fast Fixes for World of Warcraft Delays!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cutting-down-on-starfields-processor-load-expert-advice-and-techniques-to-fix-it-now-2024-edition/"><u>Cutting Down on Starfield's Processor Load: Expert Advice and Techniques to Fix It Now - 2024 Edition</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/elevate-your-feed-crafting-engaging-instagram-videos-for-2024/"><u>Elevate Your Feed Crafting Engaging Instagram Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-the-crashing-problem-in-gta-5-step-by-step-tutorial-provided/"><u>Fix the Crashing Problem in GTA 5 – Step-by-Step Tutorial Provided!</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fix-windows-10-synaptic-touchpad-not-responding-when-scrolling/"><u>Fix: Windows 10 Synaptic Touchpad Not Responding When Scrolling</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-freezing-issues-in-chivalry-ii-a-comprehensive-guide/"><u>Fixing Freezing Issues in Chivalry II – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-unable-to-connect-to-steam-user-community/"><u>Fixing the Issue: Unable to Connect to Steam User Community</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/guide-to-overcoming-connectivity-hurdles-with-your-windows-10-bluetooth-devices-fixed/"><u>Guide to Overcoming Connectivity Hurdles with Your Windows 10 Bluetooth Devices [FIXED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-frame-rate-hiccups-in-cod-mw3-a-guide-for-gamers/"><u>How to Fix Frame Rate Hiccups in COD MW3: A Guide for Gamers</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/iphone-volume-buttons-unresponsive-discover-7-simple-remedies-to-get-them-working-again/"><u>IPhone Volume Buttons Unresponsive? Discover 7 Simple Remedies to Get Them Working Again</u></a></li>
+<li><a href="https://fake-location.techidaily.com/is-pgsharp-legal-when-you-are-playing-pokemon-on-xiaomi-mix-fold-3-drfone-by-drfone-virtual-android/"><u>Is pgsharp legal when you are playing pokemon On Xiaomi Mix Fold 3? | Dr.fone</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-cutting-edge-tools-for-podcasters-a-guide-to-the-best-free-and-paid-audio-editing-software-on-the-market/"><u>New Cutting-Edge Tools for Podcasters A Guide to the Best Free & Paid Audio Editing Software on the Market</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/tickle-tycoon-picture-builder-for-2024/"><u>Tickle Tycoon Picture Builder for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-issues-how-to-stop-minecraft-from-crashing/"><u>Troubleshooting PC Issues - How to Stop Minecraft From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-windows-11-and-10-when-spatial-audio-isnt-functional/"><u>Troubleshooting Steps for Windows 11 and 10 When Spatial Audio Isn't Functional</u></a></li>
+</ul></div>
 

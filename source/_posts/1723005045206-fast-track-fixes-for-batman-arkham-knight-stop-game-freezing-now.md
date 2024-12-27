@@ -1,7 +1,7 @@
 ---
 title: "Fast Track Fixes for 'Batman: Arkham Knight': Stop Game Freezing Now"
-date: 2024-08-23T12:43:56.439Z
-updated: 2024-08-24T12:43:56.439Z
+date: 2024-12-25T16:26:10.795Z
+updated: 2024-12-27T16:08:01.142Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-713.png)
 
 **Dark Souls 3 keeps crashing** on your computer? This is quite frustrating, but you’re not the only one. The good news is, you can fix Dark Souls 3 crashing quite easily. This post puts together the possible solutions for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Dark Souls 3 crashing
 
@@ -36,8 +40,9 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 **Try disabling overlays for Dark Souls 3** and see if your game stops crashing.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run in Windowed mode
 
  If you play Dark Souls 3 in Fullscreen mode, it may crash to your desktop. In this case, you can fix your game crashing problem by switching to**Windowed mode** .
@@ -90,8 +95,9 @@ thumbnail: https://thmb.techidaily.com/5780260a4b921055eadce5da1ebf75bed86b12220
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-707.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Once your driver has been updated, restart your computer.
 
 Now launch Dark Souls 3 and see if it works.
@@ -105,8 +111,9 @@ Now launch Dark Souls 3 and see if it works.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-709.png)
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 If you can’t access the in-game settings, try this:
 
  1) On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box.
@@ -115,9 +122,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-710.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Open**DarkSouls3** folder.
 
  4) Open**GraphicsConfig.xml** with notepad.
@@ -126,9 +130,6 @@ If you can’t access the in-game settings, try this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-711.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 6) Save your file changes and restart your game.
 
 Then play your game to see if it works properly.
@@ -146,20 +147,21 @@ Then play your game to see if it works properly.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-702.png)
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Right click on**Dark Souls 3** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-703.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click the**Local files** tab, and click**Verify Integrity Of Game Files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-705.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
  5) Steam will check your game files and fix any detected problems. Follow the on-screen instructions to finish the process.
 
  6) Restart Steam, and open Dark Souls 3 to play.
@@ -176,8 +178,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +185,23 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-cutting-techniques-for-photos-exclude-unwanted-edges-for-2024/"><u>[New] Cutting Techniques for Photos Exclude Unwanted Edges for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-masterful-content-creation-with-these-top-editing-tools/"><u>[New] Masterful Content Creation with These Top Editing Tools</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-professional-tips-for-high-quality-sports-streaming-for-2024/"><u>[New] Professional Tips for High-Quality Sports Streaming for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-android-and-ios-leaderboard-of-ps2-emulation-software/"><u>[Updated] In 2024, Android & iOS Leaderboard of PS2 Emulation Software</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-seamless-integration-of-custom-backgrounds-on-microsoft-teams-calls/"><u>2024 Approved Seamless Integration of Custom Backgrounds on Microsoft Teams Calls</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-tailoring-battery-choices-for-exceptional-drone-performance/"><u>2024 Approved Tailoring Battery Choices for Exceptional Drone Performance</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/5-quick-methods-to-bypass-itel-p40plus-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Itel P40+ FRP</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-the-dark-side-effective-solutions-to-black-screen-anomalies-in-rainbow-six-siege-pc/"><u>Conquer the Dark Side: Effective Solutions to Black Screen Anomalies in Rainbow Six Siege (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diablo-immortal-launch-postponed-for-pc-gamers-insights-into-delay/"><u>Diablo Immortal Launch Postponed for PC Gamers – Insights Into Delay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-and-update-the-epson-wf-3520-driver-step-by-step-tutorial-for-pc-users/"><u>Download & Update the Epson WF-3520 Driver - Step by Step Tutorial for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-battlefield-2042-crashes-on-windows-ultimate-guide/"><u>How to Fix Battlefield 2042 Crashes on Windows - Ultimate Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-outlook-refuses-to-start-issue/"><u>How to Resolve 'Outlook Refuses to Start' Issue</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/in-depth-review-the-full-story-of-theta-s-technology/"><u>In-Depth Review The Full Story of Theta S Technology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-performance-boost-your-frame-rate-on-mass-effect-le/"><u>Maximizing Performance: Boost Your Frame Rate on Mass Effect LE</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-bloodhunts-performance-issues-on-your-computer/"><u>Troubleshooting Steps to Resolve Bloodhunt's Performance Issues on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-seamless-play-in-warframe-solving-unexpected-freezing-problems/"><u>Unlocking Seamless Play in Warframe: Solving Unexpected Freezing Problems</u></a></li>
+</ul></div>
 

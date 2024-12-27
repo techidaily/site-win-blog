@@ -1,7 +1,7 @@
 ---
 title: Resolving Launch Problems for Football Manager 2023 on Your PC/Mac
-date: 2024-08-27T21:27:08.971Z
-updated: 2024-08-28T21:27:08.971Z
+date: 2024-12-25T16:26:33.245Z
+updated: 2024-12-27T16:26:31.874Z
 tags:
   - win11
   - win10
@@ -72,9 +72,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
  If scanning and repairing the game files doesn’t solve the crashing issue for you, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  Football Manager 2022 crashing randomly may indicate a driver issue. The latest graphics driver is usually required for most video games for them to run smoothly.
@@ -86,9 +83,6 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
@@ -98,6 +92,10 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 
  Restart your PC and run FM22 to see if the game still crashes. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 3: Remove custom mods
 
  Any custom add-ons like mods, graphics, or skins, may interfere and cause the game to crash. If you installed the add-ons from the Steam workshop, you can easily unsubscribe from them and test the issue. Here’s how:
@@ -105,20 +103,20 @@ thumbnail: https://thmb.techidaily.com/fa206782af9b714e31a62f7ae5d0a20ed9b793265
 1. Go to your Steam profile page, and click**Workshop items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-51-25.png)
 2. Click**(your username)’s Favorite** \>>**Select a game** \>>**Football Manager 2022** .  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-52-33.png)
 3. You can**unsubscribe** from the mods one at a time to test which item was causing the problem.
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Delete cache/preferences folders
 
  The developers suggest that you can delete your preferences and/or cache folder(s) as they may trigger random crashes. Deleting these folders won’t affect your game saves, but you’ll have to set up and apply your preference settings again.
@@ -127,9 +125,6 @@ If this doesn’t help, try the next fix.
 2. Click **View** in the header, and tick the box of **Hidden items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/hidden-items.jpg)
 3. Navigate to   **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Delete the **Preferences** and/or **Cache** folder(s).
 
  If you want to keep the preferences and cache files, you can move these folders to the desktop. As long as they’re not in the FM22 folder, you can run the game to test the issue.
@@ -137,9 +132,9 @@ If this doesn’t help, try the next fix.
 If this fix doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Repair corrupted system files
 
  In addition to game files, corrupted system files may also cause Football Manager 2022 to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but it could miss minor issues and most of the time, manual repair is required.
@@ -150,11 +145,13 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ## Fix 6: Close unnecessary programs
@@ -164,16 +161,14 @@ If this fix doesn’t solve your problem, try the next fix.
 1. Right-click your taskbar, then click **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the **Processes** tab, right-click at the process(es) that you want to shut down, and click **End task** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7: Check your antivirus software
 
  Aggressive antivirus software is a common cause of game crashes. If you’re using any antivirus software, you can try to:
@@ -187,9 +182,6 @@ If this fix doesn’t solve your problem, try the next fix.
 
  In addition to antivirus software, you can also check out [the list of programs that may affect Steam game performance](https://help.steampowered.com/en/faqs/view/1F39-DCB4-FF28-5748) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Fix 8: Make sure your system is up-to-date
 
  Windows regularly rolls out updates to fix known bugs and compatibility issues with programs on your PC. Here’s how to check for Windows updates and install the available ones:
@@ -199,12 +191,22 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Windows will scan for available system updates. If there are _no_  available updates, you’ll get a **You’re up to date** sign. You could also click **View all optional updates** and install them if needed.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. You will be prompted to restart your PC. Make sure you save important files in advance.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 9: Change the game folder location
 
  Sometimes a random game crash can be solved by backing up and moving your game files. Although the Steam client now has a built-in feature to help players do this, there’s no similar feature in Epic Games Launcher. Here we’ll introduce the manual way to do it, which only takes a few steps and will work on both game launchers:
@@ -235,8 +237,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -244,4 +244,20 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-next-gen-tracker-seamless-camera-movement-coordination/"><u>[New] Next-Gen Tracker Seamless Camera Movement Coordination</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-simplified-guide-to-transform-vimeo-video-into-mp3/"><u>[New] Simplified Guide to Transform Vimeo Video Into MP3</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-2024-expertise-in-making-screen-captures-on-ios-easier/"><u>[Updated] In 2024, Expertise in Making Screen Captures on iOS Easier</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-record-computer-sound-and-microphone/"><u>[Updated] In 2024, Record Computer Sound and Microphone</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-in-depth-steps-to-document-googles-collaborative-sessions/"><u>[Updated] In-Depth Steps to Document Google's Collaborative Sessions</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/a-detailed-analysis-of-grand-quests-in-yokus-island-express-where-surprises-abound/"><u>A Detailed Analysis of Grand Quests in Yoku's Island Express: Where Surprises Abound</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-unstable-pc-performance-proven-methods-for-stabilizing-system-crashes/"><u>Fix Unstable PC Performance: Proven Methods for Stabilizing System Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-fixing-ffxiv-failure-in-updating-game-versions-correctly/"><u>Guide to Fixing FFXIV Failure in Updating Game Versions Correctly</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-dos-and-donts-of-youtube-videos-on-twitter/"><u>In 2024, The Dos and Don'ts of YouTube Videos on Twitter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996824429-overcome-your-browser-woes-resolved-google-chrome-opens-again/"><u>Overcome Your Browser Woes: Resolved - Google Chrome Opens Again!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-bluestacks-problems-with-our-5-step-solution/"><u>Say Goodbye to BlueStacks Problems with Our 5-Step Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-persistent-boot-problems-with-subnautica-below-zero-on-windows-and-linux-systems/"><u>Solutions for Persistent Boot Problems with Subnautica: Below Zero on Windows and Linux Systems</u></a></li>
+<li><a href="https://apple-account.techidaily.com/top-notch-solutions-for-disabled-apple-id-on-iphone-13-pro-making-it-possible-by-drfone-ios/"><u>Top-Notch Solutions for Disabled Apple ID On iPhone 13 Pro Making It Possible</u></a></li>
+</ul></div>
 

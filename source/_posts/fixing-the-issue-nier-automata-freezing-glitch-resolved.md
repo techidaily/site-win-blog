@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: NieR: Automata Freezing Glitch Resolved!"
-date: 2024-08-23T12:40:32.036Z
-updated: 2024-08-24T12:40:32.036Z
+date: 2024-12-26T16:17:27.009Z
+updated: 2024-12-27T16:06:55.499Z
 tags:
   - win11
   - win10
@@ -26,11 +26,19 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | Graphics card   | NVIDIA GeForce GTX 660/ AMD Radeon HD 7850   |
 | RAM             | 4 GB                                         |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
 2. [Lower the graphics settings in the game](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
@@ -39,6 +47,11 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
 3. Copy the content which looks like this:  
 **`C:\Program Files\WindowsApps\Microsoft.SeaofThieves_2.78.5523.2_x64__8wekyb3d8bbwe`**
@@ -50,16 +63,14 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 9. Select the **Open** button. This will add the path to your Exception List.
 10. Select **OK** to save your changes and close the Exception List window.
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your driver
 
  The outdated or missing driver can cause game crashing. You have to make sure your drivers have been updated and install correctly.
@@ -74,14 +85,12 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  We hope you find these techniques useful. You’re welcome to leave comments and questions below.
@@ -94,8 +103,6 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -103,4 +110,17 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-resources.techidaily.com/new-best-in-class-androids-cloud-storage-companions/"><u>[New] Best in Class Android's Cloud Storage Companions</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-no-lag-top-8-screen-grab-essentials/"><u>[Updated] In 2024, No Lag Top 8 Screen Grab Essentials</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-swiftly-move-data-fast-and-reliable-methods-to-direct-files-onto-your-computer/"><u>[Updated] Swiftly Move Data Fast and Reliable Methods to Direct Files Onto Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-windows-11-taskbar-malfunction-a-comprehensive-guide/"><u>Fixing the Windows 11 Taskbar Malfunction: A Comprehensive Guide</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/gratis-online-ts-zu-mvk-konvertieren-professionelle-losung-von-movavi/"><u>Gratis Online Ts Zu Mvk Konvertieren - Professionelle Lösung Von Movavi</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-starting-off-smoothly-with-fast-forwarding-in-snapchat/"><u>In 2024, Starting Off Smoothly with Fast-Forwarding in Snapchat</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-preventing-football-manager-2023-from-starting-up/"><u>Resolved: Issues Preventing Football Manager 2023 From Starting Up</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-strategies-to-prevent-wwe-2k20-from-crashing-on-your-windows-device/"><u>Seamless Strategies to Prevent WWE 2K20 From Crashing on Your Windows Device</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/the-combined-legal-wave-by-artists-against-ai-giants/"><u>The Combined Legal Wave by Artists Against AI Giants</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-to-stop-diablo-immortal-from-crashing-on-your-pc-updated-guide-2024/"><u>Ultimate Troubleshooting Tips to Stop Diablo Immortal From Crashing on Your PC - Updated Guide 2024</u></a></li>
+</ul></div>
 

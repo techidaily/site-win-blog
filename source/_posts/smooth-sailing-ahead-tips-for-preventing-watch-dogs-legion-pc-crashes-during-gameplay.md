@@ -1,7 +1,7 @@
 ---
 title: "Smooth Sailing Ahead! Tips for Preventing Watch Dogs: Legion PC Crashes During Gameplay"
-date: 2024-08-23T12:39:44.573Z
-updated: 2024-08-24T12:39:44.573Z
+date: 2024-12-22T16:01:33.851Z
+updated: 2024-12-27T16:33:01.231Z
 tags:
   - win11
   - win10
@@ -44,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 
  If Watch Dogs: Legion crashes on your high-end gaming PC, you can continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes may indicate an**integrity issue** with your game files. If that’s the case, you can expect**constant crashes at a specific scene or mode** .
@@ -57,18 +54,16 @@ thumbnail: https://thmb.techidaily.com/154068358b5a51a99b1a55712b63fc787a6b810ef
 2. Navigate to **the Games tab** and move your mouse cursor to the game tile of Watch Dogs: Legion. Then click **the downward triangle** on the lower-right corner of the game tile.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-verify-game-1.jpg)
 3. Select**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-verify-game-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Now you can launch Watch Dogs: Legion and see if it crashes again.
 
  If Watch Dogs: Legion crashes after verifying your game files, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  Windows 10 includes 2 types of system updates, one tackles security issues and another offers a periodic performance boost. In most cases,**keeping your system up-to-date** can avoid lots of strange issues.
@@ -80,10 +75,6 @@ Here’s a quick guide:
 2. Click**Check for updates** . It’ll take a while (up to an hour) for Windows to download and install available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  Usually you’ll need to check multiple times to install all the updates. So **repeat the above steps** until it prompts that your system is up to date after you clicked **Check for updates** .
 
  Once you’ve installed all the system updates, restart your computer and test your gameplay in Watch Dogs: Legion.
@@ -91,8 +82,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If this method doesn’t give you luck, simply move on to the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  More often than not, you’ll be experiencing constant crashes if you’re using**a faulty or outdated graphics driver** . In order to adapt to the fast-changing game market, GPU manufacturers update their drivers on a regular basis, targeting compatibility issues and improving game performance. If the last time you updated drivers feels like ages ago, definitely do it now as it could very well save your day.
@@ -119,6 +111,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Watch Dogs: Legion crashes again.
@@ -126,8 +122,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If this solution doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Run Watch Dogs: Legion on DirectX 11
 
  Some Aiden Pearces reported that they managed to stop the crash by**running Watch Dogs: Legion on DirectX 11** . You can try the same as it might be the solution to your case too.
@@ -137,19 +134,22 @@ So here’s how:
 1. Open you UBISOFT CONNECT client. Navigate to the**Games** tab and click**Watch Dogs: Legion** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-1.jpg)
 2. From the left menu, select**Properties** . Then scroll down to the bottom. Under the**Game Launch arguments** section, click**Add command line arguments** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-02.jpg)
-3. Type or paste**\-dx11** (don’t forget the dash), then click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-03.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-02.jpg)
+3. Type or paste**\-dx11** (don’t forget the dash), then click**Save** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-directx-11-03.jpg)
+
 Now you can launch Watch Dogs: Legion and check if the crash stops.
 
  If this trick doesn’t help your case, simply**undo the changes** and continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Stop overclocking your hardware
 
@@ -171,9 +171,9 @@ To do so, simply follow these steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/wdl-disable-vsync-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KaqfZcWg5sE?si=LPmSKk7AFp8VxDFD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Now you can test your gameplay in Watch Dogs: Legion.
 
 ---
@@ -188,8 +188,6 @@ Now you can test your gameplay in Watch Dogs: Legion.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +195,20 @@ Now you can test your gameplay in Watch Dogs: Legion.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-twisting-the-tape-youtube-video-rotation-techniques-unveiled/"><u>[New] 2024 Approved Twisting the Tape YouTube Video Rotation Techniques Unveiled</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-ride-innovatively-pioneering-helmet-cams-for-the-adventurous-rider-23-edition/"><u>2024 Approved Ride Innovatively – Pioneering Helmet Cams for the Adventurous Rider, '23 Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/adobe-premiere-pro-crash-woes-resolved-for-windows-11-users/"><u>Adobe Premiere Pro Crash Woes Resolved for Windows 11 Users</u></a></li>
+<li><a href="https://fox-making.techidaily.com/best-5-iphone-apps-of-2022-for-converting-images-to-pdf-format/"><u>Best 5 iPhone Apps of 2022 for Converting Images to PDF Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-lag-in-fortnite-a-comprehensive-solution-for-smoother-gameplay/"><u>Fixing Lag in Fortnite - A Comprehensive Solution for Smoother Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/for-added-protection-especially-on-items-like-coasters-or-countertop-backsplashes-that-will-experience-frequent-water-exposure-apply-an-acrylic-sealant-over539/"><u>For Added Protection, Especially on Items Like Coasters or Countertop Backsplashes that Will Experience Frequent Water Exposure, Apply an Acrylic Sealant over the Glazed Tile Once It Has Completely Cooled.</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/in-2024-high-speed-replicas-best-racing-games/"><u>In 2024, High-Speed Replicas Best Racing Games</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-insightful-guide-to-the-top-10-low-cost-online-channels-for-photo-editing-artists/"><u>In 2024, Insightful Guide to the Top 10 Low-Cost Online Channels for Photo Editing Artists</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-vectors-decoded-for-newbies-diverse-forms-and-tool-options/"><u>In 2024, Vectors Decoded for Newbies Diverse Forms and Tool Options</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-black-ops-cold-war-gameplay-bypass-error-code-0xc0000005-successfully/"><u>Master Black Ops: Cold War Gameplay - Bypass Error Code 0Xc0000005 Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-lag-in-forza-horizon-5-for-pc-updated-solutions-inside/"><u>Overcome Lag in Forza Horizon 5 for PC – Updated Solutions Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-swift-solution-guide-for-resolving-critical-bugs-in-batman-arkham-knight/"><u>The Swift Solution Guide for Resolving Critical Bugs in 'Batman: Arkham Knight'</u></a></li>
+<li><a href="https://games-able.techidaily.com/who-wins-in-specifications-asus-rog-ally-or-steam-deck/"><u>Who Wins in Specifications: ASUS ROG Ally or Steam Deck?</u></a></li>
+</ul></div>
 

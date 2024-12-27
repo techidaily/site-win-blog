@@ -1,7 +1,7 @@
 ---
 title: "Banishing the Blues in Sea of Thieves: No More Crashes"
-date: 2024-08-23T12:40:38.974Z
-updated: 2024-08-24T12:40:38.974Z
+date: 2024-12-21T16:32:10.306Z
+updated: 2024-12-27T16:04:40.124Z
 tags:
   - win11
   - win10
@@ -83,8 +83,9 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
@@ -96,8 +97,9 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Install the latest Windows Updates
 
  One of the the dependencies of League of Legends is**DotNet Framework 3.5** . By installing the latest Windows Updates, you can also update DotNet Framework 3.5 to the latest version. If you’re using Windows 10, you can follow the steps below to perform Windows Update:
@@ -110,9 +112,6 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
@@ -120,8 +119,9 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -133,8 +133,9 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -144,6 +145,10 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Enable low spec mode
 
@@ -161,9 +166,6 @@ thumbnail: https://thmb.techidaily.com/45bc41dfd22bb4252a227dcc20488f6faf42f4a30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 Run League of Legends to see if you resolved this issue.
 
  Hopefully, you find this post helpful! As always, if you have any other solutions to fix League of Legends crashes, or if you have any questions or suggestions on this issue, you’re more than welcome to leave us a comment below.
@@ -177,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +186,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-video-capture.techidaily.com/new-5-easy-ways-to-record-youtube-videos-for-2024/"><u>[New] 5 Easy Ways to Record YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-mastering-facebook-visuals-adding-text-boxes-and-dark-bar-overlays-for-2024/"><u>[New] Mastering Facebook Visuals Adding Text Boxes & Dark Bar Overlays for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-immediate-screenshot-on-a-mac/"><u>[Updated] 2024 Approved Immediate Screenshot on a MAC</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-5-essential-steps-to-create-viral-titles-online/"><u>2024 Approved 5 Essential Steps to Create Viral Titles Online</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/2024-approved-creating-immersive-iphone-video-content/"><u>2024 Approved Creating Immersive iPhone Video Content</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arise-game-bugs-addressed-solutions-unveiled/"><u>Arise Game Bugs Addressed – Solutions Unveiled</u></a></li>
+<li><a href="https://fox-that.techidaily.com/commonly-encountered-icloud-syncs-errors-and-how-to-resolve-them-quickly/"><u>Commonly Encountered iCloud Syncs Errors and How to Resolve Them Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-diagnosing-and-fixing-previous-black-screen-errors/"><u>Comprehensive Guide to Diagnosing and Fixing Previous Black Screen Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077s-frames-per-second-performance-issues-resolved/"><u>Cyberpunk 2077'S Frames Per Second Performance Issues Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/escape-from-tarkov-server-issues-decoded-strategies-to-restore-your-game-play-without-disconnects/"><u>Escape From Tarkov Server Issues Decoded: Strategies to Restore Your Game Play Without Disconnects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-apex-legends-game-crashes-engine-troubleshooting-solutions/"><u>Fixing Apex Legends Game Crashes: Engine Troubleshooting Solutions</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/in-2024-the-secrets-to-compelling-instagram-video-descriptions/"><u>In 2024, The Secrets to Compelling Instagram Video Descriptions</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-top-15-augmented-reality-games-like-pokemon-go-to-play-on-samsung-galaxy-s24-drfone-by-drfone-virtual-android/"><u>In 2024, Top 15 Augmented Reality Games Like Pokémon GO To Play On Samsung Galaxy S24 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outriders-fix-guide-resolving-the-notorious-ue4-madness-process-crash-error/"><u>Outriders Fix Guide: Resolving the Notorious ‘UE4 Madness’ Process Crash Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-issues-how-to-prevent-ascent-from-crashing-in-your-web-browser/"><u>Resolving Issues: How to Prevent Ascent From Crashing in Your Web Browser</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003150000-troubleshoot-steams-remote-play-issues-with-easy-solutions/"><u>Troubleshoot Steam's Remote Play Issues with Easy Solutions</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/unraveling-vloggers-terrors-and-techniques-to-triumph-for-2024/"><u>Unraveling Vloggers' Terrors and Techniques to Triumph for 2024</u></a></li>
+<li><a href="https://win-bits.techidaily.com/update-your-pcdj-red-dj-software-now-free-downloads-available/"><u>Update Your PCDJ RED DJ Software Now! Free Downloads Available</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-is-my-google-chrome-browser-not-starting-find-out-how-to-fix-it/"><u>Why Is My Google Chrome Browser Not Starting? Find Out How To Fix It!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Pathfinder: Wrath of the Righteous Freezing on PC"
-date: 2024-08-23T12:40:04.143Z
-updated: 2024-08-24T12:40:04.143Z
+date: 2024-12-26T16:02:33.123Z
+updated: 2024-12-27T16:26:34.051Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 ![pathfinder: Wrath of the Righteous](https://images.drivereasy.com/wp-content/uploads/2021/09/pathrider-1200x800.jpg)
 
  Pathfinder: Wrath of the Righteous, a sequel to Pathfinder: Kingmaker, is developed by the same Publisher: Owlcat Games and Publisher Deep Silver. However, many players are having issues with this epic saga. If your Pathfinder:**Wrath of the Righteous is not launching** or crashes to the desktop after the game logo, you will find every possible fix in this post.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Failed to start Wrath of the Righteous startup? Try these fixes
 
@@ -58,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
  Try starting the game and check if the ‘Pathfinder: Wrath of the Righteous not launching’ issue persists. If this method doesn’t do the trick, you can move on to the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your device drivers
 
  To boost gaming performance, it’s always recommended to keep your drivers up to date, especially your graphics driver (sometimes your audio drivers, too). If your driver is outdated or faulty, you may experience game crashing / not launching issues quite often (newly-released games especially).
@@ -72,15 +80,16 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![scan now](https://images.drivereasy.com/wp-content/uploads/2021/09/scannow.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to a flagged graphics / audio driver to automatically download and install the correct driver (You can do this with the FREE version).
 
  Or click **Update All**  to automatically download and install all the latest correct drivers that are missing or outdated (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  . You will be prompted to upgrade when you click Update All).
 
 ![update drivers to fix game issues](https://images.drivereasy.com/wp-content/uploads/2021/09/update-all.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer and check whether your problem is solved.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -94,9 +103,17 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![GoG settings](https://images.drivereasy.com/wp-content/uploads/2021/09/46e9a5f8532993ddb8e9c46043a41a5e0e77_740xt.jpeg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Go to**Game Features** and uncheck**Overlay** .
 
 ![turn off gog overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/gog.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now you’ve disabled in-game notifications and overlay in GoG. Start your game again to check if**Pathfinder: Wrath of the Righteous not launching** issue persists.
 
@@ -112,9 +129,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  How to disable the GeForce Experience Share in-game overlay
 
  4) Under the**GENERAL** tab, scroll down and toggle**IN-GAME OVERLAY** to **Off** .
@@ -122,13 +136,11 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 ![turn off NVIDIA overlay](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-1200x366.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Close the GeForce Experience window and try starting your game again to test the issue. If your Pathfinder: Wrath of the Righteous is not launching, don’t worry since we have a few fixes for you to try.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ### Fix 4: Modify the Registry
 
  If the fixes above didn’t help at all, you can delete the ‘Owlcat’ key and let Steam reload the game.
@@ -139,10 +151,6 @@ thumbnail: https://thmb.techidaily.com/fb64d3334f8fecc4f94c1ae3403a6dd894e812df5
 
 ![edit registry](https://images.drivereasy.com/wp-content/uploads/2019/08/regedit.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
  3) Go to C**omputer\\HKEY\_CURRENT\_USER\\SOFTWARE\\owlcat** and delete the entire key.
 
  4) Restart your game. Wait for the game to load and don’t alt-tab out.
@@ -154,8 +162,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  If this doesn’t work, there might be other applications that are conflicting with your game. You might want to **[perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**  to find the problematic one and uninstall it temporarily.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Change the GPU priority
 
  If you have multiple GPUs installed, you might as well try changing the GPU to the dedicated card to see if this helps.
@@ -168,9 +177,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![manage 3d settings](https://images.drivereasy.com/wp-content/uploads/2020/05/manage-3D-settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Click on the Program Settings tab and select**Pathfinder: Wrath of the Righteous** from the drop-down list.
 
  4) Below you will see ‘**Select the preferred graphics processor for this program** ‘. Expand the list and select the dedicated graphics card e.g.**High-performance Nvidia processor** .
@@ -189,8 +195,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +202,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-speech-capture-device-scrutiny/"><u>[New] In 2024, Speech Capture Device Scrutiny</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-empower-your-filmmaking-skills-using-phone-cameras-for-recording/"><u>[Updated] Empower Your Filmmaking Skills Using Phone Cameras for Recording</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-in-2024-precision-followers-gps-drones-of-the-year/"><u>[Updated] In 2024, Precision Followers GPS Drones of the Year</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battling-the-beast-of-processing-power-top-fixes-for-baldurs-gate-3-cpu-problems/"><u>Battling the Beast of Processing Power: Top Fixes for Baldur's Gate 3 CPU Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancements-and-fixes-the-updated-version-of-days-gone-now-available-for-pc-users/"><u>Enhancements and Fixes: The Updated Version of 'Days Gone' Now Available for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-error-0xc1e1-in-windows-10-quick-troubleshooting-tips/"><u>Fixing 'Error 0Xc1e1' In Windows 10 – Quick Troubleshooting Tips</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/forefront-ai-vs-chatgpt-which-one-leads-the-way-in-conversational-ai/"><u>Forefront AI Vs. ChatGPT: Which One Leads the Way in Conversational AI?</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-fake-snapchat-location-on-oppo-reno-11f-5g-drfone-by-drfone-virtual-android/"><u>How to Fake Snapchat Location on Oppo Reno 11F 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-modern-warfare-game-crashes-and-lagging-on-your-pc/"><u>How to Fix Modern Warfare Game Crashes and Lagging on Your PC</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-reasons-why-pokemon-gps-does-not-work-on-motorola-edge-2023-drfone-by-drfone-virtual-android/"><u>In 2024, Reasons why Pokémon GPS does not Work On Motorola Edge 2023? | Dr.fone</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/maximizing-quality-with-obs-a-guide-to-ideal-recording-settings-and-formats/"><u>Maximizing Quality with OBS: A Guide to Ideal Recording Settings and Formats</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-unexpected-pc-game-crashes-in-just-6-steps-say-goodbye-to-troubleshooting-woes/"><u>Resolve Unexpected PC Game Crashes in Just 6 Steps – Say Goodbye to Troubleshooting Woes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-with-pc-startup-of-hitman-trilogys-final-game/"><u>Resolved: Issues with PC Startup of Hitman Trilogy's Final Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-palworld-eos-login-challenge-mastery-through-6-proven-strategies/"><u>Solving the Palworld EOS Login Challenge: Mastery Through 6 Proven Strategies</u></a></li>
+<li><a href="https://win-able.techidaily.com/transcoding-avi-videos-into-divx-format-on-various-operating-systems/"><u>Transcoding AVI Videos Into DivX Format on Various Operating Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-steps-for-warzone-lag-problems-on-pc/"><u>Ultimate Troubleshooting Steps for Warzone Lag Problems on PC</u></a></li>
+<li><a href="https://techidaily.com/xiaomi-redmi-note-12-4g-can-t-play-mp4-video-files-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Xiaomi Redmi Note 12 4G can't play MP4 video files</u></a></li>
+</ul></div>
 

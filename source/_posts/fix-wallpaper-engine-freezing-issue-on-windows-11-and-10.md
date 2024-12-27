@@ -1,7 +1,7 @@
 ---
 title: "Fix: Wallpaper Engine Freezing Issue on Windows 11 & 10"
-date: 2024-08-27T21:27:26.860Z
-updated: 2024-08-28T21:27:26.860Z
+date: 2024-12-20T16:21:16.186Z
+updated: 2024-12-27T16:12:43.401Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/e03e7f36869e1845d154715bfdea777a291cb2eac
 ## Optimizing Graphics Performance in Cyberpunk 2077 on New Windows 11 - Issue Resolved
 
 It seems that strings of bugs come along with the release of[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47) , as many players are reporting**a game not using GPU issue** . While this problem might seem weird, it’s not hard to fix at all. Here we’ll wake you through the fixes and get your GPU working right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -62,15 +66,14 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3hS27nZVi9Y?si=_Zqj_l4a4XkPqT2S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
@@ -78,8 +81,9 @@ To do so, first visit the website of your graphics card manufacturer:
  If updating the graphics driver doesn’t help you, take a look at the next method below.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Change Graphics performance preference
 
  Window 10 allows you to customize GPU settings for specific programs, by using a feature called**Graphics performance preference** . If the tricks above don’t give your luck, you can try to**force Cyberpunk 2077 to run on your dedicated GPU** .
@@ -93,21 +97,19 @@ Here’s how:
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Install all Windows updates
 
@@ -134,8 +136,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +143,26 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-most-engaging-history-youtube-creators-for-students/"><u>[New] The Most Engaging History YouTube Creators for Students</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-explore-youtube-rankings-seo-tools-for-peak-performance/"><u>[Updated] In 2024, Explore YouTube Rankings SEO Tools for Peak Performance</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-steps-to-post-music-on-social-media-stories-for-2024/"><u>[Updated] Steps to Post Music on Social Media Stories for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-art-of-humor-in-video-tips-for-facebook-and-instagram-memes-for-2024/"><u>[Updated] The Art of Humor in Video Tips for Facebook and Instagram Memes for 2024</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/windowsapps-windows-11/"><u>「WindowsApps」フォルダを安全に消去する - Windows 11の実践ガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anno-100-error-fix-a-step-by-step-tutorial-to-resolve-directx-compatibility-in-anno-1800/"><u>Anno 1#00 Error Fix - A Step-by-Step Tutorial to Resolve DirectX Compatibility in Anno 1800</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-down-on-error-2024-of-cyberpunk-astopper-tips-for-gamers/"><u>Cracking Down on Error 2024 of Cyberpunk Astopper: Tips for Gamers</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-auto-gpt-its-unique-traits-beyond-chatgpt-basics/"><u>Demystifying Auto-GPT: Its Unique Traits Beyond ChatGPT Basics</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-for-quick-recovery-from-fortnite-sign-in-problems/"><u>Easy Fixes for Quick Recovery From Fortnite Sign-In Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997266748-get-steam-remote-play-up-and-running-again-with-simple-solutions/"><u>Get Steam Remote Play Up and Running Again with Simple Solutions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/halo-3-stability-improved-fix-your-game-for-uninterrupted-play-on-pc/"><u>Halo 3 Stability Improved: Fix Your Game for Uninterrupted Play on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-overwatchs-black-screen-issue-upon-starting-up/"><u>How to Resolve Overwatch's Black Screen Issue Upon Starting Up</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-harvest-high-quality-pics-the-free-edition-guide/"><u>In 2024, Harvest High-Quality Pics The Free Edition Guide</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-how-to-fake-gps-on-android-without-mock-location-for-your-samsung-galaxy-m34-drfone-by-drfone-virtual/"><u>In 2024, How to Fake GPS on Android without Mock Location For your Samsung Galaxy M34 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/instagram-artists-and-intellectual-property-rights-for-2024/"><u>Instagram Artists & Intellectual Property Rights for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-directx-errors-on-xbox-series-x-expert-tips-and-fixes/"><u>Overcoming DirectX Errors on Xbox Series X - Expert Tips & Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-cod-modern-warfare-3-app-error-fixes-for-the-application-has-stopped-issue/"><u>Resolved: Cod Modern Warfare 3 App Error - Fixes for the 'Application Has Stopped' Issue</u></a></li>
+<li><a href="https://some-tips.techidaily.com/switching-between-safe-mode-and-picture-in-picture-on-iosmacos-for-2024/"><u>Switching Between Safe Mode & Picture In Picture on iOS/MacOS for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-msvcr1n110dll-absence-in-helldivers-2-game/"><u>Troubleshooting: The MSVCR1n110.dll Absence in Helldivers 2 Game</u></a></li>
+</ul></div>
 

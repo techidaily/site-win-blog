@@ -1,7 +1,7 @@
 ---
 title: Easy Fix Battlefield 5 Won’t Launch Issue – 2024 Guide
-date: 2024-08-23T12:46:08.174Z
-updated: 2024-08-24T12:46:08.174Z
+date: 2024-12-22T16:31:04.642Z
+updated: 2024-12-27T16:03:38.482Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/Battlefield-IV-1200x703.jpg)
 
  Battlefield 4 is no doubt a popular video game since it was released. However, many gamers keep reporting that Battlefield 4 won’t launch on PC. If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -39,6 +43,11 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 1. Open Origin. Then select**My Games Library** in the left panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-my-game-library.jpg)
 2. Right-click Battlefield 4 and select**Repair Game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-repair-game.jpg)
 3. Origin will automatically verify game files and download any replacement or missing files.
 
@@ -47,6 +56,11 @@ thumbnail: https://thmb.techidaily.com/f55494b1c8843bed72fd409a0474603bdb628f918
 1. Go to your Steam**LIBRARY** . Then Right-click Battlefield 4 and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select the**LOCAL FILES** tab and click**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files.jpg)
 3. Wait a few minutes for Steam to verify the game’s files.
 
@@ -66,9 +80,6 @@ If the issue remains, check out the next solution.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/nvidia-geforce-gtx960m-1.jpg)
@@ -79,9 +90,6 @@ If the issue remains, check out the next solution.
 
  If updating the graphics driver doesn’t do the trick, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run Battlefield 4 and Origin as administrator
 
  To make sure you have full access to all the game files, you can run Battlefield 4 and Origin as administrator. This might help you to fix the Battlefield 4 not launching issue. Here’s how:
@@ -90,16 +98,20 @@ If the issue remains, check out the next solution.
 2. Go to**_C:\\Program Files (x64)\\Origin Games\\Battlefield 4_** . Then right-click the**Bf4.exe** file and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/Properties1.jpg)
 3. Navigate to the**Compatibility** tab, Then check the box next to**Run this program as an administrator** and click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-properties.jpg)
 4. On your desktop, right-click the Origin client icon and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-properties.jpg)
 5. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-origin-as-administrator.jpg)
 
 Check if Battlefield 4 launches properly.
@@ -113,22 +125,25 @@ Check if Battlefield 4 launches properly.
 1. Open Origin and select**My Game Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-my-game-library.jpg)
 2. Right-click Battlefield 4 and select**Game Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-game-properties-1.jpg)
 3. Under When launching this game, select**Battlefield 4™ (x86)** from the drop-down menu and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xIP8ktrmOdg?si=zRnjbGzM6PDx2jCq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/BF4-86.jpg)
 4. Close Origin and start it again.
 5. Repeat step1 and step 2, then change game properties back to**Battlefield 4™ (x64)** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/bf4-64.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Restart your computer and check if you can launch Battlefield 4 successfully.
 
 If this fix doesn’t help, go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Toggle offline and online mode in Origin
 
@@ -140,11 +155,12 @@ If this fix doesn’t help, go ahead with the next fix below.
 3. Once the menu says you’re offline, switch windows to the Origin menu, then click**Go online** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-go-online.jpg)
 4. Return to the game and try to launch it again.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 
 If Battlefield 4 is still not launching, continue to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall the game
 
@@ -153,13 +169,11 @@ If Battlefield 4 is still not launching, continue to the next fix below.
 1. Run the Origin client and select**My Game Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/my-games-library-origin.jpg)
 2. Right-click the**Battlefield 4** tile from the list, and select**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/origin-uninstall.jpg)
 3. After the process finishes, reinstall the game from Origin.
+
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Check if Battlefield 4 could launch normally.
@@ -177,8 +191,6 @@ Check if Battlefield 4 could launch normally.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +198,24 @@ Check if Battlefield 4 could launch normally.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-fall-guys-freezing-on-pc/"><u>[Fixed] Fall Guys Freezing on PC</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-2024-approved-efficient-gaming-footage-with-camcapture/"><u>[New] 2024 Approved Efficient Gaming Footage with CamCapture</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-notable-book-trailers-showcasing-stories/"><u>[New] Notable Book Trailers Showcasing Stories</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-unlock-iphone-photo-potential-with-leading-line-techniques/"><u>[New] Unlock iPhone Photo Potential with Leading Line Techniques</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-enhance-image-edges-with-circular-smear-technique-ps/"><u>[Updated] In 2024, Enhance Image Edges with Circular Smear Technique PS</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-utilizing-b-footage-an-essential-filmmaking-skill/"><u>[Updated] Utilizing B-Footage An Essential Filmmaking Skill</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/decoding-youtubes-earning-rules-update-for-2024/"><u>Decoding YouTube's Earning Rules Update for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722988845523-fixing-excessive-cpu-use-by-zoom-discover-these-6-essential-tips/"><u>Fixing Excessive CPU Use by Zoom: Discover These 6 Essential Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-problem-steps-when-your-humankind-application-refuses-to-open/"><u>Fixing the Problem: Steps When Your Humankind Application Refuses to Open</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/fixing-the-windows-1903-update-problems-a-comprehensive-guide/"><u>Fixing the Windows 1903 Update Problems: A Comprehensive Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-your-tecno-spark-10-4g-screen-to-pc-with-chromecast-drfone-by-drfone-android/"><u>How to Mirror Your Tecno Spark 10 4G Screen to PC with Chromecast | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-level-guide-fixing-world-of-warships-pc-crashes-with-5-quick-tweaks/"><u>Master Level Guide: Fixing World of Warships PC Crashes with 5 Quick Tweaks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-your-gaming-experience-fixing-stutters-in-fallout-4-easily/"><u>Optimize Your Gaming Experience: Fixing Stutters in Fallout 4 Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolution-fixes-for-cyberpunk-2077s-launch-issues/"><u>Resolution: Fixes for Cyberpunk 2077'S Launch Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/sea-of-thieves-load-screen-errors-how-to-get-unstuck-and-back-in-action/"><u>Sea of Thieves Load Screen Errors - How To Get Unstuck and Back in Action</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/ultimate-gamers-choice-samsung-q60r-quad-hd-smart-led-tv-assessment/"><u>Ultimate Gamer's Choice: Samsung Q60R Quad HD Smart LED TV Assessment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-secrets-cod-mws-most-intense-first-person-shooter-drops/"><u>Unlocking Secrets: Cod: MW's Most Intense First-Person Shooter Drops!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Red Dead Redemption 2 Error Resolved: Fixing ERR_GFX_State for a Smooth Gaming Experience"
-date: 2024-08-27T21:26:29.619Z
-updated: 2024-08-28T21:26:29.619Z
+date: 2024-12-20T16:20:19.889Z
+updated: 2024-12-27T16:28:28.839Z
 tags:
   - win11
   - win10
@@ -79,25 +79,30 @@ Cyberpunk 2077 is a AAA class game that requires a good GPU to support the game.
 1. Run Cyberpunk 2077 and go to **SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-1.jpg)
 2. Go to the GAMEPLAY tab. Set**Crowd Density** as**Low** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-2.jpg)
 3. Move to the Miscellaneous section, turn **Enable Analytics** to **OFF** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-3.jpg)
 4. In the**GRAPHICS** tab. Find Basic section and set**Film Grain** and**Chromatic** Aberration to**OFF** .  
+
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-4.jpg)
 5. Ray Tracing is the new feature in the game. DLSS is the AI-powered performance-enhancing setting that makes Ray Tracing frame rates more playable. Turning them off and see the lagging issue is solved or not.  
 **NOTE** : Ray Tracing is not for the AMD cards right now.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-lower-settings-5.jpg)
 6. Back to the game and check.
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this fix doesn’t work, move to the next one.
 
@@ -122,33 +127,22 @@ If this fix doesn’t work, move to the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click the **Update** button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Reboot your PC and check how’s the game running. If it doesn’t work, move to the next one.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Turn off the Xbox game bar
 
@@ -160,10 +154,6 @@ Key features:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-15_14-33-30.jpg)
 4. Relaunch the game and check.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 5: Shut down unnecessary apps
 
  If you can play the game, but it’s lagging and viewers get spikes, shutting down unnecessary background applications is a good option. It’s because Stream requires some CPU power too, the less other stuff, the more power for Cyberpunk 2077.
@@ -180,8 +170,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +177,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/new-launching-at-optimal-times-a-podcast-guide/"><u>[New] Launching at Optimal Times A Podcast Guide</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-your-ultimate-guide-to-perfectly-recorded-lol-gaming/"><u>[Updated] 2024 Approved Your Ultimate Guide to Perfectly Recorded LOL Gaming</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-action-capture-duel-2022-gopro-hero5-versus-garmin-virb/"><u>2024 Approved Action Capture Duel 2022 GoPro Hero5 Versus Garmin VIRB</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-visual-identity-simplified-personalized-branding-using-no-cost-templates/"><u>2024 Approved Visual Identity Simplified Personalized Branding Using No-Cost Templates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-overcoming-beat-sabers-persistent-crashing-problem/"><u>Expert Guide: Overcoming Beat Saber's Persistent Crashing Problem</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/hassle-free-ways-to-remove-frp-lock-on-tecno-spark-10-pro-phones-withwithout-a-pc-by-drfone-android/"><u>Hassle-Free Ways to Remove FRP Lock on Tecno Spark 10 Pro Phones with/without a PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-launch-problems-with-world-of-warcraft-on-pc-platforms/"><u>How to Overcome Launch Problems with World of Warcraft on PC Platforms</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-academic-journey-across-time-top-10-history-youtubers/"><u>In 2024, Academic Journey Across Time Top 10 History YouTubers</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-full-guide-to-apple-iphone-xr-icloud-bypass-by-drfone-ios/"><u>In 2024, Full guide to Apple iPhone XR iCloud Bypass</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-gameplay-frustration-with-these-tips-on-fixing-dying-light-lag/"><u>Resolve Your Gameplay Frustration with These Tips on Fixing Dying Light Lag</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/secure-a-discounted-deal-get-800-off-the-razer-blade-15-from-walmart-before-memorial-day-exclusive-insights-by-zdnet/"><u>Secure a Discounted Deal: Get $800 Off the Razer Blade 15 From Walmart Before Memorial Day - Exclusive Insights by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-chrome-freezing-on-you-effective-fixes-and-workarounds-revealed/"><u>Stop Chrome Freezing on You! Effective Fixes & Workarounds Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-elder-scrolls-online-update-resolves-blackwood-performance-issues/"><u>The Elder Scrolls Online Update Resolves Blackwood Performance Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011754918-the-sims-4-pc-stability-issues-heres-how-you-can-solve-them/"><u>The Sims 4 PC Stability Issues? Here's How You Can Solve Them!</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-rated-graphics-tablets-and-laptops-for-creative-professionals-in-depth-analysis-by-tech-experts/"><u>Top-Rated Graphics Tablets & Laptops for Creative Professionals - In-Depth Analysis by Tech Experts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-mlb-the-show-21-network-issues-now-fixed/"><u>Troubleshooting MLB The Show 21 Network Issues – Now Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-stop-dying-light-from-crashing-with-these-simple-steps/"><u>Ultimate Guide: Stop Dying Light From Crashing with These Simple Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/waiting-for-elden-ring-insights-into-the-unexpected-delay-of-its-launch/"><u>Waiting for Elden Ring: Insights Into the Unexpected Delay of Its Launch</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/youtube-ready-360-videos-editing-and-sharing-made-simple-for-2024/"><u>YouTube-Ready 360 Videos Editing & Sharing Made Simple for 2024</u></a></li>
+</ul></div>
 

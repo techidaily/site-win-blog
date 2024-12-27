@@ -1,7 +1,7 @@
 ---
 title: "Diagnosing and Repairing CS:Source Launch Failures Effectively"
-date: 2024-08-23T12:41:53.924Z
-updated: 2024-08-24T12:41:53.924Z
+date: 2024-12-20T16:00:20.946Z
+updated: 2024-12-27T16:23:06.882Z
 tags:
   - win11
   - win10
@@ -39,15 +39,16 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 10. [Run system file checker](https://tools.techidaily.com/drivereasy/download/)
 11. [Reinstall the game](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Update Epic Games Launcher
 
  Actually, many Borderlands 3 gamers find the fix as simple as updating the Epic Games Launcher. If updates need to be installed, the launcher should automatically detect them.
 
  However, sometimes it just fails to install the update. The**Restart and Update** button under**Settings** is gone now, but you can restart Epic Games a few times to see if this magically works.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify integrity of game files
 
  It’s always wise and easy to check your game files first. Corrupted game files can stop Borderlands 3 from launching successfully. To see if that’s your problem, you need to verify the game files.
@@ -60,15 +61,14 @@ The moment-to-moment gameplay of runnin’-and-gunnin’ is super fun, but playe
 
 ![verify game files](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1026.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After verifying the game files, relaunch Borderlands 3 to see if it’s fixed. If so, then congrats! If not, don’t worry, there are a few fixes you can try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ### Fix 3: Run as administrator
 
  Borderlands 3 sometimes may not be able to access certain game files on your PC under normal user mode, which could be the cause of the not launching issue. To fix it, you can try running it as an administrator.
@@ -81,9 +81,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![go to the compatibility tab](https://images.drivereasy.com/wp-content/uploads/2019/09/image-997.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Go to the directory where you installed Borderlands 3, and run the .exe file as administrator as well.
 
  4) Relaunch**Borderlands 3** from the Epic Games Launcher to test the issue.
@@ -100,13 +97,18 @@ If the problem still persists, then go ahead with the fix below.
 
 ![check for updates](https://images.drivereasy.com/wp-content/uploads/2019/09/check-for-updates.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) If there are updates available, you can click**Download** , then follow the on-screen directions to finish installing.
 
 ![update Windows](https://images.drivereasy.com/wp-content/uploads/2019/09/image-970.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or if it says**You’re up to date** , just click**Check for updates** . Windows will start searching for available updates and automatically download and install the updates if there are any.
 
  Once you’ve updated your system, perform a complete shutdown and restart your PC, then see if the issue is fixed.
@@ -135,9 +137,6 @@ If the problem still persists, then go ahead with the fix below.
 
 ![update driver](https://images.drivereasy.com/wp-content/uploads/2019/09/image-975.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  Or you can also click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 
  4) Restart your PC and try to run your game on Epic Games Launcher to see if it works.
@@ -175,6 +174,10 @@ If the problem still persists, then go ahead with the fix below.
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 8: Install the latest game patch
 
  Gearbox Software keeps releasing game patches to fix bugs and improve gaming performance. It’s possible that a new patch might be able to fix Borderlands 3 not launching issue.
@@ -195,34 +198,26 @@ If the problem still persists, then go ahead with the fix below.
 
 ![open microsoft services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1002.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Select the**Startup** tab and click**Open Task Manager** .
 
 ![open Start up](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1003.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) Under the**Startup** tab, select**each** startup item and then click**Disable** .
 
 ![disable start up services](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1019.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Click**Apply** \>**OK** .
 
 ![open start up settings](https://images.drivereasy.com/wp-content/uploads/2020/09/strat-up-apps.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) Restart your PC and launch Borderland 3 to see if the game can launch normally.
 
  If so, congrats! However, you’ll need to find out the problematic software. Here is how to do it:  
@@ -236,8 +231,9 @@ No advertising on the website.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 10: Run system file checker
 
  Missing or damaged system files may lead to Borderlands not launching. To fix this problem, you can use the**system file checker** tool of Windows to check for any file corruption and thereby repair it.
@@ -246,10 +242,6 @@ No advertising on the website.
 
 ![borderlands won't launch open cmd](https://images.drivereasy.com/wp-content/uploads/2019/09/cmd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
  2) Click**Yes** when you are prompted for permission.
 
  3) In the Command Prompt window, type the following command (**note** that there’s a space between**sfc** and**/** ) and press**Enter** .
@@ -261,8 +253,9 @@ sfc /scannow
 ![not launching](https://images.drivereasy.com/wp-content/uploads/2019/09/verification-image.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) When the verification is finished, you may receive the following messages:
 
 * **Windows Resource Protection did not find any integrity violations** .  
@@ -274,18 +267,6 @@ sfc /scannow
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 11: Reinstall the game
 
  If none of the fixes above works for you, you may need to try reinstalling the game to solve this problem.
@@ -295,6 +276,10 @@ sfc /scannow
  2) Type**appwiz.cpl** and press**Enter** .
 
 ![borderlands 3 not launching fix](https://images.drivereasy.com/wp-content/uploads/2019/09/image-998.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click**Borderlands 3** , then click**Uninstall** .
 
@@ -314,8 +299,6 @@ sfc /scannow
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -323,4 +306,17 @@ sfc /scannow
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-capture-clean-uninterrupted-media-snapshots/"><u>[New] Capture Clean, Uninterrupted Media Snapshots</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210237038-9781885928320-alchemy-unveiled/"><u>Alchemy Unveiled | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/error-code-80cu70057-in-call-of-duty-black-ops-cold-war-masterful-fix-steps/"><u>Error Code 80Cu70057 in Call of Duty Black Ops Cold War - Masterful Fix Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-it-persistent-issues-with-thunder-tier-one-software-stability-in-windowsmac-os/"><u>Fix It: Persistent Issues with Thunder Tier One Software Stability in Windows/Mac OS</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1723862770633-get-your-hands-on-the-budget-friendly-240hz-acer-nitro-gaming-monitor-for-just-a-bargain-price-of-159/"><u>Get Your Hands on the Budget-Friendly 240Hz Acer Nitro Gaming Monitor for Just a Bargain Price of $159!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-getting-civilization-vi-running-smoothly-on-the-latest-microsoft-os-windows-11/"><u>Guide to Getting Civilization VI Running Smoothly on the Latest Microsoft OS, Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-yakuza-6-pc-game-crashes-and-play-smoothly/"><u>How to Fix Yakuza 6 PC Game Crashes and Play Smoothly?</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-a24-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy A24 FRP</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-easy-ways-to-manage-your-realme-gt-5-location-settings-drfone-by-drfone-virtual/"><u>In 2024, Easy Ways to Manage Your Realme GT 5 Location Settings | Dr.fone</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/killer-e2500-network-controller-software-free-downloads/"><u>Killer E2500 Network Controller Software - FREE Downloads</u></a></li>
+</ul></div>
 

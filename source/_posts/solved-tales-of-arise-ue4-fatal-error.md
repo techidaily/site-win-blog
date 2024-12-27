@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Tales of Arise UE4 Fatal Error"
-date: 2024-08-23T12:39:36.458Z
-updated: 2024-08-24T12:39:36.458Z
+date: 2024-12-25T16:35:25.170Z
+updated: 2024-12-27T16:22:09.849Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  But don’t worry if you happen to be one of them. In this tutorial, we’ll guide you through some working fixes and help you get back to the Hall of the Gods asap.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -27,6 +31,10 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 2. [**Verify the integrity of game files**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 4. **[Install all Windows updates](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your PC specs meet the requirements
 
@@ -54,9 +62,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -67,9 +72,6 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
@@ -77,8 +79,9 @@ Here’s how:
 If this method doesn’t help, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -102,11 +105,12 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -123,14 +127,13 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Immortals Fenyx Rising.
@@ -145,8 +148,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +155,22 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-starting-point-auditions-approach-to-soft-volume-increase/"><u>[New] Starting Point Audition's Approach to Soft Volume Increase</u></a></li>
+<li><a href="https://win-blog.techidaily.com/accelerate-your-gaming-experience-tackle-slow-steam-problems-now/"><u>Accelerate Your Gaming Experience - Tackle Slow Steam Problems Now</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/artificial-intelligence-the-magic-of-merging-imagination-with-real-life/"><u>Artificial Intelligence: The Magic of Merging Imagination with Real Life</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/expert-strategies-for-addressing-file-non-existence-errors-in-technology-setups/"><u>Expert Strategies for Addressing File Non-Existence Errors in Technology Setups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722986815497-expert-tips-to-resolve-your-oculus-link-screen-problem-fast/"><u>Expert Tips to Resolve Your Oculus Link Screen Problem Fast</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fifa-22-pc-stability-problem-solved-end-game-lag-and-crashes-now/"><u>FIFA 22 PC Stability Problem Solved: End Game Lag and Crashes Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-how-to-stop-rainbow-six-extraction-from-freezing-on-your-pc/"><u>Fixes and Solutions: How to Stop Rainbow Six Extraction From Freezing on Your PC</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-step-by-step-guide-to-curved-image-design/"><u>In 2024, A Step-by-Step Guide to Curved Image Design</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/interoperable-iptv-networking/"><u>Interoperable IPTV Networking</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/is-it-possible-to-use-miracast-with-apple-iphone-15-pro-drfone-by-drfone-ios/"><u>Is it Possible to Use Miracast with Apple iPhone 15 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-doom-eternal-crashes-step-by-step-troubleshooting-guide/"><u>Solving DOOM Eternal Crashes: Step-by-Step Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-overcome-constant-freezing-and-crashes-in-darkest-dungeon-2-on-windows/"><u>Steps to Overcome Constant Freezing and Crashes in Darkest Dungeon 2 on Windows</u></a></li>
+<li><a href="https://win-trending.techidaily.com/transform-your-pdf-into-a-beautifully-bound-booklet-in-minutes-using-flip-builder-learn-more-at-flipbuildercom/"><u>Transform Your PDF Into a Beautifully Bound Booklet in Minutes Using Flip Builder [Learn More at FlipBuilder.com]</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unique-iphone-photo-style-adding-dynamic-motion-effects-for-2024/"><u>Unique iPhone Photo Style Adding Dynamic Motion Effects for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/virtual-worlds-contrasted-metaverse-vs-multiverse-analysis/"><u>Virtual Worlds Contrasted Metaverse vs Multiverse Analysis</u></a></li>
+</ul></div>
 

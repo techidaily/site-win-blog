@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting the Persistent Freeze in Borderlands 3 - Expert Solutions Revealed
-date: 2024-08-27T21:27:12.484Z
-updated: 2024-08-28T21:27:12.484Z
+date: 2024-12-24T16:16:29.625Z
+updated: 2024-12-27T16:21:07.276Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/380c0bd99725d564144c554e3495dbd9ae260fd18
 **Scavengers** launched into early access in April 2021\. However, just like other games under development, the game has its fair share of issues, with**crashing** problem being the most common.
 
  So far, we have received player reports about **the game crashing on startup, after loading screen, mid-game, Unreal Engine crashes** etc. If you’re met with the same issue, don’t worry. Frustrating as it is, it isn’t too hard to fix at all…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Can I run Scavengers?
 
@@ -41,9 +45,17 @@ To check the specs of your PC:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/display-1.png)
 4. Close DirectX.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If your PC specs have been up to the mark but Scavengers continues to crash, please move on to **Fix 2** , below to begin troubleshooting.
 
  If your PC fails to meet any one of these requirements, you may need to update your system or upgrade your components.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix Scavengers Crashing on PC
 
@@ -68,15 +80,13 @@ To check the specs of your PC:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 5. Launch Scavenger and see if the crashing issue is resolved. If yes, then congrats! If it persists, please try**Fix 2** , below.
 
@@ -97,9 +107,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Has the Scavenger crashing issue been fixed? If yes, then great. If it’s no joy, please try**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update Unreal Engine 4 (if you’re on Epic Games Launcher)
 
  If Scavengers crashes while you’re on Unreal Engine, it is possible that the current version of Unreal Engine on your launcher is faulty or corrupt, causing Scavenger to crash. In this case, you can check for a newer Unreal Engine, install it to see if it solves your woe.
@@ -112,9 +119,6 @@ Here is how to do it:
 3. If there’s a more up-to-date version, select the latest version and click**Install** .
 4. Fire up Scavenger and see if you can play properly. If it still doesn’t give you luck, please head on to**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Update DirectX
 
  Your game of Scavengers may crash if you don’t have the latest version of DirectX. So you should check on your PC whether you have the latest version; if you don’t, you should update it.
@@ -130,13 +134,14 @@ Here is how to do it:
 1. On your keyboard, press **the Windows logo key** and type **check for updates** , then click on **Check for updates** as it pops up as a matching result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1-1.png)
 2. Click **Check for updates** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
 3. Wait a while for Windows to check and install the updates (DirectX 12 included).
 
 With the latest DirectX, check to see if Scavengers still crashes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Close background apps
 
@@ -150,9 +155,11 @@ Here’s how to close background apps:
 2. Select the **Startup**  tab, then right-click on each item and click **Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123-1.png)
 3. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Run Scavengers on your PC to see if the issue is solved. If it still persists, please try**Fix 6** , below.
 
 ### Fix 6: Stop overclocking
@@ -173,8 +180,6 @@ Here’s how to close background apps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -182,4 +187,23 @@ Here’s how to close background apps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-unlock-potential-the-15-best-tools-for-transforming-fb-revenue/"><u>[New] 2024 Approved Unlock Potential The 15 Best Tools for Transforming FB Revenue</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-story-savers-unleashed-instagrams-free-limit-breaker-for-2024/"><u>[Updated] Story Savers Unleashed Instagram's Free Limit Breaker for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-transform-viewership-elevate-your-live-stream-game-with-just-a-few-supporters/"><u>[Updated] Transform Viewership Elevate Your Live Stream Game with Just a Few Supporters</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-the-code-effective-solutions-for-preventing-persistent-overwatch-cuffing-of-the-game-on-your-pc/"><u>Cracking the Code: Effective Solutions for Preventing Persistent Overwatch Cuffing of the Game on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2s-beyond-light-pc-gameplay-issues-resolved-updated-fixes/"><u>Destiny 2'S Beyond Light PC Gameplay Issues Resolved - Updated Fixes!</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/directx-12-on-windows-11-a-user-friendly-guide-to-download-and-installation/"><u>DirectX 12 on Windows 11: A User-Friendly Guide to Download and Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-your-discomfort-expert-solutions-for-eliminating-display-shaking-problems/"><u>End Your Discomfort: Expert Solutions for Eliminating Display Shaking Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-get-your-msi-mystic-light-functioning-on-pc/"><u>Fixing the Issue: How to Get Your MSI Mystic Light Functioning on PC</u></a></li>
+<li><a href="https://common-error.techidaily.com/guide-to-overcome-undetected-bluetooth-gadgets-problem-in-windows-10-computers/"><u>Guide to Overcome Undetected Bluetooth Gadgets Problem in Windows 10 Computers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/in-2024-how-to-add-music-to-a-video-on-iphone-for-free/"><u>In 2024, How to Add Music to a Video on iPhone for FREE</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/jokejuggernaut-top-humor-tool/"><u>JokeJuggernaut - Top Humor Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-metro-exodus-pc-enhanced-editions-frequent-crashes/"><u>Resolved: Fixes for Metro Exodus PC Enhanced Editions Frequent Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-display-issues-defeating-the-darkness-on-your-destiny-2-screen/"><u>Solving Display Issues: Defeating the Darkness on Your Destiny 2 Screen</u></a></li>
+<li><a href="https://some-skills.techidaily.com/supreme-speakers-showcase-selector-for-2024/"><u>Supreme Speakers' Showcase Selector for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/eading-titles-in-rapid-online-content-expansion/"><u>The Leading Titles in Rapid Online Content Expansion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-gta-v-crashes-efficiently/"><u>Troubleshooting Tips: Resolving GTA V Crashes Efficiently</u></a></li>
+</ul></div>
 

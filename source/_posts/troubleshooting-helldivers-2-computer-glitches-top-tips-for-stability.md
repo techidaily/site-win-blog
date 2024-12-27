@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Helldivers 2 Computer Glitches – Top Tips for Stability
-date: 2024-08-23T12:43:37.957Z
-updated: 2024-08-24T12:43:37.957Z
+date: 2024-12-25T16:16:16.782Z
+updated: 2024-12-27T16:09:15.960Z
 tags:
   - win11
   - win10
@@ -57,14 +57,25 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aa6vSdt1elM?si=qPhmO-hoWVIPBnnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Temporarily disable your antivirus
 
@@ -79,9 +90,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -90,19 +98,16 @@ If this method doesn’t help, go ahead with the next fix below.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
 4. Delete the**Preferences** and**Caches** folder.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -110,19 +115,20 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
@@ -143,8 +149,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +156,26 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/updated-create-harmonious-hits-a-step-by-step-guide-to-making-youtube-playlists-online-and-app-for-2024/"><u>[Updated] Create Harmonious Hits A Step-by-Step Guide to Making YouTube Playlists Online & App for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-the-top-ten-video-call-programs-for-phones-and-pc-users/"><u>2024 Approved The Top Ten Video Call Programs for Phones & PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-valhalla-launch-clarified-heres-what-you-need-to-know/"><u>Assassin's Creed Valhalla Launch Clarified – Here's What You Need to Know</u></a></li>
+<li><a href="https://discover-great.techidaily.com/discover-multiplecam-the-leading-choice-for-real-time-video-broadcasting-and-digital-webcams/"><u>Discover MultipleCam – The Leading Choice for Real-Time Video Broadcasting and Digital Webcams</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/diy-repairs-how-to-restore-functionality-on-tiktok/"><u>DIY Repairs: How to Restore Functionality on TikTok</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-when-persona-3-fes-wont-start-up/"><u>Effective Solutions When Persona 3: FES Won't Start Up</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-for-fixing-football-manager-2021s-stuck-loading-screens-what-works-and-why/"><u>Expert Advice for Fixing Football Manager 2021'S Stuck Loading Screens – What Works and Why</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-legendaries-are-in-pokemon-platinum-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>In 2024, What Legendaries Are In Pokemon Platinum On Samsung Galaxy A15 4G? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/locate-a-missing-or-stolen-iphone-a-step-by-step-guide-with-find-my/"><u>Locate a Missing or Stolen iPhone: A Step-by-Step Guide with Find My</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002277627-maplestory-wont-open-discover-solutions-and-workarounds/"><u>MapleStory Won't Open? Discover Solutions and Workarounds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/naraka-bladepoint-performance-issues-resolved-boost-your-fps-and-eliminate-stuttering/"><u>Naraka: Bladepoint Performance Issues Resolved? Boost Your FPS and Eliminate Stuttering</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-anthems-infinite-launch-loop-a-step-by-step-solution/"><u>Overcoming Anthem's Infinite Launch Loop - A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rapid-resolution-enhancing-smooth-playthrough-of-assassins-creed-valhalla/"><u>Rapid Resolution: Enhancing Smooth Playthrough of Assassin's Creed: Valhalla</u></a></li>
+<li><a href="https://win-able.techidaily.com/resolved-fixing-destiny-2-server-disconnection-issues/"><u>Resolved: Fixing 'Destiny 2 Server Disconnection Issues'</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ight-on-shared-screen-space-for-2024/"><u>Spotlight on Shared Screen Space for 2024</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209528164-9780753733561-tiny-healer-meditation/"><u>Tiny Healer: Meditation | Free Book</u></a></li>
+<li><a href="https://discover-excellent.techidaily.com/top-rated-lenovo-os-transition-tool-for-seamless-upgrades-to-windows-111087/"><u>Top Rated Lenovo OS Transition Tool for Seamless Upgrades to Windows 11/10/8/7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/total-war-warhammer-3-pc-version-now-reliable-and-crash-free-update-details-inside/"><u>Total War: Warhammer 3 PC Version Now Reliable and Crash-Free - Update Details Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-addressing-far-cry-6-pc-stability-issues-effectively/"><u>Troubleshooting Guide: Addressing Far Cry 6 PC Stability Issues Effectively</u></a></li>
+</ul></div>
 

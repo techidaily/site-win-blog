@@ -1,7 +1,7 @@
 ---
 title: Top 5 Solutions for Resolving 'Zoom Can't Play Video' Issues
-date: 2024-08-23T12:41:26.923Z
-updated: 2024-08-24T12:41:26.923Z
+date: 2024-12-25T16:33:19.662Z
+updated: 2024-12-27T16:23:24.816Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 5. [Update your system](https://tools.techidaily.com/drivereasy/download/)
 6. [Reinstall Discord](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Check the privacy settings
 
  Make sure your camera was allowed to the Discord. Many people didn’t open the toggle and cause the camera not working issue.
@@ -35,6 +39,11 @@ Discord is a popular chatting platform for gamers. If you have met your device c
 1. Press the**Windows logo key + I** and click**Privacy** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_9-57-31.jpg)
 2. Click**Camera** in the left panel.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Make sure the toggle under**Allow apps to access your camera** is on.
 4. Click the**Change** button, check the**Camera access for this device** is on.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-02-43.jpg)
@@ -55,10 +64,6 @@ Here’s how…
 
 If it doesn’t help, please move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ### Fix 3: Close all the background app
 
  One common reason for the Discord camera not working issue is your camera it’s used in the background by other applications so it’s not available to Discord. Also, kill unnecessary background programs will give Discord more resources and prevent potential conflicts.
@@ -67,13 +72,11 @@ If it doesn’t help, please move to the next fix.
 2. Choose the background app and then click**End task** to shut it down. Repeat the process until you’ve closed all the background apps.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-26-59.jpg)
 3. Launch Discord camera to check.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update camera driver
 
  If your camera driver is not properly configured, outdated, or corrupt, it won’t work on your computer normally. In this situation, updating the driver may solve the problem.
@@ -102,18 +105,12 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update your system
 
  The outdated operating system could be the reason for the camera not working problem, the new version may have a patch to fix bugs. So update your system may help you fix the problem.
@@ -121,9 +118,11 @@ OR
 1. Press the**Windows logo key + I** and click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-1.jpg)
 2. Click **Check for updates** .  
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![click Check for updates to see if your computer is up-to-date or if there are any updates available](https://images.drivereasy.com/wp-content/uploads/2020/10/click-check-for-updates-check-for-Windows-Updates.jpg)
 3. Update the system if there’s an available version.
 4. Follow the on-screen information to finish the process. Reboot your computer and check the camera.
@@ -138,21 +137,30 @@ If your camera is still not working on Discord, move to the next fix.
 2. Press the**Windows logo key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. Find Discord and click to expand it. Click the**Uninstall** button.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-40-47.jpg)
 4. Follow the on-screen instructions to finish the process.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Press the**Windows logo key + R** to open the Run box and type**%appdata%** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-42-04.jpg)
 6. Find the Discord folder and delete it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-01.jpg)
 7. Open the Run box and type**%LocalAppData%** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-44-33.jpg)
 8. Find the Discord folder and delete it.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-05_10-45-16.jpg)
 9. Restart your computer.
 10. Go to the[Discord official website](https://discord.com/) and download the latest version of Discord.
@@ -170,8 +178,6 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +185,22 @@ If your camera is still not working on Discord, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-effective-strategies-for-google-voice-call-saves/"><u>[Updated] Effective Strategies for Google Voice Call Saves</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-how-to-boost-your-instagram-vids-visibility/"><u>[Updated] In 2024, How to Boost Your Instagram Vids' Visibility</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-maximize-your-money-with-these-top-10-simple-and-strategic-youtube-biz-channels-for-2024/"><u>[Updated] Maximize Your Money with These Top 10 Simple and Strategic YouTube Biz Channels for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-economical-action-filmmaking-gear-for-the-aspiring-pro/"><u>2024 Approved Economical Action Filmmaking Gear for the Aspiring Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-to-follow-solutions-to-correct-the-frequent-ring-of-elysium-game-malfunctions-and-crashes/"><u>Easy-to-Follow Solutions to Correct the Frequent Ring of Elysium Game Malfunctions and Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-for-persona-4-golden-stutter-and-glitches/"><u>Fixes & Solutions for Persona 4 Golden Stutter and Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013200651-fortnite-trouble-fix-load-failures-fast-with-these-simple-solutions/"><u>Fortnite Trouble? Fix Load Failures Fast with These Simple Solutions</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-and-fixing-windows-registry-failsafe/"><u>Navigating and Fixing Windows Registry Failsafe</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-blackout-effective-techniques-to-fix-fortnite-screen-glitches-on-windows/"><u>Overcoming the Blackout: Effective Techniques to Fix Fortnite Screen Glitches on Windows</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/quick-fix-how-to-setup-and-use-bluetooth-devices-with-windows-7/"><u>Quick Fix: How To Setup and Use Bluetooth Devices With Windows 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-and-solutions-for-assassins-creed-valhalla-stuttering-issues-on-pc/"><u>Resolved: Fixes and Solutions for Assassin's Creed Valhalla Stuttering Issues on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-troubleshooting-guide-for-star-wars-jedi-fallen-order-on-your-desktop-computer/"><u>Solved! Troubleshooting Guide for Star Wars Jedi: Fallen Order on Your Desktop Computer</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/step-by-step-guide-to-converting-and-downloading-tv-shows-from-any-source-into-high-quality-movies-mp4-mov-for-both-mac-and-windows-users/"><u>Step-by-Step Guide to Converting and Downloading TV Shows From Any Source Into High-Quality Movies (MP4, MOV) for Both Mac & Windows Users</u></a></li>
+<li><a href="https://fox-that.techidaily.com/step-by-step-addressing-random-browser-history-entries-on-ios-screen-time-monitoring/"><u>Step-by-Step: Addressing Random Browser History Entries on iOS Screen Time Monitoring</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-premiere-pro-compatibility-what-you-need-to-know-about-system-requirements/"><u>Updated Premiere Pro Compatibility What You Need to Know About System Requirements</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: XCOM 2 No Longer Crashes on Windows – Solution Found!
-date: 2024-08-23T12:41:49.841Z
-updated: 2024-08-24T12:41:49.841Z
+date: 2024-12-21T16:08:03.181Z
+updated: 2024-12-27T16:21:28.674Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 | Graphics card | 2GB ATI Radeon HD 7970, 2GB NVIDIA GeForce GTX 770 or better |
 | Storage       | 45 GB available space                                        |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 5 fixes that have helped many gamers solve their crash problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -56,6 +60,10 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 
  If this resolves your problem, you may need to replace your antivirus software or contact the vendor of the software for advice.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game cache
 
  If your game crashes on XCOM 2 startup, it’s possible that the installation of XCOM 2 is corrupted. Then you can use this fix to redownload files and fix crashes.
@@ -65,22 +73,13 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 3. Under the**LOCAL FILES** tab, click**Verify integrity of game cache** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify.jpg)
 4. After the process, relaunch the game and check the crash will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Change your save files location
 
  If Fix 2 can’t solve your problem, the saved file could be the culprit. When you delete the save file with modded content, the crash can happen. You can transfer the save files into a different location for safekeeping.
 
  The save files should be located at: “C:\\Users\\YOUR USERNAME\\Documents\\my games\\XCOM2\\XComGame\\SaveData”. Copy files and move to elsewhere and then delete the original SaveData folder.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable Steam Overlay
 
  The Steam overlay is a piece of Steam user interface that can let users access friend list, web browser and in-game DLC purchasing. This feature is very useful but sometimes it can be the reason for game crash. You can disable it and check whether it could solve the crashes.
@@ -89,13 +88,15 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Right-click on XCOM 2 and click**Properties** .
 3. In the **GENERAL**  tab, uncheck “**Enable the Steam Overlay while in-game** “.![](https://images.drivereasy.com/wp-content/uploads/2019/08/over.jpg)
 4. Relaunch the game and check whether the crash will appear or not.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oB9V7rZzotw?si=d4xrCbq1jKHXGAWN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your driver
 
  Missing or outdated drivers may also trigger the game crash issues. In this case, you need to update your drivers to resolve this issue.
@@ -118,9 +119,11 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check the crash will appear or not.
 
@@ -136,8 +139,6 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -145,4 +146,21 @@ It’s really annoying to have**XCOM 2 crashed** during the startup or even wors
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-constructing-an-inspirational-tiktok-end-screen/"><u>[New] Constructing An Inspirational TikTok End Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-dota-underlords-keeps-crashing/"><u>[SOLVED] Dota Underlords Keeps Crashing</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-finding-the-best-mp4-recorder-on-market/"><u>[Updated] 2024 Approved Finding the Best MP4 Recorder on Market</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-navigating-the-metaverse-with-elite-headsets/"><u>[Updated] In 2024, Navigating the Metaverse with Elite Headsets</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/asus-zenbook-pro-duo-comprehensive-analysis-of-a-large-display-compromise-rich-portable-computer/"><u>Asus ZenBook Pro Duo - Comprehensive Analysis of a Large-Display, Compromise-Rich Portable Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-fallout-3-stalling-problems-for-a-smoother-windows-11-experience/"><u>Banish Fallout 3 Stalling Problems for a Smoother Windows 11 Experience</u></a></li>
+<li><a href="https://common-error.techidaily.com/banish-the-shadows-effective-fixes-for-black-screens-on-google-chrome/"><u>Banish the Shadows: Effective Fixes for Black Screens on Google Chrome</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003306653-digital-doors-reopen-how-we-fixed-the-offline-status-of-your-online-profile/"><u>Digital Doors Reopen: How We Fixed the Offline Status of Your Online Profile</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/eu-ai-regulation-impact-on-chatgpt/"><u>EU AI Regulation: Impact on ChatGPT</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ffxiv-update-woes-how-to-ensure-you-have-the-latest-game-version-without-errors/"><u>FFXIV Update Woes: How to Ensure You Have the Latest Game Version Without Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007837145-pc-gamers-rejoice-the-dread-hunger-crash-glitch-is-finally-solved/"><u>PC Gamers Rejoice - The Dread Hunger Crash Glitch Is Finally Solved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-hogwarts-legacy-initialization-problems-a-step-by-step-guide/"><u>Solving Hogwarts Legacy Initialization Problems: A Step-by-Step Guide</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/step-by-step-guide-creating-notes-on-the-web-with-microsoft-edge/"><u>Step-by-Step Guide: Creating Notes on the Web with Microsoft Edge</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/the-ultimate-guide-to-vsdc-and-its-rivals/"><u>The Ultimate Guide to VSDC and Its Rivals</u></a></li>
+</ul></div>
 

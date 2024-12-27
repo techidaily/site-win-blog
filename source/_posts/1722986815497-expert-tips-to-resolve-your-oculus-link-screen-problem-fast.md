@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Resolve Your Oculus Link Screen Problem Fast
-date: 2024-08-23T12:44:24.625Z
-updated: 2024-08-24T12:44:24.625Z
+date: 2024-12-23T16:11:12.177Z
+updated: 2024-12-27T16:07:20.298Z
 tags:
   - win11
   - win10
@@ -44,6 +44,10 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After the repair completes, test if Oculus Link is back on track. If not, move on to the second fix.
 
 ### Fix 2 – Update your device drivers
@@ -62,13 +66,14 @@ There are mainly two ways you can update the driver:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Adjust the resolution
 
@@ -80,16 +85,15 @@ There are mainly two ways you can update the driver:
 4. Lower the**Encode Resolution Width** or you can set the value according to[Oculus’s recommendations](https://forums.oculusvr.com/community/discussion/83561/oculus-link-resolution-with-v12) . (Quite a few users fix the issue by setting the Encode Resolution Width to 2784.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
 5. Restart your PC for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Reboot your Oculus headset and plug it back to the PC.
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Disable in-game overlay
 
  More often than not, disabling the in-game overlay feature can make your games or programs run more smoothly. So you could also give it a shot. Below we’ll show you how to do this specifically on GeForce Experience.
@@ -98,14 +102,17 @@ There are mainly two ways you can update the driver:
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
 
 ### Fix 5 – Opt out of Public Test Channel
@@ -123,8 +130,9 @@ It’s suggested you opt out of the Beta mode and here’s how:
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6 – Use the dedicated graphics card
 
  You’ll need to plug your Oculus headset into the dedicated graphics card or else the black screen occurs. If the connection is correct and you still have trouble using Oculus Link, follow the steps below to configure the NVIDIA settings.
@@ -137,8 +145,9 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/1-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For users who have an AMD dedicated graphics card, here is a guide on[How to Configure Switchable Graphics using Radeon Settings](https://www.amd.com/en/support/kb/faq/dh-017) .
 
 Restart Oculus Link and see how it works.
@@ -156,8 +165,6 @@ Restart Oculus Link and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +172,26 @@ Restart Oculus Link and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-videos.techidaily.com/new-block-automated-youtube-content-triggers/"><u>[New] Block Automated YouTube Content Triggers</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-vdsc-vidmaster-tale-a-comprehensive-evaluation-for-2024/"><u>[New] VDSC VidMaster Tale A Comprehensive Evaluation for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-advanced-strategies-for-recording-and-saving-gameplay-on-ps4-for-2024/"><u>[Updated] Advanced Strategies for Recording and Saving Gameplay on PS4 for 2024</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-budget-desktop-encoder-hacks-and-tips/"><u>[Updated] In 2024, Budget Desktop Encoder Hacks and Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-from-sound-to-web-crafting-a-standout-podcast-rss-feed/"><u>2024 Approved From Sound to Web Crafting a Standout Podcast RSS Feed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-nba-2k21s-persistent-black-load-display-for-a-seamless-gaming-experience-2024-solution/"><u>Bypassing NBA 2K21's Persistent Black Load Display for a Seamless Gaming Experience (2024 Solution)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-enduring-chrome-stalls-on-windows-11-using-easy-techniques/"><u>Guide: Enduring Chrome Stalls on Windows 11 Using Easy Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-crashes-in-star-citizen-when-running-on-windows-pcs/"><u>How to Fix Crashes in Star Citizen When Running on Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999753812-how-to-stop-gas-station-simulator-from-keep-failing-on-your-computer/"><u>How to Stop Gas Station Simulator From Keep Failing on Your Computer!</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-unlock-icloud-activation-lock-and-icloud-account-from-iphone-12-pro-max-by-drfone-ios/"><u>How to Unlock iCloud Activation Lock and iCloud Account From iPhone 12 Pro Max?</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-best-pokemons-for-pvp-matches-in-pokemon-go-for-vivo-y100i-power-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Best Pokemons for PVP Matches in Pokemon Go For Vivo Y100i Power 5G | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-vivo-s17-prowithwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Vivo S17 Prowith/without a PC</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/the-ultimate-ranking-8-best-ios-compatible-daws-for-ipad-and-iphone-enthusiasts-for-2024/"><u>The Ultimate Ranking 8 Best iOS-Compatible DAWs for iPad and iPhone Enthusiasts for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-your-steam-sign-in-problem-successful-techniques-that-work/"><u>Troubleshoot Your Steam Sign-In Problem: Successful Techniques That Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-making-steam-acknowledge-controllers-under-windows/"><u>Troubleshooting Guide: Making Steam Acknowledge Controllers Under Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solving-the-corsair-icue-compatibility-issues-in-windows-11/"><u>Troubleshooting Guide: Solving the Corsair iCUE Compatibility Issues in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-to-resolve-dread-hunger-game-crashes-on-personal-computers/"><u>Troubleshooting Steps to Resolve 'Dread Hunger' Game Crashes on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fix-for-black-screens-in-halo-infinite-a-step-by-step-walkthrough/"><u>Ultimate Fix for Black Screens in Halo Infinite: A Step-by-Step Walkthrough</u></a></li>
+<li><a href="https://facebook.techidaily.com/unseen-content-how-to-disable-auto-feed-suggestions/"><u>Unseen Content: How to Disable Auto-Feed Suggestions</u></a></li>
+</ul></div>
 

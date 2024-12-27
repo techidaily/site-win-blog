@@ -1,7 +1,7 @@
 ---
 title: How to Fix Modern Warfare Game Crashes and Lagging on Your PC
-date: 2024-08-23T12:41:09.437Z
-updated: 2024-08-24T12:41:09.437Z
+date: 2024-12-25T16:04:55.312Z
+updated: 2024-12-27T16:20:45.783Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 4. [Change the screen refresh rate](https://tools.techidaily.com/drivereasy/download/)
 5. [Use windowed mode](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 1: Check the cable
 
  Make sure your device has a stable and constantly power supply. The WOW screen flickering issue can be caused by the loose wire between the monitor and the computer. So, plug the cable tightly both at the monitor end and he computer end before trying any fixes.
@@ -43,23 +47,22 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 Restart your computer for the changes to take effect.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Rolling back your driver
 
  If updating the driver doesn’t work for you, you may need to try this fix, especially when you’re an NVIDIA user. Some users figured out the issue was related to NVIDIA drivers, if the latest driver doesn’t fix the flickering issue, rolling back to an older version of the driver would work. Though it could cause serious loss of optimization for other games and applications.
@@ -69,9 +72,11 @@ Restart your computer for the changes to take effect.
 3. Right-click on the Start button and select**Device Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
@@ -90,9 +95,11 @@ Restart your computer for the changes to take effect.
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Restart your computer and check to see if the problem resolves.
 
 ### Method 5: Use windowed mode
@@ -103,9 +110,6 @@ Restart your computer for the changes to take effect.
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -118,8 +122,6 @@ Restart your computer for the changes to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -127,4 +129,21 @@ Restart your computer for the changes to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-knowledge.techidaily.com/new-frolics-of-fun-dissecting-the-goofy-movie/"><u>[New] 'Frolics of Fun' - Dissecting 'The Goofy Movie'</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-harness-the-sun-and-bulbs-for-stellar-iphone-photos/"><u>[Updated] 2024 Approved Harness the Sun and Bulbs for Stellar Iphone Photos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ace-the-first-hour-in-dayz-with-expert-fast-track-looting-tactics/"><u>Ace the First Hour in DayZ with Expert Fast-Track Looting Tactics</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/canon-mf7e-3s-series-get-your-windows-driver-downloads-now/"><u>Canon MF7e-3s Series - Get Your Windows Driver Downloads Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/explore-the-fixed-broccoli-bug-destiny-2s-sensational-2024-crash-correction/"><u>Explore the Fixed Broccoli Bug - Destiny 2'S Sensational 2024 Crash Correction</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-fortnite-stuttering-issue-on-pc/"><u>Fix Fortnite Stuttering Issue on PC</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/fraps-to-video-an-evaluation-review/"><u>Fraps to Video An Evaluation Review</u></a></li>
+<li><a href="https://windows11.techidaily.com/harnessing-powertoys-for-seamless-international-mouse-usage/"><u>Harnessing PowerToys for Seamless International Mouse Usage</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/in-2024-drone-review-parrots-advanced-ar-model-20/"><u>In 2024, Drone Review Parrot's Advanced AR Model 2.0</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/learn-to-cut-out-the-unwanted-a-guide-to-erasing-background/"><u>Learn to Cut Out the Unwanted A Guide to Erasing Background</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resilience-redefined-embracing-and-thriving-through-eternal-cycles-of-adversity-for-people-of-color/"><u>Resilience Redefined: Embracing and Thriving Through Eternal Cycles of Adversity for People of Color</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issues-with-far-cry-6-starting-up-on-personal-computers/"><u>Resolved: Issues with Far Cry 6 Starting Up on Personal Computers</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/self-guided-techniques-for-clearing-data-off-of-your-iphone-device/"><u>Self-Guided Techniques for Clearing Data Off of Your iPhone Device</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/ultimate-guide-repairing-damaged-handbrake-dvd-rips/"><u>Ultimate Guide: Repairing Damaged Handbrake DVD Rips</u></a></li>
+</ul></div>
 

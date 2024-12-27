@@ -1,7 +1,7 @@
 ---
 title: "Step-by-Step Solutions for Corrrecting Error Code E66ac in NBA 2MyTeam 24: Top Tips & Tricks"
-date: 2024-08-23T12:43:03.654Z
-updated: 2024-08-24T12:43:03.654Z
+date: 2024-12-23T16:29:27.687Z
+updated: 2024-12-27T16:30:36.277Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 * [Disable all overlays](https://tools.techidaily.com/drivereasy/download/)
 * [Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Run the game as administrator
 
  It’s very likely that Nioh 2 crashing is caused by a lack of administrative rights. Running your game/ game launcher as admin is the first method you should try when your game crashes or not fails to launch. Here’s how:
@@ -42,6 +46,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
  2) Right-click**nioh2** executable file, and select**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Properties-Nioh-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Go to the **Compatibility** tab. Then, tick the box next to Run this program as an administrator and click **Apply** \> **OK** .
 
@@ -58,8 +66,9 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/image-1.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  For antivirus software, however, simply disabling it won’t work sometimes. If that’s your case, you can either uninstall it temporarily or add Nioh 2 to its exception list.
 
 ## Fix 3: Clean reinstall the graphics card driver
@@ -86,17 +95,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
  2) Click the **Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You’ll get **full support**  and a **30-day money back guarantee** .)
 
 3) Restart your computer for the changes to take effect.
@@ -116,23 +118,12 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/local-files-verify.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  It might take a few seconds for the process to complete. Once done, play Nioh 2 again to test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Install/repair Visual C++ files
 
  If the Nioh 2 keeps crashing even when you start it from the executable, try installing/repairing all the Visual C++ redistributable (both 86bit and 64bit).
@@ -141,9 +132,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/download-1200x330.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Run the downloaded files, and click **Install** (if you have already installed one, click **Repair** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Install.png)
@@ -154,16 +142,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 5) Once complete, restart your PC for it to take full effect.
 
 Play your game again and see if Nioh 2 not launching is resolved by now.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Fix 6: Disable all overlays
 
  Many players find that disabling all overlays, such as Steam overlay, Discord overlays hele solve the Nioh 2 crashing issue. Here’s how:
@@ -177,6 +159,10 @@ Play your game again and see if Nioh 2 not launching is resolved by now.
 4) Also, disable Discord Overlay and other overlay applications.
 
 Now launch your game, and see if it crashes again.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7: Perform a clean boot
 
@@ -192,17 +178,26 @@ Now launch your game, and see if it crashes again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
@@ -229,8 +224,6 @@ Now launch your game, and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +231,26 @@ Now launch your game, and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-instagrams-video-response-rate-how-to-increase-it/"><u>[New] Instagram's Video Response Rate How to Increase It</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-the-ultimate-collection-of-10-inspirational-movies-for-2024/"><u>[New] The Ultimate Collection of 10 Inspirational Movies for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-historical-deep-dives-from-youtubes-most-impactful-creators/"><u>[Updated] In 2024, Historical Deep Dives From YouTube's Most Impactful Creators</u></a></li>
+<li><a href="https://fox-that.techidaily.com/5-essential-troubleshooting-tips-when-your-iphone-cant-stay-connected-to-wi-fi/"><u>5 Essential Troubleshooting Tips When Your iPhone Can't Stay Connected to Wi-Fi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/aliens-fireteam-elite-for-pc-solutions-to-persistent-game-crash-issues/"><u>Aliens: Fireteam Elite for PC - Solutions to Persistent Game Crash Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/city-skylines-2-stability-fixes-for-a-seamless-gaming-experience-on-pc/"><u>City Skylines 2 Stability Fixes for a Seamless Gaming Experience on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-your-game-resolving-escape-from-tarkovs-pc-crashing-problem/"><u>Enhance Your Game: Resolving Escape From Tarkov's PC Crashing Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/evil-genius-2-troubleshooting-overcoming-startup-issues/"><u>Evil Genius 2 Troubleshooting: Overcoming Startup Issues</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-restore-voice-chat-functionality-in-phasmophobia-solved/"><u>How to Restore Voice Chat Functionality in Phasmophobia (Solved)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-boot-armored-core-vi-fires-of-rubicon-without-errors/"><u>How to Successfully Boot Armored Core VI: Fires of Rubicon Without Errors?</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-the-spectrum-enhanced-by-blades-newest-quad-hd-cameras/"><u>In 2024, The Spectrum Enhanced by Blade's Newest Quad-HD Cameras</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-game-expert-strategies-for-fixing-diablo-iv-stability-issues-across-all-consoles/"><u>Master the Game: Expert Strategies for Fixing Diablo IV Stability Issues Across All Consoles</u></a></li>
+<li><a href="https://driver-install.techidaily.com/maximize-windows-11-and-hp-laserjet-with-updated-drivers/"><u>Maximize Windows 11 & HP Laserjet with Updated Drivers</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/209859402-9788792980199-med-sai-baba-ved-min-side/"><u>Med Sai Baba ved Min Side | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezing-in-assassins-creed-odyssey-on-pc-top-tips-and-updates/"><u>No More Freezing in Assassin's Creed Odyssey on PC - Top Tips & Updates</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/pc-troubleshooting-guide-deciphering-double-impact-incidents/"><u>PC Troubleshooting Guide: Deciphering Double Impact Incidents</u></a></li>
+<li><a href="https://win11.techidaily.com/step-by-step-guide-to-repairing-windows-file-systems/"><u>Step-By-Step Guide to Repairing Windows File Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-overcoming-football-manager-2020-system-crashes-quickly/"><u>Troubleshooting Tips for Overcoming Football Manager 2020 System Crashes Quickly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-for-fixing-constant-fortnite-pc-crashes/"><u>Ultimate Troubleshooting Tips for Fixing Constant Fortnite PC Crashes</u></a></li>
+</ul></div>
 

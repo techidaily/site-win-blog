@@ -1,7 +1,7 @@
 ---
 title: "Mastering Stability: Overcoming the Frequent Crash Issue in Immortals of Fenyx Rising"
-date: 2024-08-23T12:46:04.578Z
-updated: 2024-08-24T12:46:04.578Z
+date: 2024-12-20T16:14:00.352Z
+updated: 2024-12-27T16:18:30.605Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/c9c3286561c0cb162a6f36b6b19f491a65ddd3daf
 After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title in 2020: Immortals Fenyx Rising. Though the engaging myths and puzzles make the game too fun to put down, many gamers have reported**game crashing issues** that stop them from exploring the open-world.
 
  But don’t worry if you happen to be one of them. In this tutorial, we’ll guide you through some working fixes and help you get back to the Hall of the Gods asap.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -54,10 +58,6 @@ After Watch Dogs and Valhalla, Ubisoft recently released another sandbox title i
 
  If your rig is powerful enough for the game, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  The constant crashes could indicate**an integrity issue with your game files** . In that case, you can run some checking to repair the corrupt or missing files.
@@ -68,9 +68,11 @@ Here’s how:
 2. Under the**Installed** section, click the picture of Immortals Fenyx Rising.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-1.jpg)
 3. From the left menu, select**Properties** . Under the**Local Files** section, click**Verify files** . Then wait for the checking to complete.  
+
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/ifr-verify-2.jpg)
 
  Once completed, launch Immortals Fenyx Rising and see if it crashes again.
@@ -78,13 +80,9 @@ Here’s how:
 If this method doesn’t help, you can take a look at the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your graphics driver
 
  One of the most common causes of game crashes is that you’re using a**faulty or outdated graphics driver** .[According to some gamers](https://www.reddit.com/r/ubisoft/comments/k60g25/immortals%5Ffenyx%5Frising%5Fis%5Fvery%5Fpoorly%5Foptimized/) , updating the graphics driver can greatly improve the performance and stability of Immortals Fenyx Rising. So you should definitely**try updating your drivers** before attempting anything more complicated.
@@ -108,15 +106,14 @@ If this method doesn’t help, you can take a look at the next one.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your computer and see if Immortals Fenyx Rising crashes again.
@@ -132,9 +129,11 @@ And here’s how you can make sure your system is the latest:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install available updates automatically.  
+
 <!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -151,8 +150,6 @@ And here’s how you can make sure your system is the latest:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +157,24 @@ And here’s how you can make sure your system is the latest:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-best-in-class-top-10-streamers-with-a-comparative-edge/"><u>[New] Best in Class Top 10 Streamers with a Comparative Edge</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-craft-your-facebook-profile-video/"><u>[New] In 2024, Craft Your Facebook Profile Video</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-narrative-nuance-in-voiceovers-mastering-the-art-of-storytelling-on-ppts-for-2024/"><u>[New] Narrative Nuance in Voiceovers Mastering the Art of Storytelling on PPTs for 2024</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-2024-approved-tackling-toxicity-head-on-the-definitive-guide-to-reporting-users-on-discord/"><u>[Updated] 2024 Approved Tackling Toxicity Head-On The Definitive Guide to Reporting Users on Discord</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-iphone-hdr-masterclass-from-basics-to-brilliance/"><u>[Updated] IPhone HDR Masterclass From Basics to Brilliance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breaking-news-the-anticipated-launch-of-it-takes-two-is-now-live/"><u>Breaking News: The Anticipated Launch of 'It Takes Two' Is Now Live!</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/examining-instagrams-per-video-content-restrictions/"><u>Examining Instagram's Per-Video Content Restrictions</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722965986762-get-your-hands-on-the-latest-version-of-amds-general-purpose-inputoutput-gpio-drivers-free/"><u>Get Your Hands on the Latest Version of AMD's General Purpose Input/Output (GPIO) Drivers - Free</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-best-humor-picture-processor/"><u>In 2024, Best Humor Picture Processor</u></a></li>
+<li><a href="https://solve-help.techidaily.com/kostenlose-dvd-extraktoren-auf-konfrontation-winx-gegen-handbrake-bewerten-und-vergleichen/"><u>Kostenlose DVD-Extraktoren Auf Konfrontation: WinX Gegen Handbrake Bewerten Und Vergleichen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-steps-clearing-up-the-mystery-of-the-black-screen-when-using-discords-share-feature/"><u>Solution Steps: Clearing Up the Mystery of the Black Screen When Using Discord's Share Feature</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-boot-problems-in-armored-core-vi-fires-of-rubicon-a-step-by-step-guide/"><u>Solving Boot Problems in Armored Core VI: Fires of Rubicon – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-to-repair-rainbow-six-sieges-persistent-black-screen-on-pc-setups/"><u>Step-by-Step Tutorial to Repair Rainbow Six Siege's Persistent Black Screen on PC Setups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-gta-v-from-locking-up-proven-fixes-for-a-smoother-gaming-session/"><u>Stop GTA v From Locking Up: Proven Fixes for a Smoother Gaming Session</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-tekken-8-pc-startup-issues/"><u>Troubleshooting Steps: Resolving 'Tekken 8' PC Startup Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-to-fix-and-prevent-football-manager-2020-from-crashing-down/"><u>Troubleshooting Tips to Fix and Prevent Football Manager 2020 From Crashing Down</u></a></li>
+<li><a href="https://win-blog.techidaily.com/world-of-warcraft-optimization-guide-solve-your-lag-problems-and-enhance-playability/"><u>World of Warcraft Optimization Guide - Solve Your Lag Problems and Enhance Playability !</u></a></li>
+</ul></div>
 

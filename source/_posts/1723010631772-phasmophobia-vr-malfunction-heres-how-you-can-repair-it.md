@@ -1,7 +1,7 @@
 ---
 title: Phasmophobia VR Malfunction? Here's How You Can Repair It
-date: 2024-08-23T12:42:17.436Z
-updated: 2024-08-24T12:42:17.436Z
+date: 2024-12-25T16:29:11.051Z
+updated: 2024-12-27T16:01:11.464Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/thumbnail_medium_v1599196289-1.png)
 
  VR players have reported that the recent updates in Phasmophobia have caused performance issues. Some are experiencing game crashing or black screen issues. If you’re in the same boat, no worries, this article is here to help.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -39,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/92e9b29713cc88b11300b903399854331375d2de8
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
  Graphics driver is essential for the proper functioning of video games, also for your VR set. If Phasmophobia VR is not working, you may need to check if your graphics driver is up-to-date.
@@ -63,8 +64,9 @@ If this doesn’t help, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -77,18 +79,17 @@ If this doesn’t help, try the next fix.
 1. Launch Steam and find Phasmophobia in your library. Right-click the game and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Steam-right-click-Properties.jpg)
 2. Under**Local files** , click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/verify-game-files.jpg)
 3. Steam will now scan your local game folders and compare the files with the ones on the server. If anything is broken or missing, Steam will fix it for you. This process may take a while.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Launch the game from VR software
 
  Some players reported that launching Phasmophobia from SteamVR has caused issues such as VR crashing and black screen issues. As a workaround, you can try to launch Phasmophobia from the VR software, for example, you can launch the game from Oculus software.
@@ -98,8 +99,9 @@ If this doesn’t help, try the next fix.
  If this doesn’t fix the problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Update your VR software
 
  It’s also possible that the issue is with your VR software, not with the game. VR software provides essential features for your VR set to work smoothly on your PC. When your VR set is not working on Phasmophobia, try updating the VR software to ensure compatibility.
@@ -114,8 +116,6 @@ If this doesn’t help, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -123,4 +123,18 @@ If this doesn’t help, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-depth-survey-the-apex-of-screen-recording-technology-for-2024/"><u>[Updated] In-Depth Survey The Apex of Screen Recording Technology for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2-troubleshooting-overcoming-the-infamous-centipede-glitch/"><u>Destiny 2 Troubleshooting: Overcoming the Infamous Centipede Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722987049776-diagnose-and-solve-left-4-dead-2-continuous-crashing-issues-covered/"><u>Diagnose & Solve: Left 4 Dead 2 Continuous Crashing Issues Covered</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/expert-tips-for-restoring-allocation-to-an-unallocated-external-hdd-keep-all-files-intact/"><u>Expert Tips for Restoring Allocation to an Unallocated External HDD - Keep All Files Intact!</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-4-ways-to-unlock-iphone-7-plus-to-use-usb-accessories-without-passcode-drfone-by-drfone-ios/"><u>In 2024, 4 Ways to Unlock iPhone 7 Plus to Use USB Accessories Without Passcode | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-everything-you-need-to-know-about-lock-screen-settings-on-your-motorola-razr-40-by-drfone-android/"><u>In 2024, Everything You Need to Know about Lock Screen Settings on your Motorola Razr 40</u></a></li>
+<li><a href="https://solve-lab.techidaily.com/risolvi-il-problema-di-avvio-dellssd-clonato-in-windows-tutorial-passo-passo-per-windows-11-8-e-7/"><u>Risolvi Il Problema Di Avvio Dell'SSD Clonato in Windows: Tutorial Passo-Passo per Windows 11, 8 E 7</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/solution-found-playing-sounds-again-on-your-firefox-webpage-visits/"><u>Solution Found: Playing Sounds Again on Your Firefox Webpage Visits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-steam-crashes-comprehensive-guide-to-stabilize-horizon-forbidden-west-on-your-desktop/"><u>Solving Steam Crashes: Comprehensive Guide to Stabilize 'Horizon Forbidden West' On Your Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-game-over-how-to-prevent-fortnite-from-crashing-on-your-pc-updated/"><u>Stop the Game Over: How to Prevent Fortnite From Crashing on Your PC (Updated )</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/troubleshooting-and-repairing-microsoft-surface-earbud-microphone-issues-in-windows-11/"><u>Troubleshooting and Repairing Microsoft Surface Earbud Microphone Issues in Windows 11</u></a></li>
+</ul></div>
 

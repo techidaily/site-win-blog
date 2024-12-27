@@ -1,7 +1,7 @@
 ---
 title: Fallout 3 Launch Errors Demystified - Proven Tips & Tricks
-date: 2024-08-23T12:41:17.846Z
-updated: 2024-08-24T12:41:17.846Z
+date: 2024-12-20T16:34:52.465Z
+updated: 2024-12-27T16:02:37.874Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/loading-screen-1200x750.jpg)
 
  Having trouble loading Football Manager 2021 (FM21)? You’re not alone. Many players reported their game also getting**stuck on the loading screen** . The good news is that there are some working fixes available. Read on and find out what they are…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -43,24 +47,25 @@ thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f
 2. Under**Workshop Items** , you can filter by game and pull out the list of all subscriptions for Football Manager 2021.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/filter-by-game.jpg)
 3. Click**Unsubscribe From All** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/unsubscribe-from-all.jpg)
 4. Click**OK** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/confirm-unsubscription.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’ve unsubscribed all the workshop items and the game still won’t load, try the next fix.
 
 <!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Verify your game files
 
  Another quick fix you can try is to verify your game files, which can be done within the Steam client and Epic Games Launcher. If any files are found missing in your local game folders, the game launcher will add them to your game folders and you should then be able to run FM21 without any problems. Here’s how:
@@ -72,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f
 2. Under the**LOCAL FILES** tab, click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 3. Wait for Steam to complete the scan. It will take some time depending on the size of the game.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 
 #### On Epic Games Launcher
 
@@ -94,17 +96,15 @@ thumbnail: https://thmb.techidaily.com/2cb7f310cfa40bade9f97a206c11fec1a7936d92f
 2. Click**View** in the header, and make sure**Hidden items** are ticked to be shown.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/hidden-items.jpg)
 3. Navigate to **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021** .
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 4. Delete the**Preferences** and/or**Cache** folder(s).
 5. Run FM21 to test the issue.
 
 If this doesn’t solve your problem, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Backup and move your game files
 
  Sometimes a random game error can be solved by backing up and transferring your game files. Although the Steam client now has the built-in feature to help the players do this, there’s no similar feature in Epic Games Launcher. Here we’ll introduce the manual way to do it, which only takes a few steps and will work on both game launchers:
@@ -117,14 +117,6 @@ If this doesn’t solve your problem, move on to the next fix.
 
 If the game still gets stuck on loading screen, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fix 5: Update your graphics driver
 
  If you’ve tried the fixes above but nothing worked, it’s time to consider updating your graphics driver. When your graphics driver is outdated or faulty, FM21 may have a problem proceeding to the graphics card check, and thus get stuck on the loading screen.
@@ -152,9 +144,6 @@ If the game still gets stuck on loading screen, try the next fix.
 
  Restart your PC for the new driver to take effect. If your Football Manager 2021 still gets stuck on loading screen, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Fix 6: Perform a clean boot
 
  A clean boot will start your PC with the minimum sets of drivers and services that Windows requires to run.
@@ -168,17 +157,16 @@ If the game still gets stuck on loading screen, try the next fix.
 2. Under the**Services** tab, check**Hide all Microsoft services** , then click**Disable all** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-40-15.jpg)
 3. Switch to the**Startup** tab, click**Open Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (Windows 7 users: right-click anywhere empty on your taskbar to find the option of task manager.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-45-12.jpg)
 4. Under**Startup** tab, click each startup item then click**Disable** until you’ve disabled all startup items.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-48-33.jpg)
 5. Restart your PC.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  If Football Manager 2021 still gets stuck on loading screen, you can consider reinstalling the whole game, or contact SEGA for support.
 
@@ -189,12 +177,19 @@ If the game still gets stuck on loading screen, try the next fix.
 1. In the search bar next to the Start button, type**msconfig** then click**System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-38-17.jpg)
 2. Under the**Services** tab, tick the**Hide all Microsoft services** checkbox**,** then tick the checkboxes in front of**the first five items** in the list.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Then click**Apply** and**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-28_16-53-16.jpg)
 3. Reboot your computer and launch FM21\. If it once again won’t launch, then you know that one of the services you ticked above is conflicting with it. If it_does_ launch, then the above five services are fine, and you’ll have to keep looking for the offending service.
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Repeat steps 2 and 3 above until you find the service that conflicts with FM21.  
 
  NOTE: We recommend testing five items in a group since it’s more efficient, but you’re welcome to do it at your own pace.
@@ -223,8 +218,6 @@ If the game still gets stuck on loading screen, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +225,19 @@ If the game still gets stuck on loading screen, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-audience-management-strategies-for-periscope-for-2024/"><u>[New] Audience Management Strategies for Periscope for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/new-beginning-conversations-in-the-cloud-mastering-zoom-on-android-phones-for-2024/"><u>[New] Beginning Conversations in the Cloud Mastering Zoom on Android Phones for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-expediting-fb-videos-leading-extensions-and-apps-compilation/"><u>[Updated] 2024 Approved Expediting FB Videos Leading Extensions & Apps Compilation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gaming-experience-ultimate-guide-to-resolve-fallout-76s-lag-issues/"><u>Boost Your Gaming Experience: Ultimate Guide to Resolve Fallout 76'S Lag Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996907191-common-reasons-for-dauntless-crashes-on-windows-fix-them-now/"><u>Common Reasons for Dauntless Crashes on Windows - Fix Them Now</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/free-readers-paradise-discover-the-top-10-websites-for-downloading-free-e-books/"><u>Free Readers' Paradise: Discover the Top 10 Websites for Downloading Free E-Books</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-tower-of-fantasy-from-collapsing-on-your-computer-screen/"><u>How to Stop Tower of Fantasy From Collapsing on Your Computer Screen</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-teleport-your-gps-location-on-oppo-reno-11-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How To Teleport Your GPS Location On Oppo Reno 11 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009940545-no-more-game-interruptions-ultimate-2-groove-ultimate-strategies-to-fix-dead-by-daylight-crashes/"><u>No More Game Interruptions: Ultimate 2 Groove, Ultimate Strategies to Fix Dead by Daylight Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-rocket-league-hang-up-issue-effective-strategies-for-unfreezing-gameplay/"><u>Solving the Rocket League Hang-Up Issue: Effective Strategies for Unfreezing Gameplay</u></a></li>
+<li><a href="https://howto.techidaily.com/stuck-at-android-system-recovery-of-sony-xperia-1-v-fix-it-easily-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Stuck at Android System Recovery Of Sony Xperia 1 V ? Fix It Easily | Dr.fone</u></a></li>
+<li><a href="https://win11.techidaily.com/understanding-variances-microsoft-vs-non-microsoft-user-access-on-windows-systems/"><u>Understanding Variances: Microsoft vs Non-Microsoft User Access on Windows Systems</u></a></li>
+</ul></div>
 

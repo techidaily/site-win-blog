@@ -1,7 +1,7 @@
 ---
 title: How to Fix Dota 2 Lagging - 2024 Tips
-date: 2024-08-23T12:45:45.714Z
-updated: 2024-08-24T12:45:45.714Z
+date: 2024-12-20T16:21:05.264Z
+updated: 2024-12-27T16:10:15.334Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
 [5: Switch to another server](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check your Internet connection
 
  The first thing you can do is to make sure your Internet connection is valid and able to connect to Apex Legends servers. A few things you can look for to check your Internet connection go as below:
@@ -52,11 +56,6 @@ thumbnail: https://thmb.techidaily.com/a68c5c5018f608284d7af133f2911830741f89825
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -64,16 +63,20 @@ The powerful video editing program for your Windows PC</a>
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -83,9 +86,9 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
 ## Fix 4: Update your network driver
@@ -108,21 +111,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ## Fix 5: Switch to another server
 
  We know the error code leaf is a server connectivity issue, and the problem is more likely with the server-side. One last thing that players can do is to switch to a low ping server. The option of choosing a server is hidden, and here’s how to bring it to the front:
@@ -132,6 +120,11 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
 
@@ -149,8 +142,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +149,24 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-black-ops-cold-war-ui-error-27711/"><u>[Fixed] Black Ops Cold War UI Error 27711</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-from-flat-to-fascinating-crafting-depth-in-text-art-for-2024/"><u>[Updated] From Flat to Fascinating Crafting Depth in Text Art for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/astro-a40-microphone-not-working-heres-what-you-need-to-know/"><u>Astro A40 Microphone Not Working? Here's What You Need to Know</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/best-ways-on-how-to-unlockbypassswiperemove-oppo-a1x-5g-fingerprint-lock-by-drfone-android/"><u>Best Ways on How to Unlock/Bypass/Swipe/Remove Oppo A1x 5G Fingerprint Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013705069-bloodhunt-troubleshooting-stop-your-game-from-freezing-or-hiccuping/"><u>Bloodhunt Troubleshooting: Stop Your Game From Freezing or Hiccuping!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077s-dark-secret-how-to-fix-the-game-crashing-black-screen-error/"><u>Cyberpunk 2077'S Dark Secret: How to Fix the Game-Crashing Black Screen Error</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/exclusive-amazon-sale-apple-vision-pro-for-just-200-less-act-fast-before-the-discount-ends-zdnet-insights/"><u>Exclusive Amazon Sale: Apple Vision Pro for Just $200 Less! Act Fast Before the Discount Ends | ZDNET Insights</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/first-look-at-the-newly-released-hl-2240-driver-for-seamless-windows-compatibility-and-printing/"><u>First Look at the Newly Released HL-2240 Driver for Seamless Windows Compatibility and Printing</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/fixing-the-steam-startup-issue-with-helldivers-ii-a-step-by-step-guide/"><u>Fixing the Steam Startup Issue with Helldivers II – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723014000495-how-to-fix-pc-doesnt-launch-far-cry-issue-solutions-applied/"><u>How to Fix 'PC Doesn't Launch Far Cry 지도' Issue - Solutions Applied</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-dirt-5-game-crashing-issues-in-windows-a-step-by-step-guide/"><u>How to Fix the 'Dirt 5' Game Crashing Issues in Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-and-warzone-crash-fix-overcoming-fatal-developer-errors/"><u>Modern Warfare & Warzone Crash Fix - Overcoming Fatal Developer Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-new-dates-for-mafia-definitive-edition-launch-update-or-cancellation/"><u>No New Dates for Mafia: Definitive Edition Launch - Update or Cancellation?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002649591-paradox-launcher-error-solutions-how-to-ensure-smooth-gameplay/"><u>Paradox Launcher Error Solutions - How To Ensure Smooth Gameplay!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722998864296-persistently-unresponsive-heres-how-to-fix-the-latest-freezing-issues-in-new-world/"><u>Persistently Unresponsive? Here's How to Fix the Latest Freezing Issues in New World</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/-out-with-custom-youtube-imagery-for-2024/"><u>Stand Out with Custom YouTube Imagery for 2024</u></a></li>
+<li><a href="https://program-issues.techidaily.com/1723008025051-windows-11-users-rejoice-civ-6-launch-issues-resolved/"><u>Windows 11 Users Rejoice: Civ 6 Launch Issues Resolved!</u></a></li>
+</ul></div>
 

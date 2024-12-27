@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for Overcoming 'Error Code 103003' In Arma 3
-date: 2024-08-23T12:39:33.755Z
-updated: 2024-08-24T12:39:33.755Z
+date: 2024-12-20T16:27:54.267Z
+updated: 2024-12-27T16:32:16.810Z
 tags:
   - win11
   - win10
@@ -51,6 +51,10 @@ Here are Grounded’s minimum specs:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Select the**Display** tab and check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-2.jpg)
@@ -60,8 +64,9 @@ Here are Grounded’s minimum specs:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Temporarily disable your anti-virus programs
 
  Anti-virus programs can interfere with Grounded and stop it from running properly. To test if they’re the causes, you could temporarily disable your anti-virus programs and relaunch Grounded.
@@ -74,18 +79,6 @@ If the problem persists, move towards the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  An outdated or corrupt graphics driver could be the main culprit of Grounded crashing. To play Grounded smoothly and gain the best gaming experience, you should install the latest and correct graphics driver on your computer.
@@ -112,13 +105,14 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/de-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  You can click**Update** to do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -136,35 +130,24 @@ If the problem persists, move towards the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 **2)** Check your**DirectX version** . If it’s DirectX 12, continue to step 3, or if you have DirectX 11, you can jump to **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
  If you have an older version such as DirectX 10 or DirectX 9, you may need to **[update DirectX](https://tools.techidaily.com/drivereasy/download/)**  to run the game.
 
 **3)** Launch Steam, and click the**Library** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 **4)** Locate**Grounded** on the game list, right click it and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click the**General** tab and click**Set launch options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3.jpg)
@@ -173,9 +156,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-4-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 **7)** Click**Close** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-5.jpg)
@@ -185,8 +165,9 @@ The powerful video editing program for your Windows PC</a>
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Verify the integrity of game files
 
  Game data that is missing or corrupted also results in the Grounded crashing issue. You can let Steam check and repair the game files and cache, and this takes a few steps.
@@ -216,19 +197,32 @@ The powerful video editing program for your Windows PC</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **2)** Ensure the**Don’t save account credentials on this computer option** isn’t ticked. Then, click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/stem4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Steam** and click**Go offline** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Restart in offline mode** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Launch Steam. Then, play the game in single-player and see how it works.
 
@@ -248,8 +242,6 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +249,26 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-capturing-your-iphoneipad-display-now-for-2024/"><u>[New] Capturing Your iPhone/iPad Display Now for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-transform-your-content-simple-steps-to-change-numbers-on-tiktok/"><u>[New] In 2024, Transform Your Content Simple Steps to Change Numbers on TikTok</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-innovative-10-plugin-upgrades-for-fcp-users/"><u>[New] Innovative 10 Plugin Upgrades for FCP Users</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/omen-in-warfare-youtubes-elite-ten/"><u>[New] Women in Warfare YouTube’s Elite Ten</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-the-xbox-chronicles-essential-steps-in-gameplay-documentation-for-2024/"><u>[Updated] The Xbox Chronicles Essential Steps in Gameplay Documentation for 2024</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/300-discount-on-top-performing-non-thinkpad-non-macbook-laptop-for-productivity-exclusive-prime-day-deal-revealed-by-zdnet/"><u>$300 Discount on Top-Performing Non-ThinkPad, Non-MacBook Laptop for Productivity: Exclusive Prime Day Deal Revealed by ZDNet!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ark-survival-ascended-pc-stability-issues-top-9-fixes-to-prevent-game-crashes/"><u>ARK: Survival Ascended PC Stability Issues - Top 9 Fixes to Prevent Game Crashes</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/effective-solutions-to-fix-at-capacity-error-with-chatgpt-on-windows/"><u>Effective Solutions to Fix 'At Capacity Error' With ChatGPT on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-solutions-for-a-broken-steamvr-experience/"><u>Fast Solutions for a Broken SteamVR Experience</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-zte-axon-40-lite-android-system-webview-crash-2024-issue-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix ZTE Axon 40 Lite Android System Webview Crash 2024 Issue | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-issues-with-dragon-age-origins-game-crashes-on-modern-windows-10-systems/"><u>Fixing Issues with Dragon Age: Origins Game Crashes on Modern Windows 10 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-successful-connection-solving-steam-vr-not-detected-issues-in-6-easy-steps/"><u>How To Ensure Successful Connection: Solving Steam VR Not Detected Issues in 6 Easy Steps</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/multi-device-synchronization-using-just-one-mobile-number/"><u>Multi-Device Synchronization Using Just One Mobile Number</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-and-lower-zooms-cpu-impact-discover-these-efficacy-proven-techniques/"><u>Optimize and Lower Zoom's CPU Impact: Discover These Efficacy-Proven Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-issues-understanding-frame-rate-fluctuations-in-sifu-fps-gameplay/"><u>PC Issues: Understanding Frame Rate Fluctuations in 'Sifu' FPS Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/sony-vegas-stabilized-how-to-fix-repeated-crashes/"><u>Sony Vegas Stabilized: How to Fix Repeated Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-overcoming-nvidia-control-panel-startup-issues/"><u>Step-by-Step Guide: Overcoming NVIDIA Control Panel Startup Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/the-ultimate-solution-for-missing-msv-4dll-files-in-windows-systems/"><u>The Ultimate Solution for Missing msv-4.dll Files in Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-stabilizing-your-doom-eternal-experience/"><u>Troubleshooting Steps for Stabilizing Your DOOM Eternal Experience</u></a></li>
+</ul></div>
 
