@@ -1,7 +1,7 @@
 ---
 title: Solving the Mystery of Halo 3 Sudden Shutdowns While Playing on PC
-date: 2024-08-23T12:35:16.465Z
-updated: 2024-08-24T12:35:16.465Z
+date: 2024-12-29T16:43:29.265Z
+updated: 2025-01-06T04:23:03.810Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7, 8 and 11.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Verify the integrity of your game files
 
  Missing or damaged game files is a common cause of most gaming issues. So if your Destiny 2 Beyond Light keeps crashing, it’s a good idea to validate the game files first.
@@ -40,13 +44,14 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 3. Select the**Local Files** tab, and click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It will take a few minutes for Steam to detect and repair any corrupted files. Upon completion, you can relaunch Beyond Light to see if it crashes again. If yes, proceed to more fixes below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  The Destiny 2 Beyond Light crashing issue may indicate your graphics card driver is corrupted or out-of-date. To ensure a smooth and immersive gaming experience, you should keep your graphics driver up-to-date at all times.
@@ -75,8 +80,9 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -84,9 +90,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3 – Set high priority
 
  Setting high priority for Beyond Light allows it to access more system resources than other programs and thus run more smoothly. Here’s how:
@@ -94,17 +97,23 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Right-click any empty space on the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-4.jpg)
 2. Select the**Details** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-5.jpg)
 3. Right-click the**Destiny 2: Beyond Light.exe file** . Then, mouse over**Set priority** and select**Above normal** or**High** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
 4. Click**Change priority** to confirm.
 
  Relaunch the game and check whether it runs properly or not. If not, there are two more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable the shader cache
 
@@ -113,24 +122,19 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Right-click any blank area on the desktop, and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-3.jpg)
 2. Click**3D Settings** \>**Manage 3D settings** on the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Reinstall Destiny 2: Beyond Light
 
  A fresh reinstallation can effectively solve stubborn underlying program issues. So, if you’ve attempted all the fixes above but to no avail, try reinstalling the game as a last resort.
@@ -142,6 +146,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 4. Go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** . Then, delete the**Destiny 2 Beyond Light** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Now that the game is clean removed from your PC, download it again on Steam and check if it works without problems.
 
@@ -159,8 +167,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +174,21 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-vimeo-insight-where-streaming-meets-originality/"><u>[New] 2024 Approved Vimeo Insight Where Streaming Meets Originality</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-elevate-your-youtube-channel-perfecting-video-scriptwriting-skills/"><u>[New] In 2024, Elevate Your YouTube Channel Perfecting Video Scriptwriting Skills</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversion-sin-costo-desde-mp4-al-formato-flv-utilizando-la-solucion-en-linea-de-movavi-guia-paso-a-paso/"><u>Conversión Sin Costo Desde MP4 Al Formato FLV Utilizando La Solución en Línea De Movavi: Guía Paso a Paso</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conversor-online-de-flac-para-mp3-gratuito-site-oficial-do-movavi/"><u>Conversor Online De FLAC Para MP3 Gratuito - Site Oficial Do Movavi</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/dont-delay-transform-damaged-images-now-with-expert-photo-rehabilitation/"><u>Don't Delay: Transform Damaged Images Now with Expert Photo Rehabilitation</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/expert-picks-superior-safe-browsing-routers-for-families/"><u>Expert Picks: Superior Safe Browsing Routers for Families</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gratuit-transformer-des-fichiers-webm-en-fichiers-mp3-sans-souci-avec-movavi/"><u>Gratuit : Transformer Des Fichiers Webm en Fichiers MP3 Sans Souci - Avec Movavi</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-game-changing-ai-to-craftsmanship/"><u>Introducing Game-Changing AI to Craftsmanship</u></a></li>
+<li><a href="https://win-blog.techidaily.com/movaviwav-to-mp3/"><u>Movaviによる無償オンラインWAV to MP3コンバーター – ストレスなし!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-photo-display-software-compatible-with-windows-and-macos-systems/"><u>Seamless Photo Display Software Compatible with Windows and MacOS Systems</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/step-by-step-tutorial-tweaking-mouse-pointer-appearance-in-windows-10-for-personalized-comfort/"><u>Step-by-Step Tutorial: Tweaking Mouse Pointer Appearance in Windows 10 for Personalized Comfort</u></a></li>
+<li><a href="https://win-blog.techidaily.com/swf-mp4-internet-movavi/"><u>SWF 파일을 MP4로 간단한 방식으로 바꾸기: 원향 Internet에서 무가스 제공 - Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-15-zero-cost-antivirus-software-our-top-bootable-selections/"><u>Top 15 Zero-Cost Antivirus Software: Our Top Bootable Selections</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/1719817435202-upgrade-your-pc-graphics-amds-hd-6950-update-now/"><u>Upgrade Your PC Graphics: AMD's HD 6950 Update Now</u></a></li>
+</ul></div>
 

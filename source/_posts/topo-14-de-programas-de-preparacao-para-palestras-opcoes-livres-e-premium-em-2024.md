@@ -1,7 +1,7 @@
 ---
 title: "Topo 14 De Programas De Preparação Para Palestras: Opções Livres E Premium Em 2024"
-date: 2024-12-24T16:07:54.049Z
-updated: 2024-12-27T16:36:17.582Z
+date: 2024-12-29T19:12:45.476Z
+updated: 2025-01-05T19:35:04.259Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/92985b2f8fb733c6ace3a56ad63487609f03bf1d506d4321f2d46018abdebb6d.png
@@ -153,7 +153,7 @@ Désactivez les services d'arrière-plan pour accélérer votre ordinateur porta
 Afficher plus
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Choix spécial : [Gecata by Movavi](https://www.gecata.com/)
@@ -166,13 +166,13 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
@@ -193,7 +193,7 @@ Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
@@ -222,6 +222,10 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
@@ -239,10 +243,6 @@ Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra
 Utiliser le mode de jeu Windows 10
 
 ![](https://cdn.staticont.net/default/0012/47/d22e37788bfd390747dc00a19758815599d522df.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Voici un moyen simple et rapide d'optimiser Windows 10 pour les jeux en utilisant un outil intégré au système. Le mode Jeu, apparu dans les versions les plus récentes du système d'exploitation, est conçu pour améliorer l'expérience de jeu en consacrant davantage de ressources système aux jeux. Il empêche également d'autres programmes, tels que Windows Update, d'accaparer les ressources du système pendant que vous jouez.
 
@@ -282,13 +282,13 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Le problème ici est le même qu'avec Windows Mises à jour. Steam met automatiquement à jour tous vos jeux, même ceux auxquels vous n'avez pas joué depuis longtemps. Les mises à jour en arrière-plan consomment la mémoire de votre PC et peuvent ralentir les processus de jeu.
 
@@ -297,10 +297,6 @@ Pour empêcher Steam de mettre à jour les jeux pendant que vous jouez, allez da
 Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive souvent que de nouveaux bogues apparaissent dans les nouvelles mises à jour ou que certains éléments cessent de fonctionner.
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Désactiver les notifications
 
@@ -321,10 +317,6 @@ Si vous utilisez une carte graphique NVIDIA, il existe des paramètres spécifiq
 4. Mode faible latence : Activez-le.
 5. Mode de gestion de l'énergie : Passez à **Préférer les performances maximales**.
 6. Optimisation Threaded : Passez à **Auto**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler le centre de contrôle AMD/ATI
 
@@ -390,6 +382,10 @@ Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et s
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Surcadencez votre carte graphique
 
 Overclocker vos cartes graphiques signifie les pousser au-delà des spécifications affichées sur la boîte. De nombreuses cartes récentes disposent d'une fonction automatique permettant de le faire dans les paramètres de contrôle, mais il existe également des moyens de le faire manuellement. Veillez à bien connaître votre carte graphique, car si vous repoussez ses limites, elle risque de surchauffer. 
@@ -429,7 +425,15 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Utiliser une alimentation externe
 
@@ -484,16 +488,12 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 
 
 Foire aux questions 
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment optimiser mon ordinateur pour les jeux ?
 
@@ -524,10 +524,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 4. Passez en revue votre programme de démarrage et désactivez ceux que vous n'utilisez pas.
 5. Installez de la RAM supplémentaire
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
@@ -549,6 +545,10 @@ La baisse du nombre de FPS se produit lorsque votre ordinateur n'a pas la mémoi
 Ce n'est pas parce que vous dépensez de l'argent pour un ordinateur qu'il est équipé du dernier cri. Le matériel est plus important que les autres caractéristiques de conception ou de logiciel. En outre, les jeux vidéo modernes placent toujours la barre plus haut en matière de capacité de performance, ce qui est donc relatif d'un jeu à l'autre.
 
 ![Avez-vous des questions&nbsp;?](https://cdn.staticont.net/global/0023/54/e832fd4fe897893df1de795a67cafcd74a13283a.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Avez-vous des questions ?
 
@@ -585,24 +585,18 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-zero.techidaily.com/024-approved-the-unseen-factors-in-determining-a-videos-view-count-on-youtube/"><u>[New] 2024 Approved The Unseen Factors in Determining a Video’s View Count on YouTube</u></a></li>
-<li><a href="https://article-posts.techidaily.com/new-premium-flying-tech-available-right-now/"><u>[New] Premium Flying Tech Available Right Now</u></a></li>
-<li><a href="https://instagram-video-files.techidaily.com/updated-clear-path-for-your-instagram-videos-now-for-2024/"><u>[Updated] Clear Path for Your Instagram Videos Now for 2024</u></a></li>
-<li><a href="https://article-helps.techidaily.com/updated-ensuring-easy-download-of-youtubes-srt-subs/"><u>[Updated] Ensuring Easy Download of YouTube's SRT Subs</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ed-unveiling-secret-youtube-clips-a-step-by-step-guide-for-2024/"><u>[Updated] Unveiling Secret YouTube Clips A Step-by-Step Guide for 2024</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/18-quick-and-inspiring-ideas-to-try-in-your-vlog-for-2024/"><u>18 Quick and Inspiring Ideas to Try in Your Vlog for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/battlefield/"><u>Battlefield</u></a></li>
-<li><a href="https://win-blog.techidaily.com/beat-gaming-lags-on-your-desktop-the-ultimate-guide-to-optimizing-in-202-cuffs/"><u>Beat Gaming Lags on Your Desktop - The Ultimate Guide to Optimizing in 202 Cuffs</u></a></li>
-<li><a href="https://win-blog.techidaily.com/black-ops-cold-war-error-xc0000005-a-comprehensive-fix-guide/"><u>Black Ops Cold War Error XC0000005: A Comprehensive Fix Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/call-of-dutys-modern-warfare-fps-game-error-corrected-now-available/"><u>Call of Duty's Modern Warfare FPS Game Error Corrected, Now Available</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/direct-to-streamer-duel-obs-vs-shadowtoolkit-for-2024/"><u>Direct-to-Streamer Duel OBS Vs. ShadowToolkit for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-ls-0013-startup-failure-in-fortnite-a-comprehensive-guide/"><u>How to Overcome the LS-0013 Startup Failure in Fortnite – A Comprehensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-resolve-pc-crashes-while-playing-crusader-kings-iii/"><u>How to Prevent and Resolve PC Crashes While Playing Crusader Kings III</u></a></li>
-<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-lava-yuva-2-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Lava Yuva 2 | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-easiest-guide-how-to-clone-xiaomi-redmi-12-phone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Easiest Guide How to Clone Xiaomi Redmi 12 Phone? | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mastering-ubisoft-games-fix-your-assassins-creed-iv-issues-with-these-expert-hacks/"><u>Mastering Ubisoft Games: Fix Your Assassin's Creed IV Issues with These Expert Hacks</u></a></li>
-<li><a href="https://win-blog.techidaily.com/perpetual-endurance-celebrating-the-timeless-saga-of-black-empowerment-and-overcoming-adversity/"><u>Perpetual Endurance: Celebrating the Timeless Saga of Black Empowerment and Overcoming Adversity</u></a></li>
-<li><a href="https://win-howtos.techidaily.com/tackle-laptop-screen-malfunctions-white-screen-error-fixes/"><u>Tackle Laptop Screen Malfunctions: White Screen Error Fixes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/why-does-your-rust-code-keep-halt-understanding-and-fixing-the-issue/"><u>Why Does Your Rust Code Keep Halt? Understanding & Fixing the Issue</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-a-visual-journey-uncovering-the-best-icons-and-logos-online/"><u>[New] 2024 Approved A Visual Journey Uncovering the Best Icons & Logos Online</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-smooth-streams-from-obs-to-insta/"><u>[New] Smooth Streams From OBS to Insta</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-fast-track-turning-zip-into-professional-quality-srt-files-for-2024/"><u>[Updated] Fast Track Turning ZIP Into Professional-Quality Srt Files for 2024</u></a></li>
+<li><a href="https://tiktok-video-files.techidaily.com/updated-in-2024-guide-to-discovering-your-unique-tiktok-tag/"><u>[Updated] In 2024, Guide to Discovering Your Unique TikTok Tag</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/2024-approved-high-speed-snapshot-and-voice-commentary-assistant-device/"><u>2024 Approved High-Speed Snapshot & Voice Commentary Assistant Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-game-stalls-proven-techniques-to-keep-overwatch-running-smoothly/"><u>Eliminating Game Stalls: Proven Techniques to Keep Overwatch Running Smoothly</u></a></li>
+<li><a href="https://discover-community.techidaily.com/enhance-your-online-presence-manycams-innovative-virtual-camcorder-and-broadcasting-suite/"><u>Enhance Your Online Presence: ManyCam's Innovative Virtual Camcorder and Broadcasting Suite</u></a></li>
+<li><a href="https://win-blog.techidaily.com/exclusive-sneak-peek-how-rainbow-six-siege-transforms-in-its-2024-freeze-upgrade/"><u>Exclusive Sneak Peek: How Rainbow Six Siege Transforms in Its 2024 Freeze Upgrade!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-baldurs-gate-pc/"><u>Fixing Baldur's Gate 지정: PC에서 실패하는 방법</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/free-to-download-movie-cast-releases-for-2024/"><u>Free-to-Download Movie Cast Releases for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/imbalances-can-lead-to-soil-depletion-or-pest-outbreaks-a-balanced-ecosystem-promotes-healthy-crops-and-resilience-against-diseases/"><u>Imbalances Can Lead to Soil Depletion or Pest Outbreaks; a Balanced Ecosystem Promotes Healthy Crops and Resilience Against Diseases</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/in-2024-a-comprehensive-list-selecting-best-free-srt-translators/"><u>In 2024, A Comprehensive List Selecting Best FREE SRT Translators</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/the-essentials-of-youtubes-cc-license-for-filmakers/"><u>The Essentials of YouTube's CC License for Filmakers</u></a></li>
 </ul></div>
 

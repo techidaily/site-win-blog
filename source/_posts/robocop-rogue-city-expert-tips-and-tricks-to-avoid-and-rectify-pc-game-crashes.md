@@ -1,7 +1,7 @@
 ---
 title: "RoboCop: Rogue City – Expert Tips and Tricks to Avoid & Rectify PC Game Crashes"
-date: 2024-08-23T12:39:23.412Z
-updated: 2024-08-24T12:39:23.412Z
+date: 2024-12-31T19:27:17.765Z
+updated: 2025-01-05T17:46:27.442Z
 tags:
   - win11
   - win10
@@ -58,6 +58,10 @@ thumbnail: https://thmb.techidaily.com/6291494afa0c80ba81629d2148c745a3ef3d17f5c
 
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify your game files
 
  The constant crash may indicate an**integrity issue with your game files** . If that’s the case, your game might keep crashing at a certain scene or chapter. You should make sure there’s nothing wrong with your game files.
@@ -69,27 +73,21 @@ Here’s an example of how to check the game integrity on Steam:
 2. In the pop-up window, navigate to the**LOCAL FILES** tab, then select**VERIFY INTEGRITY OF GAME FILES…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
+
 <!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3:**Close all** background**applications**
 
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
 
 If this fix failed to solve your issue, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your graphics driver
 
  More often than not, the crash of new games tends to be graphics-related. It usually indicates that you’re using**a** **faulty or outdated graphics driver** . Whether you’re using a 1,000 dollars gaming rig or just a five-year-old school laptop, always make sure you make the most out of it, with the latest graphics driver.
@@ -122,6 +120,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  If this fix doesn’t give you any luck, take a look at the next one.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Install all Windows updates
 
  Windows 10 includes 2 types of system updates, targeting respectively security issues and performance boost. You should**always keep your system up-to-date** , as it could be a potential fix to your game crashing issue.
@@ -131,10 +133,11 @@ Here’s how:
 1. On your keyboard, press the**Windows logo key** and**I** (the i key) at the same time to open the**Windows Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
@@ -142,9 +145,6 @@ Here’s how:
 
  If this solution doesn’t work for you, simply try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable in-game overlays
 
  In-game overlay is a feature that makes it convenient to purchase game items and interact with friends on third party platforms. But in some cases, it might become the cause of instability. If you’re using in-game overlays such as**Steam** ,**Discord** or**NVIDIA GeForce Experience** , you can try to disable them and see if it fixes your problem.
@@ -154,16 +154,18 @@ For example, you can follow these steps to disable Steam overlay:
 1. Open your**Steam client** . In the top left corner, click**Steam** select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If the crashing reappears, please check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Disable your controller
 
@@ -185,8 +187,6 @@ If the crashing reappears, please check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +194,22 @@ If the crashing reappears, please check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-comparing-splitcams-features-with-industry-leaders/"><u>[Updated] Comparing SplitCam's Features with Industry Leaders</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-cure-missing-fb-stories-on-devices/"><u>[Updated] Cure Missing FB Stories on Devices</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/st-travel-youtube-channels-to-follow/"><u>10 Best Travel Youtube Channels to Follow</u></a></li>
+<li><a href="https://win-blog.techidaily.com/apex-legends-troubleshooting-guide-how-to-fix-error-23-once-and-for-all/"><u>Apex Legends Troubleshooting Guide - How to Fix Error 23 Once and For All!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avatar-unleashed-taming-technical-difficulties-to-explore-pandoras-frontier-on-pc/"><u>Avatar Unleashed: Taming Technical Difficulties to Explore Pandora's Frontier on PC</u></a></li>
+<li><a href="https://win-answers.techidaily.com/boost-your-gaming-performance-solutions-to-increase-fps-on-pc/"><u>Boost Your Gaming Performance: Solutions to Increase FPS on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-pc-problems-preventing-launch-in-world-of-warcraft-game/"><u>Diagnosing PC Problems Preventing Launch in World of Warcraft Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-when-amazon-prime-video-freezes-or-crashes/"><u>Effective Solutions When Amazon Prime Video Freezes or Crashes</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/d-your-reach-effective-youtube-campaigns/"><u>Expand Your Reach Effective YouTube Campaigns</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/page-unavailable-access-denied-http-404/"><u>Page Unavailable: Access Denied (HTTP 404)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-motorola-edgeplus-2023-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Motorola Edge+ (2023) and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-application-error-in-cod-modern-warfare-3-now-smooth-running/"><u>Resolved: 'Application Error' In COD Modern Warfare 3 Now Smooth Running</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-ds4-controller-errors-in-windows-successful-driver-reinstallation-tips/"><u>Step-by-Step Solution for DS4 Controller Errors in Windows – Successful Driver Reinstallation Tips</u></a></li>
+<li><a href="https://win-guides.techidaily.com/troubleshooting-slow-network-card-performance-tips-and-solutions-from-yl-computing/"><u>Troubleshooting Slow Network Card Performance: Tips & Solutions From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-20-lag-fixes-and-optimization-techniques-for-gamers/"><u>Warzone 2.0 Lag Fixes and Optimization Techniques for Gamers</u></a></li>
+</ul></div>
 

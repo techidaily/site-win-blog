@@ -1,7 +1,7 @@
 ---
 title: PC Issues with Football Manager 2022? Here's How to Troubleshoot and Resolve Them
-date: 2024-08-23T12:38:40.631Z
-updated: 2024-08-24T12:38:40.631Z
+date: 2025-01-02T01:44:09.825Z
+updated: 2025-01-06T03:46:00.355Z
 tags:
   - win11
   - win10
@@ -63,14 +63,8 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 1. Find Football Manager 2022 in your Steam library. Right-click the game then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-rightclick-properties.jpeg)
 2. Under the **LOCAL FILES** tab, click **Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/steam-verify-game-files%E5%89%AF%E6%9C%AC.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 #### Epic Games
 
 1. Go to your Epic Games library and find Football Manager 2022\. Click on the **three-dot icon** next to the game title.
@@ -93,14 +87,19 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC and run FM22 to see if the game still crashes. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Remove custom mods
 
  Any custom add-ons like mods, graphics, or skins, may interfere and cause the game to crash. If you installed the add-ons from the Steam workshop, you can easily unsubscribe from them and test the issue. Here’s how:
@@ -108,20 +107,16 @@ thumbnail: https://thmb.techidaily.com/52f8da45eabd9e84edabed13a325d84ff2b39dca8
 1. Go to your Steam profile page, and click**Workshop items** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-51-25.png)
 2. Click**(your username)’s Favorite** \>>**Select a game** \>>**Football Manager 2022** .  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/2021-12-29_10-52-33.png)
 3. You can**unsubscribe** from the mods one at a time to test which item was causing the problem.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If this doesn’t help, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Delete cache/preferences folders
 
  The developers suggest that you can delete your preferences and/or cache folder(s) as they may trigger random crashes. Deleting these folders won’t affect your game saves, but you’ll have to set up and apply your preference settings again.
@@ -136,9 +131,6 @@ If this doesn’t help, try the next fix.
 
 If this fix doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Repair corrupted system files
 
  In addition to game files, corrupted system files may also cause Football Manager 2022 to crash. You can use the System File Checker tool (sfc /scannow) to look for any critical system issues, but it could miss minor issues and most of the time, manual repair is required.
@@ -149,17 +141,18 @@ If this fix doesn’t solve your problem, try the next fix.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6: Close unnecessary programs
 
@@ -168,11 +161,13 @@ If this fix doesn’t solve your problem, try the next fix.
 1. Right-click your taskbar, then click **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the **Processes** tab, right-click at the process(es) that you want to shut down, and click **End task** .  
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-27_11-34-04.jpg)
+
  If you’ve closed the unnecessary background programs but still encounter crashes, try the next fix.
 
 ## Fix 7: Check your antivirus software
@@ -195,16 +190,19 @@ If this fix doesn’t solve your problem, try the next fix.
 1. In the search bar next to your Start button, type **update** , then click C**heck for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-updates.png)
 2. Windows will scan for available system updates. If there are _no_  available updates, you’ll get a **You’re up to date** sign. You could also click **View all optional updates** and install them if needed.  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/up-to-date.png)
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation if needed.  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 4. You will be prompted to restart your PC. Make sure you save important files in advance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 9: Change the game folder location
 
@@ -213,9 +211,11 @@ If this fix doesn’t solve your problem, try the next fix.
 1. Right-click an empty area on your desktop, select **New** and click **Folder** . You can name this new folder as “FM22 backup” to distinguish it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/new-folder.jpg)
 2. Navigate to   **C:\\Users\\\[Your Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2022** .
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. Cut all the folders here and paste them into the new folder you created on the desktop.
 4. Launch Football Manager 2022 to test the issue. If the problem is solved, you can copy the game files back to the original installation path.
 
@@ -239,8 +239,6 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -248,4 +246,18 @@ If this doesn’t help, there’s one more fix you can try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-upgrading-your-cinematic-story-with-video-edges/"><u>2024 Approved Upgrading Your Cinematic Story with Video Edges</u></a></li>
+<li><a href="https://win-blog.techidaily.com/accelerate-your-gameplay-instant-shader-hacks-for-star-wars-battlefront-ii-success/"><u>Accelerate Your Gameplay: Instant Shader Hacks for Star Wars Battlefront II Success</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/behind-the-screen-discovering-samsung-galaxy-s8s-4k-edge-for-2024/"><u>Behind the Screen Discovering Samsung Galaxy S8's 4K Edge for 2024</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/best-practices-in-pairing-your-pc-with-windows-10-the-file-synchronization-duo-explained/"><u>Best Practices in Pairing Your PC with Windows 10 - The File Synchronization Duo Explained</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210970857-9781803410852-childrens-unexplained-experiences-in-a-post-materialist-world/"><u>Children's Unexplained Experiences in a Post Materialist World | Free Book</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/decode-the-mystery-effective-remedies-for-your-new-world-linkup-problem/"><u>Decode the Mystery: Effective Remedies for Your New World Linkup Problem</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-fix-bluetooth-headphones-when-audio-is-missing/"><u>How to Fix Bluetooth Headphones When Audio Is Missing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-experience-fixing-a-slow-and-malfunctioning-2022-spotify-browser-app/"><u>Optimizing Your Experience: Fixing a Slow and Malfunctioning 2022 Spotify Browser App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obs-not-recording-video-tips-and-fixes-to-get-it-working-perfectly/"><u>Overcoming OBS Not Recording Video: Tips and Fixes to Get It Working Perfectly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unsticking-microsoft-flight-simulator-2020-from-update-loops-pro-tips-and-solutions/"><u>Unsticking Microsoft Flight Simulator 2020 From Update Loops: Pro Tips & Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-my-fuser-keep-hitting-a-wall-resolving-critical-application-issues-in-windows-environments/"><u>Why Does My Fuser Keep Hitting a Wall? Resolving Critical Application Issues in Windows Environments</u></a></li>
+</ul></div>
 

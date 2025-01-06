@@ -1,7 +1,7 @@
 ---
 title: "'Tales of Arise': Why It Fails and How to Keep It Running Smoothly"
-date: 2024-08-23T12:38:34.359Z
-updated: 2024-08-24T12:38:34.359Z
+date: 2025-01-01T04:45:00.608Z
+updated: 2025-01-05T18:34:22.765Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/d03489546d1b061501196d90eec003105f028cda3
 ## Resolved: Steam Issues with Hitman Trilogy's Final Installment - Now Running Smoothly
 
 After a long wait, the[new Hitman installment](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793) is finally here. While being the first AAA title released in 2021, Hitman 3 is not immune from issues. Upon its arrival, many gamers start reporting a**game not launching** error. But don’t worry if you happen to be on the same boat. Down below we’ve put together some working fixes to help restore your assassin identity. Try them and get your game working right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,14 +55,20 @@ Here’s how:
 1. On your keyboard, press Win (the Windows logo key) and type Epic Games. In the search results, select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Launch Hitman 3 from game folder
 
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
@@ -99,9 +109,6 @@ After updating your GPU driver, you can check if Hitman 3 is working now.
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Install all Windows updates
 
  Aside from drivers, it’s also important to keep your system up to date, which means you should make sure all the system updates are installed, as they usually provide more than just some minor bug fixes.
@@ -111,37 +118,30 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
-3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
-4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
+3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
+4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
+![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Check if it’s a server issue
 
  If you’ve tried all the methods above and none seem to work, then maybe it’s your fault at all. After the game was launched, there’re lots of complaints that the carry over server is down and the game is not connecting. So you might need to be patient before a hotfix is released. And to learn more about the Hitman 3 updates, you can check out the IOI[Twitter](https://twitter.com/iointeractive?lang=en) .
@@ -156,8 +156,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -165,4 +163,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-how-to-convert-twitter-videos-to-gifs-for-2024/"><u>[New] How To Convert Twitter Videos To GIFS for 2024</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-windows-10-capture-champions-app-roundup/"><u>[New] In 2024, Windows 10 Capture Champions App Roundup</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-elevate-chromebooks-speech-profile-curated-list-of-top-web-tools/"><u>[Updated] Elevate Chromebook's Speech Profile Curated List of Top Web Tools</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-capturing-moments-with-precision-the-mycam-reviewed/"><u>[Updated] In 2024, Capturing Moments with Precision The MyCam Reviewed</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-mastering-video-success-a-list-of-20-pro-shortcuts/"><u>2024 Approved Mastering Video Success A List of 20 Pro Shortcuts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-methods-to-rectify-minecrafts-crossbow-error-message-expert-tips-and-solutions/"><u>Effective Methods to Rectify Minecraft's Crossbow Error Message - Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-ways-to-repair-your-gaming-controllers-step-by-step-guide/"><u>Effortless Ways to Repair Your Gaming Controllers | Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-track-remedies-to-address-fortnites-load-difficulties-expert-advice/"><u>Fast-Track Remedies to Address Fortnite's Load Difficulties: Expert Advice</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-how-to-use-pokemon-go-joystick-on-nubia-red-magic-8s-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to use Pokemon Go Joystick on Nubia Red Magic 8S Pro? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-revolutionize-visual-narratives-using-prime-text-extensions/"><u>In 2024, Revolutionize Visual Narratives Using Prime Text Extensions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/iphone-and-itunes-compatibility-troubleshooting-in-windows-11-now-fixed/"><u>IPhone and iTunes Compatibility Troubleshooting in Windows 11 - Now Fixed!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-launch-failures-with-your-pacfific-drive-expert-advice-and-fixes/"><u>Resolving Launch Failures with Your Pacfific Drive: Expert Advice & Fixes</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-telegram-spy-tools-on-samsung-galaxy-m54-5g-for-parents-drfone-by-drfone-virtual-android/"><u>Top 10 Telegram Spy Tools On Samsung Galaxy M54 5G for Parents | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-apex-legends-solve-common-engine-issues-now/"><u>Trouble with Apex Legends? Solve Common Engine Issues Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-sons-of-the-forest-for-pc-tips-and-tricks-for-uninterrupted-gaming/"><u>Troubleshooting 'Sons of the Forest' For PC: Tips and Tricks for Uninterrupted Gaming</u></a></li>
+</ul></div>
 

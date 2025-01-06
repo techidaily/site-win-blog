@@ -1,7 +1,7 @@
 ---
 title: "Dual Frames Per Second Drop-Off Issue on PCs: Comprehensive Fixes and Optimizations"
-date: 2024-08-23T12:35:51.937Z
-updated: 2024-08-24T12:35:51.937Z
+date: 2024-12-29T18:44:28.914Z
+updated: 2025-01-06T02:25:43.244Z
 tags:
   - win11
   - win10
@@ -50,9 +50,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
@@ -60,12 +57,23 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 1. Launch Steam and navigate to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
@@ -82,9 +90,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 If this method doesn’t help, go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Delete the Preferences and Caches folder
 
  According to Sports Interactive, Football Manager 2021 crashing may be caused by the custom data, and the very solution is to remove the preferences and caches folder. Don’t worry as this will not affect your game progress.
@@ -99,8 +104,9 @@ If this method doesn’t help, go ahead with the next fix below.
 So does the crash go away now? If not, there is the last fix to try.
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -108,18 +114,22 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
-3. Click**Set Launch Options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
-4. Type**–config very\_low** in the text field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
+3. Click**Set Launch Options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
+4. Type**–config very\_low** in the text field and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
  If all the methods above don’t give you luck, you can reinstall the game, or directly submit a **[support ticket](https://support.sega.co.uk/hc/en-gb/requests/new)**  for further assistance.
@@ -138,8 +148,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +155,26 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vimeo-videos.techidaily.com/new-2024-approved-going-above-and-beyond-without-the-need-for-vimeo/"><u>[New] 2024 Approved Going Above and Beyond Without the Need for Vimeo</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-decoding-instagrams-max-video-length-policy/"><u>[New] Decoding Instagram's Max Video Length Policy</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-mastering-whatsapp-call-recording-techniques/"><u>[New] Mastering WhatsApp Call Recording Techniques</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-detailed-guide-taking-full-screen-photos-with-android-for-2024/"><u>[Updated] Detailed Guide Taking Full-Screen Photos with Android for 2024</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-in-2024-quick-start-marketing-tricks-elevating-your-brands-reach/"><u>[Updated] In 2024, Quick-Start Marketing Tricks Elevating Your Brand's Reach</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-visionaries-shaping-marvel-online-experience/"><u>[Updated] In 2024, Visionaries Shaping Marvel Online Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-ways-to-prevent-football-manager-2022-from-crashing-on-your-pc/"><u>Effective Ways to Prevent Football Manager 2022 From Crashing on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-pcs-valorant-startup-problems-with-these-2024-pro-tips/"><u>Fix Your PC's Valorant Startup Problems with These 2024 Pro Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-windows-n-crashed-dragon-age-origins-game-with-these-proven-tips/"><u>Fix Your Windows N-Crashed Dragon Age: Origins Game with These Proven Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-directx-failed-glitch-on-fifa-20-for-flawless-playing-experience/"><u>How to Fix the 'DirectX Failed' Glitch on FIFA 20 for Flawless Playing Experience</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/how-to-fix-your-computer-when-it-gets-stuck-during-windows-setup/"><u>How to Fix Your Computer When It Gets Stuck During Windows Setup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/launching-successfully-into-action-fixes-for-when-pathfinder-wrath-of-the-righteous-doesnt-open/"><u>Launching Successfully Into Action: Fixes for When Pathfinder: Wrath of the Righteous Doesn’t Open</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-steel-city-adventure-no-more-pc-crashes-with-these-detroit-become-human-tweaks/"><u>Master the Steel City Adventure - No More PC Crashes with These Detroit: Become Human Tweaks!</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-in-2024-the-ultimate-showdown-after-effects-vs-adobe-premiere-pro/"><u>New In 2024, The Ultimate Showdown After Effects vs Adobe Premiere Pro</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixes-for-missing-textures-in-call-of-duty-warzone/"><u>Resolved: Fixes for Missing Textures in Call of Duty: Warzone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/successful-strategies-for-correcting-directx-errors-within-anno-1800/"><u>Successful Strategies for Correcting DirectX Errors Within Anno 1800</u></a></li>
+<li><a href="https://driver-error.techidaily.com/troubleshooting-guide-resolving-unsupported-hardware-detection-errors/"><u>Troubleshooting Guide: Resolving Unsupported Hardware Detection Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-halo-infinites-secrets-fixing-game-crashing-issues-for-smooth-playthrough/"><u>Unlocking Halo Infinite's Secrets: Fixing Game-Crashing Issues for Smooth Playthrough</u></a></li>
+<li><a href="https://extra-information.techidaily.com/unveiling-the-power-of-video-enhancer-22-for-professionals/"><u>Unveiling the Power of Video Enhancer 2.2 for Professionals</u></a></li>
+</ul></div>
 

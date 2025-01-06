@@ -1,7 +1,7 @@
 ---
 title: "Pro Tips: Eliminate Lag in The Sims 4 for PC - Advanced Fixes & Tweaks, 2024 Edition"
-date: 2024-08-23T12:36:30.763Z
-updated: 2024-08-24T12:36:30.763Z
+date: 2025-01-01T17:13:11.881Z
+updated: 2025-01-05T20:39:42.718Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/71005eecdd2fec9bde2d87e54e71962fc2dc07f26
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/Fallout76.jpg)
 
  Fallout 76 has been quite popular since it was released. However, some players complain that they**experienced very low FPS** while playing the game. If you’re facing the same problem, don’t worry. Here we’ll tell you how to fix it easily and quickly.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -79,16 +83,10 @@ If this fix doesn’t do the trick, check out the next one.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  After updating your graphics driver, restart your PC and launch Fallout 76 to check the game performance.
@@ -102,16 +100,22 @@ If this method doesn’t work for you, take a look at the next one.
 1. Launch Fallout 76 and click**SETTINGS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-settings.jpg)
 2. Select**DISPLAY** , then set the Window mode to**Fullscreen** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-fullscreen.jpg)
 3. Lower the**Quality** settings on**Texture** ,**Water** ,**Lighting** and**Shadow** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Lower the**Fade** settings on**Actor** /**Item** /**Object** /**Grass** .
 
 Restart the game to test the game performance.
 
  If you’re still experiencing low FPS in Fallout 76, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Turn off VSync
 
@@ -120,9 +124,11 @@ Restart the game to test the game performance.
 1. On your keyboard, press the**Windows logo key** and**E** at the same time to open**File Explorer** . Then type**Documents\\My Games\\Fallout 76** in the address bar.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/file-explorer-fallout-76.jpg)
 2. Open the**Fallout76Prefs.ini** file.  
+
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76prefs.jpg)
 3. Use the shortcut key**Ctrl+F** to search the word ‘**iPresentInterval** ‘. Then change “iPresentInterval=1” to “**iPresentInterval=0** “. This will turn off VSync.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/fallout76-iPresentInterval-0.jpg)
@@ -132,9 +138,6 @@ Launch Fallout 76 again to see if your FPS has improved.
 
 If this fix doesn’t help, proceed to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Change your power plan
 
  Your computer’s performance could be limited by the power plan you selected. To make the most out of your PC, you can change your power plan to High performance. Here’s how:
@@ -145,15 +148,17 @@ If this fix doesn’t help, proceed to the next one.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/power-plan-high-performance.jpg)
 
 <!-- affiliate ads begin -->
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 Relaunch Fallout 76 to test the game performance.
 
 If your FPS is still very low, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Optimize NVIDIA settings
 
  To get the best performance for your game, you can optimize the graphics settings through NVIDIA Control Panel. Here’s how:
@@ -163,15 +168,13 @@ If your FPS is still very low, try the next fix.
 2. Select**3D settings** \>**Manage 3D settings** from the left panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/nvidia-manage-3d-settings.jpg)
 3. Navigate to the**Program Settings** and select the**Fallout 76.exe** file from the drop-down list.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/program-settings-fallout76.jpg)
 4. Modify the settings as below:  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Maximum pre-rendered frames:**1**  
  Preferred refresh rate:**Highest available**  
  Power Management Mode:**Prefer maximum performance**  
@@ -194,8 +197,6 @@ Once done, restart Fallout 76 and your FPS should increase dramatically.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +204,20 @@ Once done, restart Fallout 76 and your FPS should increase dramatically.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-guidance.techidaily.com/new-mastering-zooms-video-enhancements-filter-techniques/"><u>[New] Mastering Zoom's Video Enhancements Filter Techniques</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-the-secret-ingredient-to-success-15-activities-that-enhance-learning-while-listening-to-podcasts-for-2024/"><u>[New] The Secret Ingredient to Success 15 Activities that Enhance Learning While Listening to Podcasts for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-boost-your-instagram-presence-optimal-tracking-tools-revealed-for-2024/"><u>[Updated] Boost Your Instagram Presence Optimal Tracking Tools Revealed for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/1722879830344-android-phone-no-call-functionality-follow-these-steps-to-fix-it/"><u>Android Phone No Call Functionality? Follow These Steps to Fix It!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-lag-from-your-street-fighter-groove-expert-fixes-for-a-smooth-gaming-experience/"><u>Banish LAG From Your Street Fighter Groove: Expert Fixes for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/new-in-2024-how-to-reverse-a-tiktok-video-with-ease-an-ultimate-guide/"><u>New In 2024, How to Reverse A TikTok Video with Ease An Ultimate Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-installation-hurdles-successfully-starting-far-cry-6-on-your-computer/"><u>Overcoming Installation Hurdles – Successfully Starting Far Cry 6 on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-frustration-eliminating-regular-crashes-in-thunder-tier-1-game-on-personal-computers/"><u>Overcoming the Frustration: Eliminating Regular Crashes in Thunder Tier 1 Game on Personal Computers</u></a></li>
+<li><a href="https://fox-pages.techidaily.com/personalized-user-engagement-strategies/"><u>Personalized User Engagement Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-your-fortnite-endless-loop-of-the-load-screen/"><u>Resolved: Troubleshooting Your Fortnite Endless Loop of the Load Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-apex-legends-game-crashes-and-engine-issues/"><u>Troubleshooting Guide: Fixing Apex Legends Game Crashes and Engine Issues</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/ultimate-backdrop-choices-for-streamers-for-2024/"><u>Ultimate Backdrop Choices for Streamers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-windows-pc-screen-shimmer-in-google-chrome-a-comprehensive-2024-update/"><u>Ultimate Guide: Resolving Windows PC Screen Shimmer in Google Chrome - A Comprehensive 2024 Update</u></a></li>
+</ul></div>
 

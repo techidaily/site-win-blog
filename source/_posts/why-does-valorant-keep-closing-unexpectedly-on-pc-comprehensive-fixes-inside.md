@@ -1,7 +1,7 @@
 ---
 title: Why Does Valorant Keep Closing Unexpectedly on PC? Comprehensive Fixes Inside!
-date: 2024-08-23T12:38:18.670Z
-updated: 2024-08-24T12:38:18.670Z
+date: 2024-12-31T19:37:12.089Z
+updated: 2025-01-05T19:46:00.898Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Atomic Heart crashing issue is annoying. This popular video game is not immune t
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/03/flawless-widescreen-1200x762.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Update your drivers
 
  Outdated or corrupted drivers are the common reason for game crashing, therefore, make sure you have the most up-to-date drivers, especially for graphics and sound card drivers.
@@ -56,14 +60,6 @@ There are two ways to find the correct and the latest driver:
 
  Restart your computer for the changes to take effect, and then check Atomic Heart again. It should be running properly. If not, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## 3\. Kill WindowsExplorer.exe
 
  Some gamers found if you’re playing through the game pass, you can kill the WindowsExplorer.exe in the task manager to fix Atomic Heart crashing issue.
@@ -72,9 +68,6 @@ There are two ways to find the correct and the latest driver:
 2. Find Windows Explorer.exe task and end it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/end-task-windows-explorer.jpg)
 3. Play the game again to check for crashes.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  You can get WindowsExplorer.exe back by opening Task Manager again, then click**File > Run new task** **\>** **type explorer.exe** and hit enter.
 
@@ -86,23 +79,33 @@ There are two ways to find the correct and the latest driver:
 2. Right-click Atomic Heart and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/Steam-right-click-Properties.jpg)
 3. Click the**Local Files** tab, then select**Verify Integrity of Game Files** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/verify-game-files.jpg)
 4. When it’s done, relaunch Steam and the game.
+
 <!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If it doesn’t help, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Lower graphical settings
 
  Even if your system meets the minimum specifications for the game, increasing the settings will put more workload on your hardware. If your graphics settings are too high for your system, this can cause the game to crash.
 
  You can run Atomic Heart at medium or lower graphical settings and see if the issue goes away. Some gamers reported they were able to get through the_March Of Flowers_ quest without crashes by turning down all graphics settings to the minimum (including resolution) and turning off DLSS Super Resolution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 6\. Repair system files
 
@@ -118,16 +121,15 @@ Take a look at how it works:
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  After the repairs, restart your computer and Atomic Heart to see if it fixes the problem.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Disable third-party software
 
  Other software running on your computer, such as antivirus or firewall software, can conflict with the game and cause it to crash. Some antivirus software may block certain game files which causes difficulties in launching Atomic Heart on your PC. You can temporarily disable your antivirus software to determine whether game crashing is caused by your antivirus software. If that’s the culprit, check your antivirus support page or help for a ‘gaming mode’ or similar option and enable that prior to playing. Or use another anti-malware software.
@@ -152,8 +154,6 @@ Take a look at how it works:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +161,24 @@ Take a look at how it works:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/n-2024-green-screen-journey-begins-on-yt-ideas-take-flight/"><u>[New] In 2024, Green Screen Journey Begins on YT, Ideas Take Flight!</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-twitters-hot-spots-1-10-viral-visits/"><u>[New] Twitter's Hot Spots #1-#10 Viral Visits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-discord-screen-share-audio-not-working/"><u>[Solved] Discord Screen Share Audio Not Working</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-engage-entertain-enlighten-crafting-compelling-live-thumbnails/"><u>[Updated] 2024 Approved Engage, Entertain, Enlighten Crafting Compelling Live Thumbnails</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-ideal-mobile-editing-platforms-for-dji-imagery/"><u>[Updated] In 2024, Ideal Mobile Editing Platforms for DJi Imagery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/civilization-6-not-opening-winning-the-battle-against-windows-10-glitches/"><u>Civilization 6 Not Opening? Winning the Battle Against Windows 10 Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-glitches-ensuring-stable-gameplay-on-windows-with-the-witcher-3/"><u>Eliminating Glitches: Ensuring Stable Gameplay on Windows with 'The Witcher 3'</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/framefusion-instagram-photo-fusion-across-oses-for-2024/"><u>FrameFusion Instagram Photo Fusion Across OSes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-football-manager-2022s-stuttering-performance-in-windowsmacos/"><u>How to Resolve Football Manager 2022'S Stuttering Performance in Windows/MacOS</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-how-can-i-catch-the-regional-pokemon-without-traveling-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How Can I Catch the Regional Pokémon without Traveling On Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/latest-updates-on-the-m4-mac-mini-anticipated-costs-launch-timeline-specifications-and-emerging-gossip/"><u>Latest Updates on the M4 Mac Mini: Anticipated Costs, Launch Timeline, Specifications & Emerging Gossip</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mlb-the-show-21-play-issues-addressed-smoother-online-experience-awaits/"><u>MLB The Show 21 Play Issues Addressed - Smoother Online Experience Awaits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-sailing-for-fallout-4-tackle-stutter-problems-today/"><u>Smooth Sailing for Fallout 4: Tackle Stutter Problems Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-solutions-for-diablo-2-resurrected-game-stop-issues/"><u>Tips and Solutions for Diablo 2 Resurrected Game-Stop Issues</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ultimate-guide-to-virtual-webcams-how-manycam-revolutionizes-online-broadcasting/"><u>Ultimate Guide to Virtual Webcams: How ManyCam Revolutionizes Online Broadcasting</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlocking-creative-potential-how-chatgpt-enhances-content-production/"><u>Unlocking Creative Potential: How ChatGPT Enhances Content Production</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-against-glitches-effective-solutions-for-continuous-fortnite-pc-crashes/"><u>Winning Against Glitches: Effective Solutions for Continuous Fortnite PC Crashes</u></a></li>
+</ul></div>
 

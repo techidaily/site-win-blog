@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Troubleshooting Chivalry II Stability Problems
-date: 2024-08-23T12:37:01.420Z
-updated: 2024-08-24T12:37:01.420Z
+date: 2024-12-31T18:04:47.975Z
+updated: 2025-01-06T00:42:08.621Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Read on to find how.
 * [For Mac users](https://tools.techidaily.com/drivereasy/download/)
 * [For mobile users](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## For Windows users
 
 1. [Update the game](https://tools.techidaily.com/drivereasy/download/)
@@ -40,9 +44,6 @@ Read on to find how.
 
 Right now Stardew Valley 1.5.4 patch has been released on PC.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 2\. Delete the startup preferences folder
 
  Stardew Valley will use a specific file to store the startup preferences for users, but this file could be the culprit of not working/ not launching issue. You can delete the startup preferences file to fix the problem.
@@ -53,9 +54,11 @@ Here’s how:
 2. Type**%appdata%** and press the**Enter** key.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/appdata.jpg)
 3. Find and open the**Stardew Valley** folder.
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Find the**startup\_preferences** folder then delete it.
 5. Launch the game to check.
 
@@ -79,14 +82,16 @@ If it doesn’t work, move to the next fix.
 4. Find the**\_Redist** folder, then run**xnafx40\_redist installer** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_14-30-45.jpg)
 5. When the whole process is finished, back to the upper folder, right-click on Stardew Valley and click**Run as administrator** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_14-36-48.jpg)
 6. The game should launch normally.
 
  Don’t bother downloading the Microsoft XNA framework, Microsoft has removed it from their official website.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4\. Update d3d9.dll
 
  The older version of d3d9.dll could be the reason for the Stardew Valley not launching issue. To do this, you need to know that the fix might be harmful if the DLL file you download from the internet contains viruses or malware.
@@ -100,8 +105,9 @@ If it doesn’t work, move to the next fix.
 7. Run Stardew Valley to check.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 5\. Set Launch Options in Steam
 
  Setting up the Steam Launch options would be a usable fix for Stardew Valley.
@@ -110,14 +116,15 @@ If it doesn’t work, move to the next fix.
 2. In the General tab, click**SET LAUNCH OPTIONS.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/2021-01-29_15-15-13.jpg)
 3. Make sure the pop-up window’s box is empty. Then click**OK** to save the changes.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. Run Stardew Valley to check.
 
  We’ve collected all the methods that you may don’t know. I believe you’ve already tried reboot, reinstall the game, verify the game files, Run Stardew Valley as administrator and shut down antivirus or firewall.
 
  If none of the fixes would help you solve the problem, I suggest you can contact the developer team for help. They have a[forum](https://forums.stardewvalley.net/forums/help-bug-reports.12/) to receive feedback.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Bonus tip: Update your driver
 
@@ -147,19 +154,17 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## For Mac users
 
  If you haven’t granted the game access to folder, you may encounter this issue. Follow the steps to fix the error:
@@ -175,9 +180,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## For mobile users
 
  The game crashing on mobile phones is not a wide issue, but if you experience this problem, the fix would help.
@@ -205,8 +207,6 @@ Save file location:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +214,20 @@ Save file location:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-tips.techidaily.com/uaranteed-method-to-keep-youtube-shorts-out-of-sight/"><u>[New] Guaranteed Method to Keep YouTube Shorts Out of Sight</u></a></li>
+<li><a href="https://article-posts.techidaily.com/new-in-2024-unveiling-best-waterproof-tech-action-cameras-roundup/"><u>[New] In 2024, Unveiling Best Waterproof Tech Action Cameras Roundup</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-humor-hub-adobe-meme-manipulation/"><u>2024 Approved Humor Hub Adobe Meme Manipulation</u></a></li>
+<li><a href="https://fox-place.techidaily.com/can-you-fix-a-faulty-graphics-processor-unit-gpu-expert-advice-from-yl-computing-and-software-solutions/"><u>Can You Fix a Faulty Graphics Processor Unit (GPU)? Expert Advice From YL Computing & Software Solutions</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/conversion-gratuite-de-fichier-pcx-a-bmp-en-ligne-movavi/"><u>Conversion Gratuite De Fichier PCX À BMP en Ligne - Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-overcome-pc-gaming-latency-in-valorant-solutions-and-tricks/"><u>Expert Tips to Overcome PC Gaming Latency in Valorant - Solutions & Tricks</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/gpt-blueprint-custom-chatgpt-crafting-guide/"><u>GPT Blueprint: Custom ChatGPT Crafting Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-can-i-bypass-a-forgotten-phone-password-of-realme-c51-by-drfone-android/"><u>In 2024, Can I Bypass a Forgotten Phone Password Of Realme C51?</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-any-vivo-s18-pro-phone-password-using-emergency-call-by-drfone-android/"><u>In 2024, How To Unlock Any Vivo S18 Pro Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://win-blog.techidaily.com/microsoft-edge-crashing-on-windows-11-heres-how-to-fix-it-now/"><u>Microsoft Edge Crashing on Windows 11? Here's How to Fix It Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/nier-automata-stability-improvements-no-more-crashes/"><u>NieR: Automata Stability Improvements - No More Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-your-gaming-experience-by-fixing-lag-on-avatars-world-strategies-for-a-faster-gameplay/"><u>Optimize Your Gaming Experience by Fixing Lag on Avatar’s World: Strategies for a Faster Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-crashing-problems-in-total-war-warhammer-ii/"><u>Troubleshooting Steps for Crashing Problems in TOTAL WAR: WARHAMMER II</u></a></li>
+</ul></div>
 

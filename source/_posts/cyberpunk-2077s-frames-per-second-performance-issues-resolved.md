@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077'S Frames Per Second Performance Issues Resolved
-date: 2024-08-23T12:37:33.155Z
-updated: 2024-08-24T12:37:33.155Z
+date: 2024-12-31T04:49:51.836Z
+updated: 2025-01-06T04:10:50.952Z
 tags:
   - win11
   - win10
@@ -35,8 +35,9 @@ It seems that strings of bugs come along with the release of[Cyberpunk 2077](htt
  If you’re sure that your CPU comes with integrated graphics, check out the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
 [According to some gamers](https://www.reddit.com/r/gog/comments/ka7ezm/task%5Fmanager%5Fsays%5Fcyberpunk%5F2077%5Fisnt%5Fusing%5Fmy%5Fgpu/) , this issue could result from**a faulty or outdated graphics driver** . If you haven’t updated any drivers before installing Cyberpunk 2077, definitely do it now as it could save you from losing $60.
@@ -65,15 +66,9 @@ To do so, first visit the website of your graphics card manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Cyberpunk 2077 now runs on your GPU.
@@ -89,23 +84,28 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Cyberpunk 2077 launcher.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click **Options** .  
+
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-1.jpg)
 5. Select **High performance** and click **Save** . Then test the gameplay in Cyberpunk 2077.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2077-preferred-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If this trick doesn’t solve your problem, you can continue to the next one.
 
 ### Fix 4: Install all Windows updates
@@ -118,6 +118,10 @@ And it’s quite easy to check for updates:
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install the available system updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once you’ve installed all the system updates, do a reboot and test the gameplay in Cyberpunk 2077.
 
@@ -133,8 +137,6 @@ And it’s quite easy to check for updates:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -142,4 +144,22 @@ And it’s quite easy to check for updates:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-tweeting-trouble-laughter-league/"><u>[New] 2024 Approved Tweeting Trouble Laughter League</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/024-approved-unveiled-revelation-of-hidden-shorts/"><u>[New] 2024 Approved Unveiled Revelation of Hidden Shorts</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-in-2024-video-integration-made-easy-building-dynamic-youtube-compilations/"><u>[Updated] In 2024, Video Integration Made Easy Building Dynamic YouTube Compilations</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-innovative-approaches-to-recording-and-editing-video-vo/"><u>[Updated] Innovative Approaches to Recording and Editing Video VO</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-natures-set-pieces-a-collection-of-easy-to-download-templates-for-pros-and-beginners/"><u>2024 Approved Nature's Set Pieces A Collection of Easy-to-Download Templates for Pros & Beginners</u></a></li>
+<li><a href="https://win-blog.techidaily.com/2024s-ultimate-troubleshooting-companion-resolving-rockstar-games-launcher-problems/"><u>2024'S Ultimate Troubleshooting Companion: Resolving Rockstar Games Launcher Problems</u></a></li>
+<li><a href="https://solve-helper.techidaily.com/enhance-your-livestreams-with-advanced-virtual-camcorders-including-the-powerful-manycam-suite/"><u>Enhance Your Livestreams with Advanced Virtual Camcorders, Including the Powerful ManyCam Suite!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-steams-cloud-synchronization-issues-a-comprehensive-guide/"><u>Fixing Steam's Cloud Synchronization Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009700242-mass-effect-remastered-crashes-heres-how-to-solve-the-issues-on-ps4xbox-onepc/"><u>Mass Effect Remastered Crashes? Here's How to Solve the Issues on PS4/Xbox One/PC</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ize-youtube-submission-swift-rendering-and-uploading-methods/"><u>Optimize YouTube Submission - Swift Rendering and Uploading Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-resolving-winwordexe-program-crashes-in-no-time/"><u>Quick Solutions: Resolving WINWORD.EXE Program Crashes in No Time!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-dealing-with-death-stranding-pc-bugs-and-crashes-effectively/"><u>Resolved: Dealing with Death Stranding PC Bugs and Crashes Effectively</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-6-premium-video-translation-tools-for-2024/"><u>Top 6 Premium Video Translation Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/try-simple-recipes-that-require-minimal-preparation-especially-on-busy-days-from-work/"><u>Try Simple Recipes that Require Minimal Preparation, Especially on Busy Days From Work.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unseen-by-steam-here-are-eight-fixes-for-your-unresponsive-vr-headset/"><u>Unseen by Steam? Here Are Eight Fixes for Your Unresponsive VR Headset</u></a></li>
+</ul></div>
 

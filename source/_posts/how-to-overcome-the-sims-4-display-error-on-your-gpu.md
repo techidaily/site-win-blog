@@ -1,7 +1,7 @@
 ---
 title: How to Overcome The Sims 4 Display Error on Your GPU
-date: 2024-08-23T12:37:44.641Z
-updated: 2024-08-24T12:37:44.641Z
+date: 2025-01-02T20:10:56.542Z
+updated: 2025-01-05T18:54:39.365Z
 tags:
   - win11
   - win10
@@ -34,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Check the Roblox server
 
  When you see error code 277 in Roblox, you should first check the game server status to make sure that this is not a problem on your end: more often than not, error code 277 is a problem with the game server, and there’s nothing more for you to do other than wait for the devs to get their server fixed.
@@ -48,7 +52,15 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-13.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Revisit your network settings
 
@@ -68,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Delete Roblox logs
 
  Many users reported that deleting the Roblox logs on their computers helps to fix the error 277 for them. To see if this also works for you:
@@ -78,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 1. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste**%LocalAppData%/Roblox** and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-15.png)
 2. Press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all the log files here.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 3. On your keyboard, press the**Windows** key and the**R** key together. Copy and paste **%USERPROFILE%AppDataLocalLowRbxLogs** and hit**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-16.png)
 4. Also, press the**Ctrl** and**A** keys together to select all, then press**Shift** and**Delete** to remove all files here.
@@ -88,6 +94,10 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
  Then try to launch your Roblox again to see if the error code 277 remains. If the problem remains, please move on.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Run Roblox as admin
 
@@ -99,15 +109,17 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 ![](https://www.drivereasy.com/wp-content/uploads/2024/01/image-18.png)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now open Roblox again (it should be opened with administrative permission), to see if error code 277 is st. If the problem remains, please move on to the next fix.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Try a different DNS server
 
  If you use your ISP’s (Internet Service Provider) default DNS server, you might encounter issues like a crowded cache, which could cause problems like error code 277 in Roblox. To see if this is an issue for you, you can first flush the DNS, and then switch to a public DNS server. To do so:
@@ -118,31 +130,22 @@ thumbnail: https://thmb.techidaily.com/60aeb73e6646ca7cba89b069f503754c9115c11cb
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Then switch to a public DNS server, and we recommend the Google DNS server as it’s fast and secure. Here’s how you can change the DNS server:
 
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
@@ -164,11 +167,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a**60-day Money-Back Guarantee** so you can refund anytime if Fortect doesn’t fix your problem).  
-![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
+
  The repair is available with the paid version of Fortect that comes with a full money-back guarantee and full technical support. If you need any assistance, feel free to contact their support team.
 
  (Tips: Still unsure if Fortect is what you need? Check this [Fortec Review](https://tools.techidaily.com/drivereasy/download/) ! )
@@ -185,8 +190,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +197,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/ryu-ga-gotoku-like-a-dragon-unboxing-its-successful-port-to-your-personal-computer/"><u>'Ryu Ga Gotoku: Like a Dragon' – Unboxing Its Successful Port to Your Personal Computer</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-dazzling-design-discovering-three-instagram-highlight-hacks-for-2024/"><u>[New] Dazzling Design Discovering Three Instagram Highlight Hacks for 2024</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-reinforcing-silence-in-obs-recordings/"><u>[New] In 2024, Reinforcing Silence in OBS Recordings</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-how-to-shoot-breathtaking-igtv-content-on-smartphonesdlsrs/"><u>[Updated] 2024 Approved How to Shoot Breathtaking IGTV Content on Smartphones/DLSRs</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-the-silent-watchers-best-instagram-apps/"><u>[Updated] In 2024, The Silent Watchers' Best Instagram Apps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-the-webs-deception-caution-against-buying-non-real-subscribers/"><u>[Updated] In 2024, The Web's Deception Caution Against Buying Non-Real Subscribers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crack-the-mystery-behind-call-of-duty-black-ops-cold-war-error-code-80070057/"><u>Crack the Mystery Behind Call of Duty: Black Ops Cold War Error Code 80070057</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-change-netflix-location-to-get-more-country-version-on-lava-blaze-pro-5g-drfone-by-drfone-virtual-android/"><u>How to Change Netflix Location to Get More Country Version On Lava Blaze Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-changeadd-location-filters-on-snapchat-for-your-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>How to Change/Add Location Filters on Snapchat For your Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-the-most-recent-logiten-g403-driver-update-for-pcs/"><u>How to Get the Most Recent Logiten G403 Driver Update for PCs</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-do-you-unlock-your-apple-iphone-6s-plus-learn-all-4-methods-by-drfone-ios/"><u>In 2024, How Do You Unlock your Apple iPhone 6s Plus? Learn All 4 Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-marvel-8-proven-steps-to-fix-guardians-of-the-galaxy-pc-game-crashes/"><u>Master Marvel: 8 Proven Steps to Fix Guardians of the Galaxy PC Game Crashes</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/shutter-speeds-and-simplicity-in-tt560-flashlight-review/"><u>Shutter Speeds and Simplicity in TT560 Flashlight Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-pacific-drive-not-working-problems-expert-tips-and-advice/"><u>Solve Pacific Drive Not Working Problems - Expert Tips & Advice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-tips-for-overcoming-crash-errors-in-call-of-duty-mobile-pacific-skies-campaign/"><u>Top Tips for Overcoming Crash Errors in Call of Duty: Mobile - Pacific Skies Campaign</u></a></li>
+</ul></div>
 

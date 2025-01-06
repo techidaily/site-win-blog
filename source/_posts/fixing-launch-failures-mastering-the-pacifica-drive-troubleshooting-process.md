@@ -1,7 +1,7 @@
 ---
 title: "Fixing Launch Failures: Mastering the Pacifica Drive Troubleshooting Process"
-date: 2024-08-23T12:35:45.031Z
-updated: 2024-08-24T12:35:45.031Z
+date: 2025-01-02T18:59:10.190Z
+updated: 2025-01-05T16:29:23.160Z
 tags:
   - win11
   - win10
@@ -37,13 +37,18 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa39454d4da.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If not, restart your browser. If the problem still exists, try Fix 2, below.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Clear cookies and history of your browser
 
  It’s possible that some cookies and cached files are causing YouTube to freeze. You can clear the browsing data of your browser and check if this works for you.
@@ -58,10 +63,6 @@ thumbnail: https://thmb.techidaily.com/92d935200679b107d6e949886541d1fff9656f8b1
 2. From the **Advanced** tab, set the Time range to **All time** . Select the types of information you want to remove. Make sure **Cookies and other site data** , **Cache images and files** are selected.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa337b7af41.jpg)
 3. Click**Clear data** .
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 4. When the data is cleared, type **chrome://restart** in the URL bar then press **Enter** to restart Chrome and check if the problem is resolved. If not, try[**Fix 3**](https://tools.techidaily.com/drivereasy/download/) .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa39e38cfc3.png)
 
@@ -71,11 +72,13 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Select **Library** \> **History** \> **Clear Recent History** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa33f2eb77a.png)
 3. A small window will pop up and ask you for details about what to delete. Select all check boxes and set the time range to **Everything** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa34023c8f2.jpg)
 4. Click**Clear Now** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Once everything is clear, relaunch Firefox and check if YouTube now works properly. If not, try Fix 3, below.
 
 ---
@@ -89,30 +92,35 @@ DbSchema database designer for all databases, schema design in the team, schema 
 1. Type **chrome://extensions** in the URL bar and press **Enter** to open the Chrome extension manager.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa350150087.png)
 2. **Toggle off** all extensions to disable them.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa350f743b4.jpg)
 3. Restart Chrome and test if the YouTube issue is fixed. If not, move on to[**Fix 4**](https://tools.techidaily.com/drivereasy/download/) .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 
 #### On Firefox
 
 1. Click the**three line** on the far right, then select**Add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa356b752ac.jpg)
 2. In the Add-ons Manager tab,  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
    * **To disable an extension or theme** , click **Extensions** or**Themes** , select the add-on you want to disable, and click the **Disable** button next to it.  
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa35ddb2fa5.jpg)  
    * **To disable a plugin** , click **Plugins** , select the plugin you want to disable, and select **Never Activate** from the drop-down menu.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa35eb2a62b.jpg)  
    * Restart Firefox to check if the problem is resolved. If not, try Fix 4, below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable hardware acceleration
 
@@ -128,9 +136,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Scroll down to the bottom and click **Advanced** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36e7f2618.jpg)
 3. Under **System** , turn off the **Use hardware acceleration when available** option.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa36f56f5eb.jpg)
 4. Relaunch Chrome and test. If YouTube still freezes, try **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
@@ -141,18 +146,16 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click **General** on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa373c65352.jpg)
 3. Under **Performance** , de-select **Use recommended performance settings** , then de-select **Use hardware acceleration when available** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa374843a3c.jpg)
 4. Close Firefox, then restart it and check. If YouTube still freezes, try Fix 5, below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Update your video driver
 
  If the fixes above didn’t work for you, the most likely cause is a video driver problem,
@@ -174,11 +177,12 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa38934c6ad.jpg)
 4. Restart your computer and check if YouTube now works properly. If it doesn’t, contact Driver Easy’s support team at**<support@drivereasy.com>** for further assistance. They’d be happy to help you. Or you can move on to Fix 6, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Fix 6: Update Adobe Flash Player
 
  Most video stream portals use Adobe Flash Player to stream videos. If Adobe Flash Player is old, or somehow corrupt, missing, it may cause YouTube to freeze. You can update Adobe Flash Player and see if it solves your problem.
@@ -189,16 +193,15 @@ Here’s how to update Adobe Flash Player
 2. Click**Install Now** to download the latest version of Adobe Flash Player.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bfa384304614.jpg)
 3. Double-click on the downloaded file and follow the on-screen instructions to install the program.
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Check if the YouTube problem is resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Use a different browser
 
  Sometimes you may need a different browser. Perhaps the web browser you are using is incompatible with the YouTube web player. Maybe its configuration, extensions or plugins (like Adobe Flash Player mentioned above) are preventing videos from playing on YouTube.
@@ -219,8 +222,6 @@ Hopefully this can help you out.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +229,24 @@ Hopefully this can help you out.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-2024-approved-practical-measures-for-capturing-vimeo-videos/"><u>[New] 2024 Approved Practical Measures for Capturing Vimeo Videos</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-dismantling-the-shadowy-video-barrier-on-youtube-for-2024/"><u>[New] Dismantling the Shadowy Video Barrier on YouTube for 2024</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-2024-approved-essential-guide-using-ifunnys-memetic-app/"><u>[Updated] 2024 Approved Essential Guide Using iFunny's Memetic App</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-music-files-on-xiaomi-redmi-k70-by-fonelab-android-recover-music/"><u>Complete guide for recovering music files on Xiaomi Redmi K70</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-persistent-stability-problems-in-immortals-fenyx-rising/"><u>Effective Solutions to Persistent Stability Problems in Immortals: Fenyx Rising</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ensuring-smooth-play-fixing-stability-problems-in-nba-2k21-for-desktop-users/"><u>Ensuring Smooth Play: Fixing Stability Problems in NBA 2K21 for Desktop Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hell-divers-2-error-handling-how-to-overcome-the-blue-screen-of-death-problems/"><u>Hell Divers 2 Error Handling: How to Overcome the Blue Screen of Death Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-divadmant-failure-dealing-with-error-code-6-on-modern-warfare-pc-edition/"><u>How to Fix Divadmant Failure - Dealing with Error Code 6 on Modern Warfare PC Edition</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-official-method-to-unlock-your-apple-iphone-13-pro-by-drfone-ios/"><u>How To Unlock Apple iPhone 13 Pro Official Method to Unlock Your Apple iPhone 13 Pro</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-my-samsung-galaxy-f15-5g-location-is-wrong-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix My Samsung Galaxy F15 5G Location Is Wrong | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-unveiling-clearer-imagery-instagrams-video-cropping-secrets/"><u>In 2024, Unveiling Clearer Imagery Instagram's Video Cropping Secrets</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-depth-analysis-of-lgs-latest-360-cameras-for-the-year-2023-for-2024/"><u>In-Depth Analysis of LG's Latest 360 Cameras for the Year 2023 for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-challenges-smooth-gameplay-for-the-updated-metro-exodus-on-pc/"><u>Overcoming Challenges: Smooth Gameplay for the Updated Metro Exodus on PC</u></a></li>
+<li><a href="https://discover-able.techidaily.com/personalizing-your-pc-a-step-by-step-guide-to-tweaking-your-windows-10-lock-screen-expert-insights-by-yl-software/"><u>Personalizing Your PC: A Step-by-Step Guide to Tweaking Your Windows 10 Lock Screen - Expert Insights by YL Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006021435-roblox-error-code-277-on-pc-2024-tips/"><u>Roblox Error Code 277 on PC - 2024 Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-problem-of-compiled-shaders-in-call-of-duty-black-ops-cold-war/"><u>Solving the Problem of Compiled Shaders in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-fixing-repeated-warno-applications-failures-in-windows/"><u>Troubleshooting Tips for Fixing Repeated WARNO Applications Failures in Windows</u></a></li>
+</ul></div>
 

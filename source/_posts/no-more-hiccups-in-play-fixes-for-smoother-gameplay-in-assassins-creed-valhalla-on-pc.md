@@ -1,7 +1,7 @@
 ---
 title: "No More Hiccups in Play: Fixes for Smoother Gameplay in Assassin's Creed Valhalla on PC"
-date: 2024-08-23T12:39:18.780Z
-updated: 2024-08-24T12:39:18.780Z
+date: 2024-12-31T16:03:49.568Z
+updated: 2025-01-05T18:56:53.047Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 6. **[Turn off overlays](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Optimize in-game settings](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Temporarily disable background programs
 
  If your computer runs several resource-hogging applications in the background, your game will be more likely to be stuttery. Hence, to resolve the Assassin’s Creed Valhalla stuttering issue, you need to suspend those unnecessary programs. Here are the steps you can follow:
@@ -55,9 +59,6 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Disable Windows 10 gaming features
 
  Game Mode is a feature in Windows 10 that focuses system resources on games when enabled. It was supposed to make gaming a much better experience, but it seems the opposite is true. And if you have background recording enabled on your system, it may cause micro stutters and even freezes. So to get rid of stutters, you need to disable the background recording feature and turn off Game Mode. To do so, take these steps:
@@ -68,23 +69,25 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
   
 ![turn off game mode to fix Assasin's Cree Valhalla stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode-to-fix-Assasins-Cree-Valhalla-stuttering-on-PC.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Select**Game bar** and set the**Record game clips, screenshots, and broadcast using Game bar** option to**Off** .  
   
 ![turn off recording](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-recording.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) From the left sidebar, select**Captures** . In the**Background recording** section, set the**Record in the background while I’m playing a game** option to**Off** .  
   
 ![turn off record in the background option](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-record-in-the-background-option.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) From the left sidebar, select**Game Mode** and set**Use Game Mode** option to**Off** .  
   
 ![turn off game mode windows 10](https://images.drivereasy.com/wp-content/uploads/2020/11/turn-off-game-mode.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/grbt-5VvbuI?si=qnoirlmljslpqcQj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After applying the changes, play your game to check if the issue persists. If that didn’t work, try the next fix.
 
@@ -96,13 +99,13 @@ thumbnail: https://thmb.techidaily.com/91b7cfb4d96e2456602f29985eb790b38dbd8c0fc
 
  There are mainly two ways you can update your graphics driver: manually and automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics card driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and[AMD](https://www.amd.com/en/support) release updates for their drivers regularly. All you need to do is go to the official website of your graphics card manufacturer. Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install the drivers. For Nvidia users, you can also use GeForce Experience to check for the driver.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics card driver (recommended)
 
@@ -116,9 +119,6 @@ Here’s how it works:
 
 ![update drivers automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
@@ -134,20 +134,18 @@ Here’s how it works:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/roll-back-to-a-previous-version.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Click**Driver Restore** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/driver-restore.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then follow the on-screen instructions to roll back your drivers.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Fix 4: Set priority to high in Task Manager
 
  Windows shares processor resources between all running processes based on their priority level. If a process has a higher priority level, it gets more processor resources for better performance compared to a process having lower priority. So in order to get rid of stutters, you should set your priority to high for your game. Here are the steps you can take:
@@ -158,13 +156,25 @@ Then follow the on-screen instructions to roll back your drivers.
   
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2020/11/open-Task-Manager.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) In the**Processes** tab, navigate to**ACValhalla\_Plus** . Right-click it and select**Go to details** .  
   
 ![set the priority to high ACValhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/set-the-priority-to-high-ACValhalla.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Now you’re navigated to**ACValhalla\_Plus.exe** . Right-click it and select**Set priority > High** .  
   
 ![set the priority to high ACValhalla to fix the game stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/set-the-priority-to-high-ACValhalla-to-fix-the-game-stuttering-on-PC.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Click**Change priority** .  
   
@@ -174,9 +184,6 @@ Now play your game and your issue should be resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ## Fix 5: Disable fullscreen optimizations
 
  There are certain games particularly affected by low FPS and stuttering issues when players enable fullscreen optimizations. So if you get constant stutters while playing Assassin’s Creed Valhalla, turning off this feature may actually improve your gaming experience.
@@ -189,19 +196,17 @@ Now play your game and your issue should be resolved.
   
 ![disable fullscreen optimizations fix Assasin's Creed Valhalla stuttering](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-fix-Assasins-Creed-Valhalla-stuttering.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
  3) Navigate to**ACValhalla** .exe. Right-click it and select**Properties** .  
   
 ![disable fullscreen optimizations fix Assasin's Creed Valhalla stuttering select Properties](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-fix-Assasins-Creed-Valhalla-stuttering-select-Properties.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Select the**Compatibility** tab. Check the box next to**Disable fullscreen optimizations** . Then click**Apply > OK** .  
   
 ![disable fullscreen optimizations Assasin's Creed Valhalla](https://images.drivereasy.com/wp-content/uploads/2020/11/disable-fullscreen-optimizations-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you’ve done these, play your game and it should run smoothly without stuttering.
 
@@ -215,13 +220,14 @@ Now play your game and your issue should be resolved.
   
 ![click on three parallel lines UBISOFT CONNECT](https://images.drivereasy.com/wp-content/uploads/2020/11/three-parallel-lines.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click on**Settings** .  
   
 ![UBISOFT settings](https://images.drivereasy.com/wp-content/uploads/2020/11/UBISOFT-settings-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Scroll down and under the**General** section, uncheck the box next to**Enable in-game overlay for supported games** .
 
 ![disable in-game overlay to fix Assasin's Creed Valhalla stuttering on PC
@@ -231,9 +237,6 @@ Now play your game and your issue should be resolved.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Optimize in-game settings
 
  If you’re playing the game on high system specifications, it’s most likely to stutter. To fix it, try to optimize your game’s graphics settings. And here are some recommendations you can try:
@@ -242,9 +245,6 @@ Now play your game and your issue should be resolved.
   
 ![optimize the game's graphics settings fix Assasin's Creed Valhalla stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/optimize-the-games-graphics-settings-fix-Assasins-Creed-Valhalla-stuttering-on-PC.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  2) Select**Screen** and head to the**Window Mode** section. If you’re running on**Fullscreen** mode, change to**Borderless** ; If it’s already on**Borderless** , change to**Fullscreen** .  
   
 ![change Window Mode to fix Assasin's Creed stuttering on PC](https://images.drivereasy.com/wp-content/uploads/2020/11/change-window-mode.jpg)
@@ -263,8 +263,6 @@ Now play your game and your issue should be resolved.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -272,4 +270,18 @@ Now play your game and your issue should be resolved.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-friendly.techidaily.com/new-comparing-digital-universes-meta-to-omni-for-2024/"><u>[New] Comparing Digital Universes Meta to Omni for 2024</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-safest-drone-selections-5-great-options-for-young-ones/"><u>[Updated] Safest Drone Selections 5 Great Options for Young Ones</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-selecting-snug-winter-scenes-as-video-sets/"><u>[Updated] Selecting Snug Winter Scenes as Video Sets</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/creative-tims-premium-zero-cost-bootstrap-and-materialize-css-framework-collection-for-web-developers/"><u>Creative Tim's Premium, Zero-Cost Bootstrap & Materialize CSS Framework Collection for Web Developers</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/dvds-von-iso-dateien-mit-den-neuesten-windows-versionen-1187-anbrennen-perfektes-tutorial/"><u>DVDs Von ISO-Dateien Mit Den Neuesten Windows Versionen (11/8/7) Anbrennen - Perfektes Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/phoenix-point-crash-problems-heres-how-you-can-resolve-them-successfully/"><u>Phoenix Point Crash Problems? Here's How You Can Resolve Them Successfully!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fix-for-madden-22-persistent-load-screen-problems/"><u>Step-by-Step Fix for Madden 22 Persistent Load Screen Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1725287982734-tiktok/"><u>TikTokにおける動画の永続化手法：失敗する前にすべてを取得せよ！</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-solved-how-to-get-netflix-running-again-on-your-xbox-one/"><u>Troubleshooting Solved: How to Get Netflix Running Again on Your Xbox One</u></a></li>
+<li><a href="https://win-blog.techidaily.com/untangling-utorrents-downloadpeer-connection-issues-a-comprehensive-guide/"><u>Untangling uTorrent's Download/Peer Connection Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/unveiling-our-findings-how-does-mistral-ais-le-chat-compare-to-the-renowned-chatgpt/"><u>Unveiling Our Findings: How Does Mistral AI's Le Chat Compare to the Renowned ChatGPT?</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Prevent Metro Exodus From Unexpectedly Crashing on Desktop Platforms
-date: 2024-08-23T12:37:22.610Z
-updated: 2024-08-24T12:37:22.610Z
+date: 2025-01-04T04:38:06.965Z
+updated: 2025-01-06T03:35:53.247Z
 tags:
   - win11
   - win10
@@ -39,15 +39,16 @@ thumbnail: https://thmb.techidaily.com/47ffc6f56df8f55aee8393dc2516df4e9eefe4f14
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Stop overclocking your CPU
 
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should set your CPU clock speed rate back to the default to fix your issue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics card driver
 
  If the device drivers in your computer are missing or outdated, especially your graphics card driver, you may have the game crashing issue. To rule it out as the cause for Metro Exodus crashing, try updating your video driver to the latest version.
@@ -80,9 +81,17 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-76.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**_Update All_** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-77.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Note: You can do it for free if you like, but it’s partly manual.
 
@@ -94,10 +103,6 @@ If your problem still persists, don’t worry. There is another try.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ### Fix 4: Switch to DX11 in your game settings
 
  This method works like a charm for many players who have the same crashing issue in Metro Exodus, so it’s worth a try when you’re using DirectX 12 for Metro Exodus.
@@ -116,9 +121,6 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-78.png)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart the game and see if it works this time.
 
 #### If you can’t open the game at all
@@ -133,16 +135,14 @@ To do so, follow these steps:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-80.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4) Click the**General** tab and click**Set Launch Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-81.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Type**_dxlevel110_** in the field, then click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-82.png)
@@ -154,9 +154,9 @@ Launch Metro Exodus and see if it works now.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n-66V-LRK3Y?si=fNeB2pXCePeQli6E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Lower the in-game video settings
 
  If the graphics options are too much for your PC, your game will no doubt keep crashing because your PC hardware couldn’t support the graphics requirements configured in the game. So you should set the graphic settings in your game to Low in order to fix the crashing issue.
@@ -179,8 +179,6 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +186,21 @@ If you have any questions, feel free to leave us a comment below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-ad-dominance-through-structured-strategic-copywriting-techniques/"><u>[Updated] 2024 Approved Facebook Ad Dominance Through Structured, Strategic Copywriting Techniques</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-exploring-new-dimensions-choose-the-best-vr-headsets-for-metaverse/"><u>[Updated] Exploring New Dimensions Choose the Best VR Headsets for Metaverse</u></a></li>
+<li><a href="https://howto.techidaily.com/11-proven-solutions-to-fix-google-play-store-not-working-issue-on-vivo-s17-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>11 Proven Solutions to Fix Google Play Store Not Working Issue on Vivo S17 | Dr.fone</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/constraint-b-include-direct-quotes-from-bill-jones-ensuring-to-rephrase-them-as-cooking-tips-or-wisdom/"><u>Constraint B: Include Direct Quotes From Bill Jones, Ensuring to Rephrase Them as Cooking Tips or Wisdom.</u></a></li>
+<li><a href="https://fake-location.techidaily.com/fake-the-location-to-get-around-the-mlb-blackouts-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Fake the Location to Get Around the MLB Blackouts on Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/journey-through-win11-settings-mouse-mastery-essentials/"><u>Journey Through Win11 Settings: Mouse Mastery Essentials</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/recommended-6-best-music-video-apps-on-android/"><u>Recommended 6 Best Music Video Apps on Android</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-freezing-frames-fixing-fallout-4-glitches-for-seamless-playtime/"><u>Say Goodbye to Freezing Frames: Fixing Fallout 4 Glitches for Seamless Playtime</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-division-2-crash-woes-quickly-with-these-simple-steps/"><u>Solve Your Division 2 Crash Woes Quickly with These Simple Steps</u></a></li>
+<li><a href="https://discover-extraordinary.techidaily.com/top-5-methods-zur-umwandlung-von-avchd-m2ts-zu-mp4-ohne-qualitatsverlust/"><u>Top 5 Methods Zur Umwandlung Von AVCHD-M2TS Zu MP4 Ohne Qualitätsverlust</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-high-disk-space-and-cpu-load-by-wsappx-tips-and-fixes/"><u>Troubleshooting High Disk Space and CPU Load by WSAPPX: Tips & Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-the-fixed-football-manager-2022-pc-freezing-problems/"><u>Troubleshooting Tips for the Fixed Football Manager 2022 PC Freezing Problems</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/understanding-electric-driveways-a-comprehensive-guide-to-bevs-phevs-and-fcevs/"><u>Understanding Electric Driveways: A Comprehensive Guide to BEVs, PHEVs & FCEVs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004973688-untangling-the-problems-in-call-of-duty-wwii-decoding-error-4128/"><u>Untangling the Problems in Call of Duty: WWII - Decoding Error 4128!</u></a></li>
+</ul></div>
 

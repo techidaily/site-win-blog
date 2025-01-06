@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Windows 11 Taskbar Malfunction: A Comprehensive Guide"
-date: 2024-08-23T12:38:17.500Z
-updated: 2024-08-24T12:38:17.500Z
+date: 2025-01-02T22:53:16.364Z
+updated: 2025-01-06T01:40:51.451Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 
  Resident Evil 5 is classic, but it’s still an old game that doesn’t get along with the latest Windows. Lately there’re many gamers reporting that**Resident Evil 5 won’t launch on Windows 10** . If you’re facing the same issue, don’t worry. Here’re some working fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/534bcc01d626eec0183aff232f0c9e211e75d3b58
 4. [**Install the latest version of Games for Windows Live (GFWL)**](https://www.drivereasy.com/knowledge/solved-resident-evil-5-not-launching-on-pc/#fix4)
 5. **[Replace game files with a fan-made patch](https://tools.techidaily.com/drivereasy/download/)**
 6. [**Check for corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Scan and repair your game files
 
@@ -42,7 +50,15 @@ Here’s how you can check the file integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/re5-verify-2.jpg)
 3. Wait until the checking completes. Then you can try to start the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this trick doesn’t give you luck, take a look at the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -57,15 +73,15 @@ Here’s how you can check the file integrity on Steam:
  (This requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, restart your PC and check if Resident Evil 5 launches now.
 
  If the latest video driver doesn’t help you, check out the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -74,14 +90,8 @@ The ultimate burning program for all your needs!</a>
 1. On your keyboard, press**Win+R** (the Windows logo key and the R key) to invoke the Run box. Type or paste**control update** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-1.jpg)
 2. Click**Check for updates** . Windows will then check for available updates. (Or click Restart now if it prompts “Restart required”)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/run-control-update-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
  After installing all the updates, restart your computer and check if you can launch Resident Evil 5 now.
 
  If this method doesn’t work for you, simply continue to the next one.
@@ -94,6 +104,10 @@ The ultimate burning program for all your needs!</a>
 
  Once you’ve installed the latest GFWL, restart your PC and check if Resident Evil 5 works now.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Replace game files with a fan-made patch
 
  Another hack without installing GFWL would be replacing certain game files of Resident Evil 5 with a fan-made patch. It appears the patch can fix some known bugs of Resident Evil 5\. You can try the patch and see if it gives you luck.
@@ -104,9 +118,6 @@ The ultimate burning program for all your needs!</a>
 3. Open the Resident Evil 5 folder and paste the patch files.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/patch-2.jpg)
 4. Now check if Resident Evil 5 can launch normally.
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ### Fix 6: Check for corrupted system files
 
@@ -118,14 +129,8 @@ The ultimate burning program for all your needs!</a>
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
 
 ---
@@ -138,8 +143,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +150,26 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/new-2024-approved-unlocking-the-door-to-joining-a-tiktok-gathering/"><u>[New] 2024 Approved Unlocking the Door to Joining a TikTok Gathering</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-transform-into-a-social-media-star-by-mimicking-yourself-on-tiktok/"><u>[New] Transform Into a Social Media Star by Mimicking Yourself on TikTok</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-compact-mp3-skype-archive-on-the-cheap/"><u>[Updated] Compact MP3 Skype Archive on the Cheap</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-full-exploration-new-features-in-videoshow-app-24-for-2024/"><u>[Updated] Full Exploration New Features in VideoShow App '24 for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-revolutionize-tech-connectivity-top-free-speech-conversion-tools-for-macos/"><u>2024 Approved Revolutionize Tech Connectivity Top Free Speech Conversion Tools for MacOS</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/5-best-e-learning-platforms-for-aspiring-developers-2024-edition/"><u>5 Best E-Learning Platforms for Aspiring Developers - 2024 Edition</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/boost-your-websites-success-with-the-advanced-technology-of-cookiebot/"><u>Boost Your Website's Success with the Advanced Technology of Cookiebot</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cod-modern-warfare-continuously-freezes-troubleshooting-guide/"><u>Cod: Modern Warfare Continuously Freezes - Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-frontier-from-crashing-on-your-computer-a-step-by-step-solution/"><u>How to Stop 'Frontier' From Crashing on Your Computer – A Step-by-Step Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/immediate-solutions-resolving-issues-with-the-unresponsive-epic-games-launcher/"><u>Immediate Solutions: Resolving Issues with the Unresponsive Epic Games Launcher</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ic-mockery-best-laugh-inspired-songs-for-2024/"><u>Melodic Mockery Best Laugh-Inspired Songs for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-gameplay-in-grand-theft-auto-v-by-fixing-stutter-and-lag-issues/"><u>Optimize Gameplay in Grand Theft Auto V by Fixing Stutter and Lag Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/packet-loss-troubleshooting-solutions-for-a-smooth-discord-experience/"><u>Packet Loss Troubleshooting Solutions for a Smooth Discord Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resident-evil-e-5-wont-start-on-windows-troubleshooting-guide/"><u>Resident Evil E 5 Won't Start on Windows? Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-display-errors-solutions-for-epic-games-launcher-blackout-scenario/"><u>Resolving Display Errors: Solutions for Epic Games Launcher Blackout Scenario</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/the-evolution-of-online-promotion-a-journey-from-17th-century-tactics-with-massmail-solutions/"><u>The Evolution of Online Promotion: A Journey From 17Th Century Tactics with MassMail Solutions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/total-gb-for-24-hour-movie-size-for-2024/"><u>Total GB for 24-Hour Movie Size for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-wasteland-latest-strategies-to-overcome-fallout-3-starting-difficulties/"><u>Unlock the Wasteland: Latest Strategies to Overcome Fallout 3 Starting Difficulties</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008288660-winning-against-lag-expert-fixes-for-dota-(-2)-update-your-game-now/"><u>Winning Against Lag: Expert Fixes for Dota < 2> - Update Your Game Now!</u></a></li>
+</ul></div>
 
