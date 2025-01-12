@@ -1,7 +1,7 @@
 ---
 title: "Resolving Cod: Black Ops 4 Issues - Fixing Lags & Boosting FPS"
-date: 2024-08-18T19:23:31.463Z
-updated: 2024-08-19T19:23:31.463Z
+date: 2025-01-09T19:35:44.006Z
+updated: 2025-01-12T19:05:06.608Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
  Why is GTA V crashing? Usually, this problem is caused by your graphics card issue. If your graphics card is unstable or corrupted, your game crashes on startup. Another possible cause is your outdated GTA 5 version.
 
  But don’t worry. There is something you can do to fix your GTA V crashing. Check it out!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to stop GTA 5 crashing
 
@@ -41,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Avoid CPU overheating
 
  If your computer CPU is overheating, you’re likely to have the crashing issue in GTA 5, because your computer can’t work normally when being overheating, especially when it has to deal with the game running. So have a check on your computer and make sure it’s not overheating.
@@ -51,6 +52,10 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
  If you’re CPU is overheating,**clean out your computer case** and guarantee a**proper ventilation** . You can shut down your computer for a while until it’s getting cool and able to process normally.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update graphics card driver
 
@@ -77,8 +82,9 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Set graphics settings to Normal
 
  The proper graphics settings in GTA 5 can optimize the performance and help run your game faster. To fix the crashing issues in your computer, you can try lowering the graphics settings in your game. Here’s what you need to do:
@@ -87,10 +93,6 @@ thumbnail: https://thmb.techidaily.com/099f29eab2c71ad55d4343f08e03217de8a45609b
 2. Click**Graphics** and scroll down.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba351a0e7086.jpg)
 3. Set these settings to**Normal** :  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 **Texture Quality**  
 **Shader Quality**  
 **Shadow Quality**  
@@ -98,15 +100,17 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  **Grass Quality**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3516a59b02.jpg)
 4. Save your settings and try GTA 5 again.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Turn on VSync
 
  VSync stands for Vertical Sync, which is a display option in 3D PC games. It allows you to synchronize the frame rate with the monitor refresh rate for better stability. Having VSync on in GTA 5 has been reported by many players to be an effective way to fix the crashing issue.
@@ -117,9 +121,6 @@ To do so:
 2. Click**Graphics** and scroll down. Find**VSync** and turn it**ON** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5ba3522a38573.jpg)  
  If it’s already**ON** , try turning it**OFF** , then restart your game and**turn VSync** **on** again.
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 3. Restart your PC and GTA 5 again to see if it works.
 
 ---
@@ -135,8 +136,6 @@ To do so:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +143,22 @@ To do so:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-in-2024-dissecting-the-latest-features-in-vegaspro-2019/"><u>[Updated] In 2024, Dissecting the Latest Features in VegasPro 2019</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-inshots-competitors-for-pclaptop-editors/"><u>[Updated] Inshot's Competitors for PC/Laptop Editors</u></a></li>
+<li><a href="https://fox-info.techidaily.com/drones-today-tomorrows-potential-unlocked/"><u>Drones Today, Tomorrow's Potential Unlocked</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-resolving-microsoft-edge-freezing-problems-for-windows-11-operating-system/"><u>Guide to Resolving Microsoft Edge Freezing Problems for Windows 11 Operating System</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-sony-by-drfone-android/"><u>How to Bypass FRP on Sony?</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/24-from-budget-channels-to-big-brands-youtube-sponsorships-demystified/"><u>In 2024, From Budget Channels to Big Brands YouTube Sponsorships Demystified</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-for-players-struggling-with-avatar-frontiers-of-pandora-not-loading-properly/"><u>Solution Guide for Players Struggling with 'Avatar: Frontiers of Pandora' Not Loading Properly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-when-lost-ark-wont-load-latest-fixes-of-2024/"><u>Step-by-Step Solutions for When Lost Ark Won't Load - Latest Fixes of 2024</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/top-10-infinix-zero-5g-2023-turbo-android-sim-unlock-apk-by-drfone-android/"><u>Top 10 Infinix Zero 5G 2023 Turbo Android SIM Unlock APK</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-hitman-3-overcoming-network-errors-seamlessly/"><u>Troubleshooting Hitman 3: Overcoming Network Errors Seamlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tricks-for-recurring-disruptions-and-crashes-in-ghostwire-tokyo-gaming-experience/"><u>Troubleshooting Tricks for Recurring Disruptions & Crashes in Ghostwire: Tokyo Gaming Experience</u></a></li>
+<li><a href="https://win-bits.techidaily.com/ultimate-guide-syncing-your-entire-computer-screen-with-your-iphone/"><u>Ultimate Guide: Syncing Your Entire Computer Screen with Your iPhone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/unfreeze-your-strategy-tackling-cold-war-stuck-screens-in-video-game-consoles-and-computers/"><u>Unfreeze Your Strategy: Tackling 'Cold War' Stuck Screens in Video Game Consoles and Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-debugging-tips-overcoming-the-obstacle-of-error-6634-in-call-of-duty/"><u>Warzone Debugging Tips: Overcoming the Obstacle of Error 6634 in Call of Duty</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-10-optimization-steps-to-prevent-game-crashes-in-dragon-age-origins/"><u>Windows 10 Optimization Steps to Prevent Game Crashes in Dragon Age: Origins</u></a></li>
+</ul></div>
 

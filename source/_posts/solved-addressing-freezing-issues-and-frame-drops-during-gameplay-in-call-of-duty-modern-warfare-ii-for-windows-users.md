@@ -1,7 +1,7 @@
 ---
 title: "Solved! Addressing Freezing Issues and Frame Drops During Gameplay in Call of Duty: Modern Warfare II for Windows Users"
-date: 2024-08-18T19:19:15.762Z
-updated: 2024-08-19T19:19:15.762Z
+date: 2025-01-08T19:51:29.499Z
+updated: 2025-01-12T19:46:30.638Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ Star Wars Battlefront 2 is a classic game which released in 2017, but the error 
 
  That’s definitely upset for gamers, but don’t worry, there’re ways to fix this problem. The cause of the problem varies from person to person, we’ve gathered working fixes that have been proved by others. Read on and have a try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -27,6 +31,10 @@ Star Wars Battlefront 2 is a classic game which released in 2017, but the error 
 2. [Use a VPN](https://tools.techidaily.com/drivereasy/download/)
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 4. [Renew the IP address](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 1\. Check the server status
 
@@ -37,9 +45,9 @@ You can also play at another time when the servers are a little lighter.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 2\. Use a VPN
 
  If it’s not a server problem, a VPN may help you fix the issue. Using a VPN would change the server you linked and make a difference. A paid VPN provides you a safe and better internet performance.
@@ -53,8 +61,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 3. Connect to a server in a chosen location.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 4. Relaunch Star War Battlefront 2.
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  By the way, you can temporarily disable your firewalls, antivirus software to make sure it’s not your firewall blocking part of the game and cause the problem. Make sure that “EA.exe” is unblocked.
@@ -63,9 +72,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### 3\. Update your driver
 
  The error code is related to the network connectivity which network driver involves. If you have an outdated network adapter driver, you may encounter various network issues such as disconnect from an online game. This may not the fix for a specific problem, but it’s no harm to upgrade your driver to make your PC work efficiently.
@@ -78,22 +84,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Run Driver Easy, then click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
+
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
  If you need assistance, please contact **Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### 4\. Renew the IP address
 
  If update your driver doesn’t help, renew the IP address would be the next step. Renew your IP address will let your PC get rid of its IP address and ask DHCP server for a new one which may fix the issue.
@@ -115,8 +117,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -124,4 +124,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/-step-by-step-guide-on-applying-cc-rights-effectively-for-2024/"><u>[New] A Step-by-Step Guide on Applying CC Rights Effectively for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-advanced-methods-for-effortless-recording-of-your-google-classes/"><u>[New] Advanced Methods for Effortless Recording of Your Google Classes</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/new-graphicgenius-create-funny-memes/"><u>[New] GraphicGenius Create Funny Memes</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-optimizing-video-conference-set-ups-slack-and-filmora-guide/"><u>[New] In 2024, Optimizing Video Conference Set-Ups Slack & Filmora Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-imovie-skills-producing-engaging-and-profitable-square-video-feeds/"><u>[Updated] IMovie Skills Producing Engaging and Profitable Square Video Feeds</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-procedure-for-effective-auditory-recordings-on-windows-11/"><u>[Updated] Procedure for Effective Auditory Recordings on Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-maximizing-mobile-video-quality-your-phone-as-a-webcam/"><u>2024 Approved Maximizing Mobile Video Quality Your Phone as a Webcam</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-fix-guide-for-persona-3-false-awakening-crashing-problems-on-pc/"><u>Comprehensive Fix Guide for 'Persona 3: False Awakening' Crashing Problems on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fixes-for-when-call-of-duty-warzone-stays-on-the-boot-screen/"><u>Expert Fixes for When Call of Duty Warzone Stays on the Boot Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/freeze-no-more-expert-advice-to-overcome-cod-bocw-freezing-problems/"><u>Freeze No More! Expert Advice to Overcome COD: BOCW Freezing Problems</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/how-to-fix-ntfssys-failed-bsod-error-in-windows-11/"><u>How To Fix Ntfs.sys Failed BSOD Error In Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985041081-improve-streaming-speeds-on-steam-with-these-simple-solutions/"><u>Improve Streaming Speeds on Steam with These Simple Solutions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-game-crashes-a-comprehensive-walkthrough-for-stabilizing-fifa-21-on-desktop/"><u>Overcoming Game Crashes: A Comprehensive Walkthrough for Stabilizing FIFA 21 on Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-your-wos-gameplay-essential-fixes-for-pc-freezes-and-crashes/"><u>Troubleshoot Your WOs Gameplay: Essential Fixes for PC Freezes and Crashes</u></a></li>
+</ul></div>
 
