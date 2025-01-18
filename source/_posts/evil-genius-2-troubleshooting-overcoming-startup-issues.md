@@ -1,7 +1,7 @@
 ---
 title: "Evil Genius 2 Troubleshooting: Overcoming Startup Issues"
-date: 2024-08-18T19:14:37.487Z
-updated: 2024-08-19T19:14:37.487Z
+date: 2025-01-12T08:01:28.430Z
+updated: 2025-01-17T18:59:35.045Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/Snap39-1-1024x532.jpg)
 
  **Get infinite loading circle when you launch Apex Legends? Don’t worry when Apex Legends not loading…** Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -71,9 +75,6 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
@@ -81,6 +82,10 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Flush your DNS
 
@@ -95,15 +100,15 @@ thumbnail: https://thmb.techidaily.com/48994c9ff35faf512b4c69833faf0e7ff28b80b0d
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Unlink your Apex Legends account from your Steam account
 
  If you linked your Apex Legends account to your Steam account, you may also run into this issue. To fix it, you need to unlink it from your Steam account. Here is how to do it:
@@ -120,15 +125,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
 
  In order to link Apex Legends to your primary Steam account, you should save this URL address for the later use.
 
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Repair Apex Legends in Origin
 
@@ -140,18 +146,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 3\. Wait until the verifying process completes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-343-1024x728.png)
 
  4\. Launch Apex Legends when the verifying progress completes to see if this issue is resolved. If this issue reappears, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Play with VPN
 
  Some players reported that when they play Apex Legends with VPN, this issue disappears. So before Respawn Entertainment releases game patches to fix this issue, playing with VPN temporarily may also be a good choice if you really want to play the game.
@@ -172,23 +172,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/01/snap000383.png)
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5\. Launch Apex Legends and enjoy the game with your friends.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Reinstall Apex Legends
 
  If none of the fixes above works, you may need to try reinstalling Apex Legends. Here is how to do it:
@@ -198,6 +197,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
  2\. Go to **My Game Library** , then **right-click** on **Apex Legends** and select **Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-346-1024x728.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3\. Download and reinstall Apex Legends. Launch the game to see if you can pass the loading screen. If so, congratulations! You’ve resolved this issue.
 
@@ -211,8 +214,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +221,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-the-ultimate-guide-to-capturing-professional-quality-in-zoom-podcasts/"><u>[New] The Ultimate Guide to Capturing Professional Quality in Zoom Podcasts</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/outube-playlist-rearrangement-made-simple-for-2024/"><u>[New] YouTube Playlist Rearrangement Made Simple for 2024</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/updated-2024-approved-explore-30-anime-concepts-dominating-tiktok-feed/"><u>[Updated] 2024 Approved Explore 30 Anime Concepts Dominating TikTok Feed</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/updated-high-tech-equipment-picking-game/"><u>[Updated] High-Tech Equipment Picking Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1-mastering-the-simplified-installation-of-windows-subsystem-for-linux-wsl/"><u>1. Mastering the Simplified Installation of Windows Subsystem for Linux (WSL)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-performance-discover-the-new-speeds-of-microsoft-edge-browser/"><u>Boosting Performance: Discover the New Speeds of Microsoft Edge Browser</u></a></li>
+<li><a href="https://win-blog.techidaily.com/connecting-your-playstation-5-gamepad-to-windows-11-pcs-tutorial-and-best-practices/"><u>Connecting Your PlayStation 5 Gamepad to Windows 11 PCs - Tutorial and Best Practices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-conversion-transform-your-website-into-a-standalone-desktop-application/"><u>DIY Conversion: Transform Your Website Into a Standalone Desktop Application</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/efficient-window-navigation-top-7-windows-based-browsers-with-low-ram/"><u>Efficient Window Navigation: Top 7 Windows-Based Browsers with Low RAM</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-ambiance-with-logitechs-new-windows-11-compatible-led-illumination-options/"><u>Enhanced Ambiance with Logitech's New Windows 11 Compatible LED Illumination Options</u></a></li>
+<li><a href="https://win-blog.techidaily.com/future-patch-overcomes-windows-11-compatibility-constraints-with-fat32-filesystem/"><u>Future Patch Overcomes Windows 11 Compatibility Constraints with FAT32 Filesystem</u></a></li>
+<li><a href="https://win-reviews.techidaily.com/overcoming-compatibility-issues-a-comprehensive-solution-for-windows-10-device-drivers-by-yl-software-professionals/"><u>Overcoming Compatibility Issues: A Comprehensive Solution for Windows 10 Device Drivers by YL Software Professionals</u></a></li>
+<li><a href="https://some-tips.techidaily.com/the-photographers-list-of-top-10-lenses-for-2024/"><u>The Photographer's List of Top 10 Lenses for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/the-ultimate-guide-to-professional-iphoneipad-podcast-production-for-2024/"><u>The Ultimate Guide to Professional iPhone/iPad Podcast Production for 2024</u></a></li>
+<li><a href="https://techidaily.com/the-way-to-recover-deleted-pictures-on-samsung-galaxy-s21-fe-5g-2023-without-backup-by-fonelab-android-recover-pictures/"><u>The way to recover deleted pictures on Samsung Galaxy S21 FE 5G (2023) without backup.</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/top-strategies-for-changing-song-pace-on-spotify-app-for-2024/"><u>Top Strategies for Changing Song Pace on Spotify App for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/upgrade-video-call-quality-ditch-the-webcam-go-for-a-sleeker-look-with-android-phone-cameras/"><u>Upgrade Video Call Quality: Ditch the Webcam, Go for a Sleeker Look with Android Phone Cameras</u></a></li>
+<li><a href="https://win-blog.techidaily.com/weekly-tech-update-unveiling-latest-windows-laptops-and-exclusive-insights-into-spotifys-upcoming-strategies/"><u>Weekly Tech Update: Unveiling Latest Windows Laptops & Exclusive Insights Into Spotify's Upcoming Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-11-ends-bypass-of-on-device-account-creation-feature/"><u>Windows 11 Ends Bypass of On-Device Account Creation Feature</u></a></li>
+</ul></div>
 

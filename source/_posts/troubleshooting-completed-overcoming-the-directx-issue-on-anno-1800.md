@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Completed: Overcoming the DirectX Issue on Anno 1800"
-date: 2024-08-18T19:14:57.832Z
-updated: 2024-08-19T19:14:57.832Z
+date: 2025-01-12T06:30:33.295Z
+updated: 2025-01-18T05:42:25.915Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 3. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Disable firewall and antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Verify integrity of game files
 
  When you have trouble launching your game properly, you need to check whether your game files are corrupted or missing. To do this, you can utilize the tool of verifying integrity of game files by following the steps below:
@@ -41,8 +45,9 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. If the driver is outdated or corrupted, you’re more likely to run into issues like it takes an extremely long time to load into the main menu screen. To pinpoint the root cause, you’re supposed to update your graphics driver.
@@ -59,9 +64,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience and computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -74,27 +76,17 @@ Here’s how to update drivers with Driver Easy:
 
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your computer and launch Among Us to check if the problem is solved. If not, then proceed to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3\. Delete temp files
 
  As the name suggests, temporary files are the kind of files that store temporary data that is created by Windows itself or the programs that users use. They can take up a considerable amount of space and slow down your PC. This can also affect the responsiveness of your programs. To make sure you can run your system smoothly, you should delete those temporary files and it won’t cause any problems.
@@ -105,18 +97,23 @@ DbSchema database designer for all databases, schema design in the team, schema 
   
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
   
 ![delete temporary files ](https://images.drivereasy.com/wp-content/uploads/2021/02/delete-temp-files.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
  4) If a window pops up saying that **The action can’t be completed** , simply check the box **Do this for all current items** and click **Skip** .
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
 
@@ -130,9 +127,17 @@ DbSchema database designer for all databases, schema design in the team, schema 
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/temporarily-disable-firewall.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) From the left menu, click **Turn Windows Defender Firewall on or off** .  
   
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
@@ -154,8 +159,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +166,22 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-accelerate-image-enhancement-top-15-pixlr-tips-for-speed-and-efficiency-for-2024/"><u>[New] Accelerate Image Enhancement Top 15 Pixlr Tips for Speed and Efficiency for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/boosting-work-from-home-productivity-mastering-the-art-of-enhanced-concentration-insights-from-zdnet/"><u>Boosting Work-From-Home Productivity: Mastering the Art of Enhanced Concentration | Insights From ZDNet</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/diving-deep-into-ai-prompt-formulation-techniques/"><u>Diving Deep Into AI Prompt Formulation Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-your-data-skills-simple-techniques-for-editing-columns-and-rows-in-microsoft-excel/"><u>Enhance Your Data Skills: Simple Techniques for Editing Columns & Rows in Microsoft Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-scripting-with-python-new-features-in-microsoft-excel/"><u>Enhanced Scripting with Python: New Features in Microsoft Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/excel-analysis-mastery-effective-strategies-for-using-pivot-tables-to-interpret-your-data/"><u>Excel Analysis Mastery: Effective Strategies for Using Pivot Tables to Interpret Your Data</u></a></li>
+<li><a href="https://win-blog.techidaily.com/excel-guide-a-step-by-step-tutorial-on-displaying-gridlines-rows-and-columns/"><u>Excel Guide: A Step-by-Step Tutorial on Displaying Gridlines, Rows & Columns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-implementing-accounting-currency-format-in-microsoft-excel-spreadsheets/"><u>Expert Tips for Implementing Accounting Currency Format in Microsoft Excel Spreadsheets</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/exploring-the-upside-down-world-of-instagram-videos/"><u>Exploring the Upside-Down World of Instagram Videos</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95856055-9781620556740-foundations-of-reiki-ryoho/"><u>Foundations of Reiki Ryoho | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-personalizing-your-office-2016-title-bar-appearance/"><u>Guide: Personalizing Your Office 2016 Title Bar Appearance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-effectively-copy-your-excel-data-tips-for-making-full-and-partial-copies-including-formula-replication-options/"><u>How To Effectively Copy Your Excel Data: Tips for Making Full and Partial Copies, Including Formula Replication Options</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-exit-android-factory-mode-on-tecno-spark-10c-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Exit Android Factory Mode On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://app-tips.techidaily.com/motion-detection/"><u>Motion Detection</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/reaching-new-heights-pushing-an-amd-ryzen-7-9700x-up-to-a-stunning-58ghz-with-advanced-aio-liquid-cooling-plus-a-surprising-peak-at-6ghz-idle/"><u>Reaching New Heights: Pushing an AMD Ryzen #7 9700X Up to a Stunning 5.8GHz with Advanced AIO Liquid Cooling, Plus a Surprising Peak at 6GHz Idle!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Solution Steps] Troubleshooting Why Modern Warfare 2 Is Not Starting Up Properly"
-date: 2024-08-18T19:13:32.352Z
-updated: 2024-08-19T19:13:32.352Z
+date: 2025-01-14T22:14:23.865Z
+updated: 2025-01-18T07:58:57.684Z
 tags:
   - win11
   - win10
@@ -33,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/826e213581d156558e6f234936866c0f136b90179
 
  A simple restart can fix a lot computer woes. Once Cortana stops working on your computer, firstly try to **restart your Windows 10 PC** and try Cortana again to see if it works.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Method 2: Check your region and language settings
 
  If your region and language settings is mistaken or changed by accident, your Cortana can’t work.
@@ -45,25 +49,20 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e01c52cd.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
  3) Click**Region & language.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e40e249d.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Make sure the region and language settings is matched with yours.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0e71cb793.jpg)
 
 5) Try Cortana again to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 3: Make sure your Windows 10 system is up-to-date
 
  If your Windows 10 system is old, you may not be able to use Cortana either. To check for updates on your Windows 10 PC:
@@ -76,21 +75,14 @@ Check your region and language settings on your computer:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb0f7b03e67.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 3) Install the available updates.
 
 4) Reboot your Windows 10 PC and try Cortana again to see if it works.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Method 4: Update your Microphone driver and audio driver
 
  This problem could be also caused by an old or incorrect Microphone driver or audio driver. You can update your drivers to solve this problem.
@@ -112,13 +104,18 @@ Check your region and language settings on your computer:
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c8cc9febab7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Click the  **Update**  button next to all flagged drivers to automatically download and install the correct version of their driver (you can do this with the FREE version).
 
 Or click  **Update All** to automatically download and install the correct version of  _all_   the drivers that are missing or out of date on your system (this requires the Pro version – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb1528c6d59.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Reboot your Windows 10 and try Cortana again to see if it works.
 
@@ -139,8 +136,9 @@ Or click  **Update All** to automatically download and install the correct versi
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59cb180855417.png)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4) Try Cortana again to see if it works.
 
 * [Cortana](https://tools.techidaily.com/drivereasy/download/)
@@ -152,8 +150,6 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +157,26 @@ Or click  **Update All** to automatically download and install the correct versi
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/updated-streamlining-videography-optimize-for-instagram-for-2024/"><u>[Updated] Streamlining Videography Optimize For Instagram for 2024</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/approved-top-free-apps-for-youtube-gallery-downloading/"><u>2024 Approved Top FREE Apps for YouTube Gallery Downloading</u></a></li>
+<li><a href="https://techtrends.techidaily.com/ai-driven-content-optimization-leveraging-meta-tags-on-instagram-for-better-visibility/"><u>AI-Driven Content Optimization: Leveraging Meta Tags on Instagram for Better Visibility</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995610140-back-4-blood-wont-open-here-are-the-solutions-for-all-your-windows-needs/"><u>Back 4 Blood Won't Open? Here Are the Solutions for All Your Windows Needs!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-the-budget-barrier-channel-size-doesnt-matter/"><u>Bridging the Budget Barrier Channel Size Doesn't Matter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elite-dangerous-no-longer-crashes-after-update-tips-and-tricks/"><u>Elite Dangerous No Longer Crashes After Update: Tips & Tricks</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/enhance-gameplay-memories-win10-recording-methods-for-2024/"><u>Enhance Gameplay Memories Win10 Recording Methods for 2024</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/filming-your-journey-essentials-checklist/"><u>Filming Your Journey – Essentials Checklist</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-drop-frames-enhancing-fps-in-rainbow-six-extraction-for-smoother-play/"><u>Fixing Drop Frames: Enhancing FPS in Rainbow Six Extraction for Smoother Play</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-optimization-success-stability-and-performance-upgrades-to-mass-effect-legendary-series/"><u>Game Optimization Success! Stability & Performance Upgrades to Mass Effect Legendary Series</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/in-2024-top-picks-the-most-advanced-online-mic-recorders-of-23/"><u>In 2024, Top Picks The Most Advanced Online Mic Recorders of '23</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-smooth-performance-for-dying-light-tackling-frame-rate-problems-head-on/"><u>Master the Art of Smooth Performance for Dying Light: Tackling Frame Rate Problems Head-On</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-discord-performance-strategies-to-curb-elevated-cpu-usage/"><u>Mastering Discord Performance: Strategies to Curb Elevated CPU Usage</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-get-creative-top-free-mobile-apps-for-adding-video-special-effects-for-2024/"><u>New Get Creative Top Free Mobile Apps for Adding Video Special Effects for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-dota-2-freezes-during-load-fixes-applied/"><u>Resolved: Dota 2 Freezes During Load - Fixes Applied</u></a></li>
+<li><a href="https://win11.techidaily.com/simplicity-and-clarity-in-the-newest-w11-start/"><u>Simplicity & Clarity in the Newest W11 Start</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/step-up-your-slide-shows-with-these-top-10-free-resources/"><u>Step Up Your Slide Shows with These Top 10 Free Resources</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011966123-trouble-with-football-manager-2023-heres-how-to-fix-it/"><u>Trouble with Football Manager 2023? Here's How to Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unfreeze-your-battle-royale-fixes-for-cold-war-freezes-on-cod-bo/"><u>Unfreeze Your Battle Royale: Fixes for Cold War Freezes on COD BO</u></a></li>
+</ul></div>
 

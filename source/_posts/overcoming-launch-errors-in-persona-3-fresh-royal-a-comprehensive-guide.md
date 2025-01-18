@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Launch Errors in Persona 3 Fresh Royal: A Comprehensive Guide"
-date: 2024-08-18T19:13:06.493Z
-updated: 2024-08-19T19:13:06.493Z
+date: 2025-01-13T23:16:44.169Z
+updated: 2025-01-17T20:26:17.658Z
 tags:
   - win11
   - win10
@@ -54,19 +54,12 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
  3) In the right pane, turn on the button under**Set time automatically** .
 
  4) Reboot the Discord program to check.
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Discord as administrator
 
  Some features may be blocked by the Windows system that causes problems. With high integrity access, the Discord can make full use of its features, won’t be blocked by other programs.  
@@ -77,14 +70,12 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5OmJZ4Z8jgk?si=YIoEaPI8geoiFSYE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
 
@@ -99,9 +90,14 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Restart Discord. It should open.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Disable your proxies
 
@@ -113,8 +109,9 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
@@ -124,24 +121,23 @@ If it doesn’t work, move to the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) In the**Connections** tab, click**Lan Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
 6) Relaunch the Discord and it should open.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Flushing your DNS
 
  Flushing the cache removes all the information stored in the cache, forcing the computer to find new DNS information. This fix has helped many users solve the issue.
@@ -161,6 +157,10 @@ If it doesn’t work, move to the next fix.
 
 5) Launch the Discord again. It should open.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 7: Reinstall the Discord
 
  If the above fixes don’t work, you can reinstall Discord to see whether it works. Uninstall and reinstall Discord could simply rewrite data files. The error code may be fixed by this fix.
@@ -170,6 +170,10 @@ If it doesn’t work, move to the next fix.
  2) Type **appwiz.cpl** , then press **Enter** on your keyboard.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-426.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Right-click Discord in the list and select **Uninstall** .
 
@@ -207,9 +211,11 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -229,8 +235,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -238,4 +242,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/1716069515113-new-2024-approved-no-money-down-best-free-video-chat-platforms/"><u>[New] 2024 Approved No Money Down? Best Free Video Chat Platforms!</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-ace-your-messaging-must-know-advanced-tricks-and-techniques-in-whatsapp/"><u>[New] In 2024, Ace Your Messaging Must-Know Advanced Tricks and Techniques in WhatsApp</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-mastering-video-creation-on-windows-10-a-step-by-step-guide/"><u>[Updated] Mastering Video Creation on Windows 10 A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-the-issue-successful-setup-of-far-cry-6-on-a-computer-system/"><u>Bypassing the Issue: Successful Setup of Far Cry 6 on a Computer System</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/can-t-view-mkv-movies-content-on-xiaomi-redmi-note-12-4g-by-aiseesoft-video-converter-play-mkv-on-android/"><u>Can’t view MKV movies content on Xiaomi Redmi Note 12 4G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-overcome-modern-warfare-2-stability-problems-on-desktops/"><u>Expert Advice - Overcome Modern Warfare 2 Stability Problems on Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-resolving-windows-1110-spatial-audio-issues/"><u>Fixes & Solutions: Resolving Windows 11/10 Spatial Audio Issues</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/in-2024-discover-the-peak-sound-perfection-recommended-equalizer-settings/"><u>In 2024, Discover the Peak Sound Perfection Recommended Equalizer Settings</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-professional-audio-recording-strategies-for-windows-10/"><u>In 2024, Professional Audio Recording Strategies for Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/join-the-battle-arena-the-definitive-pc-guide-to-roller-champions-crossplay/"><u>Join the Battle Arena: The Definitive PC Guide to Roller Champions Crossplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcoming-the-google-chrome-wont-launch-issue/"><u>Resolved: Overcoming the 'Google Chrome Won't Launch' Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-pc-gaming-issues-preventing-final-fantasy-xv-from-crashing/"><u>Resolving PC Gaming Issues: Preventing Final Fantasy XV From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/silent-blocky-world-uncover-why-minecraft-sounds-are-missing-and-how-to-bring-them-back/"><u>Silent Blocky World? Uncover Why Minecraft Sounds Are Missing and How to Bring Them Back</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/step-by-step-crafting-and-uploading-360-vids-for-fb-for-2024/"><u>Step-by-Step Crafting & Uploading 360 Vids for FB for 2024</u></a></li>
+<li><a href="https://win-forum.techidaily.com/the-social-media-titans-maximizing-reach-on-facebook-twitter-instagram-and-youtube/"><u>The Social Media Titans: Maximizing Reach on Facebook, Twitter, Instagram, and YouTube</u></a></li>
+</ul></div>
 

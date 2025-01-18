@@ -1,7 +1,7 @@
 ---
 title: How to Resolve Halo Infinite's Persistent Black Screen Errors Effectively
-date: 2024-08-18T19:13:39.927Z
-updated: 2024-08-19T19:13:39.927Z
+date: 2025-01-15T21:11:35.540Z
+updated: 2025-01-18T00:34:01.462Z
 tags:
   - win11
   - win10
@@ -44,8 +44,9 @@ If this is happening to you, don’t panic. Try the fixes below.
  If you see outages, it could be for maintenance or a problem on the Discord’s end. Just wait for the developer to resolve it in this case. If all the servers are showing up, it’s likely something else is going on. Read on for more fixes!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1\. Restart your computer
 
  Before we dive into anything advanced, make sure you restart your computer. A simple restart will reset your software and desktop environment and can often fix software glitches like this. So give it a shot!
@@ -57,8 +58,9 @@ If this is happening to you, don’t panic. Try the fixes below.
  If that application fails, too, then you’ve found the core problem. Check **[this article](https://tools.techidaily.com/drivereasy/download/)**  to troubleshoot your network issue. If Discord is the only app that doesn’t work for you and the rest of your apps works just fine, read on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3\. Run Discord as Administrator
 
  Discord should run perfectly fine without admin access in most cases. But occasionally, you might come up against something that requires admin access. Just close Discord and then run the program as Administrator (Make sure you kill all running Discord processes when you’re doing this.).
@@ -68,9 +70,6 @@ If you’re not sure how to do it, follow the instructions below:
 1. Right-click your taskbar and select**Task Manager** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 2. Right-click Discord then select**End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
@@ -78,11 +77,12 @@ If you’re not sure how to do it, follow the instructions below:
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 5. Relaunch Discord.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If your stream still gets stuck on loading, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4\. Turn off Hardware Acceleration
 
  Streaming is a heavy task and uses a lot of CPU. Discord Hardware acceleration setting allows the app to use other hardware components on your PC to let the app works more efficiently. But, if your hardware is weak, this feature may cause problems for you.
@@ -92,15 +92,18 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 1. Run Discord, then click the **Settings icon** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-settings.png)
 2. On the left side menu, select Advanced, then toggle**off** the option for**Hardware Acceleration** .  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-hardware-acceleration.png)
 3. Click**Okay** to move on.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ASUEYpqSP5E?si=0KOZxrTVexTuUkRn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-confirm.png)
 4. Discord will relaunch automatically. See if this has resolved your issue.
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If Discord still won’t load streams correctly, read on and try the next fix.
@@ -119,25 +122,20 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://www.drivereasy.com/wp-content/uploads/2020/10/6_0_scan-now.jpg)
 3. Click the**Activate & Update** button next to the flagged device to automatically download and install the correct version of this driver.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (You’ll need the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  for this – when you select Update All, you’ll get a prompt to upgrade. If you’re not prepared to purchase the Pro version yet, Driver Easy provides a 7-day trial at no cost, granting access to all Pro features like fast downloads and easy installation. No charges will occur until after your 7-day trial period ends.)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/05/NVIDIA-GeForce-RTX-3090-Ti.jpg)
 4. After updating, restart your computer to take effect.
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart Discord to see if it runs properly now. If your issue persists, then move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ## Fix 6: Clear Discord Cache
 
  Discord cache files and cookies accumulated on your PC can cause issues. To see if that’s the core issue for you, try clearing Discord cache files:
@@ -147,8 +145,18 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 3. Type **%APPDATA%/Discord/Cache** and press **Enter**  on your keyboard.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-00-39.jpg)
 4. On your keyboard, press the **Ctrl key** and **A**  to highlight all the files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YZma8PBO0D8?si=9-qQgGVTuChYd27a" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-01-07.jpg)
 5. Press the **Del key** on your keyboard to delete all selected files.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 6. Relaunch Discord to check if this helped.
 
 If your issue still exists, move on to the fix, below.
@@ -162,6 +170,10 @@ If your issue still exists, move on to the fix, below.
  If Discord runs without problems, then congratulation! If Discord still gets stuck when loading, try the fix below.
 
  You can easily go back to fullscreen mode in Discord by using the same keyboard shortcut, **Ctrl + Shift + F** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8\. Use a VPN
 
@@ -194,15 +206,8 @@ If your issue still exists, move on to the fix, below.
 1. On your keyboard, press the **Windows logo**  and**R** keys. Type**appwiz.cpl** , and then press**Enter** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-apps.png)
 2. Right-click **Discord**  and click **Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 3. Download and install **[Discord](https://discordapp.com/)**  .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Hopefully, this post helped. Did we miss a troubleshooting step that helped you or might help someone else fix the Discord Streams Stuck on Loading issue? Let us know in the comments if you have any thoughts!
 
@@ -216,8 +221,6 @@ If your issue still exists, move on to the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -225,4 +228,24 @@ If your issue still exists, move on to the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-destiny-2-wont-launch-pc/"><u>[Fixed] Destiny 2 Won’t Launch PC</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-2024-approved-fb-video-downloader-seamless-mp4-conversion/"><u>[Updated] 2024 Approved FB Video Downloader Seamless MP4 Conversion</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-2024-approved-laugh-out-loud-on-your-iphone/"><u>[Updated] 2024 Approved Laugh Out Loud on Your iPhone</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-transforming-viewing-habits-with-fb-live-on-roku/"><u>[Updated] 2024 Approved Transforming Viewing Habits with FB Live on Roku</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-mastering-obs-recording-setup-and-usage-tips-for-mac-users-for-2024/"><u>[Updated] Mastering OBS Recording Setup & Usage Tips for Mac Users for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/black-ops-cold-war-game-crash-heres-what-to-do-with-error-code-0xc00n0005/"><u>Black Ops Cold War Game Crash? Here's What To Do With Error Code 0XC00n0005!</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/comical-creations-no-cost-memes-available/"><u>Comical Creations No Cost Memes Available</u></a></li>
+<li><a href="https://win-blog.techidaily.com/download-and-play-days-gone-on-your-pc-today/"><u>Download and Play 'Days Gone' On Your PC Today</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/in-2024-next-gen-webcams-top-5-featuring-premium-audio-capabilities/"><u>In 2024, Next-Gen Webcams Top 5 Featuring Premium Audio Capabilities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722987710767-kodi-cant-connect-heres-your-solution-for-the-directory-information-failure/"><u>Kodi Can't Connect? Here's Your Solution for the Directory Information Failure!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-lag-in-your-stream-and-recording-with-obs-a-complete-guide/"><u>Overcoming Lag in Your Stream and Recording with Obs - a Complete Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-persistent-game-crash-issue-in-halo-infinite-on-your-windows-computer/"><u>Resolving the Persistent Game Crash Issue in Halo Infinite on Your Windows Computer</u></a></li>
+<li><a href="https://fox-within.techidaily.com/top-rated-utility-for-seamless-transfer-of-data-from-hard-drive-to-adata-solid-state-drive/"><u>Top Rated Utility for Seamless Transfer of Data From Hard Drive to ADATA Solid State Drive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-dragon-age-origins-freezing-problems-in-windows-11/"><u>Troubleshooting Guide: Fixing Dragon Age: Origins Freezing Problems in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-low-frames-per-second-in-counter-strike-2-maximize-pc-performance/"><u>Troubleshooting Low Frames Per Second in Counter-Strike 2: Maximize PC Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-issues-with-starting-farming-simulator-22/"><u>Troubleshooting Tips: Resolving Issues with Starting Farming Simulator 22</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-when-vivo-s17-pro-has-black-screen-of-death-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do When Vivo S17 Pro Has Black Screen of Death? | Dr.fone</u></a></li>
+</ul></div>
 

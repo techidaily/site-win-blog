@@ -1,7 +1,7 @@
 ---
 title: "Fixing Battlefield: How to Resolve Xbox & PC's Warzone Memory Error 0-1766"
-date: 2024-08-18T19:13:26.510Z
-updated: 2024-08-19T19:13:26.510Z
+date: 2025-01-13T23:29:12.092Z
+updated: 2025-01-18T05:07:58.653Z
 tags:
   - win11
   - win10
@@ -25,6 +25,10 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 4. [Turn off background apps](https://tools.techidaily.com/drivereasy/download/)
 5. [Change NVIDIA resolution](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the minimum system requirement
 
  Before trying any complicated fixes, make sure your PC meets the minimum system requirement of Halo Infinite. You’ll meet Halo Infinite stuttering issue or other problems if your hardware is not powerful enough to support the game.
@@ -41,9 +45,6 @@ Halo Infinite is available now and some gamers have noticed that the game has be
 
 You can fix it by uninstalling the multiplayer HD texture packs.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphic driver
 
  Halo Infinite stuttering or lagging problem is usually related to the graphic driver. Make sure your GPU is fully up to date, the older GPU drivers can lead to poor performance and micro stutter.
@@ -59,18 +60,23 @@ There are mainly two ways you can update the graphics driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -81,34 +87,32 @@ There are mainly two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
 
  4) Set**MINIMUM FRAME RATE** &**MAXIMUM FRAM RATE** . Enable**VSYNC** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-31-1200x580.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-34.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 7) Run the game to check.
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -119,10 +123,6 @@ If it’s not working, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-29.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  3) Turn off all the background apps then run Halo Infinite to check if the issue persists.
 
 ## Fix 5: Change NVIDIA resolution
@@ -141,8 +141,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +148,23 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/hoosing-a-champion-dslr-or-mirrorless-camera-in-2024/"><u>[New] Choosing a Champion DSLR or Mirrorless Camera, In 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/8-ultimate-fixes-for-google-play-your-honor-70-lite-5g-isnt-compatible-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>8 Ultimate Fixes for Google Play Your Honor 70 Lite 5G Isnt Compatible | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-pc-disaster-solve-microsoft-flight-simulator-2020s-endless-crashing-issues/"><u>Avoid PC Disaster: Solve Microsoft Flight Simulator 2020'S Endless Crashing Issues</u></a></li>
+<li><a href="https://win-lab.techidaily.com/erhalten-sie-ihre-verpassten-onedrive-datenwiederherstellung-durch-unsynchronisierung-expertenmeinung-myrecover/"><u>Erhalten Sie Ihre Verpassten OneDrive-Datenwiederherstellung Durch Unsynchronisierung - Expertenmeinung: MyRecover</u></a></li>
+<li><a href="https://win-blog.techidaily.com/euro-truck-simulator-2-stable-patch-released-pc-version-no-more-crashing-issues/"><u>Euro Truck Simulator 2: Stable Patch Released – PC Version No More Crashing Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-lag-problems-resolved/"><u>Guilty Gear Strive Lag Problems: Resolved!</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-15-to-other-iphone-15-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone 15 to other iPhone 15 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/insider-tips-selecting-the-best-ig-video-editors-for-success/"><u>Insider Tips Selecting the Best IG Video Editors for Success</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-visuals-how-to-fix-your-gpu-driver-for-enhanced-performance-in-forza-horizon-5/"><u>Optimizing Visuals: How To Fix Your GPU Driver for Enhanced Performance In Forza Horizon 5</u></a></li>
+<li><a href="https://fake-location.techidaily.com/prevent-cross-site-tracking-on-vivo-y28-5g-and-browser-drfone-by-drfone-virtual-android/"><u>Prevent Cross-Site Tracking on Vivo Y28 5G and Browser | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revive-your-steam-remote-play-functionality-expert-fixes-and-advice/"><u>Revive Your Steam Remote Play Functionality: Expert Fixes & Advice</u></a></li>
+<li><a href="https://some-tips.techidaily.com/rising-adoption-of-ops-strategies-revolutionizes-tech-enterprises-amidst-emerging-challenges-zdnet/"><u>Rising Adoption of Ops Strategies Revolutionizes Tech Enterprises Amidst Emerging Challenges | ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-la-noire-coming-soon-to-windows-platform/"><u>Solution Found: L.A. Noire Coming Soon to Windows Platform</u></a></li>
+<li><a href="https://win-superb.techidaily.com/speed-up-your-pc-essential-solutions-and-advice-by-professionals-at-yl-software/"><u>Speed Up Your PC: Essential Solutions & Advice by Professionals at YL Software</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-complete-breakdown-of-facebooks-changes-for-2024/"><u>The Complete Breakdown of Facebook's Changes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-witcher-3-errors-and-getting-it-to-start/"><u>Ultimate Guide: Troubleshooting Witcher 3 Errors & Getting It To Start</u></a></li>
+</ul></div>
 

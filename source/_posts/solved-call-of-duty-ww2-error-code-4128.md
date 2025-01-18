@@ -1,7 +1,7 @@
 ---
 title: "[Solved] Call of Duty WW2 Error Code 4128"
-date: 2024-08-18T19:17:26.737Z
-updated: 2024-08-19T19:17:26.737Z
+date: 2025-01-12T04:48:28.075Z
+updated: 2025-01-18T03:30:56.331Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/2c6f4ee5513cb1e8b97e0cba5952234ffb447e10a
 Lately, gamers are reporting**a shaders compilation issue** in Black Ops Cold War, which results in game freezing or crashing. If you happen to be one the same boat, don’t worry. Down below we’ve gathered the latest fixes for this error, try them and get back to your game right away.
 
  Shaders are programs that help with the object rendering. Playing without shaders will lead to bad performance.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -38,15 +42,17 @@ Here’s how:
 1. Open your **Blizzard Battle.net** client. From the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Then wait until the process is completed.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
 
  Now restart Black Ops Cold War and check if you can get pass the shader compilation.
 
 If the issue persists, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Restart the shaders installation
 
  Some players reported that it might be just a glitch that can be fixed by**restarting the shaders installation** . If that’s the case, you can try the same and see how things go.
@@ -57,9 +63,6 @@ Here’s how to restart the shaders installation:
 2. Navigate to the**GRAPHICS** tab. Scroll down to the bottom and click**Restart Shaders Compilation** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/cold-war-reinstall-shaders-1.jpg)
 3. Wait for the reinstallation to complete.
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 
  If this solution doesn’t solve the issue, take a look at the next one below.
 
@@ -73,11 +76,12 @@ Here’s how to restart the shaders installation:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -85,9 +89,6 @@ Here’s how to restart the shaders installation:
 
  If the latest graphics driver doesn’t give you luck, simply take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Delete Cache folders
 
  Damaged cache could lead to game error, which will in some cases halts your process without a hint. You can try to purge the cache and check if this solves the problem.
@@ -99,8 +100,9 @@ Here’s how to restart the shaders installation:
 5. Again, press **Win+R** and type **%localappdata%** and click **OK** . This time, right-click the **Battle.net** and **Blizzard Entertainment**  folders and select **Delete** .
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Link your Activision and Blizzard accounts
 
  Your game might freeze on shaders compilation if you haven’t connected your Blizzard account on the Activision webpage. You need to**make sure your Activision and Blizzard accounts are linked** so as to avoid any possible error.
@@ -108,11 +110,12 @@ Here’s how to restart the shaders installation:
 1. Visit the **[Activision](https://s.activision.com/activision/login)**  website and log in. Then click **PROFILE**  at the top-right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-profile.png)
 2. In the **ACCOUNT LINKING**  section, find your profile and link it with your Battle.net account. Then follow the onscreen instructions to proceed.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![link Activision and Blizzard accounts](https://images.drivereasy.com/wp-content/uploads/2021/01/link-with-Battle.net-Accoutn.png)
 3. Once completed, restart your game and check if the problem persists.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -124,8 +127,6 @@ Here’s how to restart the shaders installation:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -133,4 +134,22 @@ Here’s how to restart the shaders installation:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-perfecting-your-purses-expertise-in-haul-videography/"><u>[New] In 2024, Perfecting Your Purses Expertise in Haul Videography</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/new-in-2024-the-ultimate-guide-to-the-most-effective-pc-screen-capture-apps/"><u>[New] In 2024, The Ultimate Guide to the Most Effective PC Screen Capture Apps</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-unveiling-costless-creativity-a-deep-dive-into-best-luts/"><u>[New] Unveiling Costless Creativity A Deep Dive Into Best LUTs</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/amazing-deal-alert-sony-ps5-slim-with-marvels-spider-man-2-game-now-at-record-lows/"><u>Amazing Deal Alert: Sony PS5 Slim with Marvel's Spider-Man 2 Game Now at Record Lows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006866062-beat-division-2-glitches-with-these-quick-and-effective-solutions/"><u>Beat Division 2 Glitches with These Quick and Effective Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-fixes-for-age-of-empires-iv-failed-download-attempts-on-microsoft-store/"><u>Common Fixes for Age of Empires IV Failed Download Attempts on Microsoft Store</u></a></li>
+<li><a href="https://win-blog.techidaily.com/deciphering-and-defeating-phasmophobias-90-loading-hurdle-for-a-smooth-gameplay-experience/"><u>Deciphering and Defeating Phasmophobia's 90% Loading Hurdle for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-rocket-league-hitches-fixes-to-stop-game-freezing/"><u>Diagnosing Rocket League Hitches – Fixes to Stop Game Freezing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-the-bugs-essential-fixes-for-persistent-crashes-in-the-witcher-3-pc-version/"><u>End the Bugs: Essential Fixes for Persistent Crashes in The Witcher 3 PC Version</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-nokia-c300-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Nokia C300 | Dr.fone</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-xiaomi-redmi-note-13-proplus-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Intercept Text Messages on Xiaomi Redmi Note 13 Pro+ 5G | Dr.fone</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/in-2024-maximize-your-impact-strategic-approaches-to-facebook-bios/"><u>In 2024, Maximize Your Impact Strategic Approaches to Facebook Bios</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/overview-of-the-best-tecno-camon-20-screen-mirroring-app-drfone-by-drfone-android/"><u>Overview of the Best Tecno Camon 20 Screen Mirroring App | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-error-resolved-fixing-errgfxstate-for-a-smooth-gaming-experience/"><u>Red Dead Redemption 2 Error Resolved: Fixing ERR_GFX_State for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-tier-windows-10-screen-capture-programs-unveiled/"><u>Top-Tier Windows 10 Screen Capture Programs Unveiled</u></a></li>
+</ul></div>
 

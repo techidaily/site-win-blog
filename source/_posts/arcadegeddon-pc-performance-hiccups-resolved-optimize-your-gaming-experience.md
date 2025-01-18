@@ -1,7 +1,7 @@
 ---
 title: Arcadegeddon PC Performance Hiccups Resolved - Optimize Your Gaming Experience
-date: 2024-08-18T19:13:25.423Z
-updated: 2024-08-19T19:13:25.423Z
+date: 2025-01-14T10:36:48.471Z
+updated: 2025-01-18T07:55:13.898Z
 tags:
   - win11
   - win10
@@ -37,13 +37,19 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 3. Choose**Full Screen** for Display Mode, and turn off**Shadows** and**Motion Blur** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-3.jpg)
 4. On the next page, turn off**Dynamic Reflections** and**Ambient Occlusion** . Then, set**Texture Quality** and**Effect Quality** to**Low** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-2.jpg)
 
  Restart Nioh 2 for the changes to take effect. If the FPS drop is still not solved, try the second fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Disable overlays
 
  In-game overlays allow you to access various features while in-game such as interacting with friends or placing orders, but this can also cause Nioh 2 low FPS. If you’re using overlays on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  , **[Discord](https://tools.techidaily.com/drivereasy/download/)**  and **[GeForce Experience](https://tools.techidaily.com/drivereasy/download/)**  , follow the instructions to turn them off.
@@ -55,23 +61,24 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 2. Right-click**Nioh 2** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-settings.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-overlay-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-overlay-3.jpg)
+
 #### On Discord
 
 1. Run Discord.
 2. Click the**cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 3. Click the**Overlay** tab and toggle off**Enable in-game overlay** .  
+
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
 
 #### On GeForce Experience
@@ -80,10 +87,6 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 3. Scroll to toggle off**In-Game Overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/0-00.jpg)
 
  After you disable any overlays in-use, restart Nioh 2 to see if it performs better now. If not, proceed to the next method.
@@ -103,16 +106,21 @@ There are two ways you can update the driver:
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-de-1-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart the computer and launch Nioh 2 to test. If you don’t see any improvements in the game performance, continue to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Optimize the graphics card settings
 
@@ -127,9 +135,6 @@ There are two ways you can update the driver:
 4. Choose **High-performance NVIDIA processor** as the preferred graphics processor.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-8-1.jpg)
 5. Adjust the specific settings as follows:  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Image Sharpening** :_Off_  
 **Antialiasing** :_Off_  
 **Power management mode** :_Prefer maximum performance_  
@@ -141,8 +146,9 @@ There are two ways you can update the driver:
  Launch Nioh 2 to see how thing goes. If the problem persists, check out the last fix.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Close unnecessary background programs
 
  When applications running in the background like Discord or Chrome eat up your RAM or CPU resources, Nioh 2 may become stuttering and FPS capped. Before you start gaming, make sure to close all unneeded applications.
@@ -150,11 +156,13 @@ There are two ways you can update the driver:
 1. Right-click any empty space on the taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-1.jpg)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
-![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-2.jpg)
+
 Run Nioh 2 and you should achieve higher frame rates during the gameplay.
 
 ---
@@ -170,8 +178,6 @@ Run Nioh 2 and you should achieve higher frame rates during the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -179,4 +185,24 @@ Run Nioh 2 and you should achieve higher frame rates during the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-building-a-strong-introduction-examples-and-methods/"><u>[New] In 2024, Building a Strong Introduction Examples & Methods</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-mirthful-melodies-where-to-find-hilarious-tunes/"><u>[New] Mirthful Melodies Where to Find Hilarious Tunes</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-unlock-cross-platform-content-sharing-convert-and-upload-with-these-tools/"><u>2024 Approved Unlock Cross-Platform Content Sharing Convert and Upload with These Tools</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/best-artificial-intelligence-prompt-design-programs-top-5-picks/"><u>Best Artificial Intelligence Prompt Design Programs: Top 5 Picks</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/developing-dynamic-instagram-highlight-summaries/"><u>Developing Dynamic Instagram Highlight Summaries</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-when-your-beat-saber-keeps-exiting-unexpectedly/"><u>Effective Solutions for When Your Beat Saber Keeps Exiting Unexpectedly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/enjoy-infinite-fun-top-10-offline-ios-games-unplugged-for-2024/"><u>Enjoy Infinite Fun - Top 10 Offline iOS Games Unplugged for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-to-fixing-robocops-rogue-city-on-windows-and-pc-systems/"><u>Expert Guide to Fixing RoboCop's Rogue City on Windows and PC Systems</u></a></li>
+<li><a href="https://common-error.techidaily.com/failed-to-initialize-battleye-service-generic-error-fixed/"><u>Failed to Initialize BattlEye Service: Generic Error [FIXED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-resolve-armored-core-vi-fires-of-rubicons-launch-problems/"><u>Guide to Resolve Armored Core VI: Fires of Rubicon's Launch Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-eliminate-lag-in-your-obs-live-stream-or-video-capture/"><u>How to Eliminate Lag in Your OBS Live Stream or Video Capture?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-cyberpunk-2ers-cpu-overload-tips-and-solutions/"><u>Overcoming Cyberpunk 2Er's CPU Overload: Tips and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-gta-5-online-malfunctions-quickly-with-these-steps/"><u>Resolve GTA 5 Online Malfunctions Quickly with These Steps</u></a></li>
+<li><a href="https://win-web3.techidaily.com/step-by-step-driver-update-instructions-from-yl-software-experts/"><u>Step-by-Step Driver Update Instructions From YL Software Experts</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/techniques-for-reducing-sound-amplitude-with-lumafusion-for-2024/"><u>Techniques for Reducing Sound Amplitude with Lumafusion for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fix-troubleshooting-and-defeating-the-unable-to-join-a-party-issue-error-code-ebt/"><u>The Ultimate Fix: Troubleshooting and Defeating the 'Unable to Join a Party' Issue (Error Code Ebt)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-lol-launch-issues-top-solutions/"><u>Troubleshooting LoL Launch Issues : Top Solutions</u></a></li>
+</ul></div>
 

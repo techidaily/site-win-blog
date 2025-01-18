@@ -1,7 +1,7 @@
 ---
 title: "Fixing Graphics Glitches: How to Overcome the ERR_GFX_STATE Error on Red Dead Redemption 2"
-date: 2024-08-18T19:17:38.842Z
-updated: 2024-08-19T19:17:38.842Z
+date: 2025-01-11T03:07:44.720Z
+updated: 2025-01-17T18:48:20.751Z
 tags:
   - win11
   - win10
@@ -61,9 +61,6 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 
  If your PC specs are sufficient but you still get the Cyberpunk 2077 has flatlined error, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Fix 2: Close background programs
 
  Cyberpunk 2077 is extremely GPU and processor-intensive. So if you try to launch the game with many background programs running, you’ll likely get the Cyberpunk 2077 has flatlined error. Here’s how to completely close the programs running in the background and allow Cyberpunk 2077 to use more resources:
@@ -71,9 +68,22 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 1. On your keyboard, press the**Windows logo + R keys** simultaneously to open the Run box. Type**taskmgr** and hit Enter.  
 ![how to open Task Manager](https://images.drivereasy.com/wp-content/uploads/2023/10/win11-taskmgr.jpg)
 2. Under the**Processes** tab, look for the processes that are CPU and memory-hogging. Take Chrome here, for example, right-click it then click**End task** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-04-25_17-41-30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you still get the Cyberpunk has flatlined error after closing all the background programs, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Directly run the game executable
 
@@ -82,8 +92,9 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
  If running the game from its executable file doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Verify the integrity of your game files
 
  A previous interrupted installation or corrupted game files could lead to the Cyberpunk 2077 has flatlined error. You may need to scan and repair your game files through the Steam client to solve the problem. Here’s how:
@@ -91,11 +102,12 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 1. Open your Steam library, find Cyberpunk 2077, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-Properties.png)
 2. Select the**Installed Files** tab and click the**Verify integrity of game files** button.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/Cyberpunk-2077-Verify-integrity-of-game-files-1.png)
 3. Steam will scan your local game files and compare them to the files on the server. If there’s anything missing or damaged, Steam will add or replace them in your game folder.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If verifying and repairing your game files doesn’t solve your problem, try the next fix.
 
@@ -120,9 +132,6 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -136,20 +145,16 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
 2. Type**appwiz.cpl** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/run-appwiz-cpl.png)
 3. In the pop-up window, scroll down to find the Microsoft Visual C++ redistributable files. You’ll see two redistributable files.
+
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Right-click the first redistributable file, then click**Change** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/change.png)
 5. Click**Repair** . If prompted for permission, click **Yes.**  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **![](https://images.drivereasy.com/wp-content/uploads/2021/07/repair.png)**
 6. Repeat Steps 4-5 to repair the second redistributable file.
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 7. Once the repair is complete, restart your PC to let the changes take effect.
 
 ---
@@ -166,8 +171,6 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +178,21 @@ thumbnail: https://thmb.techidaily.com/dd35b2620aef06a2c26e9ff65a2086f109aae48f6
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/new-harmonizing-visuals-and-audio-in-unboxing-videos/"><u>[New] Harmonizing Visuals & Audio in Unboxing Videos</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-mememakerpro-visual-laughter-factory-for-2024/"><u>[New] MemeMakerPro Visual Laughter Factory for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-capturing-clarity-a-look-at-screensnapelite/"><u>[Updated] 2024 Approved Capturing Clarity A Look at 'ScreenSnapElite'</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-unlocking-youtube-live-potential-a-step-by-step-guide-for-2024/"><u>[Updated] Unlocking YouTube Live Potential A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/1723016572409-anthem-speaker-trouble-get-your-sound-back-on-windows-10-now/"><u>Anthem Speaker Trouble? Get Your Sound Back on Windows 10 Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-solutions-to-tackle-the-starfield-cpu-usage-problem-insights/"><u>Comprehensive Solutions to Tackle the Starfield CPU Usage Problem: Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-ping-and-gameplay-hiccups-in-chivalry-2-with-these-pro-tips-2024-update/"><u>Defeat Ping and Gameplay Hiccups in Chivalry 2 with These Pro Tips - 2024 Update</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-on-lava-yuva-2-by-drfone-android/"><u>In 2024, How to Bypass FRP on Lava Yuva 2?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-gaming-issues-fix-keeps-freezing-problems-in-halo-infinite-on-your-pc-using-these-easy-methods-part-1/"><u>Overcome Gaming Issues: Fix Keeps-Freezing Problems in Halo Infinite on Your PC Using These Easy Methods (Part 1)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/patch-notes-review-correcting-league-of-legends-connection-vexation-for-enhanced-gaming-experience/"><u>Patch Notes Review: Correcting League of Legends' Connection Vexation for Enhanced Gaming Experience</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/pokemon-go-cooldown-chart-on-poco-x6-drfone-by-drfone-virtual-android/"><u>Pokémon Go Cooldown Chart On Poco X6 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-when-persona-3-fsr-wont-start/"><u>Troubleshooting Steps for When Persona 3 FSR Won't Start</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/updated-in-2024-unlock-efficient-video-editing-6-adobe-premiere-hacks-you-need-to-know/"><u>Updated In 2024, Unlock Efficient Video Editing 6 Adobe Premiere Hacks You Need to Know</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/youtube-beginners-guide-to-earning-success-for-2024/"><u>YouTube Beginners' Guide to Earning Success for 2024</u></a></li>
+</ul></div>
 

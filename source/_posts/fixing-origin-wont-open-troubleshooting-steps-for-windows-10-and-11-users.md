@@ -1,7 +1,7 @@
 ---
 title: "Fixing 'Origin Won't Open': Troubleshooting Steps for Windows 10 and 11 Users"
-date: 2024-08-18T19:13:31.301Z
-updated: 2024-08-19T19:13:31.301Z
+date: 2025-01-16T11:40:55.002Z
+updated: 2025-01-17T23:26:21.946Z
 tags:
   - win11
   - win10
@@ -62,16 +62,15 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 1. On your keyboard, press**the Windows logo key**  and**R** at the same time, then type **inetcpl.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click **Programs** \>**Manage add-ons** .  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0662b2bda.jpg)
 3. You’ll then see a list of all your Internet Explorer add-ons. Disable**each add-on** in the list, one at at time, by clicking it, then clicking**Disable** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d0bb770ebc.jpg)
 4. **Restart** your computer and check if Internet Explorernow works:  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
    * If Internet Explorer does work after disabling all your add-ons, it’s likely one of your add-ons was the problem. Now you just need to figure out which one. To do this, enable the first add-on in the list, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after enabling the first add-on, enable the second and test again. Continue testing each add-on in this way until you find the one that stops Internet Explorer from working. Once you find it, disable it again. If you need it, contact the vendor for support.  
    * If disabling your add-ons doesn’t solve your problem, move on to**Fix 3** .
 
@@ -88,18 +87,21 @@ thumbnail: https://thmb.techidaily.com/1ccd49c85e9212303a8d46ffca4e2f894288070bb
 2. Right-click on **the each toolbar** in your list of programs and features **and clickUninstall** / ****Change .**  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d1acaa16c1.jpg)
 3. Click**Yes** to confirm.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd64bdd78f4.jpg)
 4. **Restart** your computer and check if Internet Explorernow works.  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
    * If Internet Explorer does work after uninstalling all your toolbars, it’s likely one of your toolbars was the problem. Now you just need to figure out which one. To do this, you can try to reinstall one of your original toolbars, then see if Internet Explorer still works. If it doesn’t, then you’ve found the cause of the problem. If Internet Explorer works fine after reinstalling the toolbar, reinstall another one and test again. Continue testing each toolbar in this way until you find the one that stops Internet Explorer from working. Once you find it, uninstall it again. If you need it, contact the vendor for support.  
    * If uninstalling your toolbars doesn’t solve your problem, move on to**Fix 4** .
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Change your hardware acceleration setting
 
@@ -112,10 +114,16 @@ Here’s how to do it…
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **inetcpl.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click **Advanced**  , and check whether the **Use software rendering instead of GPU rendering** checkbox is ticked. If it is ticked, un-tick it. If it’s not ticked, tick it. Then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc98b95b2550.jpg)
 3. **Restart**  your computer and see if Internet Explorer works properly. If not, move on to **Fix 5** , below.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -131,15 +139,22 @@ Here’s how to do it…
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **inetcpl.cpl** and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc706de27b22.png)
 2. Click**Security** \> **Reset all zones to default level** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4e878da26.jpg)
 3. Click **OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. **Restart** your computer and see if **Internet Explorer**  works properly. If the problem persists, move on to **Fix 6** below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Internet Explorer
 
  If all else fails and you’re not quite ready to ditch Internet Explorer, then you might want to reinstall it.
@@ -149,30 +164,28 @@ Here’s how to do it…
 1. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **appwiz.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc70860ce2fe.png)
 2. Click**Turn Windows features on or off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 3. Deselect**Internet Explorer** (your version of Internet Explorer may be different to the screenshot below).  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4105003d2.jpg)
 4. Click**Yes** to confirm.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd414308414.png)
 5. Click **OK** and wait until Internet Explorer turns off.
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6. **Restart** your computer.
 7. On your keyboard, press**the Windows logo key** and**R** at the same time, then type **appwiz.cpl**  and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bc70860ce2fe.png)
 8. Click**Turn Windows features on or off** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/05/img_5b0d38595c458.jpg)
 9. Tick the **Internet Explorer**  checkbox, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bcd4228e8c23.jpg)
 10. Wait until Internet Explorer turns on.
 11. Re-launch Internet Explorer and see if it works properly.
@@ -189,8 +202,6 @@ Here’s how to do it…
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +209,26 @@ Here’s how to do it…
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2023s-leading-covert-video-download-apps-1-8/"><u>[New] 2023'S Leading Covert Video Download Apps #1-8</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-high-res-horizon-a-comprehensive-look-at-the-sony-xperia-xz/"><u>[New] In 2024, High-Res Horizon - A Comprehensive Look at the Sony Xperia XZ</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-2024-approved-streamline-your-academic-notes-mac-recording-guide/"><u>[Updated] 2024 Approved Streamline Your Academic Notes MAC Recording Guide</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-capturing-stories-the-best-cinematographic-techniques/"><u>[Updated] Capturing Stories The Best Cinematographic Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-disconnection-errors-in-terraria-top-6-strategies-that-work-every-time/"><u>Banish Disconnection Errors in Terraria: Top 6 Strategies That Work Every Time</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/boost-your-websites-success-with-the-advanced-technology-of-cookiebot/"><u>Boost Your Website's Success with the Advanced Technology of Cookiebot</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-technical-terrors-a-guide-to-preventing-dragon-age-origins-crashes-on-windows-10/"><u>Conquer Technical Terrors: A Guide to Preventing Dragon Age: Origins Crashes on Windows 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/elite-audio-solutions-the-best-microphone-picks-for-competitive-gamers/"><u>Elite Audio Solutions: The Best Microphone Picks for Competitive Gamers</u></a></li>
+<li><a href="https://app-tips.techidaily.com/essential-manager-education-prior-to-enterprise-ai-adoption-lessons-by-zdnet/"><u>Essential Manager Education Prior to Enterprise AI Adoption - Lessons by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-rectifying-directdraw-compatibility-concerns/"><u>Expert Advice on Rectifying DirectDraw Compatibility Concerns</u></a></li>
+<li><a href="https://win-webster.techidaily.com/how-to-set-up-a-flipping-book-view-on-one-page-using-flipbuilder/"><u>How to Set Up a Flipping Book View on One Page Using FlipBuilder</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-samsung-galaxy-a05s-to-other-android-devices-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from Samsung Galaxy A05s to Other Android Devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-scoop-effective-solutions-when-your-steam-collection-wont-launch-on-windows-10/"><u>Inside Scoop: Effective Solutions When Your Steam Collection Won't Launch on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-smooth-communication-a-2024-proven-approach-to-fixing-discord-lags/"><u>Mastering Smooth Communication: A 2024 Proven Approach to Fixing Discord Lags</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-glitches-how-to-recover-from-a-total-tribes-of-midgard-crash/"><u>Overcoming Glitches: How to Recover From a Total Tribes of Midgard Crash</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-issues-with-doom-eternal-a-comprehhemic-repair-tutorial/"><u>Overcoming Launch Issues with DOOM Eternal: A Comprehhemic Repair Tutorial</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/strategies-for-flawless-transfer-of-mmc-productions-to-vimeo/"><u>Strategies for Flawless Transfer of MMC Productions to Vimeo</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-stop-nioh-2-full-version-from-crashing/"><u>Troubleshooting Tips: Stop Nioh 2 (Full Version) From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/upgraded-performance-and-fixed-display-issues-troubleshooting-guide-for-the-newest-forza-horizon-graphics-driver/"><u>Upgraded Performance and Fixed Display Issues: Troubleshooting Guide for the Newest Forza Horizon ⁵ Graphics Driver</u></a></li>
+</ul></div>
 

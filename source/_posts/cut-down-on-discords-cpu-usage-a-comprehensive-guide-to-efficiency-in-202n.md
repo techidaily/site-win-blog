@@ -1,7 +1,7 @@
 ---
 title: "Cut Down on Discord's CPU Usage: A Comprehensive Guide to Efficiency in 202N"
-date: 2024-08-18T19:12:29.477Z
-updated: 2024-08-19T19:12:29.477Z
+date: 2025-01-11T02:43:08.105Z
+updated: 2025-01-18T02:28:37.175Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/5db3fyzhzw851-1200x471.png)
 
  The**error: connection to server timed out (code: leaf)** on Apex Legends is an old one, and it’s supposed to be fixed ages ago. But many players are still reporting getting it all the time. In this post, we’ll go through some working fixes step by step, so make sure you check them out below!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -52,9 +56,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
  If your game stays up-to-date but you still run into error code leaf, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Configure your DNS settings
 
  When you use your ISP’s (Internet Service Provider) default DNS server, some possible issues like crowded cache could cause the server connection failure. What you can do is switching to a public DNS server to solve the problem. We’ll use the Google DNS server as an example. Here’s how:
@@ -62,16 +63,10 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 1. On your taskbar, right-click the**network icon** , then click**Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/open-network-settings.png)
 2. Click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
 
@@ -81,13 +76,11 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If changing to a public DNS server doesn’t connect your game to the server, try the last fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Update your network driver
 
  If your network driver is outdated or faulty, it could be responsible for the code leaf server connection issue. You may want to update your network adapter driver to make sure it’s functioning properly.
@@ -102,14 +95,15 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click the **Update**  button next to the flagged network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. I’m using a graphics driver as an example here, since updating your graphics driver could solve many game issues (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
   
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Switch to another server
 
@@ -120,8 +114,17 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
 3. When you’re prompted to exit the game, click**Cancel** to go back to the main page.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/exit-game.png)
 4. Now you’ll see an option of**Data Center** at the bottom of your main page.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/data-centers.png)
 5. Click**Data Center** , then you’ll see a list of all available servers with their ping times and loss rate. You can choose a low ping server or try several servers until you can join the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -137,8 +140,6 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -146,4 +147,21 @@ thumbnail: https://thmb.techidaily.com/986504cd44b9d8a86e506a851489003cdb37fac43
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-enter-virtual-realms-top-10-immersive-videos/"><u>[New] 2024 Approved Enter Virtual Realms Top 10 Immersive Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-cold-climates-hot-wins-beijing-highlights-for-2024/"><u>[Updated] Cold Climates, Hot Wins Beijing Highlights for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-from-zero-to-hero-youtube-intro-wonders-with-imovie/"><u>[Updated] From Zero to Hero YouTube Intro Wonders with iMovie</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-ultimate-screen-capture-guide-tunefab-pro/"><u>[Updated] Ultimate Screen Capture Guide - Tunefab Pro</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/easy-download-unique-video-opening-lines/"><u>Easy Download Unique Video Opening Lines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008670038-experience-the-excitement-with-cod-modern-warfares-newest-fps-release/"><u>Experience the Excitement with Cod: Modern Warfare's Newest FPS Release</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-quick-guide-to-realme-gt-3-frp-bypass-instantly-by-drfone-android/"><u>In 2024, A Quick Guide to Realme GT 3 FRP Bypass Instantly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/internet-explorer-display-errors-rectified-how-to-access-all-websites-smoothly/"><u>Internet Explorer Display Errors Rectified: How to Access All Websites Smoothly</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-5-best-free-video-editors-for-avi-files-for-2024/"><u>New 5 Best Free Video Editors for AVI Files for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013796565-snapchat-camera-not-showing-heres-how-you-can-solve-it/"><u>Snapchat Camera Not Showing? Here's How You Can Solve It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-no-rest-for-the-wicked-game-crashes-on-windows-a-step-by-step-guide/"><u>Solving 'No Rest for the Wicked' Game Crashes on Windows: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-elder-scrolls-online-blackwood-performance-fixed-and-optimized/"><u>The Elder Scrolls Online Blackwood Performance Fixed and Optimized</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-strategies-for-resolving-league-of-legends-start-up-issues-this-year/"><u>Top Strategies for Resolving League of Legends Start-Up Issues This Year</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unraveling-the-workings-of-predictive-ai-technologies/"><u>Unraveling the Workings of Predictive AI Technologies</u></a></li>
+</ul></div>
 

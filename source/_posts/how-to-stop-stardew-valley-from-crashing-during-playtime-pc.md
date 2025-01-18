@@ -1,7 +1,7 @@
 ---
 title: How to Stop Stardew Valley From Crashing During Playtime (PC)
-date: 2024-08-18T19:17:13.544Z
-updated: 2024-08-19T19:17:13.544Z
+date: 2025-01-10T22:02:12.197Z
+updated: 2025-01-17T18:29:49.949Z
 tags:
   - win11
   - win10
@@ -28,6 +28,10 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 5. [Download and install file from Github](https://tools.techidaily.com/drivereasy/download/)
 6. [Lower graphic settings](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game files
 
  Verifying game files is always the first thing to try as corrupted and missing files would cause Stray crashing, freezing, or other game issues.
@@ -38,11 +42,16 @@ The Stray is a hit in July. As a cat lover, I’m obsessed with the game, howeve
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)
 3. After the verification, launch Stray and see if it makes difference.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Put commands in the launch option
 
  You can fix the Stray crashing issue by putting commands in the Launch option. There are three commands, you can try it one-by-one to see which one fix your problem.
@@ -50,24 +59,23 @@ If it doesn’t work, move to the next fix.
 1. In Steam, right-click on Stray and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-properties.jpg)
 2. In the**GENERAL** tab, type**\-d3d11** without any space in the LAUNCH OPTIONS.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-launch-options.jpg)
 3. Launch the game.
 4. If this command doesn’t work, repeat**Step 1 & 2** , enter**\-dx11** in the space and launch the game again.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx11.jpg)
 5. If it failed again, repeat**Step 1& 2** , try**\-dx12** this time.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-dx12.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If none of the commands work for you, move to the next fix if you have Oculus app installed on your PC. If you don’t have it, move to the[Fix 4](https://tools.techidaily.com/drivereasy/download/) .
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Open Oculus app
 
  Still facing the problem? If you have the Oculus app installed on your PC, launch this app and the crashing will be fixed. We don’t know why, but it did work for many players.
@@ -104,15 +112,11 @@ If it doesn’t work, move to the next fix.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Download and install file from GitHub
 
@@ -125,30 +129,26 @@ If it doesn’t work, move to the next fix.
 4. Right-click on the**dxvk-1.10.2.tar.gz** and click**Extract to “dxvk-1.10.2\\”** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-2.jpg)
 5. Open the**extracted folder > dxvk-1.10.2 > dxvk-1.10.2 > x64** . Select all the file and copy these files.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-3.jpg)
 6. Back to Steam. Right-click on**Stray > Manager > Browse local files** . It will bring you directly to your game file folder.  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-gamefiles.jpg)
 7. In the folder, open**Hk\_project > Binaries > Win64** . There are only 4 files in the Win64 folder.  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-4.jpg)
 8. Right-click in the empty space and click**Paste** to paste all the files into Win64.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/07/stray-github-5.jpg)
 9. Launch the game and see if it works.
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087264/19272" target="_top" id="2087264"><img src="//a.impactradius-go.com/display-ad/19272-2087264" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087264/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  If the fix doesn’t work for you, you can delete the pasted files from the Win64 folder.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Lower graphic settings
 
  Some gamers reported lowering the graphics settings in the Stray would fix the random game crashing on Stray.
@@ -163,8 +163,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +170,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-foundations-of-easing-volume-control-in-audition/"><u>[New] 2024 Approved Foundations of Easing Volume Control in Audition</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/new-coordinated-audio-visual-grouping-space/"><u>[New] Coordinated Audio-Visual Grouping Space</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-sound-to-scripture-top-pick-offline-recognition-software-for-2024/"><u>[Updated] Sound to Scripture Top Pick Offline Recognition Software for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-mastering-momentum-accelerating-fb-videos/"><u>2024 Approved Mastering Momentum Accelerating FB Videos</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/evaluating-the-d-link-powerline-2000-network-solution-user-friendly-setup-and-accelerated-internet-performance/"><u>Evaluating the D-Link Powerline 2000 Network Solution: User-Friendly Setup & Accelerated Internet Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-and-mastered-top-strategies-for-seamless-play-in-helldivers-2-pc/"><u>Fixed & Mastered! Top Strategies for Seamless Play in Helldivers 2 (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-destiny-warzone-memory-glitch-error-code-0-1766-on-your-console-and-pc/"><u>How to Fix the Destiny Warzone Memory Glitch (Error Code 0-1766) on Your Console & PC</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mastering-sound-shifts-in-free-fire-for-2024/"><u>Mastering Sound Shifts in Free Fire for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-delays-on-spotifys-online-platform-fixing-performance-issues-in-202e/"><u>Overcoming Delays on Spotify's Online Platform – Fixing Performance Issues in 202E</u></a></li>
+<li><a href="https://howto.techidaily.com/reasons-for-oneplus-ace-2v-stuck-on-startup-screen-and-ways-to-fix-them-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Reasons for OnePlus Ace 2V Stuck on Startup Screen and Ways To Fix Them | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-error-enjoy-payday-2-gameplay-on-personal-computers-today/"><u>Resolved Error - Enjoy Payday 2 Gameplay on Personal Computers Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-far-cry-6s-persistent-black-screen-glitches-efficiently/"><u>Resolving Far Cry 6'S Persistent Black Screen Glitches Efficiently</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-issue-why-your-pc-crashes-when-playing-fallout-3-on-windows-11/"><u>Resolving the Issue: Why Your PC Crashes When Playing Fallout 3 on Windows 11</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-most-efficient-and-quality-solderers-for-professionals/"><u>The Most Efficient & Quality Solderers for Professionals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-issues-with-pacifica-drives-that-wont-start/"><u>Troubleshooting Guide: Resolving Issues with Pacifica Drives That Won't Start</u></a></li>
+<li><a href="https://games-able.techidaily.com/unbeatable-co-op-couch-choices-for-next-gen-xbox-sx/"><u>Unbeatable Co-Op Couch Choices for Next-Gen Xbox S/X</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-resolving-the-causes-behind-dragon-age-origins-unstable-performance-in-windows-n-based-computers/"><u>Understanding and Resolving the Causes Behind Dragon Age: Origins' Unstable Performance in Windows N-Based Computers</u></a></li>
+</ul></div>
 

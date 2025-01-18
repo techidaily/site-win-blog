@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Guide to Troubleshoot Non-Recording Problems with OBS Software
-date: 2024-08-18T19:15:21.391Z
-updated: 2024-08-19T19:15:21.391Z
+date: 2025-01-12T01:02:57.917Z
+updated: 2025-01-18T03:32:05.745Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 
  Game developers always keep releasing patches to improve their games and fix any issues, so you should manually check for updates of your game. Then install the latest patch to keep it up to date. This can fix some issues like WOW crashing.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics card driver
 
  A graphics card driver corruption in your computer can also cause your game crashing. So you should update the graphics card driver to the latest version to fix the issue,
@@ -60,9 +64,17 @@ thumbnail: https://thmb.techidaily.com/852437a8f4dc8f33eb3a839d8b7d9a1e3df217c9c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aYH0B2HqcIM?si=3fkoG85L6hAeB4ok" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Run Scan and Repair for your game
 
@@ -72,21 +84,22 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 2. Click the icon of**World of Warcraft** from the game list on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable DVR app in Xbox
 
  Windows automatically enables DVR in Xbox app, but sometimes this is incompatible with games running in your computer. So you can disable DVR in Xbox, so World of Warcraft stops crashing.
@@ -98,22 +111,9 @@ Here’s what you can do:
 1. Search**Xbox** from the search box on your desktop, and click**Xbox** to open it.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 3. Click the**Gear** button on the left to open**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
 5. Restart your computer and open World of Warcraft to see if it stops crashing.
 
@@ -127,9 +127,6 @@ Here’s what you can do:
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  INFORMATION: If you don’t use Xbox in your computer, try uninstalling Xbox application to run your game properly.
 
@@ -144,8 +141,6 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +148,21 @@ Here’s what you can do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/updated-2024-approved-decoding-facebook-capturing-and-keeping-status-videos/"><u>[Updated] 2024 Approved Decoding Facebook Capturing and Keeping Status Videos</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-chinas-value-driven-virtual-reality-marketplace-for-2024/"><u>[Updated] China's Value-Driven Virtual Reality Marketplace for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-how-to-change-your-voice-in-free-fire-game-free-solution-included-for-2024/"><u>[Updated] How to Change Your Voice in Free Fire Game? [Free Solution Included] for 2024</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/202s/"><u>最新無料ファイル同期ソフト選び: 202#'Sベストリストとその特徴解説</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bust-the-mordhau-crash-glitch-expert-advice-for-smooth-gaming-experience/"><u>Bust the Mordhau Crash Glitch: Expert Advice for Smooth Gaming Experience</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/comparative-analysis-exe-versus-msi-file-formats/"><u>Comparative Analysis: Exe Versus Msi File Formats</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-se-2022-with-a-broken-screen-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone SE (2022) with a Broken Screen?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-to-resolve-unresponsive-behavior-of-playerunknowns-battlegrounds-on-desktops/"><u>Comprehensive Guide to Resolve Unresponsive Behavior of PlayerUnknown's Battlegrounds on Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-to-stop-oxygen-a-real-time-space-colony-simulator-from-freezing-or-crashing/"><u>Effective Solutions to Stop 'Oxygen: A Real-Time Space Colony Simulator' From Freezing or Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010744764-fix-your-google-chrome-when-it-wont-launch-proven-solutions/"><u>Fix Your Google Chrome When It Won't Launch: Proven Solutions</u></a></li>
+<li><a href="https://driver-download.techidaily.com/latest-and-fastest-nvidia-drivers-now-available-for-windows-10-users/"><u>Latest & Fastest NVIDIA Drivers Now Available for Windows 10 Users!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-alan-wake-ii-release-delay-troubleshooting-tips/"><u>Solving the Alan Wake II Release Delay: Troubleshooting Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-recurring-blender-program-crashes/"><u>Ultimate Guide: Troubleshooting Recurring Blender Program Crashes</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/windowsaomei-backupper-standard/"><u>ためらわずに選ぶ：Windows用の両方をカバーする唯一無二の無料バックアップ・同期ソフト「AOMEI Backupper Standard」</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Stuck Audio During Video Streaming in Google Chrome and Mozilla Firefox
-date: 2024-08-18T19:17:19.128Z
-updated: 2024-08-19T19:17:19.128Z
+date: 2025-01-12T23:18:58.258Z
+updated: 2025-01-18T04:23:17.256Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ _Image source: ea.com_
  The Dead Space Remake is superb! With its jaw-dropping visual fidelity, suspenseful atmospheric audio, and improvements to gameplay, the remake is undoubtedly the definitive way to experience one of the best survival horror shooters.
 
  But there are some issues pissing players off, one of which is that the game doesn’t even launch! Some are getting an error **“Your game failed to launch. An error on our end caused your launch to fail. Try again a little later.”** If you have no clue what has happened, you’ve come to the right place! In this guide, we’ll walk you through the methods to solve your problem and bring your game back to the deep and immersive gaming experience.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Before proceeding to the fixes below…
 
@@ -92,18 +96,14 @@ To check your PC hardware specifications, you can follow the steps below.
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/turn-windows-features-on-or-off.png)
 4. Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qbuund2HKOQ?si=NaGHqIrx8hSL7gWV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
  You should also try disabling your antivirus if you’re using any. After you’ve done these, attempt to launch the game. If it still fails to launch or triggers any errors, proceed to the next fix. Prior to getting started with the troubleshooting steps below, remember to repeat the similar steps as listed above to turn on the Firewall and enable antivirus to protect your computer from the risk of malicious programs.
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Close conflicting or non-essential programs
 
  Not often, but possible, certain programs on your computer are in conflict with your game title. Besides, Dead Space Remake is graphics demanding, which requires your system to allocate sufficient resources in order to function properly. If you have too many programs running in the background while launching Dead Space, however, you’re more likely to suffer from any sort of issue. To prevent this from affecting your gameplay, you should take the steps as follows to stop certain programs from running.
@@ -113,13 +113,15 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the **Processes**  tab, select the program and click **End task** until you close all the unnecessary applications.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (Some gamers did find that the Razer Synapse is more likely to be in conflict with a number of big releases. Therefore, if you have it installed in your computer, stop it from running in the background. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/end-task.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
  Then you can attempt to open your game. If your problem persists, proceed to the next fix.
 
 ## 3\. Run your game as an administrator
@@ -132,10 +134,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
  Till now, launch the game to test if it works. If this method doesn’t give you any luck, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## 4\. Download & install all Windows updates
 
  Windows updates are released on a regular basis to provide users with bug fixes and new features. So you should make sure they are installed in your system to get all the performance enhancements. If your issue is triggered by the incompatibilities, updating Windows is more likely to help.
@@ -147,9 +145,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/click-on-the-Check-for-updates-tab.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the updates are installed, reboot your device and then try to launch your game. If you’re still having the issue, proceed to the next fix.
 
 ## 5\. Update your graphics driver
@@ -158,9 +153,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
  There are mainly two ways you can update your drivers: manually and automatically.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 1: Manually update your drivers
 
  If you have the time, patience and computer skills to update drivers on your own, you can visit your graphics card manufacturer’s website:
@@ -170,6 +162,10 @@ To check your PC hardware specifications, you can follow the steps below.
 * [Intel](https://www.intel.com/content/www/us/en/download-center/home.html)
 
  Then find the most up-to-date driver and follow the on-screen instructions to download and install it for your system.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your drivers (recommended)
 
@@ -194,8 +190,9 @@ To check your PC hardware specifications, you can follow the steps below.
  From time to time, game files can get corrupted and some important ones may even be missing, causing the issue of your game failing to launch as expected. To replace the corrupted files and make sure they are intact, you should try to verify them within the gaming platform.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### On Steam
 
 1. Open your Steam client. Under**LIBRARY** , right-click your game title and select**Properties** .
@@ -204,11 +201,16 @@ To check your PC hardware specifications, you can follow the steps below.
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-verify-intergrity-of-game-files-on-Steam.png)
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Now Steam will start scanning your game files. This process may take a few minutes. If there are file validation failures, you can safely ignore the message that pops up.
 
  When the verification process is finished, close the window and check if it solves your problem. If your game still fails to launch, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### On EA
 
@@ -217,9 +219,6 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/10/Dead-Space-Remake-repair-game-files-on-the-EA-app.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Then all you have to do is wait until the repair process is complete. If this doesn’t do the trick, try the next fix below.
 
 ### On Epic Games
@@ -228,20 +227,15 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-repair-game-files-on-the-Epic-Games-Launcher.png)
 2. Now click on the**VERIFY** button.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/02/Dead-Space-Remake-how-to-repair-game-files-on-the-Epic-Games-Launcher-click-on-the-VERIFY-button.png)
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Depending on the size of your game, it may take a few minutes to verify all your files. Once it finishes, try to launch your game to check whether verifying game files works.
 
 <!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=lhdUUVYMVQjzHXBh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 7\. Repair corrupted system files
 
  If you’ve exhausted all the methods above but still haven’t managed to solve your problem, it’s time to identify whether it’s due to the corruption of your system files, which can cause a wide range of issues, ranging from minor glitches to critical performance issues. To make sure those files are intact, you can use the**System File Checker** (SFC), a utility in Windows that helps check any problematic files and repair them if there are any. Below is the simple step-by-step guide.
@@ -250,6 +244,11 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![open command prompt](https://images.drivereasy.com/wp-content/uploads/2020/11/cmd.jpg)
 2. Click **Yes**  when you receive a prompt.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Copy and paste the following commands in Command Prompt, then press Enter.  
 
 `DISM.exe /Online /Cleanup-image /Restorehealth`
@@ -257,8 +256,9 @@ To check your PC hardware specifications, you can follow the steps below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/12/how-to-run-the-system-file-checker.jpg)
 5. Now type **sfc /scannow**  and press Enter. Then it’ll start scanning the integrity of all protected operating system files and replace incorrect, corrupted, changed, or damaged versions with the correct versions.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  When you see a message that says “Verification 100% complete”, type **exit** and press Enter.  
@@ -285,8 +285,6 @@ To check your PC hardware specifications, you can follow the steps below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -294,4 +292,23 @@ To check your PC hardware specifications, you can follow the steps below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/afely-save-your-streaming-stash-with-these-free-tools-for-2024/"><u>[New] Safely Save Your Streaming Stash with These Free Tools for 2024</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-exploring-the-complexity-behind-youtube-view-counter/"><u>[Updated] 2024 Approved Exploring the Complexity Behind YouTube View Counter</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-beat-blast-innovative-audio/"><u>[Updated] Beat Blast Innovative Audio</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-essential-video-gear-for-youtube-starters/"><u>[Updated] In 2024, Essential Video Gear for YouTube Starters</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battle-the-bugs-essential-troubleshooting-tips-to-stop-world-of-warships-crashes-on-computer-systems/"><u>Battle the Bugs: Essential Troubleshooting Tips to Stop World of Warships Crashes on Computer Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722990881194-enhance-dayz-gaming-experience-quick-fixes-for-fps-drops-guaranteed/"><u>Enhance DayZ Gaming Experience - Quick Fixes for FPS Drops Guaranteed</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/1716465725108-enjoy-9-complete-uncut-holiday-cine-classics-for-no-cost/"><u>Enjoy 9 Complete, Uncut Holiday Cine Classics for No Cost!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-dealing-with-steam-login-difficulties/"><u>Expert Tips for Dealing with Steam Login Difficulties</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-fixing-live-stream-drops-optimizing-your-obs-settings/"><u>In 2024, Fixing Live Stream Drops Optimizing Your OBS Settings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-obstacles-for-tekken-8-pc-version-expert-advice/"><u>Overcoming Launch Obstacles for Tekken 8 PC Version - Expert Advice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-high-latency-issues-a-step-by-step-guide-for-optimizing-your-bless-unleashed-gameplay/"><u>Solving High Latency Issues: A Step-by-Step Guide for Optimizing Your Bless Unleashed Gameplay</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/teslas-innovative-ota-upgrade-enhances-vehicle-safety-the-latest-breakthrough-covered-by-zdnet/"><u>Tesla's Innovative OTA Upgrade Enhances Vehicle Safety - The Latest Breakthrough Covered by ZDNet</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/1723262392171-top-gamers-choice-for-bargain-hunters-grab-a-powerhouse-pc-at-just-999rtx-4060-and-ultra-fast-ram/"><u>Top Gamers' Choice for Bargain Hunters: Grab a Powerhouse PC at Just $999—RTX 4060 & Ultra-Fast RAM!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-optimizing-age-of-empires-iv-for-smooth-gameplay/"><u>Troubleshooting and Optimizing Age of Empires IV for Smooth Gameplay</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/updated-top-rated-avi-video-rotators-free-solutions-for-all-platforms/"><u>Updated Top-Rated AVI Video Rotators Free Solutions for All Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-fallout-3-crashes-in-windows-10-solutions-and-fixes/"><u>Winning the Battle Against Fallout 3 Crashes in Windows 10 - Solutions and Fixes</u></a></li>
+</ul></div>
 

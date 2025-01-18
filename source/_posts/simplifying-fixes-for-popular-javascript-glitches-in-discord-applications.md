@@ -1,7 +1,7 @@
 ---
 title: Simplifying Fixes for Popular JavaScript Glitches in Discord Applications
-date: 2024-08-18T19:15:30.178Z
-updated: 2024-08-19T19:15:30.178Z
+date: 2025-01-12T21:59:45.723Z
+updated: 2025-01-18T07:04:03.595Z
 tags:
   - win11
   - win10
@@ -38,15 +38,24 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Type**taskkill /F /IM discord.exe** and press the**Enter** key.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/dis.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Launch Discord again. It should be open normally.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Set your date/time automatically
 
  It may sound weird to you but it does help many users fix the problem. If you’ve already set your time automatically, you can move to the next fix. Or you can follow the steps below.
@@ -57,18 +66,12 @@ When you double-click Discord but the program won’t open, it could be very fru
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/time.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) In the right pane, turn on the button under**Set time automatically** .
 
  4) Reboot the Discord program to check.
 
 If it doesn’t work, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Run Discord as administrator
 
  Some features may be blocked by the Windows system that causes problems. With high integrity access, the Discord can make full use of its features, won’t be blocked by other programs.  
@@ -78,16 +81,13 @@ If it doesn’t work, move to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ced2e031f.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
 
@@ -101,6 +101,10 @@ The ultimate burning program for all your needs!</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/task.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Restart Discord. It should open.
 
 ### Fix 5: Disable your proxies
@@ -113,9 +117,9 @@ The ultimate burning program for all your needs!</a>
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
@@ -132,9 +136,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 6) Relaunch the Discord and it should open.
 
 ### Fix 6: Flushing your DNS
@@ -148,6 +149,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
 
 **ipconfig /flushdns**
@@ -155,13 +160,11 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Launch the Discord again. It should open.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall the Discord
 
  If the above fixes don’t work, you can reinstall Discord to see whether it works. Uninstall and reinstall Discord could simply rewrite data files. The error code may be fixed by this fix.
@@ -176,9 +179,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
 
 ### Bonus: Update your driver
@@ -214,6 +214,10 @@ OR
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
@@ -230,8 +234,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -239,4 +241,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-perfecting-online-presence-screen-sharing-techniques/"><u>[New] 2024 Approved Perfecting Online Presence Screen Sharing Techniques</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-constructing-emotional-resonance-trailer-sound-selection-guide/"><u>[New] In 2024, Constructing Emotional Resonance Trailer Sound Selection Guide</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-humor-unleashed-designing-viral-video-memes-for-facebook-and-insta/"><u>[Updated] 2024 Approved Humor Unleashed Designing Viral Video Memes for Facebook and Insta</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-sleep-specialist-endorses-aspers-guide/"><u>[Updated] In 2024, Sleep Specialist Endorses Asper's Guide</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-instantpodstreams-a-step-by-step-approach-to-live-broadcasting-for-2024/"><u>[Updated] InstantPodStreams A Step-by-Step Approach to Live Broadcasting for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/connectivity-repair-tips-for-your-astro-a50-with-the-central-command-hub/"><u>Connectivity Repair Tips for Your Astro A50 with the Central Command Hub</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-call-of-duty-modern-warfare-dev-error-604-essential-fixes-for-gamers-on-pc-and-xbox/"><u>Defeat Call of Duty: Modern Warfare Dev Error ✖️604 - Essential Fixes for Gamers on PC and Xbox!</u></a></li>
+<li><a href="https://driver-download.techidaily.com/fast-track-download-asus-monitor-drivers-get-them-now/"><u>Fast Track Download: ASUS Monitor Drivers - Get Them Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-2024-issues-in-phasmophobia-game-crashes-tips-and-solutions/"><u>Fixing 2024 Issues in Phasmophobia Game Crashes - Tips and Solutions</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-fix-life360-shows-wrong-location-on-vivo-y27-4g-drfone-by-drfone-virtual-android/"><u>How to Fix Life360 Shows Wrong Location On Vivo Y27 4G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-recurring-famine-problems-to-prevent-dread-crashes-during-pc-playthrough/"><u>Overcoming Recurring Famine Problems to Prevent Dread Crashes During PC Playthrough</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-to-upgrade-your-utorrents-slow-file-transfer-rate/"><u>Quick Solutions to Upgrade Your uTorrent's Slow File Transfer Rate</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-continuous-crashes-in-hell-let-loose-for-desktop-systems/"><u>Troubleshooting Continuous Crashes in Hell Let Loose for Desktop Systems</u></a></li>
+<li><a href="https://techidaily.com/u23-pro-video-recovery-recover-deleted-videos-from-u23-pro-by-fonelab-android-recover-video/"><u>U23 Pro Video Recovery - Recover Deleted Videos from U23 Pro</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-comparison-guide-which-should-you-pick-alexa-or-google-assistant/"><u>Ultimate Comparison Guide: Which Should You Pick, Alexa or Google Assistant?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-tutorial-for-implementing-hyper-v-in-windows-10-systems-efficiently/"><u>Ultimate Tutorial for Implementing Hyper-V in Windows 10 Systems Efficiently</u></a></li>
+</ul></div>
 

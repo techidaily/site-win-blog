@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Eliminating Slowdowns and Glitches in Dying Light
-date: 2024-08-18T19:17:27.839Z
-updated: 2024-08-19T19:17:27.839Z
+date: 2025-01-14T10:14:34.740Z
+updated: 2025-01-17T20:20:36.183Z
 tags:
   - win11
   - win10
@@ -29,6 +29,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 * [Disable all overlays](https://tools.techidaily.com/drivereasy/download/)
 * [Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Run the game as administrator
 
  It’s very likely that Nioh 2 crashing is caused by a lack of administrative rights. Running your game/ game launcher as admin is the first method you should try when your game crashes or not fails to launch. Here’s how:
@@ -43,11 +47,19 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Properties-Nioh-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Go to the **Compatibility** tab. Then, tick the box next to Run this program as an administrator and click **Apply** \> **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Nioh-2-admin.jpg)
 
  If this method doesn’t work, you can go to the **Compatibility** tab again, tick the box next to the **Disable fullscreen optimization** option, and set a Win 7 or Win 8 compatibility mode. Then click **Change high DPI settings** and uncheck the **Override high DPI scaling behavior** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 2: Shut down all unnecessary apps
 
@@ -57,9 +69,6 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/image-1.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  For antivirus software, however, simply disabling it won’t work sometimes. If that’s your case, you can either uninstall it temporarily or add Nioh 2 to its exception list.
 
 ## Fix 3: Clean reinstall the graphics card driver
@@ -86,22 +95,20 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
  2) Click the **Update** button next to the flagged graphics card and all other devices to download the correct driver (you can do this with the FREE version), then manually install it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or outdated on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. You’ll get **full support**  and a **30-day money back guarantee** .)
 
 3) Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Verify the game integrity
 
@@ -125,6 +132,10 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/download-1200x330.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Run the downloaded files, and click **Install** (if you have already installed one, click **Repair** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/Install.png)
@@ -136,15 +147,13 @@ In Nioh 2 CE (Complete Edition), you are about to embark on an adventure and enj
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 5) Once complete, restart your PC for it to take full effect.
 
 Play your game again and see if Nioh 2 not launching is resolved by now.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Disable all overlays
 
  Many players find that disabling all overlays, such as Steam overlay, Discord overlays hele solve the Nioh 2 crashing issue. Here’s how:
@@ -169,34 +178,30 @@ Now launch your game, and see if it crashes again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/msconfig.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Go to the **Services** tab and check the **Hide all Microsoft services** box. Then click **Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/disable-all.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Select the **Startup** tab and click **Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1003.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  5) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disable-start-up-item-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
  6) Go back to **System Configuration** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/image-1005.png)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
  7) Restart your PC and launch your Nioh 2 to see if the game launches normally.
 
  If your game runs perfectly this time, congratulations! If you need to find the problematic software. Here’s how to do it:
@@ -219,8 +224,6 @@ Now launch your game, and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +231,24 @@ Now launch your game, and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-best-10-zero-cost-video-collaboration-platforms-for-enterprises-and-education/"><u>[New] 2024 Approved Best 10 Zero-Cost Video Collaboration Platforms For Enterprises & Education</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-enhance-your-iphones-photography-top-rated-film-and-shot-accessories/"><u>[New] 2024 Approved Enhance Your iPhone's Photography Top-Rated Film & Shot Accessories</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/rom-long-to-brief-how-to-shorten-youtube-footage-for-2024/"><u>[New] From Long to Brief How to Shorten YouTube Footage for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-embarking-on-the-av1-coding-journey/"><u>[Updated] In 2024, Embarking on the AV1 Coding Journey</u></a></li>
+<li><a href="https://win-blog.techidaily.com/5-essential-troubleshooting-steps-when-roblox-wont-start/"><u>5 Essential Troubleshooting Steps When Roblox Won't Start</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/5-most-effective-methods-to-unlock-iphone-8-plus-in-lost-mode-drfone-by-drfone-ios/"><u>5 Most Effective Methods to Unlock iPhone 8 Plus in Lost Mode | Dr.fone</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/affordable-reading-pleasure-redefined-with-the-2019-amazon-kindle-a-full-review/"><u>Affordable Reading Pleasure Redefined with the 2019 Amazon Kindle - A Full Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-on-fixing-monster-hunter-rise-initialization-failures/"><u>Expert Tips on Fixing Monster Hunter Rise Initialization Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/farming-simulator-22-solutions-for-game-not-loading-properly/"><u>Farming Simulator 22 - Solutions for Game Not Loading Properly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gtfo-of-game-lag-fixing-fps-drops-and-smoothing-out-stutters/"><u>GTFO of Game Lag: Fixing FPS Drops and Smoothing Out Stutters</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-a-how-to-guide-on-bypassing-the-iphone-se-2022-icloud-lock-by-drfone-ios/"><u>In 2024, A How-To Guide on Bypassing the iPhone SE (2022) iCloud Lock</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/mastering-instagram-adding-borders-to-videos-for-2024/"><u>Mastering Instagram Adding Borders to Videos for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-interruptions-master-maplestory-stability-on-windows-11-with-our-top-5-solutions/"><u>No More Interruptions! Master MapleStory Stability on Windows 11 with Our Top 5 Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-ntdlldll-crash-problem-in-windows-11-and-10/"><u>Resolved: Fixing the ntdll.dll Crash Problem in Windows 11 & 10</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/rt-of-initiating-your-youtube-content-compellingly-for-2024/"><u>The Art of Initiating Your YouTube Content Compellingly for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-the-outer-worlds-pc-game-crashes/"><u>Troubleshooting Steps for 'The Outer Worlds' PC Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-nioh-2-complete-edition-freezing-issues/"><u>Ultimate Guide: Solving Nioh 2 Complete Edition Freezing Issues</u></a></li>
+</ul></div>
 

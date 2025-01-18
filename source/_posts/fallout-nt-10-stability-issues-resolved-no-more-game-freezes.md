@@ -1,7 +1,7 @@
 ---
 title: Fallout nT 10 Stability Issues Resolved – No More Game Freezes!
-date: 2024-08-18T19:14:15.207Z
-updated: 2024-08-19T19:14:15.207Z
+date: 2025-01-17T02:24:20.787Z
+updated: 2025-01-18T11:12:11.231Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
 3. Select the**Local Files** tab and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Once the process completes, restart your game to see how it works. If the crashes reoccur, read[Fix 2](https://tools.techidaily.com/drivereasy/download/) .
 
 #### If you’re on Origin
@@ -53,12 +57,9 @@ Any avid sport game fans won’t want to miss out on FIFA 22, the latest fantast
  It may take a few minutes to scan and repair, and then you can test if the crashing issue is still there. If yes, try the second solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics driver
 
  The constant FIFA 22 crashes can also indicate a driver issue. If you’re using a broken or outdated graphics driver, various gaming problems can occur and affect your experience. To avoid any annoying crashing issues, make sure to keep your graphics driver up-to-date.
@@ -85,6 +86,10 @@ Here are two ways you can update the graphics driver easily and quickly:
  Or click**Update** **All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -98,12 +103,13 @@ Here are two ways you can update the graphics driver easily and quickly:
 2. Open the FIFA 22 folder. Then right-click the**fifasetup.ini file** and click**Open with** \>**Notepad** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/chaneg-directx-setting.jpg)
 3. If you see**DIRECTX\_SELECT = 0** , change the value to**1** . If it’s 1, change it to 0.
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 4. Pree**Ctrl** and**S** on your keyboard to save the changes.
 
  Test if FIFA 22 runs smoothly after the tweaks. If your game is still unplayable, move on to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable overlay
 
@@ -114,17 +120,10 @@ Here are two ways you can update the graphics driver easily and quickly:
 1. Open Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-1.jpg)
 2. From the game list, right-click**FIFA** **22** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/2020-10-16_16-16-14-3.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-steam-overaly.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
  Play the game again to see if this method does the trick. If not, follow[Fix 5](https://tools.techidaily.com/drivereasy/download/) to adjust the in-game settings.
 
 #### On Origin
@@ -134,19 +133,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Click the**gear icon** and click**Game Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game.jpg)
 3. Make sure**Enable Origin In Game for FIFA 22 Ultimate Edition** is**unticked** . Click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/disable-origin-in-game-2.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
  How does the game work with overlay disabled? If it keeps crashing as before, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Optimize the graphics settings
 
  Running FIFA 22 on high or ultra graphics may deliver a better experience. But if your machine isn’t powerful enough, the game may become unstable and you’d better lower certain settings.
@@ -154,16 +144,30 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Launch FIFA 22 and select**Game** **Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings.jpg)
 2. Select the**Windowed** or**Windowed** **Borderless** mode.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings-2.jpg)
 3. Select**Lock to 60fps** under Frame Rates, and click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/game-settings-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Open the game to check out on its performance. Still no luck? Try the last method.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6 – Reinstall the game
 
  If none of the fixes above resolves your FIFA 22 crashing issue, try reinstalling the game from scratch. After uninstalling FIFA 22, also remember to**delete the remaining game files** . And if possible,**install the game on SSD** , which, according to some players, solved the crashing dramatically.
@@ -183,8 +187,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +194,19 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-fusion-of-video-files-for-ios-devices-for-2024/"><u>[New] Fusion of Video Files for iOS Devices for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-harness-the-power-of-windows-photos-and-story-remix-for-editing/"><u>[New] Harness the Power of Windows Photos & Story Remix for Editing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-making-mp3s-from-your-facebook-videos-with-ease/"><u>[Updated] 2024 Approved Making MP3s From Your Facebook Videos with Ease</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-a-comprehensive-guide-to-interoperable-playlists/"><u>[Updated] A Comprehensive Guide to Interoperable Playlists</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-husqvarna-h501x4-fpv-quad-examination/"><u>2024 Approved Husqvarna H501X4 FPV Quad Examination</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-no-more-master-the-art-of-troubleshooting-lost-ark-on-windows/"><u>Crash No More! Master the Art of Troubleshooting Lost Ark on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-solutions-why-is-my-genshin-impact-game-not-starting/"><u>Easy Solutions: Why Is My Genshin Impact Game Not Starting?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outrun-lag-issues-ultimate-guide-to-boosting-fps-performance-in-outriders/"><u>Outrun Lag Issues: Ultimate Guide to Boosting FPS Performance in Outriders</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/regular-to-revolutionary-how-to-convert-videos-for-vr-for-2024/"><u>Regular to Revolutionary How to Convert Videos for VR for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-last-epoch-error-in-windows-top-2024-strategies/"><u>Solving the Last Epoch Error in Windows: Top 2024 Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-pc-performance-hacks-overcome-game-stutter-and-freezes/"><u>Warzone PC Performance Hacks: Overcome Game Stutter & Freezes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726224360018-ram-movavi/"><u>우리가 도와주는 원격 모드 RAM 이동 - Movavi</u></a></li>
+</ul></div>
 

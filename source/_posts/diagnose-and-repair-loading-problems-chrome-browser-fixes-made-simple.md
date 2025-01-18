@@ -1,7 +1,7 @@
 ---
 title: "Diagnose and Repair Loading Problems: Chrome Browser Fixes Made Simple"
-date: 2024-08-18T19:16:55.004Z
-updated: 2024-08-19T19:16:55.004Z
+date: 2025-01-12T09:41:26.525Z
+updated: 2025-01-17T21:01:56.481Z
 tags:
   - win11
   - win10
@@ -50,19 +50,21 @@ thumbnail: https://thmb.techidaily.com/6ea9e47c2657fcc7075624e0c60b4b097654c2203
 2. Click the**cogwheel** next to the Play button and select**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-scan-repair.jpg)
 3. Then click**Begin Scan** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan-1.jpg)
 4. Wait for the repair to finish.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Once the process is finished, try hitting the Play button to check if you can launch the game successfully.
 
 If you still can’t launch the game, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run the game as an administrator
 
  Running Diablo II: Resurrected as an administrator will ensure the game gets the necessary permissions to launch properly. Here’s how:
@@ -70,18 +72,17 @@ If you still can’t launch the game, check out the next fix.
 1. **Right-click** the executable file of Diablo II: Resurrected and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab, then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
+
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-program-as-administrator.jpg)
 
 Check if you can launch the game without any issues.
 
 If this method doesn’t work for you, proceed to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  The Diablo II: Resurrected not launching issue may occur if you’re using a faulty or outdated graphics driver. To fix any compatibility issues with the new games and get the best performance, you should make sure your graphics driver is up to date.
@@ -108,9 +109,6 @@ There are two ways for you to update the graphics driver:
 
  If the latest graphics driver doesn’t solve the problem, you can take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows often release new updates to bring new functionality, improve your system security, and tackle the compatibility issues with some new programs. To ensure Diablo II: Resurrected works properly on your PC, you’ll need to download and install the latest Windows updates. Here’s how:
@@ -118,14 +116,13 @@ There are two ways for you to update the graphics driver:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the Windows Settings. Then select**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/updates-security.jpg)
 2. Under Windows Update, click**Check for updates** . Then Windows will automatically download and install the available updates.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/08/check-for-updates.jpg)
+
  Once you’ve installed all the updates, restart your computer and try to launch the game.
 
 If this method doesn’t do the trick, move on to the next fix.
@@ -145,21 +142,28 @@ But if the game still fails to launch, check out the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. Uncheck all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open Task Manager, then navigate to the**Startup** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. Right-click on each item and select**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 6. Restart your computer.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Try hitting the Play button again and check if you can launch Diablo II: Resurrected now.
 
@@ -177,8 +181,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +188,24 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-revolutionize-your-tiktok-with-these-top-analytic-instruments/"><u>[New] In 2024, Revolutionize Your TikTok with These Top Analytic Instruments</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-building-a-fanbase-with-youtube-streams/"><u>[Updated] In 2024, Building a Fanbase with YouTube Streams</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-warzone-performance-with-graphics-card-utilization-in-windows-10/"><u>Boost Your Warzone Performance with Graphics Card Utilization in Windows 10</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/breaking-barriers-7-top-tools-for-artists-transforming-into-nfts/"><u>Breaking Barriers 7 Top Tools for Artists Transforming Into NFTs</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ehensive-review-of-ios-free-video-editing-apps/"><u>Comprehensive Review of iOS Free Video Editing Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-resolving-the-2024-starfield-games-excessive-cpu-consumption/"><u>Effective Solutions for Resolving the 2024 Starfield Game's Excessive CPU Consumption</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/julys-top-discounted-apple-gadgets-iphones-to-ipads-special-deals-revealed/"><u>July's Top Discounted Apple Gadgets: IPhones to iPads - Special Deals Revealed</u></a></li>
+<li><a href="https://windows11.techidaily.com/navigating-the-new-era-of-win-pc-memory-capacity/"><u>Navigating the New Era of Win PC Memory Capacity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006434090-overcoming-performance-hitches-for-a-smoother-playthrough-of-dying-light-fps/"><u>Overcoming Performance Hitches for a Smoother Playthrough of Dying Light FPS.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005215563-resolve-league-of-legends-crashes-swiftly-a-step-by-step-guide/"><u>Resolve League of Legends Crashes Swiftly: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-chrome-stuck-issues-on-windows-10-tips-and-tricks/"><u>Resolving Chrome Stuck Issues on Windows 10 - Tips & Tricks</u></a></li>
+<li><a href="https://solve-manuals.techidaily.com/sharing-screens-seamlessly-across-pc-and-mobile-with-discord/"><u>Sharing Screens Seamlessly Across PC & Mobile with Discord</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999465504-steam-vr-detection-problems-try-these-6-tricks-to-get-it-working/"><u>Steam VR Detection Problems? Try These 6 Tricks to Get It Working</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/the-spectrum-of-virtuality-from-meta-to-omniverse-explored/"><u>The Spectrum of Virtuality From Meta to Omniverse Explored</u></a></li>
+<li><a href="https://tiktok-videos.techidaily.com/trending-treats-on-tiktok-top-10-culinary-craze-for-2024/"><u>Trending Treats on TikTok Top 10 Culinary Craze for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-to-bypass-the-notorious-0x00001338-bug-in-call-of-duty-vanguard-on-your-computer/"><u>Ultimate Fixes to Bypass the Notorious 0X00001338 Bug in Call of Duty Vanguard on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-modern-warfare-wont-start-pc-launch-solutions-gamers/"><u>Why Modern Warfare Won't Start? PC Launch Solutions Gamers</u></a></li>
+</ul></div>
 

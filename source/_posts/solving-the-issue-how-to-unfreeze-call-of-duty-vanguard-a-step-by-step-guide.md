@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: How to Unfreeze Call of Duty: Vanguard - A Step-by-Step Guide"
-date: 2024-08-18T19:13:38.786Z
-updated: 2024-08-19T19:13:38.786Z
+date: 2025-01-13T11:21:18.336Z
+updated: 2025-01-18T08:31:46.146Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 
  As many players reported, the dev error 5573 is related to specific operator skins or actions you’re performing. If you’re using other skins or outfits on your operators, try**switching to the Base skin/outfit** and see how it works. This trick should apply to all the players on PC or console. But if it doesn’t help your case, move on to more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of game files
 
  If Vanguard is constantly crashing with a dev error code, there may be something wrong with the game files. To scan and repair any missing or damaged game files, you need to do an integrity check.
@@ -41,6 +38,10 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 1. Launch the Battle.net app.
 2. Select**Call of Duty Vanguard** from the top pane. Click the**gear icon** next to the Play button and click**Scan and Repair** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/scan-and-repair-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait for the process to complete. Then restart the game to check if the issue persists. If Yes, continue to the next solution.
 
@@ -56,16 +57,14 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Reboot your computer for the changes to take effect. If the error code reoccurs, try the next solution.
 
 ### Fix 4 – Close background applications
@@ -75,14 +74,13 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 1. Right-click any empty space on your taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-8.jpg)
 2. Right-click the resource-demanding process and click**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-1.jpg)
+
  Don’t end any programs you’re not familiar with, as they may be critical to the functioning of your computer.
 
  Launch the game to see if you’re able to play it normally. If not, there’s one more fix you can try.
@@ -97,11 +95,18 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**START REPAIR** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
  Now the computer’s performance and stability is improved. You can restart Vanguard again to see if the game works without trouble.
@@ -116,8 +121,6 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -125,4 +128,26 @@ Call of Duty Vanguard, one of the most anticipated games of this year, is finall
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/5-must-have-openers-for-maximum-youtube-engagement/"><u>[New] 15 Must-Have Openers for Maximum YouTube Engagement</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-the-symphony-of-silence-starting-with-a-soft-fade-in/"><u>2024 Approved The Symphony of Silence Starting with a Soft Fade In</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008596947-assassins-creed-odyssey-pc-version-now-stable-and-crash-free/"><u>Assassin's Creed Odyssey PC Version Now Stable and Crash-Free</u></a></li>
+<li><a href="https://howto.techidaily.com/cellular-network-not-available-for-voice-calls-on-samsung-galaxy-a14-4g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Cellular Network Not Available for Voice Calls On Samsung Galaxy A14 4G | Dr.fone</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/cutting-edge-streaming-zooms-6-cam-rankings/"><u>Cutting-Edge Streaming Zoom's #6 Cam Rankings</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/does-redmi-note-13-proplus-5g-has-native-hevc-support-by-aiseesoft-video-converter-play-hevc-video-on-android/"><u>Does Redmi Note 13 Pro+ 5G has native HEVC support?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-getting-past-pc-boot-errors-in-saints-row-game/"><u>Expert Tips: Getting Past PC Boot Errors in Saints Row Game</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-5-stability-issues-heres-how-you-can-fix-the-game-crashes/"><u>Grand Theft Auto 5 Stability Issues? Here's How You Can Fix the Game Crashes</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-google-pixel-7a-drfone-by-drfone-virtual-android/"><u>In 2024, The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Google Pixel 7a | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/incorporate-a-parenthetical-definition-to-clarify-each-term-once-per-section-it-appears-eg-also-known-as-harmony-lenders-individuals-providing-funding-witho542/"><u>Incorporate a Parenthetical Definition to Clarify Each Term Once per Section It Appears (E.g., (Also Known as Harmony Lenders, Individuals Providing Funding without Expecting Repayment Terms)).</u></a></li>
+<li><a href="https://audio-shaping.techidaily.com/new-a-journey-through-sonic-elegance-top-7-unique-sounds-for-smooth-media-transitions-for-2024/"><u>New A Journey Through Sonic Elegance Top 7 Unique Sounds for Smooth Media Transitions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-connection-drops-and-lags-a-guide-for-new-world-players/"><u>Overcoming Connection Drops & Lags: A Guide for 'New World' Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-itunes-not-detecting-your-iphone-device-on-windows-10-systems/"><u>Solving iTunes Not Detecting Your iPhone Device on Windows 10 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-excessive-cpu-usage-on-discord-a-2e4-guide/"><u>Troubleshooting Excessive CPU Usage on Discord: A 2E4 Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fallout-76-server-connectivity-problems-for-windows-users/"><u>Troubleshooting Fallout 76 Server Connectivity Problems for Windows Users</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/understanding-turkeys-script-an-easy-to-learn-alphabet-and-pronunciation-guide/"><u>Understanding Turkey's Script: An Easy-to-Learn Alphabet & Pronunciation Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/updated-yakuza-3-for-pc-users-say-goodbye-to-unexpected-freezes-and-errors/"><u>Updated Yakuza 3 for PC Users: Say Goodbye to Unexpected Freezes and Errors</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/vimeo-videos-on-instagram-a-complete-guide/"><u>Vimeo Videos on Instagram A Complete Guide</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/watch-apples-stunning-3d-spatial-videos-on-your-meta-quest-3-with-these-simple-steps-detailed-guide/"><u>Watch Apple’s Stunning 3D Spatial Videos on Your Meta Quest 3 with These Simple Steps – Detailed Guide!</u></a></li>
+</ul></div>
 

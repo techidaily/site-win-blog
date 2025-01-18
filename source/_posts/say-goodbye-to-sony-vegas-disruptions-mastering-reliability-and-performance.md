@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to Sony Vegas Disruptions: Mastering Reliability and Performance"
-date: 2024-08-18T19:14:59.709Z
-updated: 2024-08-19T19:14:59.709Z
+date: 2025-01-14T10:42:56.034Z
+updated: 2025-01-18T05:22:51.630Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 
  As the latest installment in the popular survival horror series, Five Nights at Freddy’s: Security Breach is finally coming out. However, many players complain that they’re**experiencing constant crashes at startup or in-game** , which makes the game unplayable. If you’re plagued by the same issue, don’t worry. Here we’ve put together some working fixes for you.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that works for you.
@@ -29,6 +33,10 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 4. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Run the game in DirectX 11 mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Check your PC specs
 
@@ -68,15 +76,8 @@ thumbnail: https://thmb.techidaily.com/de937a72a9831deac2239784b95be37c37d820247
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Launch the game again and check if your problem has been resolved.
 
 ### Fix 3: Verify the integrity of game files
@@ -87,9 +88,6 @@ Launch the game again and check if your problem has been resolved.
 2. Right-click**Five Nights at Freddy’s: Security Breach** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Click**LOCAL FILES** and select**Verify integrity of game files…** .  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-verify-game-files.jpg)
 4. Wait a few minutes for Steam to scan and repair game files.
 
@@ -98,8 +96,9 @@ Launch the game again and check if your problem has been resolved.
 If this method gives you no luck, go for the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Graphics cards are essential to video games. To get the best performance out of your hardware, you should keep your graphics driver up to date. If you’re using a faulty or outdated graphics driver, FNAF Security Breach crashing is more likely to occur.
@@ -113,13 +112,18 @@ If this method gives you no luck, go for the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 4. Restart your PC for the changes to take effect.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  If the crashing issue persists after you install the latest graphics driver, check out the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qObsqoJB9LI?si=ppqxfXzP0UL4J6Tp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Run the game in DirectX 11 mode
 
  Some players found that running the game in DirectX 11 mode can fix the crashing issue in Five Nights at Freddy’s: Security Breach. As a temporary workaround, you can give it a shot. Here’s how:
@@ -128,9 +132,11 @@ If this method gives you no luck, go for the next fix.
 2. Right-click**Five Nights at Freddy’s: Security Breach** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/steam-properties.jpg)
 3. Under the**General** tab, add**\-dx11** to the**LAUNCH OPTIONS** . This will force the game to run in DirectX 11 mode.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/steam-launch-options-dx11.jpg)
 4. Close the window.
 
@@ -143,21 +149,22 @@ If the crashing issue persists, continue with the next fix.
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run dialog box. Type**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/msconfig.jpg)
 2. In System Configuration, navigate to the**Services** tab and check the box next to**Hide all Microsoft services** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/hide-all-microsoft-services.jpg)
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-startup.jpg)
 5. One at a time,**select** any programs you suspect might be interfering and click**Disable** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager-disable-programs.jpg)
 
  Restart your PC and launch Five Nights at Freddy’s: Security Breach to check if the game crashes again. If not, open the**System Configuration** window again to enable services and applications one by one until you find the conflicting software. Be sure to restart your PC after enabling each service.
@@ -176,8 +183,6 @@ If the crashing issue persists, continue with the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +190,20 @@ If the crashing issue persists, continue with the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-elevating-video-popularity-on-youtube/"><u>[New] 2024 Approved Elevating Video Popularity on YouTube</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-2024-approved-obs-vs-shadowplay-which-recording-tool-takes-the-prize/"><u>[Updated] 2024 Approved OBS Vs ShadowPlay Which Recording Tool Takes the Prize?</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-android-audio-alchemy-selecting-the-top-free-downloader-apps-from-youtube/"><u>[Updated] Android Audio Alchemy Selecting the Top Free Downloader Apps From YouTube</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-grab-free-video-profile-backgrounds/"><u>[Updated] Grab Free Video Profile Backgrounds</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-a-stepwise-approach-to-designing-powerful-edu-vids-on-social-media/"><u>[Updated] In 2024, A Stepwise Approach to Designing Powerful Edu-Vids on Social Media</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1-accelerate-your-excel-workbooks-top-7-techniques-for-faster-performance/"><u>1. Accelerate Your Excel Workbooks: Top 7 Techniques for Faster Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1-top-5-features-excel-users-hope-to-enhance/"><u>1. Top 5 Features Excel Users Hope to Enhance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1-ultimate-guide-converting-your-excel-spreadsheet-into-a-pdf-file/"><u>1. Ultimate Guide: Converting Your Excel Spreadsheet Into a PDF File</u></a></li>
+<li><a href="https://win-blog.techidaily.com/365-only-for-the-truly-deserving/"><u>365 - Only for the Truly Deserving!</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/comment-faire-pour-que-google-drive-affiche-integralement-vos-fichiers/"><u>Comment Faire Pour Que Google Drive Affiche Intégralement Vos Fichiers?</u></a></li>
+<li><a href="https://win-net.techidaily.com/download-hd-lgbtqplus-adult-films-in-multiple-formats-mp4-mov-avi/"><u>Download HD LGBTQ+ Adult Films in Multiple Formats (MP4, MOV, AVI)</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/expert-choice-top-tier-mp4-gear-for-2024/"><u>Expert Choice Top-Tier MP4 Gear for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-microsoft-excels-power-tips-and-tricks-for-applying-sophisticated-filters-effectively/"><u>Unlocking Microsoft Excel's Power: Tips and Tricks for Applying Sophisticated Filters Effectively</u></a></li>
+</ul></div>
 

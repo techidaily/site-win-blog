@@ -1,7 +1,7 @@
 ---
 title: "Online Sign-In Feature Restored: Origin Access Regained"
-date: 2024-08-18T19:13:16.702Z
-updated: 2024-08-19T19:13:16.702Z
+date: 2025-01-11T10:31:50.972Z
+updated: 2025-01-17T19:29:36.914Z
 tags:
   - win11
   - win10
@@ -41,6 +41,10 @@ Many Origin users have recently experienced an error while trying to log in Orig
 
 If this fixes your Origin error, great! But if not, move on to Fix 2.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Check your system date and time
 
  The wrong date or time can cause the “online login is currently unavailable” error. You should check the date and time on your computer. If they’re not right, follow the instructions below to correct them:
@@ -48,22 +52,41 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 1. Press the**Windows logo key** on your keyboard, then type “control”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Clock and Region** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf8389e96a.jpg)
 5. Click**Set the time and date** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf89215c55.jpg)
 6. Select the**Internet Time** tab, then click**Change settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebf91d75fb4.jpg)
 7. Click**Yes** if you’re prompted.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 8. Check**Synchronize with an Internet time server** , then click**Update now** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfa9bc6cbf.png)
 9. Click**OK** .
@@ -71,9 +94,6 @@ If this fixes your Origin error, great! But if not, move on to Fix 2.
 
  Now the date and time on your computer is in sync with an Internet time server. Try logging in Origin and see if the error is gone. Hopefully it is. But if not, then try Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your device drivers
 
  Perhaps you’re experiencing the Origin error because you’re using a**wrong or outdated device driver** . You should update your drivers and see if this fixes your error.
@@ -90,22 +110,13 @@ or
 2. Run **Driver Easy** and click the **Scan Now** button. **Driver Easy**  will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd0366bd75a4.jpg)
 3. Click the **Update**  button next to your device to download the correct version of its driver, then you can manually install it. Or click the **Update All**  button at the bottom right to automatically update all the drivers. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will be prompted to upgrade when you click Update All. You get full support and a 30-day money back guarantee.)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6e4fecbc8a.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Reset your Internet Explorer settings
 
  You may get the Origin error because you’re having some**wrong Internet Explorer’s settings** . To reset these settings to the default:
@@ -113,28 +124,31 @@ or
 1. Press the**Windows logo key** on your keyboard, then type “control”.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be56280c10bf.png)
 2. Click**Control Panel** in the results.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be4181e3b56c.png)
 3. Click the**View by** drop-down menu, and then select**Category** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be418dd28ce6.jpg)
 4. Click**Network and Internet** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfe11d368c.jpg)
 5. Click**Internet Options** .  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebfea0ea859.jpg)
 6. Select the**Advanced** tab, then click the**Reset** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff147f315.jpg)
 7. Click the**Reset** button.  
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5bebff7ed6fb9.jpg)
 
  Now restart your computer and check to see if this fixed your Origin error.
@@ -161,8 +175,6 @@ or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +182,26 @@ or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-crafting-professionalism-the-best-practices-for-post-upload-editing-for-2024/"><u>[New] Crafting Professionalism The Best Practices for Post-Upload Editing for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-no-cost-digital-revenue-prognosticator/"><u>[Updated] No-Cost Digital Revenue Prognosticator</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-top-film-previews-unveiled/"><u>2024 Approved Top Film Previews Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/apex-legends-connection-woes-heres-how-you-can-fix-them/"><u>Apex Legends Connection Woes? Here's How You Can Fix Them!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gtas-fluid-motion-restored-fix-your-game-bid-farewell-to-the-stutter/"><u>GTAs Fluid Motion Restored: Fix Your Game, Bid Farewell to the Stutter</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-3-for-pc-resolving-unexpected-black-screen-errors-effectively/"><u>Hitman 3 for PC - Resolving Unexpected Black Screen Errors Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-steam-cannot-sign-in-a-step-by-step-guide/"><u>How to Fix 'Steam Cannot Sign In': A Step-by-Step Guide</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-8-best-apps-for-screen-mirroring-lava-storm-5g-pc-drfone-by-drfone-android/"><u>In 2024, 8 Best Apps for Screen Mirroring Lava Storm 5G PC | Dr.fone</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-ranking-the-leading-free-srt-translators-online/"><u>In 2024, Ranking the Leading Free SRT Translators Online</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/key-tips-for-sourcing-elite-filmmakers-for-2024/"><u>Key Tips for Sourcing Elite Filmmakers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-wasteland-effective-fixes-to-enhance-fallout-e76s-frames-per-second/"><u>Master the Wasteland: Effective Fixes to Enhance Fallout E76's Frames Per Second</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-machine-learning-overcoming-end-of-epoch-issues/"><u>Mastering Machine Learning: Overcoming 'End of Epoch' Issues</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/1726028474591-mp4/"><u>MP4ビデオの優れた品質保持しながら回転可能にするテクニック</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-troubleshooting-steps-for-fixing-world-of-warcraft-wow-game-crashes/"><u>Simple Troubleshooting Steps for Fixing World of Warcraft (WOW) Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-to-diagnose-and-rectify-critical-bugs-in-modern-warfare-and-warzone-games/"><u>Step-by-Step Guide to Diagnose & Rectify Critical Bugs in Modern Warfare and Warzone Games</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/taking-performance-to-new-heights-with-overclocked-crucial-c36-memory-sticks-a-ddr5-powerhouse-examined/"><u>Taking Performance to New Heights with Overclocked Crucial C36 Memory Sticks – A DDR5 Powerhouse Examined</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/top-rated-parent-controlled-wifi-devices/"><u>Top Rated Parent-Controlled WiFi Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-common-issues-with-phasmophobia-in-virtual-reality/"><u>Troubleshooting Common Issues with Phasmophobia in Virtual Reality</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/which-reigns-supreme-a-side-by-side-look-at-outlookcom-and-gmail-features/"><u>Which Reigns Supreme? A Side-by-Side Look at Outlook.com and Gmail Features</u></a></li>
+</ul></div>
 

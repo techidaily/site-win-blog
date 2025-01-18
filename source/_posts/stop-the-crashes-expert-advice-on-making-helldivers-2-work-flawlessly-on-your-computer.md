@@ -1,7 +1,7 @@
 ---
 title: "Stop the Crashes: Expert Advice on Making Helldivers 2 Work Flawlessly on Your Computer"
-date: 2024-08-18T19:16:00.406Z
-updated: 2024-08-19T19:16:00.406Z
+date: 2025-01-17T00:00:38.859Z
+updated: 2025-01-17T18:55:18.437Z
 tags:
   - win11
   - win10
@@ -53,9 +53,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  This problem may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -70,9 +67,6 @@ Here is how to verify the integrity of Dauntless:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
@@ -85,9 +79,6 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 4: Close the background programs
 
  Your Dauntless may crash because of interference issues from some programs running in the background. They include utility programs provided by your hardware manufacturers that can improve your game performance. To see if that’s the case for you, close all those programs before you run your game. Then check to see if this is able to stop your crashing issue.
@@ -108,6 +99,10 @@ Here is how to verify the integrity of Dauntless:
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run Dauntless on the dedicated graphics card
 
  Your gaming PC may have a graphics chip as well as a graphics card with dedicated memory in it. If this is the case, you should make sure games run on the graphics card to see if the crashing problem can be mitigated.
@@ -119,31 +114,34 @@ Here is how to verify the integrity of Dauntless:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sXLLPY11of0?si=-3YNnpnO0wbc0K_-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  4) In the window that opens, choose **your Dauntless game** , then click **Add Selected Program** .
 
  5) In **Select the preferred graphics processor for this program** , select **High-performance NVIDIA processor** . Then click **Apply** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-24.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch Dauntless and check to see if the crashing issue is fixed.
 
@@ -159,8 +157,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -168,4 +164,24 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-boxes.techidaily.com/new-complete-breakdown-the-dji-inspire-1-uav/"><u>[New] Complete Breakdown The DJI Inspire 1 UAV</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-2024-approved-top-6-simple-minecraft-house-ideas/"><u>[Updated] 2024 Approved Top 6 Simple Minecraft House Ideas</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-brighter-horizons-is-intense-light-for-hdr-right-in-2024/"><u>[Updated] Brighter Horizons Is Intense Light for HDR Right, In 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-experience-the-joy-sorrow-merge-with-these-ten-meme-ig-accounts/"><u>2024 Approved Experience the Joy-Sorrow Merge with These Ten Meme IG Accounts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crusader-kings-ii-wont-start-troubleshooting-solutions-inside/"><u>Crusader Kings II Won't Start? Troubleshooting Solutions Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-preventing-the-remastered-resident-evil-4-game-from-freezing-or-crashing/"><u>Expert Advice: Preventing the Remastered Resident Evil 4 Game From Freezing or Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/forza-horizon-4-wont-start-master-these-strategies-for-a-smooth-playback-experience/"><u>Forza Horizon 4 Won't Start? Master These Strategies for a Smooth Playback Experience!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-age-of-wonders-planetfall-from-crashing-on-your-windows-computer/"><u>How to Stop Age of Wonders: Planetfall From Crashing on Your Windows Computer</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-12-pro-to-other-iphone-14-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 12 Pro to other iPhone 14 devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-solved-network-troubles-and-how-to-fix-them/"><u>League of Legends: Solved Network Troubles & How To Fix Them</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-troubleshooting-solving-assassins-creed-odyssey-pc-game-crashes/"><u>Master Troubleshooting: Solving Assassin's Creed Odyssey PC Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-system-failures-in-watch-dogs-legion-for-windows-users/"><u>Resolving Persistent System Failures in Watch Dogs: Legion for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-guide-removing-nvidia-geforce-experience-on-your-pc/"><u>Simple Guide: Removing Nvidia GeForce Experience on Your PC</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/steps-to-resume-video-playback/"><u>Steps to Resume Video Playback</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/transform-your-interaction-with-technology-using-openais-latest-ai-marvel-the-gpt-4-model/"><u>Transform Your Interaction With Technology Using OpenAI's Latest AI Marvel: The GPT-4 Model</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/value-comparison-samsung-galaxy-tab-s9-fe-vs-apples-ipad-10gen-who-wins-the-middle-market/"><u>Value Comparison: Samsung Galaxy Tab S9 FE Vs. Apple's iPad 10Gen - Who Wins the Middle Market?</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/bes-link-trimming-winners-select-the-top-5-apps/"><u>Youtube's Link-Trimming Winners Select the Top 5 Apps</u></a></li>
+</ul></div>
 

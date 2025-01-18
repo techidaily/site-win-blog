@@ -1,7 +1,7 @@
 ---
 title: "Yakuza: Like a Dragon - Perfect Your Skills with This All-Inclusive PC Gameplay Guide"
-date: 2024-08-18T19:16:32.879Z
-updated: 2024-08-19T19:16:32.879Z
+date: 2025-01-15T17:23:36.458Z
+updated: 2025-01-17T22:43:59.938Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/df14118d9f463815cdf73b98eeffe83796c8ab688
 
 Football Manager 2021 is by far one of the most popular management simulator games. However, many players still reported the game keeps crashing and constantly becomes unplayable. If you have the same problem, don’t worry. We’ve put together a full list of solutions for Football Manager 2021 crashing on PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You may not try them all. Simply work your way down the list until you find the one that works for you.
@@ -28,6 +32,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 5. **[Set launch options](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vca--yEhtdo?si=7ijqjyP-oi3LYze1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Update your graphics driver
 
@@ -45,10 +53,18 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-9.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  The driver update should resolve the crashing issue and also boost the game’s performance. If not, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Verify the integrity of game files
 
@@ -59,19 +75,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Select**Local Files** and then click**Verify Integrity of Game Files** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
  Wait until the process finishes and relaunch FM 21 to test. If your issue persists, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Temporarily disable your antivirus
 
  Antivirus is known to interfere with Football Manager 2021 and your Steam or Epic game launcher. To see if that’s the case, you could disable the antivirus programs first. In case you don’t know how, below are some links for your reference.
@@ -84,6 +91,10 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  Once you confirmed the antivirus is the culprit of Football Manager 2021 crashing, you need to add both the game launcher and FM 21 to its exceptions, or completely uninstall the program.
 
 If this method doesn’t help, go ahead with the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Delete the Preferences and Caches folder
 
@@ -105,21 +116,17 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
-4. Type**–config very\_low** in the text field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
+4. Type**–config very\_low** in the text field and click**OK** .  
+![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
+
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
 
  If all the methods above don’t give you luck, you can reinstall the game, or directly submit a **[support ticket](https://support.sega.co.uk/hc/en-gb/requests/new)**  for further assistance.
@@ -138,8 +145,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -147,4 +152,21 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/rafting-engaging-youtube-videos-using-finalcut-pro-expertise-for-2024/"><u>[New] Crafting Engaging YouTube Videos Using FinalCut Pro Expertise for 2024</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-upcoming-assessment-varied-perspectives/"><u>[New] In 2024, Upcoming Assessment Varied Perspectives</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/new-optimize-performance-mac-screen-recording-made-easy-for-2024/"><u>[New] Optimize Performance Mac Screen Recording Made Easy for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-discover-the-leading-5-ps2-android-game-emulators/"><u>[Updated] 2024 Approved Discover The Leading 5 PS2 Android Game Emulators</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-ever-fading-memories-revived-youtubes-lost-content-hunt/"><u>[Updated] 2024 Approved Ever-Fading Memories Revived YouTube's Lost Content Hunt</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/ai-powered-video-enhancement-expand-and-stabilize-footage-with-cutting-edge-image-editing-techniques/"><u>AI-Powered Video Enhancement - Expand and Stabilize Footage with Cutting-Edge Image Editing Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-issues-resolve-freezing-in-google-chrome-on-windows-10-easily/"><u>Bypassing Issues: Resolve Freezing in Google Chrome on Windows 10 Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/error-resolution-in-rainbow-six-siege-detailed-steps-to-fix-the-notorious-3-0x0001000b-issue/"><u>Error Resolution in Rainbow Six Siege: Detailed Steps to Fix the Notorious 3-0X0001000B Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-performance-lags-in-dying-light-2-for-a-smooth-pc-gaming-experience/"><u>How to Fix Performance Lags in Dying Light 2 for a Smooth PC Gaming Experience</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/sion-editing-made-simple-with-youtube-studio-tools-for-2024/"><u>Precision Editing Made Simple with YouTube Studio Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-security-breach-warning-in-gaming-software/"><u>Resolved: Fixing the 'Security Breach' Warning in Gaming Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-pc-crashes-ultimate-guide-to-troubleshooting-outriders-freezing-issues/"><u>Solving PC Crashes: Ultimate Guide to Troubleshooting Outriders Freezing Issues</u></a></li>
+<li><a href="https://win-web3.techidaily.com/troubleshooting-and-solving-usb-port-issues-the-ultimate-guide-from-yl-software/"><u>Troubleshooting and Solving USB Port Issues - The Ultimate Guide From YL Software</u></a></li>
+<li><a href="https://win-exclusive.techidaily.com/understanding-typical-scanner-faults-with-guidance-from-yl-software-professionals/"><u>Understanding Typical Scanner Faults with Guidance From YL Software Professionals</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Can't Start Your Game - Check Your Game Files Now"
-date: 2024-08-18T19:12:32.818Z
-updated: 2024-08-19T19:12:32.818Z
+date: 2025-01-14T01:15:03.725Z
+updated: 2025-01-18T09:55:56.824Z
 tags:
   - win11
   - win10
@@ -38,6 +38,14 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
 ![Verify the game files in Epic Games launcher](https://images.drivereasy.com/wp-content/uploads/2019/09/2019-09-19_18-50-45.png)
 3. Launch the game after the verifying process completed to see if it would crash again. If the game still crashes, try the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Update graphics driver
 
  The broken or outdated graphics driver may also be the main culprit behind the game crashing issues.
@@ -47,6 +55,10 @@ Recently, many players have reported that**A Total War Saga: Troy keeps crashing
  If you don’t remember when was the last time you updated your drivers, definitely do it now.
 
 There’re mainly two ways you can update your graphics drivers:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -64,9 +76,6 @@ There’re mainly two ways you can update your graphics drivers:
 
 Or
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically (Recommended)
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -85,9 +94,6 @@ Or
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -97,9 +103,6 @@ Or
 
  If the latest graphics driver fails to stop the crash, just read on to try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The game developers release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -107,6 +110,10 @@ Or
  If a patch is available, it will be detected by Epic Games launcher, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Launch A Total War Saga: Troy to check whether the game crash issue has been resolved. If it hasn’t, or there was no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Install the latest DirectX files
 
@@ -116,16 +123,15 @@ Or
 2. Click the Download button to start the download.  
 ![download latest DirectX](https://images.drivereasy.com/wp-content/uploads/2021/03/download-latest-DirectX.jpg)
 3. Once downloaded, double-click the downloaded**.exe** file to install it on your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Restart your computer and launch the game.
 
  See if A Total War Saga: Troy crashes again. If this fix didn’t work for you, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Stop overclocking
 
  Many players may try overclocking the CPU or turbo boost the graphics card to gain a better FPS. However, overclocking often crashes the game.
@@ -145,10 +151,11 @@ Or
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to invoke the Run dialog. Type**appwiz.cpl** and press**Enter** to open the Programs and Features window in Control Panel.  
 ![Open Programs and Features window in Control Panel](https://images.drivereasy.com/wp-content/uploads/2021/03/Open-Programs-and-Features-window-in-Control-Panel.jpg)
 2. **Right-click** on**Epics Games launcher** and select**Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![how to repair Epics Games launcher](https://images.drivereasy.com/wp-content/uploads/2021/03/how-to-repair-Epics-Games-launcher.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After Windows repaired Epics Games launcher, launch A Total War Saga: Troy to see if it will crash. If it still crashes, try the next fix, below.
 
@@ -176,8 +183,6 @@ Or
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +190,24 @@ Or
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-sociostreamer-convert-to-webmmp4/"><u>[New] SocioStreamer Convert to WebM/MP4</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-the-ultimate-guide-to-free-online-short-video-downloading/"><u>[Updated] In 2024, The Ultimate Guide to Free, Online Short Video Downloading</u></a></li>
+<li><a href="https://video-ai-editor.techidaily.com/1726026440383-youtube/"><u>「YouTube動画をクリアな画質でセーブする専門的な方法ガイド」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-roblox-load-failures-effective-techniques-for-swift-entry-into-your-game-world/"><u>Dealing with Roblox Load Failures: Effective Techniques for Swift Entry Into Your Game World</u></a></li>
+<li><a href="https://common-error.techidaily.com/effortless-methods-to-overcome-the-0-stalled-windows-updates/"><u>Effortless Methods to Overcome the 0% Stalled Windows Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-gameplay-proven-strategies-to-fix-and-optimize-call-of-duty-modern-warfare-2-performance-on-pc/"><u>Enhancing Gameplay: Proven Strategies to Fix and Optimize Call of Duty: Modern Warfare 2 Performance on PC</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721440626592-fix-iphones-charge-while-on-call-problem-discover-these-8-tips/"><u>Fix iPhone's 'Charge While On Call' Problem - Discover These 8 Tips</u></a></li>
+<li><a href="https://techidaily.com/hard-resetting-an-huawei-p60-device-made-easy-drfone-by-drfone-reset-android-reset-android/"><u>Hard Resetting an Huawei P60 Device Made Easy | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-videos-from-realme-c67-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Videos from Realme C67 4G to iPad | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maplestory-troubleshooting-guide-solving-windows-11-compatibility-issues/"><u>MapleStory Troubleshooting Guide: Solving Windows 11 Compatibility Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-fps-controls-proven-strategies-to-enhance-your-experience-in-valorant-2024-edition/"><u>Mastering FPS Controls: Proven Strategies to Enhance Your Experience in VALORANT - 2024 Edition</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-common-audio-problems-in-outriders-a-step-by-step-guide/"><u>Resolving Common Audio Problems in Outriders - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-division-2-launch-problem-expert-fixes-and-advice-for-gamers/"><u>Solving the Division #2 Launch Problem: Expert Fixes and Advice for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fix-for-itunes-not-recognizing-your-iphone-on-a-windows-10-system/"><u>Step-by-Step Fix for iTunes Not Recognizing Your iPhone on a Windows 10 System</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/the-ultimate-guide-to-get-the-rare-candy-on-pokemon-go-fire-red-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>The Ultimate Guide to Get the Rare Candy on Pokemon Go Fire Red On Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-solutions-for-life-is-strange-true-colors-crashing-problems/"><u>Troubleshooting & Solutions for Life Is Strange: True Colors Crashing Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-update-failures-with-minecraft-native-launcher/"><u>Troubleshooting Guide: Update Failures with Minecraft Native Launcher</u></a></li>
+</ul></div>
 

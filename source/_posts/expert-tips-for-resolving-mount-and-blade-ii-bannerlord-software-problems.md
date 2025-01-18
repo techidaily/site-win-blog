@@ -1,7 +1,7 @@
 ---
 title: "Expert Tips for Resolving Mount & Blade II: Bannerlord Software Problems"
-date: 2024-08-18T19:13:05.398Z
-updated: 2024-08-19T19:13:05.398Z
+date: 2025-01-14T00:12:27.909Z
+updated: 2025-01-17T23:42:46.627Z
 tags:
   - win11
   - win10
@@ -22,6 +22,10 @@ Many players are reporting that Hitman 3 is having server issues, and they const
  “Unable to connect to the hitman service. Failed to fetch downloadable content information from the hitman server. For more information, contact hitman support.”
 
  If you’re experiencing the same issue and hitting the “Retry” button didn’t work, you may want to try the following fixes, which have helped many other players.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,17 +57,16 @@ Many players are reporting that Hitman 3 is having server issues, and they const
 1. In the Windows Search bar, type**firewall** and select**Windows Defender Firewall** .  
 ![Windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/Windows-firewall.jpg)
 2. On the left pane, click **Allow an app or feature through Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-app.jpg)
 3. Make sure your Hitman 3 is on the list, and also make sure it’s ticked for**Private** .
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If you don’t find Hitman 3, click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/change-settings.jpg)
 5. Click**Allow another app…**  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_O8m9KphYzs?si=jITthzeyX_Kmt9X2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![change settings](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-another-app.jpg)
 6. Add your Hitman 3 executable file. If you’re not sure where the game is installed, please follow these steps:  
    * Click on the game title in your library.  
@@ -72,10 +75,6 @@ Many players are reporting that Hitman 3 is having server issues, and they const
    ![open hitman 3 folder](https://images.drivereasy.com/wp-content/uploads/2021/01/Open-folders.png)
 7. Now launch your game again and test if the**Hitman 3 connection failed error** has been solved.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your network driver
 
  The thing is when you click**Play** or**Retry** , your network adapter driver will be disabled instantly, thus causing you to get stuck in the world of disconnection. To fix this, you can try updating your network driver to resolve this issue.
@@ -92,19 +91,22 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to a flagged network adapter driver to automatically download and install the correct version of this driver (you can do this with the FREE version).  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-network-adapter-driver.jpg)  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 <!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kZVDkvMZvP4?si=xAugrCf-Ud6EMMpm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Run your game as an administrator
 
  This might be triggered by limited administrative rights. So to make sure you can access all the game files, you can run Hitman 3 and Epic Games Launcher as administrators. Here’s how to run it as admin permanently:
@@ -113,8 +115,9 @@ OR
 2. Select the tab **Compatibility** and check the box next to **Run this program as an administrator** . Then click **Apply > OK** .  
 ![run as admin](https://images.drivereasy.com/wp-content/uploads/2021/01/run-as-admin.jpg)
 3. Next time you open your game launcher, it will launch in admin mode.
+
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Fix 5: Disable antivirus software
@@ -124,6 +127,10 @@ OR
  For some antivirus software, disabling them might not work. You can temporally uninstall it or add Hitman 3 to their exclusion lists.
 
 **Note:** Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 6:**Flush your DNS and Renew your IP**
 
@@ -138,18 +145,11 @@ OR
 5. Then type the command line **ipconfig /release**  and press **Enter**  on your keyboard.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap11-5.jpg)
 6. Type the command line **ipconfig /renew**  and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/Snap12-5.jpg)
 7. Play Hitman 3 again.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ---
@@ -168,8 +168,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +175,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-the-gopro-hero-series-comparison-for-2024/"><u>[New] The GoPro Hero Series Comparison for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010504135-solved-epic-games-launcher-wont-open-quickly-and-easily/"><u>[SOLVED] Epic Games Launcher Won't Open | Quickly & Easily</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-level-up-your-livestream-game-using-obs-youtube-and-twitch/"><u>[Updated] Level-Up Your Livestream Game Using OBS, YouTube & Twitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-frustration-with-these-fixes-for-ghostwire-tokyos-reliable-playtime-on-desktops/"><u>Banish Frustration with These Fixes for Ghostwire: Tokyo's Reliable Playtime on Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breeze-through-successful-discord-installation-after-initial-failure/"><u>Breeze Through Successful Discord Installation After Initial Failure</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/choosing-between-macbook-pro-and-macbook-air-key-factors-to-consider-before-making-your-purchase-techradar/"><u>Choosing Between MacBook Pro and MacBook Air: Key Factors to Consider Before Making Your Purchase | TechRadar</u></a></li>
+<li><a href="https://win11.techidaily.com/deciphering-directories-3-windows-routes-for-games/"><u>Deciphering Directories: 3 Windows Routes for Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dread-hunger-continues-to-disrupt-gameplay-on-windows-systems/"><u>Dread Hunger Continues to Disrupt Gameplay on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-overcoming-continuous-crashes-during-beat-saber-sessions/"><u>Expert Advice: Overcoming Continuous Crashes During Beat Saber Sessions</u></a></li>
+<li><a href="https://driver-install.techidaily.com/hdgraphics5770radeondriverwin/"><u>HDGraphics5770RadeonDriverWin</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-get-the-apple-id-verification-code-on-apple-iphone-xs-in-the-best-ways-by-drfone-ios/"><u>How To Get the Apple ID Verification Code On Apple iPhone XS in the Best Ways</u></a></li>
+<li><a href="https://win11.techidaily.com/overcoming-system-restriction-for-hidden-software/"><u>Overcoming System Restriction for Hidden Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-how-to-get-days-gone-running-on-your-pc/"><u>Solution Found: How to Get Days Gone Running on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-network-delays-lags-and-decreased-frame-rates-in-the-cod-black-ops-4-experience/"><u>Solving Network Delays, Lags & Decreased Frame Rates in the COD: Black Ops 4 Experience</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/step-by-step-guide-for-capturing-stunning-insta-cover-photos-for-your-highlights/"><u>Step-by-Step Guide for Capturing Stunning Insta Cover Photos for Your Highlights</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/three-ways-to-sim-unlock-xiaomi-civi-3-disney-100th-anniversary-edition-by-drfone-android/"><u>Three Ways to Sim Unlock Xiaomi Civi 3 Disney 100th Anniversary Edition</u></a></li>
+</ul></div>
 

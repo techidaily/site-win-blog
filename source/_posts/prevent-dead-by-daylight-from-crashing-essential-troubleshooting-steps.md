@@ -1,7 +1,7 @@
 ---
 title: "Prevent Dead By Daylight From Crashing : Essential Troubleshooting Steps"
-date: 2024-08-18T19:13:27.624Z
-updated: 2024-08-19T19:13:27.624Z
+date: 2025-01-12T11:52:22.755Z
+updated: 2025-01-18T06:00:17.617Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/66993ca3ad927cec029079f1e31ce1da86c1e1020
 Recently, many_Phoenix Point_ players are reporting the game crashing problem. The issue occurs randomly – at launch or mid-game – causing extreme annoyance for players.
 
  Fortunately, the fix is easy. So, if you’re facing_Phoenix Point_ crashes on Windows, follow the steps below and you should be able to run the game as flawlessly as is.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -57,9 +61,6 @@ Recently, many_Phoenix Point_ players are reporting the game crashing problem. T
 
 If your issue persists, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Run your game as an administrator
 
  By default, Windows runs programs as a user, with limited access to the files and folders on your PC. To see if that’s the problem for you, try running your game as an administrator. Here is how:
@@ -68,13 +69,18 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-02.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Go to the **Compatibility tab** , then check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-12.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)**  Click **Apply** , then **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-50-23.jpg)
@@ -83,9 +89,6 @@ If your issue persists, move on to the next fix, below.
 
  If the game crashing issue continues to occur, then go ahead with Fix 3, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Turn off unnecessary programs
 
  If you’re running multiple programs at the same time during gameplay, your PC might get overloaded and crash your game. Or, in some cases, one of your programs is conflicting with your game and causes it to fail.
@@ -96,19 +99,24 @@ If your issue persists, move on to the next fix, below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-02-46-1024x251.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the programs you want to close and select End Task.
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-04-08.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Relaunch your game to see if this fixed your issue.
 
 If it didn’t, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Verify your game files
 
  This issue might happen when one or more Phoenix Point files are corrupt or missing. If you’re playing the game on Epic Games Launcher, you should verify your game files. Here is how to do it:
@@ -119,29 +127,14 @@ If it didn’t, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-57-56.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-00-39.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **4)** Restart your game.
 
  If your game still won’t work properly, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall your game
 
  This problem might occur when the game is not properly installed on your PC. If that’s the core issue, reinstalling the game should fix it. Follow the instructions below:
@@ -156,6 +149,10 @@ If it didn’t, read on and try the fix below.
 **2)**  Click **Library** and then click the **Settings**  button.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_10-57-56-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Click **Uninstall.**
 
@@ -176,20 +173,21 @@ If it didn’t, read on and try the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-56-02-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **3)** Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_12-03-14.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click **Reset** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-05_12-29-11.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 **5)** Relaunch _Phoenix Point_ after the process is complete.
 
 If your problem continues to occur, then move on and try the next fix.
@@ -204,20 +202,18 @@ If your problem continues to occur, then move on and try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-09.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Under **View by** , select **Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Click **Uninstall a program** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-27-30.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **4)** Right-click the Epics Games, then click **Uninstall/Change** .
 
  If you’re prompted for permission, select **Continue** .
@@ -228,9 +224,6 @@ If your problem continues to occur, then move on and try the next fix.
 
  If this fix didn’t help, don’t fret! There is still one more fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Check for Windows updates
 
  Although it’s unlikely that this problem is caused by outdated Windows components, you should still rule out the possibility. Try installing all the new Windows updates to see if this works for you. Here is how to do it:
@@ -242,6 +235,10 @@ If your problem continues to occur, then move on and try the next fix.
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-25_11-29-34.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Restart your computer and your game.
 
@@ -260,8 +257,6 @@ If your problem continues to occur, then move on and try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -269,4 +264,24 @@ If your problem continues to occur, then move on and try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-best-free-tools-for-converting-youtube-videos/"><u>[New] 2024 Approved Best Free Tools for Converting YouTube Videos</u></a></li>
+<li><a href="https://video-capture.techidaily.com/updated-ps4-broadcasting-made-easy-your-obs-guide-for-2024/"><u>[Updated] PS4 Broadcasting Made Easy Your OBS Guide for 2024</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-rank-8-real-world-video-promoters-for-success/"><u>[Updated] Rank 8 Real-World Video Promoters for Success</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-hitman-3-pc-disruptions-effective-strategies-and-tips-for-gamers-facing-crashes/"><u>Avoid Hitman 3 PC Disruptions: Effective Strategies and Tips for Gamers Facing Crashes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/boost-your-command-line-efficiency-with-these-powerful-linux-utilities/"><u>Boost Your Command-Line Efficiency with These Powerful Linux Utilities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-to-get-minecraft-running-smoothly-on-your-win11-system/"><u>Comprehensive Fixes to Get Minecraft Running Smoothly on Your Win11 System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-the-code-how-to-achieve-maximum-fps-drops-in-me-le/"><u>Cracking the Code: How to Achieve Maximum FPS Drops in ME LE</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/desktop-printers-or-print-shops-which-offers-better-value-for-money-in-the-long-run/"><u>Desktop Printers or Print Shops – Which Offers Better Value for Money in the Long Run?</u></a></li>
+<li><a href="https://article-tips.techidaily.com/excellent-spots-for-tamil-ringtones-acquisition-guide-for-2024/"><u>Excellent Spots for Tamil Ringtones Acquisition Guide for 2024</u></a></li>
+<li><a href="https://techidaily.com/how-to-perform-hard-reset-on-samsung-galaxy-a14-5g-drfone-by-drfone-reset-android-reset-android/"><u>How to Perform Hard Reset on Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-mirror-xiaomi-redmi-note-13-proplus-5g-to-mac-drfone-by-drfone-android/"><u>In 2024, How to Mirror Xiaomi Redmi Note 13 Pro+ 5G to Mac? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012774102-latest-updates-fix-pc-crashes-in-rainbow-six-extraction-game-now-plays-smoothly/"><u>Latest Updates Fix PC Crashes in Rainbow Six Extraction - Game Now Plays Smoothly!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-warzone-performance-on-pc-no-more-freezes/"><u>Mastering Warzone Performance on PC: No More Freezes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-preventing-crashes-when-reconnecting-in-granblue-fantasy-pc/"><u>Step-by-Step Solution: Preventing Crashes When Reconnecting in Granblue Fantasy (PC)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ing-a-chord-with-effective-youtube-imagery-sizes/"><u>Striking a Chord with Effective YouTube Imagery Sizes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-how-to-get-your-steam-games-running-again-on-windows-11/"><u>Troubleshooting Guide: How to Get Your Steam Games Running Again on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-why-your-rocket-league-game-keeps-failing-at-launch/"><u>Troubleshooting: Why Your Rocket League Game Keeps Failing at Launch</u></a></li>
+</ul></div>
 

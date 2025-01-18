@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Enshrouded Crashing on PC"
-date: 2024-08-18T19:15:20.330Z
-updated: 2024-08-19T19:15:20.330Z
+date: 2025-01-15T22:57:10.640Z
+updated: 2025-01-18T01:21:11.972Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Install the latest patch
 
  Ubisoft (developer of Assassin’s Creed) regularly releases patches to improve the game experience, as buggy issues in Assassin’s Creed Odyssey can cause problems like crashing or lagging. So you should **check for the latest updates of your game, and install the available game patches** . This can help fix problems that are likely to cause the crashing.
@@ -42,6 +46,10 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
  Overclocking means setting your CPU and memory to run at speeds higher than their official speed rate, and almost all processors ship with a speed rating. However, this may cause your game to crash or freeze. In that case, you should**set your CPU clock speed rate back to the default** to fix your issue.
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Update available drivers
 
@@ -63,17 +71,15 @@ thumbnail: https://thmb.techidaily.com/cfaa471734b434d1f940355dfb1b76c8db9d162f4
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-70.png)
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the**Update** button next to the flagged devices to automatically download the driver (you can do that with the**FREE** version), then install it on your computer.
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart your computer to take effect.
 
 Now launch Assassin’s Creed Odyssey and see if it stops crashing.
@@ -88,6 +94,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-72.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Display** tab.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-73.png)
@@ -99,16 +109,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
  4) Turn off**VSync** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
  5) Click the**Graphics** tab, try lowing these settings:
 
 * **Shadows** : Low
@@ -120,21 +124,19 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qn1XkPJde9Y?si=i6ZJARXO8sJhy2FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-leads-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in the Steam app if games crash. Here’s how to do it:
@@ -145,9 +147,6 @@ Open Assassin’s Creed Odyssey and see if it works.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-78.png)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3) Right-click on**Assassin’s Creed Odyssey** , and click**Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-79.png)
@@ -178,8 +177,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +184,24 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-from-muffled-to-clear-the-initial-use-of-fade-in-audition/"><u>[New] From Muffled to Clear The Initial Use of Fade in Audition</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-warriors-path-a-list-of-intense-fighting-games/"><u>[New] In 2024, Warrior's Path A List of Intense Fighting Games</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-step-by-step-guide-to-creating-virtual-space-with-iphone/"><u>[Updated] In 2024, Step-by-Step Guide to Creating Virtual Space with iPhone</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-dive-into-yi-4k-plus-action-camera-an-all-encompassing-review/"><u>2024 Approved Dive Into Yi 4K + Action Camera An All-Encompassing Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eradicate-game-buffering-unveiling-the-secrets-to-enhanced-high-frame-rates/"><u>Eradicate Game Buffering: Unveiling the Secrets to Enhanced High Frame Rates</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/free-online-conversion-convert-flv-to-m4v-format-using-movavi/"><u>Free Online Conversion: Convert FLV to M4V Format Using Movavi</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-oppo-find-x7-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Oppo Find X7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-opening-woes-top-fixes-for-game-not-loading-in-202n/"><u>League of Legends Opening Woes? Top Fixes for Game Not Loading in 202N</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/mastering-the-digital-world-with-guidance-from-toms-hardware-reviews/"><u>Mastering the Digital World with Guidance From Tom’s Hardware Reviews</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722988832134-mastering-wow-stability-effective-remedies-for-eliminating-game-crashes-in-no-time/"><u>Mastering WoW Stability: Effective Remedies for Eliminating Game Crashes in No Time</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/movavipngjpg/"><u>Movavi介紹：PNG到JPG的高效轉換方法與教學指南</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005446056-say-goodbye-to-that-annoying-pixel-dance-easy-fix-for-constant-screen-flashing/"><u>Say Goodbye To That Annoying Pixel Dance - Easy Fix for Constant Screen Flashing!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-remedy-for-steams-secured-content-error-enjoy-unrestricted-access-now/"><u>Step-by-Step Remedy for Steam's Secured Content Error: Enjoy Unrestricted Access Now</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/the-victory-chronicles-tackling-failed-nvidia-deployments/"><u>The Victory Chronicles: Tackling Failed NVIDIA Deployments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-when-rocket-league-fails-to-initialize/"><u>Troubleshooting Steps When Rocket League Fails to Initialize</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-preventing-game-crashes-in-yakuza-3-hd-edition/"><u>Troubleshooting Tips: Preventing Game Crashes in Yakuza 3 HD Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-isnt-football-manager-2022-out-yet-answers-and-solutions-inside/"><u>Why Isn't Football Manager 2022 Out Yet? Answers & Solutions Inside</u></a></li>
+</ul></div>
 

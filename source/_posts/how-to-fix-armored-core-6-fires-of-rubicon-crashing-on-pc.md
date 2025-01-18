@@ -1,7 +1,7 @@
 ---
 title: "How to Fix Armored Core 6: Fires of Rubicon Crashing on PC"
-date: 2024-08-18T19:16:26.347Z
-updated: 2024-08-19T19:16:26.347Z
+date: 2025-01-12T23:28:09.057Z
+updated: 2025-01-17T20:43:15.639Z
 tags:
   - win11
   - win10
@@ -20,6 +20,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
  MIR4 keeps crashing on your PC? You’re not alone. Thousands of gamers have reported this exact problem.
 
  But the good news is you can fix it. Here’s a list of fixes to try. You may not have to try them all; just work down your way until you find the one that works for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Table of contents
 
@@ -79,6 +83,10 @@ thumbnail: https://thmb.techidaily.com/1b75e252ed41838e8d5bba451afdfa23d376fd039
 
 If the problem persists, read on and try the fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: Verify the Integrity of Game Files
 
  You won’t be able to run the game correctly if any critical game files are damaged or missing. To see if this is the core issue, you can verify the integrity of game files from Steam:
@@ -89,16 +97,21 @@ If the problem persists, read on and try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-22_12-03-17.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Under the **LOCAL FILES** tab, click **Verify integrity of game files** . (This process may take several minutes. Steam will fix corrupted files automatically if it detects any.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-22_12-03-52.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4) Restart the game after the process is complete.
 
 If the game still crashes, move on to the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 3: Update Your Graphics Driver
 
@@ -116,9 +129,6 @@ There are two ways you can do this:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -126,8 +136,9 @@ There are two ways you can do this:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -137,9 +148,6 @@ There are two ways you can do this:
 
 If the issue persists, then go ahead with the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 4: Run as an Administrator
 
  If you’re running the game under normal user mode, it may not be able to access critical game files on your PC – which might cause crashes during gameplay.
@@ -150,9 +158,6 @@ If the issue persists, then go ahead with the fix below.
 
 ![This image has an empty alt attribute; its file name is image-342.png](https://images.drivereasy.com/wp-content/uploads/2019/07/image-342.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 **2)**  Right-click the **Steam icon**  and select **Properties** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-786.png)
@@ -170,8 +175,9 @@ If the issue persists, then go ahead with the fix below.
 If the issue still occurs, go ahead with the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Disable Third-Party Programs
 
  Third-party software running in your computer background sometimes can interfere with MIR4, causing issues like this. So you should turn off inessential software during gameplay, such as your antivirus, NVidia GeForce experience overlay, Discord, etc.
@@ -179,8 +185,9 @@ If the issue still occurs, go ahead with the next fix.
  If this doesn’t do the trick for you, read on and try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Reinstall the game
 
  If none of the fixes above worked for you, it’s very likely that the game is not properly installed on your PC, and reinstalling it is the solution for you. Follow the instructions below:
@@ -191,32 +198,14 @@ If the issue still occurs, go ahead with the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-22_14-49-08.png)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)** Select**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-22_14-55-41.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 **4)**  Relaunch Steam to download and reinstall the game.
 
 If the game still won’t run correctly, try the next fix.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7: Check for Windows Updates
 
  If the game won’t run at all, it’s unlikely that the out-of-date Windows version is the core problem, but you should still rule out the possibility. Follow the instructions below:
@@ -232,6 +221,10 @@ If the game still won’t run correctly, try the next fix.
  3) Restart your computer after the update is complete, then try running MIR4 again.
 
 If the issue persists, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 8: Wait for Patch Notes
 
@@ -249,8 +242,6 @@ If the issue persists, try the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -258,4 +249,23 @@ If the issue persists, try the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/n-2024-beat-drops-in-seconds-a-beginners-guide-to-music-videos/"><u>[New] In 2024, Beat Drops in Seconds A Beginner’s Guide to Music Videos</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-maximizing-impact-in-snapchat-spotlight/"><u>[New] Maximizing Impact in Snapchat Spotlight</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-broadcast-friendly-techniques-for-fb-live-events/"><u>2024 Approved Broadcast-Friendly Techniques for FB Live Events</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-navigating-the-maze-of-public-television-download/"><u>2024 Approved Navigating the Maze of Public Television Download</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-eliminate-genshin-impacts-error-4201-get-back-into-the-game/"><u>Expert Tips to Eliminate Genshin Impact's Error 4201 – Get Back Into the Game</u></a></li>
+<li><a href="https://some-tips.techidaily.com/exploring-new-visionos-2-revealed-at-apples-wwdc-a-deep-dive-into-the-latest-features-and-surprises/"><u>Exploring New VisionOS 2 Revealed at Apple's WWDC: A Deep Dive Into the Latest Features and Surprises</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-speed-up-launch-time-for-star-wars-battlefront-2-on-desktop-systems/"><u>How to Speed Up Launch Time for Star Wars Battlefront 2 on Desktop Systems</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/hp-elitebook-8460p-complete-guide-to-downloading-and-updating-drivers-on-windows/"><u>HP EliteBook 8460P: Complete Guide to Downloading & Updating Drivers on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/instantly-resolving-your-steam-platform-stability-problems-step-by-step/"><u>Instantly Resolving Your Steam Platform Stability Problems – Step-by-Step</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/joining-the-metaverse-comedy-club-top-20plus-memes-and-techniques-for-2024/"><u>Joining the Metaverse Comedy Club Top 20+ Memes & Techniques for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/listening-out-loud-deciphering-the-differences-between-podcasts-and-youtube-for-2024/"><u>Listening Out Loud Deciphering the Differences Between Podcasts & YouTube for 2024</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/the-future-of-data-extraction-insights-from-singhs-world/"><u>The Future of Data Extraction: Insights From Singh's World</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-download-timeout-errors-effectively/"><u>Troubleshooting and Resolving Download Timeout Errors Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-successfully-starting-your-payday-2-game-on-windows/"><u>Troubleshooting Guide: Successfully Starting Your Payday 2 Game on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-fixing-the-acrocefexe-error-message/"><u>Understanding and Fixing the Acrocef.exe Error Message</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-the-football-manager-2022-launch-hitches-now-resolved/"><u>Understanding the Football Manager 2022 Launch Hitches - Now Resolved!</u></a></li>
+</ul></div>
 

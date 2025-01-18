@@ -1,7 +1,7 @@
 ---
 title: Tips for Fixing the Dreaded Black Screen Glitch on Electronics – Solved
-date: 2024-08-18T19:14:22.864Z
-updated: 2024-08-19T19:14:22.864Z
+date: 2025-01-17T10:22:27.785Z
+updated: 2025-01-18T11:59:14.762Z
 tags:
   - win11
   - win10
@@ -24,6 +24,10 @@ There’re things you can do before trying complicated fixes:
 * Make sure you’ve closed unnecessary background programs
 * Make sure Enlisted are not blocked from your firewall
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -32,9 +36,6 @@ There’re things you can do before trying complicated fixes:
 2. [Install Windows updates](https://tools.techidaily.com/drivereasy/download/)
 3. [Update graphic driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Run as administrator
 
  Run as administrator is a working fix for many players. It’s easy and quick, so I recommend this fix as your first solution.
@@ -43,20 +44,16 @@ There’re things you can do before trying complicated fixes:
 2. Right-click on the shortcut and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. In the Compatibility tab, click **Run as administrator** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uzb-0C0xUYA?si=F4MPhdVqyVgx7_8X" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 4. Relaunch the game.
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Install Windows updates
 
  Microsoft constantly releases Windows updates to fix issues and add new features. Some issues will be solved after updating Windows updates. And it’s safer to keep your PC using the latest operating system.
@@ -64,11 +61,16 @@ If it’s not working, move to the next fix.
 1. In the Search box, type in **check for updates** . Click **Check for updates**  from results.  
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)
 3. Launch Enlisted and check.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If this didn’t solve your problems, read on for further troubleshooting.
@@ -96,17 +98,9 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/DE-Update-all-drivers.png)
 
 <!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -121,8 +115,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +122,21 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/new-unleashing-musical-talent-with-magix-studio-for-2024/"><u>[New] Unleashing Musical Talent with Magix Studio for 2024</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/updated-the-complete-drone-racing-playbook-plus-5-elite-fpv-brands/"><u>[Updated] The Complete Drone Racing Playbook + 5 Elite FPV Brands</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/2024-approved-is-inshot-the-best-video-editing-app-our-in-depth-review/"><u>2024 Approved Is InShot the Best Video Editing App? Our In-Depth Review</u></a></li>
+<li><a href="https://extra-information.techidaily.com/accelerating-content-consumption-on-facebook-for-2024/"><u>Accelerating Content Consumption on Facebook for 2024</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-app-not-available-in-your-country-play-store-problem-on-realme-11-proplus-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix App Not Available in Your Country Play Store Problem on Realme 11 Pro+ | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/forgot-your-vivo-y36i-lock-screen-pattern-pin-or-password-here-s-what-to-do-by-drfone-android-unlock-android-unlock/"><u>Forgot your Vivo Y36i lock screen pattern, PIN or password? Here’s what to do</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-on-samsung-galaxy-s21-fe-5g-2023-by-drfone-android/"><u>How to Bypass FRP on Samsung Galaxy S21 FE 5G (2023)?</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-how-to-change-screenshot-file-formats-on-a-mac/"><u>In 2024, How to Change Screenshot File Formats on a Mac</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/in-2024-navigating-the-world-of-zoom-audio-to-text-tools/"><u>In 2024, Navigating the World of Zoom Audio to Text Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-fix-how-to-resolve-call-of-duty-warzones-error-code-0-1766-on-gaming-consoles/"><u>Mastering the Fix: How to Resolve Call of Duty Warzone's Error Code 0-1766 on Gaming Consoles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-fix-obs-when-it-wont-record-your-screen-anymore/"><u>Resolved: How to Fix OBS When It Won't Record Your Screen Anymore</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rust-graphical-anomaly-resolved/"><u>Rust Graphical Anomaly - Resolved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-managing-increased-processor-load-after-recent-updates/"><u>Solutions for Managing Increased Processor Load After Recent Updates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-sims-ngamers-unite-solving-video-card-errors-on-pc-and-consoles/"><u>The Sims nGamers Unite! Solving Video Card Errors on PC and Consoles</u></a></li>
+</ul></div>
 

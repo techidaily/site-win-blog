@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting PC Issues - How to Stop Minecraft From Crashing
-date: 2024-08-18T19:17:04.692Z
-updated: 2024-08-19T19:17:04.692Z
+date: 2025-01-13T01:02:55.614Z
+updated: 2025-01-18T06:59:28.350Z
 tags:
   - win11
   - win10
@@ -56,6 +56,10 @@ It’s frustrating when you experience performance or stability problems during 
 
 If your issue continues to occur, then move on to the next fix, below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 2: End unnecessary programs
 
  If you’re running multiple programs at the same time while gaming, that could cause your PC to overload and make your game freeze.
@@ -76,9 +80,6 @@ If your issue continues to occur, then move on to the next fix, below.
 
 If it didn’t, read on and try Fix 3.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Verify your game files
 
  This issue might happen when one or more_GTA5_ files on your PC are corrupt or missing. If you’re playing the game on Steam, follow the instructions below to verify your game files:
@@ -95,9 +96,17 @@ If it didn’t, read on and try Fix 3.
 
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Relaunch_GTA5_ to test your issue.
 
  If your game still won’t run correctly, then go ahead with the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 4: Adjust your virtual memory
 
@@ -115,30 +124,30 @@ If it didn’t, read on and try Fix 3.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-35.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **3)**  Click the **Advanced**  tab, and then click **Change** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-31.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-27.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **5)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-22.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **6)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
@@ -150,15 +159,13 @@ If it didn’t, read on and try Fix 3.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-18-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **8)** Restart your computer and your game.
 
  If your issue still exists, don’t fret. Read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fix 5: Reinstall your game
 
  You may run into the_GTA5_ freezing issue when the game program is not properly installed on your PC. To fix it, you’ll need to reinstall the game. Here is how to do it:
@@ -179,9 +186,6 @@ If it didn’t, read on and try Fix 3.
 
 If the issue continues to occur, go to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Check for Windows updates
 
  In some cases, this issue is triggered by out-of-date and incompatible Windows components. Try installing all the new Windows updates to see if this fixes your issue. Follow the instructions below:
@@ -189,6 +193,10 @@ If the issue continues to occur, go to the next solution.
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-14-26.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -211,8 +219,6 @@ If the issue continues to occur, go to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +226,24 @@ If the issue continues to occur, go to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/ndroid-beat-best-free-apps-for-downloading-youtube-tunes-for-2024/"><u>[New] Android Beat Best Free Apps for Downloading YouTube Tunes for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-3-innovative-ways-to-record-on-your-ipad-for-2024/"><u>[Updated] 3 Innovative Ways to Record on Your iPad for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-black-screen-error-comprehensive-solutions-for-call-of-duty-wwii-on-windows-systems/"><u>Beat the Black Screen Error: Comprehensive Solutions for Call of Duty WWII on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-back-to-back-crashes-a-comprehensive-guide-for-your-pc-woes/"><u>Bypassing Back-to-Back Crashes: A Comprehensive Guide for Your PC Woes</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-as-your-literary-sidekick-9-innovative-ways-to-compose-engaging-novels/"><u>ChatGPT as Your Literary Sidekick: 9 Innovative Ways to Compose Engaging Novels</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-restart-davinci-resolve-on-your-windows-computer-successfully/"><u>Expert Tips to Restart DaVinci Resolve on Your Windows Computer Successfully</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/exploring-sonos-roam-outdoor-audio-bliss/"><u>Exploring Sonos Roam: Outdoor Audio Bliss</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-v-audio-fix-say-goodbye-to-stutters-and-lags/"><u>Grand Theft Auto V Audio Fix - Say Goodbye to Stutters & Lags!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-honor-90-lite-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>How to Cast Honor 90 Lite to Computer for iPhone and Android? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-zooms-overloading-on-your-computers-processor-a-step-by-step-guide/"><u>How to Fix Zoom's Overloading on Your Computer's Processor: A Step-by-Step Guide</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-honor-play-40c-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Honor Play 40C | Dr.fone</u></a></li>
+<li><a href="https://techidaily.com/repair-corrupt-pdf-v16-files-on-my-mac-using-tool-stellar-by-stellar-guide/"><u>Repair corrupt PDF v1.6 files on my Mac using tool | Stellar</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-hogwarts-legacy-game-crashes-at-launch-8-effective-fixes-for-your-pc/"><u>Stop Hogwarts Legacy Game Crashes at Launch: 8 Effective Fixes for Your PC</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/tips-for-entering-a-friends-tiktok-live-stream-for-2024/"><u>Tips for Entering a Friend's TikTok Live Stream for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-solutions-to-stop-hogwarts-legacy-game-lag/"><u>Top 6 Solutions to Stop Hogwarts Legacy Game Lag !</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solutions-for-preventing-your-app-from-crashing-during-the-2024-release/"><u>Troubleshooting Guide: Solutions for Preventing Your App From Crashing During the 2024 Release</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/verzend-retour-beheer-professionele-logistiek-losungen-van-movavi/"><u>Verzend-Retour Beheer: Professionele Logistiek Lösungen Van Movavi</u></a></li>
+</ul></div>
 

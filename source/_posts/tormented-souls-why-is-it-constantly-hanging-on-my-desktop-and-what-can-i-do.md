@@ -1,7 +1,7 @@
 ---
 title: "'Tormented Souls': Why Is It Constantly Hanging on My Desktop and What Can I Do?"
-date: 2024-08-18T19:14:56.918Z
-updated: 2024-08-19T19:14:56.918Z
+date: 2025-01-16T17:49:34.324Z
+updated: 2025-01-18T11:25:51.501Z
 tags:
   - win11
   - win10
@@ -50,6 +50,10 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 6. **[Disable your third-party software](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Uninstall the driver
 
  If you’re NVIDIA users and meet the issue, you can remove the driver completely and install the older version.
@@ -57,12 +61,18 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 1. Press the**Windows logo key + R** **key** together, type**devmgmt.msc** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/device-manager.png)
 2. Find NVIDIA driver and right-click on it. Click**Uninstall device** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 3. Relaunch the game.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Verify integrity of game files
 
  Verify integrity of game files is a simple but useful fix for Steam games. Broken and missing files can cause the 2crashing issue. This fix can redownload files to fix crashes.
@@ -72,9 +82,6 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 3. In the **LOCAL FILES** tab, click **Verify Integrity of Game Files** …  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Close Steam and relaunch the Witcher 3\. You should be good to go.
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Fix 3: Disable Vsync from the options
 
@@ -84,14 +91,13 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ITtcSWvS8bo?si=4M4BfMgaabrW6148" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Turn off the**VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/vSync.jpg)
 6. Relaunch the game and check the crash is resolved or not.
@@ -104,21 +110,29 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the**Display Mode** , change the setting to the F**ull Screen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/window.jpg)
 6. Change other settings to**LOW** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-0Ww1YIIUe4?si=cQ-Gkh9UCJABuPZU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Relaunch the game and check the crash is resolved or not.
 
 If this fix doesn’t help, you can move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Remove the frame rate cap
 
  The Witcher 3 crashing issue can be tied to the frame rate. When you enter the game, the loading time will be affected by the frame rate in the engine. If you uncap the frame rate, the game speed can be doubled and reduce the chance of crashing.
@@ -127,14 +141,15 @@ If this fix doesn’t help, you can move to the next fix.
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
 5. Change**Maximum Frames Per Second** into**Unlimited** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/frames.jpg)
 6. Relaunch the game and check the crash is resolved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable your third-party software
 
@@ -145,9 +160,6 @@ If this fix doesn’t help, you can move to the next fix.
 
 If the game is still crashing, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Update your graphics driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, your game may encounter a crash. So it’s really important to keep your drivers updating to get a good gaming experience.  
@@ -179,9 +191,6 @@ OR
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Run the Witcher 3 and check the crash will appear or not.
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
 
@@ -193,8 +202,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +209,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-in-2024-streamline-your-experience-fix-instagrams-video-pains/"><u>[Updated] In 2024, Streamline Your Experience - Fix Instagram's Video Pains</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-ultimate-guide-to-producing-quality-social-media-film/"><u>[Updated] The Ultimate Guide to Producing Quality Social Media Film</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-maximize-your-video-workflow-with-the-best-8-apps-for-mac-and-phone/"><u>2024 Approved Maximize Your Video Workflow with the Best #8 Apps for Mac & Phone</u></a></li>
+<li><a href="https://fox-http.techidaily.com/2024-approved-sound-symphony-music-within-whatsapp-statuses/"><u>2024 Approved Sound Symphony Music Within WhatsApp Statuses</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/discover-the-superiority-of-the-apple-iphone-xs-max-a-review-for-tech-enthusiasts/"><u>Discover the Superiority of the Apple iPhone XS Max - A Review for Tech Enthusiasts</u></a></li>
+<li><a href="https://media-tips.techidaily.com/enjoy-unlimited-access-to-youtube-on-your-tv-screen-for-zero-dollars-step-by-step-instructions/"><u>Enjoy Unlimited Access to YouTube on Your TV Screen for Zero Dollars: Step-by-Step Instructions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/identifying-and-marking-discrepancies-between-rows-using-microsoft-excel/"><u>Identifying and Marking Discrepancies Between Rows Using Microsoft Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/join-forces-with-friends-from-facebook-for-easy-office-doc-editing-at-docscom/"><u>Join Forces with Friends From Facebook for Easy Office Doc Editing at Docs.com</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-debugging-uncover-hidden-circular-references-in-your-excel-spreadsheets/"><u>Master the Art of Debugging: Uncover Hidden Circular References in Your Excel Spreadsheets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-data-merging-comprehensive-guide-to-joining-cells-in-microsoft-excel/"><u>Mastering Data Merging: Comprehensive Guide to Joining Cells in Microsoft Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-dual-screen-work-in-excel-a-comprehensive-guide/"><u>Mastering Dual-Screen Work in Excel: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-equation-writing-with-office-201/"><u>Mastering Equation Writing with Office 201</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-excel-a-complete-tutorial-on-cloning-conditional-format-styles/"><u>Mastering Excel: A Complete Tutorial on Cloning Conditional Format Styles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-excel-techniques-for-disabling-or-erasing-pre-set-table-formatting-effects/"><u>Mastering Excel: Techniques for Disabling or Erasing Pre-Set Table Formatting Effects</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-weighted-averages-with-excel-essential-tutorial-for-accurate-data-analysis/"><u>Mastering Weighted Averages with Excel: Essential Tutorial for Accurate Data Analysis</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/smoothly-lowering-sound-levels-using-garageband-for-2024/"><u>Smoothly Lowering Sound Levels Using Garageband for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/the-ultimate-guide-to-vlogging-with-12-best-flip-screen-cameras-for-2024/"><u>The Ultimate Guide to Vlogging with 12 Best Flip-Screen Cameras for 2024</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/why-go-local-with-an-llm-lets-discuss-9-key-factors/"><u>Why Go Local with an LLM? Let's Discuss 9 Key Factors</u></a></li>
+<li><a href="https://discover-best.techidaily.com/winx-mobile-video-converter-androidmkv-m2ts-avi-wmv/"><u>WinX Mobile Video Converter使用: AndroidデバイスへのMKV, M2TS, AVI, WMV動画変換ガイド</u></a></li>
+</ul></div>
 

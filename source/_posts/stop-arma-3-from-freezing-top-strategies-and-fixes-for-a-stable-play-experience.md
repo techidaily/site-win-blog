@@ -1,7 +1,7 @@
 ---
 title: "Stop ARMA 3 From Freezing: Top Strategies & Fixes for a Stable Play Experience"
-date: 2024-08-18T19:14:52.644Z
-updated: 2024-08-19T19:14:52.644Z
+date: 2025-01-12T23:40:48.498Z
+updated: 2025-01-18T04:16:20.911Z
 tags:
   - win11
   - win10
@@ -82,18 +82,23 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact**Driver Easy’s support team** at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows Updates
 
@@ -103,26 +108,20 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3) Wait until Windows downloaded and installed all the updates.
 
 4) Restart Windows and run League of Legends again.
 
  See if you can play the game without crashes. If so, you’ve fixed this issue! If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Repair corrupted game files
 
  Corrupted game files are another important factor that may cause the game crashing issues. Try initiating full repair to see if you can fix this issue. Here is how to do it:
@@ -133,6 +132,10 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Initiate Full Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
@@ -142,8 +145,9 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
 ### Fix 5: Enable low spec mode
@@ -158,9 +162,6 @@ thumbnail: https://thmb.techidaily.com/d222a947a358a9a5da5a72c775e634907e671d005
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
@@ -178,8 +179,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +186,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-vlogs-to-viral-jake-pauls-online-empire-expansion-for-2024/"><u>[New] From Vlogs to Viral Jake Paul’s Online Empire Expansion for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-in-2024-digital-dive-capturing-the-days-lifelike-snapshots-on-fb/"><u>[New] In 2024, Digital Dive Capturing the Day's Lifelike Snapshots on FB</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-in-2024-leading-edge-technology-selecting-15-ultimate-cameras/"><u>[New] In 2024, Leading Edge Technology Selecting 15 Ultimate Cameras</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-step-by-step-guide-to-brighter-youtube-video-editing/"><u>[New] Step-by-Step Guide to Brighter YouTube Video Editing</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-formula-for-youtube-money-decoding-revenue-and-cpm-rates/"><u>[New] The Formula for YouTube Money Decoding Revenue and CPM Rates</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-in-2024-7-key-strategies-for-perfect-macro-video-shooting/"><u>[Updated] In 2024, 7 Key Strategies for Perfect Macro Video Shooting</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-comparing-social-platforms-facebook-live-vs-youtube-live-and-twitter-periscope/"><u>[Updated] In 2024, Comparing Social Platforms Facebook LIVE Vs. YouTube Live & Twitter Periscope</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-the-latest-insights-on-microsofts-upcoming-office-2n4-suite/"><u>Discover the Latest Insights on Microsoft's Upcoming Office 2N4 Suite</u></a></li>
+<li><a href="https://win-blog.techidaily.com/discover-the-top-6-benefits-of-investing-in-a-microsoft-365-membership/"><u>Discover the Top 6 Benefits of Investing in a Microsoft 365 Membership</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dynamic-charting-techniques-using-dropdown-menus-in-microsoft-excel/"><u>Dynamic Charting Techniques Using Dropdown Menus in Microsoft Excel</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-to-shrink-image-based-ms-office-files/"><u>Effective Strategies to Shrink Image-Based MS Office Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/efficiently-locating-and-mastering-necessary-microsoft-excel-formulas-tips-and-tricks-for-professionals/"><u>Efficiently Locating and Mastering Necessary Microsoft Excel Formulas: Tips & Tricks for Professionals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/excel-techniques-to-determine-the-countdown-in-days-to-any-occasion/"><u>Excel Techniques to Determine the Countdown in Days to Any Occasion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/excel-tips-effectively-identifying-and-marking-outlying-values-a-step-by-step-guide/"><u>Excel Tips: Effectively Identifying and Marking Outlying Values – A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-on-building-and-personalizing-funnel-charts-with-microsoft-excel-tools/"><u>Expert Tips on Building & Personalizing Funnel Charts with Microsoft Excel Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/extracting-month-and-year-from-dates-using-microsoft-excel-a-step-by-step-guide/"><u>Extracting Month and Year From Dates Using Microsoft Excel: A Step-by-Step Guide</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/how-to-add-a-digital-signature-block-to-doc-file-by-ldigisigner-sign-a-word-sign-a-word/"><u>How to add a digital signature block to .doc file</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-motorola-edge-40-pro-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Motorola Edge 40 Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/top-7-linux-innovations-perfectly-suited-for-integration-into-the-next-version-of-windows/"><u>Top 7 Linux Innovations Perfectly Suited for Integration Into the Next Version of Windows</u></a></li>
+</ul></div>
 

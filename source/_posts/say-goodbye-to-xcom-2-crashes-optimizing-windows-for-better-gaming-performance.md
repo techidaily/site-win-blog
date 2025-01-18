@@ -1,7 +1,7 @@
 ---
 title: "Say Goodbye to XCOM 2 Crashes: Optimizing Windows for Better Gaming Performance"
-date: 2024-08-18T19:12:43.348Z
-updated: 2024-08-19T19:12:43.348Z
+date: 2025-01-12T00:21:25.282Z
+updated: 2025-01-17T21:47:32.806Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/630a8388d901bab3eaa306301375077a09bba0fad
 
 Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing, many players have reported a lag and stuttering issue that spoils all the fun. If you happen to be one of them, don’t worry. Here’re some working fixes you can try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that helps.
@@ -27,6 +31,10 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
 4. [**Update your graphics driver**](https://tools.techidaily.com/drivereasy/download/)
 5. [**Install all Windows updates**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Set additional launch options](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1: Make sure your specs meet the requirements
 
@@ -43,8 +51,9 @@ Half Life: Alyx is no doubt the best VR game in 2020\. While the game is amazing
  If your specs are more than capable for the game, simply continue to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Change your power plan
 
  Power plan is a scheme that manages the way your PC consumes energy. The recent Windows build introduces a new power plan called Ultimate Performance, which provides a certain level of performance boost. You can start from here when troubleshooting stuttering issues.
@@ -54,23 +63,19 @@ Here’s how:
 1. On your keyboard, press **Win+R** (the Windows logo key and the r key) at the same time. Type or paste **powercfg.cpl**  and press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select **Ultimate Performance** . If you don’t see this power plan, simply continue to the next step to unhide it.  
+
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press Win (the Windows logo key) and type **cmd** . Select **Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press **Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this, **return to step 2** to enable the Ultimate Performance power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After changing your power plan, launch Half Life: Alyx and test the gameplay.
 
  If this trick doesn’t give you luck, you can take a look at the next one.
@@ -85,6 +90,10 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 
  If this fix doesn’t help you, simply move on to the next one below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YwOwUI47FuU?si=NK7IEELjx7_SJSl2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  In most cases, the lag and stuttering simply means you’re using**a** **faulty or outdated graphics driver** . Manufacturers keep updating their drivers so as to deliver the best possible performance. If the last time you updated your drivers feels like ages ago, definitely do it now as it might save your day.
@@ -95,9 +104,6 @@ After disabling all the overlays, check if Half Life: Alyx lags again.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2060-super-update.jpg)
 
@@ -116,24 +122,28 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After installing all the updates, do a reboot and see if Half Life: Alyx lags again.
 
 If this method failed to fix the lag, you can try the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Set additional launch options
 
  Some players reported that they managed to fix the stuttering by adding launch parameters, so you can try the same as it could be a potential fix.
@@ -144,9 +154,6 @@ To do so, follow these steps:
 2. Right click**Half Life: Alyx** and select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-1.jpg)
 3. Under the LAUNCH OPTIONS section, click the input area and type or paste the code below. Then close the window to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 -novid -console -vconsole +vr_fidelity_level_auto 0 +vr_fidelity_level 3 +vr_render_scale 1.0  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/half-life-launch-options-2.jpg)
 
@@ -160,8 +167,6 @@ To do so, follow these steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -169,4 +174,20 @@ To do so, follow these steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-whatsapps-call-conversation-strategy/"><u>[Updated] Mastering WhatsApp's Call Conversation Strategy</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-visualize-success-discover-the-top-10-online-tools-for-channel-branding-for-2024/"><u>[Updated] Visualize Success - Discover the Top 10 Online Tools for Channel Branding for 2024</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/affordable-quality-audio-discover-how-beats-latest-solo-buds-compete-with-apples-sub-100-dollar-airpods-according-to-zdnet/"><u>Affordable Quality Audio: Discover How Beats' Latest Solo Buds Compete with Apple's Sub-100 Dollar AirPods, According to ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-and-eliminate-stutters-a-comprehensive-guide-for-the-ascent/"><u>Boost Your Frame Rate & Eliminate Stutters: A Comprehensive Guide for 'The Ascent'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-prevent-watch-dogs-legion-from-continuously-crashing-on-your-pc/"><u>Fixing the Issue: How to Prevent Watch Dogs Legion From Continuously Crashing on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-your-forza-horizon-npc-game-from-crashing/"><u>How to Stop Your Forza Horizon N_pc Game From Crashing!</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/is-starlink-the-future-heres-why-it-could-be-worth-it/"><u>Is Starlink the Future? Here's Why It Could Be Worth It</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/optimale-dvd-digitalisierung-auf-pc-und-mac-top-3-methoden-im-jahr-2023/"><u>Optimale DVD-Digitalisierung Auf PC Und Mac - Top 3 Methoden Im Jahr 2023</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-technical-hurdles-a-guide-to-running-disco-elysium-flawlessly-on-windowsmac/"><u>Overcoming Technical Hurdles: A Guide to Running 'Disco Elysium' Flawlessly on Windows/Mac</u></a></li>
+<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-google-pixel-fold-by-fonelab-android-recover-data/"><u>Recover lost data from Google Pixel Fold</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-masterclass-eliminating-freezing-in-outriders-for-a-seamless-pc-gaming-session/"><u>Troubleshooting Masterclass: Eliminating Freezing in Outriders for a Seamless PC Gaming Session</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solutions-to-overcome-gta-5s-freezing-issues-easily/"><u>Ultimate Solutions to Overcome GTA 5'S Freezing Issues Easily</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unlock-the-best-singing-experience-with-elite-karaoke-machines-in-2e24/"><u>Unlock the Best Singing Experience with Elite Karaoke Machines in 2E24</u></a></li>
+</ul></div>
 

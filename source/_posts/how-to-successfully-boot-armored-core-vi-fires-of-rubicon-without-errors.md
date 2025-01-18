@@ -1,7 +1,7 @@
 ---
 title: "How to Successfully Boot Armored Core VI: Fires of Rubicon Without Errors?"
-date: 2024-08-18T19:14:38.560Z
-updated: 2024-08-19T19:14:38.560Z
+date: 2025-01-11T18:44:45.929Z
+updated: 2025-01-17T23:57:13.987Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/333b95c20ee75bfb354881848c952d7c6576f1601
 ## Trouble with Treys? Here's How to Thaw Out Call of Duty Black Ops Cold War
 
 It’s very frustrating when Call of Duty Black Ops Cold War keeps freezing on your PC. While it’s sometimes hard to identify the exact cause, there are simple tricks you can try to fix this issue. Check them out now!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OZQJUTr44rA?si=ADA0nD1VnXjR_sH0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -53,17 +57,15 @@ There are two ways for you to do this:
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/amd-5700-de-1.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Does the driver update mitigate the freezes and boost your game’s performance? If the problem reoccurs, please continue to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Disable fullscreen optimizations
 
  Fullscreen Optimizations is expected to improve games’ performance when they run in fullscreen mode, but that’s not always the case. If you keep running into Cold War freezing, you should disable this option.
@@ -77,14 +79,20 @@ Here are the steps:
 3. Click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/12.jpg)
 4. Tick**Override** **High DPI** **scaling behavior** and select**Application** from the drop-down menu below. Then, click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-3.jpg)
 5. Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/13.jpg)
 
  Launch your game to see if the freezing problem goes away. If not, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Scan and repair corrupted game files
 
@@ -94,19 +102,15 @@ Here are the steps:
 2. Select**Call of Duty: BOCW** on the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10.jpg)
 3. Click**Options** and click**Scan and Repair** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/14.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  After the process completes, relaunch the game to test the issue. If this fix doesn’t help, check out the last one.
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ### Fix 5 – Lower the in-game graphics settings
 
  Many players report Call of Duty Cold War can hardly run smoothly on the high or ultra graphics settings. So if you’ve attempted all the fixes above with no success, you may need to sacrifice the visuals and opt for the lower settings.
@@ -115,9 +119,11 @@ Here are the steps:
 2. Select the**Graphics** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-8.jpg)
 3. Lower the parameters under each section according to your needs.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/0-9.jpg)
 
  Check how things go. If the freezing problem is persistent, you can contact **[Blizzard’s support](https://support.activision.com/contact-us)**  for further assistance. Since Black Ops Cold War is a relatively new game, we’d wait for the upcoming patches to resolve those known bugs.
@@ -135,8 +141,6 @@ Here are the steps:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +148,20 @@ Here are the steps:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-2024-approved-chart-topping-content-youtubes-top-5/"><u>[New] 2024 Approved Chart-Topping Content YouTube's Top 5</u></a></li>
+<li><a href="https://techtrends.techidaily.com/complex-ideas/"><u>Complex Ideas</u></a></li>
+<li><a href="https://fix-guide.techidaily.com/how-to-resolve-oppo-a18-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Oppo A18 Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/immersive-futures-the-essence-of-vr-ar-and-mr-for-2024/"><u>Immersive Futures The Essence of VR, AR, & MR for 2024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/maximizing-visibility-unveiling-windows-11s-system-tray-and-hidden-items/"><u>Maximizing Visibility: Unveiling Windows 11'S System Tray & Hidden Items</u></a></li>
+<li><a href="https://win-blog.techidaily.com/securing-your-investment-in-windows-10-future-proofing-post-2025-through-paid-enhancements/"><u>Securing Your Investment in Windows 10 - Future-Proofing Post-2025 Through Paid Enhancements</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-virus-detected-dilemma-effortless-download-fixes-in-chrome/"><u>Solving the 'Virus Detected' Dilemma: Effortless Download Fixes in Chrome</u></a></li>
+<li><a href="https://win-blog.techidaily.com/spell-correction-now-available-the-new-update-for-microsofts-windows-11-notepad-app/"><u>Spell Correction Now Available: The New Update for Microsoft's Windows 11 Notepad App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-instructions-for-forcing-the-closure-of-unresponsive-programs-in-windows-10/"><u>Step-by-Step Instructions for Forcing the Closure of Unresponsive Programs in Windows 10</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/493085-9781439156193-the-generosity-plan/"><u>The Generosity Plan | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-why-is-my-new-hdd-invisible-to-windows-and-how-can-i-correct-it/"><u>Troubleshooting Guide: Why Is My New HDD Invisible to Windows and How Can I Correct It?</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/unlocking-media-content-how-to-use-handbrake-for-region-restricted-dvds/"><u>Unlocking Media Content: How to Use Handbrake for Region-Restricted DVDs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/upgrade-now-score-a-massive-87-discount-on-windows-11-pro/"><u>Upgrade Now: Score a Massive 87% Discount on Windows 11 Pro!</u></a></li>
+</ul></div>
 

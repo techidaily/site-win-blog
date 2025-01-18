@@ -1,7 +1,7 @@
 ---
 title: "Create a Custom Action: To Create Custom Actions, Visit <https://developers.google.com/assistant/sdk/docs/web-discovery> and Click on Web Discovery. Follow the Instructions Provided by Web Disco to Generate an App Engine URL for Your Action"
-date: 2024-08-18T19:16:11.813Z
-updated: 2024-08-19T19:16:11.813Z
+date: 2025-01-11T20:11:18.413Z
+updated: 2025-01-17T19:33:36.528Z
 tags:
   - win11
   - win10
@@ -60,6 +60,14 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/uninstall-1.jpg)
 3. Relaunch the game.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify integrity of game files
 
  Verify integrity of game files is a simple but useful fix for Steam games. Broken and missing files can cause the 2crashing issue. This fix can redownload files to fix crashes.
@@ -71,8 +79,9 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 4. Close Steam and relaunch the Witcher 3\. You should be good to go.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable Vsync from the options
 
  Vsync is a display option in 3D computer games that allow the gamer to lower the frame rate and get a better stability. It is possible that the crash is caused by the Vsynec option, you can turn off Vsync setting and see if it resolves the crashing issue.
@@ -81,20 +90,11 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 5. Turn off the**VSync** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/vSync.jpg)
 6. Relaunch the game and check the crash is resolved or not.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 
 ### Fix 4: Run the game in Full Screen and low settings
 
@@ -104,24 +104,20 @@ When you’re playing the Witcher 3: Wild Hunt, you suddenly encounter the crash
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. In the**Display Mode** , change the setting to the F**ull Screen** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/window.jpg)
 6. Change other settings to**LOW** .
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 7. Relaunch the game and check the crash is resolved or not.
 
 If this fix doesn’t help, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Remove the frame rate cap
 
  The Witcher 3 crashing issue can be tied to the frame rate. When you enter the game, the loading time will be affected by the frame rate in the engine. If you uncap the frame rate, the game speed can be doubled and reduce the chance of crashing.
@@ -130,17 +126,19 @@ If this fix doesn’t help, you can move to the next fix.
 2. Click**OPTIONS** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option-1.jpg)
 3. Click**VIDEO** .  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option1.jpg)
 4. Click**GRAPHICS** .
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 5. Change**Maximum Frames Per Second** into**Unlimited** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/frames.jpg)
 6. Relaunch the game and check the crash is resolved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Disable your third-party software
 
@@ -180,8 +178,17 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Run the Witcher 3 and check the crash will appear or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  We hope you find the above information helpful. And if you have any ideas, suggestions, or questions, feel free to leave a comment below.
 
@@ -193,8 +200,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -202,4 +207,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-achieving-high-clickthrough-rates-with-yt-thumbnails/"><u>[New] In 2024, Achieving High Clickthrough Rates with YT Thumbnails</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-square-it-up-your-complete-guide-to-instagram-ready-videos-in-imovie-for-2024/"><u>[New] Square It Up! Your Complete Guide to Instagram-Ready Videos in iMovie for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-2024-approved-tips-for-enhancing-online-presence-with-imovie-on-vimeo/"><u>[Updated] 2024 Approved Tips for Enhancing Online Presence with iMovie on Vimeo</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-crafting-perfect-youtube-channel-names-a-comprehensive-guide-for-video-content-creators-maximum-length-156-characters/"><u>[Updated] In 2024, Crafting Perfect Youtube Channel Names A Comprehensive Guide for Video Content Creators (Maximum Length 156 Characters)</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/2024-approved-earhearer-live-sound-critique/"><u>2024 Approved EarHearer Live Sound Critique</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/compatibilidad-de-codificacion-av1-con-el-programa-handbrake/"><u>Compatibilidad De Codificación AV1 Con El Programa HandBrake</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnite-multiplayer-connection-woes-overcoming-error-84-for-smooth-gaming-parties/"><u>Fortnite Multiplayer Connection Woes? Overcoming Error 84 for Smooth Gaming Parties</u></a></li>
+<li><a href="https://win11.techidaily.com/freedom-from-epic-game-launcher-in-windows-11-steps-explained/"><u>Freedom From Epic Game Launcher in Windows 11: Steps Explained</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tips-for-creating-highly-sharable-insta-unpacked-content/"><u>In 2024, Top Tips for Creating Highly Sharable Insta Unpacked Content</u></a></li>
+<li><a href="https://driver-download.techidaily.com/master-the-process-how-to-properly-setup-your-sandisk-solid-state-drive/"><u>Master the Process: How to Properly Setup Your Sandisk Solid State Drive</u></a></li>
+<li><a href="https://win-blog.techidaily.com/masterful-minds-at-work-solving-the-launch-problem-of-evil-genius-2/"><u>Masterful Minds at Work: Solving the Launch Problem of Evil Genius 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-profits-through-pc-gaming-mastering-the-art-of-infinite-wealth-with-how-to-fix-like-a-dragon/"><u>Maximizing Profits Through PC Gaming: Mastering the Art of Infinite Wealth with How to Fix Like a Dragon</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezes-in-assassins-creed-odyssey-advanced-troubleshooting-guide-for-gamers-pc/"><u>No More Freezes in Assassin's Creed Odyssey - Advanced Troubleshooting Guide for Gamers (PC)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-launch-issues-with-state-of-decay-game-update-top-tips-for-a-smooth-run/"><u>Resolving Persistent Launch Issues with State of Decay # Game Update – Top Tips for a Smooth Run</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-error-code-0xc19001e1-on-windows-11-a-comprehensive-guide/"><u>Resolving the 'Error Code 0xC19001E1' On Windows 11: A Comprehensive Guide</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-future-is-bright-with-google-pixel-9-expected-retail-tag-launch-dates-and-speculated-features-discussed/"><u>The Future Is Bright with Google Pixel 9: Expected Retail Tag, Launch Dates & Speculated Features Discussed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-fixing-checking-for-updates-in-microsoft-flight-simulator-2020-troubleshooting-tips/"><u>The Ultimate Guide to Fixing 'Checking For Updates' In Microsoft Flight Simulator 2020 - Troubleshooting Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-fixing-frame-drops-in-dragons-dogma-2-a-comprehensive-guide/"><u>Troubleshooting and Fixing Frame Drops in Dragon's Dogma 2: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wsappx-overuse-a-guide-on-curtailing-spiked-memory-and-processor-demands/"><u>WSAPPX Overuse: A Guide on Curtailing Spiked Memory and Processor Demands</u></a></li>
+</ul></div>
 

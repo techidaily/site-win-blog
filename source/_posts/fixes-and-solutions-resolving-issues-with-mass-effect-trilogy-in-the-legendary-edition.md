@@ -1,7 +1,7 @@
 ---
 title: "Fixes and Solutions: Resolving Issues with Mass Effect Trilogy in the Legendary Edition"
-date: 2024-08-18T19:13:59.949Z
-updated: 2024-08-19T19:13:59.949Z
+date: 2025-01-11T06:10:23.777Z
+updated: 2025-01-18T07:31:15.108Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/1e295c9ac73c2cf7b4e3fab8b993b16c3823b6dce
 ## Destiny Navigating the Challenges of Beyond Light Launch Crash Fixes on PC? Here Are Solutions
 
 Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the most popular PC games since release. However, according to many players, the game crashes either on launch or in the middle of the gameplay. That’s very irritating, but in fact, this problem can be fixed easily.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -40,9 +44,17 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 3. Select the**Local Files** tab, and click**Verify Integrity of Game Files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  It will take a few minutes for Steam to detect and repair any corrupted files. Upon completion, you can relaunch Beyond Light to see if it crashes again. If yes, proceed to more fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -69,20 +81,22 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-4.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). You can also click**Update** to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-5.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjGL9wFdlbo?si=Vb1JgZqRXNc03UGG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Test how Destiny 2 Beyond Light works after the driver update. If the crashes persist, move on to the next fix below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RCYs8keh-Vs?si=uDC28-9yh-k6HLj4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Set high priority
 
@@ -91,6 +105,11 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Right-click any empty space on the taskbar and click**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-4.jpg)
 2. Select the**Details** tab.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-1-5.jpg)
 3. Right-click the**Destiny 2: Beyond Light.exe file** . Then, mouse over**Set priority** and select**Above normal** or**High** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/3-2-3.jpg)
@@ -107,19 +126,10 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Right-click any blank area on the desktop, and click**NVIDIA Control Panel** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-3.jpg)
 2. Click**3D Settings** \>**Manage 3D settings** on the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-4-3.jpg)
 3. Under the Global Settings section, scroll down and**turn off Shader Cache** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-2.jpg)
 4. Go to**C:\\ProgramData\\NVIDIA Corporation\\NV\_Cache** and**delete the content of that folder** . (You can also copy them and store them elsewhere.)
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Launch Beyond Light again and the crashing problem should no longer occur. If not, go to Fix 5 below.
 
@@ -132,23 +142,13 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
 1. Open Steam and click the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-0.jpg)
 2. Right-click**Destiny 2 Beyond Light** and click**Manage** \>**Uninstall** .  
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-2.jpg)
 3. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
+
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 4. Go to this path:**C:\\Program Files (x86)\\Steam\\steamapps\\common** . Then, delete the**Destiny 2 Beyond Light** folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-1.jpg)
 
@@ -168,8 +168,6 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +175,22 @@ Destiny 2: Beyond Light, another gorgeous expansion for Destiny 2, is one of the
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-clips.techidaily.com/updated-detailed-methods-for-seamless-wirecast-livestreams-on-youtube/"><u>[Updated] Detailed Methods for Seamless WireCast Livestreams on YouTube</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/2024-approved-a-comprehensive-guide-accumulating-massive-amounts-of-tiktok-videos/"><u>2024 Approved A Comprehensive Guide Accumulating Massive Amounts of TikTok Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006250292-alien-fireteam-elite-game-stability-issues-on-pc-solved/"><u>Alien Fireteam Elite Game Stability Issues on PC - Solved</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/best-android-data-recovery-undelete-lost-messages-from-google-by-fonelab-android-recover-messages/"><u>Best Android Data Recovery - Undelete Lost Messages from Google</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beyond-capacity-limits-solving-god-of-wars-memory-exhaustion-problem/"><u>Beyond Capacity Limits: Solving God of War's Memory Exhaustion Problem</u></a></li>
+<li><a href="https://win-superb.techidaily.com/copy-clone-ide-hard-drive-onto-sata-hddssd-under-windows-11-10-8-or-prise/"><u>Copy (Clone) IDE Hard Drive Onto SATA HDD/SSD Under Windows 11, 10, 8 or Prise</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-pc-bug-fixes-enjoy-a-smooth-gaming-experience-now/"><u>Cyberpunk 2077 PC Bug Fixes - Enjoy a Smooth Gaming Experience Now!</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/download-the-best-free-anti-malware-software-for-windows-systems/"><u>Download the Best Free Anti-Malware Software for Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-how-to-stop-the-surge-2-from-continuously-crashing/"><u>Effective Solutions: How to Stop The Surge 2 From Continuously Crashing</u></a></li>
+<li><a href="https://extra-information.techidaily.com/examining-the-best-is-picku-leading-photo-enhancement-for-android-users/"><u>Examining the Best Is PickU Leading Photo Enhancement for Android Users?</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/how-to-download-and-update-logiteche-g403-gamepad-drivers-for-windows-10817-no-cost/"><u>How to Download and Update Logiteche G403 Gamepad Drivers for Windows 10/8.1/7 - No Cost</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/how-usechatgpts-co-pilot-extension-enhances-user-experience/"><u>How UseChatGPT's Co-Pilot Extension Enhances User Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-interruptions-essential-solutions-to-dead-by-daylights-crashing-issue-in-2-024/"><u>No More Interruptions: Essential Solutions to Dead by Daylight's Crashing Issue in 2 024</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/step-by-step-guide-eliminating-smart-tags-from-microsoft-excel-workbooks/"><u>Step-by-Step Guide: Eliminating Smart Tags From Microsoft Excel Workbooks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-for-resolving-metro-exodus-pc-game-crashes/"><u>Ultimate Troubleshooting Guide for Resolving Metro Exodus PC Game Crashes</u></a></li>
+</ul></div>
 

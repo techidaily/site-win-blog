@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2023 Now Running Smoothly After Previous Launch Difficulties
-date: 2024-08-18T19:13:56.280Z
-updated: 2024-08-19T19:13:56.280Z
+date: 2025-01-12T21:22:01.827Z
+updated: 2025-01-17T17:28:11.747Z
 tags:
   - win11
   - win10
@@ -41,14 +41,20 @@ Take Avast as an example:
 4. Click**Exception > Add Exception** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
 5. Find your fm.exe location. Click**BROWSE** to add exception.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-20-00.jpg)
 6. Relaunch the game to check.
 
 If it’s not your antivirus software, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nlwr9LjJ-ng?si=I6UNAtfBkY2FTceu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphic driver
 
  Updating your graphics driver can fix the issue most of the time, and it’s no harm to your PC but brings better performance.
@@ -75,10 +81,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -90,17 +92,18 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If this fix bring no luck, move to the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Disable overlay and launch in Windowed mode
 
@@ -110,13 +113,11 @@ If this fix bring no luck, move to the next fix.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
+
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  If it’s still not working, you may try resetting your whole PC. Note that you need to backup important files before resetting. Some players indicated the game started working normally after that.
@@ -131,8 +132,6 @@ If this fix bring no luck, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -140,4 +139,26 @@ If this fix bring no luck, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-introducing-sw320s-visionary-approach-to-4k-monitoring/"><u>[New] Introducing Sw320’s Visionary Approach to 4K Monitoring</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premiere-your-stories-with-free-templates/"><u>[New] Premiere Your Stories with Free Templates</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-tunefab-vs-competitors-screen-recorder-showdown/"><u>[Updated] Tunefab vs Competitors Screen Recorder Showdown</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-amoose1410-7985e-improve-graphics-and-speed-on-fallout-76-with-latest-fps-optimization-tips/"><u>Fallout Amoose_1410-7985e - Improve Graphics and Speed on Fallout 76 with Latest FPS Optimization Tips</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/future-of-microsoft-innovative-cloud-and-device-integration-in-upcoming-strategy-insights-from-zdnet/"><u>Future of Microsoft: Innovative Cloud and Device Integration in Upcoming Strategy - Insights From ZDNet</u></a></li>
+<li><a href="https://solve-popular.techidaily.com/guide-pratique-pour-demarrer-un-pc-lenovo-avec-une-cle-usb-sous-windows-11/"><u>Guide Pratique Pour Démarrer Un PC Lenovo Avec Une Clé USB Sous Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-on-pc-how-to-diagnose-and-repair-frequent-game-crashes/"><u>Guilty Gear Strive on PC - How to Diagnose and Repair Frequent Game Crashes</u></a></li>
+<li><a href="https://win-answers.techidaily.com/high-performance-video-quality-deciding-between-30-fps-and-60-fps-recording/"><u>High-Performance Video Quality: Deciding Between 30 FPS and 60 FPS Recording</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-correctly-fix-the-notorious-crossbow-bug-in-minecraft-gameplay/"><u>How to Correctly Fix the Notorious Crossbow Bug in Minecraft Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-launch-failures-of-final-testing-platforms-proven-fixes-challenges/"><u>Navigating Launch Failures of Final Testing Platforms - Proven Fixes Challenges</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-gameplay-performance-for-avatars-pandora-world/"><u>Optimizing Gameplay Performance for Avatar's Pandora World</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-rainbow-six-extraction-for-smoother-playback-and-higher-fps/"><u>Optimizing Rainbow Six Extraction for Smoother Playback and Higher FPS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-steam-freezing-problems-a-comprehensive-guide/"><u>Overcoming Steam Freezing Problems - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-lab.techidaily.com/passos-detalhados-para-transferir-sua-imagem-de-sistema-para-outro-hardware-tutoriais-abrangentes/"><u>Passos Detalhados Para Transferir Sua Imagem De Sistema Para Outro Hardware: Tutoriais Abrangentes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/red-dead-redemption-2-and-pc-compatibility-troubleshooting-common-crash-errors/"><u>Red Dead Redemption 2 and PC Compatibility – Troubleshooting Common Crash Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restoring-spatial-audio-a-step-by-step-fix-for-windows-users/"><u>Restoring Spatial Audio: A Step-by-Step Fix for Windows Users</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/step-by-step-guide-to-watching-the-matrix-trilogy-in-proper-order/"><u>Step-by-Step Guide to Watching The Matrix Trilogy in Proper Order</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/troubleshooting-your-zebra-zp450-a-step-by-step-driver-update-and-download-manual/"><u>Troubleshooting Your Zebra ZP450: A Step-by-Step Driver Update and Download Manual</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/ultimate-guide-restarting-your-ipad-on-any-model-with-ease/"><u>Ultimate Guide: Restarting Your iPad on Any Model with Ease</u></a></li>
+</ul></div>
 

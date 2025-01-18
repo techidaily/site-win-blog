@@ -1,7 +1,7 @@
 ---
 title: Fix Your Civilization VI Windows 10 Startup Issues – Effective Strategies and Solutions
-date: 2024-08-13T11:41:38.184Z
-updated: 2024-08-14T11:41:38.184Z
+date: 2025-01-17T07:10:48.103Z
+updated: 2025-01-18T05:54:17.244Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/21f134ff6252e8b65e4072cbcc9d1f7716bea3abe
 
 Hearthstone keeps crashing on startup or during a match? Making like a thousand attempts to relaunch it but it ends up not responding or shutting down? If you’re in the same situation, don’t panic. This post is going to help you with the irritating Hearthstone crashing on PC.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before getting started
 
  Before you begin troubleshooting, make sure your computer meets the minimum system requirements to launch Hearthstone. If it doesn’t, you have to run Hearthstone on another computer or upgrade your PC.
@@ -33,9 +30,6 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 
  After confirming your computer meets the minimum specs, you can move on towards the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  There are various causes for Hearthstone crashing, such as corrupt game files, outdated drivers, or conflicting third-party programs. We cover a set of easy and quick solutions that help other players solve the issue.
@@ -49,6 +43,10 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 5. **[Delete the Hearthstone folder](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Reinstall Hearthstone](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Run Hearthstone as administrator
 
@@ -67,8 +65,9 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LW6wNx3XAj8?si=VaIuFIIx8MM_RhUR" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your graphics driver
 
  An old, incompatible or faulty graphics driver will result in various gaming problems such as lagging, freezing and crashing. So if you’re an avid gamer and look forward to the smooth gameplay of Hearthstone, you should keep your GPU driver up to date at all times.
@@ -91,6 +90,10 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You could do it for free if you like, but it’s partly manual.
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -101,8 +104,9 @@ There are two ways you can update the graphics driver:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 – Scan and repair game files
 
  Corrupted or damaged game files can also be the culprits of gaming problems and errors. Fortunately, Blizzard offers a built-in tool to repair them easily.
@@ -112,10 +116,6 @@ There are two ways you can update the graphics driver:
 **2)** Click**Options** and click**Scan and Repair** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-1-3.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 
 **3)** Click**Begin Scan** .
 
@@ -137,9 +137,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Delete the Hearthstone folder
 
  Many users managed to start Hearthstone normally by deleting the Hearthstone folder. Here’s how:
@@ -156,6 +153,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6 – Perform a clean boot
 
  Some services or applications running in the background may also conflict with Hearthstone. A clean boot allows Windows to start up with only critical drivers and programs, so you’ll know if any other software is hindering your game.
@@ -163,15 +164,13 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **1)** Type**system configuration** in the search bar, and click**System Configuration** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select the**Services** tab. Then, check**Hide all Microsoft services** , and click**Disable all** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **3)** Select the**Startup** tab, and click**Open Task Manager** .
@@ -184,6 +183,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Go back to the System Configuration window, and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
@@ -191,9 +194,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **6)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-4.jpg)
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 
  After your computer restarts, launch Hearthstone to test if the issue has been solved.
 
@@ -204,8 +204,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**msconfig** and press**Enter** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **2)** Click the**Normal startup** button, and click**OK** .
@@ -215,8 +216,9 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **3)** Click**Restart** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-3.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Your computer will start normally after you finish this step. If the crashing issue persists, we’ve got a last fix for you.
@@ -230,16 +232,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **1)** Run Hearthstone. Then, click**Options** and click**Uninstall Game** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-1-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **2)** Select**Yes, Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-2-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **3)** Download the latest version of Hearthstone and double click the downloaded file to install it.
 
@@ -257,8 +253,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,4 +260,21 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/new-unparalleled-vr-game-setups-top-8-edition/"><u>[New] Unparalleled VR Game Setups Top 8 Edition</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-revitalizing-video-engagement-easy-steps-for-an-animated-subscribe-button-in-filmora/"><u>[Updated] Revitalizing Video Engagement Easy Steps for an Animated Subscribe Button in Filmora</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-the-ultimate-affordable-asmr-experience-awaits/"><u>[Updated] The Ultimate Affordable ASMR Experience Awaits</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/2024-approved-comprehensive-guide-to-whatsapp-vocal-exchange/"><u>2024 Approved Comprehensive Guide to WhatsApp Vocal Exchange</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/act-fast-secure-state-of-the-art-photo-restoration-techniques-today/"><u>Act Fast: Secure State-of-the-Art Photo Restoration Techniques Today</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/an-overview-and-comparative-study-of-googles-augmented-reality-stickers/"><u>An Overview and Comparative Study of Google's Augmented Reality Stickers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cod-modern-warfare-3-how-to-get-your-mobile-app-up-and-running-again-after-crashing/"><u>COD Modern Warfare 3: How to Get Your Mobile App Up and Running Again After Crashing</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/comprehensive-kootek-laptop-cooler-evaluation-an-excellent-choice-for-gamers-and-professionals/"><u>Comprehensive Kootek Laptop Cooler Evaluation: An Excellent Choice for Gamers and Professionals</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-your-poco-x5-pro-location-on-twitter-drfone-by-drfone-virtual-android/"><u>How to Change your Poco X5 Pro Location on Twitter | Dr.fone</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/how-to-use-ispoofer-on-honor-100-pro-drfone-by-drfone-virtual-android/"><u>How to use iSpoofer on Honor 100 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-to-reduce-frame-rate-fluctuations-and-lag-in-cod-black-ops-iv/"><u>Optimizing Performance to Reduce Frame Rate Fluctuations and Lag in COD Black Ops IV</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-connectivity-hurdles-in-new-world-fixing-common-errors/"><u>Overcoming Connectivity Hurdles in New World: Fixing Common Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-outriders-from-freezing-due-to-unreal-engine-issues-fixing-ue4-madness-errors-once-and-for-all/"><u>Stop Outriders From Freezing Due to Unreal Engine Issues - Fixing 'UE4-Madness' Errors Once and For All</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-battlefield-2042-and-directx-errors-our-step-by-step-solution-helps/"><u>Trouble with Battlefield 2042 and DirectX Errors? Our Step-by-Step Solution Helps!</u></a></li>
+</ul></div>
 

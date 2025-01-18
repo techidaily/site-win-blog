@@ -1,7 +1,7 @@
 ---
 title: "Solving Batman: Arkham Knight's Sudden System Failures & Serious Glitches"
-date: 2024-08-18T19:16:38.816Z
-updated: 2024-08-19T19:16:38.816Z
+date: 2025-01-13T03:01:16.281Z
+updated: 2025-01-17T17:39:51.469Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/15f46f7d0d38e67cb89897b04873987b9a53cd336
 ## Resolved: Steam Issues with Hitman Trilogy's Final Installment - Now Running Smoothly
 
 After a long wait, the[new Hitman installment](https://www.epicgames.com/store/en-US/p/hitman-3?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=ed55aa5edc5941de92fd7f64de415793) is finally here. While being the first AAA title released in 2021, Hitman 3 is not immune from issues. Upon its arrival, many gamers start reporting a**game not launching** error. But don’t worry if you happen to be on the same boat. Down below we’ve put together some working fixes to help restore your assassin identity. Try them and get your game working right away.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -51,26 +55,29 @@ Here’s how:
 1. On your keyboard, press Win (the Windows logo key) and type Epic Games. In the search results, select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin.jpg)
 2. Now try to launch Hitman 3\. If this trick works for you, continue to the next step to**always run Epic Games launcher as administrator** . Otherwise you can jump to the next fix.
+
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 3. On your desktop, right-click**Epic Game launcher** and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-2.jpg)
 4. Navigate to the**Compatibility** tab. Under the**Settings** section, check the box next to**Run this program as an administrator** . Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-games-launcher-run-as-admin-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
+
 ### Fix 3: Launch Hitman 3 from game folder
 
  The game not launching error might come from the game launcher. Some gamers reported on[reddit](https://www.reddit.com/r/HiTMAN/comments/l1qlc7/cant%5Flaunch%5Fthe%5Fgame%5Fat%5Fall%5Fon%5Fepic/) that when they failed to start Hitman 3 from Epic Games launcher, one possible workaround is to launch it using the**hitman3.exe** file in the game folder. So you can try this trick and see how things go.
 
  If you can’t launch Hitman 3 directly from the game folder, take a look at the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -98,9 +105,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -118,25 +122,23 @@ Here’s how you can check for updates manually:
 1. On your keyboard, press **Win** (the Windows logo key). At the bottom left corner of your screen, click the**gear icon** to open Settings.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-gear-icon.jpg)
 2. Scroll down and select**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update.jpg)
 3. Click**Windows Update** .  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-2.jpg)
 4. Click**Check for updates** . Then wait for the process to complete. After that, restart your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/windows-10-start-menu-open-settings-update-3.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
 
  After getting all the system updates, restart your gaming rig and check if Hitman 3 works now.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4DJKH1uY7P0?si=tCG66XVlbwSKoATj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Check if it’s a server issue
 
@@ -152,8 +154,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +161,22 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-overcoming-the-hurdle-of-non-uploading-facebook-story-videos-for-2024/"><u>[New] Overcoming the Hurdle of Non-Uploading Facebook Story Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-building-sustainable-cities-innovation-in-environmental-design/"><u>[Updated] In 2024, Building Sustainable Cities Innovation in Environmental Design</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-secrets-to-an-effective-youtube-closure/"><u>[Updated] Secrets to an Effective YouTube Closure</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-navigating-creator-studio-your-expert-manual/"><u>2024 Approved Navigating Creator Studio Your Expert Manual</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723011127680-continuous-youtube-audios-intermittent-videos-fix-playback-hiccups-on-chrome-and-firefox/"><u>Continuous YouTube Audios, Intermittent Videos? Fix Playback Hiccups on Chrome and Firefox</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-repairing-directx-errors-in-ea-sports-fifa-20-a-comprehensive-fix-guide/"><u>DIY: Repairing DirectX Errors in EA Sports' FIFA 20 - A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-cyberpunk-2077-gpu-handling-issues-on-your-windows/"><u>Fixing Cyberpunk 2077 GPU Handling Issues on Your Windows</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-resolve-unresponsive-headphones-in-windows-11/"><u>How to Resolve Unresponsive Headphones in Windows 11</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-lightrooms-favorite-color-grads-and-luts-compilation/"><u>In 2024, LightRoom's Favorite Color Grads and LUTs Compilation</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-mastering-lock-screen-settings-how-to-enable-and-disable-on-xiaomi-redmi-a2-by-drfone-android/"><u>In 2024, Mastering Lock Screen Settings How to Enable and Disable on Xiaomi Redmi A2</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/master-your-online-presence-with-manycam-leading-virtual-webcam-solution-for-live-videos/"><u>Master Your Online Presence with ManyCam - Leading Virtual Webcam Solution for Live Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-issue-why-doesnt-my-rust-application-keep-closing-unexpectedly/"><u>Resolving the Issue: Why Doesn't My Rust Application Keep Closing Unexpectedly?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-7-solutions-to-overcome-the-stubbornly-loaded-forza-horizon-5-freeze/"><u>Top 7 Solutions to Overcome the Stubbornly Loaded Forza Horizon 5 Freeze</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-preventing-cities-skylines-pc-malfunctions-and-crashes/"><u>Troubleshooting Tips for Preventing 'Cities: Skylines' PC Malfunctions and Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-dread-hunger-keeps-freezing-on-your-pc-solve-the-issue-now/"><u>Why Does Dread Hunger Keeps Freezing on Your PC? - Solve the Issue Now</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Fixing the Issue: NieR: Automata Freezing Glitch Resolved"
-date: 2024-08-13T11:42:01.203Z
-updated: 2024-08-14T11:42:01.203Z
+date: 2025-01-16T01:24:31.515Z
+updated: 2025-01-17T20:10:12.958Z
 tags:
   - win11
   - win10
@@ -35,21 +35,23 @@ Valheim is an enjoyable survival/ open-world exploration sandbox. But players st
  1) Open your Steam Client. Under the **LIBRARY**  tab, find your game title and right-click it. Then select **Properties** .  
   
 ![verify integrity of game files Valheim](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-intergrity-of-game-files-properties-2.png)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 
  2) Select **LOCAL FILES**  and then click on the **Verify integrity of game files…**  tab.  
   
 ![verify integrity of game files Valheim](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-integrity.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0dOfcihxjiw?si=_fkp1S1Uw0N1dp6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will take some minutes to redownload and replace any missing or corrupted game files. Simply wait for the process to complete. After that, you can launch Valheim and check if the stuttering and freezing are frequent.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update your game
 
  Devs keep rolling out updates to fix the known game bugs and bring further optimization tweaks to make sure that players can enjoy the most from playing Valheim. Therefore, it’s always a good idea to keep your game updated to have the best gaming experience.
@@ -67,35 +69,21 @@ Here’s how you can check if your game version is up-to-date:
  3) Click on the **DOWNLOADING**  tab located at the bottom of the screen to see if you have any update pending. If not, click **Steam** in the top left and then click **Exit** .
 
 ![how to update Valaheim](https://images.drivereasy.com/wp-content/uploads/2021/03/downloads-tab.png)
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  After restarting Steam, it should check for an update especially after the next time you launch Valheim.
 
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Update your graphics driver
 
  Graphical glitches or other performance issues such as freezing and stuttering may be caused by an outdated or corrupted graphics driver. Therefore, if you can’t remember when was the last time you updated your drivers, definitely do it right now as it would fix your issue with no hassle.
 
  There are mainly two ways you can update your graphics driver: [manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Option 1: Manually update your graphics driver
 
  If you’re familiar with computer hardware, you can update your graphics driver manually by going to the manufacturer’s official website:
@@ -104,6 +92,10 @@ Here’s how you can check if your game version is up-to-date:
 [AMD](https://www.amd.com/en/support)
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 2: Automatically update your graphics driver (recommended)
 
@@ -114,17 +106,15 @@ Here’s how you can check if your game version is up-to-date:
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -133,9 +123,9 @@ Here’s how you can check if your game version is up-to-date:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Run your game as administrator
 
  Sometimes, programs might not function properly just because they lack the administrative rights. The same could apply to your Valheim. To check if that’s your case, you should run Valheim as an administrator:
@@ -147,9 +137,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  2) Find the valheim.exe file. Right-click it and select**Properties** .  
   
 ![run Valheim as administrator](https://images.drivereasy.com/wp-content/uploads/2021/03/administrator-propertities.png)
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
  3) Select the**Compatibility** tab. Check the box next to**Run this program as an administrator** . Then click**Apply > OK** .  
   
@@ -178,10 +165,9 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Valheim and select **End task** .
 
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  After you’ve done these, try to play Valheim to check if your game still stutters or freezes.
@@ -196,8 +182,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +189,26 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-in-2024-delving-into-t-series-revenue-generation-on-video-platforms/"><u>[New] In 2024, Delving Into T-Series' Revenue Generation on Video Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-guide-troubleshooting-and-repairing-ark-downfall-instances/"><u>Comprehensive Guide: Troubleshooting and Repairing ARK Downfall Instances</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-the-code-resolve-error-80070057-in-call-of-duty-black-ops-cold-war-easily/"><u>Cracking the Code: Resolve Error 80070057 in Call of Duty: Black Ops Cold War Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/demystifying-advanced-features-of-llama-2-software/"><u>Demystifying Advanced Features of Llama 2 Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-stop-hogwarts-legacy-game-from-freezing-at-boot-up-with-these-8-tips/"><u>Effective Strategies: Stop Hogwarts Legacy Game From Freezing at Boot-Up with These 8 Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-crash-error-for-a-smooth-football-manager-2022-experience-on-your-computer/"><u>Fixing the Crash Error for a Smooth Football Manager 2022 Experience on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-how-to-prevent-madden-21-from-crashing-on-your-computer/"><u>Fixing the Issue: How to Prevent Madden 21 From Crashing on Your Computer</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-music-from-infinix-note-30-vip-by-fonelab-android-recover-music/"><u>How to retrieve erased music from Infinix Note 30 VIP</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-vivo-y36-drfone-by-drfone-android/"><u>How to Screen Mirroring Vivo Y36? | Dr.fone</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/in-2024-easy-steps-to-obscure-identities-in-piscart/"><u>In 2024, Easy Steps to Obscure Identities in PiscArt</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-how-to-unlock-sim-cards-of-honor-x7b-without-puk-codes-by-drfone-android/"><u>In 2024, How To Unlock SIM Cards Of Honor X7b Without PUK Codes</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-top-10-free-harmonies-for-deep-calm-meditation-sessions/"><u>In 2024, Top 10 Free Harmonies for Deep, Calm Meditation Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994718198-iphone-not-showing-up-in-itunes-on-windows-11-heres-how-to-solve-it/"><u>IPhone Not Showing Up in iTunes on Windows 11? Here's How to Solve It!</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-xiaomi-redmi-k70-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Xiaomi Redmi K70 ProFRP Lock</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/new-2024-approved-the-best-free-wmv-video-concatenation-software/"><u>New 2024 Approved The Best Free WMV Video Concatenation Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-error-code-6-in-call-of-duty-modern-warfare-battlefield-on-pc/"><u>Resolved: Fixing Error Code 6 in Call of Duty: Modern Warfare / Battlefield on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-constant-game-lockups-a-guide-for-new-world-players/"><u>Resolving Constant Game Lockups: A Guide for New World Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-getting-your-epic-games-launcher-up-and-running-again/"><u>Troubleshooting Tips: Getting Your Epic Games Launcher Up and Running Again</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/zexmt-bluetooth-adapter-secure-your-free-driver-download-for-optimal-performance-on-windows-os/"><u>Zexmt Bluetooth Adapter - Secure Your Free Driver Download for Optimal Performance on Windows OS</u></a></li>
+</ul></div>
 

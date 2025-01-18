@@ -1,7 +1,7 @@
 ---
 title: "PC Game Performance Improvement: Fixing the Concurrent Drop in Frames Per Second (FPS)"
-date: 2024-08-18T19:15:13.879Z
-updated: 2024-08-19T19:15:13.879Z
+date: 2025-01-15T01:03:32.213Z
+updated: 2025-01-17T17:29:37.327Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ GTFO
 5. **[Disable overlays](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable background recording and Xbox Game Bar](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Install the latest game patch
 
  10 Chambers, the developers of GTFO, releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -39,6 +43,10 @@ GTFO
  If a patch is available, it will be detected by Steam, and the latest game patch will be automatically downloaded and installed when you launch the game.
 
  Run GTFO and see if the FPS is back to normal. If the in-game FPS still drops, or there are no new game patch available, move on to next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -68,9 +76,6 @@ There are mainly two methods for you to update the graphics driver:
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Set the power plan of your PC for high performance
 
  Windows power plans are designed to manage how your computer consumes and conserves power. You may encouter FPS drops when your computer is using the balanced or power saver plan.
@@ -84,10 +89,11 @@ There are mainly two methods for you to update the graphics driver:
 2. In the pop-up window, expand **Hide additional plans** and select **High performance** .  
 ![control panel power options](https://images.drivereasy.com/wp-content/uploads/2019/07/control-panel-power-options.png)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Run GTFO and check if you get a better PFS. If the GTFO FPS drops again, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Modify graphics card settings
 
@@ -114,15 +120,8 @@ There are mainly two methods for you to update the graphics driver:
 2. Go to **Gaming** **\>** **Global Settings** . Then modify the settings the same way you see on the screenshot below.  
 ![AMD Radeon Settings](https://images.drivereasy.com/wp-content/uploads/2018/12/AMD-Radeon-Settings.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Launch GTFO and see if the in-game FPS improves. If not, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ## Disable overlays
 
  Overlays are handy, but according to many PC gamers, they sometimes may interfere with GTFO and even introduces performance issues and compatibility issues. If the fixes above didn’t give you a obvious FPS boost, then try disabling overlays before playing the game.
@@ -135,15 +134,17 @@ There are mainly two methods for you to update the graphics driver:
 ![Disable the Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-the-Steam-Overlay-It-Takes-Two.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If you’re using other apps with overlay features like Discord, Nvidia GeForce Experience, Twitch, etc., ensure you’ve disabled the in-game overlay in those apps feature before you restart the game.
 
  Run GTFO again after you disabled all the in-game overlays and see if the in-game FPS increases. If this issue persists, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Disable background recording and Xbox Game Bar
 
  Those who love sharing game highlight videos would love Xbox Game Bar and the background recording feature in Windows 10 and Windows 11\. However, once thesefeatures are enabled, they’ll constantly run in the background, hogging tons of resources.
@@ -155,11 +156,13 @@ There are mainly two methods for you to update the graphics driver:
 2. **Turn off** the toggle under **Xbox Game Bar** if it is turned on.  
 ![Turn off Xbox Game Bar](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-Xbox-Game-Bar.jpg)
 3. Click **Captures** on the left, then **turn off** the toggle udner **Background recording** if it is turned on.  
-![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![Turn off background recording](https://images.drivereasy.com/wp-content/uploads/2021/04/Turn-off-background-recording.jpg)
+
 Launch GTFO to see you can play it smoothly.
 
 ---
@@ -176,8 +179,6 @@ Launch GTFO to see you can play it smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +186,26 @@ Launch GTFO to see you can play it smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-in-2024-altering-screenshot-file-types-on-a-macintosh/"><u>[New] In 2024, Altering Screenshot File Types on a Macintosh</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/airpod-care-matters-mastering-cleanse-and-sterilization-methods-with-expert-tips-from-zdnet/"><u>AirPod Care Matters: Mastering Cleanse & Sterilization Methods with Expert Tips From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-cod-vanguards-n-error-code-0x00001338-on-pc-unlock-your-gameplay-now/"><u>Bypassing CoD: Vanguard's N Error Code 0X00001338 on PC – Unlock Your Gameplay Now</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-music-from-nubia-z60-ultra-by-fonelab-android-recover-music/"><u>Easy steps to recover deleted music from Nubia Z60 Ultra</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-to-overcome-network-lag-problems-in-valheim-on-pc/"><u>Effective Strategies to Overcome Network Lag Problems in Valheim on PC</u></a></li>
+<li><a href="https://program-issues.techidaily.com/expert-guide-fixing-stutter-and-boosting-frame-rates-in-the-division-2s-latest-update/"><u>Expert Guide: Fixing Stutter and Boosting Frame Rates in The Division 2'S Latest Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-unresponsive-call-of-duty-vanguard-issues-freezing-errors-and-how-to-overcome-them/"><u>Fix Unresponsive Call of Duty: Vanguard Issues - Freezing Errors & How to Overcome Them</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hell-let-loose-pc-bug-solved-enjoy-uninterrupted-gaming/"><u>Hell Let Loose PC Bug Solved – Enjoy Uninterrupted Gaming!</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-nokia-c12-plus-to-mac-drfone-by-drfone-android/"><u>How to Mirror Nokia C12 Plus to Mac? | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-simulate-gps-movement-with-location-spoofer-on-motorola-moto-g-5g-2023-drfone-by-drfone-virtual-android/"><u>How To Simulate GPS Movement With Location Spoofer On Motorola Moto G 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-google-play-location-on-itel-s23plus-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Google Play Location On Itel S23+ | Dr.fone</u></a></li>
+<li><a href="https://article-posts.techidaily.com/in-2024-soundscapes-of-restfulness-high-rated-asmr-experts/"><u>In 2024, Soundscapes of Restfulness High-Rated ASMR Experts</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/instagram-vids-determining-the-perfect-dimensions/"><u>Instagram Vids Determining the Perfect Dimensions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/lock-your-honor-play-7t-phone-in-style-the-top-5-gesture-lock-screen-apps-by-drfone-android/"><u>Lock Your Honor Play 7T Phone in Style The Top 5 Gesture Lock Screen Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008570364-pc-gaming-boosted-eliminating-the-concurrent-2-fps-slump-now-solved/"><u>PC Gaming Boosted: Eliminating the Concurrent 2-FPS Slump - Now Solved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/remember-the-importance-of-supplements-such-as-b12-and-potentially-others-depending-on-individual-health-status-which-can-be-discussed-with-a-healthcare-pro536/"><u>Remember the Importance of Supplements Such as B12 and Potentially Others Depending on Individual Health Status, Which Can Be Discussed with a Healthcare Provider</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-last-epoch-pc-release-issue-comprehensive-guide-and-fixes/"><u>Solving the 'Last Epoch' PC Release Issue: Comprehensive Guide & Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-successfully-boot-up-avatars-expansion-pack-pandora-unveiled/"><u>Steps to Successfully Boot Up Avatar's Expansion Pack: Pandora Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-5-faultless-solutions-to-fix-world-of-warships-crashes-on-windows/"><u>Top 5 Faultless Solutions to Fix World of Warships Crashes on Windows</u></a></li>
+</ul></div>
 

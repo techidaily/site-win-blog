@@ -1,7 +1,7 @@
 ---
 title: How to Solve the FIFA 21 Crash Problem for Windows Users - Detailed Guide
-date: 2024-08-18T19:15:57.140Z
-updated: 2024-08-19T19:15:57.140Z
+date: 2025-01-14T06:53:29.772Z
+updated: 2025-01-17T16:01:24.948Z
 tags:
   - win11
   - win10
@@ -16,6 +16,10 @@ thumbnail: https://thmb.techidaily.com/5da3799a8bedda4d69cf1376b93deacb85f38c0ac
 ## How to Resolve Madden NFL 20 for PC Stability Problems - Solutions Inside
 
 Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not alone! While this is a very frustrating issue, it can be fixed…
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## How to fix**Madden 20** crashing
 
@@ -53,9 +57,6 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Make sure your PC meets the system requirements of Madden 20
 
  Madden may also crash if your PC fails to meet its system requirements. So you should check your PC specs to see if it meets the system requirement for Madden 20.
@@ -87,15 +88,17 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-13.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) Under the **System** tab and you can check the **Operating System**  and **Memory** information on your PC.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-526.png)
 
 <!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6xGqSETroqA?si=4C1GPgXi-AksR_oO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Click the **Display** tab and you can check what **graphics card** your PC is using.
 
  4) Close DirectX.
@@ -107,6 +110,10 @@ Trying to play**Madden 20** but**it keeps crashing** ? You’re certainly not al
  Hardware components up-to-date but M20 still crashes? Don’t worry – here are a few more fixes for you to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Repair Madden 20
 
@@ -134,9 +141,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Origin and Madden 20
 
  If the above steps don’t solve the issue, then it’s likely that the files in Origin or Madden 20 are corrupt. So you can reinstall the client and the game to see if it solves the problem.
@@ -148,16 +152,13 @@ Here are the steps:
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-174.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  2) In the program list, locate **Origin** , then right-click on it and click**Uninstall** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-175-1024x499.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
  4) Locate **Madden 20** and uninstall it too.
 
  5) Restart your computer.
@@ -180,8 +181,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +188,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-smarter-spending-on-cloud-data-services-insights-and-recommendations/"><u>[New] 2024 Approved Smarter Spending on Cloud Data Services Insights & Recommendations</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-2024-approved-mac-users-guide-to-stellar-tiktok-beginnings/"><u>[Updated] 2024 Approved Mac Users' Guide to Stellar TikTok Beginnings</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-guide-to-retrieving-and-saving-gifs-from-facebooks-domain/"><u>[Updated] In 2024, Guide to Retrieving and Saving GIFs From Facebook's Domain</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-leading-makers-premium-instagram-highlight-craftsmen/"><u>[Updated] In 2024, Leading Makers Premium Instagram Highlight Craftsmen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013114752-directx-glitch-in-anno-1800-heres-your-ultimate-solution/"><u>DirectX Glitch in Anno 1800? Here's Your Ultimate Solution!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/fixing-the-opengl32dll-error-comprehebrative-troubleshooting-techniques/"><u>Fixing the 'OpenGL32.dll' Error - Comprehebrative Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-crash-problem-a-step-by-step-solution-for-slime-rancher-2-pc-glitches/"><u>Fixing the Crash Problem: A Step-by-Step Solution for 'Slime Rancher 2' PC Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/future-proof-your-gameplay-ps5-vs-ps4-pro-edition/"><u>Future-Proof Your Gameplay: PS5 vs PS4 Pro Edition</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-pc-screen-to-honor-80-pro-straight-screen-edition-phones-drfone-by-drfone-android/"><u>How to Mirror PC Screen to Honor 80 Pro Straight Screen Edition Phones? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-ways-to-move-contacts-from-nokia-c110-to-iphone-131415-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Ways to Move Contacts From Nokia C110 to iPhone (13/14/15) | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-utorrent-performance-ensuring-stable-peer-connections-and-continuous-downloads/"><u>Mastering uTorrent Performance: Ensuring Stable Peer Connections and Continuous Downloads</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-mac-video-editing-install-lumafusion-or-try-these-other-options/"><u>New In 2024, Mac Video Editing Install Lumafusion or Try These Other Options</u></a></li>
+<li><a href="https://win-brilliant.techidaily.com/paso-a-paso-para-realizar-copias-simultaneas-con-robocopy-en-el-entorno-de-windows-tecnicas-avanzadas/"><u>Paso a Paso Para Realizar Copias Simultáneas Con Robocopy en El Entorno De Windows: Técnicas Avanzadas</u></a></li>
+<li><a href="https://win-blog.techidaily.com/star-wars-squadrons-game-issue-resolved/"><u>STAR WARS Squadrons Game Issue Resolved</u></a></li>
+</ul></div>
 

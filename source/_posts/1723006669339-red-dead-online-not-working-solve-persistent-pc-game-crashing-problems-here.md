@@ -1,7 +1,7 @@
 ---
 title: Red Dead Online Not Working? Solve Persistent PC Game Crashing Problems Here
-date: 2024-08-18T19:15:17.060Z
-updated: 2024-08-19T19:15:17.060Z
+date: 2025-01-15T06:04:10.733Z
+updated: 2025-01-17T18:40:59.239Z
 tags:
   - win11
   - win10
@@ -54,6 +54,10 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 5. **[Stop overclocking your GPU](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Install Graphic Tools](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify game integrity
 
  The first thing to do when Red Dead Online crashes (or any game crashes) is to verify the game integrity. Corrupt or incomplete game files can cause your game to crash. To see if this is the culprit, here’s how:
@@ -65,9 +69,6 @@ Rock Star has finally launched[Red Dead Online](https://www.rockstargames.com/re
 5. Select the**Local files** tab and click the**Verify integrity of game files…** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-on-Steam-1.png)
 6. Steam will verify the game’s files – this process may take several minutes.
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If you’re on Rockstar game launcher, you can verify integrity by:
 
@@ -82,8 +83,9 @@ If you’re on Rockstar game launcher, you can verify integrity by:
  In addition, another possible cause of Red Dead Online crashing is your**antivirus software** . Disabling some of these services won’t always work. You can temporarily uninstall the software or add Red Dead Online to its exclusions.
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run Red Dead Online as admin
 
  Red Dead Online crashing can be caused by a lack of admin rights. So it’s recommended to run Red Dead Online as administrator.
@@ -128,23 +130,18 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-driver-now.jpg)
 4. Restart your computer for the changes to take effect.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Stop overclocking your GPU
 
  If your Red Dead Online is still crashing, the reason might be your GPU. If you’re overclocking your GPU, you can revert it back to its default GPU clock.
@@ -155,13 +152,15 @@ OR
 2. Go to**Manage 3D Settings** on the left pane. Then select**Program Settings** \> select**Red Dead Online** /**Red Dead Redemption 2** .  
 ![program settings](https://images.drivereasy.com/wp-content/uploads/2021/01/manage-3d-settings.png)
 3. Turn on**Max FPS Limit** and set the value to**30** . This will lock the game to 30 FPS and will reduce CPU and GPU load.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Install Graphics Tools
 
  Some players find adding a Graphics Tool helped fix their Red Dead Online crashing issue. So if these methods above didn’t do the trick, you may want to have a try:
@@ -175,6 +174,10 @@ OR
 5. If not, you can go to**Graphics Settings** \>**Advanced Graphics** , and make sure**Graphics API** is set to**DirectX 12** .  
 ![change Vulkan to DX12](https://images.drivereasy.com/wp-content/uploads/2021/01/DX12.png)
 6. If changing it to DX12 didn’t help, you can try reverting it back to Vulkan.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -192,8 +195,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +202,22 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-info.techidaily.com/new-free-football-filming-and-editing-essentials-for-2024/"><u>[New] Free-Football Filming & Editing Essentials for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-distortion-driven-the-artists-guide-to-altered-text-for-2024/"><u>[Updated] Distortion Driven The Artist's Guide to Altered Text for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-gaming-lags-on-your-desktop-the-ultimate-guide-to-optimizing-in-202-cuffs/"><u>Beat Gaming Lags on Your Desktop - The Ultimate Guide to Optimizing in 202 Cuffs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/black-ops-cold-war-error-xc0000005-a-comprehensive-fix-guide/"><u>Black Ops Cold War Error XC0000005: A Comprehensive Fix Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-dutys-modern-warfare-fps-game-error-corrected-now-available/"><u>Call of Duty's Modern Warfare FPS Game Error Corrected, Now Available</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/complete-guide-for-recovering-video-files-on-nokia-c110-by-fonelab-android-recover-video/"><u>Complete guide for recovering video files on Nokia C110</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/2098150-9781459733473-creepy-capital/"><u>Creepy Capital | Free Book</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/cultivating-respectful-dialogue-with-voice-assistants-and-ai/"><u>Cultivating Respectful Dialogue With Voice Assistants & AI</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/expert-analysis-of-the-affordable-fitbit-versa-lite-exceptional-value-in-fitness-tracking/"><u>Expert Analysis of the Affordable Fitbit Versa Lite - Exceptional Value in Fitness Tracking!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-ls-0013-startup-failure-in-fortnite-a-comprehensive-guide/"><u>How to Overcome the LS-0013 Startup Failure in Fortnite – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-resolve-pc-crashes-while-playing-crusader-kings-iii/"><u>How to Prevent and Resolve PC Crashes While Playing Crusader Kings III</u></a></li>
+<li><a href="https://win-blog.techidaily.com/perpetual-endurance-celebrating-the-timeless-saga-of-black-empowerment-and-overcoming-adversity/"><u>Perpetual Endurance: Celebrating the Timeless Saga of Black Empowerment and Overcoming Adversity</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/refining-ai-conversation-top-10-changes-for-chatgpt/"><u>Refining AI Conversation: Top 10 Changes for ChatGPT</u></a></li>
+<li><a href="https://some-tips.techidaily.com/unlock-your-potential-with-expert-picked-video-stabilization-tools-for-2024/"><u>Unlock Your Potential with Expert-Picked Video Stabilization Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-your-rust-code-keep-halt-understanding-and-fixing-the-issue/"><u>Why Does Your Rust Code Keep Halt? Understanding & Fixing the Issue</u></a></li>
+</ul></div>
 

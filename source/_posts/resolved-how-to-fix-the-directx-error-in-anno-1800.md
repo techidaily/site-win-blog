@@ -1,7 +1,7 @@
 ---
 title: "Resolved: How to Fix the DirectX Error in Anno 1800"
-date: 2024-08-18T19:16:49.631Z
-updated: 2024-08-19T19:16:49.631Z
+date: 2025-01-17T08:06:08.730Z
+updated: 2025-01-18T04:04:58.410Z
 tags:
   - win11
   - win10
@@ -52,8 +52,9 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
  If your internet connection is solid but the error persists, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Verify the game files
 
  If your local game files are missing or corrupted, it could trigger random issues. You can use the Steam client to scan and repair your game files. Although it’s hard to identify if this is the root cause of the no ping error, verifying the game files can help prevent other game issues. Here’s how:
@@ -62,17 +63,20 @@ thumbnail: https://thmb.techidaily.com/ec6a38fe400edc5e6e73e620d9d698315f5baa3de
 2. Right-click the game, then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties-1.jpg)
 3. Under the**local files** tab, click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files-1.jpg)
 4. This process may take a while. Once the scan is complete, restart the game to see if you still get the error.
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 If the error returns, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your network driver
 
  The error may suggest a driver issue. An outdated or faulty network driver could trigger connection errors for gaming. You may need to check your network driver to see if it’s up-to-date and functioning properly.
@@ -91,13 +95,14 @@ If the error returns, try the next fix.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Restart your PC for the new drivers to take effect. If updating your network driver doesn’t help, try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 5: Configure DNS settings
 
@@ -117,14 +122,13 @@ If the error returns, try the next fix.
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
-![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. We’ll use the Google DNS server as an example. Here’s how:
@@ -134,13 +138,14 @@ If the error returns, try the next fix.
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
@@ -148,13 +153,11 @@ If the error returns, try the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  If changing the DNS settings doesn’t solve your problem, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 6: Use a VPN
 
  Some players reported that they’ve been able to solve the error by using a VPN. A reliable gaming VPN grants you access to different servers, helps prevent bandwidth throttling, and builds a secure connection. As briefly mentioned above, you may actually need to use a VPN for Halo Infinite if you’re on a school network.
@@ -177,8 +180,6 @@ If the error returns, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -186,4 +187,26 @@ If the error returns, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://video-screen-grab.techidaily.com/new-your-first-venture-into-hosting-effective-zoom-webinars/"><u>[New] Your First Venture Into Hosting Effective Zoom Webinars</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-unparalleled-narratives-yt-channels-worth-watching-in-23/"><u>[Updated] 2024 Approved Unparalleled Narratives YT Channels Worth Watching in '23</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-win11s-finest-screen-recorder-software-insights/"><u>[Updated] Win11's Finest Screen Recorder Software Insights</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/2024-approved-flawless-fast-windows-picture-sight/"><u>2024 Approved Flawless Fast Windows Picture Sight</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/approved-rapid-fire-success-strategies-the-essential-list-of-20-video-tips/"><u>2024 Approved Rapid-Fire Success Strategies The Essential List of 20 Video Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clear-your-game-startup-hurdle-in-helldivers-a-fix-for-the-blackout-beginning/"><u>Clear Your Game Startup Hurdle in Helldivers √: A Fix for the Blackout Beginning</u></a></li>
+<li><a href="https://win-blog.techidaily.com/embark-on-a-thrilling-days-gone-first-person-shooter-journey-exclusively-for-pc-players/"><u>Embark On A Thrilling 'Days Gone' First-Person Shooter Journey, Exclusively for PC Players!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-increase-frames-per-second-fps-in-the-f1-2021-racing-simulator-for-pc-players/"><u>Expert Tips to Increase Frames Per Second (FPS) in the F1 2021 Racing Simulator for PC Players</u></a></li>
+<li><a href="https://fox-info.techidaily.com/from-disconnected-sounds-to-cohesive-scenes-with-audacity/"><u>From Disconnected Sounds to Cohesive Scenes with Audacity</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-v-fix-overcoming-the-d3d-initialization-error-errgfxd3dinit/"><u>Grand Theft Auto V Fix: Overcoming the D3D Initialization Error (ERR_GFX_D3D_INIT)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-sim-card-on-poco-x5-online-without-jailbreak-by-drfone-android/"><u>How to Unlock SIM Card on Poco X5 online without jailbreak</u></a></li>
+<li><a href="https://games-able.techidaily.com/invisibility-is-the-enemy-unveiling-strategies-for-comprehensive-security-insights-from-zdnet/"><u>Invisibility Is the Enemy: Unveiling Strategies for Comprehensive Security - Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-overcoming-persistent-frontier-crashes-in-windows-environment/"><u>Mastering Stability: Overcoming Persistent 'Frontier' Crashes in Windows Environment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-pcs-performance-fixing-high-cpu-drain-in-phasmophobia/"><u>Optimizing Your PC's Performance: Fixing High CPU Drain in Phasmophobia</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-definitive-answer-to-your-windows-computers-zoom-black-screen-nightmare-expert-advice-and-fixes/"><u>The Definitive Answer to Your Windows Computer's Zoom Black Screen Nightmare - Expert Advice & Fixes</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210193041-9781630470074-the-ultimate-edge/"><u>The Ultimate Edge | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-solutions-to-resolve-stuttering-and-lag-in-baldurs-gate/"><u>Top 6 Solutions to Resolve Stuttering and Lag in Baldur's Gate</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-pc-lag-in-halo-infinite-discover-7-effective-ways-to-ensure-smooth-gameplay/"><u>Troubleshoot PC Lag in Halo Infinite: Discover 7 Effective Ways to Ensure Smooth Gameplay</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-simplify-your-reaction-videos-a-step-by-step-guide-with-filmora/"><u>Updated 2024 Approved Simplify Your Reaction Videos A Step-by-Step Guide with Filmora</u></a></li>
+</ul></div>
 

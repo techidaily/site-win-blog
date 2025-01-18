@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Resolving CS2 Performance Issues - Boost Your Frame Rate!"
-date: 2024-08-18T19:12:30.576Z
-updated: 2024-08-19T19:12:30.576Z
+date: 2025-01-10T16:44:39.732Z
+updated: 2025-01-18T07:23:20.511Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/8a64098fc8c00724b390ed4672a78681ea9b2ccc0
 
 Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NARAKA: BLADEPOINT players, performance issues such as game stuttering and low FPS are making their game barely unplayable. But there are some things you can do. In this post, we’ll guide you through the steps to fix stuttering and low FPS issues in NARAKA: BLADEPOINT.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not need to try them all; simply work your way down the list until you find the one that works for you.
@@ -31,6 +35,10 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
 ![NARAKA: BLADEPOINT Coming Soon - Epic Games Store](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NARAKABLADEPOINT_24Entertainment_S1_2560x1440-5f7eae943282dd9a681a1bd3f88fc354?h=270&resize=1&w=480)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Before you try a new title, we usually recommend you check for Windows updates, which come with bug fixes and new features.
@@ -44,11 +52,6 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
  After the reboot, launch NARAKA: BLADEPOINT and check if your game looks better. If your problems persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ## 2\. Disable unnecessary programs
 
  Too many programs running in the background will most likely drain your system as they take up a certain amount of resources. To get a better gaming experience, you’re supposed to disable those programs that you don’t necessarily use when playing Naraka: Bladepoint.
@@ -58,9 +61,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the Processes tab, right-click the programs that you don’t necessarily use when playing Naraka: Bladepoint and select**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (Be cautious that you should not end processes that are essential for running Windows, otherwise your computer may fail to work properly. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)  
@@ -68,8 +68,9 @@ The powerful video editing program for your Windows PC</a>
  After you’ve done these, play your game. If you’re still having sudden extreme framerate drops and stuttering during the gameplay, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 3\. Enable the Game Mode
 
  Players who have the latest Windows version should enable the Game Mode, a feature that is designed to optimize Windows 10 for gaming. It can deactivate background activities to help you boost in-game FPS. To enable the Game Mode, follow the instructions below.
@@ -90,6 +91,10 @@ The powerful video editing program for your Windows PC</a>
 
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -101,8 +106,9 @@ The powerful video editing program for your Windows PC</a>
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eu4vwlZcMvM?si=4vEczfVU4BUUFP-t" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2 – Automatically update your graphics driver
 
  As described above, manually updating your graphics driver would require a certain level of computer knowledge and can be a headache if you aren’t tech-savvy. Therefore, we would like to recommend you use an automatic driver updater such as **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -112,20 +118,22 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating drivers, restart your PC. Then you can play your game. If constant stutters and framerate drops still occur, try the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 5\. Verify integrity of game files
 
  When you’re having performance issues, verifying game files may work like magic. It can help you verify if the integrity of your game files are intact. If it is not, it’ll then restore any missing or replace any corrupted files. To do this, follow the instructions below.
@@ -134,9 +142,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-properties.jpg)
 2. Select **LOCAL FILES** . Then click **Verify integrity of game files…** . Then wait for the process to complete.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)  
 
@@ -154,9 +159,6 @@ The powerful video editing program for your Windows PC</a>
 
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
  After saving the changes, launch your game and you should be able to get more FPS and reduce in-game stutters. Also, if you have Discord installed, try to disable overlay by following the steps below.
 
 1. Open Discord.
@@ -164,11 +166,12 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Game Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-overlay.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 7\. Optimize NVIDIA Control Panel settings
 
@@ -178,14 +181,15 @@ The powerful video editing program for your Windows PC</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/from-the-desktop.png)
 2. Click**Manage 3D settings** . Then select**Program Settings** . Add**NARAKA: BLADEPOINT** to the list. Under the section Specify the settings for this program, make the following changes:  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 
  Power management mode:**Prefer maximum performance**  
  Vertical sync:**Off** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-control-panel.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -197,8 +201,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -206,4 +208,24 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-perfect-color-accuracy-in-canon-imagery-with-free-and-paid-lut-combinations-for-2024/"><u>[New] Perfect Color Accuracy in Canon Imagery with Free & Paid LUT Combinations for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-premiere-pro-refinements-for-iphone-hd-video-clarity-and-contrast/"><u>[Updated] Premiere Pro Refinements for iPhone HD Video Clarity and Contrast</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-boosting-viewership-with-animated-subscribe-buttons-in-filmora-easy-guide/"><u>2024 Approved Boosting Viewership with Animated Subscribe Buttons in Filmora (Easy Guide)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-proven-methods-for-flawlessly-playing-stray-impact-without-pc-crashes/"><u>6 Proven Methods for Flawlessly Playing Stray: Impact Without PC Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-elden-ring-experience-with-these-6-solutions-for-stuttering-and-low-fps/"><u>Boost Your Elden Ring Experience with These 6 Solutions for Stuttering and Low FPS</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/elite-9-access-privileged-video-downloads-for-2024/"><u>Elite 9 Access Privileged Video Downloads for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-overcome-low-fps-drops-and-dominate-your-league-of-legends-matches/"><u>Expert Tips to Overcome Low FPS Drops and Dominate Your League of Legends Matches</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/harmonious-hushes-softening-sounds-with-garageband/"><u>Harmonious Hushes Softening Sounds with Garageband</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/how-to-change-lockout-duration-after-failed-logon-attempts-in-windows-10-and-11/"><u>How to Change Lockout Duration After Failed Logon Attempts in Windows 10 and 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-log-in-after-steam-authentication-failure/"><u>How to Successfully Log in After Steam Authentication Failure</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-track-imei-number-of-itel-s23plus-through-google-earth-by-drfone-android/"><u>In 2024, How To Track IMEI Number Of Itel S23+ Through Google Earth?</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-which-pokemon-can-evolve-with-a-moon-stone-for-motorola-edge-40-drfone-by-drfone-virtual-android/"><u>In 2024, Which Pokémon can Evolve with a Moon Stone For Motorola Edge 40? | Dr.fone</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/maximizing-your-streaming-experience-in-depth-review-of-the-toshiba-55lf711u20-fire-tv-edition-and-its-benefits-for-prime-members/"><u>Maximizing Your Streaming Experience: In-Depth Review of the Toshiba 55LF711U20 Fire TV Edition and Its Benefits for Prime Members</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013763455-mlb-the-show-21-resolved-servers-game-now-up-and-running/"><u>MLB The Show 21: Resolved Servers - Game Now Up and Running!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-adobe-premiere-pro-crashes-on-windows-11-and-10/"><u>Resolved: Fixing Adobe Premiere Pro Crashes on Windows 11 and 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stardew-valley-startup-problems-how-to-get-your-game-running-smoothly/"><u>Stardew Valley Startup Problems - How To Get Your Game Running Smoothly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-20-essential-hacks-for-overcoming-high-latency/"><u>Warzone 2.0: Essential Hacks for Overcoming High Latency</u></a></li>
+</ul></div>
 

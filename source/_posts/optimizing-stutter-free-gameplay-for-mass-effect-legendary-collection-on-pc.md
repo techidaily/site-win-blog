@@ -1,7 +1,7 @@
 ---
 title: Optimizing Stutter-Free Gameplay for Mass Effect Legendary Collection on PC
-date: 2024-08-18T19:16:46.419Z
-updated: 2024-08-19T19:16:46.419Z
+date: 2025-01-17T04:02:13.150Z
+updated: 2025-01-18T00:49:32.690Z
 tags:
   - win11
   - win10
@@ -62,6 +62,10 @@ Recommended requirements for PUBG
 
  There are mainly two options you can take to update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) or[automatically](https://tools.techidaily.com/drivereasy/download/) .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Option 1: Manually update your graphics driver
 
 [NVIDIA](https://tools.techidaily.com/drivereasy/download/) and [AMD](https://www.amd.com/en/support) keep updating drivers. To get them, you need to go to the official websites, find the correct drivers, and download them manually.
@@ -80,9 +84,6 @@ Recommended requirements for PUBG
 
 ![automatically update drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
  3) Click the **Update** button next to _your graphics driver_ to automatically download the correct driver for your computer, then you can manually install it.
 
 OR
@@ -91,9 +92,6 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/NVIDIA-RTX-2080.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  If you’ve had your drivers updated and the PUBG freezing problem persists, try the next fix.
@@ -101,17 +99,9 @@ OR
 ---
 
 <!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Disable overclocking
 
  If you’re using MSI Afterburner or other GPU tweaking programs, you cannot play your game smoothly. The game engine doesn’t really support cards that are overclocked. And overclocking can be causing game instability and thus the game might crash. So to fix it, you should disable it.
@@ -119,8 +109,9 @@ OR
  Also, it’s very important to remove all those overlays, Steam, Discord, or whatever overlay you’re using. It’s usually causing some issues like freezing.
 
 <!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Change Power Options
 
  Windows 10 offers a number of power plans including the new one**Ultimate Performance** for you to switch to. The plan,**Ultimate Performance** can let you fully exploit the potential of your computer. So it might resolve your PUBG freezing issue.
@@ -134,15 +125,17 @@ Here is how to enable this plan:
 ![change power options; PUBG freezing](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options.png)
 
 <!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  3) Under the**Hide additional plans** section, check the**Ultimate Performance** .
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-2.png)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### What to do if you don’t see the Ultimate Performance plan
 
  If you can’t see the**Ultimate Performance** plan on the settings, you can add it with the Command Prompt.
@@ -159,11 +152,12 @@ The steps are as follows:
 
 ![change power options; ultimate performance Windows 10](https://images.drivereasy.com/wp-content/uploads/2020/09/change-power-options-4.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you successfully add the Ultimate Performance plan, go to the[settings](https://tools.techidaily.com/drivereasy/download/) to enable it.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Delete temp files
 
  If your computer doesn’t have sufficient space to store the temp files, freezes would happen. So you can delete them by following these steps:
@@ -193,13 +187,11 @@ The steps are as follows:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Turn off VSync
 
  When VSync is enabled, your game might be less responsive. So you can turn it off to boost your game performance. Take NVIDIA as an example:
@@ -225,8 +217,6 @@ The steps are as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -234,4 +224,20 @@ The steps are as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/new-ranked-top-ios-solutions-for-playing-classic-psp-games-today-for-2024/"><u>[New] Ranked Top iOS Solutions for Playing Classic PSP Games Today for 2024</u></a></li>
+<li><a href="https://article-posts.techidaily.com/advanced-tech-the-most-reliable-webcams-for-podcasters-for-2024/"><u>Advanced Tech The Most Reliable Webcams for Podcasters for 2024</u></a></li>
+<li><a href="https://fox-that.techidaily.com/apple-pay-dilemmas-decoded-simple-strategies-for-the-top-10-common-errors/"><u>Apple Pay Dilemmas Decoded: Simple Strategies for the Top 10 Common Errors</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/discover-the-benefits-of-a-cookiebot-powered-site/"><u>Discover the Benefits of a Cookiebot-Powered Site</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ver-these-top-10-thriving-youtube-communities/"><u>Discover These Top 10 Thriving YouTube Communities</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/diy-iphone-photography-learn-to-smudge-images-on-no-budget/"><u>DIY iPhone Photography Learn to Smudge Images on No Budget</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-to-solving-cod-mw3s-application-stopped-working-problem/"><u>Expert Guide to Solving COD MW3's 'Application Stopped Working' Problem</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/fixing-broken-enter-button-on-pc/"><u>Fixing Broken Enter Button on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-slow-load-times-in-fallout-4-expert-tips-and-tricks/"><u>How to Fix Slow Load Times in Fallout 4: Expert Tips and Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-for-preventing-your-gas-station-simulator-game-from-crashing-on-computer-monitor/"><u>Tips for Preventing Your Gas Station Simulator Game From Crashing on Computer Monitor</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-resolving-non-functional-clownfish-speech-modifier/"><u>Troubleshooting Tips: Resolving Non-Functional Clownfish Speech Modifier</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-your-wow-playthrough-solutions-to-prevent-crashes/"><u>Troubleshooting Your Wow Playthrough: Solutions to Prevent Crashes</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/unveiling-the-best-youtube-channel-titles-a-must-have-guide-for-vloggers-limit-to-156-characters/"><u>Unveiling the Best Youtube Channel Titles A Must-Have Guide for Vloggers (Limit to 156 Characters)</u></a></li>
+</ul></div>
 

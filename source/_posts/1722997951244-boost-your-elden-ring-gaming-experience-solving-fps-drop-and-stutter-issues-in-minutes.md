@@ -1,7 +1,7 @@
 ---
 title: "Boost Your Elden Ring Gaming Experience: Solving FPS Drop & Stutter Issues in Minutes!"
-date: 2024-08-18T19:16:12.944Z
-updated: 2024-08-19T19:16:12.944Z
+date: 2025-01-11T03:33:47.470Z
+updated: 2025-01-17T16:29:40.793Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
 ![NARAKA: BLADEPOINT Coming Soon - Epic Games Store](https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_NARAKABLADEPOINT_24Entertainment_S1_2560x1440-5f7eae943282dd9a681a1bd3f88fc354?h=270&resize=1&w=480)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Install all Windows updates
 
  Before you try a new title, we usually recommend you check for Windows updates, which come with bug fixes and new features.
@@ -40,9 +44,17 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click**Check for updates** . If there are any updates available, it’ll automatically start to download and install it. Once the download is finished, restart your PC.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/click-on-the-Check-for-updates-tab.png)  
 
  After the reboot, launch NARAKA: BLADEPOINT and check if your game looks better. If your problems persist, try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 2\. Disable unnecessary programs
 
@@ -53,16 +65,14 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the Processes tab, right-click the programs that you don’t necessarily use when playing Naraka: Bladepoint and select**End task** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
  (Be cautious that you should not end processes that are essential for running Windows, otherwise your computer may fail to work properly. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)  
 
 <!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  After you’ve done these, play your game. If you’re still having sudden extreme framerate drops and stuttering during the gameplay, proceed to the next fix.
 
 ## 3\. Enable the Game Mode
@@ -75,12 +85,17 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/gaming.png)
 3. Select**Game Mode** from the left panel. Then toggle**On** Game Mode.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/turn-on-game-mode.png)  
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
  Now launch Naraka: Bladepoint and you should get a better performance. However, if turning on Game Mode didn’t do the trick, don’t worry. Below are some other methods that you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Update your graphics driver
 
@@ -89,9 +104,9 @@ Having a decent FPS is a prerequisite to enjoy a game to the fullest. But for NA
  There are mainly two ways you can update your graphics driver:[manually](https://tools.techidaily.com/drivereasy/download/) and **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 1 – Manually update your graphics driver
 
  To update your graphics driver manually, you can go to the official website:
@@ -102,9 +117,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Automatically update your graphics driver
 
  As described above, manually updating your graphics driver would require a certain level of computer knowledge and can be a headache if you aren’t tech-savvy. Therefore, we would like to recommend you use an automatic driver updater such as **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . With Driver Easy, you don’t need to waste your time hunting for driver updates as it will take care of the busy work for you.
@@ -114,9 +126,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-now-v5_7_0.jpg)
 3. Click**Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them. )  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
@@ -136,14 +145,12 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-integrity-of-game-files-1.png)  
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  The verification process would take several minutes to finish. After that, play Naraka: Bladepoint to check if your problems have been solved. If you are still having these problems, proceed to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 6\. Disable overlays
 
  Overlay technology is commonly used in various programs. It allows you to surf the web and enjoy other features, but can also cause performance issues with some games. Therefore, you may need to disable Steam overlay and check if it can give you a boost in average FPS and reduce in-game stutters. Here’s how you can do this:
@@ -154,6 +161,10 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-1.jpg)
 3. Click**In-Game** . Uncheck the box**Enable the Steam Overlay while in-game** . Then click**OK** to save the changes.  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![disable Steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-Steam-overlay-2.jpg)  
 
  After saving the changes, launch your game and you should be able to get more FPS and reduce in-game stutters. Also, if you have Discord installed, try to disable overlay by following the steps below.
@@ -163,19 +174,9 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/7-2-1-1.jpg)
 3. Select the **Game Overlay** tab in the left pane and toggle off **Enable in-game overlay** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/discord-overlay.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 7\. Optimize NVIDIA Control Panel settings
 
  If you’re using a NVIDIA graphics card, you can optimize the settings through the NVIDIA Control Panel:
@@ -200,8 +201,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -209,4 +208,23 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/n-2024-youtube-on-your-iphoneipad-the-ultimate-downloading-guide/"><u>[New] In 2024, Youtube on Your iPhone/iPad The Ultimate Downloading Guide</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-studio-techniques-decoded-xvideostudio-edition-for-2024/"><u>[New] Studio Techniques Decoded XVideoStudio Edition for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-best-practices-for-documenting-ps4-gameplay-for-2024/"><u>[Updated] Best Practices for Documenting PS4 Gameplay for 2024</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-in-2024-high-speed-windows-photo-explorer-tool/"><u>[Updated] In 2024, High-Speed Window's Photo Explorer Tool</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005795006-age-of-empires-ii-windows-10-compatibility-fixed-start-playing-without-hitches/"><u>Age of Empires II Windows 10 Compatibility Fixed - Start Playing Without Hitches!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-overcoming-game-crashes-in-fifa-20-when-played-on-a-desktop-or-laptop/"><u>Comprehensive Fixes: Overcoming Game Crashes in FIFA 20 When Played on a Desktop or Laptop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-oculus-link-in-just-6-steps-solutions-to-a-non-functional-display/"><u>Fix Your Oculus Link in Just 6 Steps: Solutions to a Non-Functional Display</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-common-issues-when-trying-to-play-swtor-expert-advice/"><u>How to Fix Common Issues When Trying to Play SWTOR: Expert Advice</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-full-guide-to-catch-100-iv-pokemon-using-a-map-on-itel-p55t-drfone-by-drfone-virtual-android/"><u>In 2024, Full Guide to Catch 100 IV Pokémon Using a Map On Itel P55T | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-laptop-video-edits-going-off-inshot/"><u>In 2024, Laptop Video Edits Going Off-Inshot</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-steam-crashes-fast-a-simple-guide-for-gamers/"><u>Resolve Steam Crashes Fast - A Simple Guide for Gamers</u></a></li>
+<li><a href="https://games-able.techidaily.com/tech-symphony-harmonizing-your-xbox-one-remote/"><u>Tech Symphony: Harmonizing Your Xbox One Remote</u></a></li>
+<li><a href="https://win-blog.techidaily.com/total-war-saga-troy-bust-through-pc-game-crash-barriers-with-our-expert-fixes/"><u>Total War Saga: Troy - Bust Through Pc Game Crash Barriers with Our Expert Fixes!</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/transform-your-pictures-the-leaderboard-of-phone-sticker-enhancers/"><u>Transform Your Pictures - The Leaderboard of Phone Sticker-Enhancers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-dolby-atmos-issues-in-windows-11-and-10/"><u>Troubleshooting Steps: Resolving Dolby Atmos Issues in Windows 11 and 10</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unveiling-the-best-in-tech-with-toms-hardware-insights/"><u>Unveiling the Best in Tech with Tom's Hardware Insights</u></a></li>
+</ul></div>
 

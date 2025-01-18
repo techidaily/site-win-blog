@@ -1,7 +1,7 @@
 ---
 title: "Master Your Battle Skills with Optimized Ping - Expert Strategies to Reduce Lag in COD:MWII (WZ2k4)"
-date: 2024-08-18T19:13:15.612Z
-updated: 2024-08-19T19:13:15.612Z
+date: 2025-01-12T11:13:36.558Z
+updated: 2025-01-18T03:57:49.691Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/d9d28999ab80c3fe303824be9f1e02b9cc335e9a7
 
  Discord is an application that specializes in text, image, audio and video for video games. It brings fantastic experience for playing video games.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Here are the solutions to fix Discord installation problem. Just follow the steps and you’ll get Discord working again.
@@ -30,6 +34,10 @@ thumbnail: https://thmb.techidaily.com/d9d28999ab80c3fe303824be9f1e02b9cc335e9a7
 3. _**[Bonus Tip](https://tools.techidaily.com/drivereasy/download/)**_
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Step 1: Disable Discord in Task Manager
 
@@ -45,38 +53,37 @@ thumbnail: https://thmb.techidaily.com/d9d28999ab80c3fe303824be9f1e02b9cc335e9a7
 
  Then you’ll be able to delete Discord folders. Continue with the steps below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Step 2: Delete Discord folders
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
 2. Type_**%AppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14e6b6694d.jpg)
 3. Your File Explorer will open a window. Right click the**discord folder** and click**Delete** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6kzbT13ds3M?si=hBInu0Or-cX2ANJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14f2686712.jpg)
 4. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the**Run** box.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 5. Type_**%LocalAppData%**_ and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fe227d9a.jpg)
 6. Your File Explorer will open a new window. Right click the**Discord** **folder** and click**Delete** .  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be14fb976d74.jpg)
 7. Restart your computer.
+
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 8. You’ll be able to reinstall Discord in your computer. Just download the Discord application, run the Discord setup file and it should be installed properly.
 
  Hope the steps above helps you with the Discord installation failed issue.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus Tip: Update available device drivers
 
  The missing or outdated device drivers can bring your computer various problems, such as Discord not working or sound problems. So you should keep your device drivers up to date.
@@ -97,9 +104,6 @@ OR
 2. Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be15008084c8.jpg)
 3. Click the**Update** button next to the flagged devices to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click**Update All** and get a**30-day money back guarantee** ).  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/11/img_5be1502542d98.jpg)
 4. Restart your computer to take effect.
@@ -112,8 +116,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -121,4 +123,16 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11.techidaily.com/efficient-methods-to-disable-win-11s-hub-mode/"><u>Efficient Methods to Disable Win 11'S Hub Mode</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-steam-game-issues-troubleshooting-non-launching-titles-on-windows-11/"><u>Fixing Steam Game Issues: Troubleshooting Non-Launching Titles on Windows 11</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-the-past-how-easy-anti-cheat-is-no-more-a-hurdle-in-new-world-launches/"><u>Fixing the Past: How 'Easy Anti-Cheat' Is No More a Hurdle in New World Launches</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/from-basic-to-advanced-understanding-dynamic-range-imaging/"><u>From Basic to Advanced Understanding Dynamic Range Imaging</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-call-of-duty-black-ops-4-not-starting-up-a-success-story/"><u>How To Fix Call Of Duty Black Ops 4 Not Starting Up - A Success Story</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-downloading-samfw-frp-tool-30-for-vivo-s17t-by-drfone-android/"><u>In 2024, Downloading SamFw FRP Tool 3.0 for Vivo S17t</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/in-2024-unveiling-the-power-of-photo-editing-techniques-to-add-text-in-windowsmacos/"><u>In 2024, Unveiling the Power of Photo Editing Techniques to Add Text in Windows/MacOS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/successfully-solving-overwatchs-infamous-graphics-card-issue/"><u>Successfully Solving Overwatch's Infamous Graphics Card Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-internet-delays-and-enhancing-connection-speeds-for-cs2/"><u>Troubleshooting Internet Delays & Enhancing Connection Speeds for CS2</u></a></li>
+</ul></div>
 

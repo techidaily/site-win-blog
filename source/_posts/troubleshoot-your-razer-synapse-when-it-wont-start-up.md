@@ -1,7 +1,7 @@
 ---
 title: Troubleshoot Your Razer Synapse When It Won’t Start Up
-date: 2024-08-18T19:13:07.566Z
-updated: 2024-08-19T19:13:07.566Z
+date: 2025-01-15T08:41:33.601Z
+updated: 2025-01-17T16:54:45.429Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/5b77fd5a0fde79a2c2eb70c6784e4159441548e49
 
 If you encounter Oculus Link black screen / not working when you’re launching a VR game or during the gameplay, you’re not alone. Many players reported the same issue and have been struggling to find solutions. So we’ve put together 6 simple & quick fixes here. Try them to get your Oculus Link working again.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fixes to try
 
  You may not try them all; just work your way down the list until you find the one that does the trick.
@@ -29,6 +33,10 @@ If you encounter Oculus Link black screen / not working when you’re launching 
 6. **[Use the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
  Before you attempt the following fixes, please make sure your PC meets the[minimum requirements for Oculus Link](https://support.oculus.com/444256562873335) . Otherwise, you’ll need to upgrade the hardware component before you can use the app normally.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Repair system files
 
@@ -60,22 +68,13 @@ There are mainly two ways you can update the driver:
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-driver-de-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ). Or you can click**Update** next to the flagged device driver to do it for free, but it’s partly manual.  
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Oculus Link to test. If the problem persists, have a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Adjust the resolution
 
  If your Oculus Link keeps displaying a black screen, it’s possible that the high resolution is too demanding to your rig, and in this case, you should try lowering the settings.
@@ -86,12 +85,18 @@ There are mainly two ways you can update the driver:
 4. Lower the**Encode Resolution Width** or you can set the value according to[Oculus’s recommendations](https://forums.oculusvr.com/community/discussion/83561/oculus-link-resolution-with-v12) . (Quite a few users fix the issue by setting the Encode Resolution Width to 2784.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/resolution-settings.jpg)
 5. Restart your PC for the changes to take effect.
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 6. Reboot your Oculus headset and plug it back to the PC.
 
  Check whether Oculus Link works properly with your VR rig or not. If not, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4 – Disable in-game overlay
 
@@ -101,18 +106,19 @@ There are mainly two ways you can update the driver:
 2. Click the**cogwheel icon** at the upper right corner.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/7-1-1-1.jpg)
 3. Turn off**In-game overlay** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/0-00-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Oculus Link and your VR devices to see if the problem goes away. Still no luck? Don’t worry; there are two more fixes to try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Opt out of Public Test Channel
 
  According to[Oculus official support](https://support.oculus.com/200468603765391/) , Oculus Link may not work as intended if you enroll in Public Test Channel. That means you will be testing a beta version of the Oculus software which is possibly unreliable and more likely to run into the black screen issue.
@@ -126,8 +132,9 @@ It’s suggested you opt out of the Beta mode and here’s how:
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/beta-2.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Test if Oculus Link returns to the normal state. If not, continue to the next troubleshooting tips.
 
 ### Fix 6 – Use the dedicated graphics card
@@ -158,8 +165,6 @@ Restart Oculus Link and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -167,4 +172,18 @@ Restart Oculus Link and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-windows-11-video-mastery-utilizing-the-movie-maker-interface-for-2024/"><u>[New] Windows 11 Video Mastery Utilizing the Movie Maker Interface for 2024</u></a></li>
+<li><a href="https://win-best.techidaily.com/comment-retrouver-vos-donnees-de-sauvegarde-manquantes-avec-snowrunner-sur-ordinateur-ps-ou-xbox/"><u>Comment Retrouver Vos Données De Sauvegarde Manquantes Avec Snowrunner Sur Ordinateur, PS Ou Xbox</u></a></li>
+<li><a href="https://win-blog.techidaily.com/duo-of-excellence-how-it-takes-two-not-launched-is-revolutionizing-collaboration/"><u>Duo of Excellence: How 'It Takes Two Not Launched' Is Revolutionizing Collaboration</u></a></li>
+<li><a href="https://win-able.techidaily.com/fall-guys-no-longer-stutters-or-freezes-while-playing-on-your-computer/"><u>Fall Guys No Longer Stutters or Freezes While Playing on Your Computer</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-lenovo-thinkphone-for-parents-drfone-by-drfone-virtual-android/"><u>In 2024, Top 10 Telegram Spy Tools On Lenovo ThinkPhone for Parents | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-youtube-engagement-with-strategic-hashes-for-2024/"><u>Maximizing YouTube Engagement with Strategic Hashes for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-top-fixes-for-eliminating-heart-of-iron-iv-game-crashes-and-glitches/"><u>Resolved: Top Fixes for Eliminating Heart of Iron IV Game Crashes and Glitches</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-3-unbeatable-cyber-week-laptop-offers-below-1k-on-costco-amazon-and-dell-exclusive-insights/"><u>Top 3 Unbeatable Cyber Week Laptop Offers Below $1K on Costco, Amazon, & Dell – Exclusive Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fixing-game-not-launching-issues-confirm-your-installation/"><u>Troubleshooting: Fixing 'Game Not Launching' Issues - Confirm Your Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-launching-problems-with-valorant-in-2eighty-four/"><u>Ultimate Fixes for Launching Problems with Valorant in 2Eighty-Four</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-fixing-the-root-causes-of-everspace-ii-pc-instability/"><u>Understanding and Fixing the Root Causes of Everspace II PC Instability</u></a></li>
+</ul></div>
 

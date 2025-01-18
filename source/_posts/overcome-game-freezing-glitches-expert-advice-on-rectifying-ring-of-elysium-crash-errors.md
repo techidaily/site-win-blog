@@ -1,7 +1,7 @@
 ---
 title: "Overcome Game Freezing Glitches: Expert Advice on Rectifying Ring of Elysium Crash Errors"
-date: 2024-08-18T19:12:35.090Z
-updated: 2024-08-19T19:12:35.090Z
+date: 2025-01-12T23:01:20.256Z
+updated: 2025-01-18T09:51:49.113Z
 tags:
   - win11
   - win10
@@ -38,6 +38,10 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 1\. Reinstall Paradox Launcher
 
  If your Paradox Launcher refuses to launch, it’s possible that there are some damaged or corrupt program files. To fix this sort of problem, a clean reinstallation is almost the quickest and the easiest way. To make sure that the reinstallation is done correctly, here’s what you can do:
@@ -57,17 +61,24 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 7. View by **Categories,**  then select **Uninstall a program** under **Programs** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-8.png)
 8. Click **Paradox Launcher v2** , then **Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-5.png)
 9. Restart your computer afterward.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 10. Then **[download Paradox Launcher](https://www.paradoxinteractive.com/our-games/launcher)**  again.
 
  Run Steam and try to play the game via Paradox Launcher again to see if it launches well. If not, please continue.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Disable conflicting processes in the background
 
  If there is more than one Paradox Launcher-related service and program running in the background, Paradox Launcher itself may not work as intended, and thus with the refusing to launching problem. To see if this is your case, make sure to close all likely conflicting applications.
@@ -75,21 +86,21 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 1. Right-click the Windows taskbar and select **Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/10/image-48.png)
 2. Select each**Paradox Launcher** related program you see here and click**End Task** to close them one by one.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-6.png)
 
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
  Then try to play your game via Paradox Launcher again and see if its launching problem is fixed. If the problem still remains, please move on to the next fix below.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ## 3\. Make sure your Windows is updated
 
  If your system isn’t updated regularly, there could be missing redistributables and outdated .NET Framework, which are essential to game launchers like Paradox Launcher. Luckily, most of these required files can be downloaded and installed via Windows Update. So you should make sure that you have the latest available updates installed:
@@ -98,19 +109,27 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-18.png)
 2. Click**Check for updates** , and Windows will scan for any available updates.  
+
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Then try to play your game via Paradox Launcher again to see if it can launch. If the problem remains, please move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. Modify your antivirus program settings
 
@@ -122,9 +141,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
  If you’re not sure how to do it, please consult your antivirus documentation for further instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4.2 Make sure bootstrapper-v2.exe is not flagged as a virus
 
  It was reported by some users that their antivirus program accidentally flagged**bootstrapper-v2.exe** as a virus or PUA (potentially unwanted application), and thus with the Paradox Launcher not working problem.
@@ -136,16 +152,15 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 1. On your keyboard, press the**Windows** key and type**windows security** . Then select**Windows Security** from the list.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-7.png)
 2. Select**Virus & Threat protection** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-9.png)
 3. Under**Current threats** , select**Protection history** .  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-10.png)
 4. If you can see**bootstrapper-v2.exe** or other Paradox Launcher-related services and programs here, click the**Actions** button and select**Restore** .  
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/11/image-11.png)
 
  When you finish the above settings, but your Paradox Launcher still doesn’t work, please move on to the other fixes.
@@ -170,6 +185,10 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 6\. Bypass Paradox Launcher
 
  If Paradox Launcher still doesn’t work after all the above, there’s still one way out: bypassing it altogether.
@@ -188,8 +207,6 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +214,20 @@ It must feel like forever when you can’t wait to immerse yourself in Cities: S
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/improved-subnautica-below-zero-pc-game-performance-fixes-implemented-successfully/"><u>[IMPROVED] Subnautica: Below Zero PC Game Performance Fixes Implemented Successfully</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/new-bring-your-imaginations-to-life-time-lapse-photography-with-gopro-studio/"><u>[New] Bring Your Imaginations to Life Time-Lapse Photography with GoPro Studio</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/updated-in-2024-the-complete-beginners-roadmap-for-audacity-audio-capture/"><u>[Updated] In 2024, The Complete Beginner's Roadmap for Audacity Audio Capture</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-innovative-zoom-methods-for-chromebook-efficiency/"><u>[Updated] Innovative Zoom Methods for Chromebook Efficiency</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/2024-approved-skype-capture-manual-unveiling-the-best-free-and-paid-practices-windowsmac/"><u>2024 Approved Skype Capture Manual Unveiling the Best Free and Paid Practices (Windows/Mac)</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/approved-things-about-youtube-tv-you-should-know/"><u>2024 Approved Things About YouTube TV You Should Know</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-unleashing-voice-windows-10-audio-basics/"><u>2024 Approved Unleashing Voice Windows 10 Audio Basics</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mlb-the-show-21-connectivity-issues-now-fixed/"><u>MLB The Show 21 Connectivity Issues - Now Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-wwe-2k22-stability-issues-expert-fixes-for-your-gaming-pc/"><u>Overcome WWE 2K22 Stability Issues: Expert Fixes for Your Gaming PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-constant-fuser-app-errors-and-stabilizing-your-desktop-experience/"><u>Overcoming Constant Fuser App Errors and Stabilizing Your Desktop Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001054467-pc-players-rejoice-the-notorious-security-breach-bug-is-now-patched-in-fnaf/"><u>PC Players Rejoice: The Notorious Security Breach Bug Is Now Patched in FNAF</u></a></li>
+<li><a href="https://win-blog.techidaily.com/soil-texture-influences-water-retention-and-root-penetration-sandy-soils-drain-quickly-but-may-not-retain-nutrients-well-while-clay-soils-hold-water-and-nut526/"><u>Soil Texture Influences Water Retention and Root Penetration; Sandy Soils Drain Quickly but May Not Retain Nutrients Well, While Clay Soils Hold Water and Nutrients but Can Be Hard for Roots to Penetrate.</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/total-motion-audit-2023/"><u>Total Motion Audit 2023</u></a></li>
+</ul></div>
 
