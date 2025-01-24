@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Making Steam Acknowledge Controllers Under Windows"
-date: 2024-08-13T11:36:25.078Z
-updated: 2024-08-14T11:36:25.078Z
+date: 2025-01-21T18:31:10.334Z
+updated: 2025-01-24T16:55:43.526Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/61cd3f9de3e328bf4fd572ae53f8d259727451f01
 
 This fast-paced game is super fun for those who love the joy of movement. However, you’re not the only one who’s experiencing Ghostrunner Fatal Error. And luckily, it can be fixed easily with the following workarounds.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 * [Fix 1: Close all background apps](https://tools.techidaily.com/drivereasy/download/)
@@ -30,8 +27,9 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
 * [Fix 6: Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Close all background apps
 
  One thing that might cause your Ghostrunner Fatal Error is other conflicting applications, especially your antivirus software and any programs with overlays.
@@ -41,6 +39,10 @@ This fast-paced game is super fun for those who love the joy of movement. Howeve
  Note that**some antivirus software still works when disabled** , so you can temporarily uninstall it or add Ghostrunner to its exception list.
 
  Some third-party apps may be interrupting your Ghostrunner, and**Discord in-game is a known issue** . To avoid possible game crashes, you can disable Discord in-game overlay.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your device drivers
 
@@ -66,6 +68,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/update-driver-now.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Restart your PC for the changes to take full effect.
 
 ### Fix 3: Install Microsoft Visual C++ 2013
@@ -78,6 +84,10 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2013.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Download the x64.exe in the language you prefer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-1.jpg)
@@ -85,9 +95,6 @@ OR
 4) Scroll down the page and download the x86.exe.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/download-2.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 
  5) Run these two downloaded files and follow the on-screen instructions to install.
 
@@ -96,8 +103,9 @@ OR
 Play Ghostrunner again to see if this fatal error reoccurs.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Stop overclocking
 
  Another reason that you get Ghostrunner fatal error is GPU overclocking. If you overclocked your GPU with some software such as Afterburner, we recommend stopping the overclock or suspending these programs including GeForce Experience before you play the game.
@@ -107,16 +115,10 @@ Play Ghostrunner again to see if this fatal error reoccurs.
  1) Right-click your desktop and select**Nvidia Control Panel** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/NVIDIA.jpg)
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 
  2) Navigate to the**Manage 3D Settings** \>**Program Settings** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/program.jpg)
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Select**Ghostrunner** and turn on the**Max FPS Limit** option.
 
@@ -137,17 +139,13 @@ Play Ghostrunner again to see if this fatal error reoccurs.
  3) Select the**Local Files** tab, then click on**Verify Integrity of game files** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/VERIFY.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Wait for the process and then restart the game to check whether the Ghostrunner fatal error has been fixed or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Lower your graphics settings
 
  Some gamers find decreasing the graphics settings helped fix this fatal error. Go to the graphics settings in the game, turn off anti-aliasing and try to lower other graphics settings.
@@ -166,8 +164,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +171,20 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-exploring-the-limits-full-potential-of-screenflow-v4-on-macos-for-2024/"><u>[New] Exploring the Limits Full Potential of ScreenFlow v4 on macOS for 2024</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-step-by-step-guide-on-acquiring-elite-hdr-cameras-for-2024/"><u>[New] Step-by-Step Guide on Acquiring Elite HDR Cameras for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-unveiling-the-top-10-youtube-makeup-maestros-to-follow/"><u>[New] Unveiling the Top 10 YouTube Makeup Maestros to Follow</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-unlock-your-screen-recording-potential-top-8-apps-for-windows-10/"><u>[Updated] In 2024, Unlock Your Screen Recording Potential Top 8 Apps for Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-black-screen-errors-from-your-cod-wwii-gameplay-on-windows-fixes-and-advice/"><u>Banish Black Screen Errors From Your COD: WWII Gameplay on Windows - Fixes and Advice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-the-perplexing-frame-rate-stutter-issues-plaguing-modern-warfare-3-gamers-tips/"><u>How to Overcome the Perplexing Frame Rate Stutter Issues Plaguing Modern Warfare 3 Gamers - Tips</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/in-2024-cutting-edge-tactics-for-flawless-iphones-and-podcast-downloads/"><u>In 2024, Cutting-Edge Tactics for Flawless iPhones and Podcast Downloads</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-life360-learn-how-everything-works-on-nubia-red-magic-8s-proplus-drfone-by-drfone-virtual-android/"><u>In 2024, Life360 Learn How Everything Works On Nubia Red Magic 8S Pro+ | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/manual-removal-for-xbox-series-x-stuck-discs/"><u>Manual Removal for Xbox Series X Stuck Discs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-how-to-prevent-hell-let-loose-from-crashing-on-pc/"><u>Mastering Stability: How to Prevent 'Hell Let Loose' From Crashing on PC</u></a></li>
+<li><a href="https://ai-voice.techidaily.com/new-top-10-robotic-voice-generators-for-2024/"><u>New Top 10 Robotic Voice Generators for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-unwanted-crashes-top-6-fixes-for-pc-issues/"><u>Say Goodbye to Unwanted Crashes: Top 6 Fixes for PC Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/step-by-step-process-to-install-latest-version-of-intel-hd-graphics-5500-drivers/"><u>Step-by-Step Process to Install Latest Version of Intel HD Graphics 5500 Drivers</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Is My Xbox Live Account Working? A Quick Look at the Service Status Today
-date: 2024-08-13T11:36:43.104Z
-updated: 2024-08-14T11:36:43.104Z
+date: 2025-01-22T17:57:23.698Z
+updated: 2025-01-24T17:20:55.124Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 
 **Cannot sign in or play any games (not even offline games) on Xbox Live** ? This is both frustrating and confusing. You may be wondering if the error is on your end or is everybody else is suffering the outage. So, is**Xbox Live Down or not** ? Read on and you’ll have your answer…
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Is Xbox Live Down?
 
  Here are 3 methods for you to determine if it’s an Xbox Live down problem. Just work your way down until you find it out.
@@ -25,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 2. [**Check Xbox Server Status**](https://tools.techidaily.com/drivereasy/download/)
 3. [**Look up the error messages or codes**](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Method 1: Check if your other devices are able to connect to the same network
 
  When you have a connection issue on Xbox Live, it is important to check **whether your Xbox One console or PC (if you’re using Xbox app on your computer) is the only device with no Internet connection** .
@@ -37,6 +38,10 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 * **If these devices cannot connect to the Internet either** , then obviously the problem does not lie with your Xbox or PC. You can either do some basic troubleshooting on your modem by yourself (such as performing a reboot on your modem) or contact your ISP for assistance to fix the issues with your network.
 * **If these devices can access the Internet properl** y, then you should move on to**Method 2** , below to narrow down the problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wNhKhWc0wLc?si=1XLYV0sXV52Xc0lu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Method 2: Check Xbox Server Status
 
  With home network issues ruled out, you might want to check if it’s a service server outage or not. To do so, simple go to the official[**Xbox Live Status**](https://support.xbox.com/en-US/xbox-live-status) . From there, you’ll see the status information of Xbox services, games, websites and apps.
@@ -45,27 +50,25 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
 * **A red exclamation mark** means the server is currently down. You can also read the on-screen information to know more about the outage and the affected platforms. Often, there is a**Notify me** option you can choose to get instantly notified by an email when the service is back online again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-336-1024x714.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **So, is Xbox Live UP or DOWN?** Share it in the comments section below or report your issues to let others know that they’re not facing it alone! 🙂
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 3: Look up the error messages or codes
 
  Now that you’ve confirmed neither your home network or the server is to blame, the error is probably on your end. You can start by checking your Xbox screen for error to see if there is any error message or code on the screen. If you see an error code or message, head to[**Xbox One Error & Status Code Search**](https://support.xbox.com/en-HK/error-code-lookup) and enter the exact same message or code as shown. Then follow the on-screen troubleshooting steps to work on the issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-337-1024x569.png)
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Bonus tip: Xbox Live still not working on my PC?
 
  If you’ve exhausted all the fixes lain out on Xbox Support, but the Xbox One not working issue is still not resolved, then it’s time to check if it’s a driver issue on your computer. As a wrong or outdated network driver may cause slow Internet connection, Internet keeps cutting out or even app not connecting to Internet problems. So you should**update your network drivers** to see if it fixes your problem.
@@ -81,16 +84,14 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
 <!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 
  You can also click **Update** to do it for free if you like, but it’s partly manual.
 
@@ -110,8 +111,6 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -119,4 +118,20 @@ thumbnail: https://thmb.techidaily.com/b59d364af3f09a7a6d6a7653115b93ded9b0954f8
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-the-ultimate-guide-to-advanced-techniques-in-youtube-video-editing/"><u>[New] The Ultimate Guide to Advanced Techniques in YouTube Video Editing</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-comprehensive-strategies-for-windows-media-players-audio-operations/"><u>2024 Approved Comprehensive Strategies for Windows Media Player's Audio Operations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arcadegeddon-for-pc-steps-to-prevent-recurrent-system-failures-and-enjoy-uninterrupted-gameplay/"><u>Arcadegeddon for PC - Steps to Prevent Recurrent System Failures and Enjoy Uninterrupted Gameplay</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ng-a-different-way-to-naming-your-channel-with-filmora/"><u>Finding a Different Way to Naming Your Channel with Filmora</u></a></li>
+<li><a href="https://win-blog.techidaily.com/firefox-crashes-solved/"><u>Firefox Crashes? [Solved]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-overload-no-more-resolving-shooter-stutters-drops-and-boosting-fps-efficiency/"><u>Game Overload No More: Resolving Shooter Stutters, Drops & Boosting FPS Efficiency</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-unlock-any-oppo-reno-8t-phone-password-using-emergency-call-by-drfone-android/"><u>How To Unlock Any Oppo Reno 8T Phone Password Using Emergency Call</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-3-things-you-must-know-about-fake-snapchat-location-on-oneplus-nord-ce-3-lite-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Things You Must Know about Fake Snapchat Location On OnePlus Nord CE 3 Lite 5G | Dr.fone</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, A Detailed Guide on Faking Your Location in Mozilla Firefox On Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-detailed-guide-of-ispoofer-for-pogo-installation-on-vivo-x100-drfone-by-drfone-virtual-android/"><u>In 2024, Detailed guide of ispoofer for pogo installation On Vivo X100 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rapid-remedy-techniques-to-fix-lag-in-assassins-creed-valhalla-gameplay/"><u>Rapid Remedy Techniques to Fix Lag in Assassin's Creed: Valhalla Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stable-urban-development-overcoming-game-crashes-in-simcity-buildit-players/"><u>Stable Urban Development: Overcoming Game Crashes in SimCity BuildIt Players</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/the-insiders-techniques-for-google-voice-recordings-for-2024/"><u>The Insider's Techniques for Google Voice Recordings for 2024</u></a></li>
+</ul></div>
 

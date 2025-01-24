@@ -1,7 +1,7 @@
 ---
 title: "Solving the Issue: Why Your Astro A50 Won't Connect to Command Center"
-date: 2024-08-13T11:38:24.122Z
-updated: 2024-08-14T11:38:24.122Z
+date: 2025-01-20T16:44:01.299Z
+updated: 2025-01-24T17:53:31.204Z
 tags:
   - win11
   - win10
@@ -19,50 +19,46 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 
 **Netflix not working** is one of the very common issues on Xbox One. So if you’re experiencing this problem, rest assured, you’re not alone. Quite a lot of Xbox One users have the same problem with you. More importantly, that’s an easy problem to fix by yourself. Here are 3 simple but effective methods you can try to fix this problem. You may not have to try them all; just work your way down the list until you get Netflix to work fine again on your Xbox One.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try one at a time
 
 1. **[Restart your Netflix](https://tools.techidaily.com/drivereasy/download/)**
 2. **[Restart your Xbox One Console and Xbox One](https://tools.techidaily.com/drivereasy/download/)**
 3. **[Reinstall your Netflix](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Method 1: Restart your Netflix
 
 1) Use the arrow keys to highlight the Netflix app on your Xbox One home screen.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9b7a85ed26.png)
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9bc0594322.jpg)
 
 2) Press the**menu button**on your Xbox One controller.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9b7d5cf405.png)
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 
 3) If you see **Quit**, select it. If not, skip this step.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9bc63f0698.png)
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 4) Re-launch Netflix on Xbox One to see if it works.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Method 2: Restart your Xbox One Console and Xbox One
 
 1) Turn off your Xbox One. 2) Unplug the power cable of your Xbox One console, then press and hold the home button on the console for around 5 seconds to discharge it. 3) Wait for around 1 minute. 4) Plug the power cable back into your Xbox One console. 5) Turn on your Xbox One. 6) Re-launch Netflix on Xbox One to see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## Method 3: Reinstall your Netflix
 
 1）On **Home**, select **My games & apps**.
@@ -73,9 +69,17 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d39a96109.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Highlight **Netflix** from Apps. Then press the menu button on your controller.![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9b7d5cf405.png)4) Select **Manage app**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d4de65636.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Select **Uninstall all**.
 
@@ -84,16 +88,10 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
 6) Back to Home of your Xbox One and select**Store**. Then select **Netflix** in **Apps**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d67dec46f.jpg)
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 7) Select **Install**.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2017/09/img_59c9d6d32cef6.jpg)
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 
 8) Run Netflix to see if it works.
 
@@ -106,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -115,4 +111,22 @@ thumbnail: https://thmb.techidaily.com/650d5e59730c35ae2fda836f0e084961424a5a800
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-secrets-unlocked-mastering-the-art-of-facebook-vr-posting/"><u>[New] 2024 Approved Secrets Unlocked Mastering the Art of Facebook VR Posting</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-capture-android-the-ultimate-recorder-at-no-cost-for-2024/"><u>[Updated] Capture Android The Ultimate Recorder at No Cost for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-hololens-by-microsoft-envisioning-the-augmented-tomorrow/"><u>2024 Approved HoloLens By Microsoft Envisioning the Augmented Tomorrow</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beating-the-blackout-expert-tips-for-league-of-legends-display-fixes-2024-edition/"><u>Beating the Blackout: Expert Tips for League of Legends Display Fixes, 2024 Edition</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/download-drivers-for-your-logitech-k400-plus-device-set/"><u>Download Drivers for Your Logitech K400 Plus Device Set</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-battle-ultimate-fixes-for-low-fps-troubleshooting-in-valheim-2024-guide/"><u>Elevate Your Battle: Ultimate Fixes for Low FPS Troubleshooting in Valheim - 2024 Guide</u></a></li>
+<li><a href="https://driver-install.techidaily.com/free-driver-for-asus-bluetooth-40-adapter-windows-only/"><u>Free Driver for Asus Bluetooth 4.0 Adapter, Windows Only</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gamers-hack-preventing-and-repairing-gears-of-war-4-pc-freezes/"><u>Gamers' Hack: Preventing and Repairing Gears of War 4 PC Freezes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-hell-let-loose-continuous-crashes-on-your-computer/"><u>How to Fix Hell Let Loose Continuous Crashes on Your Computer</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-change-netflix-location-to-get-more-country-version-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Netflix Location to Get More Country Version On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-total-war-saga-troy-overcoming-pc-performance-hiccups-and-crashes/"><u>Mastering TOTAL WAR SAGA: TROY - Overcoming PC Performance Hiccups & Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-troubles-conquer-the-black-screen-glitch-with-these-expert-fixes-for-2every-gamer/"><u>Minecraft Troubles? Conquer the Black Screen Glitch with These Expert Fixes for 2eveRy Gamer</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/navigating-rar-file-extraction-on-your-mac-with-ease/"><u>Navigating RAR File Extraction on Your Mac with Ease</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-honor-play-8t-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Honor Play 8T.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unstick-your-stuck-clear-steps-to-fix-discord-installation-errors-with-ease/"><u>Unstick Your Stuck: Clear Steps to Fix Discord Installation Errors with Ease</u></a></li>
+</ul></div>
 
