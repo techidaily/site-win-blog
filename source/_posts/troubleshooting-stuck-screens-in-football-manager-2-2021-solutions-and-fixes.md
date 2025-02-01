@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Stuck Screens in Football Manager 2지 2021 – Solutions and Fixes
-date: 2024-08-13T11:35:29.144Z
-updated: 2024-08-14T11:35:29.144Z
+date: 2025-01-29T16:43:30.168Z
+updated: 2025-02-01T00:33:01.224Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 4. Click the**Display** tab to check your graphics card.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/image-132-2.png)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## **Minimum System Requirement of**  Rocket League
 
 | **Supported OS** | Windows 7 or newer         |
@@ -49,8 +46,9 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 | **Hard Drive**   | 7 GB                                         |
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  There’re 7 fixes that have helped many gamers solve their problems. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -64,8 +62,9 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 7. [**Reinstall Rocket League**](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SyMZxS9479s?si=0T6zZpyN2LBftFTM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Run as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Rocket League can make full use of its features, running its function properly. So run the game as an administrator to see if this fixes your issue.
@@ -77,6 +76,10 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 4. Click**Apply > OK** .
 5. Run the game and check the issue is solved or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vQbNyknjJJ8?si=RGVIEWLdPbvRC_r6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Verify game files
 
  This fix will check game files and verify them if they are right. What else, it will download and repair required files. If the Rocket League freezing issue is caused by corrupted game files, this fix could help you fix it.
@@ -84,8 +87,17 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**Rocket League** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 3. Launch Rocket League to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rdNq2Sp031s?si=3FcJa3dQLraUDHKv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Disable Overlay feature
 
@@ -95,14 +107,8 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/setting.jpg)
 2. Choose the**In-Game** tab, uncheck these boxes to disable the Overlay options. Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/settings.jpg)
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Run the game to check.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ### Fix 4: Change compatibility mode
 
  Run Rocket League Launcher in compatibility mode is a way to solve many problems. This Rocket League freezing issue may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
@@ -116,8 +122,9 @@ Many users have reported the **Rocket League freezing** issue. This issue could 
  If this fix doesn’t help, don’t worry, move to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your graphics card driver
 
  When you meet the game freezing issues, it might relate to your graphics card. Rocket league freezing issue may be caused by missing or outdated drivers. So it’s really important to keep your drivers up-to-date to get better gaming experience.
@@ -145,9 +152,6 @@ OR
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
@@ -156,6 +160,10 @@ OR
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Delete the game cache files
 
  The Rocket League freezing issue occurs when certain cache files are corrupted. If that’s the problem for you, you should delete the game cache files. Here is how to do it:
@@ -163,14 +171,13 @@ OR
 1. On your keyboard, press the **Windows logo key**  and **E** at the same time to evoke your**File Explorer** .
 2. Click**This PC** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/fe.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 3. Go to   **Documents > My Games > Rocket League >TAGame** .  
-![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-275.png)
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-275.png)
 4. Right-click on**Cache** and select**Delete** .
 
  Relaunch Rocket League to see if this helped. If your issue persists, check the fix below.
@@ -182,15 +189,8 @@ OR
 1. Run Steam.
 2. Click **LIBRARY** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 3. Right-click **Rocket League**  and select **Uninstall.**  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-273.png)
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 4. Click **DELETE** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-277.png)
 5. Relaunch Steam to download and reinstall Rocket League.
@@ -209,8 +209,6 @@ Hope you can run Rocket League smoothly now.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +216,22 @@ Hope you can run Rocket League smoothly now.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-the-digital-dividend-understanding-the-calculus-of-converting-viewership-into-revenue/"><u>[New] 2024 Approved The Digital Dividend Understanding the Calculus of Converting Viewership Into Revenue</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-2024-approved-transformative-audio-techniques-for-media-professionals/"><u>[New] 2024 Approved Transformative Audio Techniques for Media Professionals</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-efficient-way-to-broadcast-tiktok-videos-via-facebook/"><u>[Updated] Efficient Way to Broadcast TikTok Videos via Facebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquer-the-discord-blackout-challenge-when-sharing-your-desktop-detailed-fixes-available/"><u>Conquer the Discord Blackout Challenge When Sharing Your Desktop – Detailed Fixes Available</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-restoring-dolby-atmos-audio-quality-in-recent-windows-operating-systems/"><u>Effective Solutions for Restoring Dolby Atmos Audio Quality in Recent Windows Operating Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-set-for-uninterrupted-gaming-with-our-fixes-to-total-war-troy-pc-crash-issues/"><u>Get Set for Uninterrupted Gaming with Our Fixes to 'Total War: Troy' Pc Crash Issues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ssing-imovies-potential-for-youtube-broadcasting-for-2024/"><u>Harnessing iMovie's Potential for YouTube Broadcasting for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-vivo-v27-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/in-2024-the-ultimate-composition-crafting-memorable-podcast-covers/"><u>In 2024, The Ultimate Composition Crafting Memorable Podcast Covers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-art-of-uninterrupted-gaming-fix-stutter-and-freeze-in-outriders-pc-version/"><u>Mastering the Art of Uninterrupted Gaming: Fix Stutter & Freeze in Outriders PC Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-installation-problems-in-dragons-dogma-2-on-your-computer/"><u>Overcoming Installation Problems in Dragon's Dogma 2 on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-resolving-gtfo-software-failures/"><u>Step-by-Step Solution: Resolving GTFO Software Failures</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-to-stop-endless-war-outpost-pc-crashes/"><u>Step-by-Step Solutions to Stop Endless War: Outpost PC Crashes</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-vivo-y27s-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Vivo Y27s Phone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/tricks-to-flawless-screen-casting-on-mobile-and-desktop-for-2024/"><u>Tricks to Flawless Screen Casting on Mobile and Desktop for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Dragon's Dogma 2 Performance Issues? Solve Lag, Frame Drops & Hiccups
-date: 2024-08-13T11:31:17.127Z
-updated: 2024-08-14T11:31:17.127Z
+date: 2025-01-24T19:32:42.693Z
+updated: 2025-01-31T21:28:13.154Z
 tags:
   - win11
   - win10
@@ -37,6 +37,10 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 | Graphics  | NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56 |
 | Storage   | 32 GB available space                           |
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -44,35 +48,16 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 3. [Delete specific files from the save folder](https://tools.techidaily.com/drivereasy/download/)
 4. [Underclock your clock speed](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ### Fix 1: Download the latest patch
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
 
 1. Press the**Windows logo key + Pause** to open System.
 2. Click**Advanced system settings.**  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1-4.jpg)
 3. Under the**Advanced** tab, click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2-4.jpg)
@@ -81,6 +66,11 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 5. Uncheck**Automatically manage paging file size for all drives** and make sure you’ve check**System managed size** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/4-2.jpg)
 6. Click**Set > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OFDHJnZLwTA?si=WThcb2h76AnZDzcQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Reboot your computer can check whether the crash will appear or not.
 
 ### Fix 3: Delete specific files from the save folder
@@ -91,19 +81,22 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 1. Run Steam.
 2. In the LIBRARY, right-click on the game and click**Properties** .
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
-5. Reboot your computer and check the issue is solved or not.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Reboot your computer and check the issue is solved or not.
+
 ### Fix 4: Underclock your clock speed
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus: Update your drivers
 
@@ -129,12 +122,13 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
 
@@ -146,8 +140,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +147,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-10-tips-for-shooting-profesional-youtube-videos-for-2024/"><u>[New] 10 Tips For Shooting Profesional YouTube Videos for 2024</u></a></li>
+<li><a href="https://article-tips.techidaily.com/new-2024-approved-djis-sky-high-creativity-with-pro-drone-review/"><u>[New] 2024 Approved DJI's Sky-High Creativity with Pro Drone Review</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-instagram-video-sharing-essentials/"><u>[New] 2024 Approved Instagram Video Sharing Essentials</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-firecapture-plugins-for-firefox/"><u>[New] FireCapture Plugins for Firefox</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-exploring-8-top-tier-free-video-communication-tools-for-enterprises/"><u>2024 Approved Exploring 8 Top-Tier Free Video Communication Tools for Enterprises</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeat-the-frozen-screens-expert-tips-for-fixing-your-ps4-in-7-easy-steps/"><u>Defeat the Frozen Screens: Expert Tips for Fixing Your PS4 in 7 Easy Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dread-hunger-game-freezes-on-desktop-how-to-fix-it/"><u>Dread Hunger Game Freezes On Desktop - How To Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experiencing-issues-with-the-ascent-on-computer-lets-fix-it/"><u>Experiencing Issues with The Ascent on Computer? Let's Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-dying-light-audio-glitch-troubleshooting-steps-inside/"><u>Fixing the 'Dying Light' Audio Glitch: Troubleshooting Steps Inside</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-remove-passcode-from-apple-iphone-15-plus-complete-guide-drfone-by-drfone-ios/"><u>How To Remove Passcode From Apple iPhone 15 Plus? Complete Guide | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-innovative-visual-communication-how-to-place-titles-on-videos-using-photos/"><u>In 2024, Innovative Visual Communication How to Place Titles on Videos Using Photos</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/master-the-fixes-for-pixelation-color-imbalance-and-screen-warping-on-computers/"><u>Master the Fixes for Pixelation, Color Imbalance, and Screen Warping on Computers</u></a></li>
+<li><a href="https://win-forum.techidaily.com/quick-tips-for-faster-windows-11-boot-times-with-revo-uninstaller/"><u>Quick Tips for Faster Windows 11 Boot Times with Revo Uninstaller</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-malfunction-alert-addressing-and-repairing-the-steamuidll-error-crisis/"><u>Steam Malfunction Alert: Addressing and Repairing the Steamui.dll Error Crisis</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-court-obstacles-effectively-dealing-with-civil-action-6s-unusual-access-violation-exceptions/"><u>Tackling Court Obstacles Effectively: Dealing with Civil Action #6'S Unusual Access Violation Exceptions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/team-fortress-2-stabilized-fixes-for-continuous-crashing-issues/"><u>Team Fortress 2 Stabilized: Fixes for Continuous Crashing Issues</u></a></li>
+<li><a href="https://some-tips.techidaily.com/top-50plus-overlays-for-engaging-media-content-for-2024/"><u>Top 50+ Overlays for Engaging Media Content for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steams-controller-detection-issues-on-windows-pcs/"><u>Troubleshooting Steam's Controller Detection Issues on Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-palworld-search-function-glitches/"><u>Troubleshooting the PalWorld Search Function Glitches</u></a></li>
+</ul></div>
 

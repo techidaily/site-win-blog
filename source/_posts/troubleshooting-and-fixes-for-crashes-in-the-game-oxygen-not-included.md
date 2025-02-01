@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting and Fixes for Crashes in the Game 'Oxygen Not Included'
-date: 2024-08-13T11:34:48.378Z
-updated: 2024-08-14T11:34:48.378Z
+date: 2025-01-31T00:42:06.966Z
+updated: 2025-01-31T16:00:16.480Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 | Storage          | 20 GB                             |
 
 <!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,17 +48,15 @@ There’s crashing in Chivalry 2 Beta, it seems the game doesn’t make any prog
 
 1. Right-click on the Chivalry 2 shortcut.
 2. Click the Compatibility tab and check**Run this program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 3. Relaunch Chivalry 2 to see if it keeps crashing or not.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 If it’s not working, move to next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable overclocking
 
  Are you running any OC software like MSI Afterburner? Shut it down. Don’t make your PC overhot is a way to fix the Chivalry 2 crashing problem. Gamers have reported that after underclocked or disable overclocking software, the game stops crashing.
@@ -71,8 +70,9 @@ If it’s not working, move to next fix.
 No luck with this one? Move to the next.
 
 <!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RJNYTGHVlLc?si=heERQcpMi77lqToE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Update your drivers
 
  There will be crashes when you have driver issues. If you’re using an outdated or corrupted driver, crashes or other issues will come to you. However, Windows 10 doesn’t always give you the latest version. There’s a possibility your current graphics card driver isn’t cooperative with Windows 10.
@@ -101,23 +101,21 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
- Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable firewall/ antivirus software
 
  Chivalry 2 requires players to connect the server to play. If the firewall on your system blocks the way, the game crash would happen. Disable the firewall or antivirus software to see the difference.
@@ -145,8 +143,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -154,4 +150,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/1722995037930-solved-world-of-warcraft-wont-launch-on-pc/"><u>[SOLVED] World of Warcraft Won’t Launch on PC</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/2024-approved-top-5-best-ps2-emulator-for-ios/"><u>2024 Approved Top 5 Best PS2 Emulator for Ios</u></a></li>
+<li><a href="https://common-error.techidaily.com/common-issues-with-the-windows-1903-upgrade-process-fixes-included/"><u>Common Issues with the Windows 1903 Upgrade Process - Fixes Included</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003788079-describe-a-symbiotic-relationship-between-photoautotrophs-and-heterotrophs-in-agriculture/"><u>Describe a Symbiotic Relationship Between Photoautotrophs and Heterotrophs in Agriculture</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-to-follow-solutions-to-correct-the-frequent-ring-of-elysium-game-malfunctions-and-crashes/"><u>Easy-to-Follow Solutions to Correct the Frequent Ring of Elysium Game Malfunctions and Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-restoring-outlook-communication-functionality/"><u>Expert Tips for Restoring Outlook Communication Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008903161-immortals-fenyx-rising-debut-triumph-previous-launch-hiccup-smoothed-out/"><u>Immortals: Fenyx Rising Debut Triumph - Previous Launch Hiccup Smoothed Out!</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-pushing-boundaries-in-video-production-acquire-free-green-screen-expertise-from-4-youtube-gurus/"><u>In 2024, Pushing Boundaries in Video Production Acquire Free Green Screen Expertise From 4 YouTube Gurus</u></a></li>
+<li><a href="https://change-location.techidaily.com/list-of-pokemon-go-joysticks-on-samsung-galaxy-a15-4g-drfone-by-drfone-virtual-android/"><u>List of Pokémon Go Joysticks On Samsung Galaxy A15 4G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-smooth-gaming-overcoming-lag-in-dota-2-tips/"><u>Mastering Smooth Gaming: Overcoming Lag in Dota 2 - Tips</u></a></li>
+<li><a href="https://win-tips.techidaily.com/microsoft-debuts-budget-friendly-surface-laptop-se-at-250-to-revolutionize-learning-with-windows-amoled-se-insights-from-zdnet/"><u>Microsoft Debuts Budget-Friendly Surface Laptop SE at $250 to Revolutionize Learning with Windows Amoled SE | Insights From ZDNET</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mlb-the-show-er-2021-server-error-solutions-and-troubleshooting-guide/"><u>MLB The Show Er 2021 Server Error Solutions & Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-in-jurassic-world-evolution-complete-solution-walkthrough/"><u>No More Crashes in Jurassic World Evolution - Complete Solution Walkthrough</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/syncing-songs-to-social-networks-iphonesandroid-approach-for-2024/"><u>Syncing Songs to Social Networks IPhones/Android Approach for 2024</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/the-guide-how-to-discover-another-persons-email-id-securely/"><u>The Guide: How to Discover Another Person's Email ID Securely</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/top-recommended-black-friday-specials-unbeatable-discounts-on-roku-streaming-sticks-and-players/"><u>Top Recommended Black Friday Specials: Unbeatable Discounts on Roku Streaming Sticks and Players</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/troubleshooting-hp-screen-driver-errors-for-windows-operating-systems-win-11-win-8-win-7/"><u>Troubleshooting HP Screen Driver Errors for Windows Operating Systems (Win 11 / Win 8 / Win 7)</u></a></li>
+</ul></div>
 

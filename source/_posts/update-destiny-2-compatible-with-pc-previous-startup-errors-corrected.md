@@ -1,7 +1,7 @@
 ---
 title: "Update: Destiny 2 Compatible with PC, Previous Startup Errors Corrected"
-date: 2024-08-13T11:31:14.310Z
-updated: 2024-08-14T11:31:14.310Z
+date: 2025-01-27T18:10:51.009Z
+updated: 2025-02-01T00:22:42.700Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
 
  Before you proceed with the fixes below, please make sure your gear meets[the minimum requirements of Persona 5 Stri](https://gamesystemrequirements.com/game/persona-5-strikers) [kers](https://gamesystemrequirements.com/game/persona-5-strikers) .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Persona 5 Strikers crashing might be caused by**lack of administrative rights** ,**corrupted game files,** or**software interference** ,**outdated graphics drivers** , etc.
@@ -46,14 +43,18 @@ You just jumped into the stylish world of Persona but annoyed to find that Perso
  Note that some antivirus software will still keep running even when disabled. You can add your game to its exclusion list or uninstall it temporarily.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 2\. Update your graphics drivers
 
  It’s very important to keep your graphics drivers updated to the latest version, whether for Persona 5 Strikers or other games. Graphics manufacturers keep releasing new drivers to fix known bugs and make minor improvements.
 
 There are mainly two ways for you to update your graphics driver:
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Option 1: Manually
 
@@ -61,14 +62,12 @@ There are mainly two ways for you to update your graphics driver:
 
  Note that when installing a driver manually, you’ll need to perform a clean installation so that the new driver can be recognized correctly.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/clean.png)
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Option 2: Automatically
 
  If you don’t have the time, patience, or computer skills to update your drivers manually, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -79,9 +78,6 @@ There are mainly two ways for you to update your graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Scan-now-1.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with the Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
  ![](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
@@ -100,28 +96,31 @@ There are mainly two ways for you to update your graphics driver:
 3. Go to the**Local files** , and select**Verify the integrity of the game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/verify.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Wait for the verification to complete. Once done, you can relaunch your Persona 5 Strikers to test the issue.
 
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 4\. Play the game in windowed mode
 
  Another way to stop your Persona 5 Strikers from crashing is to play the game in windowed mode. Here’s how to do it:
 
 1. Go to your Steam Library, and right-click Persona 5 Strikers > select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/persona-5-properties.png)
 2. Under the**LAUNCH OPTIONS** , add**\-windowed** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/windowed-mode.png)
 3. Close the game’s **Properties** window and launch the game.
 
  Now you will find the game stops crashing. If this method doesn’t work for you, don’t worry. You can try the fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 5\. Run your game as an administrator
 
@@ -130,9 +129,6 @@ There are mainly two ways for you to update your graphics driver:
 1. Navigate to your game installation folder (usually**C:/Steam Library/ steamapps/common/P5S/game.exe** ).  
  Or you can right-click the game and select**Manage** \>**Browse local files** .
 2. Right-click the game.exe file, and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/Screen-Shot-2021-02-26-at-10.30.23-AM.png)
 3. Go to the**Compatibility** tab, and check the box next to the**Disable fullscreen optimizations** , and**Run this program as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/compatibility.png)
@@ -169,8 +165,6 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +172,22 @@ There are mainly two ways for you to update your graphics driver:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-2024-approved-the-reality-of-now-vrs-evolution-and-challenges/"><u>[Updated] 2024 Approved The Reality of Now VR's Evolution and Challenges</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-the-power-of-first-impressions-crafting-impactful-youtube-images-for-2024/"><u>[Updated] The Power of First Impressions Crafting Impactful YouTube Images for 2024</u></a></li>
+<li><a href="https://os-tips.techidaily.com/blur-photos-fast-on-iphone-simple-steps-for-selective-image-privacy/"><u>Blur Photos Fast on iPhone - Simple Steps for Selective Image Privacy</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-bugs-essential-troubleshooting-steps-to-prevent-maplestory-crash-on-windows-11/"><u>Bypassing Bugs: Essential Troubleshooting Steps to Prevent MapleStory Crash on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decode-and-defend-against-recurring-glitches-stability-hacks-for-days-gone/"><u>Decode & Defend Against Recurring Glitches: Stability Hacks for Days Gone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-2-centipede-error-code-explained-solutions-for-gamers/"><u>Destiny 2 Centipede Error Code Explained: Solutions for Gamers</u></a></li>
+<li><a href="https://win11.techidaily.com/essential-tips-on-applying-diskusage-commands-for-storage-assessment/"><u>Essential Tips on Applying DiskUsage Commands for Storage Assessment</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/guia-facil-y-gratuita-para-cambiar-imagenes-de-ppm-a-jpeg-online-mediante-movavi/"><u>Guía Fácil Y Gratuita Para Cambiar Imágenes De PPM a JPEG Online Mediante Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-flickering-in-call-of-duty-warzone-ultimate-troubleshooting-guide/"><u>How to Stop Flickering in Call of Duty Warzone – Ultimate Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-tame-discords-high-cpu-appetite-proven-techniques-and-tips-year-2024/"><u>How To Tame Discord's High CPU Appetite: Proven Techniques and Tips (Year 2024)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-sea-of-thieves-startup-snags-expert-tips-and-tricks/"><u>Navigating Through Sea of Thieves Startup Snags – Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/pcdj-insights-a-unique-perspective-on-music-production/"><u>PCDJ Insights: A Unique Perspective on Music Production</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-solutions-preventing-darkest-dungeon-2-from-freezing-and-closing-windows/"><u>Tips & Solutions: Preventing Darkest Dungeon 2 From Freezing and Closing Windows</u></a></li>
+<li><a href="https://voice-adjusting.techidaily.com/updated-in-2024-illuminating-soundscapes-with-imagery-techniques-for-photographic-audio-amalgamation-2023-art-and-technology-insights/"><u>Updated In 2024, Illuminating Soundscapes with Imagery Techniques for Photographic Audio Amalgamation 2023 Art & Technology Insights</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/why-creatives-might-choose-the-apple-studio-display-an-in-depth-analysis-for-potential-buyers-zdnet-guides/"><u>Why Creatives Might Choose the Apple Studio Display: An In-Depth Analysis for Potential Buyers | ZDNet Guides</u></a></li>
+</ul></div>
 

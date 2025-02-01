@@ -1,7 +1,7 @@
 ---
 title: Guia Prático Para Usar E Abertura De Arquivos No Padrão DivX Explicado
-date: 2025-01-17T16:34:53.209Z
-updated: 2025-01-24T18:50:49.061Z
+date: 2025-01-31T03:27:36.053Z
+updated: 2025-01-31T21:36:36.711Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b0c789775642f2ac1a082c3710ec3e71a5c2db92094d509f8f2ac2b5d87390af.jpg
@@ -45,6 +45,10 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
 
@@ -176,11 +180,19 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
 
@@ -210,16 +222,12 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
@@ -274,10 +282,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Gérer les mises à jour automatiques de Steam
 
 ![](https://cdn.staticont.net/default/0012/47/297019451ab2d6ffba248c33b083ec10c2390f59.webp)
@@ -298,10 +302,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -333,6 +333,10 @@ Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en m
 Pour ce faire, appuyez sur la   **touche Windows** \+ **I**. Tapez "pointeur de la souris" dans la zone de recherche. Choisissez **Modifier l'affichage ou la vitesse du pointeur de la souris**. Dans la fenêtre qui s'ouvre, allez dans l'onglet **Options du pointeur** et décochez la case **Améliorer la précision du pointeur**.
 
 Vous pouvez également modifier le curseur de la vitesse du pointeur pour créer la configuration qui vous convient le mieux.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 
 
@@ -411,10 +415,6 @@ C'est l'un des services faciles à désactiver sur Windows 10\. Ces programmes e
 * Définissez la **valeur** sur **0**.
 * Cliquez sur **OK**.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
@@ -423,12 +423,16 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
@@ -447,6 +451,10 @@ Les ordinateurs portables sont réputés pour leur surchauffe, car tous les comp
 ### Mettez à niveau votre GPU et votre RAM
 
 Nous avons déjà abordé ce sujet pour les PC, mais votre ordinateur portable peut également être équipé d'un processeur graphique et d'une mémoire vive. Suivez les mêmes protocoles, et si vous n'avez pas l'habitude de travailler avec des ordinateurs portables, il est préférable de confier l'installation à un technicien expérimenté.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### 
 
@@ -479,10 +487,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/nmj7aVvEeAs?si=OcR7USXKGyLcn09q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -495,10 +499,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/cDNwgyE0nbY?si=3k_WBhpIw3WudJot" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -521,16 +521,12 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 5. Installez de la RAM supplémentaire
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6xXIR_Uh1A?si=TMXzklPEY50MUM05" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vEYkX2NJgZw?si=IaHqlqJcYipwUOht" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -541,6 +537,10 @@ Atteindre 60 FPS dans un jeu n'est pas différent des conseils pour accélérer 
 3. Passez Windows 10 en "mode jeu".
 4. Vérifiez les paramètres graphiques de votre jeu.
 5. Installez les derniers pilotes pour votre carte graphique
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jnITUsxMz5s?si=ohwRVH6eWhVnC6Xf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Pourquoi ai-je des fps faibles sur mon PC haut de gamme ?
 
@@ -585,20 +585,22 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/lashing-frequencies-role-music-synopsis-for-2024/"><u>[New] Flashing Frequencies Role-Music Synopsis for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/updated-2024-approved-top-10-best-free-mmorpg-games/"><u>[Updated] 2024 Approved Top 10 Best Free MMORPG Games</u></a></li>
-<li><a href="https://fox-access.techidaily.com/updated-in-2024-how-do-green-screens-work-a-complete-beginners-guide/"><u>[Updated] In 2024, How Do Green Screens Work? [A Complete Beginner's Guide]</u></a></li>
-<li><a href="https://extra-approaches.techidaily.com/2024-approved-setting-up-zoom-meetings-a-comprehensible-android-methodology/"><u>2024 Approved Setting Up Zoom Meetings A Comprehensible Android Methodology</u></a></li>
-<li><a href="https://win11.techidaily.com/addressing-write-prohibited-steam-directories-in-win-11/"><u>Addressing Write-Prohibited Steam Directories in Win 11</u></a></li>
-<li><a href="https://win-blog.techidaily.com/error-no-more-a-comprehensive-guide-to-fix-steams-tarkov-error-code-103003/"><u>Error No More: A Comprehensive Guide to Fix Steam's Tarkov Error Code 103^003</u></a></li>
-<li><a href="https://win-blog.techidaily.com/guide-to-operating-the-driver-easy-app-on-your-smartphone/"><u>Guide to Operating the Driver Easy App on Your Smartphone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-successfully-repair-battlefield-5-wont-start-a-comprehensive-2024-tutorial/"><u>How To Successfully Repair 'Battlefield 5 Won't Start' - A Comprehensive 2024 Tutorial</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-nubia-z50-ultra-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Nubia Z50 Ultra to iPad | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-how-to-cast-vivo-s17-to-computer-for-iphone-and-android-drfone-by-drfone-android/"><u>In 2024, How to Cast Vivo S17 to Computer for iPhone and Android? | Dr.fone</u></a></li>
-<li><a href="https://digital-screen-recording.techidaily.com/in-2024-non-identifiable-video-blurring-private-elements-efficiently/"><u>In 2024, Non-Identifiable Video Blurring Private Elements Efficiently</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolving-technical-glitches-a-guide-to-solving-phasmophobia-vr-problems/"><u>Resolving Technical Glitches: A Guide to Solving Phasmophobia VR Problems</u></a></li>
-<li><a href="https://win-blog.techidaily.com/solve-your-helldivers-2-pc-glitches-top-ranked-fix-strategies-revealed/"><u>Solve Your Helldivers 2 PC Glitches - Top-Ranked Fix Strategies Revealed!</u></a></li>
-<li><a href="https://win-able.techidaily.com/solve-youtubes-persistent-buffering-issues-overcoming-the-0-99-hurdle-in-video-processing/"><u>Solve YouTube's Persistent Buffering Issues: Overcoming the 0-99% Hurdle in Video Processing</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-fix-failed-minecraft-installs-on-windows-11/"><u>Troubleshooting: How to Fix Failed Minecraft Installs on Windows 11</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-master-the-digital-landscape-with-these-7-indispentic-devices/"><u>[New] In 2024, Master the Digital Landscape with These 7 Indispentic Devices</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-maximize-your-streaming-experience-dual-screen-mode-on-netflix/"><u>[Updated] Maximize Your Streaming Experience - Dual Screen Mode on Netflix</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/2024-approved-amplifying-tv-screens-through-fb-live-integration/"><u>2024 Approved Amplifying TV Screens Through FB Live Integration</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-essential-qanda-on-quantum-hdr-technology/"><u>2024 Approved The Essential Q&A on Quantum HDR Technology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-black-screen-error-comprehensive-solutions-for-call-of-duty-wwii-on-windows-systems/"><u>Beat the Black Screen Error: Comprehensive Solutions for Call of Duty WWII on Windows Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-restart-davinci-resolve-on-your-windows-computer-successfully/"><u>Expert Tips to Restart DaVinci Resolve on Your Windows Computer Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-v-audio-fix-say-goodbye-to-stutters-and-lags/"><u>Grand Theft Auto V Audio Fix - Say Goodbye to Stutters & Lags!</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/headphone-sounds-gone-wrong-solve-crackling-noises-with-ease/"><u>Headphone Sounds Gone Wrong? Solve Crackling Noises with Ease!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-zooms-overloading-on-your-computers-processor-a-step-by-step-guide/"><u>How to Fix Zoom's Overloading on Your Computer's Processor: A Step-by-Step Guide</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/lexmark-unveils-new-internal-iot-platform-now-available-in-market-insights-from-zdnet/"><u>Lexmark Unveils New Internal IoT Platform Now Available in Market - Insights From ZDNet</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/perfecting-photography-with-phantoms-retrograde-technique/"><u>Perfecting Photography with Phantom's Retrograde Technique</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/platform-picks-for-prominent-content-creators-for-2024/"><u>Platform Picks for Prominent Content Creators for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-hogwarts-legacy-game-crashes-at-launch-8-effective-fixes-for-your-pc/"><u>Stop Hogwarts Legacy Game Crashes at Launch: 8 Effective Fixes for Your PC</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/top-10-unique-gaming-screen-capture-applications-for-2024/"><u>Top 10 Unique Gaming Screen Capture Applications for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-6-solutions-to-stop-hogwarts-legacy-game-lag/"><u>Top 6 Solutions to Stop Hogwarts Legacy Game Lag !</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-ubisofts-far-cry-6-glitches-and-bugs-essential-tips-players/"><u>Troubleshooting Guide: Resolving Ubisoft's Far Cry 6 Glitches & Bugs – Essential Tips Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-solutions-for-preventing-your-app-from-crashing-during-the-2024-release/"><u>Troubleshooting Guide: Solutions for Preventing Your App From Crashing During the 2024 Release</u></a></li>
 </ul></div>
 

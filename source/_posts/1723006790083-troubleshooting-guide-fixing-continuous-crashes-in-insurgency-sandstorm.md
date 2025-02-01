@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing Continuous Crashes in 'Insurgency: Sandstorm'"
-date: 2024-08-13T11:31:25.803Z
-updated: 2024-08-14T11:31:25.803Z
+date: 2025-01-29T00:24:17.968Z
+updated: 2025-01-31T17:31:19.799Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 
  Here we’ve gathered the latest fixes that helped other players resolve the Dirt 5 crashing issue. Whether Dirt 5 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all, Just work your way through the list until you find the one that does the trick for you.
@@ -34,8 +31,9 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -59,21 +57,24 @@ The outdated or broken graphics driver often crashes the game.
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GPk8_xpN_rA?si=YbAdgsjAKsCn_UsB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if the latest graphics driver stops the Dirt 5 from crashing. If not, don’t worry. Try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Verify the game files
 
  The game crash issue can also be caused by the corrupted game files. To fix this issue, you need to verify the game files. Here is how to do it:
 
 1. In Steam, navigate to **the LIBRARY tab** and **right-click** on _DIRT 5_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![LOCAL FILES>VERIFY INTEGRITY OF GAME CACHE...](https://images.drivereasy.com/wp-content/uploads/2019/04/image-120.png)
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
@@ -91,14 +92,13 @@ The outdated or broken graphics driver often crashes the game.
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
 
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oeSN3u4fO9M?si=Ua3Hzcil6u6akDgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
@@ -109,11 +109,13 @@ The outdated or broken graphics driver often crashes the game.
 
 1. Launch the Steam client and go to Steam **Library** .**Right-click on DIRT 5** and select **Properties** .
 2. In the**GENERAL** section, click **SET LAUNCH OPTIONS…**  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Modify-Steam-set-launch-options.jpg)
 3. Copy and paste the commands below and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ME5-sAQJVE4?si=ZfcvJSnhQevWtjI0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 `-useallavailablecores -high`
 
  Launch the game to see if it crashes again. If it still crashes, try the next fix, below.
@@ -139,8 +141,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +148,26 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/1722983840633-solved-chrome-being-slow-quickly-and-easily/"><u>[SOLVED] Chrome Being Slow | Quickly & Easily</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-indoor-natural-lighting-tips/"><u>[Updated] Indoor Natural Lighting Tips</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-rhythm-and-film-imovie-for-music-videos/"><u>[Updated] Rhythm & Film IMovie for Music Videos</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/assessing-google-one-ai-premium-services-insight-into-benefits-and-evaluating-the-cost-value-equation/"><u>Assessing Google One AI Premium Services – Insight Into Benefits and Evaluating the Cost-Value Equation.</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comprehensive-analysis-of-the-heimvision-a80s-sunrise-alarm-clock-featuring-essential-light-therapy/"><u>Comprehensive Analysis of the HeimVision A80S Sunrise Alarm Clock - Featuring Essential Light Therapy</u></a></li>
+<li><a href="https://some-tips.techidaily.com/cutting-edge-trends-in-mobility-how-on-device-ai-and-revolutionary-smartphones-are-shaping-the-future-zdnet/"><u>Cutting-Edge Trends in Mobility: How On-Device AI and Revolutionary Smartphones Are Shaping the Future | ZDNet</u></a></li>
+<li><a href="https://win-tips.techidaily.com/effortless-restoration-how-a-simple-factory-reset-can-rejuvenate-your-windows-10-bios/"><u>Effortless Restoration: How a Simple Factory Reset Can Rejuvenate Your Windows 10 BIOS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/exploring-performance-issues-why-doesnt-f1-2021-maintain-steady-frame-rates-on-desktops/"><u>Exploring Performance Issues: Why Doesn't F1 2021 Maintain Steady Frame Rates on Desktops?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-now-addressing-the-steam-locked-error-challenge/"><u>Fix Now: Addressing the Steam Locked Error Challenge</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-dragon-age-origins-game-crashes-in-windows-10-solutions/"><u>Fixing Dragon Age: Origins Game Crashes in Windows 10 - Solutions</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-apple-iphone-14-pro-max-passcode-not-working-by-drfone-ios/"><u>How to Fix Apple iPhone 14 Pro Max Passcode not Working?</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/how-to-transform-blu-ray-movie-soundtracks-into-mp3s-for-perfect-playlist-additions/"><u>How to Transform Blu-Ray Movie Soundtracks Into MP3s for Perfect Playlist Additions</u></a></li>
+<li><a href="https://some-skills.techidaily.com/in-2024-tunetinker-tweaking-the-audio-map/"><u>In 2024, TuneTinker Tweaking the Audio Map</u></a></li>
+<li><a href="https://discover-guides.techidaily.com/1725286053956-ipaddvd/"><u>IPadでDVDの内容をスムーズに見られる無料ダウンロードガイド</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezes-in-assassins-creed-odyssey-essential-pc-troubleshooting-tips-for-gamers-updated-april-2024/"><u>No More Freezes in Assassin's Creed Odyssey: Essential PC Troubleshooting Tips for Gamers - Updated April 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-the-problem-why-isnt-diablo-ii-resurrected-starting-correctly/"><u>Solve the Problem: Why Isn't Diablo II Resurrected Starting Correctly?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985603099-success-fixing-that-annoying-pixel-tear-up-problem-now/"><u>Success! Fixing That Annoying Pixel Tear-Up Problem Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solution-for-stability-issues-with-assetto-corsa-italia-f1-2020-edition/"><u>Ultimate Solution for Stability Issues with Assetto Corsa Italia - F1 2020 Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/world-of-warcraft-troubleshooting-how-to-overcome-the-uncatchable-error-1cuuage/"><u>World of Warcraft Troubleshooting: How to Overcome the Uncatchable Error 1Cuuage</u></a></li>
+</ul></div>
 
