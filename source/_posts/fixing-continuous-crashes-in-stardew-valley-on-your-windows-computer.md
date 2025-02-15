@@ -1,7 +1,7 @@
 ---
 title: Fixing Continuous Crashes in Stardew Valley on Your Windows Computer
-date: 2024-08-18T17:58:23.073Z
-updated: 2024-08-19T17:58:23.073Z
+date: 2025-02-10T20:14:10.581Z
+updated: 2025-02-15T07:42:06.053Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 8. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 9. **[Run as administrator](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1 – Restart your computer
 
  Yes, seriously. Just turn off your computer and turn it back on. The game crash issue is sometimes just a temporary problem that can be fixed by a restart.
@@ -43,17 +40,15 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
  But if your game keeps crashing even after the restart, try the next solution below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2 – Disconnect peripherals
 
  Your peripherals, especially gaming accessories, often run with 3rd party software that controls them. In some cases, the software may not be compatible with your game and prevent it from running correctly.
 
  If you have multiple peripherals hooked up to your computer, try disconnecting them to find out if any is causing trouble for you.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. If you’re using an outdated graphics driver, it could result in game glitches and long rendering time. So try updating your graphics driver and then running the game again.
@@ -70,6 +65,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
@@ -85,6 +84,10 @@ Disco Elysium – The Final Cut is now available on Steam. Recently, many player
 
 If Disco Elysium still crashes, try the next fix below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 4 – Disable extraneous software
 
  Game performance issues will happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -97,6 +100,10 @@ If Disco Elysium still crashes, try the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Restart your game to see if it runs correctly now.
 
  You may also need to disable your antivirus as game crashes is sometimes caused by interference from antivirus software. If your game works properly after you disable the antivirus software, contact the vendor of your antivirus software and ask them for advice, or install a different antivirus solution.
@@ -105,9 +112,6 @@ If Disco Elysium still crashes, try the next fix below.
 
 If Disco Elysium won’t work correctly, read on and try Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Fix 5 – Verify integrity of game files
 
  Files of your game installation might get corrupt, or be deleted as a false positive by antivirus. This could cause issues such as crashes during gameplay.
@@ -122,10 +126,11 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 
 **3)** Right-click **Disco Elysium – The Final Cut** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-09_10-38-23.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
@@ -138,11 +143,16 @@ If Disco Elysium won’t work correctly, read on and try Fix 5.
 If your game still crashes after this, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6 – Stop overclocking
 
  If you’re overclocking your CPU or GPU, stop it. An unstable overclock will crash your game and the whole system. So, you should set your CPU clock speed rate back to the default to see if that resolves the crash issue.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 7 – Reinstall the game
 
@@ -158,24 +168,22 @@ If your game still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2019-11-25_11-20-09-edited.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Restart Steam and reinstall the game.
 
 **5)** Relaunch your game.
 
 If the crashing issue still exists, there’s still 1 fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 8: Check for Windows updates
 
  If your game won’t launch at all, it’s not likely that out-of-date Windows components are the core issue, but you should rule out the possibility.
 
  1) On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-18_11-12-20.jpg)
 
  2) Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
@@ -186,9 +194,6 @@ If the crashing issue still exists, there’s still 1 fix to try.
 
 If the game still crashes, then try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 9 – Run as administrator
 
  Running your computer under a standard user mode can give a hard time to gameplay as limited user rights may cause problems when your game tries to access certain game files.
@@ -201,9 +206,6 @@ To run your game as administrator, follow the instructions below:
 
  2) Click the **Compatibility** tab and check **Run this program as an administrator** . Then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2020-12-16_17-00-12.jpg)
 
 4) Repeat steps 1-2 to grant Steam admin rights.
@@ -222,8 +224,6 @@ To run your game as administrator, follow the instructions below:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -231,4 +231,21 @@ To run your game as administrator, follow the instructions below:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://os-tips.techidaily.com/1-mastering-alert-settings-a-guide-to-controlling-your-ios-device-notifications/"><u>1. Mastering Alert Settings: A Guide to Controlling Your iOS Device Notifications</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultimate-video-editors-top-8-linux-picks/"><u>2024 Approved Ultimate Video Editors Top 8 Linux Picks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fallout-3-and-windows-10-compatibility-solutions-for-seamless-gaming-performance/"><u>Fallout 3 & Windows 10 Compatibility – Solutions for Seamless Gaming Performance</u></a></li>
+<li><a href="https://howto.techidaily.com/fixing-persistent-pandora-crashes-on-oppo-find-x7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fixing Persistent Pandora Crashes on Oppo Find X7 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/hitman-3-wont-start-troubleshooting-guide-for-pc-users/"><u>Hitman 3 Won't Start: Troubleshooting Guide for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-gaming-fix-frontier-crashes-on-your-computer/"><u>How to Ensure Smooth Gaming: Fix Frontier Crashes on Your Computer</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/how-to-solve-playstation-and-xboxs-resident-evil-village-sound-issues/"><u>How To Solve PlayStation and Xbox's Resident Evil Village Sound Issues</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-set-your-preferred-job-location-on-linkedin-app-of-your-oppo-f25-pro-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Set Your Preferred Job Location on LinkedIn App of your Oppo F25 Pro 5G | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/ipad-pro-versus-macbook-air-determining-the-ideal-device-tailored-to-your-needs-tech-insights/"><u>IPad Pro Versus MacBook Air: Determining the Ideal Device Tailored to Your Needs | Tech Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-play-without-disconnection-fix-and-tips/"><u>League of Legends Play Without Disconnection - Fix & Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/navigating-through-the-hiccups-a-comprehensive-guide-to-call-of-duty-modern-warfare-3-stutter-issues-and-optimization-tips/"><u>Navigating Through the Hiccups: A Comprehensive Guide to Call of Duty Modern Warfare 3 Stutter Issues and Optimization Tips</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/rapid-growth-tactics-hit-and-maintain-a-stellar-10000-views-mark-for-2024/"><u>Rapid Growth Tactics Hit and Maintain a Stellar 10,000 Views Mark for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-bypassing-stubborn-load-barriers-on-red-dead-redemption-2/"><u>Solution Found: Bypassing Stubborn Load Barriers on Red Dead Redemption 2</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/transforming-kindle-azw3-books-for-universal-access-tips-for-reading-on-any-device/"><u>Transforming Kindle AZW3 Books for Universal Access: Tips for Reading on Any Device</u></a></li>
+</ul></div>
 

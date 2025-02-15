@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Days Gone PC Launch Issues: A Step-by-Step Guide"
-date: 2024-08-18T17:57:56.564Z
-updated: 2024-08-19T17:57:56.564Z
+date: 2025-02-08T22:46:43.317Z
+updated: 2025-02-15T03:35:04.547Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ You may run into the_Path of Exile (PoE)_ freezing issue for several reasons, su
 
  The information here is a general guide that has proved useful to many players in fixing this issue. You may not have to try them all, just work your way down the list until you find the one that does the trick for you. (If none of the fixes here helped, at least you’ve ruled out all these simple fixes before contacting the game developer.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
 1. **[End unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
@@ -33,9 +30,6 @@ You may run into the_Path of Exile (PoE)_ freezing issue for several reasons, su
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Clean the interior of your PC](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: End unnecessary programs
 
  The game freezing issue commonly occurs when you’re running multiple applications simultaneously on your PC. It’s probable that your computer doesn’t have enough power or memory to support all of the programs you’re opening. So, you should end unnecessary programs while gaming.
@@ -44,9 +38,6 @@ Follow the instructions below:
 
 **1)**  Right-click your taskbar and select **Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_10-58-19.jpg)
 
 **2)** Check your current **CPU and memory usage** to see what processes are consuming your resources most.
@@ -57,16 +48,10 @@ Follow the instructions below:
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_10-58-35.jpg)
 
  Relaunch your game to see if it runs properly now. If the issue continues to occur, read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  The _PoE_ freezing issue may occur if you are using the wrong graphics driver or it’s out of date. So you should update your graphics driver to see if it fixes your problem. There are two ways you can do this:
@@ -87,6 +72,10 @@ Follow the instructions below:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-02-59.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -94,23 +83,6 @@ Follow the instructions below:
 
 If your issue continues to occur, move on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ### Fix 3: Run your game as an administrator
 
  Running your game as an administrator can grant it full access to game files and folder on your PC.
@@ -121,22 +93,24 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-03.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click **Apply** , then **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-10-18.jpg)
 
  Relaunch your game to test your issue. If this didn’t work, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 4: Verify the integrity of your game files
 
  Game freezing issues happen when a certain game file is damaged or missing. Try verifying the integrity of your game files to see if that’s the problem for you.
@@ -149,16 +123,14 @@ Key features:
 
 **3)**  Right-click **Path of Exile** and select **Properties.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-08-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Click the **LOCAL FILES**  tab, and then click **VERIFY INTEGRITY OF GAME FILES** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-15-18.jpg)
 
 ### Fix 5: Increase virtual memory
@@ -173,11 +145,12 @@ Key features:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-30.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Advanced**  tab, and then click **Change** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-38.jpg)
 
 **4)** Uncheck the box next to **Automatically manage paging file size for all drives** .
@@ -186,19 +159,17 @@ Key features:
 
 **6)** Select your **C drive** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-31-52.jpg)
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-33-50.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PNw3Lb26wFA?si=5NR1XRVSp41EQYMy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)** Click **Set** , and then click **OK** .
 
@@ -214,16 +185,25 @@ If your issue persists, then ahead with the fix below.
 
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-47-57.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-48-06.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Restart your computer and your game. If your issue still exists, try the fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Steam
 
@@ -235,9 +215,6 @@ If your issue persists, then ahead with the fix below.
 
 **2)** Under **View by** , select **Category.**  Then, select **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-32.jpg)
 
 **3)** Right-click **Steam** , and then click **Uninstall** . Then, wait for the process to be complete.
@@ -245,6 +222,10 @@ If your issue persists, then ahead with the fix below.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-01_11-51-38.jpg)
 
  **4)[Download](https://store.steampowered.com/about/)**  and install Steam. Then, reinstall your game on Steam.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Clean the interior of your PC
 
@@ -264,8 +245,6 @@ Relaunch the game to see if this helped.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -273,4 +252,22 @@ Relaunch the game to see if this helped.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-best-budget-switch-console-clones/"><u>[Updated] In 2024, Best Budget Switch Console Clones</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/updated-unlocking-the-potential-of-zoom-meetings-for-2024/"><u>[Updated] Unlocking the Potential of Zoom Meetings for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieving-smooth-gaming-solving-the-persistent-crashes-of-f1-2020-on-pc/"><u>Achieving Smooth Gaming: Solving the Persistent Crashes of F1 2020 on PC</u></a></li>
+<li><a href="https://fox-place.techidaily.com/behind-the-birth-of-roc-learn-who-initiated-the-foundation-with-expertise-from-yl-computing-and-yl-software/"><u>Behind the Birth of ROC: Learn Who Initiated the Foundation with Expertise From YL Computing and YL Software</u></a></li>
+<li><a href="https://fake-location.techidaily.com/full-guide-to-fix-itoolab-anygo-not-working-on-samsung-galaxy-z-flip-5-drfone-by-drfone-virtual-android/"><u>Full Guide to Fix iToolab AnyGO Not Working On Samsung Galaxy Z Flip 5 | Dr.fone</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-fix-iphone-7-unavailable-issue-with-ease-by-drfone-ios/"><u>How To Fix iPhone 7 Unavailable Issue With Ease</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-lost-data-from-iphone-6s-plus-after-ios-update-stellar-by-stellar-data-recovery-ios-iphone-data-recovery/"><u>How to Recover Lost Data from iPhone 6s Plus After iOS Update? | Stellar</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-hitman-3-connection-errors-effectively-and-get-back-to-gaming/"><u>How to Resolve Hitman 3 Connection Errors Effectively and Get Back to Gaming</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-ispoofer-update-on-infinix-hot-30-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Will iSpoofer update On Infinix Hot 30 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/league-of-legends-performance-boosted-eliminating-gameplay-lag/"><u>League of Legends Performance Boosted - Eliminating Gameplay Lag!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-error-resolved-understanding-and-fixing-exit-code-0-issue/"><u>Minecraft Error Resolved: Understanding and Fixing 'Exit Code 0' Issue</u></a></li>
+<li><a href="https://smart-video-editing.techidaily.com/new-2024-approved-hd-video-editing-made-easy-top-5-software-recommendations/"><u>New 2024 Approved HD Video Editing Made Easy Top 5 Software Recommendations</u></a></li>
+<li><a href="https://network-issues.techidaily.com/nvidia-rtx-3080-game-savior-a-troubleshooting-companion/"><u>NVIDIA RTX 3080 Game Savior: A Troubleshooting Companion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-your-gameplay-solve-resident-evil-villages-fps-drops-and-lag-on-pc/"><u>Optimize Your Gameplay: Solve Resident Evil Village's FPS Drops and Lag on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-steam-remote-play-issues-top-troubleshooting-tips/"><u>Solving Steam Remote Play Issues: Top Troubleshooting Tips</u></a></li>
+</ul></div>
 

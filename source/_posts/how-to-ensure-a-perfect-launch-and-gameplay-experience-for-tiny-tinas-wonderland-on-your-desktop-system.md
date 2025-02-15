@@ -1,7 +1,7 @@
 ---
 title: How To Ensure a Perfect Launch and Gameplay Experience for Tiny Tina’s Wonderland on Your Desktop System
-date: 2024-08-18T17:58:03.070Z
-updated: 2024-08-19T17:58:03.070Z
+date: 2025-02-11T23:52:04.514Z
+updated: 2025-02-15T03:14:29.118Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  With Psychonauts 2 released recently, some players have reported that the game keeps crashing on their PC while in-game or at launch. If you’re facing the same issue, don’t worry. In this post, you’ll learn how to fix Psychonauts 2 crashing issues easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’re some working fixes for your Psychonauts 2 crashing issue. You might not need to try them all, just work down the list until you find the one that works for you.
@@ -33,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 5. **[Check your firewall and antivirus settings](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Psychonauts 2](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your PC meets the minimum requirements
 
  Before we begin to troubleshoot Psychonauts 2 crashing issues, you need to make sure your PC meets the minimum system requirements to run the game properly.
@@ -48,10 +42,6 @@ thumbnail: https://thmb.techidaily.com/8f8ccde6a37994fbb46b3e6f7b726055988d6d039
 
  After confirming your PC is good enough for Psychonauts 2, you can move on to the advanced troubleshooting below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  The graphics driver, also called a video card driver, is essential to the functioning of video games. If you’re using a faulty or outdated graphics driver, you’re likely to encounter the crashing issue in Psychonauts 2\. To fix the potential problem and get the best performance out of your hardware, you should make sure your computer’s graphics driver is up to date.
@@ -62,11 +52,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/scan-18.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Or click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
@@ -77,10 +68,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 If the issue persists, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify the integrity of game files
 
  If the game’s files are missing or corrupted, you may experience crashing while playing Psychonauts 2\. To fix the issue, you can have Steam verify that the game’s files are installed correctly on your computer. Here’s how:
@@ -89,6 +76,11 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Right-click Psychonauts 2, select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties.jpg)
 3. Select the LOCAL FILES tab and click**Verify integrity of game files…** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-verify-game-files-1.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
@@ -104,18 +96,21 @@ If the crashing issue remains, continue to the next fix.
 2. Right-click Psychonauts 2, select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/psychonauts2-properties-1.jpg)
 3. In the GENERAL section, enter**\-dx11** under LAUNCH OPTIONS.  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/steam-launch-options-dx11.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fm0XhU5H8R4?si=cFPk6XK3X3CQSI7Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  This will force the game to run in DX11\. Then you can launch Psychonauts 2 again to see if the error still occurs.
 
 If this fix doesn’t do the trick, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Check your firewall and antivirus settings
 
  Sometimes your Windows Firewall or antivirus software could block the normal operation of Psychonauts 2 and cause the game crashes. To ensure that Psychonauts 2 works properly, you should allow the game through the firewall or add it as an exception to your antivirus software.
@@ -125,28 +120,33 @@ Allow Psychonauts 2 through Windows Firewall:
 1. On your keyboard, press the**Windows logo key** , and type**firewall** in the search box. Then click**Firewall & network protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/firewall-network-protection.jpg)
 2. Click**Allow an app through firewall** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-an-app-through-firewall.jpg)
 3. In the new window, click**Change settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/change-settings.jpg)
 4. Click**Allow another app…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/allow-another-app-1.jpg)
 5. In the pop-up window, click**Browse** to find Psychonauts 2, then click**Add** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/add-an-app.jpg)
 6. Click**OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/ok.jpg)
 
  The way to add Psychonauts 2 as an exception to your antivirus software will vary depending on the antivirus software you’re using.
 
  See if the game crashes after you allow the game through the firewall and add it as an exception to your antivirus software. If it persists, check out the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Reinstall Psychonauts 2
 
@@ -164,8 +164,6 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -173,4 +171,26 @@ Allow Psychonauts 2 through Windows Firewall:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-posts.techidaily.com/updated-expert-analysis-vita-video-editor-full-insight/"><u>[Updated] Expert Analysis Vita Video Editor - Full Insight</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-the-full-spectrum-analysis-of-lgs-high-definition-screen/"><u>[Updated] The Full Spectrum Analysis of LG’s High-Definition Screen</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/2024-approved-the-essential-differences-between-youtube-and-dailymention/"><u>2024 Approved The Essential Differences Between YouTube and DailyMention</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/digital-filmmakers-lifeline-mastering-avi-conversions-into-dynamic-gifs-with-filmora-windowsmacos/"><u>Digital Filmmakers' Lifeline Mastering AVI Conversions Into Dynamic GIFs with Filmora (Windows/macOS)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-cyberpunk-2077-how-to-enable-gpu-usage-in-windows-11/"><u>Fixing Cyberpunk 2077: How to Enable GPU Usage in Windows 11</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/free-online-wmv-to-mp4-converter-by-movavi-quick-and-effortless-video-format-change/"><u>Free Online WMV to MP4 Converter by Movavi: Quick and Effortless Video Format Change</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-i-fixed-crusader-kings-2-wont-start-problem/"><u>How I Fixed Crusader Kings 2 Won't Start Problem</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-3-ways-for-android-pokemon-go-spoofing-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, 3 Ways for Android Pokemon Go Spoofing On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-easy-ways-to-copy-contacts-from-itel-a60s-to-iphone-14-and-15-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Easy Ways to Copy Contacts from Itel A60s to iPhone 14 and 15 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/kernelbasedll-stability-restored-easily-learn-how-in-this-comprehensive-guide/"><u>Kernelbase.DLL Stability Restored Easily! Learn How in This Comprehensive Guide.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/monster-hunter-rise-failed-to-open-heres-the-remedy/"><u>Monster Hunter Rise Failed to Open? Here's the Remedy</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/navigating-the-maze-of-insta-story-downloads-for-2024/"><u>Navigating the Maze of Insta Story Downloads for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-freezing-problems-with-outpost-infinity-on-computer-expert-tips-and-tricks/"><u>Overcoming Freezing Problems with Outpost: Infinity on Computer – Expert Tips & Tricks</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-frequent-crashes-in-your-rust-projects-expert-advice/"><u>Overcoming Frequent Crashes in Your Rust Projects - Expert Advice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-connection-woes-ultimate-fixes-for-ubisoft-connect-malfunctions/"><u>Resolving Connection Woes: Ultimate Fixes for Ubisoft Connect Malfunctions</u></a></li>
+<li><a href="https://win-lab.techidaily.com/restore-deleted-pictures-from-your-camera-with-these-2-simple-techniques/"><u>Restore Deleted Pictures From Your Camera with These 2 Simple Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-when-your-computer-freezes-during-minecraft-gameplay/"><u>Solutions for When Your Computer Freezes During Minecraft Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-ultimate-guide-to-resolve-frontiers-crashes-on-your-pc/"><u>Solved: Ultimate Guide to Resolve Frontier's Crashes on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-strategies-escaping-the-perpetual-launch-screen-of-fortnite/"><u>Winning Strategies: Escaping the Perpetual Launch Screen of Fortnite</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimizing Your Gameplay: Fixing the Stutter Problems in Age of Empires 4"
-date: 2024-08-18T17:58:16.475Z
-updated: 2024-08-19T17:58:16.475Z
+date: 2025-02-13T19:46:28.797Z
+updated: 2025-02-14T21:06:37.770Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8ff604b1994b08eb94688e168989c0566c68ac557
 
 Want to increase FPS in Ring of Elysium? You’ve come to the right place! This article is going to show you how to optimize your computer and boost FPS for a better gaming experience.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 5 methods to try
 
 You may not have to try them all. Just choose the one you need.
@@ -41,23 +38,22 @@ You may not have to try them all. Just choose the one you need.
 
 **2)** Click the**Settings button** at the bottom left corner.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-26.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Quality** tab, and then modify the settings following the screenshot below.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-27-1024x558.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**Apply** , then relaunch your game.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-28-1024x558.png)
 
 ### Method 2: Update your graphics driver
@@ -92,19 +88,24 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-357.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-358.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 3: Change the power option
 
  Sometimes, your computer may slow down to save energy, which can affect your game’s FPS. If that’s the problem for you, you’ll need to set the power option to High Performance. Here is how:
@@ -115,17 +116,15 @@ OR
 
 **2)** Under **View by,** click **Large icons** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-720.png)
 
 **3)** Select **Power Options.**
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-721.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Select **High Performance** .
 
@@ -133,9 +132,6 @@ OR
 
  Restart your computer, and then relaunch your game to see if this worked for you.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Configure your graphics settings
 
  Another method to boost your game’s FPS is to optimize your graphics settings. Here is how to do it:
@@ -149,11 +145,12 @@ OR
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-46.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lp78eFEGwVU?si=-4orJBLvJJrggCJ2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Click**Manage 3D settings** , then**Program Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-36.png)
 
 **3)** Click the**Add** **button** .
@@ -162,23 +159,20 @@ OR
 
 **4)** Select**Ring of Elysium** , and then click**Add Selected Program** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-38.png)
 
 **5)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-41.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 #### If you’re using an AMD graphics product…
 
 **1)** Right-click**your desktop** , and select**AMD Radeon Settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-47.png)
 
 **2)** Click**Gaming** , then**Global Settings** .
@@ -188,6 +182,10 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 **3)** Modify the settings following the screenshot below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-42-1024x459.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 5: Overclock your GPU
 
@@ -209,8 +207,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +214,26 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-in-2024-the-best-editing-software-for-professional-dji-videos/"><u>[New] In 2024, The Best Editing Software for Professional DJi Videos</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-mastering-audio-ease-out-methods-in-premiere-pro/"><u>[Updated] Mastering Audio Ease-Out Methods in Premiere Pro</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-snapsnatcher-fb-media-extraction-for-2024/"><u>[Updated] SnapSnatcher FB Media Extraction for 2024</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-the-essential-blueprint-crafting-memes-that-perform-on-social-networks-for-2024/"><u>[Updated] The Essential Blueprint Crafting Memes That Perform on Social Networks for 2024</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-vpna-fake-gps-location-free-review-on-itel-p40-drfone-by-drfone-virtual-android/"><u>A Detailed VPNa Fake GPS Location Free Review On Itel P40 | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/crafting-the-podcast-intros-captivating-your-audience-from-the-start-for-2024/"><u>Crafting the Podcast Intros Captivating Your Audience From the Start for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/detailed-steps-to-rectify-your-dota-2-vac-ban-expert-advice-and-strategies/"><u>Detailed Steps to Rectify Your Dota 2 VAC Ban – Expert Advice and Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-how-to-ensure-smooth-play-in-starfield-without-any-interruptions/"><u>Expert Advice on How to Ensure Smooth Play in Starfield Without Any Interruptions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-pc-freezes-in-halo-infinite-with-easy-tricks-you-can-do-today/"><u>Fix PC Freezes in Halo Infinite with Easy Tricks You Can Do Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-kodi-connection-issues-overcome-could-not-get-directory-info/"><u>Fixing Kodi Connection Issues - Overcome 'Could Not Get Directory Info'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005580396-fixing-the-risk-of-rain-t-crashes-solutions-that-work-for-gamers/"><u>Fixing the Risk of Rain T Crashes - Solutions That Work for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-gameplay-quality-by-fixing-low-fps-on-your-computer-system/"><u>Improve Gameplay Quality by Fixing Low FPS on Your Computer System</u></a></li>
+<li><a href="https://article-tips.techidaily.com/in-2024-best-in-class-android-storage-in-the-cloud/"><u>In 2024, Best-in-Class Android Storage in the Cloud</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/in-2024-editing-essentials-your-go-to-guide-for-beginner-vloggers/"><u>In 2024, Editing Essentials Your Go-To Guide for Beginner Vloggers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lay-down-newspapers-or-a-drop-cloth-to-protect-your-work-area-from-paint-spills/"><u>Lay Down Newspapers or a Drop Cloth to Protect Your Work Area From Paint Spills.</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/premier-20-anime-theme-melodies-for-2024/"><u>Premier 20 Anime Theme Melodies for 2024</u></a></li>
+<li><a href="https://win-info.techidaily.com/resolving-window-applications-crashes-effective-solutions-from-yl-computing/"><u>Resolving Window Applications Crashes: Effective Solutions From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/successfully-overcome-your-destiny-2-network-problems-a-comprehensive-guide/"><u>Successfully Overcome Your Destiny ^2 Network Problems – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-naraka-bladesword-delays-and-improving-game-performance/"><u>Troubleshooting Naraka Bladesword Delays and Improving Game Performance</u></a></li>
+</ul></div>
 

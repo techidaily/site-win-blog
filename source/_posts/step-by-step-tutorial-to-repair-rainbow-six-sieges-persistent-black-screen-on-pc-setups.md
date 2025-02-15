@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Tutorial to Repair Rainbow Six Siege's Persistent Black Screen on PC Setups
-date: 2024-08-18T18:00:38.022Z
-updated: 2024-08-19T18:00:38.022Z
+date: 2025-02-13T07:22:40.631Z
+updated: 2025-02-14T20:36:29.814Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 | Graphics Card:    | Nvidia GeForce GTX 460 or AMD Radeon HD5770 |
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
@@ -43,8 +44,9 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 7. **[Reinstall the game](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Verify the integrity of your game files
 
  The Rainbow Six Siege black screen issue might be caused by a faulty installation. To fix this, you need to verify your game files. Here’s how to do it:
@@ -67,15 +69,16 @@ thumbnail: https://thmb.techidaily.com/95e300018e980291f8509be45c3e360fa38c44074
 2. Right-click Tom Clancy’s Rainbow Six Siege, then select**Properties…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-1.jpg)
 3. Select the**LOCAL FILES** tab and click**VERIFY INTEGRITY OF GAME FILES…** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/r6s-verify-files.jpg)
 4. Steam will verify the game’s files. This process may take several minutes.
 
  Once it completes, launch Rainbow Six Siege again to see if it solves the black screen problem.
 
 If not, then you can try the next fix below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -93,19 +96,24 @@ Here are two ways you can try to update your graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/scannow-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the[Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
  Or you can click Update next to the flagged device driver to do it for free, but it’s partly manual.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/rtx660-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Once you’ve updated your graphics driver, launch Rainbow Six Siege and see if the issue persists.
 
 If the black screen issue still remains, you can try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install the latest Windows updates
 
@@ -115,9 +123,6 @@ If the black screen issue still remains, you can try the next fix.
 2. Click**Updates & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/update-security.jpg)
 3. Under Windows Update, click**Check for updates** . The system will automatically start the search for new Windows updates if available. If there is any, it will download the update directly.  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/check-for-update-1.jpg)
 4. Once the update is completed, restart your computer to apply changes.
 
@@ -130,40 +135,43 @@ If the problem still remains, you can try the following fixes.
  Your power settings might affect your GPU’s performance based on power saving options. To make sure your graphics card is properly powered, you can check the advanced power settings. Here’s how to do it:
 
 1. On your keyboard, press the**Windows logo key** and**R** key together to open the Run dialog box. Then type in**control panel** and click**OK** .  
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/control-panel.jpg)
 2. In Control Panel, click**Hardware and Sound** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0pSRlspzW-A?si=A82G3Yxwj_31cKDq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hardware-sound.jpg)
 3. Click**Power Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/power-options.jpg)
 4. Then click**Change plan settings** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-power-settings.jpg)
 5. Click**Change advanced power settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/advanced.jpg)
 6. In the pop-up window, double click**PCI Express** , then extend**Link State Power Management** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/link.jpg)
 7. Open the drop-down menu next to**On battery** and**Plugged in** orderly, then select**Off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/off01.jpg)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/off02.jpg)
 8. Click**Apply** and**OK** to save settings.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/apply-ok.jpg)
 
  Now you can relaunch Rainbow Six Siege. This should fix your black screen issue. But if not, then you should try the next fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Force borderless windowed mode in games
 
@@ -173,17 +181,11 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
  The path should be: **C:\\Users\\Your\_username\\Documents\\My Games\\Rainbow Six-Siege\\a\_bunch\_of\_letters\_and\_numbers\_folder\\GameSettings.ini**
 2. **Right-click** the .ini file and select**Edit with Notepad** to open it.
 3. Changing**WindowMode=0** to**WindowMode=2** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/game-settings.jpg)
 4. **Save** the file and run Rainbow Six Siege to see if it fixes the black screen issue.
 
 If the issue remains, you can try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Run the game in compatibility mode
 
  Sometimes the Windows update may conflict with Rainbow Six Siege. If that’s the case, you can try to run the game in compatibility mode. To do so:
@@ -192,41 +194,27 @@ If the issue remains, you can try the next fix below.
 2. In the pop-up window, click the**Compatibility** tab and**check** the box of**Run this program in compatibility mode for** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility1-1.jpg)
 3. In the drop-down menu beneath that, select**Windows 7** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sn2STvYRVb8?si=Z-XhJJ1Mc-Em5Kqy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility2-1.jpg)
 4. Check the box of**Disable fullscreen optimizations** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility3-1.jpg)
 5. Click**OK** to save changes.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/compatibility4-1.jpg)
 
  Then you can launch Rainbow Six Siege to see if the black screen issue is fixed or not.
 
 If the issue still remains, here’s one last fix for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall the game
 
  If none of the fixes above help, you can try to reinstall Rainbow Six Siege. To do so:
 
 1. On your keyboard, press the**Windows logo key** and**R** key together to open the Run dialog box.
 2. Type**appwiz.cpl** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/appwiz.cpl_.jpg)
 3. Right-click Tom Clancy’s Rainbow Six Siege and select**Uninstall** .
 4. **Reinstall** the game from where you purchased it.
@@ -246,8 +234,6 @@ If the issue still remains, here’s one last fix for you to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -255,4 +241,24 @@ If the issue still remains, here’s one last fix for you to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-from-sketches-to-screens-animation-via-windows-movie-maker-for-2024/"><u>[Updated] From Sketches to Screens Animation via Windows Movie Maker for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-in-2024-instantaneous-viewership-metering/"><u>[Updated] In 2024, Instantaneous Viewership Metering</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-mobile-sharing-strategies-bytes-and-vids-not-retweets-for-2024/"><u>[Updated] Mobile Sharing Strategies Bytes & Vids, Not Retweets for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/banish-lag-and-crashes-tips-for-running-modern-warfare-seamlessly-on-windows-machines/"><u>Banish Lag & Crashes - Tips for Running 'Modern Warfare' Seamlessly on Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-stuttering-issues-with-fallout-3-on-your-windows-11-machine/"><u>How to Resolve Stuttering Issues with Fallout 3 on Your Windows 11 Machine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-frequent-outlook-app-shutdowns-and-ensure-smooth-email-management/"><u>How to Stop Frequent Outlook App Shutdowns and Ensure Smooth Email Management</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-honor-magic-5-lite-lock-screen-clock-in-seconds-by-drfone-android/"><u>In 2024, How To Change Honor Magic 5 Lite Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-is-geo-blocking-and-how-to-bypass-it-on-motorola-moto-g24-drfone-by-drfone-virtual-android/"><u>In 2024, What is Geo-Blocking and How to Bypass it On Motorola Moto G24? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997655349-nier-automata-stability-improvements-no-more-crashes/"><u>NieR: Automata Stability Improvements - No More Crashes!</u></a></li>
+<li><a href="https://win-dash.techidaily.com/1726030131553-pc/"><u>PCやスマートフォンで撮影した画像・動画サイズを効果的に縮小する技術</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reviving-your-msi-mystic-light-on-windows-systems-expert-fixes-for-non-responsive-indicator-leds/"><u>Reviving Your MSI Mystic Light on Windows Systems - Expert Fixes for Non-Responsive Indicator LEDs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/sea-of-thieves-stuck-on-boot-heres-how-to-dive-back-into-action/"><u>Sea of Thieves Stuck on Boot? Here's How to Dive Back Into Action!</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/tips-and-tricks-for-setting-up-your-honor-70-lite-5g-phone-pattern-lock-by-drfone-android/"><u>Tips and Tricks for Setting Up your Honor 70 Lite 5G Phone Pattern Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-how-to-fix-red-dead-redemption-2-not-starting-issue/"><u>Troubleshooting Steps: How to Fix Red Dead Redemption 2 Not Starting Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-solving-dota-2-performance-issues-and-latency/"><u>Ultimate Guide: Solving Dota 2 Performance Issues & Latency</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-new-adventures-celebrate-the-arrival-of-it-takes-two-on-screen/"><u>Unlocking New Adventures: Celebrate the Arrival of 'It Takes Two' On Screen</u></a></li>
+<li><a href="https://win-able.techidaily.com/1726028135202-windows-1011/"><u>Windows 10/11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize Your Warzone Experience: Cutting-Edge Methods for Lowering Game Ping"
-date: 2024-08-18T17:59:51.003Z
-updated: 2024-08-19T17:59:51.003Z
+date: 2025-02-14T06:53:23.004Z
+updated: 2025-02-14T19:36:25.904Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a926f3585163fc206a043d86defc31e04aa0b8209
 
 Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re one of the many that run into this problem, don’t worry. In this post, you’ll learn 5 methods to boost your FPS, easily and quickly!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all. Just work your way down the list until you find the one that works for you.
@@ -30,23 +27,25 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 4. **[Optimize the graphics card settings](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Close unnecessary background programs](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1 – Adjust the in-game graphics settings
 
  Many users recommended lowering the graphics options for Nioh 2 to boost FPS. You could tweak the setup as follows to see if that helps your case.
 
 1. Launch Nioh 2 and select**System** on the main screen.
 2. Click**Graphics Settings** from the System Menu.  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-1.jpg)
 3. Choose**Full Screen** for Display Mode, and turn off**Shadows** and**Motion Blur** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-3.jpg)
 4. On the next page, turn off**Dynamic Reflections** and**Ambient Occlusion** . Then, set**Texture Quality** and**Effect Quality** to**Low** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/graphics-settings-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart Nioh 2 for the changes to take effect. If the FPS drop is still not solved, try the second fix below.
 
@@ -57,16 +56,10 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 #### On Steam
 
 1. Open your Steam client and navigate to the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-4.jpg)
 2. Right-click**Nioh 2** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-settings.jpg)
 3. Untick**Enable the Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/steam-overlay-3.jpg)
 
 #### On Discord
@@ -75,7 +68,16 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 2. Click the**cogwheel icon** at the bottom of the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 3. Click the**Overlay** tab and toggle off**Enable in-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### On GeForce Experience
 
@@ -85,7 +87,15 @@ Recently, many players are reporting FPS drops in Nioh 2 PC version. If you’re
 3. Scroll to toggle off**In-Game Overlay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/0-00.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  After you disable any overlays in-use, restart Nioh 2 to see if it performs better now. If not, proceed to the next method.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/97ydpSmzTJw?si=tFcelmtQX4u-b3u5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -99,16 +109,10 @@ There are two ways you can update the driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535"><img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/amd-5700-de-1-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -121,21 +125,22 @@ There are two ways you can update the driver:
  If you have a dedicated NVIDIA graphics card and hope to better enjoy a graphically intensive PC game like Nioh 2, you need to customize the GPU settings appropriately. Here are the steps:
 
 1. Right-click any empty space on your desktop and click**NVIDIA Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-1.jpg)
 2. Select**3D Settings** \>**Manage 3D settings** from the left pane.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-2.jpg)
 3. Go to the**Program Settings** tab. Then click the**Add** button and select Nioh 2 to customize.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-3.jpg)
 4. Choose **High-performance NVIDIA processor** as the preferred graphics processor.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/nvidia-settings-8-1.jpg)
 5. Adjust the specific settings as follows:  
 **Image Sharpening** :_Off_  
@@ -155,9 +160,6 @@ There are two ways you can update the driver:
 1. Right-click any empty space on the taskbar and select**Task Manager** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-1.jpg)
 2. Select each resource-hogging application and click**End Task** to close them one by one.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/ta-2.jpg)
 
 Run Nioh 2 and you should achieve higher frame rates during the gameplay.
@@ -175,8 +177,6 @@ Run Nioh 2 and you should achieve higher frame rates during the gameplay.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +184,20 @@ Run Nioh 2 and you should achieve higher frame rates during the gameplay.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-files.techidaily.com/new-easily-access-igtv-content-download-guide-for-pcmac-users/"><u>[New] Easily Access IGTV Content Download Guide for PC/Mac Users</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-spark-10-pro-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno Spark 10 Pro</u></a></li>
+<li><a href="https://blog-min.techidaily.com/easy-fixes-for-chromecasts-iso-file-viewing-troubles/"><u>Easy Fixes for Chromecast's ISO File Viewing Troubles</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/ex6200-user-experience-in-depth-analysis-of-netgears-ac1200-wi-fi-range-extender/"><u>EX6200 User Experience: In-Depth Analysis of Netgear's AC1200 Wi-Fi Range Extender</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/final-cut-pro-x-adding-subtitles-and-captions-for-accessibility-for-2024/"><u>Final Cut Pro X Adding Subtitles and Captions for Accessibility for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/is-your-xbox-live-connection-down-discover-real-time-server-availability-and-fixes/"><u>Is Your Xbox Live Connection Down? Discover Real-Time Server Availability & Fixes</u></a></li>
+<li><a href="https://win-popular.techidaily.com/mengimplementasikan-aplikasi-cadangan-windows-server-pada-sistem-nas-qnap-pendekatan-tiga-hewan-utama/"><u>Mengimplementasikan Aplikasi Cadangan Windows Server Pada Sistem NAS QNAP: Pendekatan Tiga Hewan Utama</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-resolve-control-application-errors-swiftly-and-effectively/"><u>Troubleshoot & Resolve Control Application Errors Swiftly & Effectively!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-fixes-for-obs-studio-crashing-problems-in-windows-1110-latest-tips/"><u>Troubleshooting and Fixes for OBS Studio Crashing Problems in Windows 11/10 - Latest Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-fix-recurring-overwatch-2-pc-instability-issues/"><u>Ultimate Guide to Fix Recurring Overwatch 2 PC Instability Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-to-successfully-starting-armored-core-vi-addressing-fires-of-rubicon-boot-issues/"><u>Unlocking the Secrets to Successfully Starting Armored Core VI: Addressing 'Fires of Rubicon' Boot Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/wipe-out-the-glitches-in-fia-world-rally-championship-wrc-sweepstakes-pc-version/"><u>Wipe Out the Glitches in FIA World Rally Championship (WRC) Sweepstakes, PC Version</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/youtube-creator-studio-unlocking-the-power-of-your-channel/"><u>YouTube Creator Studio Unlocking the Power of Your Channel</u></a></li>
+</ul></div>
 

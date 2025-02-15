@@ -1,7 +1,7 @@
 ---
 title: Modern Warfare & Warzone Crash Fix - Overcoming Fatal Developer Errors
-date: 2024-08-18T17:58:38.690Z
-updated: 2024-08-19T17:58:38.690Z
+date: 2025-02-12T23:06:36.144Z
+updated: 2025-02-15T07:55:50.951Z
 tags:
   - win11
   - win10
@@ -15,12 +15,13 @@ thumbnail: https://thmb.techidaily.com/7b23375a4fe0d5624ebd7916eebd1b1cd35125f11
 
 ## Modern Warfare MW3 Crash Mystery Solved: Overcome the Dauntinig Error 6068
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/mw-6068-featured.jpg)
 
  Many gamers are complaining about the constant crashes that shows a**Dev Error 6068** . If you happen to be one of them, don’t worry. Here are some working fixes you can try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -41,16 +42,21 @@ Here’s how:
 
 1. Open your**Battle.net** client.
 2. From the left menu, select**Call of Duty: MW** . Click**Options** and select**Game Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/mw-d3d11.jpg)
 3. From the left menu, select**Game Settings** . Check the box next to**Additional command line arguments** . In the input area, type**\-d3d11** (mind the dash). Then click**Done** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/mw-d3d11-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you can launch Warzone and test the stability.
 
 If this fix doesn’t help, you can try the next one below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wy0uYNNdMDM?si=5ir7EHlr0CkpcYOT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Update your graphics driver
 
@@ -62,11 +68,17 @@ If this fix doesn’t help, you can try the next one below.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
- (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -81,11 +93,13 @@ If this fix doesn’t help, you can try the next one below.
 And here’s a quick guide:
 
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . It will take some time for Windows to download and install available updates.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To ensure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -94,9 +108,6 @@ And here’s a quick guide:
 
  If this method doesn’t give you luck, simply continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Stop overclocking
 
  While it’s common belief that overclocking serves as a zero-cost performance booster, things might turn out otherwise. It actually, in some AAA titles, undermines the stability and leads to constant crashes.
@@ -110,8 +121,9 @@ MSI Afterburner
  If the error code reoccurs when you aren’t overclocking, you can check out the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Check your RAM
 
  Some players reported that the error disappeared right after they replaced/upgraded their RAM. If this is a RAM issue, you need to**check if you’re using faulty or incompatible RAM** . The quickest way to find out is try RAM of another brand. When it comes to gaming, you can hardly go wrong with reputable brands.
@@ -129,9 +141,6 @@ And here’re some solid brands we recommend:
 
  Or you can check out the fix below to use virtual memory as a temporary workaround.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Increase your virtual memory
 
  Virtual memory serves as additional RAM when your system is out of memory. This is often useful when you’re running a big and resource-hungry application.**Increasing your computer’s virtual memory** can at some point mitigate the crash.
@@ -143,19 +152,10 @@ Here’s how:
 2. Under the **Performance**  section, click **Settings…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/system-advanced-performance-virtual-memory.jpg)
 3. In the pop-up window, navigate to the **Advanced**  tab. Under the **Virtual memory** section, click **Change…** .  
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-advanced.jpg)
 4. Uncheck the box next to**Automatically manage paging file size for all drives** . Then select **Customize size** .  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/virtual-memory-03.jpg)
 5. Enter **Initial size** and **Maximum size** according to the physical memory of your computer. Microsoft recommends that virtual memory should be 1.5 to 3 times the size of physical memory. In my case, the physical memory (actual RAM) of my computer is 8 GB, so the **Initial size** for me here is **8 x 1024 x 1.5 = 12288 MB** , and the **Maximum size** should be **8 x 1024 x 3 = 24576 MB** . Once you’ve entered your size of virtual memory, click **Set** , then click **OK**  to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/virtual-memory-set-02.jpg)
 6. Restart your computer.
 
@@ -171,8 +171,6 @@ Now launch Warzone and check if the problem persists.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -180,4 +178,21 @@ Now launch Warzone and check if the problem persists.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-http.techidaily.com/new-dive-into-crossfade-excellence-with-audacitys-comprehensive-tutorials-for-2024/"><u>[New] Dive Into Crossfade Excellence with Audacity's Comprehensive Tutorials for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/2024-approved-superior-20-anime-song-intros/"><u>2024 Approved Superior 20 Anime Song Intros</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/elevating-your-desktop-mastering-screenshot-and-recording/"><u>Elevating Your Desktop Mastering Screenshot and Recording</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-correcting-server-link-failures-in-rainbow-six-siege/"><u>Guide to Correcting Server Link Failures in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-the-ls-0013-startup-bug-on-fortnite-platform/"><u>How to Resolve the LS-0013 Startup Bug on Fortnite Platform</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-nokia-c22-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Nokia C22? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/minecraft-trouble-solutions-for-when-you-cant-access-your-world/"><u>Minecraft Trouble? Solutions for When You Can't Access Your World!</u></a></li>
+<li><a href="https://program-issues.techidaily.com/overcoming-initialization-hurdles-in-baldurs-gate-iii-launched/"><u>Overcoming Initialization Hurdles in Baldur's Gate III Launched!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-pc-issues-a-guide-to-stabilizing-overwatch-2-performance-and-eliminating-crashes/"><u>Overcoming PC Issues - A Guide to Stabilizing Overwatch 2 Performance and Eliminating Crashes</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/revolutionizing-road-safety-a-complete-guide-to-bouncie-driving-connected-reviews/"><u>Revolutionizing Road Safety: A Complete Guide to Bouncie Driving Connected Reviews</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/streamline-your-life-with-google-photos-tutorials/"><u>Streamline Your Life with Google Photos Tutorials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-103003-bug-in-tarkov-easy-fixes-for-gamers/"><u>Troubleshooting the 103003 Bug in Tarkov - Easy Fixes for Gamers</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/unveiling-the-differences-iphone-15-plus-vs-pro-max-features-breakdown/"><u>Unveiling the Differences: IPhone 15 Plus Vs. Pro Max Features Breakdown</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/user-confidentiality-in-ai-driven-interactions/"><u>User Confidentiality in AI-Driven Interactions</u></a></li>
+</ul></div>
 

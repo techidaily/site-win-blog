@@ -1,7 +1,7 @@
 ---
 title: "Red Dead Redemption 2 Visuals at Stake: Overcoming the ERR_GFX_STATE Bug"
-date: 2024-08-18T17:57:47.996Z
-updated: 2024-08-19T17:57:47.996Z
+date: 2025-02-08T16:35:13.392Z
+updated: 2025-02-15T07:05:28.969Z
 tags:
   - win11
   - win10
@@ -33,10 +33,11 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 1. Press the**Windows Key + I** and click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update1.jpg)
 2. Click **Check for Updates** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/update.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/q4-YQ9Wjtfg?si=6afn1fydg_Wb9B8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -58,11 +59,12 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 2. Right-click on the Sea of Thieves icon and click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/properties.jpg)
 3. Under the **Compatibility** tab, tick **Run this program as an administrator** . Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Run the game to check whether the problem is solved or not.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Do an App reset
 
@@ -73,9 +75,19 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 3. Type “**wsreset.exe** ” and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/windows-store-cache.jpg)
 4. Download and install the Sea of Thieves.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Press the**Windows key + I** together and click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/app.jpg)
 6. Find and click **Sea of Thieves** on the list.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 7. Click **Advanced Options** and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/reset.jpg)
 8. Run Sea of Thieves to check.
@@ -88,20 +100,18 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 1. Press the **Windows Key** \+ I and click**Time & Language** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/timelanguage.jpg)
 2. Open the**Set time automatically** button.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/time.jpg)
 3. Check your time zone and date.
 4. Click **Region** and check your region is corrected.  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/region-1.jpg)
 5. Reboot your PC
 6. Run Sea of Thieves to check.
 
 **Note** : If your language and region is set to **English (United States)** already please change it to **English (United Kingdom)** instead.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S3Th6oa_isA?si=TTQ013BB9beUM4x6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Run Powershell
 
@@ -109,17 +119,16 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 
 1. Press **Windows + R** to open the Run box.
 2. Type “powershell” and hit**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/powershell.jpg)
 3. Copy and paste the following into the Powershell window and press Enter.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Get-AppXPackage | Foreach {Add-AppxPackage -DisableDevelopmentMode -Register “$($\_.InstallLocation)AppXManifest.xml”}**
 4. Run Sea of Thieves to check.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Use a VPN
 
  The “stuck on loading screen” issue may be caused by internet problem. It is possible these situations may interpret your connection to the game servers: servers are full, your area has certain restrictions which may affect the connection, etc. Then you can use a VPN service to solve the problem. VPN can bypass geo-restrictions and let you connect with the server in any places of the world directly.
@@ -137,8 +146,9 @@ It’s not a pleasant experience when you run Sea of Thieves but**stuck on the l
 **Coupon TIP** : Get a [NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/) before you buy it!
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Update your drivers and programs
 
  The outdated or wrong drivers for your graphics card, network card, sound card, etc. may cause problems. Updating your drivers is a good option to fix errors. This method can also provide you better gaming experience.
@@ -165,21 +175,11 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Run Sea of Thieves to check.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### Fix 7: Disable incompatible apps
 
  Third-party applications might be the reason for the stuck on screen issue. You can try to disable apps like AfterBurner that show FPS, OSD, MSI, EVGA, etc and then restart your PC. If this doesn’t help, you can also try to disable your antivirus software like Trend Micro which has been known to cause conflicts.
@@ -198,8 +198,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +205,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-2024-approved-14-youtube-adsense-earnings-how-much-does-adsense-pay-per-1000-views/"><u>[Updated] 2024 Approved 14- YouTube AdSense Earnings How Much Does AdSense Pay per 1,000 Views</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/affordable-vuebell-video-doorbell-evaluation-best-budget-friendly-choice/"><u>Affordable VueBell Video Doorbell Evaluation: Best Budget-Friendly Choice</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/best-practices-in-on-screen-moment-preservation/"><u>Best Practices in On-Screen Moment Preservation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-your-mass-effect-legendary-edition-from-crashing-pcxbox/"><u>How to Prevent Your Mass Effect Legendary Edition From Crashing (PC/Xbox)</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-iphone-14-plus-3-ways-to-unlock-by-drfone-ios/"><u>How To Unlock iPhone 14 Plus 3 Ways To Unlock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-your-wow-gaming-experience-top-strategies-to-fix-lag-and-boost-frame-rates/"><u>Improve Your WoW Gaming Experience: Top Strategies to Fix Lag & Boost Frame Rates</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improving-compatibility-ensuring-your-processor-is-up-to-par-with-vanguards-specs/"><u>Improving Compatibility: Ensuring Your Processor Is Up to Par with Vanguard's Specs</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/in-depth-analysis-of-the-xbox-series-x-the-ultimate-gaming-experience-in-4k/"><u>In-Depth Analysis of the Xbox Series X: The Ultimate Gaming Experience in 4K</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/in-depth-analysis-exploring-the-features-of-the-nook-glowlight-4/"><u>In-Depth Analysis: Exploring the Features of the Nook GlowLight 4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-apex-legends-troublesome-error-code-23-expert-tips-and-solutions/"><u>Overcoming Apex Legends' Troublesome Error Code 지23: Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-fortnite-error-code-ls-0013-a-comprehensive-guide/"><u>Overcoming the Fortnite Error Code LS-0013 – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-pc-game-lags-in-assassins-creed-odyssey-for-smooth-gaming/"><u>Resolving PC Game Lags in Assassin's Creed Odyssey for Smooth Gaming</u></a></li>
+<li><a href="https://win11.techidaily.com/strategies-to-improve-performance-of-a-non-responsive-windows-folder/"><u>Strategies to Improve Performance of a Non-Responsive Windows Folder</u></a></li>
+<li><a href="https://win-tricks.techidaily.com/stunning-audi-a1-hd-visuals-for-your-device-premium-photos-pictures-and-background-themes-from-yl-software/"><u>Stunning Audi A1 HD Visuals for Your Device: Premium Photos, Pictures, and Background Themes From YL Software</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/transformar-archivos-swf-en-archivo-de-audio-wav-liviano-y-libre-tutorial-passo-a-passo-con-movavi/"><u>Transformar Archivos SWF en Archivo De Audio WAV Liviano Y Libre: Tutorial Passo a Passo Con Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fix-tips-for-preventing-v-from-crashing-on-your-pc/"><u>Ultimate Fix Tips for Preventing V From Crashing on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-sony-vegas-keep-closing-heres-how-to-stop-it-for-good/"><u>Why Does Sony Vegas Keep Closing? Here's How to Stop It for Good</u></a></li>
+</ul></div>
 

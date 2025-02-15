@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Overcoming Launch Difficulties in CS:GO"
-date: 2024-08-18T18:00:04.822Z
-updated: 2024-08-19T18:00:04.822Z
+date: 2025-02-12T22:35:59.541Z
+updated: 2025-02-14T18:50:44.549Z
 tags:
   - win11
   - win10
@@ -38,9 +38,6 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 
  1) On your keyboard, press**Ctrl** ,**Shift,** and**Esc** at the same time to open Task Manager.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/keyboard.png)
 
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
@@ -54,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XS1nQCe95LU?si=A2dhdFkSAI61_nKA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Launch Epic Games Launcher from Start Menu
 
  If you failed to launch Epic Games Launcher by double-clicking its shortcut on your desktop, you should try launching it from the Start Menu. To do so:
@@ -68,23 +66,25 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Adjust your display settings
 
  Check your display settings if this issue persists. If you adjusted the size of text, apps, and other items, try changing it back. Here is how to check:
 
  1)**Right-click** **an empty area of the desktop** and select**Display settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1053.png)
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher again to see if this issue reappears.
 
@@ -93,8 +93,9 @@ thumbnail: https://thmb.techidaily.com/82b525816e76358af913747ae984d059f5f8a464e
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  This issue is probably caused by your outdated graphics driver. Updating your graphics driver to the latest version can make your game run smoother and prevent many issues or errors. If you don’t have the time, patience or skills to update your driver manually, you can do it automatically with[**Driver Easy**](https://tools.techidaily.com/drivereasy/download/) .
@@ -126,9 +127,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  1) On your desktop,**right-click** on**the shortcut of Epic Games Launcher** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
@@ -137,9 +135,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  Then click**OK** to save the change.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
 3) Run Epic Games Launcher again to see if this fix works.
@@ -147,6 +142,10 @@ _You can do it for free if you like, but it’s partly manual._
  If it won’t open, try the next fix to disable your antivirus software temporarily.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
@@ -161,25 +160,28 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
 
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/L603QXgjb3I?si=sMYHfMGy2kNPSHPt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
 
@@ -218,8 +220,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -227,4 +227,20 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/couting-for-starred-youtube-conversations/"><u>[New] Scouting for Starred YouTube Conversations</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/new-strategies-to-fast-track-vimeo-content/"><u>[New] Strategies to Fast-Track Vimeo Content</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-crafting-co-branded-narratives-for-youtube-audiences/"><u>2024 Approved Crafting Co-Branded Narratives for YouTube Audiences</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-the-art-of-integrating-b-footage-into-main-shots/"><u>2024 Approved The Art of Integrating B-Footage Into Main Shots</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-unlock-your-fb-videos-instant-mp4-download/"><u>2024 Approved Unlock Your FB Videos - Instant MP4 Download</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-methods-to-rectify-minecrafts-crossbow-error-message-expert-tips-and-solutions/"><u>Effective Methods to Rectify Minecraft's Crossbow Error Message - Expert Tips and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-ways-to-repair-your-gaming-controllers-step-by-step-guide/"><u>Effortless Ways to Repair Your Gaming Controllers | Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-track-remedies-to-address-fortnites-load-difficulties-expert-advice/"><u>Fast-Track Remedies to Address Fortnite's Load Difficulties: Expert Advice</u></a></li>
+<li><a href="https://apple-account.techidaily.com/how-to-reset-the-security-questions-of-your-apple-id-on-your-apple-iphone-8-plus-by-drfone-ios/"><u>How To Reset the Security Questions of Your Apple ID On Your Apple iPhone 8 Plus</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-launch-failures-with-your-pacfific-drive-expert-advice-and-fixes/"><u>Resolving Launch Failures with Your Pacfific Drive: Expert Advice & Fixes</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-tips-and-tricks-for-blocking-video-sites-like-youtube-on-your-ipad/"><u>Top Tips and Tricks for Blocking Video Sites Like YouTube on Your iPad</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-apex-legends-solve-common-engine-issues-now/"><u>Trouble with Apex Legends? Solve Common Engine Issues Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-sons-of-the-forest-for-pc-tips-and-tricks-for-uninterrupted-gaming/"><u>Troubleshooting 'Sons of the Forest' For PC: Tips and Tricks for Uninterrupted Gaming</u></a></li>
+</ul></div>
 

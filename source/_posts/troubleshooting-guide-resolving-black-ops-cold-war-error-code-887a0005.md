@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Resolving Black Ops Cold War Error CODE: 887A0005"
-date: 2024-08-18T17:56:33.261Z
-updated: 2024-08-19T17:56:33.261Z
+date: 2025-02-09T16:50:33.140Z
+updated: 2025-02-14T18:14:08.653Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
 
 ## Black Ops Cold War Troubleshooting Guide: Decode and Solve Error Code 887A0005 Now
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-error-featured.jpg)
 
  The new Black Ops Cold War is lit, but a string of issues come along its release, and one of which is the annoying**error code 887a0005** . It makes your game crash constantly, especially in the new zombie mode.
@@ -25,8 +22,9 @@ thumbnail: https://thmb.techidaily.com/39891eff73508b464f66ea96b5a005498dc7a497b
  Though seems tricky, this error might not be so hard to fix at all. Here we’ve put together some working fixes for you, try them and go back to the field right away.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the trick.
@@ -46,15 +44,25 @@ Here’s a quick guide for that:
 1. Open your **Blizzard Battle.net** client. From the left menu, select **Call of Duty: BOCW** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify.jpg)
 2. Click **Options**  and select **Scan and Repair** from the drop-down menu. Wait until the checking finishes.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/bocw-verify-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YfEPmG_O6F8?si=93ZTVtH_zjFRz5eh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 You can now launch Black Ops Cold War and see if it crashes again.
 
 If this trick doesn’t help you, simply continue to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Update your graphics driver
 
  One of the most common causes of this error is that you’re using**a faulty or outdated graphics driver** . If you want to fully enjoy a new AAA title, first make sure your graphics driver is up to date.
@@ -65,15 +73,8 @@ If this trick doesn’t help you, simply continue to the next one.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -81,6 +82,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  Once you’ve updated your graphics driver, restart your PC and check if the error code reoccurs.
 
  If updating the GPU driver doesn’t solve your problem, simply move on to the next solution.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Install all Windows updates
 
@@ -91,9 +96,6 @@ And it’s fairly easy to update:
 1. On your keyboard, press **Win+I** (the Windows logo key and the i key) at the same time to open the Windows Settings app. Click **Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click **Check for updates** . Then wait for Windows to download and install all available updates.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** again.
@@ -102,9 +104,6 @@ And it’s fairly easy to update:
 
  If the updates don’t stop the crash, you can take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable HAGs (GeForce 10 series or later/Radeon 5600 or 5700 series)
 
  In the 2004 version of Windows 10, Microsoft rolled out a new feature called **Hardware-accelerated GPU scheduling** , which will allegedly improve applications performance. To unlock this feature, you must be using the **latest 2004 version Windows** , a   **GeForce 10 series or later/Radeon 5600 or 5700 series graphics card** along with the **latest GPU driver** .
@@ -116,16 +115,15 @@ Here’s how:
 1. In the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-02.jpg)
 3. Under the **Default settings** section, click **Change default graphics settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/hags-3.jpg)
 4. Turn off**Hardware-accelerated GPU scheduling** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/hags-off.jpg)
 
  If this method doesn’t fix your issue, simply check out the next one.
@@ -153,8 +151,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -162,4 +158,19 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-savvy.techidaily.com/10-leading-applications-eclipsing-gpts-functionality-on-devices/"><u>10 Leading Applications Eclipsing GPT's Functionality on Devices</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/2-ways-to-monitor-vivo-v30-activity-drfone-by-drfone-virtual-android/"><u>2 Ways to Monitor Vivo V30 Activity | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/a-step-by-step-guide-to-finding-your-apple-id-from-your-apple-iphone-13-pro-max-by-drfone-ios/"><u>A Step-by-Step Guide to Finding Your Apple ID From Your Apple iPhone 13 Pro Max</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/expert-advice-wiping-your-iphone-completely-using-desktop-software-windows-and-mac-solutions/"><u>Expert Advice: Wiping Your iPhone Completely Using Desktop Software - Windows & Mac Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722993053270-halo-infinite-sound-troubles-heres-how-you-can-get-quality-audio-back/"><u>Halo Infinite Sound Troubles? Here's How You Can Get Quality Audio Back!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-do-you-fix-the-phoenix-point-game-when-it-keeps-freezing-or-closing/"><u>How Do You Fix the 'Phoenix Point' Game When It Keeps Freezing or Closing?</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-passcode-without-computer-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max Passcode without Computer?</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/maximizing-pc-speed-expert-tips-on-driver-updates-for-enhanced-performance-byteblast-solutions/"><u>Maximizing PC Speed: Expert Tips on Driver Updates for Enhanced Performance - ByteBlast Solutions</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/e-broadcast-battle-fb-live-and-yt-live-vs-tweetstreams-for-2024/"><u>Online Broadcast Battle FB LIVE & YT Live Vs. TweetStreams for 2024</u></a></li>
+<li><a href="https://driver-download.techidaily.com/resolved-fixing-realtek-wifi-drivers-on-windows-11-10-and-7/"><u>Resolved: Fixing Realtek WiFi Drivers on Windows 11, 10 & 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-issues-with-corsair-icue-on-windows-11-a-step-by-step-guide/"><u>Solving Issues with Corsair iCUE on Windows 11: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/untangling-technical-difficulties-in-nba-2k21-on-windows-and-mac-a-step-by-step-guide/"><u>Untangling Technical Difficulties in NBA 2K21 on Windows & Mac - A Step-by-Step Guide</u></a></li>
+</ul></div>
 

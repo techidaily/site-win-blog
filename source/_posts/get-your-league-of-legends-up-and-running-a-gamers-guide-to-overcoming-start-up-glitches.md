@@ -1,7 +1,7 @@
 ---
 title: "Get Your League of Legends Up and Running: A Gamer's Guide to Overcoming Start-Up Glitches"
-date: 2024-08-18T17:58:11.060Z
-updated: 2024-08-19T17:58:11.060Z
+date: 2025-02-11T00:27:18.669Z
+updated: 2025-02-14T20:20:01.023Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Install the latest game patch
 
  Respawn Entertainment, the developer of Apex Legends, releases regular game patches to fix bugs and enhance performance. It’s possible that a recent patch has triggered this issue, and that a new patch is required to fix it.
@@ -46,9 +43,6 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  2\. Go to**My Game Library** . Then**right-click** on**Apex Legends** and select**Update Game** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-585-1024x582.png)
 
  3\. Wait until you see the following message. Then click**Close** .
@@ -57,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  4\. Run Apex Legends to see if you can pass the loading screen. If not, or there was no new game patch available, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  This issue may also be caused by the outdated or missing drivers on your PC. If there is something wrong with your network driver or graphics driver, this issue may occur. In this case, you can try updating the drivers on your PC to the latest version to see if you can resolve this issue.
@@ -80,9 +71,17 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-581.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3\. Click **Update** next to your device to automatically download the correct version of its driver, then you can install it manually. Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee).
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-582.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -94,16 +93,14 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  1\. On your keyboard, press **the Windows Logo Key** and **R** at the same time to open the Run dialog. Type **cmd**  and then press **Ctrl, Shift,**  and **Enter**  on your keyboard at the same time to run Command Prompt as administrator. You will be prompted for permission. Click **Yes** to run**Command Prompt** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/1-2.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2\. Type the command line **ipconfig /flushdns**  and press **Enter**  on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://www.supereasy.com/wp-content/uploads/2018/09/Snap361-2.png)
 
  3\. Launch Apex Legends to see if you resolved this issue. If not, don’t worry. Try the next fix, below.
@@ -118,17 +115,19 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  3\. Open the browsing history in your browser, then search_<https://accounts.respawn.com/steam\_login.php?securityToken>_ to locate the URL of the page you used when linking your EA and Steam account. Click that URL to open it. Normally, you should see a page like the following:
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-584-1024x754.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4\. Click**Sign in through Steam** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-587-1024x754.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5\. On the Steam page, log into**the new steam account you created in step One** .  
  You should see a window telling you that your account is now linked when you successfully logged into the new account.
@@ -138,8 +137,9 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
  6\. Launch Apex Legends to see if you fixed this issue. If not, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c1yHj02oP3w?si=mwi3FyP0p68gkBqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Repair Apex Legends in Origin
 
  Corrupted game files can also be the cause of this issue. In this case, you can try repairing Apex Legends in Origin to see if you can fix it. Here is how to do it:
@@ -148,9 +148,6 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  2\. Go to**My Game Library** , then**right-click** **Apex Legends** and select**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-591-1024x582.png)
 
 3\. Wait until the verifying process completes.
@@ -181,17 +178,19 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
 
  4\. Click**Quick connect** to automatically connect to the server recommended for you. If you want to connect to another VPN server in a specific country, just select the server you want to connect to on the left panel, or click on the country pin on the map.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![This image has an empty alt attribute; its file name is Snap915.png](https://images.drivereasy.com/wp-content/uploads/2019/01/Snap915.png)
 
 5\. Launch Apex Legends and enjoy the game with your friends.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/03/image-590.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Reinstall Apex Legends
 
@@ -215,8 +214,6 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +221,23 @@ thumbnail: https://thmb.techidaily.com/7d51f3f0aee270ec2782becb99c1a414abb8cba30
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/rafting-the-perfect-end-screen-youtube-template-guidebook-for-2024/"><u>[New] Crafting the Perfect End Screen - YouTube Template Guidebook for 2024</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-pioneering-televised-facebook-interactions-via-live-streams/"><u>[New] In 2024, Pioneering Televised Facebook Interactions via Live Streams</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/oint-filmmaking-and-gaining-followers-quickly-for-2024/"><u>[New] Joint Filmmaking & Gaining Followers Quickly for 2024</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/outube-snippet-income-breakdown-whats-your-profit-share-for-2024/"><u>[New] YouTube Snippet Income Breakdown What's Your Profit Share for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-innovations-in-vr-a-deep-dive-into-the-best-engine-updates/"><u>2024 Approved Innovations in VR A Deep Dive Into the Best Engine Updates</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/comprehensive-analysis-updated-s3700-bd-player/"><u>Comprehensive Analysis Updated S3700 BD Player</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-pc-stabilization-tips-and-tricks-for-a-smoother-gaming-experience/"><u>Cyberpunk 2077 PC Stabilization Tips and Tricks for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-engine-malfunction-in-steelseries-gg-on-windows-pc/"><u>Fixes for Engine Malfunction in SteelSeries GG on Windows PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-the-common-problem-of-non-responsive-cortana-on-windows-devices/"><u>Fixes for the Common Problem of Non-Responsive Cortana on Windows Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-pc-freezing-in-spellbreak-solutions-and-tips/"><u>How to Overcome PC Freezing in Spellbreak - Solutions & Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-microsoft-edge-from-continuously-crashing-on-windows-10-systems/"><u>How to Stop Microsoft Edge From Continuously Crashing on Windows 10 Systems</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-location-on-facebook-dating-for-your-tecno-phantom-v-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Location On Facebook Dating for your Tecno Phantom V Flip | Dr.fone</u></a></li>
+<li><a href="https://blog-min.techidaily.com/online-vervanging-van-webm-naar-vob-geverzengd-met-movavis-geavanceerde-software/"><u>Online Vervanging Van Webm Naar Vob - Geverzengd Met Movavi's Geavanceerde Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outriders-graphics-enhanced-crisp-and-clear-images-now/"><u>Outriders Graphics Enhanced: Crisp and Clear Images Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-in-fix-it-or-bust-tips-to-keep-fall-guys-running-smoothly/"><u>Overcoming Launch Problems in Fix It or Bust - Tips to Keep Fall Guys Running Smoothly</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/your-essential-gift-a-compact-bundle-of-50-banners-for-2024/"><u>Your Essential Gift A Compact Bundle of 50 Banners for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Error Resolved: Overcoming 'Cannot Reach Live Server Settings' Issues Easily"
-date: 2024-08-18T17:59:47.750Z
-updated: 2024-08-19T17:59:47.750Z
+date: 2025-02-11T03:07:17.184Z
+updated: 2025-02-15T06:06:22.611Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ It is really upset when you want to play **Rocket League but it won’t launch**
  Well, there’s one thing you should do first is to make sure your Windows Operating system is up to date and meet the minimum requirements.
 
 <!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## **Minimum System Requirement of** Rocket League
 
 | **Supported OS** | Windows 7 or newer         |
@@ -32,6 +33,10 @@ It is really upset when you want to play **Rocket League but it won’t launch**
 | **RAM**          | 2 GB                       |
 | **Video Card**   | NVIDIA GTX 260 or ATI 4850 |
 | **Hard Drive**   | 7 GB                       |
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Recommended **System Requirement of** Rocket League
 
@@ -68,10 +73,6 @@ According to users, this easy fix would help you solve the problem.
 
 **Note** : Make sure your documents folder isn’t on your OneDrive. If you’ve linked your Documents folder from the OneDrive account, you need to[unlink it](https://superuser.com/questions/1205668/how-to-unlink-my-documents-folder-from-my-onedrive-account#comment1756728%5F1205668) first. Otherwise, it would cause an issue.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run as administrator
 
  The privilege issue might be the reason for this problem. With high-integrity access, Rocket League can make full use of its features, running its function properly. So run the game as an administrator to see if this fixes your issue.
@@ -79,16 +80,10 @@ According to users, this easy fix would help you solve the problem.
 1. Navigate to the game installation folder. (If you can’t find it, you can go to Steam, right-click on the game > Properties > Local Files > Browse local files.)
 2. Right-click on**Rocket League Launcher.exe** and click**Properties** .
 3. Click**Compatibility** tab and check**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
 5. Run the game and check whether the issue is solved or not.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Verify game files**(Steam users only)**
 
  This fix will check game files and verify if they are right. What else, it will download and repair the required files. If the**Rocket League won’t launch** issue is caused by corrupted game files, this fix could help you fix it.
@@ -96,9 +91,6 @@ According to users, this easy fix would help you solve the problem.
 1. Open the Steam client and navigate to **the LIBRARY tab** , then **right-click** on**Rocket League** and select **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-1.png)
 2. Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/Steam-verify-the-game-file-2.png)
 3. Launch Rocket League to check.
 
@@ -109,11 +101,21 @@ According to users, this easy fix would help you solve the problem.
 1. In the Steam client, click the**Steam** button in the topper left corner and click**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/setting.jpg)
 2. Choose the**In-Game** tab, uncheck these boxes to disable the Overlay options. Then click**OK** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/settings.jpg)
 3. Run the game to check.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5: Change compatibility mode
 
@@ -125,11 +127,12 @@ According to users, this easy fix would help you solve the problem.
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 4. Click **OK** then run Rocket League to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/W5aJC8okA8s?si=L2rnYAp-gmGlLQSf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If this fix doesn’t help, don’t worry, move to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Update your graphics card driver
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, you may encounter Rocket League won’t launch issues. So it’s really important to keep your drivers updated to get a better gaming experience.
@@ -156,15 +159,9 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether the problem is resolved or not.
 
@@ -192,8 +189,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -201,4 +196,19 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-videos.techidaily.com/updated-infiltrate-a-tiktok-livestream-with-precision-for-2024/"><u>[Updated] Infiltrate a TikTok Livestream With Precision for 2024</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-unveiling-1-ranked-ios-apps-to-download-facebook-videos-and-gigs-for-2024/"><u>[Updated] Unveiling #1 Ranked iOS Apps to Download Facebook Videos and Gigs for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arcadegeddon-pc-performance-optimized-say-no-more-frequent-crashes/"><u>Arcadegeddon PC Performance Optimized: Say No More Frequent Crashes!</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/empowering-hong-kong-shoppers-the-demand-for-control-over-businesses-artificial-intelligence-usage/"><u>Empowering Hong Kong Shoppers: The Demand for Control Over Businesses' Artificial Intelligence Usage</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/experience-efficiency-with-the-hp-stream-11-small-size-big-performance/"><u>Experience Efficiency with the HP Stream 11 – Small Size, Big Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-your-msi-mystic-light-up-and-running-on-windows-platforms/"><u>How to Get Your MSI Mystic Light Up and Running on Windows Platforms</u></a></li>
+<li><a href="https://blog-min.techidaily.com/in-2024-how-to-use-life360-on-windows-pc-for-oneplus-11r-drfone-by-drfone-virtual-android/"><u>In 2024, How to Use Life360 on Windows PC For OnePlus 11R? | Dr.fone</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/last-chance-to-grab-exclusive-gaming-bargains-on-prime-day-our-comprehensive-list-of-top-deals-from-june-15-2024-techradar/"><u>Last Chance to Grab Exclusive Gaming Bargains on Prime Day: Our Comprehensive List of Top Deals From June 15, 2024 - TechRadar</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/miomioguru/"><u>miomio.guru 動画素材の迅速かつ安全なダウンロードと保存方法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-enables-successful-boot-of-civilization-6-game-on-new-windows-11-platforms/"><u>Update Enables Successful Boot of Civilization 6 Game on New Windows 11 Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-my-lunar-client-keep-freezing-solutions-to-restore-stability/"><u>Why Does My Lunar Client Keep Freezing? Solutions to Restore Stability</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/first-steps-in-the-digital-world-course-recommendations/"><u>Your First Steps in the Digital World Course Recommendations</u></a></li>
+</ul></div>
 

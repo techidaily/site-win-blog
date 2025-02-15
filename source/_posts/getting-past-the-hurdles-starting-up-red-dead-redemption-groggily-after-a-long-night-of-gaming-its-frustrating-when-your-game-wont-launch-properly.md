@@ -1,7 +1,7 @@
 ---
 title: "Getting Past the Hurdles: Starting Up Red Dead Redemption Groggily After a Long Night of Gaming, It's Frustrating when Your Game Won’t Launch Properly."
-date: 2024-08-18T18:00:47.530Z
-updated: 2024-08-19T18:00:47.530Z
+date: 2025-02-08T20:02:02.577Z
+updated: 2025-02-14T21:51:17.319Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/7d6e2b9a5733a0050649c4f29381b12d84c8d65f1
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Pathfinder-Wrath-of-the-Righteous-Free-Download-1.jpg)
 
  Pathfinder: Wrath of the Righteous has been the most hyped RPG game lately. But as a new release, it’s far from error-free. Many players have been reporting their**keyboard would randomly stop working in-game** . If you’re on the same boat, we’ve got a few working fixes for you.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes…
 
@@ -43,8 +47,9 @@ thumbnail: https://thmb.techidaily.com/7d6e2b9a5733a0050649c4f29381b12d84c8d65f1
 If you didn’t find any hardware issues, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fo4lNZ84x9Q?si=WdcYPZp-9VJnZEnC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Make sure no other devices are interfering
 
  This fix is specifically for wireless or Bluetooth keyboard users. If you have a wired keyboard, jump to the[next fix](https://tools.techidaily.com/drivereasy/download/) .
@@ -55,22 +60,13 @@ If you didn’t find any hardware issues, try the next fix.
 
  You may also like:[How to fix wireless keyboard lag?](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Fix 3: Delete Rewired\_DirectInput.dll file
 
  This fix was originally for solving the mouse-not-working problem, but some players found that it worked for keyboard issues too. The developers are working on the keyboard bug, and they suggest users to try this fix as a workaround. Here’s how:
 
 1. Open your Steam library and find Pathfinder: Wrath of the Righteous. Right-click the game and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/Steam-right-click-Properties.jpg)
 2. Under the**LOCAL FILES** tab, click**Browse** . It will open the local game folder for you.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/browse-local-files-in-steam-client.jpg)
 3. Navigate to**Wrath\_Data\\Plugins\\x86\_64** .
 4. **Make a copy of the Rewired\_DirectInput.dll file** , and save it at somewhere safe. There shouldn’t be any risk to delete this file, but backing up can always help if anything goes wrong.
@@ -80,8 +76,9 @@ If you didn’t find any hardware issues, try the next fix.
  If this fix doesn’t solve your problem, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8dH3yHH9IX8?si=geiW5KbIljSFT9pz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update your keyboard driver
 
  If your keyboard driver is outdated or faulty, it could cause compatibility issues so your keyboard could stop working in-game. You may want to make sure yours is up-to-date and functioning properly.
@@ -97,13 +94,18 @@ If you didn’t find any hardware issues, try the next fix.
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-19.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/T-ssCD10v2M?si=WVWGNayUiCAkMZzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click the **Update**  button next to the flagged keyboard driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-25_18-19-35.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  The**Pro version** of Driver Easy comes with**full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -120,8 +122,6 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -129,4 +129,26 @@ If you didn’t find any hardware issues, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/024-approved-crafting-timeless-videos-with-historical-flair/"><u>[New] 2024 Approved Crafting Timeless Videos with Historical Flair</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/new-ultimate-mix-seamless-free-and-paid-blu-ray-playback-windows-macos/"><u>[New] Ultimate Mix Seamless Free & Paid Blu-Ray Playback (Windows, macOS)</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-best-practices-sourcing-background-beats-for-boxings/"><u>[Updated] Best Practices Sourcing Background Beats for Boxings</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/updated-craft-your-own-film-finale-templates-no-cost/"><u>[Updated] Craft Your Own Film Finale Templates, No Cost</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-visual-perfection-discover-the-best-of-9-live-stream-filters/"><u>[Updated] Visual Perfection Discover the Best of 9 Live-Stream Filters</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-frustration-master-these-6-quick-fixes-for-stable-roblox-sessions-on-pc-expert-tips-for-2n4/"><u>Avoid Frustration, Master These 6 Quick Fixes for Stable Roblox Sessions on PC - Expert Tips for 2N4</u></a></li>
+<li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-motorola-defy-2-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Motorola Defy 2? | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-eliminate-slow-response-time-from-your-windows-10-keyboard/"><u>How To Eliminate Slow Response Time From Your Windows 10 Keyboard</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-unova-stone-pokemon-go-evolution-list-and-how-catch-them-for-xiaomi-redmi-note-12t-pro-drfone-by-drfone-virtual-android/"><u>In 2024, Unova Stone Pokémon Go Evolution List and How Catch Them For Xiaomi Redmi Note 12T Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lag-free-gaming-with-rainbow-six-siege-essential-troubleshooting-guide/"><u>Lag-Free Gaming with Rainbow Six Siege - Essential Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-2-game-crashing-try-these-6-reliable-pc-fix-techniques/"><u>Modern Warfare 2 Game Crashing? Try These 6 Reliable PC Fix Techniques!</u></a></li>
+<li><a href="https://games-able.techidaily.com/nvidias-rtx-4090-a-trifecta-of-regrets/"><u>NVIDIA's RTX 4090: A Trifecta of Regrets</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-technical-glitches-in-cult-of-the-lamb-on-your-windows-machine/"><u>Overcoming Technical Glitches in Cult of the Lamb on Your Windows Machine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-among-us-voice-communication-problems-on-windows-computers/"><u>Resolve Your 'Among Us' Voice Communication Problems on Windows Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-preventing-frequent-game-crashes-for-battlefront-ii-players-on-personal-computers/"><u>Solution Guide: Preventing Frequent Game Crashes for Battlefront II Players on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-black-screen-error-in-call-of-duty-wwii-on-pc/"><u>Troubleshooting the Black Screen Error in Call of Duty: WWII on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warframe-performance-hacks-overcoming-game-stalls-and-frozen-screens/"><u>Warframe Performance Hacks: Overcoming Game Stalls and Frozen Screens</u></a></li>
+<li><a href="https://common-error.techidaily.com/why-cant-i-change-screen-brightness-in-windows-11-step-by-step-repair-guide/"><u>Why Can't I Change Screen Brightness in Windows 11? Step-by-Step Repair Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-10-and-microsoft-edge-collision-heres-how-you-can-stop-it/"><u>Windows 10 and Microsoft Edge Collision? Here's How You Can Stop It</u></a></li>
+</ul></div>
 

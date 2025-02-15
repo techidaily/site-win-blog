@@ -1,7 +1,7 @@
 ---
 title: Fallout 76 Server Connection Fixes for a Seamless PC Gaming Experience
-date: 2024-08-18T17:59:24.988Z
-updated: 2024-08-19T17:59:24.988Z
+date: 2025-02-14T05:43:05.030Z
+updated: 2025-02-14T16:47:56.174Z
 tags:
   - win11
   - win10
@@ -30,8 +30,9 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 [**Download Now**](https://www.fortect.com/go/route-dz.php?channel=dz&d=t&banner=drivereasyen87812)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes…
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -67,23 +68,27 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 1. Launch Minecraft.
 2. Click**Play** .
 3. Go to the**Worlds** tab and choose one of your Worlds.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
+
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Disable Windows Firewall
 
  If Minecraft is not allowed in the Firewall, the “Unable to connect to world” issue can happen. You can connect to the internet but can’t join each other’s world. So check the Firewall settings and ensure the Minecraft executable file “javaw.exe” is allowed in the Firewall.
@@ -91,18 +96,24 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Click the Windows start button, type**control panel** and press the**Enter** key on your keyboard to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UcplMvRBulA?si=iBonbwDS1v7RAlHK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update the network drivers
 
@@ -127,13 +138,6 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 5: Change the settings
 
  Check your and your friends’ settings on Xbox.com. The changed settings may be the reason why you’re unable to connect to the world.
@@ -142,16 +146,10 @@ No advertising on the website.
 2. Click the**Xbox One/Windows 10 Online Privacy** tab.
 3. Find**Join multiplayer games** and make sure it’s set to**Allow** .
 4. Click**Submit** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/x.jpg)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter the “unable to connect to world” issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -171,13 +169,6 @@ No advertising on the website.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  NordVPN in your device.
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
@@ -187,8 +178,9 @@ No advertising on the website.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Kr7Dpw0HuM?si=05wWDXdPgmC-oBBE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Bonus tips
 
 #### For iPad users
@@ -211,8 +203,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +210,21 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-blog.techidaily.com/024-approved-profit-mastery-on-youtube-a-cross-device-guide/"><u>[New] 2024 Approved Profit Mastery on YouTube A Cross-Device Guide</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-conquering-instagram-reels-like-an-elite-creator/"><u>[New] Conquering Instagram Reels Like an Elite Creator</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-capture-the-best-with-top-windows-11-hd-webcams/"><u>[New] In 2024, Capture the Best with Top Windows 11 HD Webcams</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-supreme-4k-tvs-for-the-ultimate-gaming-experience-for-2024/"><u>[Updated] Supreme 4K TVs for the Ultimate Gaming Experience for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cut-down-baldurs-gate-3-cpu-usage-now-discover-effective-solutions-for-gaming-performance-boost/"><u>Cut Down Baldur’s Gate 3 Cpu Usage Now! Discover Effective Solutions for Gaming Performance Boost</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-strategies-for-eliminating-lags-and-boosting-performance-in-dying-light/"><u>Expert Strategies for Eliminating Lags and Boosting Performance in 'Dying Light'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-obsidian-streamrecord-overcoming-latency-problems/"><u>Fixing Obsidian Stream/Record: Overcoming Latency Problems</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-identify-some-outdated-drivers-with-windows-device-manager-in-windows-11-and-10-and-7-by-drivereasy-guide/"><u>How to identify some outdated drivers with Windows Device Manager in Windows 11 & 10 & 7</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Lava Storm 5G? | Dr.fone</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/izing-impact-livestreaming-360-degree-video-magic-on-youtube-for-2024/"><u>Maximizing Impact Livestreaming 360-Degree Video Magic on YouTube for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-t-wor3-issue-how-to-stop-unexpected-app-stops-and-play-smoothly-again/"><u>Modern Warfare T WoR3 Issue: How to Stop Unexpected App Stops & Play Smoothly Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-lag-issues-in-counter-strike-global-offensive-with-ease/"><u>Overcoming Lag Issues in Counter-Strike Global Offensive With Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-star-wars-jedi-fallen-order-game-failure-to-start/"><u>Troubleshooting Guide: Star Wars Jedi: Fallen Order Game Failure to Start</u></a></li>
+<li><a href="https://ai-video-tools.techidaily.com/videopad-video-editor-review-does-it-live-up-to-the-hype-for-2024/"><u>Videopad Video Editor Review Does It Live Up to the Hype for 2024</u></a></li>
+</ul></div>
 

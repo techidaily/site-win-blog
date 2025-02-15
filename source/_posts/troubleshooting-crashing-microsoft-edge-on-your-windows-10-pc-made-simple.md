@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Crashing Microsoft Edge on Your Windows 10 PC Made Simple
-date: 2024-08-18T17:57:39.477Z
-updated: 2024-08-19T17:57:39.477Z
+date: 2025-02-08T01:51:32.021Z
+updated: 2025-02-14T23:28:18.419Z
 tags:
   - win11
   - win10
@@ -17,14 +17,19 @@ thumbnail: https://thmb.techidaily.com/10c291d26c69b79184acc714bd905fecf227774d1
 
 Even though Microsoft Edge browser is not very popular these days, as a product that comes with the Microsoft system, there still some users using Microsoft Edge. If you are one of them, and you’re trouble with the**Microsoft Edge crashing** problem, don’t worry, we are here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Common methods
 
 * Restart your PC
 * Install the latest updates
 
 <!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these methods
 
  If common methods can’t help, you can move to the below methods. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,25 +48,15 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 1. Press the**Windows logo key + I** together to open the**Windows Settings** .
 2. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 4. Click**Run the troubleshooter** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windows-store-app.jpg)
 5. Follow the on-screen instructions to finish the process.
 6. Run Microsoft Edge to check the problem is resolved or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 2: Repair & reset Microsoft Edge
 
  If you can’t open Microsoft Edge, it’s probably the application files are corrupted, you could repair or reset it to fix the problem.
@@ -72,12 +67,19 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click**Apps** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
-5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
+
 <!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -93,9 +95,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Click History.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
+
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
@@ -103,9 +107,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -114,9 +115,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 5: Run a System File Checker
 
  The corrupted system file may cause Microsoft Edge to crash. To solve it, you can use the 2 ways to repair the broken system files.
@@ -136,10 +134,11 @@ DbSchema database designer for all databases, schema design in the team, schema 
 2. Open Fortect and click**Yes** to run a free scan of your PC.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Fortect will scan your computer thoroughly. This may take a few minutes.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 4. Once done, you’ll see a detailed report of all the issues on your PC. To fix them automatically, click**Start Repair** . This requires you to purchase the full version. But don’t worry. If Fortect doesn’t solve the issue, you can request a refund within 60 days.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
@@ -151,14 +150,15 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 1. On your keyboard, press the **Windows logo key** and **R** key at the same time to invoke the Run box.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/Snap4.jpg)
 4. Reboot your computer to check the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If the result indicates that there are broken files exist but SFC can’t fix them, you can turn to Deployment Image Servicing and Management (DISM) Tool for deeper examination and repair.  
  Click [here](https://tools.techidaily.com/drivereasy/download/) for a tutorial on how to use the DISM Tool.
@@ -175,8 +175,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -184,4 +182,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-dual-output-synchronization-for-2024/"><u>[New] Dual Output Synchronization for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-elevate-your-wit-crafting-memes-with-kapwing/"><u>[Updated] 2024 Approved Elevate Your Wit Crafting Memes with Kapwing</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-in-2024-professional-editors-guide-fcps-top-10-plugins/"><u>[Updated] In 2024, Professional Editor’s Guide FCP's Top 10 Plugins</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-surviving-the-block-top-houses/"><u>[Updated] In 2024, Surviving the Block Top Houses</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/become-a-pro-mastering-codegpt-install-in-vs-code/"><u>Become a Pro: Mastering CodeGPT Install in VS Code</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-performance-issues-resolved-say-goodbye-to-lag-and-stuttering/"><u>Cyberpunk 2077 Performance Issues Resolved: Say Goodbye to Lag & Stuttering</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eight-effective-strategies-to-prevent-hogwarts-legacy-from-crashing-on-pc-at-launch/"><u>Eight Effective Strategies to Prevent Hogwarts Legacy From Crashing on PC at Launch</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/email-retrieval-made-easy-methods-for-identifying-your-account/"><u>Email Retrieval Made Easy: Methods for Identifying Your Account</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-of-the-epoch-woes-mastery-guide-to-resolving-pc-malfunctions-in-202/"><u>End of the Epoch Woes? Mastery Guide to Resolving PC Malfunctions in 202#</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-performance-transformation-how-to-achieve-crystal-clear-graphics-and-unmatched-high-frame-rates-without-stuttering/"><u>Game Performance Transformation : How to Achieve Crystal Clear Graphics and Unmatched High Frame Rates Without Stuttering</u></a></li>
+<li><a href="https://win-best.techidaily.com/how-to-fix-your-laptops-charging-issue-a-guide-from-yl-computing/"><u>How to Fix Your Laptop's Charging Issue: A Guide From YL Computing</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/in-2024-gopro-start-up-must-haves-decoded/"><u>In 2024, GoPro Start-Up Must-Haves Decoded</u></a></li>
+<li><a href="https://games-able.techidaily.com/stop-automatic-steam-launch-on-system-restart/"><u>Stop Automatic Steam Launch on System Restart</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/streamlining-earnings-with-youtube-studio-techniques/"><u>Streamlining Earnings with Youtube Studio Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-6-solutions-when-your-steam-vr-is-unrecognized/"><u>Troubleshooting Guide: 6 Solutions When Your Steam VR Is Unrecognized</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-stability-issues-in-fia-world-rally-championship-sega-pc-version-no-more-crashes/"><u>Troubleshooting Guide: Stability Issues in FIA World Rally Championship Sega PC Version - No More Crashes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002331983-unstick-your-progress-how-to-fix-phasmophobias-persistent-90-load-in-new-patches/"><u>Unstick Your Progress: How to Fix Phasmophobia's Persistent 90% Load in New Patches.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-cant-i-start-helldivides-2-on-steam-fixing-tips-revealed/"><u>Why Can't I Start Helldivides 2 on Steam? Fixing Tips Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-itunes-recognition-problems-with-your-iphone-on-windows-10/"><u>Winning the Battle Against iTunes Recognition Problems with Your iPhone on Windows 10</u></a></li>
+</ul></div>
 

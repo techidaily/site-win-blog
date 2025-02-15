@@ -1,7 +1,7 @@
 ---
 title: Top 6 Solutions for Preventing Street Fighter 6 From Crashing on Your PC
-date: 2024-08-18T18:00:08.982Z
-updated: 2024-08-19T18:00:08.982Z
+date: 2025-02-13T06:33:03.732Z
+updated: 2025-02-15T03:19:24.268Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/dbdd977fc03b6891cb3b7e84cceda70cd02add2f2
 
  The good news is you’ve come to the right place, and you should be able to fix this issue easily after reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## The system requirements of Sword and Fairy 7 for Windows PC
 
  Ensure that your PC meets the system requirements of Sword and Fairy 7 first. If you don’t know the system requirements of the game, just take a quick glance at the table below:
@@ -56,25 +53,32 @@ Sword and Fairy 7 system requirements
 5. [**Perform a Windows update**](https://tools.techidaily.com/drivereasy/download/)
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Verify integrity of game files
 
  If some important game files are missing or corrupted, Sword and Fairy 7 may not work as expected. If it’s the case, you need to veirfy and repair game files in Steam. Here’s how to do it:
 
 1. Launch **Steam** and go to your **Library** .
 2. **Right-click** on **Sword and Fairy 7** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
 
  Run Sword and Fairy 7 after the verifying process is complete. See if it crashes again. If this issue persists, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Update your graphics driver
 
@@ -92,18 +96,17 @@ Sword and Fairy 7 system requirements
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xq2r4ZKM-Po?si=fA2DdEB1op-atCkz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of Sword and Fairy 7 releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -112,27 +115,27 @@ Sword and Fairy 7 system requirements
 
  Launch Sword and Fairy 7 again and see if the this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Disable overlays
 
  Overlays sometimes would interfere with the game and even block the game files. You can try disabling Steam Overlay for Sword and Fairy 7 and see if the game crashes again:
 
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Sword and Fairy 7_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
+
 <!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
 
  Launch the game and see if the it crashes again. If this fix doesn’t work, try the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Perform a Windows update
 
@@ -141,15 +144,13 @@ Sword and Fairy 7 system requirements
 You can follow the steps below to perform a Windows update:
 
 1. On your keboard, press**the Windows logo key** and**I** at the same time to open the Windows Settings. Click**Update & Security** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Windows 10 settings update and security](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-10-settings-update-and-security.png)
 2. Click**Check for updates** to let Windows check for the latest updates. If there are updates available, Windows will download and install the updates automatically.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![Windows update check for updates](https://images.drivereasy.com/wp-content/uploads/2021/10/Windows-update-check-for-updates.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Perform a clean boot
 
@@ -158,15 +159,17 @@ You can follow the steps below to perform a Windows update:
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
@@ -198,8 +201,6 @@ You can follow the steps below to perform a Windows update:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +208,23 @@ You can follow the steps below to perform a Windows update:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-approaches.techidaily.com/updated-streamline-video-management-with-easy-to-follow-time-stamp-tutorials/"><u>[Updated] Streamline Video Management with Easy-to-Follow Time Stamp Tutorials</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-top-vhs-80s-effects-to-use-in-video-editing/"><u>[Updated] Top VHS 80S Effects to Use in Video Editing</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-voiceover-dynamics-for-stellar-ppt-presentations-for-2024/"><u>[Updated] Voiceover Dynamics for Stellar PPT Presentations for 2024</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/1-three-effective-methods-to-enjoy-dvd-movies-on-your-chrome-os-device/"><u>1. Three Effective Methods to Enjoy DVD Movies on Your Chrome OS Device</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-lgs-ultrafine-masterpiece-an-exhaustive-monitoring-guide/"><u>2024 Approved LG's UltraFine Masterpiece An Exhaustive Monitoring Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-smooth-gameplay-in-fallout-76-advanced-solutions-to-overcome-low-fps-2023-strategies/"><u>Achieve Smooth Gameplay in Fallout 76: Advanced Solutions to Overcome Low FPS - 2023 Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-optimization-overcoming-freezing-and-frame-drops-with-6-essential-tweaks/"><u>Baldur's Gate Optimization: Overcoming Freezing & Frame Drops with 6 Essential Tweaks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-overcoming-the-challenge-of-minecraft-installation-issues-on-windows-11/"><u>Fixes and Solutions: Overcoming the Challenge of Minecraft Installation Issues on Windows 11</u></a></li>
+<li><a href="https://change-location.techidaily.com/how-to-teleport-your-gps-location-on-vivo-v27-drfone-by-drfone-virtual-android/"><u>How To Teleport Your GPS Location On Vivo V27? | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-adding-subsections-and-chapters-to-your-youtube-tutorials/"><u>In 2024, Step-by-Step Adding Subsections and Chapters to Your YouTube Tutorials</u></a></li>
+<li><a href="https://win11.techidaily.com/navigating-through-non-initialized-disk-errors-in-windows-810/"><u>Navigating Through Non-Initialized Disk Errors in Windows 8/10</u></a></li>
+<li><a href="https://win11.techidaily.com/revolutionize-display-transition-to-dynamic-wmdesk/"><u>Revolutionize Display: Transition to Dynamic WmDesk</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-problems-with-the-battlenet-desktop-application-for-windows-users/"><u>Solving Problems with the Battle.net Desktop Application for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-sea-of-thieves-stuck-screen-problem-expert-advice-and-solutions/"><u>Solving Sea of Thieves Stuck Screen Problem: Expert Advice and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-free-setup-syncing-astro-a50-headset-with-command-center/"><u>Trouble-Free Setup: Syncing Astro A50 Headset with Command Center</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-rainbow-six-expedition-solving-incompatible-hardware-detection/"><u>Troubleshooting Rainbow Six Expedition: Solving Incompatible Hardware Detection</u></a></li>
+</ul></div>
 

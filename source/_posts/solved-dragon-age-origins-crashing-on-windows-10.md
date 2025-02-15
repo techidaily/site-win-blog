@@ -1,7 +1,7 @@
 ---
 title: "[SOLVED] Dragon Age: Origins Crashing on Windows 10"
-date: 2024-08-18T17:58:26.305Z
-updated: 2024-08-19T17:58:26.305Z
+date: 2025-02-13T23:45:45.860Z
+updated: 2025-02-14T17:52:40.977Z
 tags:
   - win11
   - win10
@@ -27,8 +27,9 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 | RAM             | 4 GB                                         |
 
 <!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Methods you can try
 
 1. [Add Sea of Thieves into your antivirus file exclusions](https://tools.techidaily.com/drivereasy/download/)
@@ -36,8 +37,9 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 3. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 1: Add Sea of Thieves into your antivirus file exclusions
 
  One reason for the Sea of Thieves crashing problem is that your antivirus software is scanning the game. To solve it, you can set file exclusions to prevent it happen again. We take Trend Micro as an example, you can follow the same steps for your antivirus software.
@@ -45,6 +47,11 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 1. Press the**Windows logo key + X** together and click the**Windows PowerShell** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/wp.jpg)
 2. Run the below command.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **`Get-AppxPackage *SeaOfThieves* | ForEach{$_.InstallLocation}`**
 3. Copy the content which looks like this:  
 **`C:\Program Files\WindowsApps\Microsoft.SeaofThieves_2.78.5523.2_x64__8wekyb3d8bbwe`**
@@ -57,15 +64,17 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 10. Select **OK** to save your changes and close the Exception List window.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 2: Lower the graphics settings in the game
 
  It is possible that the game can be crashed because your graphics card cannot capable of the high settings in the game. So if you’re using an old graphics card, you can try to lower the graphics setting in the game to fix the problem.
 
 <!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/d-COuhPT5mk?si=wLZU6jkkAdJuAn6h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Method 3: Update your driver
 
  The outdated or missing driver can cause game crashing. You have to make sure your drivers have been updated and install correctly.
@@ -78,15 +87,9 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update button** next to the selected driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Restart your computer and check the Anthem has sound or not.
 
@@ -100,8 +103,6 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -109,4 +110,19 @@ You may encounter**Sea of Thieves crashing problem** now and then. The game just
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-share.techidaily.com/new-the-ultimate-guide-to-cost-effective-video-cameras/"><u>[New] The Ultimate Guide to Cost-Effective Video Cameras</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-1-choice-transcribe-youtube-videos-in-a-flash/"><u>[Updated] 1 Choice Transcribe YouTube Videos in a Flash</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-artful-depth-making-text-pop-in-ai/"><u>[Updated] Artful Depth Making Text Pop in AI</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-navigating-fb-video-aspects-ratios-explained-for-2024/"><u>[Updated] Navigating FB Video Aspects Ratios Explained for 2024</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/approved-stepwise-approach-to-snagging-youtube-playlists-efficiently/"><u>2024 Approved Stepwise Approach to Snagging YouTube Playlists Efficiently</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/croatia-mother-tongue/"><u>Croatia: Mother Tongue</u></a></li>
+<li><a href="https://howto.techidaily.com/fix-the-error-of-unfortunately-the-processcomandroidphone-has-stopped-on-oppo-a79-5g-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Fix the Error of Unfortunately the Process.com.android.phone Has Stopped on Oppo A79 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-a-broken-link-in-terraria-5-effective-methods/"><u>How To Repair A Broken Link In Terraria - 5 Effective Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-nba-2k24-comprehensive-solutions-for-error-727e66ac-and-beyond-updated-players/"><u>Mastering NBA 2K24: Comprehensive Solutions for Error 727E66ac & Beyond, Updated Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-problems-with-the-2024-finals-launching-comprehensive-tips/"><u>Overcome Problems With The 2024 Finals Launching - Comprehensive Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-when-armored-core-vi-wont-boot-master-the-fixes-for-fires-of-rubicon/"><u>Solutions for When Armored Core VI Won't Boot: Master the Fixes for Fires of Rubicon</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723007970655-the-ultimate-fix-for-dragon-quest-xis-crash-concern-learn-how-to-play-uninterrupted/"><u>The Ultimate Fix for Dragon Quest XI's Crash Concern - Learn How to Play Uninterrupted!</u></a></li>
+</ul></div>
 

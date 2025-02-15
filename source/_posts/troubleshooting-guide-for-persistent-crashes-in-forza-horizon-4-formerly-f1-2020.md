@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide for Persistent Crashes in Forza Horizon 4 (Formerly F1 2020)
-date: 2024-08-18T17:59:34.438Z
-updated: 2024-08-19T17:59:34.438Z
+date: 2025-02-10T06:14:00.385Z
+updated: 2025-02-14T16:35:54.938Z
 tags:
   - win11
   - win10
@@ -18,6 +18,10 @@ thumbnail: https://thmb.techidaily.com/8da4f128772304ca7169e7ed666f281e2ef57e50c
 ![diablo 2 resurrected crashing pc](https://images.drivereasy.com/wp-content/uploads/2021/08/diablo-2-resurrected-featured-image-1200x675.jpg)
 
  Got your Diablo 2 Resurrected but can’t play the game because it crashes with an unexpected error? You’re not alone. A lot of players who are facing the same issue have worked out some effective solutions. In this post, we’ll show you all the fixes you can try!
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8U3ooyFiAB4?si=yXPQrDhMBEJwN2EZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Try these fixes
 
@@ -59,16 +63,10 @@ If this method doesn’t help, check out your graphics driver.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click the**Update** button next to a flagged graphics driver to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-5700-xt-1.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -76,21 +74,18 @@ If this method doesn’t help, check out your graphics driver.
 
  Restart your computer for the changes to take effect and test if the issue persists. If yes, don’t frustrate, and move on to the following fixes.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Run the game as an administrator
 
  Some games may require an administrator-level to run, or else it will crash at startup or during the gameplay. If that’s the cause, running Diablo 2 Resurrected as an administrator should resolve the permission issue. Here is how:
 
 1. Go to the game’s installation folder.
 2. Right-click the Diablo 2 Resurrected executable (.exe) file and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 3. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and**Disable fullscreen optimizations** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-1.jpg)
 4. Click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/run-as-administrator-diablo-2-2.jpg)
@@ -103,21 +98,25 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 1. Open the Battle.net launcher and select**Diablo 2 Resurrected** from the top pane.
 2. At the bottom, click the**gear icon** next to the Play button and select**Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/scan-and-repair-corrupt-game-files.jpg)
 3. Click**Begin Scan** to process.  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/D2R-begin-scan.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Wait a few minutes until the process completes, and restart your game to see if the problem is fixed. If not, try the next solution.
 
 <!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JNxZ4Z6BVCg?si=522oz1OPSQDhNYWT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5 – Turn off overlays
 
  As many players reported, programs with an overlay like Discord or GeForce Experience can cause the Blizzard games to crash or get a black screen. To avoid an incompatibility issue like this, simply disable or uninstall it as follows:
@@ -125,9 +124,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 **On Discord**
 
 1. Run Discord and click the**cogwheel icon** at the bottom of the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-1.jpg)
 2. Select the**Overlay** tab from the left and toggle off**Enable in-game overlay** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-2-2.jpg)
@@ -135,11 +131,13 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 **On GeForce Experience**
 
 1. Launch GeForce Experience. Then click the**cogwheel icon** at the upper right corner.  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/7-1-1.jpg)
 2. Toggle off**In-game overlay** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/0-00.jpg)
 
  After all the overlay feature is disabled, your game should return to normal.
@@ -157,8 +155,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +162,22 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-in-2024-insta-moments-of-laughter-and-tears-in-top-meme-groups/"><u>[New] In 2024, Insta-Moments of Laughter & Tears in Top Meme Groups</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-inside-the-revolutionary-tech-of-sj7s-4k-star-action-camera-review/"><u>[New] Inside the Revolutionary Tech of SJ7's 4K Star Action Camera Review</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/5-simple-ways-to-save-your-youtube-content/"><u>5 Simple Ways to Save Your YouTube Content</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-not-enough-available-memory-glitch-in-god-of-war-a-complete-guide/"><u>Beat the 'Not Enough Available Memory' Glitch in God of War: A Complete Guide</u></a></li>
+<li><a href="https://techidaily.com/how-do-i-reset-my-honor-magic-5-phone-without-technical-knowledge-drfone-by-drfone-reset-android-reset-android/"><u>How do I reset my Honor Magic 5 Phone without technical knowledge? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-ipod-and-iphone-14-plus-the-right-way-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock On iPod and iPhone 14 Plus The Right Way</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-facts-you-need-to-know-about-screen-mirroring-vivo-y100a-drfone-by-drfone-android/"><u>In 2024, 3 Facts You Need to Know about Screen Mirroring Vivo Y100A | Dr.fone</u></a></li>
+<li><a href="https://program-issues.techidaily.com/join-deacon-st-john-embark-on-a-post-apocalyptic-journey-with-days-gone-for-pc-gamers/"><u>Join Deacon St. John: Embark on a Post-Apocalyptic Journey with 'Days Gone' For PC Gamers!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-terraria-stability-avoid-game-crashes-with-our-expert-tips/"><u>Mastering Terraria Stability: Avoid Game Crashes With Our Expert Tips</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/next-gen-ai-picture-perfection-software-for-2024/"><u>Next-Gen AI Picture Perfection Software for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-system-for-crisp-uninterrupted-gameplay-in-warzone/"><u>Optimizing Your System for Crisp, Uninterrupted Gameplay in Warzone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-persistent-beat-saber-crashes-on-your-device/"><u>Troubleshooting Steps for Persistent Beat Saber Crashes on Your Device</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/1722687447784-ultimate-zoom-capture-with-canon-sx70-in-depth-review/"><u>Ultimate Zoom Capture with Canon SX70 - In Depth Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-your-logitech-g403-with-the-new-drivers-on-windows-pcs/"><u>Update Your Logitech G403 with the New Drivers on Windows PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-against-obs-appearances-of-instability-in-windows-1110-new-resolutions-for-streamers/"><u>Winning Against OBS Appearances of Instability in Windows 11/10 - New Resolutions for Streamers</u></a></li>
+</ul></div>
 

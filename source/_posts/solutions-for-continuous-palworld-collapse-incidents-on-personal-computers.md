@@ -1,7 +1,7 @@
 ---
 title: Solutions for Continuous Palworld Collapse Incidents on Personal Computers
-date: 2024-08-18T17:56:50.028Z
-updated: 2024-08-19T17:56:50.028Z
+date: 2025-02-10T01:24:11.224Z
+updated: 2025-02-15T00:37:10.404Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/05fdbf7e0ba6723060a8e38727f66904571eb715b
 
 **WRC 10 FIA World Rally Championship keeps crashing on your PC** ? If your answer is YES, you’ve come to the right place. These days, we’ve seen many PC players reporting that WRC 10 keeps crashing on their PC, which makes the game unplayable. But don’t worry. You should be able to fix this issue on your own after reading this article.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## The system requirements of WRC 10 FIA World Rally Championship
 
  Ensure that your PC meets the system requirements of WRC 10\. You can take a quick glance at the system requirements of WRC 10 if you don’t know the system requirements:
@@ -39,6 +43,10 @@ System requirements of WRC 10 from Steam
 
  WRC 10 still keeps crashing on your PC even though your PC meets the system requirements? Just read on and try the fixes below.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  Although the causes of WRC 10 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether WRC 10 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -49,9 +57,6 @@ System requirements of WRC 10 from Steam
 4. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 5. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify and repair the game files.
@@ -62,9 +67,6 @@ System requirements of WRC 10 from Steam
 2. **Right-click** on **WRC 10 FIA World Rally Championship** and select **Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
 **To verify game files in Epic Games Launcher:**
@@ -77,9 +79,6 @@ System requirements of WRC 10 from Steam
 
  When the verifying process completed, launch WRC 10 and check if this fix works. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If WRC 10 keeps crashing on your PC, it’s likely that you have the corrupted or outdated graphics driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -94,6 +93,11 @@ System requirements of WRC 10 from Steam
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
@@ -109,8 +113,9 @@ System requirements of WRC 10 from Steam
  Launch WRC 10 again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Temporarily disable anti-virus software
 
  Some 3rd party antivirus software would interfere with the game files, which may also crash the game.
@@ -126,31 +131,26 @@ System requirements of WRC 10 from Steam
  If there is a certain application conflicting with WRC 10, the game would not run properly. To find out the problematic application behind the game crashing issue, you need to perform a clean boot. Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
+
 <!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cC-HtDQVoG0?si=nQcoa7q8q2IL8U0m" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch WRC 10 to check if the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -178,8 +178,6 @@ System requirements of WRC 10 from Steam
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +185,21 @@ System requirements of WRC 10 from Steam
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-error-0xc19001e1-in-windows-10/"><u>[FIXED] Error 0Xc19001e1 in Windows 10</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-seamless-igtv-and-fb-sharing-guide-for-2024/"><u>[New] Seamless IGTV and FB Sharing Guide for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-pinnacle-programs-for-peak-webcam-video-quality/"><u>[Updated] Pinnacle Programs for Peak Webcam Video Quality</u></a></li>
+<li><a href="https://article-helps.techidaily.com/updated-the-secret-to-stability-overcoming-handheld-videography-challenges/"><u>[Updated] The Secret to Stability Overcoming Handheld Videography Challenges</u></a></li>
+<li><a href="https://facebook.techidaily.com/a-compreenasional-approach-to-securing-your-online-presence/"><u>A Compreenasional Approach to Securing Your Online Presence</u></a></li>
+<li><a href="https://howto.techidaily.com/authentication-error-occurred-on-nokia-c12-here-are-10-proven-fixes-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Authentication Error Occurred on Nokia C12? Here Are 10 Proven Fixes | Dr.fone</u></a></li>
+<li><a href="https://win-net.techidaily.com/brace-your-budget-coming-paid-windows-10-update-subscriptions-announced-by-microsoft-what-to-expect-price-wise/"><u>Brace Your Budget: Coming , Paid Windows 10 Update Subscriptions Announced by Microsoft - What to Expect Price-Wise?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-guide-to-rectifying-discord-download-problems/"><u>Effortless Guide to Rectifying Discord Download Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-gameplay-experience-resolving-steady-frame-drops-in-action-games/"><u>Enhanced Gameplay Experience - Resolving Steady Frame Drops in Action Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-difficulty-strategies-to-address-unable-to-access-live-config-servers/"><u>Fixing the Difficulty: Strategies to Address 'Unable to Access Live Config Servers'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-hyper-v-deployment-in-windows-10-a-comprehensive-guide/"><u>Mastering Hyper-V Deployment in Windows 10 – A Comprehensive Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/mirthful-melodies-curated-list-of-funny-phone-sounds-for-2024/"><u>Mirthful Melodies Curated List of Funny Phone Sounds for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-7-solutions-resolving-warzone-20-launch-issues-on-pc/"><u>Top 7 Solutions: Resolving 'Warzone 2.0' Launch Issues on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/why-your-nokia-c300-screen-might-be-unresponsive-and-how-to-fix-it-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Why Your Nokia C300 Screen Might be Unresponsive and How to Fix It | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Easy Solution: Stop KernelBase.dll From Causing System Crashes"
-date: 2024-08-18T17:57:54.473Z
-updated: 2024-08-19T17:57:54.473Z
+date: 2025-02-09T08:20:03.826Z
+updated: 2025-02-15T01:41:14.586Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a11de87af1b4d2d34686675787cceb79fcb33f463
 
 **WWE 2K20 keeps crashing on your PC** ? This is an issue that has been plaguing WWE 2K lovers since its launch. Luckily, there are some fixes you can try to troubleshoot the problem…
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix WWE 2K20 Crash
 
  You may not have to try all the fixes; just work your way down the list until you find the one that works for you.
@@ -31,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/a11de87af1b4d2d34686675787cceb79fcb33f463
 5. **[Disable your antivirus program](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Run WWE 2K20 on the dedicated graphics card](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Install the latest patch
 
  In order to fix the plethora of bugs and glitches players have bumped into, 2K keeps releasing patches. It is possible that new releases include patches for the WWE 2K20 crashing problem. So it’s recommended that you install the new patches to see if it fixes the issue.
@@ -54,14 +48,15 @@ Here is how to do it:
 
  2) Click the**Compatibility** tab, tick**the box** for**Run this program as an administrator** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-17.png)
 
  3) Play the game again to see if the game runs smoothly. If yes, then great! If the crashing issue still occurs, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Verify game integrity
 
@@ -73,9 +68,6 @@ Here is how to do it:
 
  2) Click **the LOCAL FILES tab** , then click **VERIFY INTEGRITY OF GAME CACHE…** . After that, click **CLOSE** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/Steam-verify-the-game-file-2.jpg)
 
  3) Launch WWE 2K20 again after you verify the integrity of the game files. If this issue persists, please try**Fix 4** , below.
@@ -98,11 +90,11 @@ Here is how to do it:
 
  3) Click the **Update**  button next to a flagged graphics river to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version). Or click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Restart your computer for the changes to take effect.
 
@@ -110,9 +102,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Disable your antivirus program
 
  Running WWE 2K20 consumes lots of memory and CPU usage, so it’s possible that your antivirus program may detect it as some sort of threat and prevent it from running smoothly. So you might need to disable your antivirus temporarily and check if the crashing issue persists.
@@ -135,21 +124,27 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/Control-panel-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) In **View by** , choose **Large icons** . Then click **Nvidia Control Panel** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/nvidia-1024x607.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) In Nvidia Control Panel, click **Manage 3D Settings** \> **Program Settings** \> **Add** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/add.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) In the window that opens, choose**WWE2K20\_x64** , then click**Add Selected Program** .
 
@@ -157,10 +152,11 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
 
  5) In**Select the preferred graphics processor for this program** , select**High-performance NVIDIA processor** . Then click**Apply** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/image-13.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Launch WWE 2K20 and check to see if the crashing issue is fixed.
 
@@ -176,8 +172,6 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +179,21 @@ WWE 2K20 still crashes? Don’t worry, you have one more fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-the-ultimate-guide-to-saving-instagrams-trending-videos/"><u>[New] In 2024, The Ultimate Guide to Saving Instagram's Trending Videos</u></a></li>
+<li><a href="https://location-fake.techidaily.com/a-detailed-guide-on-faking-your-location-in-mozilla-firefox-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>A Detailed Guide on Faking Your Location in Mozilla Firefox On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/g-impact-strategies-for-youtubes-last-impressions-for-2024/"><u>Adding Impact Strategies for Youtubes' Last Impressions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-in-the-action-with-fallout-76-diagnosing-and-repairing-pc-server-issues/"><u>Get Back in the Action with Fallout 76 - Diagnosing and Repairing PC Server Issues</u></a></li>
+<li><a href="https://ai-vdieo-software.techidaily.com/get-your-fcpx-plugins-up-and-running-a-step-by-step-guide/"><u>Get Your FCPX Plugins Up and Running A Step-by-Step Guide</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-hidefake-snapchat-location-on-your-lenovo-thinkphone-drfone-by-drfone-virtual-android/"><u>How to Hide/Fake Snapchat Location on Your Lenovo ThinkPhone | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-frp-hijacker-by-hagard-download-and-bypass-your-xiaomi-redmi-12-5g-frp-locks-by-drfone-android/"><u>In 2024, FRP Hijacker by Hagard Download and Bypass your Xiaomi Redmi 12 5G FRP Locks</u></a></li>
+<li><a href="https://article-files.techidaily.com/in-2024-secrets-of-seamless-video-editing-using-windows-11-tools/"><u>In 2024, Secrets of Seamless Video Editing Using Windows 11 Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/investigating-the-current-functionality-of-xbox-live-where-to-check-for-potential-disruptions/"><u>Investigating the Current Functionality of Xbox Live - Where to Check for Potential Disruptions?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-solutions-to-stop-microsoft-flight-simulator-2020-from-killing-your-computer/"><u>Mastering Stability: Solutions to Stop Microsoft Flight Simulator 2020 From Killing Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcoming-recurring-crash-issues-in-pcs-gas-station-simulator/"><u>Resolved: Overcoming Recurring Crash Issues in PC's Gas Station Simulator</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-cod-modern-warfare-3-app-crashes-how-to-fix-it/"><u>Solution: Cod Modern Warfare 3 App Crashes - How To Fix It</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/1723013078216-troubleshooting-tips-stop-youtube-buffering-and-freezing-easily/"><u>Troubleshooting Tips: Stop YouTube Buffering & Freezing Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-for-rockstar-games-launcher-malfunctions/"><u>Ultimate Troubleshooting for Rockstar Games Launcher Malfunctions</u></a></li>
+</ul></div>
 

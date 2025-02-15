@@ -1,7 +1,7 @@
 ---
 title: Quick Fixes for When Your Epic Games Launcher Won't Start Up
-date: 2024-08-18T17:57:00.631Z
-updated: 2024-08-19T17:57:00.631Z
+date: 2025-02-08T23:09:58.541Z
+updated: 2025-02-14T23:26:31.861Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: End the Epic Games Launcher process in Task Manager
 
  Make sure the Epic Games launcher is not running in the background. If it is, when you double-click its shortcut on your desktop, it won’t launch. So you need to end the processes related to Epic Games Launcher in Task Manager first. Here’s how to do it:
@@ -46,6 +43,10 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
  2) In Task Manager, select**EpicGamesLauncher** and click**End task** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1047-1024x543.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/58KlTPHv8dU?si=7ICagyNgrao7OkVO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 3) Run Epic Games Launcher to see if you’ve resolved this issue.
 
@@ -61,6 +62,10 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1048.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/djPqRkskaBo?si=O6FEI-KVW0HwN417" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  See if you can launch the program. If so, you should delete its shortcut on your desktop and create a new one. If it still won’t launch, don’t worry. Try the next fix, below.
 
 ---
@@ -75,9 +80,6 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
 
  2) In the**Scale and layout** section, make sure it is set to**100%** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1056.png)
 
 3) Run Epic Games Launcher again to see if this issue reappears.
@@ -85,6 +87,10 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
  If not, congratulations! You’ve fixed this issue. If this issue persists, try the next fix to update your graphics driver.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 4: Update your graphics driver
 
@@ -98,16 +104,16 @@ thumbnail: https://thmb.techidaily.com/4408961c4a58da87c406138200e7c77deae5482c7
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1071.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system.
 
  You need the Pro version of Driver Easy to do this, so you’ll be prompted to upgrade. Don’t worry; **it comes with a 30-day money-back guarantee, so if you don’t like it you can get a full refund** , no questions asked.
 
  Alternatively, if you’re comfortable manually installing drivers, you can click**Update** next to each flagged device in the free version to automatically download the correct driver. Once it’s downloaded, you can manually install it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1072.png)
 
 _You can do it for free if you like, but it’s partly manual._
@@ -121,9 +127,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  1) On your desktop,**right-click** on**the shortcut of Epic Games Launcher** and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-496.png)
 
  2) Under the**Shortcut** tab, locate the**Target:** field. Add_\-OpenGL_ to the end of the path filed. The contents of the Target field should look like the following:
@@ -132,9 +135,6 @@ _You can do it for free if you like, but it’s partly manual._
 
  Then click**OK** to save the change.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-497.png)
 
 3) Run Epic Games Launcher again to see if this fix works.
@@ -144,8 +144,9 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qmQjRcnaq9g?si=jadcGtXemUAlKOTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Add Epic Games Launcher as an exception to your third-party antivirus application
 
  This issue may also be triggered by your third-party antivirus application. Since the third-party antivirus application hooks very deep into your system, it may interfere with Epic Games Launcher.
@@ -159,24 +160,19 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 7: Repair Epic Games Launcher
 
  Try repairing the Epic Games Launcher in the Control Panel to see if this fix works for you. Here’s how to do it:
 
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
 
  2)**Right-click** on**Epic Games Launcher** and select**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1069.png)
 
  3) Launch Epic Games Launcher again when Windows completes the repair process.
@@ -186,8 +182,9 @@ _You can do it for free if you like, but it’s partly manual._
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 8: Reinstall Epic Games Launcher
 
  If none of the fixes above work for you, you may need to reinstall Epic Games Launcher. You can follow the steps below:
@@ -195,6 +192,10 @@ _You can do it for free if you like, but it’s partly manual._
  1) On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Type**control appwiz.cpl** and press**Enter** to open the**Programs and Features** window.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1068.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2)**Right-click** on**Epic Games Launcher** and select**Uninstall** .
 
@@ -219,8 +220,6 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -228,4 +227,22 @@ Normally, after you reinstall Epic Games Launcher, it should open.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tiktok-clips.techidaily.com/new-rising-above-the-rest-marketing-techniques-on-tiktok/"><u>[New] Rising Above the Rest Marketing Techniques on TikTok</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/updated-2024-approved-how-to-make-a-youtube-intro-video-2-ways/"><u>[Updated] 2024 Approved How to Make A YouTube Intro Video [2 Ways]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/duo-of-excellence-how-it-takes-two-not-launched-is-revolutionizing-collaboration/"><u>Duo of Excellence: How 'It Takes Two Not Launched' Is Revolutionizing Collaboration</u></a></li>
+<li><a href="https://article-helps.techidaily.com/how-to-choose-the-fpv-drone-propellers/"><u>How to Choose the FPV Drone Propellers</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-lost-files-from-honor-90-lite-by-fonelab-android-recover-data/"><u>How to retrieve lost files from Honor 90 Lite?</u></a></li>
+<li><a href="https://techtrends.techidaily.com/improve-your-computers-pace-fixing-windows-11-lag-and-optimizing-processing-power/"><u>Improve Your Computer's Pace: Fixing Windows 11 Lag & Optimizing Processing Power</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-behind-the-scenes-the-genesis-of-a-mukbang-video/"><u>In 2024, Behind the Scenes The Genesis of a Mukbang Video</u></a></li>
+<li><a href="https://win-blog.techidaily.com/join-the-battle-arena-the-definitive-pc-guide-to-roller-champions-crossplay/"><u>Join the Battle Arena: The Definitive PC Guide to Roller Champions Crossplay</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/regain-access-how-to-fix-a-2023-facebook-glitch/"><u>Regain Access How to Fix a 2023 Facebook Glitch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-top-fixes-for-eliminating-heart-of-iron-iv-game-crashes-and-glitches/"><u>Resolved: Top Fixes for Eliminating Heart of Iron IV Game Crashes and Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-pc-gaming-issues-preventing-final-fantasy-xv-from-crashing/"><u>Resolving PC Gaming Issues: Preventing Final Fantasy XV From Crashing</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/revive-your-damaged-jpeg-images-the-best-software-for-quick-and-effective-repair-solutions/"><u>Revive Your Damaged JPEG Images: The Best Software for Quick and Effective Repair Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/silent-blocky-world-uncover-why-minecraft-sounds-are-missing-and-how-to-bring-them-back/"><u>Silent Blocky World? Uncover Why Minecraft Sounds Are Missing and How to Bring Them Back</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fixing-game-not-launching-issues-confirm-your-installation/"><u>Troubleshooting: Fixing 'Game Not Launching' Issues - Confirm Your Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-fixing-the-root-causes-of-everspace-ii-pc-instability/"><u>Understanding and Fixing the Root Causes of Everspace II PC Instability</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "How To Tame Discord's High CPU Appetite: Proven Techniques and Tips (Year 2024)"
-date: 2024-08-18T17:57:42.623Z
-updated: 2024-08-19T17:57:42.623Z
+date: 2025-02-11T04:19:29.751Z
+updated: 2025-02-15T05:27:52.905Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/23e9b5bbeb00439d9f7feb49ea3cc9ef3c324a1be
 
 When you double-click Discord but the program won’t open, it could be very frustrating. Don’t panic, this problem is easy to fix. Instead of using the Discord web version, you can read the below content to fix your Discord application.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  In this guide, you’ll learn 3 easy methods to fix Discord won’t open issue. Work your way down the list until you find the one that works.
@@ -64,8 +61,9 @@ When you double-click Discord but the program won’t open, it could be very fru
 If it doesn’t work, move to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: Run Discord as administrator
 
  Some features may be blocked by the Windows system that causes problems. With high integrity access, the Discord can make full use of its features, won’t be blocked by other programs.  
@@ -73,9 +71,6 @@ If it doesn’t work, move to the next fix.
 
  1) Find and right-click on the Discord icon on your Windows Taskbar. Sometimes it’s hidden, just click the “**Show hidden icons** ”. Then click **Quit Discord** .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/03/img_5ab8ce9bd5912.png)
 
  2) On your desktop, right-click on the **Discord shortcut icon** and select **Run as administrator** .  
@@ -84,9 +79,6 @@ If it doesn’t work, move to the next fix.
  3) Click **Yes**  when prompted by User Account Control.  
  4) Discord should open.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Use Task Manager
 
  Use Task Manager to close Discord tasks entirely and restart it could help you fix this problem.
@@ -99,6 +91,10 @@ If it doesn’t work, move to the next fix.
 
 3) Restart Discord. It should open.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 5: Disable your proxies
 
  If you’re using proxies while running Discord and have this problem, you need to disable your proxies.  
@@ -106,16 +102,14 @@ If it doesn’t work, move to the next fix.
 
  1) Press the**Windows logo key + Pause** and click**Control Panel Home** .
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p4.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  2) Set Control Panel**View by Category** and click**Network and Internet** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/proxy-1.jpg)
 
  3) Click**Internet Options** .
@@ -128,16 +122,14 @@ If it doesn’t work, move to the next fix.
 
  5) Uncheck**Use a proxy server for your LAN** . Then click OK to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/p3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 6) Relaunch the Discord and it should open.
 
-<!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Flushing your DNS
 
  Flushing the cache removes all the information stored in the cache, forcing the computer to find new DNS information. This fix has helped many users solve the issue.
@@ -149,20 +141,22 @@ If it doesn’t work, move to the next fix.
 3) Type**cmd** . Then press**Ctrl + Shift + Enter** together to run as Administrator.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/command-prompt-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oySc0DiqmKc?si=8pynRzuhlq2RUPZ6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) You can type or copy from the ours**ipconfig /flushdns** (there is a space after ‘g’) and press**Enter** .
 
 **ipconfig /flushdns**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![ipconfig flushdns](https://images.drivereasy.com/wp-content/uploads/2018/10/ipconfig-flushdns.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UoBCgLTmznE?si=MXXiGsd2qpd_DrzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 5) Launch the Discord again. It should open.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall the Discord
 
  If the above fixes don’t work, you can reinstall Discord to see whether it works. Uninstall and reinstall Discord could simply rewrite data files. The error code may be fixed by this fix.
@@ -175,16 +169,18 @@ If it doesn’t work, move to the next fix.
 
  3) Right-click Discord in the list and select **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/uninstall-discord.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Download and install[Discord](https://discordapp.com/) from the official website. Then run Discord again.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PD0vq5qAYkw?si=5H3KWtCfUOYg1Nlv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Bonus: Update your driver
 
  To prevent your computer system and the Discord from potential problems, it’s highly recommended to update your drivers regularly.
@@ -215,6 +211,11 @@ OR
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
@@ -234,8 +235,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -243,4 +242,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-the-2023-panorama-of-facebooks-micro-videos-insights-and-impact/"><u>[New] 2024 Approved The 2023 Panorama of Facebook's Micro-Videos Insights and Impact</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-in-2024-beyond-ustream-live-streaming-choices/"><u>[New] In 2024, Beyond Ustream Live Streaming Choices</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/eaders-in-learning-select-sci-yt-channels-for-2024/"><u>[New] Leaders in Learning Select Sci-YT Channels for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-pivotal-moments-in-video-edits-and-their-significance/"><u>[New] Pivotal Moments in Video Edits and Their Significance</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-youtube-snippets-guide-essential-insights-unveiled/"><u>[New] YouTube Snippets Guide Essential Insights Unveiled</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-crafting-combined-content-on-iphone-smoothly/"><u>[Updated] Crafting Combined Content on iPhone Smoothly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/addressing-compatibility-and-errors-for-smooth-gameplay-of-modern-warfare-on-pc-2024-version/"><u>Addressing Compatibility and Errors for Smooth Gameplay of Modern Warfare on PC (2024 Version)</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-guide-finding-and-downloading-canon-mf8500c-drivers-for-windows-os-7-81-10/"><u>Comprehensive Guide: Finding & Downloading Canon MF8500C Drivers for Windows OS (7, 8.1, 10)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-the-infamous-ls-0013-error-in-borderlands-3-expert-advice/"><u>Diagnosing and Repairing the Infamous LS-0013 Error in Borderlands 3: Expert Advice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/in-depth-strategies-to-tackle-and-correct-crashes-in-mobile-applications/"><u>In-Depth Strategies to Tackle and Correct Crashes in Mobile Applications</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/launch-free-youtube-events-a-step-by-step-guide-for-2024/"><u>Launch Free Youtube Events A Step-by-Step Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/lost-in-silence-uncovering-and-repairing-no-audio-problems-in-skyrim/"><u>Lost in Silence? Uncovering and Repairing No Audio Problems in Skyrim</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-crashes-in-call-of-duty-modern-warfare-for-a-seamless-gaming-experience/"><u>Overcoming Crashes in Call of Duty: Modern Warfare for a Seamless Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-sound-problems-a-step-by-step-fix-for-halo-infinite/"><u>Solve Your Sound Problems: A Step-by-Step Fix for Halo Infinite</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/1125595-9781609257330-the-book-of-ordinary-oracles/"><u>The Book Of Ordinary Oracles | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-secret-to-launching-games-effortlessly-verify-your-save-files-today/"><u>Unlock the Secret to Launching Games Effortlessly – Verify Your Save Files Today!</u></a></li>
+</ul></div>
 

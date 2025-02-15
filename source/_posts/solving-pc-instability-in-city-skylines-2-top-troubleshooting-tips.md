@@ -1,7 +1,7 @@
 ---
 title: "Solving PC Instability in City Skylines 2: Top Troubleshooting Tips"
-date: 2024-08-18T18:00:14.089Z
-updated: 2024-08-19T18:00:14.089Z
+date: 2025-02-14T05:59:18.267Z
+updated: 2025-02-14T23:11:12.697Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/87aca7f6dd67e673512ab0a4b65285915e96bdcd3
 
  But don’t worry. Here is a general guide for resolving_Terraria_ crashing issues. You may not have to try them all; just work your way down the list until you find the one that works.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
 1. **[Restart your computer](https://tools.techidaily.com/drivereasy/download/)**
@@ -33,13 +30,18 @@ thumbnail: https://thmb.techidaily.com/87aca7f6dd67e673512ab0a4b65285915e96bdcd3
 7. **[Reinstall your game and/or Steam](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: **Restart your computer**
 
  Sometimes a game can crash or stop responding because of a temporary issue that you can fix by restarting your device.
 
  If the Terraria crashing issue still exists after the reboot, then move on to the next fix, below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E1ax-vnGdeo?si=bgTkOhOEwDTlRQE3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: **Disable your antivirus temporarily**
 
@@ -51,9 +53,6 @@ thumbnail: https://thmb.techidaily.com/87aca7f6dd67e673512ab0a4b65285915e96bdcd3
 
 If this didn’t help in resolving your problem, try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: **Run your game as an administrator**
 
  By default, Windows runs programs as a user, with limited permission to access system control. This means that_Terraria_ doesn’t have full access to all game files and folders on your computer.
@@ -66,9 +65,17 @@ If this didn’t help in resolving your problem, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)**  Click the **Compatibility tab** and check the box next to **Run this program as an administrator** . Then, click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-1.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LeKJBWb6Jhk?si=AnViizAPiIT1YCRA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch Steam and_Terraria_ to test your issue.
 
@@ -103,9 +110,6 @@ If this didn’t help in resolving your problem, try the fix below.
 
  If_Terraria_ still crashes, then go ahead with the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ### Fix 5: Verify the integrity of your game files
 
 _Terraria_ may crash when one or more certain game file is damaged or missing. To fix it, try verifying the integrity of your game files on the Steam client. Here is how to do it:
@@ -114,16 +118,14 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 **2)**  Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-321.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click**Terraria** and select **Properties.**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-251.png)
 
 **4)**  Click the **LOCAL FILES**  tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -134,6 +136,10 @@ _Terraria_ may crash when one or more certain game file is damaged or missing. T
 
 If not, try the next fix.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fZTlPdOFNmo?si=Ym8p7ayV1gtNzzXj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Run your game in compatibility mode
 
  Some Windows updates may not be compatible with_Terraria_ , keeping it from function properly. Try running your game in compatibility mode to see if it can fix your issue. Here is how to do it:
@@ -142,6 +148,10 @@ If not, try the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-253.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)**  Click the **Compatibility**  tab. Then check the box next to **Run this program in compatibility mode for** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-254.png)
@@ -149,6 +159,10 @@ If not, try the next fix.
 **3)**  Click the list box below to select **Windows 8** , then click **OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-255.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S0b9szh8vEk?si=NlGzpJ6MN_SJNk5A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)**  Relaunch your game to check if your issue had been resolved.
 
@@ -175,9 +189,6 @@ If this didn’t work for you, check the fix, below.
 
 **4)**  Click**DELETE** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-257.png)
 
 **5)** Download and install _Terraria_  again.
@@ -188,30 +199,22 @@ If this didn’t work for you, check the fix, below.
 
 **1)** Right-click the Steam icon and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-885.png)
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-886.png)
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Under **View by** , select **Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 **5)** Select **Uninstall a program** .
@@ -224,9 +227,6 @@ If this didn’t work for you, check the fix, below.
 
 **7)**  Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-891.png)
 
  **8)[Download](https://store.steampowered.com/about/)**  Steam.
@@ -235,16 +235,14 @@ If this didn’t work for you, check the fix, below.
 
 **10)** Right-click the **Steam icon**  and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3AGmFrtBLHw?si=VhvpUaXHPBHl6OT6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **11)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 **12)**  Relaunch Steam and your game.
@@ -263,8 +261,6 @@ If this didn’t work for you, check the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -272,4 +268,19 @@ If this didn’t work for you, check the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-7-best-free-online-youtube-tag-extractors/"><u>[Updated] 2024 Approved 7 Best Free Online YouTube Tag Extractors</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-tailored-video-epilogue-templates-available-free/"><u>[Updated] 2024 Approved Tailored Video Epilogue Templates Available Free</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-camerahunt-finding-superior-substitutes-for-2024/"><u>[Updated] CameraHunt Finding Superior Substitutes for 2024</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-innovative-animation-solutions-with-advanced-3d-modellers/"><u>[Updated] Innovative Animation Solutions with Advanced 3D Modellers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-chromes-page-loading-issues-effective-solutions-and-tips/"><u>Fixing Chrome's Page Loading Issues – Effective Solutions and Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-cortana-is-down-error-and-get-back-online/"><u>How to Fix 'Cortana Is Down' Error and Get Back Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-install-and-configure-microsoft-hyper-v-on-your-windows-10-machine/"><u>How to Install and Configure Microsoft Hyper-V on Your Windows 10 Machine?</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-best-websites-to-access-text-styling-resources/"><u>In 2024, Best Websites to Access Text Styling Resources</u></a></li>
+<li><a href="https://common-error.techidaily.com/netflix-issues-is-the-service-down-and-what-can-you-do-about-it/"><u>Netflix Issues: Is the Service Down, and What Can You Do About It?</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/96317449-9781401954000-soul-journeying/"><u>Soul Journeying | Free Book</u></a></li>
+<li><a href="https://win11.techidaily.com/streamlining-win-ps-sync-a-quick-fix-guide/"><u>Streamlining Win-PS Sync: A Quick Fix Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-solutions-for-persistent-errors-in-call-of-dutys-warzone-startup/"><u>Unlocking Solutions for Persistent Errors in Call of Duty's Warzone Startup</u></a></li>
+</ul></div>
 

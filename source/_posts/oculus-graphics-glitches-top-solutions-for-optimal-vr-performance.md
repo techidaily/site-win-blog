@@ -1,7 +1,7 @@
 ---
 title: Oculus Graphics Glitches - Top Solutions for Optimal VR Performance
-date: 2024-08-18T17:56:38.134Z
-updated: 2024-08-19T17:56:38.134Z
+date: 2025-02-12T04:11:31.926Z
+updated: 2025-02-15T07:00:38.757Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 
  Many users are reporting the same issue and managed to solve it with the fixes below. If you run into a FIFA crashing or freezing problem, don’t worry, because it’s not hard to fix it at all.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 8 fixes that have proved helpful for many users to solve the FIFA 19 crashing issues. You may not need to try them all; just work your way down the list until you find the one that works for you.
@@ -35,6 +32,10 @@ We know how annoying it can be when you’re facing crashing issues in FIFA 19 g
 7. **[Run System File Checker to repair your files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) **[to check for conflicting programs](https://tools.techidaily.com/drivereasy/download/)**
 9. [**Create TileDatalayer and Database folder**](https://tools.techidaily.com/drivereasy/download/)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 Run Origin and FIFA 19 as administrator
 
@@ -50,9 +51,6 @@ If you still have the issue, you can try the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 Turn off Discord Overlay and Hardware Acceleration
 
  The FIFA crashing issue can be caused by Discord settings. If you have Discord installed, you can turn off Discord Overlay and Hardware Acceleration.
@@ -61,27 +59,24 @@ If you still have the issue, you can try the next fix.
 
  2) Scroll down, select the **Game Overlay** tab, and turn**off** **Enable in-game overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-overlay-1200x685.jpg)
 
  3) Click the**Advanced** tab and turn off**Hardware Acceleration** . Your Discord will be restarted.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2023/12/Discord-Disable-hardware-acceleration-1-1200x638.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SDUPd69Qfls?si=uIGZG-riskwmVZYg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3 Allow FIFA 19 to run through the Firewall
 
  Temporarily disable your Anti-virus software or add your FIFA 19 as an exception to your third-party antivirus application. (Please consult your antivirus documentation for instructions if you don’t know how to do it.)
@@ -90,9 +85,6 @@ Then you can see if the crashing issue reoccurs when playing FIFA.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 Update your device drivers
 
  If your FIFA 19 just keeps crashing, your device drivers (especially your graphics card driver) are likely outdated or corrupt. To fix it, you can update your drivers**manually** or**automatically** .
@@ -121,9 +113,6 @@ OR
 
  Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/driver-update.jpg)
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -150,9 +139,6 @@ OR
 
 2) Right-click on your desktop and select**NVIDIA Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/NVIDIA-control-panel.jpg)
 
  3) Under the**Manage 3D settings** tab, click**Program Settings** .  
@@ -163,9 +149,6 @@ OR
   
  Click**Apply** to save the changes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/force-V-Sync-On.jpg)
 
  For AMD users:  
@@ -186,14 +169,15 @@ OR
 
  1) On your keyboard, press the**Windows logo key** +**R** at the same time to open the Run box. Type**cmd** in the box and then press**Ctrl** +**Shift** +**Enter** to run as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/cmd-admin.jpg)
 
  2) Copy & paste**sfc /scannow** into the box and hit**Enter** . This takes about 3-5 min.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/scannow.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You may receive something like the following messages after the verification.
 
@@ -254,9 +238,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Fix 8**Perform a clean boot to check for conflicting programs**
 
  The FIFA 19 crashing issue can be caused by other conflicting programs. To check if that’s the cause, you can perform a clean boot. Here is how to do it:
@@ -265,20 +246,33 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/system-config.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the**Services** tab and check the**Hide all Microsoft services** box, then click**Disable all** .
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/disable-all-services.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click the**Startup** tab, then**Open Task Manager** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/open-task-manager.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/slm2NjVPNtk?si=9ow6g1ucmf0TnT4T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Under the **Startup** tab, select **each** startup item and then click **Disable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/startup.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  5) Go back to **System Configuration** , then click **OK** to save the changes.
 
@@ -289,6 +283,10 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
  Remember to RESTART your PC after enabling each service and application, then open your FIFA 19 to test the issue.
 
  Once you find the problematic software, you need to uninstall it to avoid running into the same issue in the future.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 9 Create TileDatalayer and Database folder
 
@@ -328,8 +326,6 @@ mkdir Database
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -337,4 +333,22 @@ mkdir Database
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-videos.techidaily.com/new-2024-approved-achieve-social-media-excellence-with-ios-and-androids-best-planners/"><u>[New] 2024 Approved Achieve Social Media Excellence with iOS & Android's Best Planners</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-instagram-live-with-professional-obs/"><u>[New] Instagram Live with Professional OBS</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-mastering-youtubes-video-comment-features-for-2024/"><u>[Updated] Mastering YouTube's Video Comment Features for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-core-definitions-of-cyber-storytelling/"><u>2024 Approved Core Definitions of Cyber Storytelling</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-disconnection-errors-in-terraria-top-6-strategies-that-work-every-time/"><u>Banish Disconnection Errors in Terraria: Top 6 Strategies That Work Every Time</u></a></li>
+<li><a href="https://win-forum.techidaily.com/engage-and-grow-with-key-social-media-sites-facebook-twitter-instagram-and-youtube/"><u>Engage and Grow with Key Social Media Sites: Facebook, Twitter, Instagram & YouTube</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/24-ensuring-copyright-compliance-in-youtube-to-mp4/"><u>In 2024, Ensuring Copyright Compliance in Youtube-to-MP4</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-simulate-gps-movement-in-ar-games-on-oppo-find-n3-flip-drfone-by-drfone-virtual-android/"><u>In 2024, How to Simulate GPS Movement in AR games On Oppo Find N3 Flip? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-scoop-effective-solutions-when-your-steam-collection-wont-launch-on-windows-10/"><u>Inside Scoop: Effective Solutions When Your Steam Collection Won't Launch on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-glitches-how-to-recover-from-a-total-tribes-of-midgard-crash/"><u>Overcoming Glitches: How to Recover From a Total Tribes of Midgard Crash</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-issues-with-doom-eternal-a-comprehhemic-repair-tutorial/"><u>Overcoming Launch Issues with DOOM Eternal: A Comprehhemic Repair Tutorial</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/top-8-parent-approved-internet-safety-tools/"><u>Top 8 Parent-Approved Internet Safety Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-stop-nioh-2-full-version-from-crashing/"><u>Troubleshooting Tips: Stop Nioh 2 (Full Version) From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/upgraded-performance-and-fixed-display-issues-troubleshooting-guide-for-the-newest-forza-horizon-graphics-driver/"><u>Upgraded Performance and Fixed Display Issues: Troubleshooting Guide for the Newest Forza Horizon ⁵ Graphics Driver</u></a></li>
+<li><a href="https://fox-metric.techidaily.com/1728504875451-windows-1011/"><u>プログレスが停止したWindows 10/11初期化:完了に至らない状況を修正する</u></a></li>
+</ul></div>
 

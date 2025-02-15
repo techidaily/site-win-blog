@@ -1,7 +1,7 @@
 ---
 title: DirectX Glitches in Battlefield 2042? Here's How to Fix Them
-date: 2024-08-18T17:58:48.278Z
-updated: 2024-08-19T17:58:48.278Z
+date: 2025-02-08T18:29:46.504Z
+updated: 2025-02-14T18:04:56.616Z
 tags:
   - win11
   - win10
@@ -15,18 +15,12 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 ## DirectX Glitches in Battlefield 2042? Here's How to Fix Them
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/featured-image-battlefield-2042-launch-article.jpg.adapt_.crop16x9.431p.jpg)
 
  The long-anticipated Battlefield 2042 Early Access is already out and the full release will be on November 19th. However, the hype seems to have brought some disappointment. Many players are encountering different DirectX errors and can’t play the game. The most common ones are**DXGI\_ERROR\_DEVICE\_HUNG** and**DXGI\_ERROR\_DEVICE\_REMOVED** errors.
 
  The developers are investigating the issues, and hopefully, we will get a definitive fix when they roll out the new updates. Before that, we have gathered some fixes that have solved the errors for some players for you to try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Battlefield 2042 system requirements
 
 | **Minimum**      | **Recommended**                                 |                                                  |
@@ -39,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 | **Storage**      | 100 GB                                          | 100 GB SSD                                       |
 | **DirectX**      | Version 12                                      | Version 12                                       |
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes…
 
 [1: Update your graphics driver](https://tools.techidaily.com/drivereasy/download/)
@@ -54,9 +45,6 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 
 [5: Clear game cache](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
  DirectX errors in Battlefield 2042 usually suggest a driver issue. Some of the error messages directly ask you to install the latest graphics driver.
@@ -83,8 +71,9 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
  Restart your PC for the new driver to take effect. If updating the graphics driver doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 2: Repair game files
 
  Another quick fix you can try is to repair your game files. If any files are missing or corrupted, the Origin client will add or replace the problematic files for you. Here’s how:
@@ -96,9 +85,9 @@ thumbnail: https://thmb.techidaily.com/c71f8b11a9475a90b96c899fdeade9228f855c7ed
 If this doesn’t solve your problem, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Install the latest Windows updates
 
  According to players’ reports, updating the system has solved the DirectX errors for them. Keeping your system up-to-date may solve compatibility issues and improve stability. This fix may make a difference if your DirectX errors were triggered by Windows issues.
@@ -112,13 +101,14 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 3. If there are available updates, Windows will automatically download them for you. Follow instructions to complete the installation.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/windows-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you encounter issues while using the Windows Update client, you can[manually download the updates from the Microsoft website](https://www.microsoft.com/en-us/software-download/windows10) .
 
  If updating your system doesn’t solve the errors for you, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Force-run DirectX 12
 
  Per the system requirement, Battlefield 2042 requires DirectX version 12, and the game should run DirectX 12 by default. But we all have different setups on our PC, and it’s possible that Battlefield 2042 isn’t running the right version of DirectX on your PC. You can manually enable DirectX12 and force the game to use it. Here’s how:
@@ -142,20 +132,18 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. Press the**Windows key** and**R** to invoke the Run box.
 2. Copy and paste**%ProgramData%/Origin** in the textbox, then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-36-26.jpg)
 3. **Delete** every folder and file here**EXCEPT FOR the Local Content folder** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-38-09.jpg)
 4. Open the Run box again by pressing the**Windows key** and**R** on your keyboard.
 5. Type in**%AppData%** , then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Run-appdata.jpg)
 6. In the pop-up window,**delete the Origin folder** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PKZUYice-ws?si=L8iMa9T3h7TMSWdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_16-53-59.jpg)
 7. Navigate to**C:\\Users\\Your Username\\AppData\\Local** , and**delete the Origin folder** there as well.
 8. Reboot your PC and run Battlefield 2042 via Origin.
@@ -165,13 +153,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 1. Launch the EA app. Click the**three-line icon** on the top-left corner, select**Help** then click**App Recovery** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-35.jpg)
 2. Click**Clear Cache** .  
+
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jpdGEJJwMLY?si=eKgXOPpNeYvYKcel" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_11-53-46.jpg)
 3. If you’re having trouble opening the EA app, you can click the**Start button** ,**expand the EA folder** , and click**APP Recovery** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/2021-11-16_17-15-31.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ---
 
@@ -183,8 +181,6 @@ The ultimate burning program for all your needs!</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -192,4 +188,24 @@ The ultimate burning program for all your needs!</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/n-2024-path-to-youtube-prosperity-unlocking-monetization-with-500plus-views/"><u>[New] In 2024, Path to YouTube Prosperity Unlocking Monetization with 500+ Views</u></a></li>
+<li><a href="https://win-forum.techidaily.com/comprehensive-troubleshooting-for-chronic-computer-freezing-expert-tips/"><u>Comprehensive Troubleshooting for Chronic Computer Freezing - Expert Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722997605180-dark-souls-iii-performance-fixed-say-goodbye-to-unexpected-shutdowns/"><u>Dark Souls III Performance Fixed - Say Goodbye to Unexpected Shutdowns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-your-fortnite-experience-solutions-to-in-game-stuttering-on-desktop/"><u>Enhancing Your Fortnite Experience: Solutions to In-Game Stuttering on Desktop</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/essential-ae-design-best-free-templates-for-professionals/"><u>Essential AE Design Best Free Templates for Professionals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-resident-evil-village-game-crashes-on-pc-solutions-inside/"><u>How to Fix Resident Evil Village Game Crashes on PC - Solutions Inside</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-remove-screen-lock-pin-on-sony-like-a-pro-5-easy-ways-by-drfone-android/"><u>How To Remove Screen Lock PIN On Sony Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-google-frp-lock-on-xiaomi-redmi-13c-5g-devices-by-drfone-android/"><u>In 2024, How to Bypass Google FRP Lock on Xiaomi Redmi 13C 5G Devices</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/introducing-bard-googles-strategic-move-over-chatgpt/"><u>Introducing 'Bard': Google's Strategic Move Over ChatGPT</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/issue-fixed-re-establishing-auditory-performance-in-mozillas-firefox/"><u>Issue Fixed: Re-Establishing Auditory Performance in Mozilla's FireFox</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-latency-issues-for-a-smoother-experience-in-avatar-the-game-pandora-edition/"><u>Overcoming Latency Issues for a Smoother Experience in Avatar: The Game - Pandora Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-overcoming-the-issues-preventing-baldurs-gate-iii-from-starting/"><u>Resolved: Overcoming the Issues Preventing Baldur's Gate III From Starting</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/rhythmic-reworks-for-enhanced-imovie-experience/"><u>Rhythmic Reworks for Enhanced iMovie Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-unhandled-exception-error-code-0xc0000005-in-call-stack-overflow-for-black-ops-cold-war-players/"><u>Solving Unhandled Exception (Error Code 0Xc0000005) in Call Stack Overflow for Black Ops Cold War Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002941483-team-fortress-2-no-longer-experiencing-frequent-crashes-issue-resolved/"><u>Team Fortress 2 No Longer Experiencing Frequent Crashes - Issue Resolved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010249246-troubleshooting-tips-why-robocop-rogue-city-wont-start-on-your-pc/"><u>Troubleshooting Tips: Why 'RoboCop: Rogue City' Won't Start on Your PC</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/unveiling-prime-cloud-storage-options/"><u>Unveiling Prime Cloud Storage Options</u></a></li>
+</ul></div>
 

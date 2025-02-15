@@ -1,7 +1,7 @@
 ---
 title: DaVinci Resolve Won't Start? Here's How You Can Get It Running Smoothly on a Windows Machine
-date: 2024-08-18T17:59:07.856Z
-updated: 2024-08-19T17:59:07.856Z
+date: 2025-02-07T16:06:05.052Z
+updated: 2025-02-14T17:39:14.248Z
 tags:
   - win11
   - win10
@@ -21,6 +21,10 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 
  Check your system specifications first. If you’re sure about it, **jump to the[fixes](https://tools.techidaily.com/drivereasy/download/)**  .
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Minimum system requirement**
 
 | **Supported OS** | Windows 7, Windows 8.1, Windows 10 (64bit versions required)                         |
@@ -30,9 +34,6 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 | **Video Card**   | NVIDIA GeForce GTX 460 or AMD Radeon HD 5870 (DirectX-11 compliant with 1GB of VRAM) |
 | **Hard Drive**   | 30 GB                                                                                |
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Recommended**system requirement**
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)                                                |
@@ -68,8 +69,9 @@ thumbnail: https://thmb.techidaily.com/0464d20c8383250ad5eec7dae311ce3366a21c1ce
 If the game is still crashing, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run as administrator
 
  The privilege issue might be the reason for this problem. With high integrity access, Rainbow Six Siege can make full use of its features, running its function properly. So run the game as an administrator to see if this fixes your issue.
@@ -79,6 +81,11 @@ If the game is still crashing, try the next fix.
 3. Click the**Compatibility** tab and check**Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/ad.jpg)
 4. Click**Apply > OK** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bofw6eJA7Bg?si=HM2gKZGH4L1otw3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Run the game and check the issue is solved or not.
 
 ### Fix 3: Update your graphics card driver
@@ -107,21 +114,24 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Relaunch the game and check whether it launch properly.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Note** : If you have any problems while using Driver Easy, feel free to contact our support team at [support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .
  Be sure to attach the URL of this article if needed for more expedient and efficient guidance.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Verify game cache
 
  If your graphics card driver is up to date but you still have this issue, you can try this method. This method will check game files and verify them if they are right. What else, it will download and repair required files. So the Rainbow Six Siege won’t launch issue could be fixed.  
@@ -130,9 +140,6 @@ OR
 1. Log out from Uplay and close it.
 2. Run Steam. Right-click on the game and click**Properties** .
 3. Choose Local files and click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/verify-2.jpg)
 4. Start rainbow six and Uplay will open and ask to link your account
 5. Then your game will start automatically!
@@ -140,30 +147,28 @@ OR
 **Note** : If it doesn’t work, you may restart Steam before doing step 4.  
  If it’s still not working, you can move to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall Microsoft Visual C++ Redistributable Package
 
  If your Siege and Uplay (including the BattleEye) were successfully installed but Rainbow Six Siege won’t launch, you may need to check the supported software.
 
 1. Type “control panel” in the search bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
 3. Find the newest Microsoft Visual C++ Redistributable. Right-click on it and click**Change** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VxFUhesNCKo?si=Ti0ui6DXYP12sjSs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/change.jpg)
 4. Click Repair. Then follow the on-screen instructions.  
-**Note** : You probably have several of them installed so try and do that Repair for all of them if needed and reboot your computer when asked.  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+**Note** : You probably have several of them installed so try and do that Repair for all of them if needed and reboot your computer when asked.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/repair.jpg)
 5. Launch Rainbow Six Siege to check.
 
@@ -174,9 +179,6 @@ OR
  If your game launches for a few seconds but nothing happened, reinstalling Uplay may be the fix for you. When the Uplay app was outdated or not function correctly, the game may not launch properly. So a clean uninstalling then installing Uplay may help.
 
 1. Type “control panel” in the search bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/control.jpg)
 2. Set**View in Large icons** and click**Program and Features** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/program.jpg)
@@ -198,8 +200,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +207,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-from-live-to-recorded-simplifying-facebook-broadcasting/"><u>[New] From Live to Recorded Simplifying Facebook Broadcasting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-streamline-task-management-with-safaris-picture-in-picture-for-2024/"><u>[Updated] Streamline Task Management with Safari's Picture In Picture for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clearing-up-distorted-images-in-call-of-duty-warzone-pc-troubleshooting-guide/"><u>Clearing Up Distorted Images in Call of Duty: Warzone - PC Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/decode-the-error-how-to-repair-a-non-responsive-vrchat-interface-with-simple-steps/"><u>Decode the Error: How to Repair a Non-Responsive VRChat Interface with Simple Steps</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/discount-alert-samsungs-4tb-portable-ssd-t5-now-available-on-amazon-with-a-nearly-50-price-cut-read-more/"><u>Discount Alert: Samsung's 4TB Portable SSD T5 Now Available on Amazon with a Nearly 50% Price Cut – Read More</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminate-gameplay-disruptions-fix-freezes-and-stutters-during-outriders-missions-on-pc/"><u>Eliminate Gameplay Disruptions: Fix Freezes & Stutters During Outriders Missions on PC</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/how-to-bypass-honor-magic-5-lite-frp-in-3-different-ways-by-drfone-android/"><u>How To Bypass Honor Magic 5 Lite FRP In 3 Different Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-assassins-creed-odyssey-freezing-issues-on-pc-expert-tips-and-tweaks-players/"><u>How to Overcome Assassin's Creed Odyssey Freezing Issues on PC: Expert Tips & Tweaks Players</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-5-quick-methods-to-bypass-samsung-galaxy-f04-frp-by-drfone-android/"><u>In 2024, 5 Quick Methods to Bypass Samsung Galaxy F04 FRP</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-delete-gmail-account-withwithout-password-on-nubia-red-magic-9-pro-by-drfone-android/"><u>In 2024, Delete Gmail Account With/Without Password On Nubia Red Magic 9 Pro</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/leveraging-ios-11-for-professional-level-iphone-shots-for-2024/"><u>Leveraging iOS 11 for Professional-Level iPhone Shots for 2024</u></a></li>
+<li><a href="https://driver-install.techidaily.com/quick-and-safe-microsoft-lifecam-setup-step-by-step-download-tutorial-for-users/"><u>Quick & Safe Microsoft Lifecam Setup: Step-by-Step Download Tutorial for Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/seamless-gaming-experience-achieved-solutions-to-stop-recurring-crashes-in-new-world-for-pc/"><u>Seamless Gaming Experience Achieved! Solutions to Stop Recurring Crashes in New World for PC</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/seamless-guide-simple-steps-to-transforming-wma-files-into-wav-format/"><u>Seamless Guide: Simple Steps to Transforming WMA Files Into WAV Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fix-for-preventing-euro-truck-simulator-2-pc-malfunctions/"><u>Step-by-Step Fix for Preventing Euro Truck Simulator 2 PC Malfunctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-your-roblox-startup-problems-using-these-2022-techniques/"><u>Troubleshoot Your Roblox Startup Problems Using These 2022 Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-high-processor-use-on-god-of-war-platforms/"><u>Troubleshooting High Processor Use on God of War Platforms</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips on Preventing and Fixing Football Manager 2019 Game Freezes
-date: 2024-08-18T17:56:40.246Z
-updated: 2024-08-19T17:56:40.246Z
+date: 2025-02-11T02:20:56.325Z
+updated: 2025-02-15T04:38:35.843Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/0f08e68155172a78a589fb6b8f18fbb5a0a1a4069
 
 _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alone! Many players are reporting it, but the good news is that you can fix it. Here are 5 solutions to try.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -50,15 +47,16 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-59-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=LvxQhsEJoymsM2iZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  You can do it for free if you like, but it’s partly manual.
 
  If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
  If your issue persists after updating your graphics driver, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of your game files
 
  Game crashing issues are likely to occur when one or more game files are damaged or missing. To see if that’s the issue for you, try verifying the integrity of your game files from Steam. Here is how to do it:
@@ -67,9 +65,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 **2)** Click **LIBRARY.**
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-2.jpg)
 
 **3)**  Right-click **Football Manager 2020**  and select **Properties** .
@@ -101,9 +96,9 @@ If your game still crashes, then go ahead with the fix below.
  Now, relaunch _**FM20**_ to see if this has resolved your issue. If your game crashes again, try the next fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c17xsnbinCQ?si=xHKslFgC3QbxY4qW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: **Delete the Preferences and/or Caches folder**
 
  Game cache files could also affect the performance of your game. Try clearing your game cache files when something goes wrong with your game. Follow the instructions below:
@@ -112,29 +107,28 @@ If your game still crashes, then go ahead with the fix below.
 
 **2)**  On your keyboard, press the **Windows logo** key and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-09-03.jpg)
 
 **3)** Type**%LocalAppData%\\Sports Interactive\\Football Manager 2020** , then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-07-35.jpg)
 
 **4)**  Delete the **Preferences** and **Cache folder** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Restart your game to check if this worked for you.
 
 If your game is still unplayable, move on to the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Reinstall _FM20_  and/or Steam
 
  If your game or the game launcher is not properly installed on your PC, or if your game version is outdated, you’re likely to run into issues like game crashes. In this case, try reinstalling your game and your game launcher (if necessary).
@@ -148,16 +142,14 @@ If your game is still unplayable, move on to the next fix.
 
 **2)** Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)**  Right-click **Football Manager 2020** , and select **Manage > Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-20-09.jpg)
 
 **4)** Restart Steam to download and install _Football Manager 2020_ .
@@ -170,20 +162,22 @@ If your game is still unplayable, move on to the next fix.
 
 **1)** Right-click the Steam icon and select Open file location.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-22-59.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Jfq2Wx1Bcs?si=YQrYpTy0g4aV5QaO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up your game content.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-36.jpg)
 
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
@@ -198,14 +192,19 @@ If your game is still unplayable, move on to the next fix.
 
 **7)** Right-click the **Steam icon**  and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-08.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AQn0MYjIfyI?si=rIdjT-qMRpjpJXXa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-16.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)**  Restart Steam and your game.
 
@@ -223,8 +222,6 @@ If your game is still unplayable, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +229,20 @@ If your game is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-mobilepc-download-facebooks-new-video-tool/"><u>[New] 2024 Approved Mobile/PC Download Facebook's New Video Tool</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-consolidated-calendar-management-merge-mobile-and-pc-zoom-dates/"><u>[New] In 2024, Consolidated Calendar Management Merge Mobile and PC Zoom Dates</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/updated-2024-approved-ultimate-non-zoom-video-calls-for-pcphone-users/"><u>[Updated] 2024 Approved Ultimate Non-Zoom Video Calls for PC/Phone Users</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-free-youtube-spotlight-with-two-key-approaches/"><u>[Updated] Free YouTube Spotlight with Two Key Approaches</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-prime-skating-moments-from-22/"><u>2024 Approved Prime Skating Moments From '22</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-bugs-a-comprehensive-solution-for-unstable-gameplay-of-f1-2020-pc-version/"><u>Beat the Bugs: A Comprehensive Solution for Unstable Gameplay of F1 2020 PC Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-overcoming-black-screen-glitches-in-call-of-duty-world-war-ii-for-windows-users/"><u>Expert Guide: Overcoming Black Screen Glitches in Call of Duty: World War II for Windows Users</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/step-by-step-solution-for-hp-monitor-driver-glitches-in-windows-11-and-earlier-versions/"><u>Step-by-Step Solution for HP Monitor Driver Glitches in Windows 11 and Earlier Versions</u></a></li>
+<li><a href="https://common-error.techidaily.com/successfully-restoring-nvidia-geforce-settings-after-an-error-occurs-a-step-by-step-guide/"><u>Successfully Restoring NVIDIA GeForce Settings After an Error Occurs: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-wow-sea-battle-game-pc-issues-with-these-5-quick-fixes/"><u>Troubleshoot WoW Sea Battle Game PC Issues with These 5 Quick Fixes!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fixed-how-to-stop-hyper-scape-from-crashing-on-pcs/"><u>Troubleshooting Fixed: How to Stop Hyper Scape From Crashing on PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-red-dead-online-a-guide-for-persistent-pc-game-crashes/"><u>Troubleshooting Red Dead Online: A Guide for Persistent PC Game Crashes</u></a></li>
+<li><a href="https://program-issues.techidaily.com/why-your-pc-might-be-having-issues-with-the-medium-a-deep-dive-into-the-cause-of-crashes/"><u>Why Your PC Might Be Having Issues With The Medium - A Deep Dive Into The Cause Of Crashes</u></a></li>
+</ul></div>
 

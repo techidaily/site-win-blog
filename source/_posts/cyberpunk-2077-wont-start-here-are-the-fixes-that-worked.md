@@ -1,7 +1,7 @@
 ---
 title: Cyberpunk 2077 Won't Start? Here Are the Fixes That Worked
-date: 2024-08-18T17:57:16.218Z
-updated: 2024-08-19T17:57:16.218Z
+date: 2025-02-12T05:05:59.590Z
+updated: 2025-02-15T03:56:35.898Z
 tags:
   - win11
   - win10
@@ -31,6 +31,10 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 6. [**Clear game cache files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[Check for Windows updates](https://tools.techidaily.com/drivereasy/download/)**
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Check your computer specs first
 
  **Before moving to fixes, make sure your PC is up for running the game.** Below are the minimum and recommended system requirements for Cyberpunk 2077.
@@ -56,6 +60,10 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
  If you are sure your PC meets the system requirements for Cyberpunk 2077, you can skip to fixes directly. But if unfortunately not, then you’ll need to either update your hardware or play the game on another device that supports it.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 1: Verify integrity of game files
 
  The Cyberpunk 2077 not launching issue may occur when you have one or more game files corrupted or deleted by malware. To fix this, try verifying the integrity of game files from [**Steam**](https://tools.techidaily.com/drivereasy/download/) or **[Epic Games](https://tools.techidaily.com/drivereasy/download/)**  depending on which platform you’re on.
@@ -68,11 +76,12 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/1-2.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click **Cyberpunk 2077** and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-4.jpg)
 
  4) Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES.**
@@ -89,18 +98,23 @@ After a long wait, Cyberpunk 2077 is finally available now, but many players rep
 
 2) Click **Library** , then click the**Settings icon** next to the game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4.png)
 
  3) Click **Verify** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nyp7-xVwqHA?si=XCuZbpKLFIdrGQQh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4) Relaunch your game to test the issue.
 
 If this doesn’t fix the issue, try the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Temporarily disable anti-virus/overclocking software
 
@@ -110,9 +124,6 @@ If this doesn’t fix the issue, try the next solution below.
 
 If the game is still unplayable, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run as administrator
 
  If Cyberpunk 2077 doesn’t have permission for certain game files on your system under a standard user mode, it may not run properly. Try this setting to give the program the administrator privileges:
@@ -143,18 +154,12 @@ If the game is still unplayable, move on to the fix below.
 
  2) Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![amd 6800xt driver driver easy](https://images.drivereasy.com/wp-content/uploads/2020/12/de-1.jpg)
 
  3) Click the**Update** button next to the graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support and a 30-day money back guarantee** . You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![amd 6800 xt driver download](https://images.drivereasy.com/wp-content/uploads/2020/12/amd-6800xt.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -165,15 +170,13 @@ If the game is still unplayable, move on to the fix below.
  If Cyberpunk 2077 still won’t launch, then go ahead with the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update the game launcher
 
  Game issues could happen when you’re running an outdated game launcher. So if you haven’t updated the game launcher already, try updating it to see if that’s the core issue. If the issue persists, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Clear game cache files
 
  If your game won’t launch, then it may be due to an issue with game cache files. In this case, clearing your download cache can solve the problem.
@@ -215,19 +218,17 @@ If the game is still unplayable, move on to the fix below.
 
 If this didn’t resolve the issue, then try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Check for Window updates
 
  Windows updates can address bugs related to both hardware and software. So, make sure you’ve installed all the new Windows updates to keep your game running correctly. Here is how to do it:
 
 **1)**  On your keyboard, press the **Windows logo**  key. Then, type **windows update** and select **Windows Update settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_16-26-37.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **2)**  Click **Check for updates,**  and then wait for Windows to download and install the updates automatically.
 
@@ -243,8 +244,6 @@ If this didn’t resolve the issue, then try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -252,4 +251,26 @@ If this didn’t resolve the issue, then try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-precision-recording-tips-for-gamers-and-videographers/"><u>[New] Precision Recording Tips for Gamers and Videographers</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-vlc-recordings-tips-and-tricks-for-2024/"><u>[New] VLC Recordings Tips and Tricks for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-in-2024-optimizing-video-sequences-blend-modes-application/"><u>[Updated] In 2024, Optimizing Video Sequences Blend Modes Application</u></a></li>
+<li><a href="https://techtrends.techidaily.com/1725285351451-dvd/"><u>「すべてのDVDダビングを手軽に！最適解決方法第二部」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-vanguard-and-its-recurring-performance-problems-for-desktop-users/"><u>Call of Duty: Vanguard and Its Recurring Performance Problems for Desktop Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/checklist-confirming-your-computer-meets-the-baseline-for-vanguard-gameplay/"><u>Checklist: Confirming Your Computer Meets the Baseline for Vanguard Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cyberpunk-2077-stumbles-with-crash-alert-solving-error-code-2024/"><u>Cyberpunk 2077 Stumbles with Crash Alert! Solving Error Code 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dealing-with-connection-errors-on-apex-legends-for-seamless-gameplay/"><u>Dealing with Connection Errors on Apex Legends for Seamless Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-gaming-experience-upgrading-cpu-to-fulfill-vanguard-standards/"><u>Elevate Your Gaming Experience: Upgrading CPU to Fulfill Vanguard Standards</u></a></li>
+<li><a href="https://location-social.techidaily.com/how-to-change-location-on-tiktok-to-see-more-content-on-your-huawei-nova-y71-drfone-by-drfone-virtual-android/"><u>How to Change Location on TikTok to See More Content On your Huawei Nova Y71 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-the-modern-warfare-3-memory-error-12707-a-step-by-step-guide/"><u>How to Fix the 'Modern Warfare 3 Memory Error (12707): A Step-by-Step Guide</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-pokemon-go-no-gps-signal-heres-every-possible-solution-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Pokemon Go No GPS Signal? Heres Every Possible Solution On Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://win-forum.techidaily.com/mastering-file-deletion-using-command-prompt-in-widows-10-tutorials/"><u>Mastering File Deletion: Using Command Prompt in Widows 10 Tutorials</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximize-gaming-performance-solving-fallout-76s-framerate-issues-latest-fixes/"><u>Maximize Gaming Performance: Solving Fallout 76'S Framerate Issues – Latest Fixes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/online-aac-mp4-convertie-gratis-het-uitvoerige-leermeester-movavi/"><u>Online AAC-MP4 Convertie Gratis - Het Uitvoerige Leermeester Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-thaumaturge-gameplay-disruptions-pc-edition-troubleshooting-guide/"><u>Overcoming Thaumaturge Gameplay Disruptions: PC Edition Troubleshooting Guide</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/top-rated-apple-iphone-12-assessment-a-step-up-from-previous-models/"><u>Top Rated Apple iPhone 12 Assessment: A Step-Up From Previous Models</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-success-in-granblue-fantasy-addressing-and-fixing-nonfunctional-relink-launches/"><u>Unlocking Success in Granblue Fantasy: Addressing and Fixing Nonfunctional Relink Launches</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/updated-2024-approved-enhance-visual-storytelling-techniques-for-seamless-audio-integration-in-adobe-after-effects/"><u>Updated 2024 Approved Enhance Visual Storytelling Techniques for Seamless Audio Integration in Adobe After Effects</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Sony Vegas Stability Tips: Avoiding Recurrent Program Failures"
-date: 2024-08-18T18:00:17.220Z
-updated: 2024-08-19T18:00:17.220Z
+date: 2025-02-09T17:31:08.508Z
+updated: 2025-02-15T00:52:53.212Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ Recently, many_**Wolcen: Lords of Mayhem**_ players are reporting the game crash
 
  So, try turning off your PC, then turn it back on. If Wolcen: Lords of Mayhem still crashes after the reboot, don’t worry. There are still 5 more fixes to try.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 2: Clear game cache files
 
  Game cache files accumulated on your computer will affect your gaming performance. When the files become corrupted somehow, they might crash your game.
@@ -42,21 +46,19 @@ Recently, many_**Wolcen: Lords of Mayhem**_ players are reporting the game crash
 
 **2)**  On your keyboard, press the **Windows logo** key and **R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-14-03.jpg)
 
 **3)** Type **%public%\\Documents** , then click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-14-20.jpg)
 
 **4)**  Right-click the **Steam folder** and select **Delete** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-14-40.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vPGg53vbOsk?si=CkSEN5HFPS7vDuAa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **5)** Restart_**Lords of Mayhem**_ to check if this worked for you.
 
@@ -70,16 +72,10 @@ If Wolcen: Lords of Mayhem is still unplayable, move on to the next fix.
 
 **2)** Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-15-17.jpg)
 
 **3)** Right-click **Wolcen: Lords of Mayhem**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-16-02.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -88,13 +84,18 @@ If Wolcen: Lords of Mayhem is still unplayable, move on to the next fix.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-19-34.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZeYbTVeaXg0?si=rwLL1DbBoX26BGjm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Relaunch_**Lords of Mayhem**_ to see if this has resolved your issue.
 
 If Wolcen still crashes after this, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_SbYznUy_zY?si=ThBkP934r3mizi48" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  Your graphics card (GPU) is the most important component when it comes to determining gaming performance. If you’re using an outdated graphics driver, or the driver is corrupted, you’re likely to encounter game issues.
@@ -107,19 +108,17 @@ If Wolcen still crashes after this, try the fix below.
 
  **1)[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-22-14.jpg)
 
 **3)** Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-23-04.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you need assistance, please contact Driver Easy Pro’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
 
@@ -127,9 +126,6 @@ If Wolcen still crashes after this, try the fix below.
 
  If the Wolcen game crashing issue persists, move on to the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Increase Virtual Memory
 
  Virtual memory is basically an extension of your computer’s physical memory. It is a combination of RAM and a portion of your hard drive.
@@ -144,9 +140,6 @@ If Wolcen still crashes after this, try the fix below.
 
 **2)** Click **View advanced system settings.**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-882.png)
 
 **3)** Click **Settings** .
@@ -157,22 +150,31 @@ If Wolcen still crashes after this, try the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-880.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Uncheck the box next to **Automatically manage paging file size for all drives** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2022/04/paging-file.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-G7cU8dYvuI?si=JaKqRcW6qq9CDvty" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **6)** Click your **C drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-879.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Click the option button next to **Custom size** , and then type **4096** in the text box next to **Initial size (MB)**  and **Maximum size (MB)** .
 
 * **Initial size** – This value varies, depending on your computer. If you’re not sure what value to use, just enter whatever the number is in the **Recommended** category.
 * **Maximum size** – Don’t set this value too high. It should be about 1.5 times the size of your physical RAM. e.g. A PC with 4 GB (4096 MB) of RAM should have no more than about 6,144 MB virtual memory (4096 MB x 1.5).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/2020-03-23_10-39-55.jpg)
 
 **8)** Click **Set** , and then click **OK** .
@@ -189,9 +191,6 @@ If Wolcen still crashes after this, try the fix below.
 
 **2)** Right-click**Wolcen: Lords of Mayhem** , then click **Manage > Uninstall.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/2020-02-14_17-25-13.jpg)
 
 **3)** Click **Uninstall** .
@@ -217,8 +216,6 @@ If Wolcen still crashes after this, try the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +223,24 @@ If Wolcen still crashes after this, try the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/solved-discord-screen-share-audio-not-working/"><u>[Solved] Discord Screen Share Audio Not Working</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/1-navigating-the-cold-season-how-data-centers-compete-for-energy-resources-insights-from-zdnet/"><u>1. Navigating the Cold Season: How Data Centers Compete for Energy Resources – Insights From ZDNet</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-zero-cost-mp3-the-skype-recording-method/"><u>2024 Approved Zero-Cost MP3 The Skype Recording Method</u></a></li>
+<li><a href="https://win-blog.techidaily.com/civilization-6-not-opening-winning-the-battle-against-windows-10-glitches/"><u>Civilization 6 Not Opening? Winning the Battle Against Windows 10 Glitches</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-pictures-from-red-magic-8s-proplus-by-fonelab-android-recover-pictures/"><u>Easy steps to recover deleted pictures from Red Magic 8S Pro+.</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/effective-solutions-for-the-windows-module-installer-causing-elevated-cpu-usage-on-win10/"><u>Effective Solutions for the Window's Module Installer Causing Elevated CPU Usage on Win10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-glitches-ensuring-stable-gameplay-on-windows-with-the-witcher-3/"><u>Eliminating Glitches: Ensuring Stable Gameplay on Windows with 'The Witcher 3'</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/enhance-your-online-strategy-with-cookiebots-cutting-edge-tools/"><u>Enhance Your Online Strategy with Cookiebot's Cutting-Edge Tools</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/everything-you-need-to-know-about-unlocked-iphone-15-drfone-by-drfone-ios/"><u>Everything You Need To Know About Unlocked iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/expertly-selected-these-are-the-top-7-traffic-control-applications/"><u>Expertly Selected, These Are the Top 7 Traffic Control Applications</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-football-manager-2022s-stuttering-performance-in-windowsmacos/"><u>How to Resolve Football Manager 2022'S Stuttering Performance in Windows/MacOS</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-masterclass-in-using-zoom-for-youtube-live-streams/"><u>In 2024, Masterclass in Using Zoom for YouTube Live Streams</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mlb-the-show-21-play-issues-addressed-smoother-online-experience-awaits/"><u>MLB The Show 21 Play Issues Addressed - Smoother Online Experience Awaits</u></a></li>
+<li><a href="https://win-blog.techidaily.com/packet-loss-troubleshooting-solutions-for-a-smooth-discord-experience/"><u>Packet Loss Troubleshooting Solutions for a Smooth Discord Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smooth-sailing-for-fallout-4-tackle-stutter-problems-today/"><u>Smooth Sailing for Fallout 4: Tackle Stutter Problems Today!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/unveiling-the-secrets-maximizing-video-reach-on-igtv-with-horizinas-for-2024/"><u>Unveiling the Secrets Maximizing Video Reach on IGTV with Horizinas for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008288660-winning-against-lag-expert-fixes-for-dota-(-2)-update-your-game-now/"><u>Winning Against Lag: Expert Fixes for Dota < 2> - Update Your Game Now!</u></a></li>
+</ul></div>
 

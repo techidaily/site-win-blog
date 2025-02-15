@@ -1,7 +1,7 @@
 ---
 title: "Maximizing Your Chances of Lore-Rich Rewards: Mastering FPS Drops in ME LE"
-date: 2024-08-18T18:00:24.703Z
-updated: 2024-08-19T18:00:24.703Z
+date: 2025-02-10T21:12:46.235Z
+updated: 2025-02-15T00:33:06.170Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 5. **[Repair the Steam service](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Turn off unwanted programs
 
  If you’re running multiple applications and background processes on your computer all at the same time, hogging your network resources, that can cause Steam to slow down. Try turning off unnecessary programs:
@@ -46,9 +43,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 **2)** Click the**Processes** tab. Then, check your current**CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-794.png)
 
 **3)** Right-click the resource-consuming process and select**End Process Tree** .
@@ -56,6 +50,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-809.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After you turn off unnecessary processes on your computer, restart Steam to see if it runs faster. If this doesn’t help, try[](https://tools.techidaily.com/drivereasy/download/) **[Fix 2](https://tools.techidaily.com/drivereasy/download/)**  to clear Steam cache and cookies.
 
@@ -65,20 +63,18 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-762.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xg3PHS_Ee80?si=fE_iGIqHjKvWFIN3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Check your current**CPU and memory usage** to see what processes are consuming your resources most.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-805.png)
 
 **3)** Right-click the resource-consuming process and select**End task** .
 
  Don’t end any program that you’re not familiar with. It may be critical for the functioning of your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-810.png)
 
  Try running Steam to see if it can work faster now. If Steam still works slow, there are 5 more fixes you can try.
@@ -95,24 +91,18 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 **2)** Click**Steam** , and then select**Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
 **3)** Select**Web Browser** and click**DELETE WEB BROWSER CACHE** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **4)** Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-786.png)
 
 **5)** Click**DELETE ALL BROWSER COOKIES** .
@@ -122,6 +112,10 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 **6)** Click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-784.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15Ju8Cb4UZ8?si=5wdiQXdz1BOxIkDH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Select**Downloads,** and then click**CLEAR DOWNLOAD CACHE** .
 
@@ -147,9 +141,6 @@ Steam runs frustratingly slow on your PC? You’re not alone! Many Steam users a
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/10/2019-10-17_12-11-59-5.jpg)
 
 **3)** Click the**Update** button next to the driver you need to automatically download the correct version of this driver, then you can manually install it (you can do this with the FREE version).
@@ -175,16 +166,10 @@ If your problem persists, then move on and try the fix below.
 
 **1)** On your keyboard, press the**Windows logo** key and type**internet options** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-806.png)
 
 **2)** Click**Internet Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-807.png)
 
 **3)** Click the**Connections tab** , and then click**LAN settings** .
@@ -193,14 +178,6 @@ If your problem persists, then move on and try the fix below.
 
 **4)** Uncheck**Automatically detect settings** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-776.png)
 
  If you lose your network connections after you change your proxy settings, return to the LAN Settings window to re-enable the automatic detection setting.
@@ -217,10 +194,11 @@ If this didn’t resolve your problem, move on and try the next fix.
 
 **2)** Type**C:\\Program Files (x86)\\Steam\\bin\\SteamService.exe /repair** , then hit the**Enter** key on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/01/2020-01-01_17-42-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** You’ll see a window appears. (It may take a few minutes to repair Steam service, please wait for the process to be complete. Don’t close the window.)
 
@@ -231,8 +209,9 @@ If this didn’t resolve your problem, move on and try the next fix.
 If your issue continues to occur, then move on to the next fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Reinstall Steam
 
  If none of the fixes above helped, reinstalling Steam is very likely the solution to your problem. Here is how to back up your game content and reinstall Steam:
@@ -241,43 +220,44 @@ If your issue continues to occur, then move on to the next fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-766.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the**steamapps** folder and select**Copy** . Then, place the copy in another location to back up it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-768-1024x724.png)
 
 **3)** On your keyboard, press the**Windows logo** key and type**control** . Then, click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-774.png)
 
 **4)** Under**View b** y, select**Category** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-773.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-772.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Right-click**Steam** , and then click**Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-771.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DEqoiNArwjQ?si=oaL_lgnI-RxY5Qy_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Follow the on-screen instructions to uninstall Steam and wait for the process to be complete.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-769.png)
 
 **8)** **[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -303,8 +283,6 @@ If your issue continues to occur, then move on to the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -312,4 +290,19 @@ If your issue continues to occur, then move on to the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-in-2024-discover-ultimate-sites-for-stunning-sky-photos/"><u>[New] In 2024, Discover Ultimate Sites for Stunning Sky Photos</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-how-to-get-royalty-free-music-for-your-youtube-videos-for-2024/"><u>[Updated] How To Get Royalty Free Music for Your YouTube Videos for 2024</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-scaling-up-on-youtube-a-roadmap-for-million-sub-club/"><u>[Updated] Scaling Up on YouTube A Roadmap for Million-Sub Club</u></a></li>
+<li><a href="https://win-blog.techidaily.com/emphasis-on-the-importance-of-electrical-resistivity-in-determining-how-well-particles-can-be-charged-and-collected-without-causing-operational-issues/"><u>Emphasis on the Importance of Electrical Resistivity in Determining How Well Particles Can Be Charged and Collected without Causing Operational Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-overcoming-the-challenges-of-call-of-duty-wwii-error-4128/"><u>Expert Guide: Overcoming the Challenges of Call of Duty WWII Error 4128</u></a></li>
+<li><a href="https://android-frp.techidaily.com/how-to-bypass-frp-from-oneplus-12r-by-drfone-android/"><u>How to Bypass FRP from OnePlus 12R?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008975643-how-to-stop-your-civilization-vi-install-from-freezing-up-proven-fixes-inside/"><u>How To Stop Your Civilization VI Install From Freezing Up - Proven Fixes Inside</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-data-after-switching-from-honor-80-pro-straight-screen-edition-to-latest-samsung-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Data After Switching From Honor 80 Pro Straight Screen Edition to Latest Samsung | Dr.fone</u></a></li>
+<li><a href="https://article-helps.techidaily.com/in-2024-limitless-design-gratuitous-premiere-pro-templates/"><u>In 2024, Limitless Design Gratuitous Premiere Pro Templates</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/no-changes-in-sight-for-apples-firm-hand-on-eu-iphones-reports-zdnet/"><u>No Changes in Sight for Apple's Firm Hand on EU iPhones, Reports ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009790553-the-use-of-electrospinning-techniques-for-the-production-of-nanofibers-allowing-precise-control-over-their-properties-for-targeted-pollutant-capture/"><u>The Use of Electrospinning Techniques for the Production of Nanofibers, Allowing Precise Control over Their Properties for Targeted Pollutant Capture.</u></a></li>
+<li><a href="https://mondly-stories.techidaily.com/unearthing-linguistic-bonds-between-turkey-and-korea/"><u>Unearthing Linguistic Bonds Between Turkey & Korea</u></a></li>
+</ul></div>
 

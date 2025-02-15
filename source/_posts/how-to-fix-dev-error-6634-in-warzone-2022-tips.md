@@ -1,7 +1,7 @@
 ---
 title: How to Fix Dev Error 6634 in Warzone - 2022 Tips
-date: 2024-08-18T17:59:40.264Z
-updated: 2024-08-19T17:59:40.264Z
+date: 2025-02-09T03:24:44.800Z
+updated: 2025-02-14T22:41:45.934Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Terraria is a great game for you to explore randomly generated worlds. However, 
 
 ## How to fix ‘Terraria Lost Connection’ on PC
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/terraria.png)
 
  If you’re on PC (Steam) and get this**Terraria Lost Connection** error and wonder if there’s a way to fix it, you’re in the right place. You can use the following steps to solve this issue; just walk your way until you find the one that works for you.
@@ -46,6 +43,10 @@ This can be done by verifying the game files in Steam.
 
 ![verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/05/INTEGRITY-1.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  That will scan your game directory and compare it to the most updated version to find file differences and download files it’s missing.
 
 ### Fix 2\. Check if you’re playing different styles
@@ -56,9 +57,6 @@ This can be done by verifying the game files in Steam.
 
  Make sure to create a character accordingly before and you won’t be seeing the**Connection Lost** error in Terraria.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3\. Deactivate Windows Firewall
 
  Make sure your Windows Firewall (as well as your antivirus software) is not blocking the connection. To do that, you will need to turn off Windows Firewall and uninstall your antivirus software temporarily. Here’s how:
@@ -68,21 +66,13 @@ This can be done by verifying the game files in Steam.
 1. Type**windows defender firewall** in the Search box, and select**Windows Defender Firewall** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/07/win-11-windows-defender.jpg)
 2. From the left menu, select **Turn Windows Defender Firewall on or off** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2ipTu54inBo?si=gRegjvtVq5gm_PHo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![turn off firewall](https://images.drivereasy.com/wp-content/uploads/2021/07/Turn-on-or-off.jpg)
 3. Select **Turn off Windows Defender Firewall (not recommended)** for Domain network, Private Network, and Public network. Then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![turn off firewall for all](https://images.drivereasy.com/wp-content/uploads/2021/07/turn-off.jpg)
 
  After turning off your firewall, restart Terraria to check if the**Connection Lost in Terraria** has been solved.
@@ -98,23 +88,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/06/Driver-Easy-Scan-Now.jpg)
 3. Click the**Update** button next to your network adapter to download the latest and correct driver for it, and then you can install it manually.  
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/update-wireless-network-adapter-driver.jpg)  
 
  Or click the **Update All** button at the bottom right to automatically update all outdated or missing drivers on your computer. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  — you will have full tech support and a 30-day money-back guarantee.)
 4. Restart your PC and try to start your Terraria to see if this helps get rid of the ‘Lost Connection’ error.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5\. Enable port forwarding
 
  Setting up a **port forward** for Terraria can enhance your gaming experience and help with many different problems, for instance, a ‘Connection Lost’ error. Besides, it has some other benefits:
@@ -132,15 +117,18 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 1. Type**cmd** in the Windows search bar and select**Command Prompt** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/07/win-11-cmd-command-prompt.jpg)
 2. Type in**ipconfig /all** and press**Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ip configuration](https://images.drivereasy.com/wp-content/uploads/2021/07/ipconfig.jpg)
 3. Take note of the following:**IPv4 Address, Subnet Mask, Default Gateway** and**DNS Servers** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/command-prompt.jpg)
 
 **Note:** Default Gateway is your router’s IP Address, which you can copy-paste it to your browser’s address bar.
@@ -149,24 +137,22 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. On your keyboard, press the Windows key + R to open the **Run**  box. Then enter **ncpa.cpl** , and select **OK**  to open Network Connections.  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ncpa.cpl_.jpg)
 2. Right-click your current connection, and select**Properties** .  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/properties-1.jpg)
 3. Double-click**Internet Protocol Version 4 (TCP/IPv4)** from the list.  
 
-<!-- affiliate ads begin -->
-<a href="https://aofit.pxf.io/c/5597632/1399701/16396" target="_top" id="1399701"><img src="//a.impactradius-go.com/display-ad/16396-1399701" border="0" alt="" width="960" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1399701/16396" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![configure IPV4](https://images.drivereasy.com/wp-content/uploads/2021/07/IPv4-1.jpg)  
 
  4\. Select **Use the following IP address** , and**Use the following DNS server automatically** , and enter the details you copied from Command Prompt: IP address, subnet mask, default gateway, and DNS servers.  
 
 ![static ip address](https://images.drivereasy.com/wp-content/uploads/2021/07/ipv.jpg)
 4. Click**OK** to apply.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Step 3\. Set up Port Forwarding
 
@@ -176,10 +162,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 ![server](https://images.drivereasy.com/wp-content/uploads/2021/07/servers.jpg)
 4. Enter the IP Address of your PC in the relevant box.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose both **TCP** and**UDP** ports for your games in the appropriate box (we suggest a number above 5,000 and usually**7777** ).  
 
 ![port forwading ](https://images.drivereasy.com/wp-content/uploads/2021/07/7777.jpg)
 6. Once complete, enable the port forwarding rule with an **Enable** or **On** option.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### Fix 6\. Uninstall and reinstall the game
 
@@ -206,8 +201,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -215,4 +208,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-2024-approved-step-up-your-photography-game-with-these-top-8-tablets/"><u>[New] 2024 Approved Step Up Your Photography Game With These Top 8 Tablets</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/updated-exploring-screen-recording-with-zdsoft-for-2024/"><u>[Updated] Exploring Screen Recording with ZDSoft for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/2024-approved-tips-and-tricks-for-clearing-cluttered-backdrops-in-figma/"><u>2024 Approved Tips and Tricks for Clearing Cluttered Backdrops in Figma</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-far-cry-6-freezing-problems-in-windows-update-guide/"><u>How to Fix Far Cry 6 Freezing Problems in Windows - Update Guide</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-from-fragmented-footage-to-fluid-editing-inshots-pathway-to-perfection/"><u>In 2024, From Fragmented Footage to Fluid Editing Inshot's Pathway to Perfection</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-solutions-to-spy-on-nokia-g310-with-and-without-jailbreak-drfone-by-drfone-virtual-android/"><u>In 2024, Solutions to Spy on Nokia G310 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ipogo-will-be-the-new-ispoofer-on-nokia-xr21-drfone-by-drfone-virtual-android/"><u>iPogo will be the new iSpoofer On Nokia XR21? | Dr.fone</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/optimize-sound-quality-on-windows-11-expert-tips-for-using-an-equalizer/"><u>Optimize Sound Quality on Windows 11: Expert Tips for Using an Equalizer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimized-resolving-frame-rate-issues-in-resident-evil-village-pc-gaming/"><u>Optimized: Resolving Frame Rate Issues in Resident Evil Village PC Gaming</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcoming-steam-services-not-responding-to-unlock-digital-purchases-again/"><u>Overcoming 'Steam Services Not Responding' To Unlock Digital Purchases Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-call-of-duty-wwii-error-4128-tips-and-solutions-for-gamers/"><u>Overcoming Call of Duty WWII Error 4128: Tips and Solutions for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-startup-problems-with-the-nier-replica-remaster/"><u>Resolving Startup Problems with the NieR Replica Remaster</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-issue-how-to-prevent-frequent-freezing-in-thunder-tier-1-game-on-pc/"><u>Resolving the Issue: How to Prevent Frequent Freezing in Thunder Tier 1 Game on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-escape-from-tarkovs-server-disconnection-problems/"><u>Troubleshooting ‘Escape From Tarkov’s Server Disconnection Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-msi-afterburners-failure-to-detect-gpu-on-windows-1011/"><u>Troubleshooting Guide: Resolving MSI Afterburner's Failure to Detect GPU on Windows 10/11</u></a></li>
+<li><a href="https://common-error.techidaily.com/1723206921710-unstuck-from-windows-11-learn-how-to-effectively-restart-your-pc-now/"><u>Unstuck From Windows 11? Learn How to Effectively Restart Your PC Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/updated-fnaf-security-fix-ensures-smooth-gaming-experience-on-windows/"><u>Updated FNAF Security Fix Ensures Smooth Gaming Experience on Windows</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Your Game: Steps to Correct Elden Ring's Black Initialization Error"
-date: 2024-08-18T17:57:31.485Z
-updated: 2024-08-19T17:57:31.485Z
+date: 2025-02-12T18:50:34.634Z
+updated: 2025-02-15T06:13:59.525Z
 tags:
   - win11
   - win10
@@ -37,18 +37,12 @@ Here is how to reset Winsock data:
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
 
  3) In the Command Prompt, type **netsh winsock reset**  and hit **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap7-5.jpg)
 
 4) Restart your computer.
@@ -67,9 +61,6 @@ Here is how to do it:
 
  2) Right-click on **a bandwidth hogging app** and click **End Task** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/img_5c1deba6c03f2.jpg)
 
  3) Repeat step **2)** on every other bandwidth hogging programs.
@@ -77,6 +68,10 @@ Here is how to do it:
  4) Launch Fallout 76 to see if it can be connected to the server. If yes, then congratulations! If the issue remains, please move on to**Fix 3** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3: Make sure you have the latest network drivers
 
@@ -90,22 +85,19 @@ Here is how to do it:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b46ffcde1143.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _ALL_ the drivers that are missing or out of date on your system (this requires the [**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b5af0deb80ba.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can do it for free if you like, but it’s partly manual.
 
@@ -115,9 +107,6 @@ Here is how to do it:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Restart your network
 
  The Fallout 76 won’t connect to server issue may be a glitch caused by your router. So you can restart your modem to see if it fixes the issue.
@@ -128,13 +117,17 @@ Here is how to restart your network:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BR4gsW-J7as?si=9a56UDKZKhREZnwz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 _modem_
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap3-5.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_dOmuXhsV6Y?si=aT6vgPbDx4ajjvdr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 _wireless router_
 
@@ -146,6 +139,10 @@ _wireless router_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### **Fix 5: Flush your DNS and Renew your IP**
 
  DNS and IP issues may also cause Fallout 76 to disconnect from the server. So you can flush your DNS and renew your IP to see if it solves the issue.
@@ -154,9 +151,6 @@ _wireless router_
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -169,9 +163,6 @@ _wireless router_
 
  1) On your keyboard, press **the Windows Logo Key** and type **cmd** . Then right-click Command Prompt when it comes up as a result and select **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-566.png)
 
  2) When prompted for permission, click**Yes** to run Command Prompt.
@@ -194,6 +185,10 @@ _wireless router_
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 6: Switch the DNS server
 
  The Fallout 76 not connecting to server problem may also happen if the DNS your ISP supplies is not properly configured so just slow. So you can switch to Google Public DNS to see if it can effectively speed up the Internet and fixes the server issue.
@@ -202,9 +197,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
  1) On your keyboard, press **the Windows logo key** and **R** at the same time, then type **control**  and press **Enter**  to open Control Panel.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-542.png)
 
  2) In **View by** , choose **Category** . Then click **View network status and tasks** .
@@ -213,11 +205,6 @@ Here is how to switch the DNS server to Google Public DNS:
 
  3) In the pop-up window, click **Change adapter settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-612.png)
 
  4) Right-click on**your current network** and click**Properties** .
@@ -226,10 +213,11 @@ The powerful video editing program for your Windows PC</a>
 
  5) Double-click **Internet Protocol Version 4(TCP/IPv4)**  to view its properties.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/Snap21-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  6) Select **Obtain an IP address automatically** and **Use the following DNS server addresses** . For **the Preferred DNS server** , enter the Google Public DNS address: **8.8.8.8** ; **for the Alternative DNS server** , enter the Google Public DNS address: **8.8.4.4** . Then click **OK** to save the changes.
 
@@ -242,6 +230,10 @@ The powerful video editing program for your Windows PC</a>
  Problem still not yet solved? Please try**Fix 7** , below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7: Is Fallout 76 down?
 
@@ -261,8 +253,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +260,22 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-2024-approved-fine-tuning-virtual-presence-in-ms-teams/"><u>[New] 2024 Approved Fine-Tuning Virtual Presence in MS Teams</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/2024-approved-best-practices-for-documenting-lol-playthroughs/"><u>2024 Approved Best Practices for Documenting LOL Playthroughs</u></a></li>
+<li><a href="https://fox-links.techidaily.com/2024-approved-buzzing-phrase-builder-suite/"><u>2024 Approved Buzzing Phrase Builder Suite</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-mastering-the-art-of-steady-phone-cinematography/"><u>2024 Approved Mastering the Art of Steady Phone Cinematography</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-elden-ring-experience-with-these-6-solutions-for-stuttering-and-low-fps/"><u>Boost Your Elden Ring Experience with These 6 Solutions for Stuttering and Low FPS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/csgo-optimization-tactics-for-smooth-lag-free-gameplay/"><u>CS:GO Optimization Tactics for Smooth, Lag-Free Gameplay</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/exploring-the-world-of-online-television-a-guide-to-internet-enabled-tvs/"><u>Exploring the World of Online Television: A Guide to Internet-Enabled TVs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fenyx-rising-launch-update-for-gamers-your-solutions-to-the-delay-mystery/"><u>Fenyx Rising Launch Update for Gamers: Your Solutions to the Delay Mystery</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/fixing-sennheiser-game-one-microphone-malfunctions-a-step-by-step-guide/"><u>Fixing Sennheiser Game One Microphone Malfunctions - A Step-by-Step Guide</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-poco-f5-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Poco F5 5G?</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-speed-up-iphone-display-shutdown-solutions-and-tricks/"><u>How to Speed Up iPhone Display Shutdown: Solutions & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-fixes-for-the-application-was-unable-to-start-correctly-adobe-error-0xc0000022/"><u>Mastering Fixes for The Application Was Unable To Start Correctly (Adobe, Error 0Xc0000022)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013763455-mlb-the-show-21-resolved-servers-game-now-up-and-running/"><u>MLB The Show 21: Resolved Servers - Game Now Up and Running!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-overcome-wrath-of-the-righteous-crashing-issue-on-pc/"><u>Solution Found! Overcome 'Wrath of the Righteous' Crashing Issue on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stardew-valley-startup-problems-how-to-get-your-game-running-smoothly/"><u>Stardew Valley Startup Problems - How To Get Your Game Running Smoothly</u></a></li>
+</ul></div>
 

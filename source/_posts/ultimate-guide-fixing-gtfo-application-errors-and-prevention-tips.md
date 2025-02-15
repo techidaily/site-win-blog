@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fixing GTFO Application Errors & Prevention Tips"
-date: 2024-08-18T17:59:54.230Z
-updated: 2024-08-19T17:59:54.230Z
+date: 2025-02-12T23:10:12.661Z
+updated: 2025-02-14T22:03:53.794Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/75030bd59360efbfc2946329061573b90f37300b7
 
 Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story mission is exquisite and aesthetic design is stunning. However, many players are reporting the Hitman 3 crashing issue and complained they can’t enjoy the game at all. If you’re one of them, don’t worry. After reading this post, you’ll be able to rule out the common causes and get your issue fixed.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 simple fixes for Hitman 3 crashing. You may not try them all. Just work your way down the list until you find the one that does the trick.
@@ -33,13 +30,9 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  Before you move on to the troubleshooting steps below, check if your PC specs surpass the[minimum requirements](https://www.epicgames.com/store/en-US/product/hitman-3/home) of Hitman 3\. If not, you’ll have to upgrade your components to play the game normally.
 
 <!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Stop overclocking
 
  An unstable overclocking will lead to excessive energy consumption and cause your programs to malfunction. So if you’ve overclocked your CPU or GPU and then Hitman 3 crashes, try**disabling overclocking utilities like MSI Afterburner** and **setting the clock speed back to the default** . If this doesn’t help, have a look at the second fix below.
@@ -49,30 +42,42 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
  If you have two graphics cards installed to your computer, make sure to run Hitman 3 on your dedicated GPU, because the inbuilt card is usually underpowered for graphics-intensive games and can trigger the crashing issue. Here’s how to switch to the dedicated card in NVIDIA settings:
 
 1. Right-click any empty space on your desktop and select**NVIDIA Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-1.jpg)
 2. Select**3D settings** \>**Manage 3D settings** from the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-2.jpg)
 3. Go to the**Programs Settings** tab. Then, click the**Add** button.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-3.jpg)
 4. Select**HITMAN 3** from the list and click**Add Selected Program** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-4.jpg)
 5. Choose**High-performance NVIDIA processor** as the preferred graphics processor for Hitman 3.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-5.jpg)
 6. Exit the NVIDIA Control Panel.
 7. Launch Hitman 3 and select**Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-6.jpg)
 8. Select your**dedicated graphics card** instead of the integrated one next to Graphics Processing Unit, and click**Save** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QRaEdFMU-Xc?si=OjaiTvlogJy5wHhN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/nvidia-settings-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  If you have an AMD graphics card, you could refer to this[official guide](https://www.amd.com/en/support/kb/faq/dh-017) to configure the Radeon settings.
 
  Now see if Hitman 3 works properly. If not, there are two more fixes to try.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Verify the integrity of game files
 
@@ -81,17 +86,11 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 1. Open your Epic Games Launcher and navigate to the**Library** tab in the left pane.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-1-2.jpg)
 2. Mouse over the**Hitman 3 tile** and click**the icon with three dots** at the lower right corner. Then, select**Verify** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
 3. After the process completes, launch Hitman 3 to test.
 
  Does the game works the right way or does it still crash? If the latter, don’t frustrate and check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Update your graphics driver
 
  Graphics driver is essential to your gaming experience. If you’re using a faulty or outdated graphics driver, Hitman 3 is more likely to crash at startup and during the gameplay. To fix this, you should update your graphics driver to the latest, and here are two options for you:
@@ -113,42 +112,38 @@ Hitman 3, a dramatic conclusion to the Hitman series, is finally here! The story
 
  After the driver update, you should see Hitman 3 runs more smoothly. But if this method doesn’t work, continue to the last fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 5 – Increase virtual memory
 
  Virtual memory is basically an extension of your computer’s physical memory, but when it runs low, the system performance may suffer and Hitman 3 will crash frequently. To see if that’s the case, you can increase the virtual memory via the steps below.
 
 1. Click the**Start** button and type**advanced system settings** in the search bar. Then, click**View advanced system settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-1-3.jpg)
 2. Click**Settings** under Performance.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-2-2.jpg)
 3. Navigate to the**Advanced** tab. Then, click**Change** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-3-2.jpg)
 4. Untick**Automatically manage paging file size for all drives** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-4-3.jpg)
 5. Select the**C drive** and click**Custom size** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-5.jpg)
 6. Enter the **initial size** and **maximum size** depending on the amount of RAM your PC has. Then, click **OK** .  
 
 **Note** : According to Microsoft, you should set virtual memory no less than**1.5 times** and no more than **3 times** the amount of RAM on your computer. For example, if you have 8 GB RAM, the**Initial size** should be 8 x 1024 x 1.5 = 12288 MB while the **Maximum size** should be 8 x 1024 x 3 = 24576 MB. If you don’t know how much RAM you have, read our post to[check RAM on your computer](https://tools.techidaily.com/drivereasy/download/) .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/4-6.jpg)
 
  Restart the computer for changes to take effect. Once you’ve done that, run Hitman 3 and the crashes should be resolved now.
@@ -166,8 +161,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -175,4 +168,26 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/solved-itunes-not-recognizing-iphone-on-windows-11/"><u>[SOLVED] iTunes Not Recognizing iPhone on Windows 11</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-link-zoom-calls-to-iphoneandroid-events-seamlessly/"><u>[Updated] In 2024, Link Zoom Calls to iPhone/Android Events Seamlessly</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-in-2024-premier-selection-of-best-indoor-android-games-no-wi-fi-required/"><u>[Updated] In 2024, Premier Selection of Best Indoor Android Games (No Wi-Fi Required)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-lost-ark-frame-rates-fixes-for-persistent-lag-and-slowdown-concerns/"><u>Boosting Lost Ark Frame Rates: Fixes for Persistent Lag and Slowdown Concerns</u></a></li>
+<li><a href="https://change-location.techidaily.com/catchemall-celebrate-national-pokemon-day-with-virtual-location-on-samsung-galaxy-f14-5g-drfone-by-drfone-virtual-android/"><u>CatchEmAll Celebrate National Pokémon Day with Virtual Location On Samsung Galaxy F14 5G | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/comparing-apples-m1-pro-and-m1-max-key-distinctions/"><u>Comparing Apple's M1 Pro and M1 Max Key Distinctions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-discord-from-closing-unexpectedly-a-complete-walkthrough/"><u>How to Stop Discord From Closing Unexpectedly - A Complete Walkthrough</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/key-distinctions-between-mac-and-pc-systems-unveiling-the-truth/"><u>Key Distinctions Between Mac & PC Systems: Unveiling the Truth</u></a></li>
+<li><a href="https://win-blog.techidaily.com/losing-connection-with-the-blizzard-network-troubleshooting-steps/"><u>Losing Connection with the Blizzard Network – Troubleshooting Steps</u></a></li>
+<li><a href="https://win-excellent.techidaily.com/norton-ghost-usb-windows-1087/"><u>Norton Ghost USB 準備工序：Windows 10/8/7跨平台自助解決方法</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-failures-with-fallout-3-expert-tips-and-solutions/"><u>Overcoming Launch Failures with Fallout 3: Expert Tips and Solutions</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-guide-locating-and-restoring-the-missing-ac1st16dll/"><u>Step-by-Step Guide: Locating and Restoring The Missing ac1st16.dll</u></a></li>
+<li><a href="https://blog-min.techidaily.com/transformacion-eficaz-de-archivos-vhs-al-formato-dvd-metodos-sencillos-con-computadora-personal/"><u>Transformación Eficaz De Archivos VHS Al Formato DVD: Métodos Sencillos Con Computadora Personal</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-pc-issues-for-a-smooth-nba-up96-experience-tips-and-tricks/"><u>Troubleshooting PC Issues for a Smooth NBA 지Up96 Experience - Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-preventing-the-mass-effect-legendary-edition-from-crashing-on-pc-and-xbox/"><u>Troubleshooting Steps: Preventing the Mass Effect Legendary Edition From Crashing on PC and Xbox</u></a></li>
+<li><a href="https://fox-info.techidaily.com/turning-tidal-wave-of-tiktoks-into-manageable-drafts-through-editing/"><u>Turning Tidal Wave of TikToks Into Manageable Drafts Through Editing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-ps4-system-crashes-with-easy-fix-steps/"><u>Ultimate Guide: Resolving PS4 System Crashes with Easy Fix Steps</u></a></li>
+<li><a href="https://win-ratings.techidaily.com/windows-10-users-faqs-answered-how-to-easily-open-and-use-the-control-panel-with-yl-software-insights/"><u>Windows 10 Users' FAQs Answered: How to Easily Open and Use the Control Panel with YL Software Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/zenith-of-zest-triple-legged-tower-insight/"><u>Zenith of Zest: Triple-Legged Tower Insight</u></a></li>
+</ul></div>
 

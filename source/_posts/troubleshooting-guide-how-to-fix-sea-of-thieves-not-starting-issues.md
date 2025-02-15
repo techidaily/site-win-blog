@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: How to Fix Sea of Thieves Not Starting Issues"
-date: 2024-08-18T17:59:49.957Z
-updated: 2024-08-19T17:59:49.957Z
+date: 2025-02-07T23:34:05.953Z
+updated: 2025-02-14T19:41:33.160Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 
  Before you perform the troubleshooting steps below, please make sure your gaming rig satisfies the **[minimum requirements](https://www.ea.com/games/battlefield/battlefield-5/buy/pc-system-requirements?setLocale=en-us)**  to play Battlefield 5.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Run Battlefield 5 and Origin as administrator
 
  Running Battlefield 5 and the Origin client as an administrator will ensure they get the necessary permissions to launch properly. Here’s how:
@@ -40,28 +37,28 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 1. Go to the installation folder of Battlefield 5, which is usually located in_C:/Program Files (x86)/Origin Games/Battlefield V_ . Then, right-click the**bfv.exe file** and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/10-2.jpg)
 2. Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-10.jpg)
 3. Right-click your Origin client and select**Properties** .
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aG3NRuHrIJg?si=HwzwD0RXmrzIXX1V" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Navigate to the**Compatibility** tab. Then, check**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-3-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/odDOPrPjRYY?si=7QHzdUkTPNkHJiVj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Relaunch BFV to check if the not launching problem goes away. If not, take a look at more fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Switch to DirectX 11
 
  Many players report Battlefield 5 won’t launch when DX12 is enabled. To see if that’s the case, you can run the game on DirectX 11 via the following steps.
 
 1. On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer.
 2. Click**Documents** on the left pane. Then, double-click the**Battlefield V** folder.  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-4.jpg)
 3. Open the**settings** folder.
 4. Right-click the**PROSAVE\_profile** file and click**Open with** .  
@@ -69,16 +66,14 @@ Battlefield 5 is undoubtedly one of the most popular titles on the market. Altho
 5. Select**Notepad** or other similar editing tools.
 6. Press**Ctrl** and**F** on your keyboard to open the search box. Then, type**Dx12Enabled** and press**Enter** .
 7. Once you’ve located Dx12Enabled, change the value from**1** to**0** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-3-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Is the game working normally now? Or is it still unplayable? If the latter, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Update your graphics driver
 
  The Battlefield 5 not launching issue may occur if you’re using a faulty graphics driver or it’s out-of-date. We’d recommend you check for the driver update regularly, which can not only prevent gaming problems but also help you enjoy a smooth playful experience.
@@ -99,6 +94,10 @@ To update your graphics driver, here are two safe ways for you:
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-2-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/793ViIxl4tI?si=DDBkjPlPX5bZ-f1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
@@ -110,18 +109,17 @@ To update your graphics driver, here are two safe ways for you:
 
 1. Launch your Origin desktop client.
 2. Click**Origin** on the top pane and click**Application Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Origin In-Game** tab, and toggle off**Enable Origin In-Game** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-3.jpg)
 
  Relaunch the game to test this method. If it doesn’t help, continue to the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Disable cloud storage
 
  If your save file is corrupted, Battlefield 5 won’t launch neither. And a simple workaround towards this is to disable the cloud storage in Origin.
@@ -130,14 +128,15 @@ To update your graphics driver, here are two safe ways for you:
 2. Click**Origin** \>**Applications Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-2.jpg)
 3. Navigate to the**Installs & Saves** tab, and then toggle off**Saves** .  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/6-2-3.jpg)
 4. On your keyboard, press the**Windows logo key** and**E** at the same time to invoke File Explorer. Then, select**Document** from the left pane.
 5. Rename your**Battlefield V** folder to Battlefield V backup or anything else.
 
  Check whether you can get into Battlefield 5 or not. If this method is of no avail, restore the folder’s name and try the last fix.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 6 – Perform a reinstallation
 
@@ -145,11 +144,13 @@ To update your graphics driver, here are two safe ways for you:
 
 1. Run the Origin client.
 2. Select**My Game Library** on the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-1.jpg)
 3. Right-click the**Battlefield 5** tile from the list, and click**Uninstall** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/7-2.jpg)
 
  After the process finishes, you can reinstall the game from Origin again, and it should be working the right way as expected.
@@ -168,8 +169,6 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -177,4 +176,18 @@ To update your graphics driver, here are two safe ways for you:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://remote-screen-capture.techidaily.com/new-classroom-aid-selecting-effective-recorders-for-2024/"><u>[New] Classroom Aid Selecting Effective Recorders for 2024</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-elite-arena-top-10-royale-game-spectacles-for-2024/"><u>[New] Elite Arena Top 10 Royale Game Spectacles for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-funimate-pro-apk-a-complete-guide/"><u>[Updated] 2024 Approved Funimate Pro APK A Complete Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-enhance-your-shorts-appeal-with-personalized-thumbnails/"><u>[Updated] In 2024, Enhance Your Shorts' Appeal with Personalized Thumbnails</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722990600139-amazon-prime-video-not-working-heres-how-to-fix-it-quickly/"><u>Amazon Prime Video Not Working? Here's How to Fix It Quickly!</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/changes-in-instagrams-algorithm-user-perspectives/"><u>Changes in Instagram's Algorithm User Perspectives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/essential-tips-for-handling-fortnite-error-code-84-unable-to-link-up-with-fellow-gamers/"><u>Essential Tips for Handling Fortnite Error Code #84 - Unable To Link Up With Fellow Gamers</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-apply-these-techniques-to-improve-how-to-detect-fake-gps-location-on-samsung-galaxy-xcover-6-pro-tactical-edition-drfone-by-drfone-virtual-android/"><u>In 2024, Apply These Techniques to Improve How to Detect Fake GPS Location On Samsung Galaxy XCover 6 Pro Tactical Edition | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/instilling-illusions-blur-wonders-in-adobes-visual-staging-tools-for-2024/"><u>Instilling Illusions Blur Wonders in Adobe's Visual Staging Tools for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-deadly-developer-mistakes-for-a-smoother-call-of-duty-experience/"><u>Troubleshooting Deadly Developer Mistakes for a Smoother Call of Duty Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-resolving-logitech-setup-problems-on-your-pc/"><u>Troubleshooting Tips for Resolving Logitech Setup Problems on Your PC</u></a></li>
+</ul></div>
 

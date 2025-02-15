@@ -1,7 +1,7 @@
 ---
 title: "No New Dates for Mafia: Definitive Edition Launch - Update or Cancellation?"
-date: 2024-08-18T17:58:35.531Z
-updated: 2024-08-19T17:58:35.531Z
+date: 2025-02-08T03:07:54.192Z
+updated: 2025-02-14T16:14:18.882Z
 tags:
   - win11
   - win10
@@ -27,6 +27,10 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 4. **[Run Mafia Definitive Edition and game launcher as an administrator](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of your game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Temporarily disable your antivirus](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 1 – Check the minimum requirements for Mafia: Definitive Edition
 
@@ -62,22 +66,27 @@ Mafia: Definitive Edition, a gorgeous remake of the original 2002, is finally av
 
 **2)** Check the info about your**Operating System** ,**Processor** ,**Memory** and**DirectX Version** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-2-6.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click the**Display** tab and view your graphics’ info.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/1-3-7.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After ruling out the underpowered PC as a cause, you can continue with more in-depth fixes below.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MmTJlcwgyrQ?si=x3hba82M0tT57fj7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2 – Update your graphics driver
 
@@ -109,9 +118,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-2-13.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -123,9 +129,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3 – Run the mafiadefinitiveedition.exe file
 
  If you cannot open Mafia Definitive Edition the right way, a simple workaround is to launch the mafiadefinitiveedition.exe file and disable launcher in settings. Here’s how:
@@ -134,11 +137,12 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/620kcQ7Dw7w?si=a5ussGs5HV7sG3hF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click**Mafia: Definitive Edition** from the game list and click**Manage** . Then, click**Browse local files** .
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-2-5.jpg)
 
  If you’re using Epic Games Launcher, generally you can find the game’s installation folder here:**C.\\Program Files\\Epic Games\\\[Game name\]**
@@ -149,16 +153,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **4)** Click**Options** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-4-3.jpg)
 
 **5)** Click**Game** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-5-2.jpg)
 
 **6)** Turn on**Disable Launcher** .
@@ -169,26 +167,28 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KdpTAZ9zonQ?si=5Nd5SPW1axA7GPuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 4 – Run Mafia Definitive Edition and game launcher as an administrator
 
  Some games require additional access to Windows files before they can launch and operate properly. To allow the necessary permissions for Mafia Definitive Edition, you’re suggested to run the game and game launcher as an administrator.
 
 **1)** Right-click the**mafiadefinitiveedition.exe file** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-1-11.jpg)
 
 **2)** Click the**Compatibility** tab, and then check the box next to**Run this program as an administrator** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-2-11.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-3-7.jpg)
 
 You also need to grant the game launcher administrator rights as follows:
@@ -197,6 +197,10 @@ You also need to grant the game launcher administrator rights as follows:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-4-3.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1KKovVi9epE?si=EF7KA7b4KsEpWA-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Select the**Compatability** tab. Then, tick**Run this program as an administrator** and click**OK** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/4-5-3.jpg)
@@ -204,6 +208,10 @@ You also need to grant the game launcher administrator rights as follows:
  Now relaunch the game to test if this method works. Still no luck? No worries, there are two more fixes to try.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l-SCWTWpegY?si=oxTsHQkIu1v4-I6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 5 – Verify the integrity of your game files
 
@@ -217,16 +225,10 @@ You also need to grant the game launcher administrator rights as follows:
 
 **1)** Open Steam, and select the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/3-1-8.jpg)
 
 **2)** Right-click**Mafia Definitive Edition** from the game list, and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-1-7.jpg)
 
 **3)** Click the**Local Files** tab, and click**Verify the integrity of game files** .
@@ -241,30 +243,24 @@ You also need to grant the game launcher administrator rights as follows:
 
 **2)** Select the**Library** tab in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-4.jpg)
 
 **3)** Select**Mafia Definitive Edition** from the list, and click the icon with three dots next to it.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-6.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **4)** Click**Verify** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-5-2.jpg)
 
  The process may take a few minutes, and after it completes, you can relaunch Mafia Definitive Edition to test. If the problem persists, check out the last fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
-<!-- affiliate ads end -->
 ### Fix 6 – Temporarily disable your antivirus
 
  Many users install antivirus to protect their computers from potential threats or attacks. If you do too, make sure your antivirus doesn’t identify your game as malware by mistake and blocks it from launching.
@@ -287,8 +283,6 @@ You also need to grant the game launcher administrator rights as follows:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -296,4 +290,26 @@ You also need to grant the game launcher administrator rights as follows:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-hovers.techidaily.com/updated-prime-graphic-hubs-offered-free-with-unmatched-quality-and-design-tools/"><u>[Updated] Prime Graphic Hubs Offered Free, With Unmatched Quality & Design Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ascent-app-overcoming-initial-launch-setbacks-successfully-explained/"><u>Ascent App: Overcoming Initial Launch Setbacks Successfully Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefield-5-troubles-expert-fixes-for-preventing-game-crashes-on-windows-machines/"><u>Battlefield 5 Troubles? Expert Fixes for Preventing Game Crashes on Windows Machines</u></a></li>
+<li><a href="https://facebook.techidaily.com/deciphering-metaai-vs-conventional-chatbot-competitors/"><u>Deciphering MetaAI vs Conventional Chatbot Competitors</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/dive-into-computing-with-toms-hardware-experts-your-ultimate-resource-for-gadget-analysis/"><u>Dive Into Computing with Tom's Hardware Experts: Your Ultimate Resource for Gadget Analysis</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-your-gameplay-eliminating-crashes-in-dark-souls-iii-now-possible/"><u>Enhance Your Gameplay: Eliminating Crashes in Dark Souls III Now Possible</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/how-to-fix-iphone-xr-passcode-not-working-drfone-by-drfone-ios/"><u>How to Fix iPhone XR Passcode not Working? | Dr.fone</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-top-5-from-poco-c50-to-iphone-contacts-transfer-apps-and-software-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, Top 5 from Poco C50 to iPhone Contacts Transfer Apps and Software | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-pathfinder-on-pc-solving-the-infamous-game-freezing-problems/"><u>Mastering Pathfinder on PC: Solving the Infamous Game-Freezing Problems</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/screen-preservation-techniques-eliminating-burn-in-damage-for-different-monitors/"><u>Screen Preservation Techniques: Eliminating Burn-In Damage for Different Monitors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-call-of-duty-warzone-disc-reading-issues-50-31-a-step-by-step-guide-for-pc-users/"><u>Solve Call of Duty Warzone Disc Reading Issues [5.0, 3.1]: A Step-by-Step Guide for PC Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-repairing-the-error-message-internet-explorer-has-crashed/"><u>Step-by-Step Guide: Repairing the Error Message 'Internet Explorer Has Crashed'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-overcoming-the-notorious-blue-screen-in-helldivers-2/"><u>Step-by-Step Solution: Overcoming the Notorious Blue Screen in Helldivers 2</u></a></li>
+<li><a href="https://driver-install.techidaily.com/strategies-to-mitigate-software-problems-in-windows-drivers/"><u>Strategies to Mitigate Software Problems in Windows Drivers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-overcoming-common-black-screen-errors/"><u>Troubleshooting Guide: Overcoming Common Black Screen Errors</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unleash-adventure-with-the-nikon-waterproof-rugged-w100/"><u>Unleash Adventure with the Nikon Waterproof, Rugged W100</u></a></li>
+<li><a href="https://discover-exclusive.techidaily.com/virtual-camera-revolution-enhance-online-presence-with-manycams-cutting-edge-webcam-solutions/"><u>Virtual Camera Revolution: Enhance Online Presence with ManyCam's Cutting-Edge Webcam Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-pc-optimization-techniques-to-eliminate-freezing-glitches-2024s-best-practices/"><u>Warzone PC Optimization Techniques to Eliminate Freezing Glitches: 2024'S Best Practices</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/winning-against-battlenet-lag-download-speed-solutions-for-the-current-gaming-era/"><u>Winning Against Battle.net Lag: Download Speed Solutions for the Current Gaming Era</u></a></li>
+</ul></div>
 

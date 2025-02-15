@@ -1,7 +1,7 @@
 ---
 title: "Life Is Strange: Triumph Over True Colors Crash Issues – A Detailed Guide"
-date: 2024-08-18T18:00:15.120Z
-updated: 2024-08-19T18:00:15.120Z
+date: 2025-02-07T23:47:09.232Z
+updated: 2025-02-15T05:59:40.019Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
 ## How to Overcome the Life Is Strange: True Colors Glitch - Solved
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/life-is-strange-true-colors.jpg)
 
  Life is Strange True Colors is out. However, as many new release games, it’s not immune from bugs or issues. Many players complained Life is Strange True Colors crashes randomly and a specific low level fatal line 3946 error occurs. If you encounter the same issue, don’t worry. We’ve got a full list of working fixes for you.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
  If your hardware is not the problem, read on to rule out other possible causes.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 fixes for Life is Strange True Colors crash. You don’t have to try them all. Just work your way down the list until you find the one that does the trick.
@@ -55,30 +49,34 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 1. Launch Steam and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** from the game list and click**Update** (if there is an available download).  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/check-for-updates.jpg)
 
  Restart the Steam client and launch the game to test. Is it working now? If not, go ahead to the second fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Verify the integrity of game files
 
  Whenever you have difficulties playing the Steam games, you could do an integrity check to detect missing or corrupted game files and repair them all. That works with Life is Strange True Colors as well.
 
 1. Open Steam and go to your game Library.
 2. Right-click**Life is Strange: True Colors** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
 3. Select the**Local Files** tab. Then click**Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-2.jpg)
 
  Wait a few minutes until the process completes. If the game still fails to run properly, try the next solution below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 3 – Update your graphics driver
 
@@ -96,32 +94,30 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 
  After the update finishes, reboot your computer to fully employ the changes. Your game should be working much better with an up-to-date driver. If the crashes reoccur, there are two more fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4 – Switch to DirectX 11
 
  Players are able to launch Life is Strange True Colors in either DirectX11 or 12\. While playing with DX12 allows you to enjoy the ray-tracing feature, DirectX 11 could be a more stable version and is less likely to cause game crashes. To opt into DX11, take these steps:
 
 1. Run Steam and select**Library** from the homepage.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click**Life is Strange: True Colors** and click**Properties** .![](https://images.drivereasy.com/wp-content/uploads/2021/09/verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3. Under Launch Options, type**\-dx11** in the field and then close the window.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/launch-dx11.jpg)
 4. Launch the game, tick**Play Life is Strange: True Colors** and click**Play** .  
+
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B300x600%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-300x600.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/select-dx11.jpg)
 
  See how the game functions. If switching to DirectX 11 doesn’t stop the game crashing, continue to the last method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the graphics settings
 
  Higher graphics settings usually indicate a better visual experience, but it can be resource-intensive and make your game unstable or even crash. If you don’t have strong hardware capabilities, it’s best to turn down the in-game graphics instead of running it at the maximum settings.
@@ -133,6 +129,10 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
 3. Click**Edit** next to Advanced Video.
 4. You could just set each option to**Low** or**Medium** and click**Apply** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/graphics-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/o-sRtqHdEYY?si=NMTMQVxJsUaoguqh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Restart the game to test if the new settings have a significant impact on the game performance.
 
@@ -148,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +155,22 @@ thumbnail: https://thmb.techidaily.com/5381657abfa2977c00582e05885897e5e94779f3d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-2024-approved-standard-youtube-licenses-versus-cc/"><u>[Updated] 2024 Approved Standard Youtube Licenses Versus CC</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-in-2024-creating-a-stellar-game-channels-look-a-step-by-step-approach/"><u>[Updated] In 2024, Creating a Stellar Game Channels Look A Step-By-Step Approach</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-mastering-live-online-broadcasts-recording-techniques/"><u>[Updated] Mastering Live Online Broadcasts Recording Techniques</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tale-architecting-network/"><u>[Updated] Top Tale Architecting Network</u></a></li>
+<li><a href="https://some-skills.techidaily.com/2024-approved-the-least-expensive-skyvault-service-for-big-files/"><u>2024 Approved The Least Expensive SkyVault Service for Big Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012414682-aromatic-hydrocarbons-have-a-conjugated-pi-electron-system-that-confers-stability-through-resonance-energy/"><u>Aromatic Hydrocarbons Have a Conjugated Pi Electron System that Confers Stability Through Resonance Energy.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhanced-gta-5-experience-overcoming-stuttering-and-lags/"><u>Enhanced GTA 5 Experience - Overcoming Stuttering and Lags</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/explore-top-tech-innovations-and-build-configurations-on-toms-hardware-the-pc-enthusiast-hub/"><u>Explore Top Tech Innovations and Build Configurations on Tom's Hardware | The PC Enthusiast Hub</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/in-2024-elevate-your-filming-flair-with-free-green-screen-insights-from-4-youtube-authorities/"><u>In 2024, Elevate Your Filming Flair with Free Green Screen Insights From 4 YouTube Authorities</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revamped-bioshock-2-remaster-resolved-glitches-and-improved-stability/"><u>Revamped BioShock 2 Remaster - Resolved Glitches and Improved Stability</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/step-by-step-guide-to-mastering-windows-media-player-for-cd-management/"><u>Step-by-Step Guide to Mastering Windows Media Player for CD Management</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-troubleshooting-for-overcoming-dev-error-6634-in-call-of-duty-warzone-latest-fixes/"><u>Step-by-Step Troubleshooting for Overcoming Dev Error #6634 in Call of Duty: Warzone - Latest Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-correct-amd-radeon-software-not-opening-error-on-pc/"><u>Steps to Correct 'AMD Radeon Software Not Opening' Error on PC</u></a></li>
+<li><a href="https://fake-location.techidaily.com/ultimate-guide-to-free-pptp-vpn-for-beginners-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Ultimate Guide to Free PPTP VPN For Beginners On Apple iPhone 15 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-solutions-stop-chrome-screen-flicker-issues-on-windows-pcs-a-comprehensive-guide/"><u>Ultimate Solutions: Stop Chrome Screen Flicker Issues on Windows PCs – A Comprehensive Guide</u></a></li>
+</ul></div>
 

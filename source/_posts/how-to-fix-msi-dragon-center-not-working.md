@@ -1,7 +1,7 @@
 ---
 title: How to Fix MSI Dragon Center Not Working
-date: 2024-08-18T17:57:15.118Z
-updated: 2024-08-19T17:57:15.118Z
+date: 2025-02-08T01:27:36.780Z
+updated: 2025-02-15T05:09:06.885Z
 tags:
   - win11
   - win10
@@ -19,6 +19,10 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  Halo Infinite Multiplayer early access is out already. This latest Halo title seems pretty fun, but we’re also seeing some bug reports. Many players are getting an error message saying “**No ping to our data centers detected** ” and can’t even join multiplayer. If you’re in the same boat, no worries, we’ve got a few fixes for you to try!
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Check the server status](https://tools.techidaily.com/drivereasy/download/)
@@ -33,15 +37,16 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
 [6: Use a VPN](https://tools.techidaily.com/drivereasy/download/)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Hpne0zPsZwU?si=yN5QDsG_WLb_Y3u-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Fix 1: Check the server status
 
  The first thing you can do is to check the server status. If there’s an outage or the game is currently under maintenance, you’ll be able to get notifications from[Halo Support Twitter](https://twitter.com/HaloSupport) . Or you can head to[Halo Infinite Steam forum](https://steamcommunity.com/app/1240440/discussions/) or[Reddit](https://www.reddit.com/r/halo/) to see if there’s any news from fellow players.
 
  If there isn’t any problem on the server end, you can continue to troubleshoot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Test your internet connection
 
  If you’re getting the “No ping to our data centers detected” error, you would need to check your internet connection. Here are some basic troubleshooting steps you can try:
@@ -54,29 +59,24 @@ thumbnail: https://thmb.techidaily.com/d308f7cbef44fc72492251644b94fc820af341541
 
  If your internet connection is solid but the error persists, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ## Fix 3: Verify the game files
 
  If your local game files are missing or corrupted, it could trigger random issues. You can use the Steam client to scan and repair your game files. Although it’s hard to identify if this is the root cause of the no ping error, verifying the game files can help prevent other game issues. Here’s how:
 
 1. Launch Steam and find Halo Infinite in your library.
 2. Right-click the game, then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Steam-right-click-Properties-1.jpg)
 3. Under the**local files** tab, click**Verify integrity of game files** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/verify-game-files-1.jpg)
 4. This process may take a while. Once the scan is complete, restart the game to see if you still get the error.
 
 If the error returns, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=14095146&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8b6cc3ee5ec407721ce3bf5ff4c0f56b/PRO_BUY_728x90-EN.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Update your network driver
 
  The error may suggest a driver issue. An outdated or faulty network driver could trigger connection errors for gaming. You may need to check your network driver to see if it’s up-to-date and functioning properly.
@@ -101,8 +101,9 @@ If the error returns, try the next fix.
  Restart your PC for the new drivers to take effect. If updating your network driver doesn’t help, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Configure DNS settings
 
  Corrupted DNS caches may cause random connection issues. If the fixes above didn’t work for you, you may want to give this fix a try and configure your DNS settings. There are two things you can do:
@@ -112,9 +113,9 @@ If the error returns, try the next fix.
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w7c5EHp-GDw?si=UTw7lZR0wTmRjp8W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### 1: Flush your DNS
 
  Flushing DNS will clear the DNS cache from your PC. This means that your PC will need to obtain the data from the DNS server again every time it’s accessing a new website. This may solve the no ping detected error for Halo Infinite, if the error was caused by corrupted or invalid DNS cache. Below are the steps:
@@ -123,16 +124,10 @@ If the error returns, try the next fix.
 2. Type**cmd** , then press**Shift** and**Enter** at the same time. If prompted for permission, click**Yes** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy**ipconfig /flushdns** , and paste it in the pop-up window. Then press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns的副本.png)
 4. Your DNS cache is successfully cleared.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. We’ll use the Google DNS server as an example. Here’s how:
@@ -142,20 +137,23 @@ If the error returns, try the next fix.
 2. Click**Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click**the network you’re using** , then click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** , then click**Properties** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select**Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click**OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/c-BHGGIC0zE?si=FzUQKZa-bx8OlKuB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
  If changing the DNS settings doesn’t solve your problem, there’s one more fix you can try.
@@ -182,8 +180,6 @@ If the error returns, try the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -191,4 +187,26 @@ If the error returns, try the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-access.techidaily.com/new-essential-microphones-for-dynamic-cams/"><u>[New] Essential Microphones for Dynamic Cams</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-getting-started-with-youtube-tv-a-must-read-article-for-2024/"><u>[New] Getting Started with YouTube TV A Must-Read Article for 2024</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-live-play-and-log-mobile-gaming-with-samsung/"><u>[New] Live, Play & Log Mobile Gaming with Samsung</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-2024-approved-whats-buzzing-the-social-sphere-tiktok-and-twitter-hits/"><u>[Updated] 2024 Approved What's Buzzing the Social Sphere? TikTok & Twitter Hits</u></a></li>
+<li><a href="https://win-dash.techidaily.com/achieve-next-level-gaming-updating-graphics-driver-on-acer-predator-helios-300-step-by-step-guide/"><u>Achieve Next-Level Gaming: Updating Graphics Driver on Acer Predator Helios 300 Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/death-stranding-delayed-behind-the-scenes-of-game-release-hurdles/"><u>Death Stranding Delayed - Behind The Scenes of Game Release Hurdles</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-5-low-cost-drones-maximum-performance-on-a-shoestring/"><u>In 2024, 5 Low-Cost Drones Maximum Performance on a Shoestring</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-vivo-y27s-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Vivo Y27s | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-reset-gmail-password-on-vivo-v30-lite-5g-devices-by-drfone-android/"><u>In 2024, How to Reset Gmail Password on Vivo V30 Lite 5G Devices</u></a></li>
+<li><a href="https://win-blog.techidaily.com/inside-scoop-overcoming-havoc-in-cod-warzones-pacific-skirmish/"><u>Inside Scoop: Overcoming Havoc in Cod: Warzone's Pacific Skirmish</u></a></li>
+<li><a href="https://techidaily.com/is-your-nokia-c210-working-too-slow-heres-how-you-can-hard-reset-it-drfone-by-drfone-reset-android-reset-android/"><u>Is your Nokia C210 working too slow? Heres how you can hard reset it | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/multiversus-pc-woes-discover-how-to-ensure-a-smooth-launch-every-time/"><u>MultiVersus PC Woes? Discover How to Ensure a Smooth Launch Every Time!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-troubles-get-answers-how-to-fix-ready-or-not-app-continuously-failing/"><u>PC Troubles? Get Answers: How to Fix 'Ready or Not' App Continuously Failing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722994301576-polycyclic-aromatic-hydrocarbons-pahs-are-formed-by-fused-benzene-rings-and-can-exhibit-different-chemical-properties-than-monocyclic-aromatics/"><u>Polycyclic Aromatic Hydrocarbons (PAHs) Are Formed by Fused Benzene Rings and Can Exhibit Different Chemical Properties than Monocyclic Aromatics.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-tutorial-on-repairing-damaged-steam-disks-with-ease/"><u>Step-by-Step Tutorial on Repairing Damaged Steam Disks with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-revamped-new-world-game-say-goodbye-to-persistent-freezing-problems/"><u>The Revamped 'New World' Game: Say Goodbye to Persistent Freezing Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-palworld-effective-solutions-when-the-game-wont-start/"><u>Troubleshooting Palworld: Effective Solutions When the Game Won't Start</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-resolving-latency-and-stutter-in-chivalry-2-expert-advice-for-a-smoother-gaming-experience/"><u>Ultimate Guide to Resolving Latency & Stutter in Chivalry 2: Expert Advice for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/uncovering-and-retrieving-eliminated-data-in-your-computers-recycle-bin/"><u>Uncovering and Retrieving Eliminated Data in Your Computer's Recycle Bin</u></a></li>
+</ul></div>
 

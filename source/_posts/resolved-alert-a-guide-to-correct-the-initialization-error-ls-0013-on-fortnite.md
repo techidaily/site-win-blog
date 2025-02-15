@@ -1,7 +1,7 @@
 ---
 title: "Resolved Alert: A Guide to Correct the Initialization Error (LS-0013) on Fortnite"
-date: 2024-08-18T17:58:25.201Z
-updated: 2024-08-19T17:58:25.201Z
+date: 2025-02-08T21:45:17.985Z
+updated: 2025-02-15T03:55:25.735Z
 tags:
   - win11
   - win10
@@ -18,9 +18,9 @@ thumbnail: https://thmb.techidaily.com/c2342fb5e25c5a967555cf815791bd2b9698b049e
 Fortnite is not launching because of LS-0013 error? You’re certainly not the only one. Hundreds of Fortnite players are reporting it. The good news is, you can fix it…
 
 <!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mHFtYJppXFk?si=ylFaAT4nXqCmlV8F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fixes For Fortnite LS-0013 Launching Error
 
  Here are 3 fixes that have helped other users resolve the LS-0013 launching error on Fortnite. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -43,17 +43,19 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  2) Run **Driver Easy** and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-439.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qv4Qm7kpeMs?si=9fv5SOS5a2DvixTK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iOVkXoUxLf4?si=QfC18T2cb5OkiaXo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  You can also do it for free if you like, but it’s partly manual.
 
@@ -63,9 +65,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Verify game integrity
 
  You may encounter this issue if some files of your game installation are corrupt or have been deleted as a false positive by antivirus programs. If this is the case, you should verify the integrity of game files to fix the issue.
@@ -83,8 +82,9 @@ Here is how to verify the integrity of Fortnite:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 3: **Run Epic Games Launcher and Fortnite as administrator**
 
  In some cases, Fortnite won’t launch properly because it is not granted the necessary access to running the game. To make sure the LS-0013 error is not thrown up because of insufficient rights, you should run **Epic Games Launcher** and **Fortnite** as administrator.
@@ -95,11 +95,12 @@ Here is how to run Epic Games Launcher as administrator:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-803.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click the **Compatibility**  tab, tick the box for **Run this program as an administrator**  and click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-805.png)
 
  3) Run Fortnite to see if it works without fail. If yes, then you have solved the issue! If the error still happens, you can then run Fortnite**as administrator** , the steps are similar as those for Epic Games Launcher.
@@ -122,8 +123,6 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +130,24 @@ Here is how to run Epic Games Launcher as administrator:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-2024-approved-a-step-by-step-approach-to-snapchat-commerce/"><u>[New] 2024 Approved A Step-by-Step Approach to Snapchat Commerce</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/new-freememogen-your-guide-to-free-memes/"><u>[New] FreeMemoGen Your Guide to FREE Memes</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-audiences-choice-prime-action-recorder/"><u>[Updated] In 2024, Audience's Choice Prime Action Recorder</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/complete-setup-for-your-logiteche-g402-driver-downloads-and-initial-configuration-tips/"><u>Complete Setup for Your Logiteche G402: Driver Downloads and Initial Configuration Tips</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/critical-system-file-not-installed/"><u>Critical System File Not Installed</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/extended-communication-with-the-advanced-jabra-talk-v25-microphone/"><u>Extended Communication with the Advanced Jabra Talk V25 Microphone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-overcoming-cyberpunk-2077s-gpu-non-utilization-issue-on-windows-11/"><u>Guide: Overcoming Cyberpunk 2077'S GPU Non-Utilization Issue on Windows 11</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/in-2024-8-popular-oculus-rift-games/"><u>In 2024, 8 Popular Oculus Rift Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/naraka-bladepoint-ultimate-guide-to-fixing-game-crashes-and-errors/"><u>Naraka: Bladepoint - Ultimate Guide to Fixing Game Crashes & Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-repair-a-non-responsive-discord-application/"><u>Solved: How to Repair a Non-Responsive Discord Application</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-how-to-stop-fifa-19-from-freezing-or-crashing-on-pc/"><u>Solving the Issue: How to Stop FIFA 19 From Freezing or Crashing on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-persistent-black-screen-trouble-in-your-epic-games-launcher-experience/"><u>Solving the Persistent Black Screen Trouble in Your Epic Games Launcher Experience</u></a></li>
+<li><a href="https://blog-min.techidaily.com/1726029353080-spotify/"><u>Spotify音楽をダウンロードし、スマホでキャリア着メロとして使用する手順</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-error-resolved-solutions-when-encountering-a-fatal-steamuidll-could-not-be-loaded-error-message/"><u>Steam Error Resolved: Solutions When Encountering a Fatal 'steamui.dll Could Not Be Loaded' Error Message</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-4-ultimate-strategies-for-creating-softened-iphone-pics-for-2024/"><u>The 4 Ultimate Strategies for Creating Softened iPhone Pics for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-baldurs-gate-3-reducing-high-cpu-drain-with-these-6-fixes/"><u>Troubleshooting Baldur’s Gate 3: Reducing High CPU Drain with These 6 Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722985303520-unlocking-secrets-cod-mws-most-intense-first-person-shooter-drops/"><u>Unlocking Secrets: Cod: MW's Most Intense First-Person Shooter Drops</u></a></li>
+</ul></div>
 

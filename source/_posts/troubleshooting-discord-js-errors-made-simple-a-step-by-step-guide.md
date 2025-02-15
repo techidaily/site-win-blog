@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Discord JS Errors Made Simple – A Step-by-Step Guide
-date: 2024-08-18T17:56:35.918Z
-updated: 2024-08-19T17:56:35.918Z
+date: 2025-02-10T01:27:41.739Z
+updated: 2025-02-15T01:21:38.354Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/7dd47039b908f15adfac56204ff22ad7becb8a002
 
 If you launch the Elder Scrolls Online but get stuck on the loading screen before the character selection, don’t worry, you’re not alone. This post will show you how to fix this problem.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -27,8 +31,9 @@ If you launch the Elder Scrolls Online but get stuck on the loading screen befor
 4. [Update your driver](https://tools.techidaily.com/drivereasy/download/)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HaM818fFKXQ?si=ZZLA4lFSHSgCpSE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Add ESO into exception
 
  The Elder Scrolls Online would not work properly when the program is blocked by your firewall or antivirus software. Therefore, please add an exception for the game through your Antivirus and Windows defender firewall.
@@ -39,24 +44,19 @@ Here’s how to allow the ESO launcher through the firewall.
 
  1) Press **Windows** **logo key**  \+ **S** to open Windows search. Enter firewall and select**Windows Defender Firewall** to open it.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-7.png)
 
  2) Click the **Allow an app or feature through Windows Defender Firewall** from the left panel.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-8.png)
 
  3) Click **Change settings** button and check both **Private**  and **Public** options for items related to ESO or ESO launcher.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/image-9.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  4) Click **OK**  button to save changes. Then reboot the game to check the issue persists or not.
 
@@ -70,6 +70,10 @@ Here’s how to allow the ESO launcher through the firewall.
 3. Find and delete the ProgramData folder.
 4. Restart the ESO Launcher to check.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### Fix 3: Repair the launcher
 
  When the game is not loading or stuck on the loading scree, you can repair the launcher to fix the issue. If any files are found to have problems, the launcher will re-download those files.
@@ -81,9 +85,6 @@ Here’s how to allow the ESO launcher through the firewall.
 4. The launcher will reinstall missing files, wait for the process to finish.
 5. Relaunch the game and check to see if the issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ### Fix 4: Update your driver
 
  The Elder Scrolls Online is an online game that requires connecting servers. Make sure you have a stable network with updated drivers. Updating your drivers to the latest version always help. With the latest working driver, you’ll have a better gaming experience.
@@ -106,11 +107,13 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/DE-PRO-VEGA-KILLER-NETWORKING.jpg)
 
@@ -127,8 +130,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +137,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-instagram-storytelling-using-videos-effectively-for-2024/"><u>[New] Instagram Storytelling Using Videos Effectively for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-scheduling-success-creating-regular-google-meets-for-2024/"><u>[New] Scheduling Success Creating Regular Google Meets for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-financial-scale-one-million-youtube-viewers-pay/"><u>[New] The Financial Scale One Million YouTube Viewers' Pay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elite-dangerous-no-longer-crashes-after-update-tips-and-tricks/"><u>Elite Dangerous No Longer Crashes After Update: Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-guide-eliminating-the-dark-scene-in-helldivers-ii-upon-boot-up/"><u>Fixed Guide: Eliminating the Dark Scene in Helldivers II upon Boot-Up</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-modern-warfare-3-pc-crashes-simple-solutions/"><u>Fixing Modern Warfare 3 PC Crashes: Simple Solutions</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/how-to-bypass-android-lock-screen-using-emergency-call-on-tecno-spark-10-5g-by-drfone-android/"><u>How to Bypass Android Lock Screen Using Emergency Call On Tecno Spark 10 5G?</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-retrieve-erased-messages-from-vivo-by-fonelab-android-recover-messages/"><u>How to retrieve erased messages from Vivo</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/in-2024-capturing-festive-moments-in-a-flash-on-iphone/"><u>In 2024, Capturing Festive Moments in a Flash on iPhone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-will-the-ipogo-get-you-banned-and-how-to-solve-it-on-tecno-camon-20-drfone-by-drfone-virtual-android/"><u>In 2024, Will the iPogo Get You Banned and How to Solve It On Tecno Camon 20 | Dr.fone</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/launch-an-affordable-chatbot-ai-on-pc-with-gpt4all/"><u>Launch an Affordable Chatbot AI on PC with GPT4All</u></a></li>
+<li><a href="https://win-blog.techidaily.com/logitech-g403-keyboard-free-drivers-and-latest-updates-for-windows/"><u>Logitech G403 Keyboard: Free Drivers and Latest Updates for Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-art-of-smooth-performance-for-dying-light-tackling-frame-rate-problems-head-on/"><u>Master the Art of Smooth Performance for Dying Light: Tackling Frame Rate Problems Head-On</u></a></li>
+<li><a href="https://discover-great.techidaily.com/quick-fixes-for-damaged-mov-videos-4-simple-steps-to-recover-your-footage/"><u>Quick Fixes for Damaged MOV Videos: 4 Simple Steps to Recover Your Footage</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-start-enabling-wordpad-in-windows-environment/"><u>Quick Start: Enabling WordPad in Windows Environment</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-your-finals-game-crashes-expert-troubleshooting-tips/"><u>Solving Your 'Finals' Game Crashes: Expert Troubleshooting Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/strategies-for-dealing-with-ark-crashes-successfully/"><u>Strategies for Dealing with ARK Crashes Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unfreeze-your-battle-royale-fixes-for-cold-war-freezes-on-cod-bo/"><u>Unfreeze Your Battle Royale: Fixes for Cold War Freezes on COD BO</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-your-thaumaturge-game-fixes-for-pc-startup-failures-and-glitches/"><u>Unlock Your Thaumaturge Game: Fixes for PC Startup Failures & Glitches</u></a></li>
+</ul></div>
 

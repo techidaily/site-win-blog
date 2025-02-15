@@ -1,7 +1,7 @@
 ---
 title: "Resolved: Mouse Troubles in Resident Evil Village - Fix & Guide"
-date: 2024-08-18T17:57:50.785Z
-updated: 2024-08-19T17:57:50.785Z
+date: 2025-02-12T17:40:38.409Z
+updated: 2025-02-14T23:03:54.954Z
 tags:
   - win11
   - win10
@@ -18,8 +18,9 @@ thumbnail: https://thmb.techidaily.com/20ff4f86f64949aeed71ebab473532ee23ffbe18d
 Resident Evil Village is a great survival horror game in the storied Resident Evil franchise. But the cursor became annoying while in-game with Village. This post gives you some possible fixes, give it a try.
 
 <!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FLO5dwmJAVs?si=1OYH8rv8aPaMsCiU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -29,10 +30,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 3. [Change mouse settings](https://tools.techidaily.com/drivereasy/download/)
 4. [Update device driver](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ### Fix 1: Download an invisible cursor theme file
 
  To solve the mouse cursor that appears on the black bars in-game issue, download an invisible cursor theme file would do the job.
@@ -41,17 +38,23 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 1. [Download](http://www.jholjhaal.com/wp-content/uploads/2013/05/HiddenCursor.cur) the blank mouse cursor file.
 2. Press the**Window logo key + I** together and click**Devices** .  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/device.jpg)
 3. Click**Mouse** on the left panel, then click**Additional mouse options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_10-26-54.jpg)
 4. Go to the**Pointers** tab, click**Browse…** to add the blank mouse cursor file.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fHWdQw1gRyI?si=ve9wZnPupiooLThG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Click**Apply** . Your mouse cursor will disappear.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cursor.gif)
 6. If you want the cursor back, click**Use Default** in the Mouse Properties window, then click**Apply** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-18_11-07-00.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HtM7d4dpN1I?si=2vN_xgVGD4eYGORu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 2: Change resolution
 
@@ -65,9 +68,6 @@ Resident Evil Village is a great survival horror game in the storied Resident Ev
 
 **Note** : This fix might let the image lose a lot of quality.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Change mouse settings
 
  Change the in-game mouse settings might help. Players have proved that the max sensitivity is not 10 and you can set the number go beyond 10.
@@ -96,17 +96,19 @@ There are two ways you can update your device drivers:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the device driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
- Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=M69YSY0Mk_gsdU0Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+ Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/gtx-1650-driver-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/465CTOm8om0?si=63RxowNMCFA4fPUa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -121,8 +123,6 @@ There are two ways you can update your device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -130,4 +130,18 @@ There are two ways you can update your device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-unravel-the-secrets-of-top-tier-video-editing-with-vivacut-24/"><u>[New] Unravel the Secrets of Top-Tier Video Editing with VivaCut '24</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-tech-savvy-simplified-your-guide-to-making-10-easy-youtube-videos-for-2024/"><u>[Updated] Tech Savvy Simplified Your Guide to Making 10 Easy YouTube Videos for 2024</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-vogue-videos-compiling-free-youtube-channel-frames/"><u>[Updated] Vogue Videos Compiling FREE YouTube Channel Frames</u></a></li>
+<li><a href="https://location-fake.techidaily.com/6-ways-to-change-spotify-location-on-your-vivo-y100t-drfone-by-drfone-virtual-android/"><u>6 Ways to Change Spotify Location On Your Vivo Y100t | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/conquering-the-apocalypse-resolving-pc-problems-in-call-of-dutys-dead-army-saga-for-a-seamless-gaming-journey/"><u>Conquering the Apocalypse: Resolving PC Problems in Call of Duty's Dead Army Saga for a Seamless Gaming Journey</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/digital-detective-work-cracking-the-code-to-live-streams-for-2024/"><u>Digital Detective Work Cracking the Code to Live Streams for 2024</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-do-i-stop-someone-from-tracking-my-oppo-a18-drfone-by-drfone-virtual-android/"><u>In 2024, How Do I Stop Someone From Tracking My Oppo A18? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/newest-logitech-g403-driver-software-available-for-quick-installation/"><u>Newest Logitech G403 Driver Software Available for Quick Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/phoenix-point-bug-fix-a-detailed-walkthrough-for-uninterrupted-gaming/"><u>Phoenix Point Bug Fix: A Detailed Walkthrough for Uninterrupted Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-why-isnt-football-manager-2023-loading/"><u>Solving the Issue: Why Isn't Football Manager 2023 Loading?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/vanderperren-s-et-al-2008-the-impact-of-glyphosate-on-the-amphibian-rana-lessonae-evidence-for-a-non-target-effect-and-endocrine-disruption-at-environmental443/"><u>Vanderperren S., Et Al (2008). The Impact of Glyphosate on the Amphibian Rana Lessonae: Evidence for a Non-Target Effect and Endocrine Disruption at Environmentally Realistic Concentrations. Environ Sci Pollut Res, 15(6), 397-402</u></a></li>
+</ul></div>
 

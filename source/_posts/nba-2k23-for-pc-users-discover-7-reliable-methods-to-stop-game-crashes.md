@@ -1,7 +1,7 @@
 ---
 title: "NBA 2K23 for PC Users: Discover 7 Reliable Methods to Stop Game Crashes"
-date: 2024-08-18T18:00:09.912Z
-updated: 2024-08-19T18:00:09.912Z
+date: 2025-02-12T21:17:43.530Z
+updated: 2025-02-14T20:02:52.054Z
 tags:
   - win11
   - win10
@@ -21,13 +21,6 @@ thumbnail: https://thmb.techidaily.com/128936f1237a7dae7d947e202ae29738fcba18f1e
 
  Here’re some working tips for your**constant crashes** with**Detroit: Become Human** , try them out and get your game fixed right away!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not have to try all of them. Simply work down the list until you find the one that works for you.
@@ -42,8 +35,9 @@ No advertising on the website.
 8. **[Roll back your graphics driver](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TJCye_oCTTw?si=6bVyBphcSgSFdyuq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1: Check your specs
 
  Detroit: Become human is arguably a graphically demanding title. So before you dive into any complicated fixes, first**make sure your rig meets the game requirements** . Because if it doesn’t, maybe it’s time for an upgrade.
@@ -68,9 +62,6 @@ No advertising on the website.
 
  If the game crashes on your powerful gaming rig, you can check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify your game files
 
  The constant crash may indicate an**integrity issue with your game files** . If that’s the case, your game might keep crashing at a certain scene or chapter. You should make sure there’s nothing wrong with your game files.
@@ -83,13 +74,14 @@ Here’s an example of how to check the game integrity on Steam:
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/detroit-become-human-verify-game-02.jpg)
 3. Wait until the checking to finish.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rxyki8-Y630?si=dHLkIxG59zdlZeN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 You can then launch Detroit: Become Human and see if it crashes again.
 
  If this solution doesn’t work for you, please continue to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3:**Close all** background**applications**
 
  Detroit: Become Human is a demanding game, and the crash can occur when you have some other large programs eating up your CPU resources and RAM. So if you’re running big programs like**Chrome** ,**Discord** or**Windows Update** , be sure to close them before launching your game.
@@ -97,8 +89,9 @@ You can then launch Detroit: Become Human and see if it crashes again.
 If this fix failed to solve your issue, please move on to the next one.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VlwHTQQMs?si=BXYwD1pKiaTuev4y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Update your graphics driver
 
  More often than not, the crash of new games tends to be graphics-related. It usually indicates that you’re using**a** **faulty or outdated graphics driver** . Whether you’re using a 1,000 dollars gaming rig or just a five-year-old school laptop, always make sure you make the most out of it, with the latest graphics driver.
@@ -120,9 +113,6 @@ If this fix failed to solve your issue, please move on to the next one.
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -134,9 +124,6 @@ If this fix failed to solve your issue, please move on to the next one.
 
  If this fix doesn’t give you any luck, take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Install all Windows updates
 
  Windows 10 includes 2 types of system updates, targeting respectively security issues and performance boost. You should**always keep your system up-to-date** , as it could be a potential fix to your game crashing issue.
@@ -148,6 +135,10 @@ Here’s how:
 2. Click**Check for updates** . Windows will automatically search and install available system updates. This might take up to an hour.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  To make sure you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click Check for updates.
 
  After installing all system updates, restart your computer and check if Detroit: Become Human crashes again.
@@ -155,8 +146,9 @@ Here’s how:
  If this solution doesn’t work for you, simply try the next one below.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/poI1NQxHfjc?si=ZLG0wziYcTKIKwL5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 6: Disable in-game overlays
 
  In-game overlay is a feature that makes it convenient to purchase game items and interact with friends on third party platforms. But in some cases, it might become the cause of instability. If you’re using in-game overlays such as**Steam** ,**Discord** or**NVIDIA GeForce Experience** , you can try to disable them and see if it fixes your problem.
@@ -166,9 +158,6 @@ For example, you can follow these steps to disable Steam overlay:
 1. Open your**Steam client** . In the top left corner, click**Steam** select**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/steam-disable-overlay.jpg)
 2. From the left menu, select**In-Game** . Under**The Steam Overlay** section, uncheck these boxes. Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/disabel-steam-overlay.jpg)
 3. Launch Detroit: Become Human and test your gameplay.
 
@@ -177,6 +166,10 @@ If the crashing reappears, please check out the next fix.
 ### Fix 7: Disable your controller
 
  Some gamers reported that they managed to stop the crash in Detroit: Become Human by**unplugging their controllers** . It’s true that a controller give you a better experience, but they would sometimes run into compatibility issues with new games. Given that, if you’re using controllers or joysticks, you can try to unplug them before starting the game.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LBCobAYzzcc?si=J3eSTQ3AdyxWAjGo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 8: Roll back your graphics driver
 
@@ -194,8 +187,6 @@ If the crashing reappears, please check out the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -203,4 +194,23 @@ If the crashing reappears, please check out the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-in-2024-is-asmr-good-for-you-learn-the-benefits-here/"><u>[New] In 2024, Is ASMR Good for You? Learn the Benefits Here</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/obile-beat-benders-for-android-and-ios-devices-for-2024/"><u>[New] Mobile Beat Benders for Android and iOS Devices for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-speedy-shutterbugs-iphones-quick-time-lapse-guide-for-2024/"><u>[New] Speedy Shutterbugs IPhone's Quick Time-Lapse Guide for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clear-instructions-on-correcting-malfunctioning-voice-chat-alerts-and-warnings/"><u>Clear Instructions on Correcting Malfunctioning Voice Chat Alerts and Warnings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/embark-on-a-digital-journey-through-detroit-a-flawlessly-running-adventure-on-personal-computers/"><u>Embark on a Digital Journey Through Detroit: A Flawlessly Running Adventure on Personal Computers</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/find-out-which-graphics-processor-you-own-tips-for-detecting-gpus-and-installing-the-latest-driver-software-wired/"><u>Find Out Which Graphics Processor You Own! Tips for Detecting GPUs and Installing the Latest Driver Software | Wired</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-download-and-setup-your-logitech-hd-webcam-model-c525-for-windows-users/"><u>How to Download and Setup Your Logitech HD Webcam Model C525 for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-successfully-launch-your-games-finals-in-202ve-tips-and-advice/"><u>How to Successfully Launch Your Game's Finals in 202Ve Tips and Advice</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-whatsapp-from-apple-iphone-15-plus-to-other-iphone-14-pro-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From Apple iPhone 15 Plus to other iPhone 14 Pro devices? | Dr.fone</u></a></li>
+<li><a href="https://win-outstanding.techidaily.com/master-your-pcs-energy-consumption-with-yl-software-a-comprehensive-tutorial-on-tweaking-control-panel-settings/"><u>Master Your PC's Energy Consumption with YL Software: A Comprehensive Tutorial on Tweaking Control Panel Settings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-interruptions-overcoming-metro-exodus-on-pc-crashes-for-smooth-gaming/"><u>No More Interruptions: Overcoming Metro Exodus on PC Crashes for Smooth Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-woes-of-no-match-found-in-call-of-duty-warzone-a-comprehensive-guide/"><u>Solving the Woes of No Match Found in Call of Duty: Warzone - A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-long-awaited-arrival-immortals-fenyx-rising-game-is-now-out-of-the-gate/"><u>The Long-Awaited Arrival! Immortals Fenyx Rising Game Is Now Out of the Gate</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-issues-when-phasmophobia-vr-fails-to-load/"><u>Troubleshooting Steps: Resolving Issues When Phasmophobia VR Fails to Load</u></a></li>
+<li><a href="https://techidaily.com/undelete-lost-contacts-from-poco-m6-pro-4g-by-fonelab-android-recover-contacts/"><u>Undelete lost contacts from Poco M6 Pro 4G.</u></a></li>
+</ul></div>
 

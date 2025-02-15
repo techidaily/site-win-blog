@@ -1,7 +1,7 @@
 ---
 title: "Cyberpunk 2077'S Dark Secret: How to Fix the Game-Crashing Black Screen Error"
-date: 2024-08-18T17:58:39.758Z
-updated: 2024-08-19T17:58:39.758Z
+date: 2025-02-12T18:39:38.807Z
+updated: 2025-02-15T06:01:29.846Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 
 **[Cyberpunk 2077](https://www.epicgames.com/store/en-US/p/cyberpunk-2077?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=77f2b98e2cef40c8a7437518bf420e47)**  is finally out! Players can’t wait to add it to their game list. But the issue you might be encountering is, the download on Steam is stuck at 57.4 GB or the download speed is super slow. In this article, we’ll guide you how to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://mushroom-supplies.sjv.io/c/5597632/1692242/18134" target="_top" id="1692242"><img src="//a.impactradius-go.com/display-ad/18134-1692242" border="0" alt="" width="834" height="592"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1692242/18134" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not need to try them all; simply work your way down the list until you find the one that works.
@@ -30,6 +27,10 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 4. **[Update network adapter driver](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Clear download cache](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Set a bandwidth limit](https://tools.techidaily.com/drivereasy/download/)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Iz2LYWd8EqI?si=G_3CqFRAmeVPczjj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fix 1: Uncheck bonus content under DLC
 
@@ -47,14 +48,6 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fix 2: Change Steam download server
 
  When there are so many players downloading the game, servers might be overloaded. Changing Steam download server can help you fix it. Here are the steps you can take:
@@ -63,11 +56,12 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
   
 ![change the Steam download server location](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Region** section, choose another download region in the drop-down menu. According to the tests, Asian servers can substantially increase your download speed. It’s probably because there’s less traffic congestion.  
   
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![change Steam download server](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location-donwnload-region.jpg)
   
  After applying the changes, resume your download to check if this boosts your download speed.
@@ -76,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Fix 3: Set Steam’s priority to High
 
  Waiting for Steam games to update or download can be vexing. And you would be quite frustrated with the slow unpacking speed. But the good news is, setting Steam’s priority to High in the Task Manager can help you. Follow the steps below to do that:
@@ -87,9 +78,17 @@ thumbnail: https://thmb.techidaily.com/9e992eeefd8e84a59a07a57a0f98ead45d9f4acef
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high-in-the-Task-Manager-to-help-with-the-unpacking-speed.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Under the**Processes** tab, locate**Steam Client Bootstrapper** . Right-click it and select**Go to details** .  
   
 ![set Steam's priority to high](https://images.drivereasy.com/wp-content/uploads/2020/12/set-Steams-priority-to-high.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6X24fPKs6AE?si=YtQy-8zy7GifgfA7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) You’re directed to the**Details** tab and**steam.exe** will be highlighted. Right-click it and select**Set priority > High** .  
   
@@ -100,8 +99,9 @@ Once done, your game’s unpacking speed should be boosted.
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZLb1ViO4WR8?si=g_aiHGNCd7eAvmDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update network adapter driver
 
  Whether you have a slow download speed or you’re stuck at downloading, it could be an issue related to your network connection. And your outdated network adapter driver can be the culprit. To fix it, you’re supposed to update your network adapter driver, especially if you can’t remember when was the last time you updated it.
@@ -125,24 +125,22 @@ Here’s how it works:
 
 ![update network adapter driver automatically with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/11/update-network-adapter-driver.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **The Pro version of Driver Easy** comes with full technical support. If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  After updating your drivers, restart your computer and try to resume your download to check if the download progress goes fast now.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 5: Clear download cache
 
  Clearing your download cache can solve problems with game’s slow download speed or other download issues. This process will not affect your currently installed games, but you’ll need to log into Steam afterwards. Here’s how you can do this:
 
  1) From your Steam Client, open the Settings panel by selecting**Steam** \>**Settings** from the top left client menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
  2) In the Settings panel, select the**Downloads** tab and you’ll find the**CLEAR DOWNLOAD CACHE** button at the bottom. Simply click on it.  
@@ -156,24 +154,19 @@ Here’s how it works:
 ---
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h5uImbOWmTg?si=z4kP-R0QbXbBAJTa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 6: Set a bandwidth limit
 
  If you notice connection problems during Steam downloads, or want to limit how much bandwidth Steam can use, take these steps:
 
  1) From your Steam Client, open the Settings panel by selecting**Steam** \>**Settings** from the top left client menu.  
   
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam go to settings](https://images.drivereasy.com/wp-content/uploads/2020/12/change-the-download-server-location.jpg)
 
  2) In the Settings panel, select the**Downloads** tab. Then in the**Download Restrictions** section, enter a new value to the box. Once done, simply click**APPLY** to apply the changes.  
   
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![set Steam download speed limit](https://images.drivereasy.com/wp-content/uploads/2020/12/set-download-speed-llimit.jpg)
 
 Now you should be able to download your game at a faster speed.
@@ -188,8 +181,6 @@ Now you should be able to download your game at a faster speed.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +188,20 @@ Now you should be able to download your game at a faster speed.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-amplify-reach-todays-most-effective-instagram-tag-strategies/"><u>[New] 2024 Approved Amplify Reach Today's Most Effective Instagram Tag Strategies</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-navigating-the-maze-of-fs-mode-in-ppro/"><u>[New] Navigating the Maze of FS Mode in PPro</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-11-superior-sound-recording-tools-of-the-year/"><u>[Updated] In 2024, 11 Superior Sound Recording Tools of the Year</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-the-essential-list-of-20-budget-friendly-1tbplus-cloud-space-providers-for-2024/"><u>[Updated] The Essential List of 20 Budget-Friendly, 1TB+ Cloud Space Providers for 2024</u></a></li>
+<li><a href="https://extra-information.techidaily.com/2024-approved-blending-beats-into-bits-the-sound-savvy-image/"><u>2024 Approved Blending Beats Into Bits The Sound-Savvy Image</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-keeping-star-wars-battlefront-ii-running-smoothly-on-pc/"><u>Effective Fixes: Keeping Star Wars Battlefront II Running Smoothly on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-resolving-minecraft-setup-problems-in-windows-11-computers/"><u>Expert Tips for Resolving Minecraft Setup Problems in Windows 11 Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-game-preventing-and-resolving-tales-of-arise-system-crashes/"><u>Mastering the Game: Preventing and Resolving 'Tales of Arise' System Crashes</u></a></li>
+<li><a href="https://change-location.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-samsung-galaxy-s21-fe-5g-2023-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Samsung Galaxy S21 FE 5G (2023)? | Dr.fone</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/simple-steps-to-document-online-meetings-on-os-xwindows-for-2024/"><u>Simple Steps to Document Online Meetings on OS X/Windows for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-the-mystery-of-persistent-darkness-on-discord-during-live-streaming-explained/"><u>SOLVED: The Mystery of Persistent Darkness on Discord During Live Streaming Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-issues-troubleshooting-when-amd-radeon-software-wont-launch/"><u>Solving Issues: Troubleshooting When AMD Radeon Software Won't Launch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlock-the-secrets-to-reviving-a-stalled-pacifica-drive-with-simple-fixes/"><u>Unlock the Secrets to Reviving a Stalled Pacifica Drive with Simple Fixes</u></a></li>
+</ul></div>
 

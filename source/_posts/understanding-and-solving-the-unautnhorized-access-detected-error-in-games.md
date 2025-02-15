@@ -1,7 +1,7 @@
 ---
 title: Understanding & Solving the 'Unautnhorized Access Detected' Error in Games
-date: 2024-08-18T17:59:44.513Z
-updated: 2024-08-19T17:59:44.513Z
+date: 2025-02-13T18:05:12.092Z
+updated: 2025-02-14T21:25:39.084Z
 tags:
   - win11
   - win10
@@ -15,16 +15,14 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
 
 ## Pinpointing & Correcting the Causes of Excessive Latency in 'Back 4 Blood' - Fixed
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_11-34-12.png)
 
  Back 4 Blood’s finally here! Players have been enjoying the game during beta, but many also reported some issues causing poor game performance. One of the returning issues in Back 4 Blood seems to be the**high ping and constant lag spikes** . If you also experience similar problems, no worries. We’ve prepared a few fixes for you to try!
 
 <!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/epKTCSREjhI?si=Ez_hObK1FZrmEE7f" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Try these fixes…
 
 [1: Check the server status](https://tools.techidaily.com/drivereasy/download/)
@@ -41,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Check the server status
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
@@ -66,14 +61,13 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
  To stop the programs from running in the background and hogging your bandwidth, you can:
 
 1. Right-click your taskbar, then click**Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
+
 <!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/QPAKth3O_5c?si=3YDfzJAZMDp1gFRz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
@@ -102,8 +96,9 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5EKBEujWCw4?si=PwVvvervi8OrYaEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 5: Check your DNS settings
 
  Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
@@ -122,14 +117,21 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
+
 <!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/M5pwd2mwaQQ?si=qyZHgdTlbQbc32Mp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
 
 <!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ### 2: Switch to a public DNS server
 
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example, since it may improve your ping. Here’s how:
@@ -139,20 +141,18 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
 2. Click **Change adapter options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/td3ojuzhloY?si=N_maQNiJWrJp7XZl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
 ## Bonus tip: try with a VPN
@@ -178,8 +178,6 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +185,24 @@ thumbnail: https://thmb.techidaily.com/6db3345e6b05b14e1b02d624eebb2a2ce8b63469f
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-10-best-high-security-androidios-video-calling-tools-available-for-free-for-2024/"><u>[Updated] 10 Best High-Security Android/iOS Video Calling Tools Available for Free for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-the-art-of-soft-ending-sounds-in-premiere-pro/"><u>[Updated] 2024 Approved The Art of Soft-Ending Sounds in Premiere Pro</u></a></li>
+<li><a href="https://some-skills.techidaily.com/updated-top-tech-savvy-apps-for-artful-picture-presentation/"><u>[Updated] Top Tech-Savvy Apps for Artful Picture Presentation</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-instant-guide-setup-snapchat-for-mac-users/"><u>2024 Approved Instant Guide Setup Snapchat for Mac Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cod-modern-warfare-expert-advice-on-avoiding-frequent-crashes/"><u>Cod: Modern Warfare - Expert Advice on Avoiding Frequent Crashes</u></a></li>
+<li><a href="https://games-able.techidaily.com/cooling-regime-customization-for-extreme-graphics-performance/"><u>Cooling Regime Customization for Extreme Graphics Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-solve-your-borderlands-3-unable-to-launch-dilemma-today/"><u>Expert Advice: Solve Your Borderlands 3 Unable-to-Launch Dilemma Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-getting-your-among-us-voice-chat-running-smoothly-again-windows-users/"><u>Expert Tips for Getting Your Among Us Voice Chat Running Smoothly Again (Windows Users)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006744016-fast-track-your-browser-swift-solutions-for-a-speedy-chrome/"><u>Fast Track Your Browser: Swift Solutions for a Speedy Chrome!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-issues-with-a-non-responsive-alienware-command-center-interface/"><u>Fixing Issues with a Non-Responsive Alienware Command Center Interface</u></a></li>
+<li><a href="https://win-blog.techidaily.com/genshin-impact-pc-woes-discover-solutions-to-end-the-games-frustrating-crashes/"><u>Genshin Impact PC Woes? Discover Solutions to End the Game's Frustrating Crashes</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-infinix-hot-30-5g-to-outlook-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Infinix Hot 30 5G to Outlook | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-apple-id-locked-or-disabled-from-apple-iphone-13-pro-max-7-mehtods-you-cant-miss-by-drfone-ios/"><u>In 2024, Apple ID Locked or Disabled From Apple iPhone 13 Pro Max? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-interactive-lessons-expert-video-editing-for-classroom/"><u>In 2024, Interactive Lessons Expert Video Editing for Classroom</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/new-experience-the-future-of-video-top-10-4k-samples-for-2024/"><u>New Experience the Future of Video Top 10 4K Samples for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/starfield-sound-problems-how-we-overcame-skipping-crackling-noise/"><u>Starfield Sound Problems - How We Overcame Skipping, Crackling Noise</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-palworld-solutions-for-game-failure-at-startup/"><u>Troubleshooting Palworld: Solutions for Game Failure at Startup</u></a></li>
+</ul></div>
 

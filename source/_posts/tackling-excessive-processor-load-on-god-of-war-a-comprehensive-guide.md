@@ -1,7 +1,7 @@
 ---
 title: "Tackling Excessive Processor Load on God of War: A Comprehensive Guide"
-date: 2024-08-18T18:00:19.351Z
-updated: 2024-08-19T18:00:19.351Z
+date: 2025-02-12T08:35:30.609Z
+updated: 2025-02-15T05:22:04.495Z
 tags:
   - win11
   - win10
@@ -51,8 +51,9 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
  If you’ve checked your internet connection but the ping is still high, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 3: Close bandwidth-hogging programs
 
  You’re more likely to experience lag spikes and get a high ping in-game when other programs are hogging your bandwidth. If your browser is running with tons of tabs open or videos loading in the background, your connection will become very slow.
@@ -60,18 +61,20 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
  To stop the programs from running in the background and hogging your bandwidth, you can:
 
 1. Right-click your taskbar, then click**Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-29-08.jpg)
 2. Under the**Processes** tab, look for the processes that are network-hogging. Select it then click**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/close-bandwidth-hogging-program.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gOyLy8DeizY?si=GkAmK0hChZw6_2tW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## Fix 4: Update network driver
 
  An outdated or faulty network driver may cause connection problems. For example, it could affect the stability of game performance and therefore you may experience extreme lags. It’s important to make sure your network driver is up-to-date and functioning properly. If not, you would need to install the latest version.
@@ -84,9 +87,6 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
 
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
  3) Click the **Update**  button next to the flagged network driver to automatically download the correct version of the drivers, then you can manually install them (you can do this with the FREE version).
@@ -106,23 +106,19 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1: Flush your DNS
 
  The action of flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the address from the DNS server every time it needs to access a new website. This may solve the lagging issue in Back 4 Blood if it’s triggered by invalid or corrupt DNS cache data. Here’s how to do it:
 
 1. Press the **Windows logo key** and **R** on your keyboard to invoke the Run box.
 2. Type **cmd** , then press **Shift** and **Enter** at the same time. If prompted for permission, click **Yes** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/run-cmd.png)
 3. Copy **ipconfig /flushdns** , and paste it in the pop-up window. Then press **Enter** .  
+
 <!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0OxkndZbIA4?si=TWJlkTbYKsVag8-q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/flushdns???.png)
 4. Your DNS cache is successfully cleared.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/Snipaste_2021-06-01_10-06-54.png)
@@ -132,29 +128,32 @@ thumbnail: https://thmb.techidaily.com/f60b5cb5d31f0db6c00b1faa5bbb82ce655e5c5fa
  We also recommend using a public DNS server to test the issue. Here we’ll use the Google DNS server as an example, since it may improve your ping. Here’s how:
 
 1. On your taskbar, right-click the **network icon** , then click **Open Network & Internet settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  **Preferred DNS server: 8.8.8.8**  
  **Alternate DNS server: 8.8.4.4**  
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Bonus tip: try with a VPN
 
@@ -179,8 +178,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -188,4 +185,22 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-beyond-xboxs-game-bar-top-video-recorders/"><u>[New] 2024 Approved Beyond Xbox's Game Bar Top Video Recorders</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-ultimate-guide-optimal-sub-to-srt-conversion-with-top-8-tools-for-2024/"><u>[New] Ultimate Guide Optimal Sub to Srt Conversion with Top 8 Tools for 2024</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/updated-behind-the-scenes-how-to-create-youtube-trailers-in-filmora/"><u>[Updated] Behind the Scenes How-To Create YouTube Trailers in Filmora</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/ed-what-is-the-best-video-format-for-youtube-for-2024/"><u>[Updated] What Is the Best Video Format for YouTube for 2024</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/conversion-gratuita-de-archivos-mp4-a-ogv-en-linea-con-convertidor-movavi/"><u>Conversión Gratuita De Archivos MP4 a OGV en Línea Con Convertidor Movavi</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-resolving-black-screen-issues-for-persona-5-strikers-gamers/"><u>Expert Advice on Resolving Black Screen Issues for Persona 5 Strikers Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-for-a-seamless-jurassic-world-evolution-gaming-experience-no-more-crashes/"><u>Expert Tips for a Seamless Jurassic World Evolution Gaming Experience - No More Crashes!</u></a></li>
+<li><a href="https://win-answers.techidaily.com/how-to-fix-the-2024-black-screen-bug-in-call-of-duty-warzone-expert-advice/"><u>How to Fix the 2024 Black Screen Bug in Call of Duty: Warzone - Expert Advice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-smooth-gameplay-in-eldn-ring-swift-solutions-for-frame-rate-drop-offs-and-hiccups/"><u>Mastering Smooth Gameplay in Eldn Ring: Swift Solutions for Frame Rate Drop-Offs & Hiccups</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimize-gameplay-in-grand-theft-auto-v-by-fixing-stutter-and-lag-issues/"><u>Optimize Gameplay in Grand Theft Auto V by Fixing Stutter and Lag Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-fortnite-lag-woes-with-these-proven-techniques/"><u>Solve Your Fortnite Lag Woes with These Proven Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-palworld-session-search-issues-a-comprehensive-guide/"><u>Solving Palworld Session Search Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/successfully-fixed-access-your-origin-profile-again/"><u>Successfully Fixed: Access Your Origin Profile Again</u></a></li>
+<li><a href="https://common-error.techidaily.com/troubleshooting-the-0x80240034-glitch-in-windows-11-updates-effective-strategies-for-success/"><u>Troubleshooting the 0X80240034 Glitch in Windows 11 Updates – Effective Strategies for Success</u></a></li>
+<li><a href="https://techidaily.com/undeleted-lost-videos-from-sony-xperia-1-v-by-fonelab-android-recover-video/"><u>Undeleted lost videos from Sony Xperia 1 V</u></a></li>
+</ul></div>
 

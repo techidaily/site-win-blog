@@ -1,7 +1,7 @@
 ---
 title: Minecraft Dungeon PC Crash Problems? Here's How to Stabilize Your Game
-date: 2024-08-18T17:58:24.162Z
-updated: 2024-08-19T17:58:24.162Z
+date: 2025-02-08T17:18:31.663Z
+updated: 2025-02-15T02:57:41.136Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/445acff3cb96c7fdb86bf94a45c03c504df7c348a
 
 Hearthstone keeps crashing on startup or during a match? Making like a thousand attempts to relaunch it but it ends up not responding or shutting down? If you’re in the same situation, don’t panic. This post is going to help you with the irritating Hearthstone crashing on PC.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Before getting started
 
  Before you begin troubleshooting, make sure your computer meets the minimum system requirements to launch Hearthstone. If it doesn’t, you have to run Hearthstone on another computer or upgrade your PC.
@@ -29,6 +33,10 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 | **Storage**          | 3 GB available HD space                                      |
 
  After confirming your computer meets the minimum specs, you can move on towards the fixes below.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Fixes to try
 
@@ -45,8 +53,9 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 7. **[Reinstall Hearthstone](https://tools.techidaily.com/drivereasy/download/)**
 
 <!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RhLjZsruC9M?si=-861oUSfrUde2Ykt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 1 – Run Hearthstone as administrator
 
  Windows runs Hearthstone in user mode by default, but that might keep it from accessing certain files and cause the crashes. To see if that’s the case, you could run Hearthstone as administrator and relaunch the game.
@@ -63,14 +72,6 @@ Hearthstone keeps crashing on startup or during a match? Making like a thousand 
 
 ---
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  An old, incompatible or faulty graphics driver will result in various gaming problems such as lagging, freezing and crashing. So if you’re an avid gamer and look forward to the smooth gameplay of Hearthstone, you should keep your GPU driver up to date at all times.
@@ -91,9 +92,6 @@ There are two ways you can update the graphics driver:
 
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/7-2.jpg)
 
  You could do it for free if you like, but it’s partly manual.
@@ -113,10 +111,11 @@ There are two ways you can update the graphics driver:
 
 **2)** Click**Options** and click**Scan and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/2-1-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Begin Scan** .
 
@@ -126,9 +125,6 @@ There are two ways you can update the graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Temporarily disable the anti-virus programs
 
  Sometimes the third-party anti-virus programs will interfere with Hearthstone and prevent it from launching or running. Temporarily**disable any anti-virus programs** you’re using to determine if it’s the cause.
@@ -141,23 +137,21 @@ There are two ways you can update the graphics driver:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Delete the Hearthstone folder
 
  Many users managed to start Hearthstone normally by deleting the Hearthstone folder. Here’s how:
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**%localappdata%\\blizzard** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-1-4.jpg)
 
 **2)** Right click the Hearthstone folder and click**Delete** , or just move it to another location.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/8-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJlICvacgJY?si=jNeijBVj7ia4ammA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Relaunch Hearthstone to see if you get rid of the crashing issue. If not, keep reading the next fix.
 
@@ -169,9 +163,6 @@ There are two ways you can update the graphics driver:
 
 **1)** Type**system configuration** in the search bar, and click**System Configuration** .
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-1-4.jpg)
 
 **2)** Select the**Services** tab. Then, check**Hide all Microsoft services** , and click**Disable all** .
@@ -186,17 +177,15 @@ There are two ways you can update the graphics driver:
 
 **4)** Select the**Startup** tab. Then, right click each enabled startup item and click**Disable** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-4.jpg)
 
 **5)** Go back to the System Configuration window, and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4694919&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/jutoh-logo-1200x1600.jpg" border="0">Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/4-2-3-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **6)** Click**Restart** .
 
@@ -216,18 +205,25 @@ There are two ways you can update the graphics driver:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-2-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gSKkJrJ57EA?si=WDOmInPE9EgQa_tB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **3)** Click**Restart** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/9-3.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Your computer will start normally after you finish this step. If the crashing issue persists, we’ve got a last fix for you.
 
 ---
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Fix 7 – Reinstall Hearthstone
 
@@ -235,16 +231,10 @@ The powerful video editing program for your Windows PC</a>
 
 **1)** Run Hearthstone. Then, click**Options** and click**Uninstall Game** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-1-2.jpg)
 
 **2)** Select**Yes, Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/07/6-2-1.jpg)
 
 **3)** Download the latest version of Hearthstone and double click the downloaded file to install it.
@@ -263,8 +253,6 @@ The powerful video editing program for your Windows PC</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -272,4 +260,26 @@ The powerful video editing program for your Windows PC</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-in-2024-finding-the-ideal-format-for-your-youtube-videos/"><u>[New] In 2024, Finding the Ideal Format for Your YouTube Videos</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-facebook-streaming-made-simple-tips-for-android-and-iphones/"><u>[Updated] 2024 Approved Facebook Streaming Made Simple Tips for Android & iPhones</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-staying-ahead-with-tiktoks-freshest-sensations-for-2024/"><u>[Updated] Staying Ahead with TikTok's Freshest Sensations for 2024</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/updated-thrifty-flyers-guide-5-drones-for-under-100/"><u>[Updated] Thrifty Flyers' Guide 5 Drones for Under $100</u></a></li>
+<li><a href="https://apple-account.techidaily.com/apple-id-locked-or-disabled-on-iphone-8-7-mehtods-you-cant-miss-by-drfone-ios/"><u>Apple ID Locked or Disabled On iPhone 8? 7 Mehtods You Cant-Miss</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996602110-assassins-creed-odyssey-freezing-on-pc-2024-fix/"><u>Assassin’s Creed Odyssey Freezing on PC – 2024 Fix</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-fixing-the-drop-in-fps-on-forza-horizon-5-solved/"><u>Boost Your Frame Rate: Fixing the Drop in FPS on Forza Horizon 5 [Solved]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-recurring-pc-problems-when-playing-minecraft-dungeons-tips-and-solutions/"><u>Fixing Recurring PC Problems When Playing Minecraft Dungeons: Tips & Solutions</u></a></li>
+<li><a href="https://discover-bits.techidaily.com/guia-de-solucion-al-problema-irqlnotlessorequal-en-la-version-11-de-windows-pasos-detallados-para-usuarios-tecnicos-y-no-tecnicos/"><u>Guía De Solución Al Problema IRQL_NOT_LESS_OR_EQUAL en La Versión 11 De Windows: Pasos Detallados Para Usuarios Técnicos Y No Técnicos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-correcting-fifa-2n-directx-troubles-for-uninterrupted-gaming-experience/"><u>Guide to Correcting FIFA 2N DirectX Troubles for Uninterrupted Gaming Experience</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/guidelines-for-selecting-your-next-virtual-reality-headset/"><u>Guidelines for Selecting Your Next Virtual Reality Headset</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/how-is-an-mp3-file-converted-methods-on-pc-mobile-devices-and-online-platforms/"><u>How Is an MP3 File Converted: Methods on PC, Mobile Devices & Online Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-persistent-pc-freezing-issues-in-the-witcher-3/"><u>How to Resolve Persistent PC Freezing Issues in The Witcher 3</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723014078967-quick-guide-to-achieving-higher-fps-on-apex-legends-top-6-strategies-inside/"><u>Quick Guide to Achieving Higher FPS on Apex Legends - Top 6 Strategies Inside!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reviving-soundscapes-fixing-your-pcs-silent-fallout-4-experience/"><u>Reviving Soundscapes: Fixing Your PC’s Silent Fallout 4 Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-fix-how-to-resolve-ongoing-issues-with-the-finals-game-on-desktop-computers/"><u>The Ultimate Fix: How to Resolve Ongoing Issues with The Finals Game on Desktop Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-dragon-age-origins-freezing-issue-on-win-10-computers/"><u>Troubleshoot Dragon Age: Origins Freezing Issue on Win 10 Computers</u></a></li>
+<li><a href="https://techtrends.techidaily.com/unlock-the-secrets-of-my-go-to-spots-for-online-music-video-playbacks/"><u>Unlock the Secrets of My Go-To Spots for Online Music Video Playbacks</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unraveling-the-world-of-computing-tech-with-toms-hardware-expertise/"><u>Unraveling the World of Computing Tech with Tom's Hardware Expertise</u></a></li>
+</ul></div>
 

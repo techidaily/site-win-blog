@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Madden NFL 20 PC Malfunctions: Easy Fixes to Try Now"
-date: 2024-08-18T17:59:29.194Z
-updated: 2024-08-19T17:59:29.194Z
+date: 2025-02-13T00:19:52.684Z
+updated: 2025-02-14T21:02:28.518Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/4e313b1018e0c2499cbd20182728d1887cb747f9b
 
  As one of the most popular football video game titles, Madden NFL 22 is finally here. However, many players have been complaining about Madden 22 not working on PC. If you happen to be on the same boat, don’t worry. We’ve rounded up all the fixes for you to solve the glitch easily and quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all. Simply work your way down the list until you find the one that works for you.
@@ -48,8 +45,9 @@ Here are the minimum requirements for Madden NFL 22:
  If your computer specs are more than enough to run the game, the cause may be related to device drivers, antivirus or something else. Read on to more solutions below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=174416&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.easygifanimator.net/images/gif-animator.png" border="0">Easy GIF Animator is a powerful animated GIF editor and the top tool for creating animated pictures, banners, buttons and GIF videos. You get extensive animation editing features, animation effects, unmatched image quality and optimization for the web. No other GIF animation software matches our features and ease of use, that's why Easy GIF Animator is so popular.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2 – Update your device drivers
 
  The Madden 22 not working issue may be caused by the faulty or outdated device drivers on your computer. If you haven’t updated your device drivers for a long time, definitely do it now as it will guarantee you a smooth and pleasant gaming experience.
@@ -62,21 +60,19 @@ There are mainly two ways to update your drivers:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/de-borderless.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). Or you can click the**Update** button to update certain driver you want.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/update-all-de.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **The Pro version of Driver Easy** comes with full technical support.  
  If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
  Relaunch Madden 22 to see if the driver update does the trick. If not, check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Fix 3 – Run the game as an administrator
 
  Madden 22 may fail to work with no administrator rights given. A simple trick is to run the game as an administrator. Here are the steps:
@@ -84,9 +80,6 @@ There are mainly two ways to update your drivers:
 1. Go to the Madden 22 installation folder. Then click the executable file and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 2. Select the**Compatibility** tab. Tick**Run this program as an administrator** and click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-2.jpg)
 
 See if the issue persists. If yes, continue to the next solution.
@@ -100,31 +93,34 @@ See if the issue persists. If yes, continue to the next solution.
 1. Launch your Steam client and select the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-game-files-steam.jpg)
 2. Right-click Madden 22 from the list and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/verify-1.jpg)
 3. Navigate to the**Local Files** tab and click**Verify integrity of game files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/steam-verify-game-files-1.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  It may take a few minutes for the process to complete. Upon completion, check whether you can play the game normally. If not, proceed to **[Fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
 
 #### On Epic Games Launcher
 
 1. Open Epic Games launcher and select the**Library** tab in the left pane.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3-1.jpg)
 2. Locate the Madden NFL 22 title and click the icon with three dots next to it. Then click**Verify** .  
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jvwX82j3ci0?si=gAWoovjXgs3m1d7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/epic-2-2.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  After the process finishes, restart Madden 22 to test the issue. If it’s still not working, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Temporarily disable your antivirus
 
  If you’ve installed antivirus programs to protect your computer from potential threats, they can sometimes be overprotective and mistakenly block your games like Madden 22 from working.
@@ -154,8 +150,6 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +157,21 @@ See if the issue persists. If yes, continue to the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-docs.techidaily.com/ed-essential-illumination-products-for-video-creators-for-2024/"><u>[Updated] Essential Illumination Products for Video Creators for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-maximizing-collaboration-zoom-session-setup-and-management-for-2024/"><u>[Updated] Maximizing Collaboration Zoom Session Setup and Management for 2024</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/updated-seamless-cutting-techniques-5-top-tips-to-trim-and-edit-vimeo-videos-flawlessly-for-2024/"><u>[Updated] Seamless Cutting Techniques 5 Top Tips to Trim & Edit Vimeo Videos Flawlessly for 2024</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/complete-guide-on-unlocking-apple-iphone-7-plus-with-a-broken-screen-drfone-by-drfone-ios/"><u>Complete Guide on Unlocking Apple iPhone 7 Plus with a Broken Screen? | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/exclusive-insights-to-scarlet-and-violets-rare-finds-92/"><u>Exclusive Insights to Scarlet & Violet's Rare Finds (92)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/gtfo-gameplay-enhancements-to-address-latency-drops-stuttering-frames-and-overall-performance-boosts/"><u>GTFO Gameplay Enhancements to Address Latency Drops, Stuttering Frames, and Overall Performance Boosts</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-is-gsm-flasher-adb-legit-full-review-to-bypass-your-vivo-y100-5g-phone-frp-lock-by-drfone-android/"><u>In 2024, Is GSM Flasher ADB Legit? Full Review To Bypass Your Vivo Y100 5G Phone FRP Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-solutions-to-unlocking-your-game-of-maplestory-seamlessly/"><u>Master the Solutions to Unlocking Your Game of MapleStory Seamlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-graphic-drivers-issues-in-the-latest-forza-horizon-5-patch/"><u>Resolving Graphic Drivers Issues in the Latest Forza Horizon 5 Patch</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/1721992548306-speak-up-your-guide-to-interacting-with-chatgpt-awaits/"><u>Speak Up! Your Guide to Interacting With ChatGPT Awaits.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-8-reliable-solutions-to-stop-vrchat-from-failing-on-your-computer/"><u>Top 8 Reliable Solutions to Stop VRChat From Failing on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-complete-how-to-fix-persistent-black-screen-dilemma/"><u>Troubleshooting Complete: How To Fix Persistent Black Screen Dilemma</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-optimizing-tiny-tinas-wonderland-game-on-desktop-systems/"><u>Troubleshooting Guide for Optimizing Tiny Tina's Wonderland Game on Desktop Systems</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/ultimate-mod-mp4-conversion-tool-transform-video-formats-instantly-and-for-free-movavi/"><u>Ultimate MOD-MP4 Conversion Tool - Transform Video Formats Instantly and For Free (Movavi)</u></a></li>
+</ul></div>
 

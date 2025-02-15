@@ -1,7 +1,7 @@
 ---
 title: "Overcoming Overwatch Glitches: Fixing Persistent Game Freezes"
-date: 2024-08-18T17:59:57.423Z
-updated: 2024-08-19T17:59:57.423Z
+date: 2025-02-11T03:30:03.133Z
+updated: 2025-02-15T07:37:18.915Z
 tags:
   - win11
   - win10
@@ -17,6 +17,10 @@ thumbnail: https://thmb.techidaily.com/26dcef27c207b8605e3fcf4585ee0822110eeb8a7
 
 Spend a weekend playing World of Warcraft on your computer but there’s brightness flickering on the loading screen and while in the world, it could be frustrating. Don’t worry, you’re not the only one. This post is here to help.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Try these fixes
 
 1. [Check the cable](https://tools.techidaily.com/drivereasy/download/)
@@ -31,9 +35,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
  If possible, test the cable on another computer and see if the problem also occurs to another computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ### Method 2: Update graphics card driver
 
  Because the WOW screen flickering issue is related to the graphic card driver directly, updating your graphic driver is a way to fix the issue. You might update your graphic driver through Windows Update, however, **many drivers are used while gaming and most of them won’t be updated regularly with your Windows Update.**  So, the outdated or corrupted driver could be the culprit for crashing, lagging, or flickering issues.
@@ -44,9 +45,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update audio driver driver easy](https://images.drivereasy.com/wp-content/uploads/2021/02/de-borderless.jpg)
 3. Click the **Update**  button next to the driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -57,9 +55,6 @@ Spend a weekend playing World of Warcraft on your computer but there’s brightn
 
 Restart your computer for the changes to take effect.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=36245101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/zang_box_trust.png" border="0">ZoneAlarm Extreme Security NextGen</a>
-<!-- affiliate ads end -->
 ### Method 3: Rolling back your driver
 
  If updating the driver doesn’t work for you, you may need to try this fix, especially when you’re an NVIDIA user. Some users figured out the issue was related to NVIDIA drivers, if the latest driver doesn’t fix the flickering issue, rolling back to an older version of the driver would work. Though it could cause serious loss of optimization for other games and applications.
@@ -67,20 +62,23 @@ Restart your computer for the changes to take effect.
 1. Go to[NVIDIA driver page](https://tools.techidaily.com/drivereasy/download/) .
 2. Find a older version of the driver and download it.
 3. Right-click on the Start button and select**Device Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-34-32.jpg)
 4. Click**Display adapters** and right-click on your GPU.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1rCjQ09iG7s?si=Si1fUBric8MH1VHI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 5. Choose**Properties** . Head to the**Driver** tab and click**Roll Back Driver** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/roll-back-driver-1.jpg)
 6. Install the driver and reboot your PC.
-7. Check the issue is persist or not.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4qA2pGQ5qmw?si=1mAA9WTi2Z5F7n6s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
+7. Check the issue is persist or not.
+
 ### Method 4: Change the screen refresh rate
 
  Change the screen refresh rate may fix the WOW screen flickering issue. Some users find lower your refresh rate from 144 to 120 or 100 can fix the issue, others think a low refresh rate is the culprit of the issue. You can change the rate as you like and see if the issue is resolved.
@@ -90,15 +88,13 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 2. Scroll down to find**Advanced display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-43-07.jpg)
 3. Click **Display adapter properties** .  
+
 <!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/E3yY7lZ-FKA?si=g8VEuExP8GH59B69" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-09.jpg)
 4. Head to the **Monitor** tab, change the Screen refresh rate as you like.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/2021-08-19_9-44-14.jpg)
 5. Click **Apply** \> **OK** to save the changes.
 6. Restart your computer and check to see if the problem resolves.
@@ -111,6 +107,11 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 2. Click on the **Compatibility**  tab and select **Disable fullscreen optimizations** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-fullscreen-optimizations.jpg)
 3. Click **Apply**  \> **OK**  to save the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 4. Restart your computer and check to see if the problem still persists.
 
 ---
@@ -123,8 +124,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -132,4 +131,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-help.techidaily.com/new-expand-access-to-creative-works-pick-from-the-best-free-youtube-shorts-downloader-apps/"><u>[New] Expand Access to Creative Works Pick From the Best Free YouTube Shorts Downloader Apps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/new-in-2024-transform-screen-shots-to-videos-mastery-in-aiseesofts-screencast-tools/"><u>[New] In 2024, Transform Screen Shots to Videos Mastery in Aiseesoft's Screencast Tools</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-adding-time-stamps-to-pictures-step-by-step-tutorial/"><u>2024 Approved Adding Time Stamps to Pictures Step-by-Step Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-left-4-dead-2-game-breaking-closes-with-easy-fixes/"><u>Banish Left 4 Dead 2 Game-Breaking Closes with Easy Fixes!</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/comparing-e-readers-and-tablets-the-key-differences-between-kindle-and-fire/"><u>Comparing E-Readers and Tablets: The Key Differences Between Kindle and Fire</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-playing-your-favorite-steam-games-on-windows-11/"><u>Effective Solutions for Playing Your Favorite Steam Games on Windows 11</u></a></li>
+<li><a href="https://games-able.techidaily.com/eliminating-error-components-not-found-windows/"><u>Eliminating Error: Components Not Found Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-seamless-gaming-overcoming-common-roblox-launch-glitches/"><u>Experience Seamless Gaming: Overcoming Common Roblox Launch Glitches</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/groundbreaking-github-guides-to-optimal-chatgpt-use/"><u>Groundbreaking GitHub Guides to Optimal ChatGPT Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-roblox-not-launching-2022-tips/"><u>How To Fix Roblox Not Launching [2022 Tips]</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-recover-iphone-14-plus-data-from-icloud-drfone-by-drfone-ios-data-recovery-ios-data-recovery/"><u>How To Recover iPhone 14 Plus Data From iCloud? | Dr.fone</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-4-things-you-must-know-about-iphone-15-pro-activation-lock-by-drfone-ios/"><u>In 2024, 4 Things You Must Know About iPhone 15 Pro Activation Lock</u></a></li>
+<li><a href="https://ios-unlock.techidaily.com/in-2024-how-to-remove-and-reset-face-id-on-apple-iphone-7-by-drfone-ios/"><u>In 2024, How to Remove and Reset Face ID on Apple iPhone 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-re4-remake-strategies-to-stabilize-and-avoid-sudden-crashes/"><u>Master the RE4 Remake: Strategies to Stabilize and Avoid Sudden Crashes</u></a></li>
+<li><a href="https://video-content-creator.techidaily.com/new-in-2024-rip-and-convert-a-step-by-step-guide-to-digitizing-your-dvds/"><u>New In 2024, Rip & Convert A Step-by-Step Guide to Digitizing Your DVDs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-how-to-achieve-higher-fps-in-the-world-of-ring-of-elysium/"><u>Optimizing Performance: How to Achieve Higher FPS in the World of Ring of Elysium</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pacific-drive-stability-fixes-how-to-prevent-your-pc-game-from-suddenly-freezing/"><u>Pacific Drive Stability Fixes: How to Prevent Your PC Game From Suddenly Freezing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-2024-days-gone-system-errors-successfully/"><u>Troubleshooting and Resolving 2024 'Days Gone' System Errors Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-eliminating-freezes-in-borderlands-3/"><u>Ultimate Troubleshooting Guide: Eliminating Freezes in Borderlands 3</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Fix the Steam Corrupt Disk Glitch with These Simple Strategies
-date: 2024-08-18T17:59:11.096Z
-updated: 2024-08-19T17:59:11.096Z
+date: 2025-02-09T01:00:28.702Z
+updated: 2025-02-15T07:16:22.118Z
 tags:
   - win11
   - win10
@@ -22,8 +22,9 @@ Game crashing issues can really ruin a playful experience.
 But the good news is that you can fix it. Here are 8 solutions to try.
 
 <!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ## 8 simple fixes to try
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -58,27 +59,26 @@ Follow the instructions below to view your computer hardware information:
 
 **2)** Type**dxdiag** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-28.jpg)
 
 **3)**  Check your **operating system, processor, and memory** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-32.jpg)
 
 **4)**  Click the **Display** tab, and then check your graphics card’s information.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-37.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Make sure your system specs meet the requirements, then move on and try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 2: Run the game as an administrator
 
  Certain game files on your PC may require administrative access before using. If you’re running the game under normal user mode, it might not be able to access some files and crashes.
@@ -89,12 +89,17 @@ Follow the instructions below to view your computer hardware information:
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-42.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **2)** Right-click the**Steam icon** and select**Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-11-20.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Xa2_mFu-obA?si=_xDGF1pv-dnuaDOr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **3)** Click**Yes** .
 
@@ -104,9 +109,6 @@ Follow the instructions below to view your computer hardware information:
 
 If your issue persists, go ahead with the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Disable your antivirus temporarily
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -118,14 +120,9 @@ If your issue persists, go ahead with the next fix.
 If this didn’t work for you, try the fix below.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/omWG4u39lmE?si=yk1AEo_gzDpGjYbl" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 4: Verify the integrity of game files
 
  If Mordhau still won’t launch properly or crashes every now and then, try verifying the integrity of game files to see if any files are damaged or missing. Here is how to do it:
@@ -149,8 +146,9 @@ If this didn’t work for you, try the fix below.
 If Mordhau is still crashing, move on and check the fix, below.
 
 <!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/it8VkxDUdAc?si=ef6VZWR7kW4P9ikh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
+
 ### Fix 5: Update your graphics driver
 
  Having the latest correct graphics driver can help you get the best performance out of your hardware and fix common game issues such as game crash, lag, or abnormal display.
@@ -188,23 +186,14 @@ If your problem persists, move on to Fix 6.
 
 **1)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-38.jpg)
 
 **2)** Under **View by,** click **Large icons** .
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-46.jpg)
 
 **3)** Select **Power Options.**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2019/10/Project-Manager-version-3-1600x900-768x419.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-54.jpg)
 
 **4)** Select **High Performance** .
@@ -213,9 +202,6 @@ If your problem persists, move on to Fix 6.
  **Balanced** : Balanced automatically adjust your CPU’s speed according to your computer’s need.  
 **High Performance** : High Performance mode keeps your PC running at high speeds most of the time. Your computer will generate more heat under this mode.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-47-59-1.jpg)
 
 **5)** Restart your computer and Mordhau to test your issue.
@@ -242,40 +228,33 @@ If your game is still unplayable, move on to the fix below.
 
 **4)** Click the**Advanced** tab, and then click**Change** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-17.jpg)
 
 **5)** Uncheck the box next to**Automatically manage paging file size for all drives** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-22.jpg)
 
 **6)** Click your**C drive** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-29.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **7)** Click the option button next to**Custom size** , and then type**4096** in the text box next to**Initial size (MB)** and**Maximum size (MB)** .
 
  Microsoft recommends that you set your virtual memory three times the size of your physical memory (RAM) or 4 GB (4096M), whichever is larger. In most cases, setting your virtual memory as 4 GB is enough.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-34-1.jpg)
 
 **8)** Click**Set** , and then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-48-41.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qNrOsjUdRz0?si=xGzhmNmtgxNTsRxN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **9)** Restart your computer and Mordhau.
 
@@ -299,11 +278,12 @@ If your game is still unplayable, move on to the fix below.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_9-46-14-1.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wVVp-GggK3U?si=RJb1ClNQV7GjTu_3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **5)** Type**%LocalAppData%** , then press the**Enter key** on your keyboard.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-14_10-04-48.jpg)
 
 **6)** Right-click the**Mordhau folder** , then select**Delete** .
@@ -328,8 +308,6 @@ If your game is still unplayable, move on to the fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -337,4 +315,24 @@ If your game is still unplayable, move on to the fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-essential-hash-monitors-for-facebook-twitter-instagram/"><u>[New] 2024 Approved Essential Hash Monitors for Facebook, Twitter, Instagram</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-the-essential-tutorial-for-fb-video-production/"><u>[Updated] The Essential Tutorial for FB Video Production</u></a></li>
+<li><a href="https://some-skills.techidaily.com/bard-vs-chatgpt-showdown-determining-the-ultimate-ai-conversationalist/"><u>Bard Vs. ChatGPT Showdown: Determining the Ultimate AI Conversationalist</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-guide-what-to-do-if-you-cant-launch-avatar-frontiers-of-pandora/"><u>Fix Guide - What to Do If You Can’t Launch Avatar: Frontiers of Pandora</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-5-noise-issues-resolved-smooth-gameplay-experience/"><u>Grand Theft Auto 5 Noise Issues Resolved: Smooth Gameplay Experience</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/grasping-the-advantages-of-av1-in-video-coding-for-2024/"><u>Grasping the Advantages of AV1 in Video Coding for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/high-quality-action-recorders-12-enhanced-with-gps-navigation-for-2024/"><u>High-Quality Action Recorders 12, Enhanced with GPS Navigation for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-your-ark-scorched-earth-experience-with-proven-fps-optimization-strategies-for-pc-users/"><u>Improve Your ARK: Scorched Earth Experience with Proven FPS Optimization Strategies for PC Users</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-in-depth-review-dji-phantom-4-in-action/"><u>In 2024, In Depth Review DJI Phantom 4 in Action</u></a></li>
+<li><a href="https://facebook.techidaily.com/journalism-journey-extended-facebook-spends-5-million-amidst-rise-of-self-publishing/"><u>Journalism Journey Extended: Facebook Spends $5 Million Amidst Rise of Self-Publishing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009808735-no-more-mouse-troubles-in-resident-evil-village-heres-the-fix-you-need/"><u>No More Mouse Troubles in Resident Evil Village! Here's the Fix You Need</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-origin-application-failing-to-launch-on-windows-11-systems/"><u>Resolved: 'Origin' Application Failing to Launch on Windows 11 Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-stardew-valleys-persistent-pc-crashing-problem-easily/"><u>Solve Stardew Valley's Persistent PC Crashing Problem Easily</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/stepping-up-from-chatgpt-top-innovations/"><u>Stepping Up From ChatGPT: Top Innovations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-high-resource-use-by-wsappx-diagnosis-and-optimization-strategies/"><u>Tackling High Resource Use by WSAPPX: Diagnosis and Optimization Strategies</u></a></li>
+<li><a href="https://windows11.techidaily.com/troubleshooting-disabling-windows-lsa-security-signal/"><u>Troubleshooting: Disabling Windows LSA Security Signal</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-addressing-magic-the-gathering-digital-edition-black-screen-errors/"><u>Ultimate Guide: Addressing Magic: The Gathering Digital Edition Black Screen Errors</u></a></li>
+</ul></div>
 
