@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fix PC Crashes in Escape From Tarkov"
-date: 2024-08-18T18:05:23.492Z
-updated: 2024-08-19T18:05:23.492Z
+date: 2025-03-03T16:09:44.228Z
+updated: 2025-03-04T16:01:18.215Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/37cbd79bb1dc4f01076609d4f2040fc4f61e96fa4
 
 Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers have reported this problem. But the good news is, you can fix it. Here’re 9 known fixes for the Phasmophobia crashing issue. You may not need to try them all; just work your way down the list until you find the one that does the trick for you.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
 * [Fix 1: Restart your computer](https://tools.techidaily.com/drivereasy/download/)
@@ -46,9 +43,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 2) Right-click Phasmophobia and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam - how to verify integrity of game files](https://images.drivereasy.com/wp-content/uploads/2023/10/Steam-verify-integrity-of-game-files-properties.jpg)
 
  3) Under the**Installed Files** tab, click**Verify integrity of game files** .
@@ -59,9 +53,6 @@ Phasmophobia keeps crashing on your computer? You’re not alone. Many gamers ha
 
 If Phasmophobia still crashes, move on to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Delete corrupted game files
 
 Game crashing issues might happen when your game files are corrupted.
@@ -76,9 +67,6 @@ Game crashing issues might happen when your game files are corrupted.
 
 4) Delete everything except these:
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/2021-09-02_18-44-34.png)
 
 5) Relaunch the game to test the issue.
@@ -101,18 +89,6 @@ If the game still crashes, try the next fix below.
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<span id="1997795">
-					<video width="250" height="250" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/23621-1997795">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1997795.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:250px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fproteahair.pxf.io%2Fc%2F5597632%2F1997795%2F23621'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997795/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_11-57-32.jpg)
 
  3) Click the **Update button** next to the graphics driver to automatically download the correct version of that driver, then you can manually install it.  
@@ -157,16 +133,10 @@ If the crash still occurs, go ahead with the next fix.
 
 If Phasmophobia crashing issues persist, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 7: Stop overlocking your GPU/CPU
 
  If you’ve manually overclocked your GPU or CPU, revert it to its default GPU/CPU clock. And if you are using overclocking software, such as MSI Afterburner, please also disable the software when running the game.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8: Disable fullscreen optimizations
 
  Disabling fullscreen optimizations fixes the crashing issue for many games running on the Unity engine. Here’s how to do it:
@@ -183,9 +153,6 @@ If Phasmophobia crashing issues persist, try the next fix below.
 
 If the problem still exists, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 9: Try Phasmophobia beta version
 
  If you’re having issues running the current version of Phasmophobia, try running a different game version. You can switch to the beta version of Phasmophobia from Steam, which is generally more optimized than the main game.
@@ -196,9 +163,6 @@ If the problem still exists, try the next fix below.
 
 3) Go to the**BETAS tab** . Under**Select the beta you would like to opt into** , select a beta version if there’re any available.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-23_15-19-31.jpg)
 
  Hopefully, this article has solved your problem! Please feel free to leave a comment if you have any questions or suggestions.
@@ -211,8 +175,6 @@ If the problem still exists, try the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -220,4 +182,21 @@ If the problem still exists, try the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/new-2024-approved-discoveries-await-5-essential-maps-for-richer-gameplay/"><u>[New] 2024 Approved Discoveries Await 5 Essential Maps for Richer Gameplay</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/new-in-2024-twitter-for-tiktok-content-sharing-strategies/"><u>[New] In 2024, Twitter for TikTok Content Sharing Strategies</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-steps-to-initiate-and-join-an-android-based-zoom-meeting/"><u>[New] Steps to Initiate and Join an Android-Based Zoom Meeting</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-2024-approved-best-digital-realms-downloadable-alarm-melodies/"><u>[Updated] 2024 Approved Best Digital Realms Downloadable Alarm Melodies</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-2024-approved-native-os-capture-utility-chrome-edition/"><u>[Updated] 2024 Approved Native OS Capture Utility Chrome Edition</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-in-2024-dissecting-the-ultra-clear-aesthetic-of-lgs-4k-screen/"><u>[Updated] In 2024, Dissecting the Ultra-Clear Aesthetic of LG's 4K Screen</u></a></li>
+<li><a href="https://win-blog.techidaily.com/11-proven-fixes-for-borderlands-3-not-launching/"><u>11 Proven Fixes for ‘Borderlands 3 Not Launching’</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-getting-booted-from-dota-2-solve-your-vac-errors-with-these-proven-methods/"><u>Avoid Getting Booted From Dota 2? Solve Your VAC Errors with These Proven Methods</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/discover-how-the-nook-glowlight-3-by-barnes-and-noble-transforms-your-evening-reading-experience/"><u>Discover How the Nook Glowlight ✨ 3 by Barnes & Noble Transforms Your Evening Reading Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-steam-crashes-how-to-fix-steamuidll-could-not-be-loaded-message/"><u>Overcome Steam Crashes - How to Fix 'steamui.dll Could Not Be Loaded' Message</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-users-no-more-crashes-fix-your-gas-station-simulator-today/"><u>PC Users, No More Crashes! Fix Your Gas Station Simulator Today</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-call-of-duty-warzone-disk-reading-issues-solutions-for-versions-50-and-31/"><u>Solving Call of Duty: Warzone Disk Reading Issues - Solutions for Versions 5.0 and 3.1</u></a></li>
+<li><a href="https://win-best.techidaily.com/transforma-tu-imagen-png-animada-sin-costo-con-convertidor-de-archivos-apng-online-movavi/"><u>Transforma Tu Imagen PNG Animada Sin Costo Con Convertidor De Archivos APNG Online - Movavi</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/troubleshooting-tips-for-vanishing-desktop-symbols-on-windows-11-devices/"><u>Troubleshooting Tips for Vanishing Desktop Symbols on Windows 11 Devices</u></a></li>
+</ul></div>
 

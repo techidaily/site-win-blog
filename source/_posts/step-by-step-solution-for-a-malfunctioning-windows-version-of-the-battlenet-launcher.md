@@ -1,7 +1,7 @@
 ---
 title: Step-by-Step Solution for a Malfunctioning Windows Version of the Battle.net Launcher
-date: 2024-08-18T18:01:23.139Z
-updated: 2024-08-19T18:01:23.139Z
+date: 2025-02-25T16:06:40.631Z
+updated: 2025-03-04T16:10:03.505Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 
  💗If you like this post, please enter **DRIVEREASY** in the SUPPORT A CREATOR section to support us! Much Love!💗
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653808&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Minimum system requirements for Fortnite
 
 | **Operating System** | **Windows 10/8/7**  |
@@ -46,13 +43,6 @@ Fortnite was launched in 2017\. It is an “old” but popular game which become
 | **HDD Space**        | **20 GB**                                                    |
 | **DirectX**          | **DirectX 11.0**                                             |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -85,9 +75,6 @@ No advertising on the website.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Method: Update your graphics card
 
  The Fortnite black screen problem may occur when your graphics card driver is outdated or faulty. Upgrading your graphics card will help you prevent black screen problem from happening. In addition to solving the black screen issue, updating drivers can also improve your computer performance and give you less hassle when playing games.
@@ -118,17 +105,11 @@ OR
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 4. Reboot your computer and run Fortnite to check the black screen issue will appear or not.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.devart.com/order/checkout.php?PRODS=5023555&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/45b430710ad04765a6afd58d9d9fafca/products/dotConnect_O.png" border="0">dotConnect for Oracle is an ADO.NET data provider for Oracle with Entity Framework Support.</a>
-<!-- affiliate ads end -->
 ### Method 4: Use your integrated graphics card
 
  If you have the latest and corrected drivers and have two graphics cards on your PC, you can try this method to fix the problem. Use your integrated graphics card to run Fortnite has reported as a useful method to deal with the Fortnite black screen problem.
@@ -145,9 +126,6 @@ OR
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display.jpg)
 2. In the Display tab, find Scale and layout.
 3. Change the scaling limit.  
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/display1.jpg)
 4. Reboot Fortnite and check whether this problem is resolved.
 
@@ -156,18 +134,11 @@ OR
  It is possible that the Fortnite black screen issue is caused by Windows Firewall block. If the Windows Firewall blocks some features of Fortnite, this problem may appear and ruin your game experience. You can unblock Fortnite in Windows Firewall to solve the problem.
 
 1. Type “firewall” in the search bar and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall0.jpg)
 2. Click**Allow an app through firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall.jpg)
 3. Find Fortnite and check whether it has been blocked or not.
 4. Click**Change Settings** if it does and check all the boxes to enable the app through the firewall.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/firewall-1.jpg)
 5. Reboot Fortnite and check whether this problem is resolved.
 
@@ -185,8 +156,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +163,22 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/updated-2024-approved-seamless-gamewatching-unlock-nba-livestream-top-15-hacks/"><u>[Updated] 2024 Approved Seamless Gamewatching Unlock NBA Livestream (Top 15 Hacks)</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-expert-techniques-to-efficiently-manipulate-whiteboards-in-web-conferencing-tools/"><u>[Updated] In 2024, Expert Techniques to Efficiently Manipulate Whiteboards in Web Conferencing Tools</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-frame-rate-in-fallout-76-top-techniques-of-2023/"><u>Boost Your Frame Rate in Fallout 76: Top Techniques of 2023</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cult-of-the-lamb-pc-crash-fix-expert-advice-and-solutions-unveiled/"><u>Cult of the Lamb PC Crash Fix: Expert Advice and Solutions Unveiled</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/dissecting-the-features-of-jabra-talk-45-premium-sound-and-long-lasting-battery/"><u>Dissecting the Features of Jabra Talk 45 - Premium Sound & Long-Lasting Battery</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/dive-into-enhanced-safety-with-your-new-arlo-security-camera-setup/"><u>Dive Into Enhanced Safety with Your New Arlo Security Camera Setup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-in-game-crashes-ultimate-guide-to-solving-among-us-issues/"><u>Fixing the In-Game Crashes: Ultimate Guide to Solving Among Us Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2020-stability-guide-fixing-your-game-from-freezing-and-crashing/"><u>Football Manager 2020 Stability Guide: Fixing Your Game From Freezing and Crashing</u></a></li>
+<li><a href="https://common-error.techidaily.com/problem-solved-restoring-functionality-to-your-igfxem-module/"><u>Problem Solved: Restoring Functionality to Your Igfxem Module</u></a></li>
+<li><a href="https://win-blog.techidaily.com/race-ahead-of-glitches-the-ultimate-fix-guide-for-stuck-players-in-forza-horizon-5/"><u>Race Ahead of Glitches: The Ultimate Fix Guide for Stuck Players in Forza Horizon 5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-no-more-freezing-overcome-dark-souls-iii-stability-problems/"><u>Resolved: No More Freezing – Overcome Dark Souls III Stability Problems</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/ripping-a-dvd-onto-your-xbox-one-x-or-s-a-step-by-step-guide-using-windows-10mac/"><u>Ripping a DVD Onto Your Xbox One X or S: A Step-by-Step Guide Using Windows 10/Mac</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-steps-addressing-and-fixing-the-black-display-error-in-resident-evil-village-game-pc/"><u>Solution Steps: Addressing and Fixing the Black Display Error in Resident Evil Village Game (PC)</u></a></li>
+<li><a href="https://techtrends.techidaily.com/step-by-step-instructions-for-effortless-dvd-ripping-with-or-without-vlc-303-2018/"><u>Step-by-Step Instructions for Effortless DVD Ripping with or without VLC 3.0.3 (2018)</u></a></li>
+<li><a href="https://sound-optimizing.techidaily.com/the-premier-a-tunes-for-mobile-musicians-worldwide/"><u>The Premier A-Tunes for Mobile Musicians Worldwide</u></a></li>
+</ul></div>
 

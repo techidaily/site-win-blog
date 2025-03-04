@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Guide: Fixing 'Call of Duty Black Ops 4' Failed Startup Issues"
-date: 2024-08-18T18:08:16.221Z
-updated: 2024-08-19T18:08:16.221Z
+date: 2025-02-26T16:22:30.549Z
+updated: 2025-03-04T16:14:08.668Z
 tags:
   - win11
   - win10
@@ -36,17 +36,11 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
  Run Fallout 4 in compatibility mode is a way to solve many problems. This Fallout 4 black screen error may be caused by the incompatibility with the system. So change the compatibility mode may help you solve the issue.
 
 1. Right-click on Fallout 4 and click **Properties** .
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 2. In the Compatibility tab, click**Run this program in compatibility mode for** . Then choose the system in the drop-down menu.![](https://images.drivereasy.com/wp-content/uploads/2019/08/com.jpg)
 3. Click **OK** then run Fallout 4 to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Update Graphics Card Drivers
 
  Outdated graphics drivers may cause the “Fallout 4 black screen” issue. So you can try to update the graphics driver to fix the problem.
@@ -58,17 +52,11 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
  You can update your drivers automatically with either the FREE or the [Pro version](https://tools.techidaily.com/drivereasy/download/) of Driver Easy. But with the [Pro version](https://tools.techidaily.com/drivereasy/download/) it takes just 2 clicks (and you get full support and a 30-day money back guarantee):
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All). ![](https://images.drivereasy.com/wp-content/uploads/2019/07/NVIDIA-Geoforce-7.jpg)
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Edit configuration files
 
  To fix the black screen issue, you can edit the files to fix it. This method has been proved by many users. Follow the steps below.
@@ -91,13 +79,7 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
 
 1. Click the**Play** button in the Steam to run the game.
 2. Click**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4-1.jpg)
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Tick the**Windowed Mode** and**Borderless** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.1.jpg)
 4. Click**Advanced** . Lower the settings and click**OK** .![](https://images.drivereasy.com/wp-content/uploads/2019/08/f4.2.jpg)
 5. Run the game to check the problem will appear or not.
@@ -122,8 +104,6 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -131,4 +111,24 @@ thumbnail: https://thmb.techidaily.com/390e6108c338c717535ae5268513a4f027783679d
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-simple-process-for-preserving-tweets-imagesvideos/"><u>[New] 2024 Approved Simple Process for Preserving Tweets' Images/Videos</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/updated-affordable-aerial-acrobats-best-bargain-drones-for-(500/"><u>[Updated] Affordable Aerial Acrobats Best Bargain Drones for <$500</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/updated-perfect-slide-sharing-techniques-the-best-ways-to-use-a-webcam-for-2024/"><u>[Updated] Perfect Slide Sharing Techniques The Best Ways to Use a Webcam for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-smoothed-performance-top-6-solutions-for-eliminating-game-lag/"><u>Baldur's Gate Smoothed Performance: Top 6 Solutions for Eliminating Game Lag</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-challenge-effective-fixes-for-resolving-error-code-tfla0002-in-exams/"><u>Beat the Challenge: Effective Fixes for Resolving Error Code TFLA0002 in Exams</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-realme-gt-5-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Realme GT 5 Lock Screen Clock in Seconds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-safeguard-your-systems-from-the-2024-security-breach-protect-against-memory-corruption/"><u>How to Safeguard Your Systems From the 2024 Security Breach - Protect Against Memory Corruption</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-a-step-by-step-guide-on-using-adb-and-fastboot-to-remove-frp-lock-on-your-infinix-hot-40-by-drfone-android/"><u>In 2024, A Step-by-Step Guide on Using ADB and Fastboot to Remove FRP Lock on your Infinix Hot 40</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-best-3-motorola-moto-g13-emulator-for-mac-to-run-your-wanted-android-apps-drfone-by-drfone-android/"><u>In 2024, Best 3 Motorola Moto G13 Emulator for Mac to Run Your Wanted Android Apps | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-quick-tricks-that-stop-titanfall-2-from-crashing/"><u>Master the Quick Tricks that Stop Titanfall 2 From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-hurdles-with-alan-wake-ii-a-comprehve-solutions-list/"><u>Overcoming Launch Hurdles with Alan Wake II: A Comprehve Solutions List</u></a></li>
+<li><a href="https://fox-http.techidaily.com/pedal-to-the-metal-mastering-crossfade-techniques/"><u>Pedal to the Metal Mastering Crossfade Techniques</u></a></li>
+<li><a href="https://win-comparisons.techidaily.com/protect-your-files-reformatting-hard-drive-safely-with-our-top-2-strategies/"><u>Protect Your Files: Reformatting Hard Drive Safely with Our Top 2 Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-fix-days-gone-pc-version-installation-issues/"><u>Solution Found: Fix 'Days Gone' PC Version Installation Issues</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/toms-hardware-your-go-to-hub-for-reliable-pc-advice-and-reviews/"><u>Tom's Hardware: Your Go-To Hub for Reliable PC Advice & Reviews</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-incomplete-amd-ryzen-master-installation/"><u>Troubleshooting Steps for Incomplete AMD Ryzen Master Installation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-stabilizing-psychonauts-2-performance-on-personal-computers/"><u>Troubleshooting Tips for Stabilizing Psychonauts 2 Performance on Personal Computers</u></a></li>
+</ul></div>
 

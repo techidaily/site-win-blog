@@ -1,7 +1,7 @@
 ---
 title: "Solution: Resolving Critical Development Bug in Call of Duty's Modern Warfare and Warzone"
-date: 2024-08-18T18:03:30.260Z
-updated: 2024-08-19T18:03:30.260Z
+date: 2025-03-03T16:33:12.969Z
+updated: 2025-03-04T16:24:50.574Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
 Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warfare. If you happen to be one of them, don’t worry. Here’re some useful tips you can try to boost your FPS, easily & quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try all of them. Simply work through the list until you find the one that works for you.
@@ -31,9 +28,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 5. [**Clean up resource-hungry processes**](https://tools.techidaily.com/drivereasy/download/)
 6. **[Change power plan to Ultimate Performance](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ### Fix 1: Make sure your specs meet the requirements
 
  As a AAA title in 2019, Modern Warfare is challenging, both to your game skills and computer hardware. So if you’re sticking with a PC built five years ago, chances are you won’t find this “slow-motion” game enjoyable. If you notice your FPS is dropping constantly, and even worse during a shoot-out, the first thing you should do is to**check your specs and see if they meet the game requirements** . Because if they don’t, then maybe it’s time for an upgrade.
@@ -58,9 +52,6 @@ Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warf
 
  If you’re confident with your gaming rig, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Change Display Mode
 
  Some Modern Warfare gamers reported that changing the Display Mode from**Fullscreen Borderless** to**Fullscreen** fixes their FPS dropping issue. You can give this a try as it may boost your FPS right away.
@@ -102,11 +93,6 @@ And it’s quite easy to update too:
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
@@ -116,18 +102,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
  If this method doesn’t help your case, please move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ### Fix 5:**Clean up resource-hungry processes**
 
  Sometimes your game becomes laggy when you have some background tasks eating up your RAM or CPU resources. Before opening a game in Modern Warfare, first make sure you’ve exited programs like**Chrome** ,**Discord** ,**Skype** or**Windows Update** that might exhaust your computer resources.
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Change your power plan to Ultimate Performance
 
  Microsoft has added a new power plan called “**Ultimate Performance** ” to Windows 10 April 2018 Update. This plan aims to fully exploit the potential of your computer, so it might be a solution to your FPS dropping issue.
@@ -137,18 +117,12 @@ Here’s how to enable this power plan:
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command box. Type**powercfg.cpl** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
  If you see a prompt similar to this,**return to step 2** to enable the Ultimate Performance power plan.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
  After changing your power plan, you can then test the improvement in Modern Warfare.
@@ -163,8 +137,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +144,26 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/updated-action-camera-selection-under-200-high-quality-low-cost/"><u>[Updated] Action Camera Selection Under $200 High Quality, Low Cost</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-in-2024-how-to-get-your-youtube-video-seen-6-easy-steps/"><u>[Updated] In 2024, How to Get Your YouTube Video Seen - 6 Easy Steps</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-nintendos-best-hd-recorders-for-enthusiasts/"><u>[Updated] In 2024, Nintendo's Best HD Recorders for Enthusiasts</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-behind-the-scenes-guide-to-finding-facebooks-finest-vids/"><u>2024 Approved Behind-the-Scenes Guide to Finding Facebook's Finest Vids</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/2024-approved-channel-personality-complimentary-youtube-graphics/"><u>2024 Approved Channel Personality Complimentary YouTube Graphics</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ark-survival-ascended-keeps-crashing-on-pc-9-fixes/"><u>ARK: Survival Ascended Keeps Crashing on PC - 9 Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/best-troubleshooting-techniques-to-restore-obs-microphone-functionality/"><u>Best Troubleshooting Techniques to Restore OBS Microphone Functionality</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-eliminating-performance-lags-in-naraka-bladesports-gameplay/"><u>Effective Solutions for Eliminating Performance Lags in Naraka Bladesports Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-your-steam-stream-tips-to-overcome-lag-issues/"><u>Enhance Your Steam Stream: Tips to Overcome Lag Issues</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/exploring-how-ai-is-shaping-and-transforming-the-global-landscape/"><u>Exploring How AI Is Shaping and Transforming the Global Landscape</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-frequent-restarts-of-necromunda-hired-gun-game-on-pc-expert-advice/"><u>How To Prevent Frequent Restarts of Necromunda: Hired Gun Game on PC - Expert Advice</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/in-2024-the-complete-guide-to-tweeting-visual-content-in-form-of-customized-gifs/"><u>In 2024, The Complete Guide to Tweeting Visual Content in Form of Customized GIFS</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ning-loop-transferring-youtube-playlists-fast/"><u>Lightning Loop Transferring YouTube Playlists Fast</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-obstacles-strategies-for-reinvigorating-global-growth/"><u>Overcoming Obstacles: Strategies for Reinvigorating Global Growth</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/perfected-pics-made-easy-the-full-review-of-facetunes-updates-for-2024/"><u>Perfected Pics Made Easy The Full Review of Facetune's Updates for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-complete-darkness-on-your-discord-during-screen-share-sessions/"><u>Resolved: Fixing the Complete Darkness on Your Discord During Screen Share Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rocket-league-resolved-chilling-glitch-now-running-smoothly/"><u>Rocket League: Resolved Chilling Glitch - Now Running Smoothly</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/sim-unlock-nubia-z50s-pro-phones-without-code-2-ways-to-remove-android-sim-lock-by-drfone-android/"><u>Sim Unlock Nubia Z50S Pro Phones without Code 2 Ways to Remove Android Sim Lock</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-checklist-eliminating-hiccups-and-smoothening-your-minecraft-experience-on-pc-2023-edition/"><u>The Ultimate Checklist: Eliminating Hiccups and Smoothening Your Minecraft Experience on PC – 2023 Edition</u></a></li>
+</ul></div>
 

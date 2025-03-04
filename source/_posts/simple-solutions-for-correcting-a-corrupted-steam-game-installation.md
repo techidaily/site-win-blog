@@ -1,7 +1,7 @@
 ---
 title: Simple Solutions for Correcting a Corrupted Steam Game Installation
-date: 2024-08-18T18:01:33.760Z
-updated: 2024-08-19T18:01:33.760Z
+date: 2025-02-27T16:31:31.123Z
+updated: 2025-03-04T16:23:22.802Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/228e79977939cec81e9b9a3337281ae057b8c1535
 
  If you’re encountering the very same issue, don’t worry. Here’s a handy guide that could help you get rid of the problem. Just navigate your way down the list until you find the one that works.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## How to fix Steam Friends Network Unreachable
 
 * [Fix 1: Clear Steam cache and cookies](https://tools.techidaily.com/drivereasy/download/)
@@ -47,9 +44,6 @@ To clear Steam cache:
 4. Exit Steam.
 5. Re-launch into Steam, then click if your friends list loads up fine. If yes, then great! If the**Friends Network Unreachable** error still pops up, please move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ### Fix 2: Join or exit Steam Beta programs
 
  Steam Beta is a program/mode players can opt into and try out game updates and client updates before they officially go live. Since it is a program for testing, it could be prone to bugs causing the friends list loading problem. But in other cases, it is the offical version where the glitch exists.
@@ -62,19 +56,12 @@ Here’s how to join or exit Steam Beta programs:
 2. Click**Steam** \>**Settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Account** , then in Beta participation section, click**Change…** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/change.png)
 4. In the window that pops up, choose an option that changes your participation state. Then, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123ok.png)
 5. Exit Steam.
 6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your network adapter driver
 
  A network adapter driver is a piece of software that’s pivotal to the communication between your network adapter and your computer system. If the network adapter driver is wrong, outdated or corrupt, you may have unstable or poor internet, which potentially causes the Steam**Friends Network Unreachable** error. So you should update your network adapter driver to see if it solves the problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -85,9 +72,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)  
@@ -107,10 +91,6 @@ The steps are as below:
 3. Open Steam and see if you can have access to the friends list.
 4. If the problem still persist, then go back to your desktop and repeat step 1 to open the Properties window.
 5. In**Shortcut** tab, locate**Target** , leave a space to the end of the field, (…–nofriendsui), then type **–nochatui** . After that, click**OK** to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718730&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_vMixCallScreenshot1-large.jpg" border="0">vMix HD - Software based live production. vMix HD includes everything in vMix Basic HD plus 1000 inputs, Video List, 4 Overlay Channels, and 1 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/456.png)
 6. Run Steam to check if the**Friends Network Unreachable** error has been fixed.
 
@@ -121,13 +101,7 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 The steps are pretty easy:
 
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
 3. Plug the network devices back in again and wait until the indicator lights are back to the normal state.
@@ -136,9 +110,6 @@ The steps are pretty easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 6: Is it a server issue?
 
  If you’ve exhausted the options above and yet your chat list is still not coming up, it is likely that the Steam Friends servers are experiencing downtime. In this case, you might have to wait around as the developer staff work on recovering the function.
@@ -155,8 +126,6 @@ The steps are pretty easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +133,18 @@ The steps are pretty easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-starfield-audio-cutting-out-and-stuttering-issues/"><u>[Fixed] Starfield Audio Cutting Out and Stuttering Issues</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-embedding-youtube-playlists-step-by-step-guide/"><u>[New] In 2024, Embedding YouTube Playlists Step-by-Step Guide</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ioneering-the-future-of-online-filmmaking-with-sony-vegas-and-youtube/"><u>[New] Pioneering the Future of Online Filmmaking with Sony Vegas and YouTube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-microsoft-edge-crashing-problem-on-windows-11/"><u>[Solved] Microsoft Edge Crashing Problem on Windows 11</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/updated-premier-list-photos-with-perfect-beats-recorders-for-2024/"><u>[Updated] Premier List Photos with Perfect Beats Recorders for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/achieve-uninterrupted-gameplay-advanced-fixes-for-among-us-crashes-in-the-new-year-of-2024/"><u>Achieve Uninterrupted Gameplay: Advanced Fixes for Among Us Crashes in the New Year of 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/exploring-the-depths-of-easy-and-secure-reading-with-the-waterproof-kobo-libra-ereader-our-insightful-review/"><u>Exploring the Depths of Easy and Secure Reading with the Waterproof Kobo Libra eReader – Our Insightful Review</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-rootjunky-apk-to-bypass-google-frp-lock-for-oppo-a56s-5g-by-drfone-android/"><u>In 2024, Rootjunky APK To Bypass Google FRP Lock For Oppo A56s 5G</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-pair-of-pc-mishaps-solution-unveiled/"><u>Mastering the Pair of PC Mishaps - Solution Unveiled</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-in-wwe-2k2-learn-how-with-our-troubleshooting-guide-for-pc-gamers/"><u>No More Crashes in WWE 2K2#! Learn How with Our Troubleshooting Guide for PC Gamers</u></a></li>
+<li><a href="https://change-location.techidaily.com/where-is-the-best-place-to-catch-dratini-on-samsung-galaxy-a05-drfone-by-drfone-virtual-android/"><u>Where Is the Best Place to Catch Dratini On Samsung Galaxy A05 | Dr.fone</u></a></li>
+</ul></div>
 

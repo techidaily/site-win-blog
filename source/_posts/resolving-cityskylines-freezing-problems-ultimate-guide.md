@@ -1,7 +1,7 @@
 ---
 title: Resolving CitySkylines Freezing Problems - Ultimate Guide
-date: 2024-08-18T18:05:19.215Z
-updated: 2024-08-19T18:05:19.215Z
+date: 2025-03-02T16:28:59.260Z
+updated: 2025-03-04T16:25:11.869Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -101,16 +98,10 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 3) Wait until Windows downloaded and installed all the updates.
@@ -127,23 +118,14 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
  3) Click**Initiate Full Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap779-1.png)
 
  4) Click**Yes** to continue. This may take a while.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084396/18498" target="_top" id="2084396"><img src="//a.impactradius-go.com/display-ad/18498-2084396" border="0" alt="" width="1920" height="700"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084396/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
@@ -162,9 +144,6 @@ thumbnail: https://thmb.techidaily.com/ea600fcdcc2d5739582790f8ecc24848128b14c3b
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 Run League of Legends to see if you resolved this issue.
@@ -180,8 +159,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -189,4 +166,23 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/ed-economical-audio-devices-for-vloggers-on-a-budget/"><u>[Updated] Economical Audio Devices for Vloggers on a Budget</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-picart-skills-erasing-unwanted-image-backdrops/"><u>2024 Approved PicArt Skills Erasing Unwanted Image Backdrops</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/advanced-mac-toolkit-screenaudio-recording-feature-for-2024/"><u>Advanced Mac Toolkit Screen/Audio Recording Feature for 2024</u></a></li>
+<li><a href="https://blog-min.techidaily.com/comprehensive-guide-converting-mkv-video-codec-to-advanced-h-264-standard/"><u>Comprehensive Guide: Converting MKV Video Codec to Advanced H. 264 Standard</u></a></li>
+<li><a href="https://win-blog.techidaily.com/disco-elysiums-performance-boosted-say-goodbye-to-pc-freezes/"><u>Disco Elysium's Performance Boosted: Say Goodbye to PC Freezes</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/easily-unlock-your-motorola-moto-g04-device-sim-by-drfone-android/"><u>Easily Unlock Your Motorola Moto G04 Device SIM</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-strategies-for-troubleshooting-the-finals-failure-to-launch-insights/"><u>Effective Strategies for Troubleshooting 'The Finals' Failure to Launch - Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-ways-to-address-fortnite-ls-0013-release-launching-difficulties/"><u>Effective Ways to Address Fortnite LS-0013 Release Launching Difficulties</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/in-2024-mac-techniques-for-instagram-short-form-videos/"><u>In 2024, Mac Techniques for Instagram Short-Form Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-dota-2s-frame-rate-drop-problems-across-windows-11-and-10-devices/"><u>Resolving Dota 2'S Frame Rate Drop Problems Across Windows 11 and 10 Devices</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/reviving-the-audio-quick-tips-to-get-your-stereo-receiver-working-again/"><u>Reviving the Audio: Quick Tips to Get Your Stereo Receiver Working Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-fixes-for-payday-2-not-initializing-properly-on-desktop-pcs/"><u>Step-by-Step Fixes for Payday 2 Not Initializing Properly on Desktop PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-get-your-clownfish-vox-setup-up-and-running-again/"><u>Step-by-Step Solutions: Get Your Clownfish VOX Setup Up and Running Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-crashing-bugs-in-total-war-warhammer-ii-comprehensive-guide-to-stability-fixes/"><u>Tackling Crashing Bugs in Total War: WARHAMMER II – Comprehensive Guide to Stability Fixes</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-youtube-challenges-head-on-with-insights-from-hub-of-creators/"><u>Tackling YouTube Challenges Head-On with Insights From Hub of Creators</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/troubleshooting-tips-resolving-hulu-streaming-issues-on-apple-tv-firestick-roku-and-samsung-devices/"><u>Troubleshooting Tips: Resolving Hulu Streaming Issues on Apple TV, Firestick, Roku & Samsung Devices</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Enhancing Performance: Solving Low FPS Problems in Resident Evil Village for PC Players"
-date: 2024-08-18T18:01:26.401Z
-updated: 2024-08-19T18:01:26.401Z
+date: 2025-03-02T16:00:54.769Z
+updated: 2025-03-04T16:00:59.221Z
 tags:
   - win11
   - win10
@@ -58,32 +58,20 @@ thumbnail: https://thmb.techidaily.com/151e2edee1a0284cef5f2216fc95a6d76e6031c7d
 
  If you’re sure that your gaming rig is ready for the game, you can take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of game files
 
  So let’s start from some easy troubleshooting. The in-game crashes or crashing at clicking “New Game” might indicate**an integrity issue with your game files** . It’s a common issue when you encounter network glitches. You can follow these steps to check and repair any corrupted files:
 
 1. Open your UBISOFT CONNECT client.
 2. Navigate to **the Games tab** and move your mouse cursor to the game tile of**Assassin’s Creed Valhalla** . Then click **the downward triangle** on the lower-right corner of the game tile.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-1.jpg)
 3. Select **Verify files** . Then wait for the checking to complete.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-verify-2.jpg)
 
  Now you can launch Assassin’s Creed Valhalla and check if it crashes again.
 
  If verifying game files didn’t help your case, simply check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Install all Windows updates
 
  There’re 2 types of system updates in Windows 10, one addresses security and compatibility issues and another provides a regular feature update.**Keeping you system up to date** could help you avoid loads of stranger things.
@@ -93,9 +81,6 @@ You can use these steps to check for Windows updates manually:
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . Windows will automatically download and install all the available updates. This might take up to an hour depending on your Internet speed.  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  In some cases, you might need to check several times to get all the updates. Simply repeat these steps until it prompts**You’re up to date** when you click**Check for updates** .
@@ -130,9 +115,6 @@ If the crash happens again, you can take a look at the next fix.
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -141,9 +123,6 @@ If the crash happens again, you can take a look at the next fix.
 
  If the driver update doesn’t do the trick for you, simply continue to the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Lower in-game graphics settings
 
  Assassin’s Creed Valhalla offers in-depth customization options, meaning that you can tweak all kinds of settings to make the most of your game and hardware. But new games tend to be buggy. It’s very likely that some settings are still under development. Worst case scenario, they could be the culprit of your crashes.
@@ -152,10 +131,6 @@ If the crash happens again, you can take a look at the next fix.
 
 1. Open Assassin’s Creed Valhalla and go to**Option Menu** .
 2. Navigate to the**Graphics** tab. Turn off or set every options to**Low** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/valhalla-lower-settings.jpg)
 3. Continue your game and check if it crashes again.
 
@@ -185,8 +160,6 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +167,22 @@ If the crash happens again, you can take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-2024-approved-brevity-in-action-the-process-of-shortening-youtube-videos/"><u>[New] 2024 Approved Brevity in Action The Process of Shortening YouTube Videos</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/updated-beginners-aerial-adventure-top-10-best-kids-drones/"><u>[Updated] Beginner's Aerial Adventure Top 10 Best Kids' Drones</u></a></li>
+<li><a href="https://fox-links.techidaily.com/updated-in-2024-liftoff-your-phone-images-with-free-magnification-app/"><u>[Updated] In 2024, Liftoff Your Phone Images with Free Magnification App</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoid-arma-3-shutdown-drama-essential-tips-and-fixes-for-a-smooth-gaming-experience/"><u>Avoid Arma 3 Shutdown Drama: Essential Tips and Fixes for a Smooth Gaming Experience</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/finding-the-elusive-msvcr100dll-step-by-step-troubleshooting-for-windows-users/"><u>Finding the Elusive MSVCR100.dll: Step-by-Step Troubleshooting for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-past-startup-errors-in-the-elder-scrolls-online-a-comprehensive-guide/"><u>Getting Past Startup Errors in The Elder Scrolls Online – A Comprehensive Guide</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-step-by-step-creating-your-channels-simple-subscribe-button/"><u>In 2024, Step by Step Creating Your Channel's Simple Subscribe Button</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-state-of-decay-2-performance-no-more-crashes-even/"><u>Mastering State of Decay 2 Performance – No More Crashes, Even !</u></a></li>
+<li><a href="https://games-able.techidaily.com/prime-picks-for-gamers-8-ultimate-reviews-and-news/"><u>Prime Picks for Gamers: #8 Ultimate Reviews & News</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-how-to-get-origin-game-platform-working-in-windows-1011/"><u>Resolved: How to Get Origin Game Platform Working in Windows 10/11</u></a></li>
+<li><a href="https://win11.techidaily.com/1719330298923-self-host-your-local-free-windows-based-chatgpt-clone-using-gpt4all/"><u>Self-Host Your Local, FREE Windows-Based ChatGPT Clone Using GPT4All.</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/the-mechanisms-behind-claude-2s-use/"><u>The Mechanisms Behind Claude 2'S Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-football-manager-2019-sudden-shutdowns/"><u>Troubleshooting Steps: Resolving Football Manager 2019 Sudden Shutdowns</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009468794-utorrent-freezes-up-try-these-7-trustworthy-fixes-right-now/"><u>Utorrent Freezes Up? Try These 7 Trustworthy Fixes Right Now!</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/youtubes-golden-rule-for-profit-partnership-for-2024/"><u>YouTube's Golden Rule for Profit Partnership for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Fixing 'Code Vein' Crashes on Windows"
-date: 2024-08-18T18:01:35.413Z
-updated: 2024-08-19T18:01:35.413Z
+date: 2025-02-28T16:25:01.550Z
+updated: 2025-03-04T16:17:07.683Z
 tags:
   - win11
   - win10
@@ -18,9 +18,6 @@ thumbnail: https://thmb.techidaily.com/e5791482249db05b2c83cd0dadb655c84a6fd60d4
 Fallout 3 is an old but classic game. Although Fallout 3 can be installed and played on Windows 10 (read[this article](https://tools.techidaily.com/drivereasy/download/) to learn how), you may meet the freezing problem now and then at any random moment.  
  Here are a few methods that can help you get rid of this freezing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these methods
 
  There’re 5 fixes that have helped many gamers solve their freezing problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -31,18 +28,12 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. **[Update your graphics card drivers](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Reinstall Fallout 3](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 1: Play in Windowed mode
 
  Sometimes, game freezing issue can be easily solved by changing the game’s display options. Play the game in Windowed mode when you meet freezes. This method can let you play without freezes for hours.
 
 1. Run Steam.
 2. Launch the game and click**Option** .  
-<!-- affiliate ads begin -->
-<a href="https://mindmanager.sjv.io/c/5597632/1787667/20231" target="_top" id="1787667"><img src="//a.impactradius-go.com/display-ad/20231-1787667" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1787667/20231" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/option.jpg)
 3. Tick the **Windowed** box under Mode.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/windowed.jpg)
@@ -53,9 +44,6 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 2: Edit your configuration file
 
  If you follow the guide to install the game correctly, you can edit the configuration file to solve the freezing problem.
@@ -64,15 +52,8 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 2. In the**LOCAL FILES** tab, click**BROWSE LOCAL FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-1.jpg)
 3. Open**Fallout\_default** . Search “Busethread” in the notepad.  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17728032&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner920x120.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/default.jpg)
 4. Change the**bUseThreadedAI=0** into**bUseThreadedAI=1** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/1.jpg)
 5. Add**iNumHWThreads=2** beneath it, then Save the change.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/folder.gif)
@@ -92,18 +73,12 @@ Fallout 3 is an old but classic game. Although Fallout 3 can be installed and pl
 4. In the **Compatibility** tab, tick **Run this program in compatibility mode for.**
 5. Open the dropdown menu and choose **Windows XP (Service Pack 3)** .
 6. Tick **Run this program as an administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/exe1.jpg)
 7. Click**Apply** \>**OK** .
 8. Run Fallout 3 to check whether the game is running properly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Method 4: Update your graphics card drivers
 
  It is very important to update your graphics card drivers. Windows 10 doesn’t always give you the latest version. But with outdated or wrong drivers, your game may encounter freezes. So it’s really important to keep your drivers updating to get better gaming experience.
@@ -157,8 +132,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +139,17 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-lessons.techidaily.com/clearer-anonymity-discreet-faces-deletion/"><u>Clearer Anonymity Discreet Faces Deletion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/combating-out-of-sync-sound-in-frozen-youtube-videos-a-guide-for-chrome-and-mozilla-browsers/"><u>Combating Out-of-Sync Sound in Frozen YouTube Videos | A Guide for Chrome & Mozilla Browsers</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/comprehensive-guide-unpacking-the-microsoft-exchange-server-cyberattack-insights-from-zdnet/"><u>Comprehensive Guide: Unpacking the Microsoft Exchange Server Cyberattack - Insights From ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001079879-cyberpunk-2077-display-issues-resolved-no-more-black-screens/"><u>Cyberpunk 2077 Display Issues Resolved - No More Black Screens!</u></a></li>
+<li><a href="https://some-tips.techidaily.com/esr-debuts-advanced-qi2-magsafe-battery-booster-supercharge-your-iphone-16-efficiently-and-coolly-insights/"><u>ESR Debuts Advanced Qi2 MagSafe Battery Booster: Supercharge Your iPhone 16 Efficiently and Coolly - Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/getting-crystal-clear-graphics-in-cod-warzone-for-pc-a-step-by-step-solution/"><u>Getting Crystal Clear Graphics in COD: Warzone for PC – A Step-by-Step Solution</u></a></li>
+<li><a href="https://pokemon-go-android.techidaily.com/in-2024-here-are-some-reliable-ways-to-get-pokemon-go-friend-codes-for-honor-magic-6-drfone-by-drfone-virtual-android/"><u>In 2024, Here Are Some Reliable Ways to Get Pokemon Go Friend Codes For Honor Magic 6 | Dr.fone</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/1723341757587-never-attempt-to-remove-any-penetrating-objects-from-an-eye-injury-it-may-exacerbate-the-damage-or-introduce-infection/"><u>Never Attempt to Remove Any Penetrating Objects From an Eye Injury; It May Exacerbate the Damage or Introduce Infection</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/pioneering-perch-tripod-your-go-to-travel-gear/"><u>Pioneering Perch Tripod: Your Go-To Travel Gear</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-dev-error-6068-fast-track-guide-optimize-your-mw3-warzone-experience/"><u>Resolving Dev Error 6068 Fast-Track Guide: Optimize Your MW3: Warzone Experience</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Ultimate Guide to Eliminating Delays in Naraka's Battle Royale Gameplay
-date: 2024-08-18T18:05:40.092Z
-updated: 2024-08-19T18:05:40.092Z
+date: 2025-02-25T16:32:42.435Z
+updated: 2025-03-04T16:28:20.169Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/7145ec69591f6ebc68facf261c1d68971298e27f3
 
 Fall Guys: Ultimate Knockout is finally out, but more and more players start complaining about**low FPS** when they’re bouncing around. If you happened to be one of them, don’t worry. Here’re 7 working fixes that could help you reduce lag and grab a crown in Fall Guys.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not have to try them all, simply work your way down the list until you find the one that does the trick.
@@ -55,9 +52,6 @@ To disable Full Screen Optimization, follow these steps:
 1. Open the file location where Fall Guys is installed on your computer.
 2. Right click**FallGuys\_client.exe** and select **Properties** .
 3. Navigate to the **Compatibility** tab, and check the box next to **Disable fullscreen optimizations** . Click**OK** to finish.  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/fallguys-disable-full-screen.jpg)
 
 Now you can open Fall Guys and check if the problem has gone.
@@ -72,9 +66,6 @@ If the issue is still there, take a look at the next fix.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy, then click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/2020-08-04_17-40-32-2.jpg)
 3. Click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -87,9 +78,6 @@ If the issue is still there, take a look at the next fix.
 
  If updating the graphics driver doesn’t solve your problem, check out the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ### Fix 4: Install all Windows updates
 
  Windows updates offer bug fixes and sometimes a performance boost, so it might be one potential solution to the lag issue. Besides, it requires only little computer skills.
@@ -99,9 +87,6 @@ Here’re the steps:
 1. On your keyboard, press **the Windows logo key** and **I**  at the same time to invoke **Windows Settings app** . Select **Update & Security** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click **Check for updates** . It’ll try to download and install available updates. It might take a while depending on your network speed.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Wait until all the updates are installed. After that, restart your computer.
 
@@ -116,21 +101,10 @@ Here’re the steps:
  The Ultimate Performance power plan is only available to Windows 10 version**1803 or above** . You can check your version in**Settings > System > About** .
 
 1. On your keyboard, press **the Windows logo key** and **R** at the same time to invoke the **Run** dialog. Type **control** and click **OK**  to open Control Panel.  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-box-dialog-control.jpg)
 2. **View** the Control Panel **by Category** . Select**Hardware and Sound** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-control-panel.jpg)
 3. Click**Power Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-power-options.jpg)
 4. Select**Ultimate Performance** . If you don’t see this option, continue to the following steps to unhide this power plan.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
@@ -138,18 +112,12 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 6. In the pop-up window, type (or copy and paste) the following command and hit**Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  If you see a prompt similar to this,**go back to step 3** to enable the Ultimate Performance power plan.![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-cmd-unhide-ultimate-performance.jpg)
 
  After changing your power plan, you can launch Fall Guys and test the improvement.
 
 If it doesn’t do the trick, check out the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Close unnecessary programs
 
  One possible cause of lag might be the background tasks that are eating your resources secretly. To ensure a smooth and undisturbed gameplay, Fall Guys should be the only large program running on your computer. So before you start the game, make sure you’ve closed Chrome, Skype, Discord and any other programs that might be resource-hungry.
@@ -186,8 +154,6 @@ If it doesn’t do the trick, check out the next fix below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +161,19 @@ If it doesn’t do the trick, check out the next fix below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-2024-approved-unveiling-the-secrets-to-choosing-movie-trailers-music/"><u>[New] 2024 Approved Unveiling the Secrets to Choosing Movie Trailers' Music</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-learn-to-link-zoom-effortlessly-with-email-clients-like-gmail/"><u>[New] In 2024, Learn to Link Zoom Effortlessly with Email Clients Like Gmail</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-techniques-for-safe-youtube-audio-extraction-at-no-cost/"><u>[Updated] 2024 Approved Techniques for Safe YouTube Audio Extraction at No Cost</u></a></li>
+<li><a href="https://extra-information.techidaily.com/updated-conquer-the-canvas-of-nature-mastering-iphone-sky-photography/"><u>[Updated] Conquer the Canvas of Nature Mastering iPhone Sky Photography</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-cs2-2024-pc-game-crash-issues-a-comprehensive-guide/"><u>Fixing CS2 2024 PC Game Crash Issues: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-smooth-play-in-ring-of-elysium-by-preventing-game-crashes/"><u>How To Ensure Smooth Play in Ring of Elysium by Preventing Game Crashes</u></a></li>
+<li><a href="https://discover-docs.techidaily.com/in-depth-analysis-of-belkins-boostcharge-pro-with-wireless-charging-and-stand-feature-the-5000mah-power-bank-examined/"><u>In-Depth Analysis of Belkin's BoostCharge Pro with Wireless Charging & Stand Feature - The 5000mAh Power Bank Examined</u></a></li>
+<li><a href="https://win-blog.techidaily.com/once-your-design-is-complete-and-the-tile-is-fully-dry-may-take-up-to-24-hours-apply-a-clear-glaze-over-the-entire-surface-to-seal-in-the-colors-this-step-w585/"><u>Once Your Design Is Complete and the Tile Is Fully Dry (May Take up to 24 Hours), Apply a Clear Glaze over the Entire Surface to Seal in the Colors. This Step Will Protect Your Work During the Final Firing.</u></a></li>
+<li><a href="https://howto.techidaily.com/tecno-spark-10-4g-not-receiving-texts-10-hassle-free-solutions-here-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Tecno Spark 10 4G Not Receiving Texts? 10 Hassle-Free Solutions Here | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-starting-helldivers-2-without-a-black-screen/"><u>Troubleshooting Tips: Starting Helldivers 2 Without a Black Screen</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unleash-the-power-of-chatgpt-on-your-mobile-devices-android-and-ios/"><u>Unleash the Power of ChatGPT on Your Mobile Devices (Android & iOS)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-the-battle-against-chrome-freezing-tips-for-windows-11-users/"><u>Winning the Battle Against Chrome Freezing - Tips for Windows 11 Users</u></a></li>
+</ul></div>
 

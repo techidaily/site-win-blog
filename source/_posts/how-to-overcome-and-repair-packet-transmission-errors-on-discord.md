@@ -1,7 +1,7 @@
 ---
 title: How to Overcome and Repair Packet Transmission Errors on Discord
-date: 2024-08-18T18:05:47.735Z
-updated: 2024-08-19T18:05:47.735Z
+date: 2025-03-03T16:09:22.176Z
+updated: 2025-03-04T16:08:18.437Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
 ## How To Address the Notorious Error 4201 on Genshin Impact – Detailed Fixes
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/ce8ff1a22710f0446f4cfea7ad6cfdab_2580546458333734908.png)
 
  Many PC players have reported getting**Error 4201 on Genshin Impact** , which prevents them from even logging into the game. The error message may state “**Failed to connect, please check your network settings** ” or “**Failed to connect to the server** .” If you’re on the same boat, no worries! We’ve got some working fixes that you can try, just read on and find out what they are.
@@ -38,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
  As mentioned in the introduction, Error 4201 on Genshin impact sometimes can be a server issue. When the server is down, there’s nothing much to do on the player-side. This article will only focus on the possible fixes that players can do.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Check your Internet connection
 
  Error 4201 is a connection issue, so the first thing you should check is to make sure your Internet is working fine. Here’s a few things that you can do to check your Internet connection:
@@ -52,9 +46,6 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
  If your Internet connection is valid and reliable but you still get Error 4201 on Genshin Impact, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## Fix 2: Run the game executable as Admin
 
  Another possible cause of Error 4201 is the game being blocked on your PC. If Genshin Impact is blocked on your PC, it won’t be able to connect to the server. You may need to give administrative permissions to Genshin Impact on your PC, and it’s important to do this to the game executable itself instead of the game shortcut. Here’s how:
@@ -63,9 +54,6 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 2. Find the game executable file, right-click it then select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-49-02.jpg)
 3. Go to the**Compatibility** tab, and check the box of**Run this program as an administrator** . Then click**Apply** and**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4691139&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/SU-200-1.png" border="0">Software Update Pro - Check and update software installed on your computer. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_16-51-47.jpg)
 
  If running the game executable as Admin doesn’t solve your problem, try the next fix.
@@ -82,9 +70,6 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
  If disabling or using a VPN doesn’t solve your problem, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Configure DNS settings
 
  Your ISP’s (Internet Service Provider) default DNS server is not always the best. There are many public DNS servers that are safe and good for gaming. Using the Quad9 DNS may help solve Error 4201 on Genshin Impact, and it already helped many players with this issue, so it’s worth trying. Here’s how:
@@ -102,10 +87,6 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 **Preferred DNS server:** **9.9.9.9**  
  Alternate DNS server:**149.112.112.112**  
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/2021-07-20_17-31-37.jpg)
 
  If configuring DNS settings doesn’t solve your problem, try the last fix.
@@ -122,17 +103,11 @@ thumbnail: https://thmb.techidaily.com/83a5e7f4b304717df57e5c96a8beb60fe39d76126
 
  1) [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 
  3) Click the **Update**  button next to the network adapter driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. For example, you can update your graphics driver as well (see as below.)  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
  (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)![](https://images.drivereasy.com/wp-content/uploads/2021/04/2021-04-25_15-01-04.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -154,8 +129,6 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -163,4 +136,26 @@ Remember to restart your PC for the new drivers to take effect.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-footage.techidaily.com/new-2024-approved-elevate-your-channels-a-guide-to-youtube-metrics/"><u>[New] 2024 Approved Elevate Your Channels A Guide to YouTube Metrics</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-youtube-identity-recording-measurements-conversion-time/"><u>[New] 2024 Approved YouTube Identity Recording Measurements, Conversion, Time</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-the-ultimate-exploration-of-yis-4k-hero-series/"><u>[New] In 2024, The Ultimate Exploration of Yi’s 4K HERO Series</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/new-in-2024-top-7-free-apps-for-tiktok-creations-on-macos-devices/"><u>[New] In 2024, Top 7 Free Apps for TikTok Creations on MacOS Devices</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-premiere-music-collections-for-visual-media/"><u>[Updated] In 2024, Premiere Music Collections for Visual Media</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-top-picks-free-download-sites-for-custom-skype-tones/"><u>[Updated] Top Picks Free Download Sites for Custom Skype Tones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723009141928-dealing-with-the-delayed-drop-heres-how-to-play-football-manager-2022-right-now/"><u>Dealing With the Delayed Drop? Here's How to Play Football Manager 2022 Right Now</u></a></li>
+<li><a href="https://fox-triigers.techidaily.com/determining-your-motherboard-and-ram-compatibility-a-step-by-step-guide-insights-by-yl-computing/"><u>Determining Your Motherboard and RAM Compatibility: A Step-by-Step Guide - Insights by YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-for-keep-crashing-problem-in-age-of-wonders-planetfall-game-on-personal-computers/"><u>Effective Fixes for Keep-Crashing Problem in Age of Wonders: Planetfall Game on Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-overcoming-persistent-freezing-in-call-of-duty-warzone-pc-user-guide-2am/"><u>Expert Solutions: Overcoming Persistent Freezing in Call of Duty Warzone – PC User Guide (2Am)</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723210376963-lenovo-touchpad-not-responding-heres-the-definitive-fix-for-windows-users/"><u>Lenovo Touchpad Not Responding? Here's the Definitive Fix for Windows Users!</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-gmail-recognizing-when-someone-has-opened-your-message/"><u>Mastering Gmail: Recognizing When Someone Has Opened Your Message</u></a></li>
+<li><a href="https://win-blog.techidaily.com/necromunda-hired-gun-continuously-fails-to-start-on-windows/"><u>Necromunda: Hired Gun Continuously Fails to Start on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-problem-why-your-snap-camera-wont-detect-a-source/"><u>Resolved Problem: Why Your Snap Camera Won't Detect a Source</u></a></li>
+<li><a href="https://win-blog.techidaily.com/smoother-playthrough-of-overwatch-after-critical-driver-update/"><u>Smoother Playthrough of Overwatch After Critical Driver Update</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-mystery-why-assassins-creed-origins-wont-start-up-top-fixes/"><u>Solving the Mystery: Why Assassin’s Creed Origins Won't Start Up – Top Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012247386-stop-dayz-from-frequently-freezing-quick-fixes/"><u>Stop DayZ From Frequently Freezing - Quick Fixes!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/trouble-free-methods-for-converting-dav-audio-files-into-mp3-format/"><u>Trouble-Free Methods for Converting DAV Audio Files Into MP3 Format</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-game-freezes-in-oxygen-not-included/"><u>Troubleshooting and Resolving Game Freezes in Oxygen Not Included</u></a></li>
+</ul></div>
 

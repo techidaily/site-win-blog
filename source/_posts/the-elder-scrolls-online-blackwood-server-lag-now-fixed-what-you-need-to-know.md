@@ -1,7 +1,7 @@
 ---
 title: "The Elder Scrolls Online Blackwood Server Lag Now Fixed: What You Need to Know"
-date: 2024-08-18T18:06:52.987Z
-updated: 2024-08-19T18:06:52.987Z
+date: 2025-02-26T16:16:35.219Z
+updated: 2025-03-04T16:34:25.681Z
 tags:
   - win11
   - win10
@@ -31,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 4. [**Change in-game graphics settings**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Cap the framerate to 60](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1:**Use a controller instead**
 
  Given that we all have different PC setups, the reasons for the stuttering could be different. Some players discover a temporary fix to the stuttering issue, which is to**use a controller** instead of a set of keyboard and mouse. If available, you can try the same and see how it goes.
@@ -42,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
  If you don’t have a controller at hand, or it doesn’t work for your case, simply move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphics driver
 
  The stuttering and FPS issues could indicate that you’re using a**buggy or outdated graphics driver** . Developers of Deathloop stressed that players should use the latest GPU driver for the best performance. So if you don’t know whether you’re on the latest driver, definitely check it now.
@@ -57,9 +51,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy Scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Scan-now-1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -71,9 +62,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
  If the latest drivers don’t seem to work for you, take a look at the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Check for system updates
 
  To make the most out of your hardware, it’s also important to keep your system up to date. Normally Windows updates automatically, but you can also check if you’re missing the latest feature update.
@@ -81,9 +69,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -92,9 +77,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
 
  If this method doesn’t give you luck, simply check out the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Change in-game graphics settings
 
  If your rig isn’t top of the line, you can tune the in-game settings a bit to work around the stuttering. Before the optimization patches come out, here’re some settings you can try:
@@ -106,9 +88,6 @@ thumbnail: https://thmb.techidaily.com/e703390679e2e9d8302a199135d745cf8f0f1e644
    * **AMD FSR Mode** : Ultra Quality  
    * **Upscaling** : AMD FidelityFX Super Resolution 1.0![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-graphics-settings-1.jpg)
 3. Set**FPS Limiter** to**120** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/deathloop-graphics-settings-2.jpg)
 
 Now you can start a game and test the performance.
@@ -122,9 +101,6 @@ Now you can start a game and test the performance.
 Here’s how to do it with NVIDIA GPU:
 
 1. At the empty area of your Desktop, right click and select NVIDIA control panel.  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**Manage 3D** settings. In the Global Settings section, turn on**Max Frame Rate** and set the value to**60** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/nvidia-control-panel-cap-60.jpg)
@@ -141,8 +117,6 @@ Now you can restart the game and check if the stuttering is gone.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -150,4 +124,26 @@ Now you can restart the game and check if the stuttering is gone.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://twitter-videos.techidaily.com/new-2024-approved-mastering-twitter-promotions-essential-tips/"><u>[New] 2024 Approved Mastering Twitter Promotions Essential Tips</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-birdie-ballet-bounce/"><u>[New] Birdie Ballet Bounce</u></a></li>
+<li><a href="https://fox-info.techidaily.com/new-in-2024-enhancing-your-drones-visual-capabilities-with-the-right-camera-gimbals/"><u>[New] In 2024, Enhancing Your Drones' Visual Capabilities with The Right Camera Gimbals</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/new-in-2024-superior-selection-androids-leading-video-call-for-large-groups/"><u>[New] In 2024, Superior Selection Android's Leading Video Call for Large Groups</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/2024-approved-sunset-to-silhouette-adobe-guide/"><u>2024 Approved Sunset to Silhouette Adobe Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723004251135-everlasting-voyages-in-sea-of-thieves-crash-errors-now-solved/"><u>Everlasting Voyages in Sea of Thieves: Crash Errors Now Solved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/football-manager-2021-pc-stability-problems-how-to-keep-your-game-running-smoothly/"><u>Football Manager 2021 PC Stability Problems: How to Keep Your Game Running Smoothly</u></a></li>
+<li><a href="https://discover-cheats.techidaily.com/how-can-i-detect-graphic-card-damage-an-expert-guide-by-yl-computing/"><u>How Can I Detect Graphic Card Damage? An Expert Guide by YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-error-messages-preventing-access-to-your-outlook-mailbox/"><u>How to Fix Error Messages Preventing Access to Your Outlook Mailbox</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-sword-and-fairy-vii-pc-crashes-a-complete-guide/"><u>How to Fix Sword and Fairy VII PC Crashes – A Complete Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-civ-6-up-and-running-on-windows-11-common-fixes-revealed/"><u>How to Get Civ 6 Up and Running on Windows 11: Common Fixes Revealed</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-pgsharp-save-you-from-ban-while-spoofing-pokemon-go-on-samsung-galaxy-m54-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How PGSharp Save You from Ban While Spoofing Pokemon Go On Samsung Galaxy M54 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/online-user-authentication-service-is-active-again-all-systems-go/"><u>Online User Authentication Service Is Active Again – All Systems Go</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-total-war-three-kingdoms-freezing-problem/"><u>Resolving 'Total War: Three Kingdoms' Freezing Problem</u></a></li>
+<li><a href="https://windows11.techidaily.com/revive-your-blank-camera-on-device-management-screen/"><u>Revive Your Blank Camera on Device Management Screen</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/seamless-conversion-from-flac-to-ogg-format-a-step-by-step-guide/"><u>Seamless Conversion From FLAC to OGG Format - A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-boot-issues-on-football-manager-2e1-for-a-smooth-gameplay-experience/"><u>Solving Boot Issues on Football Manager 2E1 for a Smooth Gameplay Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-double-edged-sword-unveiling-the-truth-behind-it-takes-two-project/"><u>The Double-Edged Sword: Unveiling the Truth Behind 'It Takes Two' Project</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/upgrading-your-setup-with-toms-computer-components/"><u>Upgrading Your Setup with Tom's Computer Components</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Aromatic Hydrocarbons Primarily Undergo Electrophil Cuplation Reactions to Maintain Their Stability
-date: 2024-08-18T18:08:47.810Z
-updated: 2024-08-19T18:08:47.810Z
+date: 2025-03-02T16:03:50.386Z
+updated: 2025-03-04T16:01:24.263Z
 tags:
   - win11
   - win10
@@ -43,9 +43,6 @@ In case you don’t know how, here’s the guidance:
 
  5) So this is your **screen resolution** , as illustrated in the following screenshot.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-412.png)
 
  6) Don’t rush to close the **Settings** window. Click **Storage**  in the left pane and then you’ll find out the **storage** of your PC easily.
@@ -126,9 +123,6 @@ In case you don’t know how, here’s the guidance:
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-283.png)
 
  If you have any problems using Driver Easy to update your driver, please feel free to email us at **<support@drivereasy.com>** . We are always here to help.
@@ -147,17 +141,10 @@ In case you don’t know how, here’s the guidance:
 
  2) In the Device Manager window, double-click on the **Display adapters** node to expand its drop-down list. Then right-click on your graphics card (the one used to run the game) and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-933.png)
 
  3) Click**Roll Back Driver** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-938.png)
 
  If the **Roll Back Driver** option is grayed out, that means there’s no driver to roll back to. In this case you’ll have to try other fixes.
@@ -172,9 +159,6 @@ In case you don’t know how, here’s the guidance:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update Windows operating system
 
  This fix should be helpful especially when your Windows operating system hasn’t been updated for a long time. You should first check for updates, then perform them if there’s any.
@@ -185,11 +169,6 @@ In case you don’t know how, here’s the guidance:
 
  2) On the **Windows Update** tab, in the results pane, click **Check for updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296685&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2022/video-pp/ScreenshotSlider/Nero-Video-Advanced-editing.JPG" border="0">Simple and intuitive video editing
-🎬 Nero Video:
-The powerful video editing program for your Windows PC</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-947.png)
 
  3) Wait for the system to search for available updates online. If there’s indeed a pending update, then Windows will automatically download the update and install it. Once the process completes, restart your computer for the changes to be fully implemented.
@@ -198,9 +177,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Change DirectX settings
 
  When your FIFA 20 crashes with an error message mentioning “DirectX,” you’re most likely having a DirectX issue that requires you to change related settings of the game.
@@ -215,16 +191,10 @@ The powerful video editing program for your Windows PC</a>
 
  Type**DIRECTX\_SELECT = 1** and click**Find Next** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793234/19578" target="_top" id="1793234"><img src="//a.impactradius-go.com/display-ad/19578-1793234" border="0" alt="" width="678" height="452"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793234/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-847.png)
 
  4) After “DIRECTX\_SELECT = 1” is located, change it to**DIRECTX\_SELECT = 0** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-866.png)
 
  If your**fifasetup.ini** file is already set to**0** when you first open it, then try changing it to**1** instead.
@@ -233,9 +203,6 @@ The powerful video editing program for your Windows PC</a>
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1047974&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-04_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Adjust settings in NVIDIA Control Panel
 
  Make sure your computer is using the correct graphics card to run FIFA 20\. This is particularly important when you have two graphics cards mounted on one PC. Besides, you can fine-tune certain settings for FIFA 20 in NVIDIA Control Panel in order to reduce the risk of crashing.
@@ -248,9 +215,6 @@ The powerful video editing program for your Windows PC</a>
 
  On completion, click**Apply** to save the changes you’ve made.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-913.png)
 
 3) Exit NVIDIA Control Panel, restart your computer, then launch FIFA 20.
@@ -272,16 +236,10 @@ If you continue to face the crashing problem, please move on to Fix 6.
 
  1) On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog box. Type **cmd** and press **Ctrl+Shift+Enter**  to run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-182.png)
 
  2) When Windows asks for permission to make changes to your device, click **Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-63.png)
 
  3) In the Command Prompt, type the following command (**note** that there’s a space between sfc and /):
@@ -290,9 +248,6 @@ sfc /scannow
 
  After you finish entering the command, hit **Enter** on your keyboard. Then the sfc tool will begin to scan all system files and repair the corrupted or missing ones.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-183.png)
 
  4) Wait until the verification process completes. Then **restart** your computer for the changes to take effect.
@@ -321,9 +276,6 @@ dism.exe /online /cleanup-image /restorehealth
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Close unnecessary programs
 
  Chances are that some of the programs running on your PC is clashing with FIFA 20\. Although this kind of software conflicts doesn’t come up very often, it’s still worth checking. For instance, you can completely shut down some overlays and then wait to see if the crashing issue reoccurs. If you did notice one or more programs that might potentially conflict with FIFA 20, uninstall them from your PC or at least try to disable them while the game is running.
@@ -351,8 +303,6 @@ dism.exe /online /cleanup-image /restorehealth
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -360,4 +310,26 @@ dism.exe /online /cleanup-image /restorehealth
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-unlock-the-full-potential-of-instagram-stories/"><u>[New] 2024 Approved Unlock the Full Potential of Instagram Stories</u></a></li>
+<li><a href="https://article-files.techidaily.com/new-sky-high-improvement-ultimate-video-rescale-for-2024/"><u>[New] Sky-High Improvement Ultimate Video Rescale for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-vanguard-not-initialized-in-valorant/"><u>[SOLVED] Vanguard Not Initialized in Valorant</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/add-mp3-elements-to-ppt-display-panels-for-2024/"><u>Add MP3 Elements to PPT Display Panels for 2024</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/comprehensive-guide-the-features-of-google-podcasts-app-for-2024/"><u>Comprehensive Guide The Features of Google Podcasts App for 2024</u></a></li>
+<li><a href="https://common-error.techidaily.com/fixing-windows-11-audio-issues-when-no-output-device-is-recognized/"><u>Fixing Windows 11 Audio Issues – When No Output Device Is Recognized</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-i-successfully-overcame-the-total-war-three-kingdoms-freezing-glitch/"><u>How I Successfully Overcame the Total War: Three Kingdoms Freezing Glitch</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-optimize-your-online-presence-youtube-to-dailymotion-video-migration/"><u>In 2024, Optimize Your Online Presence YouTube to Dailymotion Video Migration</u></a></li>
+<li><a href="https://some-tips.techidaily.com/my-experience-with-unbranded-tech-products-from-temu-a-surprisingly-satisfying-purchase/"><u>My Experience with Unbranded Tech Products From Temu - A Surprisingly Satisfying Purchase</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-recurring-pc-setbacks-of-aliens-fireteam-elite-tips-and-tricks/"><u>Overcoming the Recurring PC Setbacks of Aliens: Fireteam Elite – Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/permanent-solutions-for-avoiding-sudden-closures-and-glitches-in-snowrunner-pc-edition/"><u>Permanent Solutions for Avoiding Sudden Closures and Glitches in SnowRunner PC Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-sudden-application-failures-in-rust-development/"><u>Resolving Sudden Application Failures in Rust Development</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-fixes-for-overcoming-directx-errors-in-your-fifa-19-game/"><u>Simple Fixes for Overcoming DirectX Errors in Your FIFA 19 Game</u></a></li>
+<li><a href="https://discover-advanced.techidaily.com/top-ranked-avcd-to-digital-video-format-translator-software-for-windows-11-users-2024-edition/"><u>Top-Ranked AVCd to Digital Video Format Translator Software for Windows 11 Users, 2024 Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-lost-ark-pc-performance-hiccups-and-bugs/"><u>Troubleshooting Steps for Lost Ark PC Performance Hiccups and Bugs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-how-to-fix-game-wont-start-up-issues-by-checking-game-files/"><u>Troubleshooting: How to Fix 'Game Won't Start Up' Issues by Checking Game Files</u></a></li>
+<li><a href="https://fox-that.techidaily.com/1721457432667-urgent-update-why-immediate-action-required-install-ios-153-today/"><u>Urgent Update: Why Immediate Action Required - Install iOS 15.3 Today!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/what-caused-the-guilty-gear-strive-postponement-insights-and-speculations/"><u>What Caused the Guilty Gear Strive Postponement? Insights & Speculations</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/whats-the-shift-to-electric-vehicles-all-about/"><u>What’s the Shift to Electric Vehicles All About?</u></a></li>
+</ul></div>
 

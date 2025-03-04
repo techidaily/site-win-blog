@@ -1,7 +1,7 @@
 ---
 title: Tackling the Troublesome Minecraft Crossbow Error - Ultimate Fix Strategies for Gamers
-date: 2024-08-18T18:07:41.439Z
-updated: 2024-08-19T18:07:41.439Z
+date: 2025-02-28T16:25:14.661Z
+updated: 2025-03-04T16:31:03.894Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ A screenshot of ELEX II from Steam
 
  Although ELEX II has received generally positive reviews on Steam, there are still many PC gamers complaining that**ELEX II keeps crashing** on their Windows PC. If you’re running into the exact same issue, don’t worry! You should be able to fix this issue easily after reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## System requirements of ELEX II for Windows PC
 
  Before trying anything more complicated, make sure that your PC meets the system requirements of ELEX II first. Just take a quick glance at the table below to view the system requirements of ELEX II for Windows PC:
@@ -55,9 +52,6 @@ ELEX II system requirements
 6. [**Repair corrupted system files**](https://tools.techidaily.com/drivereasy/download/)
 7. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ## Verify and repair game files
 
  Game crashing issues are often triggered by corrupted game files. You can verify and repair game files using Steam. Here’s how to do it:
@@ -84,9 +78,6 @@ ELEX II system requirements
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
@@ -95,9 +86,6 @@ ELEX II system requirements
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Install the latest ELEX II patch
 
  The developer of ELEX II releases regular game patches to fix bugs and improve gaming performance.
@@ -111,9 +99,6 @@ ELEX II system requirements
  Overlays sometimes the overlay would interfere with the game and even block the game files. If you’re using the Steam Overlay while playing the game, try disabling Steam Overlay for ELEX II and see if the game crashes again:
 
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _ELEX II_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
@@ -122,9 +107,6 @@ ELEX II system requirements
 
  Run ELEX II and check if the it crashes again. If the game still crashes, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Temporarily disable anti-virus software
 
  3rd party antivirus software sometimes may block game files, which would also crash the game.
@@ -135,9 +117,6 @@ ELEX II system requirements
 
 If this fix didn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Repair corrupted system files
 
  Windows system file corruption will also lead the game to crash. If you’ve played PC games for years, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -152,9 +131,6 @@ If this fix didn’t work, try the next fix, below.
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Fortect.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
@@ -168,19 +144,10 @@ If this fix didn’t work, try the next fix, below.
  In this case, you’ll need to find the exact app(s) that conflicts with the game. To do so, just follow the steps below to perform a clean boot:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://bluetties.sjv.io/c/5597632/2039292/17094" target="_top" id="2039292"><img src="//a.impactradius-go.com/display-ad/17094-2039292" border="0" alt="BLUETTI NEW LAUNCH AC240" width="954" height="1020"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2039292/17094" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
@@ -217,8 +184,6 @@ If this fix didn’t work, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -226,4 +191,23 @@ If this fix didn’t work, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/solved-immortals-fenyx-rising-keeps-crashing/"><u>[SOLVED] Immortals Fenyx Rising Keeps Crashing</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-in-2024-comprehensive-io-recorder-explained-for-users/"><u>[Updated] In 2024, Comprehensive IO Recorder Explained for Users</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-insta-popularity-boost-mastering-the-25-essential-hashtags/"><u>[Updated] Insta-Popularity Boost Mastering the 25 Essential Hashtags</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/apples-solution-overcoming-the-greatest-hurdle-in-diy-device-repair/"><u>Apple's Solution: Overcoming the Greatest Hurdle in DIY Device Repair</u></a></li>
+<li><a href="https://win-blog.techidaily.com/baldurs-gate-glitches-be-gone-discover-six-key-solutions-to-enhance-gameplay/"><u>Baldur's Gate Glitches Be Gone! Discover Six Key Solutions to Enhance Gameplay</u></a></li>
+<li><a href="https://blog-min.techidaily.com/codecs-del-futuro-av1-supone-una-mejora-significativa-sobre-hevc-para-las-nuevas-generaciones-de-contenido-visual/"><u>Códecs Del Futuro: ¿Av1 Supone Una Mejora Significativa Sobre HEVC Para Las Nuevas Generaciones De Contenido Visual?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-solving-connectivity-issues-for-logitech-c920-video-capture-device/"><u>Diagnosing & Solving Connectivity Issues for Logitech C920 Video Capture Device</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/essential-mac-apps-screen-recording-made-simple-for-2024/"><u>Essential Mac Apps Screen Recording Made Simple for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-resolving-the-error-preventing-fifa-21-from-starting/"><u>Expert Advice on Resolving the Error Preventing FIFA 21 From Starting</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-freezing-issues-in-pathfinder-wrath-of-the-righteous-on-your-computer/"><u>How to Overcome Freezing Issues in Pathfinder: Wrath of the Righteous on Your Computer</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-ways-to-find-unlocking-codes-for-oppo-a78-5g-phones-by-drfone-android/"><u>In 2024, Ways To Find Unlocking Codes For Oppo A78 5G Phones</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-file-locked-by-other-users-issues-on-steam-games/"><u>Overcoming 'File Locked by Other Users' Issues on Steam Games</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-delayed-responses-in-cyberpunk-2077-gameplay/"><u>Overcoming Delayed Responses in Cyberpunk 2077 Gameplay</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/1722975795502-quick-setup-how-to-get-your-intel-cpu-drivers-fast/"><u>Quick Setup: How to Get Your Intel CPU Drivers Fast</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/secret-menu-sorcery-for-mastering-windows-11-stealth-features/"><u>Secret Menu Sorcery for Mastering Windows 11 Stealth Features</u></a></li>
+<li><a href="https://some-skills.techidaily.com/unrestricted-mental-harmony-for-2024/"><u>Unrestricted Mental Harmony for 2024</u></a></li>
+</ul></div>
 

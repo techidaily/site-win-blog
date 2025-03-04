@@ -1,7 +1,7 @@
 ---
 title: "Bypassing Startup Hurdles: How to Fix Outriders Not Starting for PC Users"
-date: 2024-08-18T18:06:56.772Z
-updated: 2024-08-19T18:06:56.772Z
+date: 2025-03-03T16:18:30.542Z
+updated: 2025-03-04T16:25:24.821Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Recently, we’ve seen many players reporting that**Dirt 5 keeps crashing** on t
 5. **[Set launch options on Steam](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Update your graphics driver
 
 The outdated or broken graphics driver often crashes the game.
@@ -49,16 +46,10 @@ The outdated or broken graphics driver often crashes the game.
 
 1. [**Download**](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy Scan Now](https://images.drivereasy.com/wp-content/uploads/2021/03/Driver-Easy-Scan-Now.jpg)
 3. Click the **Update** button next to a device to automatically download the correct version of their driver, then you can manually install the driver (you can do this with the FREE version).  
 
  Or click **Update All**  to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 4. Restart your PC after you finished updating your graphics driver.
 
@@ -75,9 +66,6 @@ The outdated or broken graphics driver often crashes the game.
 
  It may take some time to finish verifying the game files. Launch the game after the verifying process completed to see if this fix works. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developers of Dirt 5 release regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -86,9 +74,6 @@ The outdated or broken graphics driver often crashes the game.
 
  Run Dirt 5 again to check whether the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Fix 4: Disable Steam Overlay
 
  It seems that the Steam Overlay doesn’t pair well with Ditrt. So just try disabling Steam Overlay for Dirt 5 to see if the game crashes again. Here is how to do it:
@@ -96,16 +81,10 @@ The outdated or broken graphics driver often crashes the game.
 1. Launch Steam and navigate to **the LIBRARY tab** .**right-click** on _DIRT 5_ . Then select **Properties** .  
 ![Steam->properties](https://images.drivereasy.com/wp-content/uploads/2019/04/image-122.png)
 2. Uncheck**Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087407/7443" target="_top" id="2087407"><img src="//a.impactradius-go.com/display-ad/7443-2087407" border="0" alt="" width="600" height="500"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Steam Overlay](https://images.drivereasy.com/wp-content/uploads/2021/04/Disable-Steam-Overlay.jpg)
 
  Launch Dirt 5 to see if the game crashes. If the issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## Fix 5: Set launch options on Steam
 
  If your PC didn’t meet the recommended system requirements for Dirt 5, and you’re suffering from the game crashing issue, you can also try using Steam launch options for Dirt 5\. If you want a full FPS boost, you can follow the steps below to Launch the game:
@@ -139,8 +118,6 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -148,4 +125,24 @@ The outdated or broken graphics driver often crashes the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-a-comprehensive-guide-to-using-youtubes-cc-licensing/"><u>[New] 2024 Approved A Comprehensive Guide to Using YouTube's CC Licensing</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/new-in-2024-improve-chromium-performance-fb-video-streaming/"><u>[New] In 2024, Improve Chromium Performance FB Video Streaming</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-2024-approved-above-and-beyond-the-ultimate-guide-to-mavic-pro/"><u>[Updated] 2024 Approved Above and Beyond - The Ultimate Guide to Mavic Pro</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-in-2024-essential-youtube-equipment-for-starting-your-channel/"><u>[Updated] In 2024, Essential YouTube Equipment For Starting Your Channel</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/25-unique-gift-choices-tailored-for-every-android-fanatic/"><u>25 Unique Gift Choices Tailored for Every Android Fanatic</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-guide-to-resolving-fifa-21-pc-crashes-tips-and-tricks/"><u>Complete Guide to Resolving FIFA 21 PC Crashes: Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminate-pc-game-crashes-in-cult-of-the-lamb-with-these-easy-repairs/"><u>Eliminate PC Game Crashes in Cult of The Lamb with These Easy Repairs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995352919-expert-advice-fix-your-deathloop-launch-trouble-today/"><u>Expert Advice: Fix Your Deathloop Launch Trouble Today</u></a></li>
+<li><a href="https://fox-links.techidaily.com/in-2024-game-ahead-with-funimates-easy-apk-instructions/"><u>In 2024, Game Ahead with Funimate's Easy APK Instructions</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/in-2024-multiangle-exploration-guide/"><u>In 2024, MultiAngle Exploration Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-what-pokemon-evolve-with-a-dawn-stone-for-xiaomi-civi-3-drfone-by-drfone-virtual-android/"><u>In 2024, What Pokémon Evolve with A Dawn Stone For Xiaomi Civi 3? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/muted-mystery-how-to-fix-the-sound-issue-on-lost-ark-platforms/"><u>Muted Mystery: How to Fix the Sound Issue on Lost Ark Platforms</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-resident-evil-village-pc-performance-issues/"><u>Resolving Resident Evil Village PC Performance Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723012855955-say-goodbye-to-disruptions-your-ultimate-solution-for-packet-loss-on-discord/"><u>Say Goodbye To Disruptions: Your Ultimate Solution For Packet Loss On Discord</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/solve-unresponsive-keyboard-arrows-top-troubleshooting-tips-and-fixes/"><u>Solve Unresponsive Keyboard Arrows: Top Troubleshooting Tips & Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-fix-the-football-manager-2020-game-crash-problems/"><u>Solved! How to Fix the Football Manager 2020 Game Crash Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tips-and-tricks-overcoming-common-problems-in-microsoft-internet-explorer/"><u>Tips and Tricks: Overcoming Common Problems in Microsoft Internet Explorer</u></a></li>
+</ul></div>
 

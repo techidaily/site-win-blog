@@ -1,7 +1,7 @@
 ---
 title: Say Goodbye to Access Issues - Fix Implemented for Previously Unreachable Account
-date: 2024-08-18T18:04:31.265Z
-updated: 2024-08-19T18:04:31.265Z
+date: 2025-03-01T16:30:48.235Z
+updated: 2025-03-04T16:21:20.001Z
 tags:
   - win11
   - win10
@@ -31,19 +31,12 @@ Many Elite Dangerous players have been reporting the game crashing issue. It occ
 6. **[Lower your graphics settings](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Run the game in Windowed mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Fix 1 – Ran the game as administrator
 
  Your PC may not give**Elite Dangerous or the game launcher** the necessary permissions they need to work correctly. You might run into game issues like game crashing in this case.
 
  Try running the game and the game launcher as administrator to see if it helps. If not, try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2 – Verify the integrity of game files
 
  Files of your game installation might get corrupt sometimes, or be deleted as a false positive by antivirus, which could cause crashing issues during gameplay. Fortunately, you can verify the integrity of the game’s installation through Steam.
@@ -68,9 +61,6 @@ This could take several minutes. Wait for the process to be complete.
 
  Still failing? Try the next solution to update your graphics driver to the most recent version.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4713565&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Mac： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ## Fix 3 – Update your graphics driver
 
  The graphics processing unit (GPU), or your graphics card, has the most impact on your gameplay experience. And your graphics driver is essential for getting top performance from your GPU. An outdated graphics driver could cause game glitches.
@@ -101,9 +91,6 @@ This could take several minutes. Wait for the process to be complete.
 
  An unstable overclock will crash your game and the whole system. So, **if you’re overclocking your CPU or GPU, set the clock speed rate back to the default** to see if that resolves the crash issue. If it doesn’t, move on to the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5 – Disable unnecessary programs
 
  Game performance issues happen when your game is unable to gain access to the memory it needs. So, it’s always wise to close background programs that take up a lot of PC memory when playing games.
@@ -114,18 +101,12 @@ This could take several minutes. Wait for the process to be complete.
 
  **Make sure you diable any software overlays (Steam, Discord, Nvidia** **Geforce Experience** ,**etc).**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/2019-12-30_12-07-59.jpg)
 
 **3)** Restart your game to see if it runs correctly now.
 
 Your game still won’t work correctly? Read on and try Fix 5.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6 – Lower your graphics settings
 
  If you’re playing Elite Dangerous on higher graphics settings than your PC can handle, you may run into crashing issues. To see if that’s the core issue, try lowering your graphics settings.
@@ -144,16 +125,10 @@ If the crashing still happens, continue with the next solution below.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-03-22.jpg)
 
 **2)** Copy **%localappdata%Frontier DevelopmentsElite DangerousOptionsGraphics** and paste it into the text box, then press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-17_17-10-56.jpg)
 
 **3)** Double-click**DisplaySettings.xml** to open the file.
@@ -174,8 +149,6 @@ If the crashing still happens, continue with the next solution below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -183,4 +156,23 @@ If the crashing still happens, continue with the next solution below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-data.techidaily.com/024-approved-unleash-your-potential-with-these-elite-12-vlogger-friendly-cameras/"><u>[New] 2024 Approved Unleash Your Potential with These Elite 12 Vlogger-Friendly Cameras</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-leading-10-sound-intensification-apps-for-multiple-systems/"><u>[Updated] Leading 10 Sound Intensification Apps for Multiple Systems</u></a></li>
+<li><a href="https://article-files.techidaily.com/asus-mg28uq-monitor-unpacking-the-ultra-high-resolution-experience/"><u>ASUS MG28UQ Monitor Unpacking the Ultra High-Resolution Experience</u></a></li>
+<li><a href="https://facebook.techidaily.com/decoding-subtle-cues-in-the-art-of-friend-requesting-on-fb/"><u>Decoding Subtle Cues in the Art of Friend Requesting on FB</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fast-track-success-effective-strategies-to-optimize-shaders-in-star-wars-battlefront-ii/"><u>Fast-Track Success: Effective Strategies to Optimize Shaders in Star Wars Battlefront II</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-steam-issues-for-horizon-forbidden-west-troubleshooting-the-deluxe-edition-crashes/"><u>Fix Steam Issues for 'Horizon Forbidden West': Troubleshooting the Deluxe Edition Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-the-problem-with-audio-configuration-message-from-itunes-easily/"><u>Fix the 'Problem with Audio Configuration' Message From iTunes Easily!</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-6-methods-to-protect-yourself-from-location-tracking-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 6 Methods to Protect Yourself from Location Tracking on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/latest-fixes-for-stable-playthroughs-of-lego-star-wars-the-skywalker-saga-on-pc-what-to-expect/"><u>Latest Fixes for Stable Playthroughs of Lego Star Wars: The Skywalker Saga on PC - What to Expect</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-multiplayer-gameplay-expert-tips-to-fix-and-prevent-high-latency-in-back-4-blood/"><u>Mastering Multiplayer Gameplay: Expert Tips to Fix and Prevent High Latency in Back 4 Blood</u></a></li>
+<li><a href="https://fox-that.techidaily.com/overcome-iphone-scanning-challenges-a-guide-to-repairing-your-qr-code-reader/"><u>Overcome iPhone Scanning Challenges: A Guide to Repairing Your QR Code Reader</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/review-of-topmate-c302-thermal-pad-for-laptops-excellent-heat-management-at-a-great-price/"><u>Review of TopMate C302 Thermal Pad for Laptops: Excellent Heat Management at a Great Price</u></a></li>
+<li><a href="https://network-issues.techidaily.com/setting-adjustments-stored-effectively/"><u>Setting Adjustments Stored Effectively</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-videos-back-from-vivo-y100i-by-fonelab-android-recover-video/"><u>Simple ways to get lost videos back from Vivo Y100i</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-smoother-graphics-and-higher-frame-rates-in-the-ascent/"><u>Step-by-Step Solutions for Smoother Graphics & Higher Frame Rates in 'The Ascent'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-repair-fixing-your-premiere-pro-crashes-in-windows-11-and-10/"><u>Troubleshoot & Repair: Fixing Your Premiere Pro Crashes in Windows 11 and 10</u></a></li>
+</ul></div>
 

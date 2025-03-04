@@ -1,7 +1,7 @@
 ---
 title: "Resolving Audio Glitches: Expert Tips for Halo Infinite Players"
-date: 2024-08-18T18:04:02.905Z
-updated: 2024-08-19T18:04:02.905Z
+date: 2025-02-27T16:15:33.495Z
+updated: 2025-03-04T16:20:24.304Z
 tags:
   - win11
   - win10
@@ -53,16 +53,10 @@ There are mainly two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 4. Relaunch Halo Infinite and check if it fixes the stuttering issue.
 
@@ -71,10 +65,6 @@ There are mainly two ways you can update the graphics driver:
 
  If updating the graphics driver doesn’t work, you can move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ## Fix 3: Change in-game settings
 
  Some gamers found when they turn on VSYN with setting frames rate to 144 or 90, the stuttering issue has gone. You can have a try. It’s a simple and common fix that has helped a lot of gamers. You can give it a try.
@@ -83,9 +73,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 2) Click**SETTINGS** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-27.png)
 
  3) Click**VIDEO** . Set the**RESOLUTION SCALE** down to 90\. If you have lower-end hardware, try resolution scaling.
@@ -96,9 +83,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  5) Set**TEXTURE FILTERING** to**Ultra** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-32.png)
 
  6) Many people suggest turning off**ASYNC COMPUTE** but if you’re running an AMD graphics card, you’d better turn it on. Because you can get at least 10FPS extra on average with it.
@@ -109,9 +93,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 If it’s not working, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Fix 4: Turn off background apps
 
  The background apps could be the culprit for the Halo Infinite stuttering issue. Especially the background recording apps that can cause performance issues when enabled. You can turn off these apps to improve performance.
@@ -140,8 +121,6 @@ If it’s not working, move to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -149,4 +128,26 @@ If it’s not working, move to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-flawless-free-android-snapmaker/"><u>[Updated] 2024 Approved Flawless Free Android SnapMaker</u></a></li>
+<li><a href="https://article-files.techidaily.com/updated-2024-approved-neo-theater-narratives-virtual-realms/"><u>[Updated] 2024 Approved Neo-Theater Narratives Virtual Realms</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/2024-approved-seminar-screen-recording/"><u>2024 Approved Seminar Screen Recording</u></a></li>
+<li><a href="https://win-blog.techidaily.com/anno-1800-troubleshooting-guide-overcoming-directx-issues/"><u>Anno 1800 Troubleshooting Guide - Overcoming DirectX Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-to-prevent-your-modern-warfare-3-game-from-keeping-onoff-on-windows/"><u>Easy Fixes to Prevent Your Modern Warfare 3 Game From Keeping On/Off on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-ways-to-fix-gensh-impact-not-starting-up-right-now/"><u>Effortless Ways to Fix Gensh Impact Not Starting Up Right Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enjoy-a-trouble-free-avatar-journey-in-the-world-of-pandora-for-desktop-users/"><u>Enjoy a Trouble-Free Avatar Journey in the World of Pandora for Desktop Users</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/expert-evaluation-of-the-powerful-and-silent-corsair-air-a115-heatsink-with-a-high-price-point/"><u>Expert Evaluation of the Powerful and Silent Corsair Air A115 Heatsink with a High Price Point</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-implemented-resolving-fps-dips-and-frame-rate-stutters-in-pc-version-of-battlefield-2042/"><u>Fixes Implemented: Resolving FPS Dips & Frame Rate Stutters in PC Version of Battlefield 2042</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-game-crashes-in-jurasseic-world-evolution-expert-solutions-and-tips/"><u>Fixing Game-Crashes in Jurasseic World Evolution: Expert Solutions & Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/fresh-content-massive-traction-secrets-to-a-thriving-insta-account/"><u>Fresh Content, Massive Traction Secrets to a Thriving Insta Account</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-cyberpunk-2077s-notorious-black-screen-problem/"><u>How to Overcome Cyberpunk 2077'S Notorious Black Screen Problem</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-does-find-my-friends-work-on-vivo-y100-5g-drfone-by-drfone-virtual-android/"><u>In 2024, Does find my friends work on Vivo Y100 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-the-solution-to-unstuck-yourself-from-far-cry-ergy-screen-deadlock/"><u>Mastering the Solution to Unstuck Yourself From Far Cry Ergy Screen Deadlock</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/opiniones-y-sugerencias-de-expertos-una-vision-general-de-software-de-movavi/"><u>Opiniones Y Sugerencias De Expertos: Una Visión General De Software De Movavi</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/quick-tips-on-how-to-unsubscribe-from-paramountplus-service/"><u>Quick Tips on How to Unsubscribe From Paramount+ Service</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/resolving-ineffectual-desktop-menu-items-in-windows-11/"><u>Resolving Ineffectual Desktop Menu Items in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-tips-for-a-smooth-halo-3-experience-without-any-more-pc-malfunctions/"><u>Top Tips for a Smooth Halo 3 Experience Without Any More PC Malfunctions</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/why-does-suzhou-ribo-sword-and-fairy-7-keep-crashing-troubleshoot-now/"><u>Why Does Suzhou Ribo (Sword & Fairy 7) Keep Crashing? Troubleshoot Now!</u></a></li>
+</ul></div>
 

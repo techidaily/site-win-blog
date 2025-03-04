@@ -1,7 +1,7 @@
 ---
 title: Mastering City Skylines 2 - Expert Solutions to Avoid PC Disruptions and Crashes
-date: 2024-08-18T18:04:19.411Z
-updated: 2024-08-19T18:04:19.411Z
+date: 2025-03-01T16:16:42.207Z
+updated: 2025-03-04T16:08:25.306Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ Game crashing issues can occur for a variety of reasons, such as a faulty graphi
 7. **[Reinstall Steam](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Reseat PC components](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 1: Check your PC specs
 
  If your game crashes or freezes frequently, the first step is to verify your PC is above the minimum system requirements to run Garry’s Mod. If you’re below the recommended spec, **try lowering your resolution and graphics and in-game video settings** .
@@ -65,17 +62,10 @@ Follow the instructions below to view your computer hardware information:
 
 **2)**  Check your **operating system, processor, memory and DirectX Version** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-47-36.jpg)
 
 **3)** Check your**Display Memory** here.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_10-49-07.jpg)
 
  Make sure your computer meets the requirements, then read on and try the fix, below.
@@ -114,9 +104,6 @@ OR
 
 **2)** Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-04-42.jpg)
 
 **3)**  Click **Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).
@@ -143,9 +130,6 @@ OR
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-06-07.jpg)
 
 **5)**  Relaunch GMod.
@@ -190,23 +174,14 @@ Follow the instructions below to stop the automatic downloads:
 
 **2)** Navigate to**Option** , click the**Multiplayer** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-49.jpg)
 
 **3)** Click the list box under When a game server tries to download custom content to your computer, and select**Do not download any custom files** . Then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-16-54.jpg)
 
  Relaunch your game to check if this has resolved your issue. If not, try the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Reinstall Steam
 
  If none of the fixes above worked for you, reinstalling Steam is very likely the solution to your issue. Follow the instructions below:
@@ -217,16 +192,10 @@ Follow the instructions below to stop the automatic downloads:
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back it up.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087394/7443" target="_top" id="2087394"><img src="//a.impactradius-go.com/display-ad/7443-2087394" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087394/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-53.jpg)
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-17-57.jpg)
 
 **4)** Under **View by** , select **Category** , then select **Uninstall a program** .
@@ -235,9 +204,6 @@ Follow the instructions below to stop the automatic downloads:
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-15.jpg)
 
 **6)**  Follow the on-screen instructions to uninstall Steam.
@@ -246,23 +212,14 @@ Follow the instructions below to stop the automatic downloads:
 
 **8)** Right-click the **Steam icon**  and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-33.jpg)
 
 **9)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-07_11-18-37.jpg)
 
 **10)**  Relaunch Steam and your game.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8:**Reseat PC components**
 
  Try this for a Desktop PC if software-based solutions don’t work at all or only temporarily fix the issue.
@@ -321,8 +278,6 @@ Follow the instructions below to stop the automatic downloads:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -330,4 +285,26 @@ Follow the instructions below to stop the automatic downloads:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-pro-fishing-visionaries-discovering-our-5-best-cameras-for-2024/"><u>[New] Pro-Fishing Visionaries Discovering Our 5 Best Cameras for 2024</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-exceptional-7-dslr-devices-for-expert-video-content-creators/"><u>[Updated] In 2024, Exceptional 7 DSLR Devices For Expert Video Content Creators</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/updated-seamless-speed-control-the-editors-essential-handbook/"><u>[Updated] Seamless Speed Control The Editor's Essential Handbook</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-why-are-videos-vanishing-from-a6400-in-2024/"><u>[Updated] Why Are Videos Vanishing From A6400, In 2024</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-master-the-art-of-persuasion-top-30-video-strategies/"><u>2024 Approved Master the Art of Persuasion Top 30 Video Strategies</u></a></li>
+<li><a href="https://fox-links.techidaily.com/auroras-approach-to-hdv-standing-out-or-same-old-for-2024/"><u>Aurora's Approach to HDV Standing Out or Same Old for 2024</u></a></li>
+<li><a href="https://fake-location.techidaily.com/best-10-mock-location-apps-worth-trying-on-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>Best 10 Mock Location Apps Worth Trying On Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fix-guide-for-stability-problems-with-outpost-infinity-siege-game-on-pc/"><u>Easy Fix Guide for Stability Problems with Outpost: Infinity Siege Game on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-call-of-duty-vanguard-pc-stability-issues-expert-advice-for-202n/"><u>Fix Call of Duty Vanguard PC Stability Issues: Expert Advice for 202N</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-guide-remnant-from-the-ashes-continues-to-encounter-persistent-crashing-issues/"><u>Fix Guide - 'Remnant: From the Ashes' Continues to Encounter Persistent Crashing Issues</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-can-samsung-galaxy-s24mirror-share-to-pc-drfone-by-drfone-android/"><u>How Can Samsung Galaxy S24Mirror Share to PC? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-leave-a-life360-group-on-apple-iphone-13-without-anyone-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How To Leave a Life360 Group On Apple iPhone 13 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://techtrends.techidaily.com/mastering-homework-together-unveiling-our-selection-of-6-preferred-study-apps/"><u>Mastering Homework Together: Unveiling Our Selection of 6 Preferred Study Apps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013374118-paladins-game-crash-solutions-and-optimizations-players/"><u>Paladins Game Crash Solutions and Optimizations Players.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fixing-the-issue-when-google-chrome-wont-launch/"><u>Resolved: Fixing the Issue When Google Chrome Won't Launch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-performance-issues-and-crashes-for-rdo-on-pcs/"><u>Solving Performance Issues & Crashes for RDO on PCs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-f1-202-from-crashing-on-your-pc-troubleshooting-tips-and-fixes/"><u>Stop F1 202# From Crashing on Your PC - Troubleshooting Tips and Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-cant-start-modern-warfare-2-how-to-fix-it/"><u>Troubleshooting: Can't Start Modern Warfare 2 - How To Fix It?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-troubleshooting-steps-when-finals-wont-start/"><u>Ultimate Guide: Troubleshooting Steps When Finals Won't Start</u></a></li>
+</ul></div>
 

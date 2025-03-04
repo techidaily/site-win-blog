@@ -1,7 +1,7 @@
 ---
 title: Easy Fixes for 'Last Epoch' Crashes on PCs - Expert Advice From 2E4
-date: 2024-08-18T18:08:00.622Z
-updated: 2024-08-19T18:08:00.622Z
+date: 2025-02-25T16:09:00.533Z
+updated: 2025-03-04T16:04:14.139Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
 **F1 2021 keeps crashing on your PC** ? You’re not alone. Recently, we’ve seen many PC players reporting that F1 2021 keeps crashing on their PC, which makes the game unplayable. But don’t worry. You should be able to fix this issue on your own after reading this article.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## The system requirements of F1 2021
 
  Before trying anything more complicated, you should ensure that your PC meets the system requirements of F1 2021\. Take a quick glance at the system requirements of F1 2021 if you don’t know the system requirements:
@@ -40,9 +37,6 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 
  If your PC fails to meet the system requirements of the game, you may need to upgrade your PC first. If your PC meets the system requirements but F1 2021 still keeps crashing on your PC, just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=194977&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrfactory/images/screensaver-software.png" border="0">Screensaver Factory, Create stunning professional screensavers within minutes. Create screensavers for yourself, for marketing or unlimited royalty-free commercial distribution. Make screensavers from images, video and swf flash, add background music and smooth sprite and transition effects. Screensaver Factory is very easy to use, and it enables you to make self-installing screensaver files and CDs for easy setup and distribution. Screensaver Factory is the most advanced software of its kind.</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Although the causes of F1 2021 crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether F1 2021 crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -54,23 +48,14 @@ thumbnail: https://thmb.techidaily.com/51abaf027a31735325c9f76686dddc367d5ab57a5
 5. **[Temporarily disable anti-virus software](https://tools.techidaily.com/drivereasy/download/)**
 6. **[P](https://tools.techidaily.com/drivereasy/download/) [erform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Verify integrity of game files
 
  Corrupted game files would lead to the game crashing issues. If it’s the case, follow the steps below to verify the game files in Steam:
 
 1. Launch **Steam** and go to your **Library** .
 2. **Right-click** on **F1 2021** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from official server.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -137,31 +122,16 @@ If this fix didn’t work, try the next fix to perform a clean boot.
  If there is a certain application conflicting with F1 2021, the game would also crash. To find out the problematic application that crashes the game, you need to perform a clean boot. Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
 6. Click **Restart** to restart your PC.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration5.png)
 
 **Restart** your PC and launch F1 2021 to check whether the game crashes again. If not, you need to open the **System Configuration** window again to enable services and applications **one by one** until you find the problematic software.
@@ -189,8 +159,6 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +166,22 @@ If this fix didn’t work, try the next fix to perform a clean boot.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-from-empty-screens-to-thriving-content-why-no-one-watched-your-video-for-2024/"><u>[New] From Empty Screens to Thriving Content Why No One Watched Your Video for 2024</u></a></li>
+<li><a href="https://on-screen-recording.techidaily.com/new-the-essential-handbook-to-planning-zoom-sessions/"><u>[New] The Essential Handbook to Planning Zoom Sessions</u></a></li>
+<li><a href="https://howto.techidaily.com/9-quick-fixes-to-unfortunately-touchwiz-has-stopped-of-nokia-c12-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>9 Quick Fixes to Unfortunately TouchWiz has stopped Of Nokia C12 | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-bug-effective-strategies-to-prevent-outriders-from-stopping-suddenly/"><u>Beat the Bug: Effective Strategies to Prevent Outriders From Stopping Suddenly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/definitive-guide-eliminating-high-latency-problems-in-the-game-back-4-blood/"><u>Definitive Guide: Eliminating High Latency Problems in the Game 'Back 4 Blood'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/endgame-errors-on-your-computer-discover-ways-to-maintain-smooth-gaming-performance/"><u>Endgame Errors on Your Computer? Discover Ways to Maintain Smooth Gaming Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/experience-mythology-like-never-before-the-pc-version-of-god-of-war-fps-is-approaching-fast/"><u>Experience Mythology Like Never Before: The PC Version of God of War FPS Is Approaching Fast</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-screen-mirroring-infinix-note-30-vip-racing-edition-drfone-by-drfone-android/"><u>How to Screen Mirroring Infinix Note 30 VIP Racing Edition? | Dr.fone</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/ignite-a-sizzling-online-presence-with-these-instagram-9-strategies/"><u>Ignite a Sizzling Online Presence with These Instagram #9 Strategies</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-infinix-hot-40-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Infinix Hot 40 Face Lock?</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-the-future-is-now-how-vida-transforms-video-editing/"><u>In 2024, The Future Is Now How Vida Transforms Video Editing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/premiere-pro-troubleshooting-fixing-crashes-on-windows-10-and-11-systems/"><u>Premiere Pro Troubleshooting: Fixing Crashes on Windows 10 and 11 Systems</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/the-costless-conundrum-of-final-cut-pro-access-for-2024/"><u>The Costless Conundrum of Final Cut Pro Access for 2024</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/the-preeminent-visionaries-of-av-artistry-online/"><u>The Preeminent Visionaries of AV Artistry Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-for-preventing-pc-disruptions-in-fifa-19-play-now-fixed/"><u>Troubleshooting Tips for Preventing PC Disruptions in FIFA 19 Play – Now Fixed!</u></a></li>
+</ul></div>
 

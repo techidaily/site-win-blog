@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting: Why Call of Duty: Warzone May Ignore Your GPU on Windows 10"
-date: 2024-08-18T18:04:54.344Z
-updated: 2024-08-19T18:04:54.344Z
+date: 2025-03-03T16:30:29.609Z
+updated: 2025-03-04T16:06:53.268Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/6037bb9c2891cc5de7a061886dcf26fb2fd27c5d5
 
  Many Windows 10 users are reporting this problem as well. But no worries, we’re here to help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fixes for ‘Windows 10 Start Menu Not Working’
 
  The exact cause of this problem varies on different combinations of PC environments, but there are indeed solutions that are going to help you fix your not working Start menu problem before Microsoft rolls out a permanent solution.
@@ -53,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/6037bb9c2891cc5de7a061886dcf26fb2fd27c5d5
 
 2) Type in your password and log in again.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3a59dfeba.jpg)
 
 3) Check if your Start menu works all right now.
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/6037bb9c2891cc5de7a061886dcf26fb2fd27c5d5
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2: Create a new user account
 
  1) Right-click the task bar on your desktop at the bottom and click **Task Manager** .
@@ -79,10 +70,6 @@ thumbnail: https://thmb.techidaily.com/6037bb9c2891cc5de7a061886dcf26fb2fd27c5d5
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
  4) In PowerShell window, copy and paste in the following command and press the**Enter** key on your keyboard:
@@ -91,9 +78,6 @@ net user newusername newpassword /add
 
  We are using the username**“easeware”** and password “**drivereasy”** as an example in the screenshot, you can set them as per your own preference.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075461/7443" target="_top" id="2075461"><img src="//a.impactradius-go.com/display-ad/7443-2075461" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075461/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8bbeac77b.png)
 
 5) Restart your computer and log into the new user account.
@@ -102,9 +86,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 3: Reinstall video card and sound card drivers
 
  Many Windows users say that their video card driver and sound card driver are the culprit, especially after the latest Windows update, and quite a number of them got their Start menu back after they reinstall or update their video and sound card drivers to the recent correct version. Here is what you can do to get your Start menu working like a charm again:
@@ -113,16 +94,10 @@ net user newusername newpassword /add
 
  2) On your keyboard, press the**Windows logo key** and**X** at the same time, click**Device Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b92b357675.png)
 
  3) Double-click**Sound, video and game controller** . Right-click your audio card driver and click**Uninstall device** .
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b931f18df7.png)
 
  When prompted with the following notification, tick the box for**Delete the driver software for this device** and click**Uninstall** .
@@ -141,9 +116,6 @@ net user newusername newpassword /add
 
  6.2) Run Driver Easy and click **Scan Now**   button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b960cea017.png)
 
  6.3) Click the **Update** button next to the flagged video and audio card to automatically download and install the correct versions of them (you can do this with the FREE version).
@@ -156,9 +128,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 4: Disable or uninstall third-party antivirus programs
 
  If you’ve installed antivirus or anti-malware programs such as Norton, Kaspersky, AVG, Avast Behavior Shield or Malwarebytes, you should **temporarily**   turn them off or disable them to see if they’re causing your Start menu not working problem. If your computer’s Start menu returns to normal when they’re off, you should contact the vendor of the software to see if they can provide some help.
@@ -167,9 +136,6 @@ net user newusername newpassword /add
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ## 5: Uninstall Dropbox
 
  Many Windows users find that Dropbox somehow conflicted with the Start menu, making it impossible to use all the feature in the Start panel.
@@ -208,9 +174,6 @@ net user newusername newpassword /add
 
  1) Right-click the task bar on your desktop at the bottom and click **Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b3b34111eb.png)
 
  2) On the top of the Task Manager window, select**File** option and then choose**Run new task** .
@@ -219,9 +182,6 @@ net user newusername newpassword /add
 
  3) Then type **powershell**  and t  ick the box for**Create this task with administrative privileges** . Click **OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b8a563ff80.png)
 
  4) Type**sfc /scannow** in and press the**Enter** key on your keyboard. Wait for a while for the process to complete.
@@ -259,9 +219,6 @@ DISM /Online /Cleanup-Image /RestoreHealth
 Get-AppXPackage -Name Microsoft.Windows.Cortana | Foreach {Add-AppxPackage -DisableDevelopmentMo  
 de -Register "$($_.InstallLocation)\AppXManifest.xml"}
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2017/12/img_5a3b9cce6260c.png)
 
  If this command is not working in your case, try the following command instead:
@@ -284,8 +241,6 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -293,4 +248,23 @@ Get-AppXPackage -AllUsers | Foreach {Add-AppxPackage -DisableDevelopmentMode -Re
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-beyond-the-interface-secret-techniques-to-master-windows-11/"><u>[Updated] 2024 Approved Beyond the Interface Secret Techniques to Master Windows 11</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-get-hooked-on-ez-grabber-a-step-by-step-downloading-guide-for-2024/"><u>[Updated] Get Hooked on EZ Grabber A Step-by-Step Downloading Guide for 2024</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-realme-gt-neo-5-se-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Realme GT Neo 5 SE Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723006771835-allow-each-layer-to-dry-completely-before-applying-the-next-color-this-may-take-several-hours/"><u>Allow Each Layer to Dry Completely Before Applying the Next Color (This May Take Several Hours)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/amazon-prime-video-error-fixes-top-strategies-to-restore-your-streams/"><u>Amazon Prime Video Error Fixes: Top Strategies to Restore Your Streams</u></a></li>
+<li><a href="https://win-webmaster.techidaily.com/comment-reinitialiser-un-compte-microsoft-windows-defectueux/"><u>Comment Réinitialiser Un Compte Microsoft Windows Défectueux ?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/defeating-ps4-malfunctions-a-step-by-step-guide-to-stop-it-from-freezing/"><u>Defeating PS4 Malfunctions - A Step-by-Step Guide to Stop It From Freezing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/end-your-frustration-effective-fixes-for-ghost-recon-breakpoints-crash-problems/"><u>End Your Frustration: Effective Fixes for Ghost Recon Breakpoint's Crash Problems</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/hulus-partners-beyond-amazon-firetv/"><u>Hulu's Partners Beyond Amazon FireTV</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/in-2024-efficiently-downloading-youtube-sections-in-minutes/"><u>In 2024, Efficiently Downloading YouTube Sections in Minutes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005695278-rainbow-six-extraction-pc-issues-now-solved/"><u>Rainbow Six Extraction PC Issues - Now Solved!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-tips-and-steps-for-fixing-minecrafts-cannot-connect-dilemma/"><u>Solved: Tips and Steps for Fixing Minecraft's Cannot Connect Dilemma</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/the-art-of-presentation-crafted-by-chatgpts-ai/"><u>The Art of Presentation Crafted by ChatGPT's AI</u></a></li>
+<li><a href="https://win-answers.techidaily.com/troubleshooting-techniques-for-resolving-yellowish-hue-on-computer-screens/"><u>Troubleshooting Techniques for Resolving Yellowish Hue on Computer Screens</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unraveling-the-mystery-behind-deathloops-startup-troubleshooting/"><u>Unraveling the Mystery Behind Deathloop's Startup Troubleshooting</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/winmedia-player-fixing-crashes-and-failures/"><u>WinMedia Player: Fixing Crashes and Failures</u></a></li>
+</ul></div>
 

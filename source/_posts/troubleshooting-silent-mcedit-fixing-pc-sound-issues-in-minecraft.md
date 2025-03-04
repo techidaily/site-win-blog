@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Silent MCEdit: Fixing PC Sound Issues in Minecraft"
-date: 2024-08-18T18:05:50.544Z
-updated: 2024-08-19T18:05:50.544Z
+date: 2025-03-02T16:01:56.648Z
+updated: 2025-03-04T16:27:40.794Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/5c9cbb5d30907fc5a8d3f1782668978fcf6f103ca
 
 Many players are reporting that**Minecraft crashes with an Exit Code 0 error** . If you’re also seeing this error, don’t worry. Based on our users’ feedback, we’ve gathered some working fixes down below. Try them and get your game working right away.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work down the steps until you find the one that does the charm.
@@ -79,35 +75,14 @@ If the issue persists, you can try the next fix below.
  We all have different computer specs and desktop setup, so it’s hard to determine what’s causing the error. But doing a clean boot allows your computer to start with only the essential programs and services, which will in a sense help you root out the offenders.
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your hardware manufacturers, such as **Realtek** , **AMD** , **NVIDIA** ,**Logitech** and **Intel** . Then click **OK**  to apply the changes.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your PC.
 
@@ -115,9 +90,6 @@ If the issue persists, you can try the next fix below.
 
 If this fix doesn’t help you, simply move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Reinstall Minecraft completely
 
  If none of the fixes above can stop the crash, you should consider reinstalling Minecraft completely. When you’re doing this, you can back up your**.minecraft** folder which can be accessed by typing**%appdata%** in the address bar in File Explorer. By the way, make sure you’ve deleted **[options.txt](https://www.minecraftforum.net/forums/support/java-edition-support/3038499-minecraft-problem-to-launch-exit-code-0#c3)**  insider the**.minecraft** folder.
@@ -126,9 +98,6 @@ If this fix doesn’t help you, simply move on to the next one.
 
 **.minecraft** Folder
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 7: Check if your system is corrupted
 
  If you tried all the fixes above and none seem to work, this could imply a bigger issue with you system. But instead of reinstalling Windows, you can first use a repair tool to scan for potential issues.
@@ -139,10 +108,6 @@ If this fix doesn’t help you, simply move on to the next one.
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -161,8 +126,6 @@ If this fix doesn’t help you, simply move on to the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -170,4 +133,19 @@ If this fix doesn’t help you, simply move on to the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-duration-estimate-for-an-hd-20mb-movie-file/"><u>[New] 2024 Approved Duration Estimate for an HD 20Mb Movie File</u></a></li>
+<li><a href="https://fox-access.techidaily.com/updated-2024-approved-leading-websites-for-seamless-integration-of-text-overlays/"><u>[Updated] 2024 Approved Leading Websites for Seamless Integration of Text Overlays</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-in-2024-mastering-youtube-views-secrets-for-a-million-followers/"><u>[Updated] In 2024, Mastering Youtube Views Secrets for a Million Followers</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-take-your-imagery-to-new-heights-photoshops-3d-text-technique/"><u>[Updated] Take Your Imagery to New Heights Photoshop’s 3D Text Technique</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/2024-approved-the-essence-of-mixed-reality-explored/"><u>2024 Approved The Essence of Mixed Reality Explored</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-solutions-fixing-and-preventing-your-ark-software-from-crashing/"><u>Expert Solutions: Fixing and Preventing Your Ark Software From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-persistent-crashing-in-battlefield-2042-on-your-computer/"><u>How to Overcome Persistent Crashing in Battlefield 2042 on Your Computer</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-music-from-xiaomi-redmi-k70-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Music from Xiaomi Redmi K70 to iPod | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995744194-is-netflix-down-or-is-it-just-me-check-netflix-server-status/"><u>Is Netflix Down Or Is It Just Me – Check Netflix Server Status</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-persistent-freezing-issues-in-elex-ii-on-windowsmac-os/"><u>Resolving Persistent Freezing Issues in Elex II on Windows/Mac OS</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolving-windows-10-hard-drive-freezing-problems-effectively/"><u>Resolving Windows 10 Hard Drive Freezing Problems Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-remedies-for-when-counter-strike-global-offensive-wont-launch/"><u>Step-by-Step Remedies for When Counter-Strike Global Offensive Won't Launch</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Avoid the Vortex! Expert Tips to Prevent Marvel's 'Guardians of the Galaxy' From Crashing on Your PC
-date: 2024-08-18T18:03:11.604Z
-updated: 2024-08-19T18:03:11.604Z
+date: 2025-02-27T16:08:56.092Z
+updated: 2025-03-04T16:06:20.947Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/c2347da6ec78a1b069be335abb7dc18b2b1262d17
 
 Although Marvel’s Guardians of the Galaxy has received generally positive reviews from critics, there are still many PC gamers complaining that**Marvel’s Guardians of the Galaxy keeps crashing** on their Windows PC. If you’re in the same boat, don’t worry! The good news is, you’ve come to the right place. After reading this article, should be able to fix this issue easily.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4631722&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2023/05/frontpage2-2048x588.webp" border="0">EmEditor Professional (Lifetime License, non-store app)</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Whether the game crashes on startup or crashes in the middle of the game, you can find a fix to try in this article. You don’t need to try them all, just work your way down the list until you find the one that works for you.
@@ -33,9 +30,6 @@ Although Marvel’s Guardians of the Galaxy has received generally positive revi
 7. **[Repair corrupted system files](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BSQL%2BRecovery"><img src="https://www.systoolsgroup.com/box/sql-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Check the system requirements
 
  Before trying anything more complicated, you need to make sure that your PC meets the system requirements of Marvel’s Guardians of the Galaxy first. If you don’t know the system requirements of the game, just take a quick glance at the table below:
@@ -55,9 +49,6 @@ Marvel’s Guardians of the Galaxy system requirements
 
  If it keeps crashing on your powerful PC, just read on and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 2\. Update your graphics driver
 
  Graphics driver is essential to the functioning of video games. If Marvel’s Guardians of the Galaxy keeps crashing on your PC, it’s likely that you have a corrupted or outdated graphic driver on your PC. So you should update your drivers to see if it fixes the game crashing issues.
@@ -84,14 +75,6 @@ Marvel’s Guardians of the Galaxy system requirements
 
 1. Launch **Steam** and go to your **Library** .
 2. **Right-click** on **Marvel’s Guardians of the Galaxy** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . If Steam finds anything wrong with the game files, it will re-download them from its official server.  
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
@@ -110,9 +93,6 @@ If this issue persists, try the next fix, below.
 
  Launch Marvel’s Guardians of the Galaxy again and check if this fix works. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=11224199&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/copy_boxshot_lyricvideo.png" border="0">Lyric Video Creator Professional Version</a>
-<!-- affiliate ads end -->
 ## 5\. Disable overlays
 
  Overlays are handy. However, sometimes they would interfere with the game and even block the game files.
@@ -120,14 +100,8 @@ If this issue persists, try the next fix, below.
  If you’re using the Steam Overlay while playing the game, try disabling Steam Overlay for Marvel’s Guardians of the Galaxy and see if the game crashes again:
 
 1. Launch Steam and navigate to **the LIBRARY tab** . **right-click** on _Marvel’s Guardians of the Galaxy_ . Then select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 2. Uncheck **Enable Steam Overlay while in-game** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable steam overlay](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-steam-overlay.jpg)
 
  If you’re using other apps with overlay features (e.g. Nvidia GeForce Experience, Discord, Twitch, etc.), make sure you’ve disabled the in-game overlay in those apps feature.
@@ -144,10 +118,6 @@ If this issue persists, try the next fix, below.
 
 If this fix didn’t work, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## 7\. Repair corrupted system files
 
  Windows system file corruption sometimes will also crash the game. If you’ve played PC games for a long time, you may have already known that even a missing or corrupted .dll file (dynamic link libraries) would cause a game to crash.
@@ -162,9 +132,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 1. **[Download Fortect](https://tools.techidaily.com/drivereasy/download/)**  .
 2. Install and launch Fortect. You’ll be asked to run a free scan of your computer. Click **Yes** to continue.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-1.jpg)
 3. Wait for Fortect to scan your PC. This may take a few minutes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
@@ -179,18 +146,12 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
  If there’s a certain app conflicting with Marvel’s Guardians of the Galaxy, the game will crash. Not sure which app is conflicting with the game? Don’t worry. Just follow the steps below to perform a clean boot, and you’ll find it out. Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -221,8 +182,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -230,4 +189,24 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-clips.techidaily.com/updated-2024-approved-the-comprerancial-insight-into-instagram-a-step-by-step-data-interpretation-toolkit/"><u>[Updated] 2024 Approved The Comprerancial Insight Into Instagram A Step-by-Step Data Interpretation Toolkit</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-enhancing-historical-value-incorporating-dates-into-images/"><u>[Updated] Enhancing Historical Value Incorporating Dates Into Images</u></a></li>
+<li><a href="https://win-lab.techidaily.com/anleitung-umwandlung-von-windows-11-in-ein-brennbild-und-ubertragung-auf-einen-usb-stick-fur-den-startvorgang/"><u>Anleitung: Umwandlung Von Windows 11 in Ein Brennbild Und Übertragung Auf Einen USB-Stick Für Den Startvorgang</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/avoiding-social-media-blunders-methods-to-unrepot-content-on-tiktok-with-ease/"><u>Avoiding Social Media Blunders: Methods to Unrepot Content on TikTok with Ease</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-deadly-glitch-of-ghostrunner-game-on-windows-11-systems/"><u>Fixing the Deadly Glitch of Ghostrunner Game on Windows 11 Systems</u></a></li>
+<li><a href="https://techidaily.com/how-to-factory-reset-oneplus-11-5g-if-i-forgot-security-code-or-password-drfone-by-drfone-reset-android-reset-android/"><u>How to Factory Reset OnePlus 11 5G If I Forgot Security Code or Password? | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/in-2024-top-tier-vr-engine-software-a-comprehensive-review/"><u>In 2024, Top-Tier VR Engine Software A Comprehensive Review</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-graphics-fixes-for-gta-v-solving-the-errgfxd3dinit-error/"><u>Mastering Graphics Fixes for GTA V: Solving the ERR_GFX_D3D_INIT Error</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stable-gameplay-fix-apex-legends-connectivity-troubles/"><u>Mastering Stable Gameplay: Fix Apex Legends Connectivity Troubles</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-fps-in-resident-evil-village-pc-optimization-tips/"><u>Maximizing FPS in Resident Evil Village: PC Optimization Tips</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/new-in-2024-android-app-store-favorites-top-downloads-and-reviews/"><u>New In 2024, Android App Store Favorites Top Downloads and Reviews</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-in-crusader-kings-2-a-comprehensive-troubleshooting-tutorial/"><u>Overcoming Launch Problems in Crusader Kings 2 - A Comprehensive Troubleshooting Tutorial</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-eac-startup-issue-due-to-absent-easy-anti-cheat-software/"><u>Resolved: Troubleshooting EAC Startup Issue Due to Absent Easy Anti-Cheat Software</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-minecraft-freezing-issues-on-your-computer/"><u>Resolving Minecraft Freezing Issues on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fix-the-issue-when-immortals-fenyx-rising-wont-start/"><u>Troubleshooting: Fix the Issue When Immortals Fenyx Rising Won't Start</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/unlock-productivity-perks-and-score-big-savings-exclusive-93-off-flip-out-monitor-offer-for-prime-day-shoppers/"><u>Unlock Productivity Perks & Score Big Savings: Exclusive $93 Off Flip-Out Monitor Offer for Prime Day Shoppers!</u></a></li>
+<li><a href="https://blog-min.techidaily.com/pc-8/"><u>ハイパワー動画取り込みツール集PC用 - おすすめベスト8選!</u></a></li>
+</ul></div>
 

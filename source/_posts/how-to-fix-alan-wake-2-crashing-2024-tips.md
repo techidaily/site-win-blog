@@ -1,7 +1,7 @@
 ---
 title: How to Fix Alan Wake 2 Crashing - 2024 Tips
-date: 2024-08-18T18:02:46.754Z
-updated: 2024-08-19T18:02:46.754Z
+date: 2025-03-02T16:20:16.031Z
+updated: 2025-03-04T16:27:39.969Z
 tags:
   - win11
   - win10
@@ -15,25 +15,10 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 
 ## Subnautica: Below Zero on PC - Stop the Game From Crashing with These Tips
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/subnautica-feature.jpg)
 
 [Subnautica: Below Zero](https://www.epicgames.com/store/en-US/p/subnautica-below-zero?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=foxglove) is officially out. But before embarking on the underwater expedition, players found themselves facing issues such as**crashing** and**black screen.** If you’re on the same boat, don’t worry. We’ve put together some fixes to make your game work again.
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you find the one that does the charm.
@@ -44,9 +29,6 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 4. [**Limit CPU cores for Subnautica: Below Zero**](https://tools.techidaily.com/drivereasy/download/)
 5. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Scan and repair your game files
 
  One possible cause of the crash is that certain game files are**corrupted or missing** . You need to make sure all the game files are intact and up to date. To do so, you can run a scan to verify the integrity of game files.
@@ -54,14 +36,8 @@ thumbnail: https://thmb.techidaily.com/de901a9dfeb58de3e9633af24cac79c38827e6567
 Here’s how to do that on Steam:
 
 1. Go to your Steam library. Right click**Subnautica: Below Zero** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/steam-beta-1.jpg)
 2. In the left pane, select **LOCAL FILES** . Then click **Verify integrity of game files** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/steam-verify-2.jpg)
 3. Wait for the checking to complete. Then start Subnautica: Below Zero and check if it crashes again.
 
@@ -77,9 +53,6 @@ If this fix doesn’t help you, take a look at the next one below.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-pro-3070-update-all.jpg)
@@ -90,17 +63,11 @@ If this fix doesn’t help you, take a look at the next one below.
 
  If the latest video driver doesn’t give you luck, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Perform a clean boot
 
  Given that we all have different setups, it’s also likely that some programs might be interfering with the game. To verify, you can perform a clean boot. It allows your computer to start**with only essential services and programs** .
 
 1. On your keyboard, press**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
@@ -122,9 +89,6 @@ If this trick doesn’t help, you can move on to the next one.
 
 1. First open Subnautica: Below Zero.
 2. On your keyboard, press**Ctrl+Shift+ESC** to open Task Manager. Then navigate to the**Details** tab. Right click**Subnautica.exe** and select**Set affinity** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/set-affinity-1.jpg)
 3. Setting the processor affinity to only use 4 cores (0,1,2,3). Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/subnautica-affinity-2.jpg)
@@ -148,8 +112,6 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -157,4 +119,16 @@ If Subnautica: Below Zero still crashes, you can check out the next tip.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-best-ranked-5-mobile-backdrop-change-applications-iphone-x78/"><u>[New] Best-Ranked 5 Mobile Backdrop Change Applications (iPhone X/7/8)</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/new-transforming-outdoor-vision-into-online-presence-gopro-to-periscopefacebook/"><u>[New] Transforming Outdoor Vision Into Online Presence GoPro to Periscope/Facebook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-persona-5-strikers-black-screen/"><u>[Solved] Persona 5 Strikers Black Screen</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/updated-2024-approved-cinema-for-all-a-comparative-look-at-vimeo-and-youtube/"><u>[Updated] 2024 Approved Cinema for All? A Comparative Look at Vimeo & YouTube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/dragon-age-inquisition-launch-problems-expert-tips-for-a-smooth-game-onset/"><u>Dragon Age Inquisition Launch Problems? Expert Tips for a Smooth Game Onset</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-your-lol-network-glitches-expert-solutions-applied/"><u>Overcome Your LOL Network Glitches - Expert Solutions Applied</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/top-rated-apple-watch-screen-guardians-your-ultimate-guide-techradar/"><u>Top-Rated Apple Watch Screen Guardians: Your Ultimate Guide | TechRadar</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-nioh-2-complete-edition-crashes-on-pc/"><u>Ultimate Guide: Resolving Nioh 2 Complete Edition Crashes on PC</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-edge-2023-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Edge 2023 Auto Does Not Work | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Easy Remedy for 'Assassin's Creed Odyssey' Stalling Issues on PC – Get Back to Adventure!
-date: 2024-08-18T18:02:22.808Z
-updated: 2024-08-19T18:02:22.808Z
+date: 2025-02-28T16:12:40.508Z
+updated: 2025-03-04T16:20:25.411Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/05479ab2f53295b4446efa779b5e06dadae08cc86
 
  Many people have reported that**Assassin’s Creed Odyssey keeps crashing** on their PCs. Sometimes the**game crashes on startup** , or sometimes it**crashes randomly** without an error. If you’re one of them, don’t worry. You can fix Assassin’s Creed Odyssey crashing issues.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## How to fix Assassin’s Creed Odyssey crashing
 
  Here are the solutions to fix Assassin’s Creed Odyssey crashing issue. You shouldn’t have to try them all; just work your way down the list until everything’s working again.
@@ -35,9 +31,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
 **Note** : Some Ubisoft games feature Denuvo DRM (digital rights management) which is an anti-tamper technology. In this case, it requires some kind of CPU feature to run the game. If your game doesn’t have DRM removed, you may not be able to launch the game. And you should head to Ubisoft for suggestions.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ### Fix 1: Install the latest patch
 
  Ubisoft (developer of Assassin’s Creed) regularly releases patches to improve the game experience, as buggy issues in Assassin’s Creed Odyssey can cause problems like crashing or lagging. So you should **check for the latest updates of your game, and install the available game patches** . This can help fix problems that are likely to cause the crashing.
@@ -50,9 +43,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Assassin’s Creed Odyssey still crashes? Don’t worry. Try the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://25home.pxf.io/c/5597632/2090698/16836" target="_top" id="2090698"><img src="//a.impactradius-go.com/display-ad/16836-2090698" border="0" alt="" width="720" height="300"/></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update available drivers
 
  A missing or outdated device driver will cause Assassin’s Creed Odyssey to crash, especially your video card driver and motherboard driver. To rule it out as the cause of your problem, you should update your device drivers to the latest version.
@@ -76,9 +66,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  Or click**Update All** to automatically download and install all the correct drivers for problem devices (you can do this with the[](https://tools.techidaily.com/drivereasy/download/) **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  , and you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-71.png)
 
 4) Restart your computer to take effect.
@@ -104,16 +91,10 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
  If you’re using**Fullscreen** mode, change it to**Borderless** mode.  
  If you’re using**Borderless** mode, change it to**Fullscreen** mode.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-74.png)
 
  4) Turn off**VSync** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-75.png)
 
  5) Click the**Graphics** tab, try lowing these settings:
@@ -124,23 +105,14 @@ Now launch Assassin’s Creed Odyssey and see if it stops crashing.
 * **Screen Space Reflections** : Off
 * **Volumetric Clouds** : Low
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4550420&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/pic/f_02.jpg" border="0">PearlMountain Image Converter</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-76.png)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296740&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/biu/Nero_BackItUp_Screen_2.webp" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/04/image-77.png)
 
 6) Restart your computer.
 
 Open Assassin’s Creed Odyssey and see if it works.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Verify Integrity of Game Files
 
  You can try verifying integrity of game files in the Steam app if games crash. Here’s how to do it:
@@ -181,8 +153,6 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -190,4 +160,22 @@ Open Assassin’s Creed Odyssey and see if it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://tech-recovery.techidaily.com/lord-of-the-rings-trilogy-the-perfect-order-to-experience-middle-earth/"><u>'Lord of the Rings' Trilogy: The Perfect Order to Experience Middle Earth</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-essential-tips-for-optimal-screen-recording-with-showmore/"><u>[New] In 2024, Essential Tips for Optimal Screen Recording With ShowMore</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/updated-2024-approved-exploring-advanced-phone-lenses-in-ios-11/"><u>[Updated] 2024 Approved Exploring Advanced Phone Lenses in iOS 11</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-2024-approved-transforming-home-security-the-rise-of-multi-camera-recorders/"><u>[Updated] 2024 Approved Transforming Home Security The Rise of Multi-Camera Recorders</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/updated-ensuring-smooth-operations-in-your-discord-channels-with-these-steps/"><u>[Updated] Ensuring Smooth Operations in Your Discord Channels with These Steps</u></a></li>
+<li><a href="https://article-helps.techidaily.com/a-decades-best-writes-across-film-classifications-for-2024/"><u>A Decade's Best Writes Across Film Classifications for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boosting-sifu-techniques-to-prevent-stuttering-and-dropped-frames-in-pc-gaming/"><u>Boosting 'Sifu': Techniques to Prevent Stuttering and Dropped Frames in PC Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/call-of-duty-fans-rejoice-solve-the-unforeseen-stoppages-in-cod-mw3-for-a-better-gaming-experience/"><u>Call of Duty Fans Rejoice! Solve the Unforeseen Stoppages in COD MW3 for a Better Gaming Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/easy-fixes-to-lower-desktop-window-managers-power-use/"><u>Easy Fixes to Lower Desktop Window Manager's Power Use</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-issue-warzone-game-images-failing-to-appear/"><u>Fixed Issue: Warzone Game Images Failing to Appear</u></a></li>
+<li><a href="https://win-blog.techidaily.com/game-performance-enhancements-solving-halo-infinites-frame-rate-fluctuations/"><u>Game Performance Enhancements: Solving Halo Infinite's Frame Rate Fluctuations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-get-past-cold-war-game-stalling-at-start-up-for-both-desktop-and-gaming-consoles/"><u>How to Get Past 'Cold War' Game Stalling at Start-Up for Both Desktop and Gaming Consoles</u></a></li>
+<li><a href="https://win-able.techidaily.com/rainbow-six-siege-starting-problems-heres-how-you-can-get-the-game-running-smoothly-again/"><u>Rainbow Six Siege Starting Problems? Here's How You Can Get the Game Running Smoothly Again</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-battle-royale-bugs-fixing-call-of-duty-warzone-disc-reading-issues-5031-for-pc/"><u>Solving Battle Royale Bugs: Fixing Call of Duty Warzone Disc Reading Issues (5.0/3.1) for PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-stability-issues-in-alan-wake-2/"><u>Step-by-Step Solutions for Stability Issues in Alan Wake 2</u></a></li>
+</ul></div>
 

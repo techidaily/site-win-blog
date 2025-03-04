@@ -1,7 +1,7 @@
 ---
 title: How to Resolve the Notorious 'Centipede Bug' In Destiny 2
-date: 2024-08-18T18:07:15.102Z
-updated: 2024-08-19T18:07:15.102Z
+date: 2025-02-28T16:32:31.636Z
+updated: 2025-03-04T16:01:11.505Z
 tags:
   - win11
   - win10
@@ -28,9 +28,6 @@ thumbnail: https://thmb.techidaily.com/7deb0baa73b5dfc75fe84cd47c60ae37428dbd644
 5. **[Try a different display mode](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Disable unnecessary programs](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Check that your PC is capable
 
 To play Hitman 3, you need a PC with the following minimum specs:
@@ -69,9 +66,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
  2) From the left panel, click **Allow an app or feature through Windows Defender Firewall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![allow an app through windows defender firewall](https://images.drivereasy.com/wp-content/uploads/2020/11/allow-an-app-through-windows-defender-firewall-1.jpg)
 
  3) Now you need to scroll down until you can find**HITMAN 3** . Make sure it’s ticked for Private and Public.
@@ -80,9 +74,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
  4) Click**Change settings > Allow another app…** .  
   
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ![allow HITMAN 3 through Windows Firewall](https://images.drivereasy.com/wp-content/uploads/2021/01/allow-HITMAN-3-through-windows-firewall.jpg)
 
  Then browse for HITMAN 3 and follow the instructions to allow your game through the firewall.
@@ -91,9 +82,6 @@ To play Hitman 3, you need a PC with the following minimum specs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Fix 3: Update your graphics driver
 
  Your device drivers, the graphics driver in particular, are important components that greatly impact your computer’s performance. When a program merely shows you a black screen, it could be a driver issue. It means you’re using outdated or faulty graphics driver. If you can’t remember when was the last time you updated your drivers, definitely do it right now as it may help you fix the issue without hassles.
@@ -119,17 +107,11 @@ Here’s how to update drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and **detect any problem drivers** .
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=35038891&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.dupinout.com/wp-content/uploads/2021/12/DupInOut-New-Duplicate-Scan-Tab.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/update-all-NVIDIA-RTX-2080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -152,10 +134,6 @@ Here’s how to do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Fix 5: Try a different display mode
 
  Some players reported that there are some issues with the PC and the game running in the default display mode. To get past the black screen, trying a different mode before hitting the**PLAY** button could help you fix it.
@@ -164,10 +142,6 @@ Here’s how:
 
  1) When you click on the game to start up, you should be presented with an option screen showing exactly what you can do before the actual game boots up. Simply click on the**OPTIONS** button.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![try a different display mode](https://images.drivereasy.com/wp-content/uploads/2021/01/full-screen-mode-options.png)
 
  2) In the**Display Mode** section, select a different display mode to test which one helps you fix the issue.
@@ -188,9 +162,6 @@ Here’s how to disable programs in Task Manager:
 
  1) Right-click on the taskbar. Then select **Task Manager** from the list of options.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/task-manager-from-the-taskbar-1.jpg)
 
  2) In the **Processes** tab, check the programs that are using more CPU from the list. Then right-click on those programs and select **End task** .  
@@ -215,8 +186,6 @@ Here’s how to disable programs in Task Manager:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -224,4 +193,23 @@ Here’s how to disable programs in Task Manager:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-alternatives.techidaily.com/1-resolving-visible-horizontal-line-distortions-in-digitized-photos-expert-tips-from-yl-computing/"><u>1. Resolving Visible Horizontal Line Distortions in Digitized Photos: Expert Tips From YL Computing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-premier-tools-best-mac-devices-for-capturing-videos/"><u>2024 Approved Premier Tools Best Mac Devices for Capturing Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/discover-the-top-15-free-web-based-editing-solutions/"><u>Discover the Top 15 FREE Web-Based Editing Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-fixes-for-palworld-not-loading-or-launching-correctly/"><u>Effortless Fixes for Palworld Not Loading or Launching Correctly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-pc-issues-with-sons-of-the-forest-a-step-by-step-solution/"><u>Fixing Pc Issues with Sons of the Forest: A Step-by-Step Solution</u></a></li>
+<li><a href="https://fake-location.techidaily.com/in-2024-5-easy-ways-to-change-location-on-youtube-tv-on-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>In 2024, 5 Easy Ways to Change Location on YouTube TV On Motorola G24 Power | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-gionee-by-drfone-android/"><u>In 2024, How to Bypass FRP from Gionee?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-league-of-legends-online-issues-expert-tips-and-troubleshooting-steps/"><u>Overcome League of Legends Online Issues: Expert Tips & Troubleshooting Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-lag-in-apex-legends-steps-to-solve-connection-woes/"><u>Overcoming Lag in Apex Legends: Steps to Solve Connection Woes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/reasons-why-world-of-tanks-blitz-continuously-fails/"><u>Reasons Why 'World of Tanks Blitz' Continuously Fails</u></a></li>
+<li><a href="https://win11.techidaily.com/resolving-saving-issues-in-the-win-pubg-environment/"><u>Resolving Saving Issues in the Win PUBG Environment</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/stop-apple-music-from-continuously-playing-tips-and-tricks-for-control/"><u>Stop Apple Music From Continuously Playing: Tips and Tricks for Control</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/rt-of-arranging-youtube-video-elements-for-2024/"><u>The Art of Arranging YouTube Video Elements for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-crashes-the-ultimate-guide-to-playing-yakuza-3-remastered-on-windows/"><u>Troubleshooting Crashes - The Ultimate Guide to Playing Yakuza 3 Remastered on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-tips-for-playing-days-gone-on-pc/"><u>Ultimate Troubleshooting Tips for Playing 'Days Gone' On PC</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/updated-in-2024-best-hd-video-editors-top-picks/"><u>Updated In 2024, Best HD Video Editors Top Picks</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Expert Guide: Overcoming Beat Saber's Persistent Crashing Problem"
-date: 2024-08-18T18:06:39.406Z
-updated: 2024-08-19T18:06:39.406Z
+date: 2025-02-28T16:03:40.537Z
+updated: 2025-03-04T16:18:49.453Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/5397c89a05d7c549e3c941ac0bcf9ef244a3e9feb
 
 Starcraft 2 has been played by millions of people and thousands of esports professionals globally. Many players reported that**Starcraft 2 crashing** issues can sometimes make their game unplayable…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  If StarCraft 2 keeps giving you a hard time, such as crashing to desktop, crashing with no error, or getting lockups and freezes in-game, you can try the following fixes:
@@ -41,18 +38,12 @@ Starcraft 2 has been played by millions of people and thousands of esports profe
 
  Also, many users find that installing the latest Windows 10 gets rid of the Starcraft 2 crashing issue. Therefore, you’ll need to check for updates and always keep your OS up to date for a smoothing gaming experience.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ### Fix 2: Run Scan and Repair for Starcraft 2
 
  If you run into any Blizzard in-game problems, you can try the**Scan and Repair** feature in the**Battle.net application** , which automatically scans and repairs the problems in your game. To scan and repair your Starcraft 2, here’s how to do it:
 
 1. Open the Blizzard Battle.net desktop app.
 2. Select your Starcraft 2.
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 3. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options.png) below the title of the game and select**Scan and Repair** .
 4. Click**Begin Scan** .
 5. Wait for the repair to finish.
@@ -106,17 +97,11 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  This will help you downclock any factory overclocked graphics card to Nvidia reference clock speeds. Although generally speaking, overclocking provides better performance in games and graphics-intensive applications, it can sometimes cause crashing issues and shorten the lifespan of your graphics card.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 5: Reset your Starcraft 2 in-game options
 
  Sometimes Starcraft 2 will fail to recognize your graphics driver since it’s been changed or whatsoever. Resetting your in-game options can always do the trick if this is the culprit of your Starcraft 2 crashing.
 
 1. Open your Blizzard launcher.
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 2. Click![](https://images.drivereasy.com/wp-content/uploads/2020/02/options-1.png) and select**Game settings** .
 3. Scroll down to Starcraft 2 and click the**Reset In-Game Options** .
 4. Click **Reset** .
@@ -126,9 +111,6 @@ _Note: This method applies only to the_ non-reference model cards_._
 
  If this doesn’t work, you can restore the driver settings to default by referring to **[How to Reset Video Driver Settings](https://us.battle.net/support/en/article/24142)**  .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Make an exception for Starcraft 2 in your Antivirus app
 
  If you have any third-party antivirus app installed, you might need to uninstall it temporarily or you can try **adding Starcraft 2 as an exception to your third-party antivirus application** .
@@ -177,25 +159,12 @@ _Note: This method applies only to the_ non-reference model cards_._
 2. Type **msconfig** and press **Enter** to open **System Configuration** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/type_msconfig_in_the_run_box.jpg)
 3. Click the **Services** tab in the new window and check the **Hide all Microsoft services** box, then click **Disable all** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all.png)
 4. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open task manager](https://images.drivereasy.com/wp-content/uploads/2020/02/startup.png)
 5. Under the **Startup** tab, select **each** startup item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/02/disable-all-startups.png)
 6. Go back to **System Configuration** , then click **OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![go back to configuration window to click OK](https://images.drivereasy.com/wp-content/uploads/2020/02/click-OK.png)
 7. Restart your PC and launch Starcraft 2 to see if the game can launch normally.
 
@@ -212,8 +181,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -221,4 +188,24 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-tips.techidaily.com/updated-in-2024-deciphering-the-sideways-photo-puzzle-on-ig/"><u>[Updated] In 2024, Deciphering the Sideways Photo Puzzle on IG</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-streamlining-media-transfer-sending-tweets-videos-via-whatsapp-for-2024/"><u>[Updated] Streamlining Media Transfer Sending Tweets' Videos via WhatsApp for 2024</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-the-new-standard-how-does-av1-outperform-vp9/"><u>[Updated] The New Standard How Does AV1 Outperform VP9?</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-unleash-youtubes-earning-potential-with-strategic-short-videos/"><u>[Updated] Unleash YouTube's Earning Potential with Strategic Short Videos</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/2024-approved-affordable-high-frame-rate-recordings/"><u>2024 Approved Affordable High Frame Rate Recordings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-for-steamvrs-frustrating-error-308/"><u>Comprehensive Fixes for SteamVR's Frustrating Error 308</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/differences-between-ipad-pro-and-macbook-pro-performance-design-and-more/"><u>Differences Between iPad Pro and MacBook Pro: Performance, Design & More</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-overcoming-compatibility-hurdles-between-logitech-g-hub-and-windows-operating-system/"><u>Effective Solutions: Overcoming Compatibility Hurdles Between Logitech G Hub and Windows Operating System</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-halo-3-freezing-issues-steps-to-prevent-your-game-from-crashing/"><u>Fixing Halo 3 Freezing Issues: Steps to Prevent Your Game From Crashing</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/how-to-bypass-icloud-activation-lock-on-mac-for-apple-iphone-xs-max-by-drfone-ios/"><u>How To Bypass iCloud Activation Lock on Mac For Apple iPhone XS Max?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-zoom-stalling-problems-in-windows-1110-update-your-guide/"><u>How to Overcome Zoom Stalling Problems in Windows 11/10: Update Your Guide</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/latest-canon-d530-software-upgrade-free-download-available-now/"><u>Latest Canon D530 Software Upgrade - Free Download Available Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-restore-your-link-to-a-blizzard-game-server/"><u>Solved! How to Restore Your Link to a Blizzard Game Server</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-cod-black-ops-cold-war-error-80070057-complication/"><u>Step-by-Step Solution for 'Cod: Black Ops Cold War' Error 80070057 Complication</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-endless-crash-loop-effective-solutions-for-stable-diablo-3-gameplay/"><u>Stop the Endless Crash Loop: Effective Solutions for Stable Diablo 3 Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unblocked-strategies-for-restoring-your-right-to-play-fortnite-after-an-error/"><u>Unblocked: Strategies for Restoring Your Right to Play Fortnite After an Error</u></a></li>
+<li><a href="https://win11.techidaily.com/winning-methods-the-ultimate-guide-to-effective-wsl-2-use/"><u>Winning Methods: The Ultimate Guide to Effective WSL 2 Use</u></a></li>
+</ul></div>
 

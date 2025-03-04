@@ -1,7 +1,7 @@
 ---
 title: "Conquer the Crash: Overcome Halo Infinite Keeps Freezing on Your Computer Using 7 Easy Fixes"
-date: 2024-08-18T18:04:44.613Z
-updated: 2024-08-19T18:04:44.613Z
+date: 2025-02-28T16:24:13.641Z
+updated: 2025-03-04T16:28:35.575Z
 tags:
   - win11
   - win10
@@ -15,21 +15,10 @@ thumbnail: https://thmb.techidaily.com/46220d4e5de752c9f9121bc5fe5314f52ef333630
 
 ## Overcome: Game Crashes During Halo Infinite Sessions on PCs - Now Fixed
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-featured.jpg)
 
  The new Halo is finally here. And while the internet is celebrating the return of Master Chief, some players are already reporting**serious crashing issues on PC** . But don’t worry if you happen to be on the same boat. We’ve already compiled a list of all working fixes down below, just try them and get back to the field.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try them all. Simply work your way down until you hit the one that does the trick.
@@ -43,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/46220d4e5de752c9f9121bc5fe5314f52ef333630
 7. **[Check your DLC](https://tools.techidaily.com/drivereasy/download/)**
 8. **[Scan and repair Windows](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Verify the integrity of your game
 
  When troubleshooting game issues, first**check if your game files are intact** . This is especially true for new games as patches roll out almost every day. Verifying your game checks for the latest updates as well.
@@ -54,15 +40,8 @@ Here’s how:
 
 1. Open your Steam client and go to **LIBRARY** .
 2. Right click **Halo Infinite** and select **Properties..** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-1.jpg)
 3. On the left, select **LOCAL FILES** . Then click **Verify integrity of game files** .. and wait for the process to complete.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-verified-2.jpg)
 
 Once done, restart Halo Infinite and check if the issue persists.
@@ -85,9 +64,6 @@ Now check if you can play Halo Infinite normally.
 
  If disabling overlays doesn’t do the trick for you, simply check out the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Upgrade your graphics driver
 
  Game crashes tend to be graphics-related. In other words, you could be using a broken or outdated GPU driver. Gamers seemed to be the only group that’s surprised by the beta launch—the two GPU manufacturers have already rolled out the latest Halo-ready drivers. So if you don’t know if you have the latest graphics drivers, definitely check it now.
@@ -112,44 +88,28 @@ Now check if you can play Halo Infinite normally.
 
  If the latest GPU driver doesn’t fix your issue, you can try to[uninstall the graphics driver using DDU](https://tools.techidaily.com/drivereasy/download/) and reinstall the previous versions of driver. Or you can move on to the next fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## Fix 4: Check for conflicting programs
 
  According to some players, Halo Infinite doesn’t get along well with some hardware-monitoring tools. So you can check if your PC is running programs like**MSI Afterburner** and**Razer Synapse** . If you do, close them and check if that fixes the problem. Also, check if the game runs better without controllers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/afterburner.jpg)
 
 MSI Afterburner
 
  If you’re sure it’s not the cause, simply continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5: Disable fullscreen optimizations
 
  Windows 10 comes with a built-in feature called fullscreen optimizations, which should theoretically improve performance of fullscreen apps. But some players have reported that this would sometimes crash the game. So you can try to turn it off and see if this is the issue.
 
 1. Open your Steam client and go to **LIBRARY** . Right click **Halo Infinite** and select **Properties..** .
 2. On the left, select **LOCAL FILES** . Then click **Browse…** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-1.jpg)
 3. Right click the**HaloInfinite** launcher and select**Property** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-2.jpg)
 4. In the pop-up window, check the box before**Disable fullscreen optimizations** . Next click**Change high DPI settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-3.jpg)
 5. Under**High DPI scaling override** , check the box next to**Override high DPI scaling behavior** . Then click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/halo-fullscreen-files-4.jpg)
 
 Now restart your game and check the gameplay.
@@ -165,10 +125,6 @@ If this trick doesn’t give you luck, simply try the next one.
 1. On your keyboard, press**Win+I** (the Windows logo key and the i key) to open the Windows Settings app. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Click**Check for updates** . Windows will then download and install the available patches. It might take some time (up to 30 mins).  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002162&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/1_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (1 PC) Free upgrade. No monthly fees ever. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 
  To confirm you’ve installed _all_  the system updates, **repeat these steps** until it prompts “You’re up to date” when you click **Check for updates** .
@@ -181,9 +137,6 @@ If this trick doesn’t give you luck, simply try the next one.
 2. Click**Check for updates** , and Windows will scan for any available updates.  
 ![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-19.png)
 3. If there are available updates, Windows will automatically download them for you. Restart your computer for the update to take effect if needed.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-20.png)
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 4. If there are_no_ available updates, you’ll see**You’re up to date** like this.![](https://images.drivereasy.com/wp-content/uploads/2023/09/image-21.png)
 
  Once you’ve installed all the system updates, restart your computer and test the gameplay.
@@ -200,9 +153,6 @@ Here’s how:
 2. In the left pane, select**DLC** . Uncheck the box before**Multiplayer High-Res Textures** . Then restart your game.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Multiplayer-High-Res-Textures.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 8: Scan and repair Windows
 
  If none of the fixes above work for you, chances are you’re looking at a**system issue** . We all use our computers differently, it’s usually hard to tell what went wrong exactly. So before you reinstall Windows for this $60 game, you can try to scan your system with a professional repair tool.
@@ -213,9 +163,6 @@ Here’s how:
 2. Open Fortect. It will run a free scan of your PC and give you**a detailed report of your PC status** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-scan.jpg)
 3. Once finished, you’ll see a report showing all the issues. To fix all the issues automatically, click**Start Repair** (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
  Fortect comes with a 60-day Money-Back Guarantee. If you’re not satisfied with Fortect, you can contact <support@fortect.com> for a full refund.
@@ -232,8 +179,6 @@ Here’s how:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +186,26 @@ Here’s how:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/back-4-blood-ue4-setback-tackling-the-troublesome-map-bug-on-black-desert-platforms/"><u>'Back 4 Blood' UE4 Setback: Tackling the Troublesome Map Bug on Black Desert Platforms</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-in-2024-battle-for-asgard-the-ragnarok-chronicles/"><u>[New] In 2024, Battle for Asgard The Ragnarök Chronicles</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/n-2024-innovative-naming-strategies-elevating-your-filmora-channels-identity/"><u>[New] In 2024, Innovative Naming Strategies Elevating Your Filmora Channels' Identity</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-1st-place-video-saver-download-anywhere-anytime/"><u>[Updated] In 2024, 1St Place Video Saver - Download Anywhere, Anytime</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-beauty-brilliance-masterclasses-and-product-explorations/"><u>[Updated] In 2024, Beauty Brilliance Masterclasses and Product Explorations</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722999305724-banished-from-worlds-and-diablo-heres-how-to-fix-your-lost-access-to-blizzard-games/"><u>Banished From Worlds and Diablo? Here's How to Fix Your Lost Access to Blizzard Games</u></a></li>
+<li><a href="https://win-top.techidaily.com/comment-activer-lacces-aux-fichiers-hors-ligne-dans-windows-10/"><u>Comment Activer L’Accès Aux Fichiers Hors-Ligne Dans Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-fixes-how-to-overcome-fortnite-login-issues-instantly/"><u>Easy Fixes: How to Overcome Fortnite Login Issues Instantly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-remedies-to-stop-recurring-shutdowns-and-freezes-in-the-fantasy-rpg-blade-and-magic-volume-7-for-personal-computers/"><u>Effective Remedies to Stop Recurring Shutdowns and Freezes in the Fantasy RPG 'Blade & Magic Volume 7' For Personal Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/facing-issues-with-your-granblue-fantasy-launch-sequence-correct-the-relink-problem-now/"><u>Facing Issues with Your Granblue Fantasy Launch Sequence? Correct the ReLink Problem Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-guide-how-to-troubleshoot-and-restore-your-discord-webcam-functionality/"><u>Fix Guide: How to Troubleshoot and Restore Your Discord Webcam Functionality</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-mobile-blur-apps-to-soften-images/"><u>In 2024, Mobile Blur Apps to Soften Images</u></a></li>
+<li><a href="https://techtrends.techidaily.com/inside-scoop-on-quest-meta-3-lite-release-schedule-price-speculations-and-cutting-edge-specifications-revealed/"><u>Inside Scoop on Quest Meta 3 Lite: Release Schedule, Price Speculations, and Cutting-Edge Specifications Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002962677-netflix-troubleshooting-guide-for-xbox-gamers-now-functional/"><u>Netflix Troubleshooting Guide for Xbox Gamers – Now Functional!</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/quick-methods-for-saving-vimeo-footage/"><u>Quick Methods for Saving Vimeo Footage</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-unfreezing-deathloop-game-on-pc-and-playstation-5/"><u>Solutions for Unfreezing Deathloop Game on PC and PlayStation 5</u></a></li>
+<li><a href="https://extra-information.techidaily.com/the-perfect-blend-of-efficiency-and-artistry-in-apple-photography-apps/"><u>The Perfect Blend of Efficiency and Artistry in Apple Photography Apps</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshoot-your-iphone-a-guide-to-fixing-a-non-responsive-standby-mode/"><u>Troubleshoot Your iPhone: A Guide to Fixing a Non-Responsive Standby Mode</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-for-unrecognized-gpu-with-msi-afterburner-on-windows-11/"><u>Troubleshooting Guide for Unrecognized GPU with MSI Afterburner on Windows 11</u></a></li>
+</ul></div>
 

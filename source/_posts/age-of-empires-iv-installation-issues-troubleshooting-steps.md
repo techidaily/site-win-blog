@@ -1,7 +1,7 @@
 ---
 title: Age of Empires IV Installation Issues - Troubleshooting Steps
-date: 2024-08-18T18:09:00.721Z
-updated: 2024-08-19T18:09:00.721Z
+date: 2025-02-25T16:24:54.209Z
+updated: 2025-03-04T16:10:44.488Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/81859b9b9a2b43ef1619da21603d5597234e71b31
 
 NieR Replicant ver.1.22474487139… is finally online! But did you manage to play it? It could be annoying to have the game crash on startup. Don’t worry, this post could help.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Check your specs
 
 Make sure your PC meets the minimum requirement of NieR Replicant.
@@ -31,9 +28,6 @@ Make sure your PC meets the minimum requirement of NieR Replicant.
 | Graphics  | AMD Radeon R9 270X or NVIDIA GeForce GTX 960 |
 | Storage   | 42 GB available space                        |
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -64,9 +58,6 @@ If this fix doesn’t work, move to the next fix.
 
  If this doesn’t work for you, then try to verify game files in Steam.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Verify game files
 
  When the game files are missing or corrupted, the game would crash. Verify the integrity of game files can simply solve the issue.
@@ -75,9 +66,6 @@ If this fix doesn’t work, move to the next fix.
 2. Right click NieR Replicant ver.1.22474487139… and select**Properties** …  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 3. In the left pane, select**LOCAL FILES** , then click**Verify integrity of game files….**  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
 4. When the process is completed, relaunch NieR Replicant.
 
@@ -95,16 +83,10 @@ There are mainly two ways you can update the graphics driver:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-1.jpg)
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -123,16 +105,10 @@ Here’s how to disable Windows Security temporarily.
 1. Press the**Windows logo key and I** together on your keyboard to open Windows Settings. Click**Update & Security** .  
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select**Windows Security** in the left pane, and click**Virus & threat protection** .  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. Click**Manage settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Turn off Real-time protection.  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
 Relaunch NieR Replicant and check if it’s running properly.
@@ -149,8 +125,6 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -158,4 +132,22 @@ Relaunch NieR Replicant and check if it’s running properly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-2024-approved-essential-guidelines-for-implementing-music-emojis-in-instagram/"><u>[New] 2024 Approved Essential Guidelines for Implementing Music Emojis in Instagram</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-premier-top-eight-for-unparalleled-4k-viewing/"><u>[Updated] Premier Top Eight for Unparalleled 4K Viewing</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-top-10-tips-recording-your-youtube-livestreams/"><u>[Updated] Top 10 Tips Recording Your Youtube Livestreams</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/a-perfect-guide-to-remove-or-disable-google-smart-lock-on-tecno-by-drfone-android/"><u>A Perfect Guide To Remove or Disable Google Smart Lock On Tecno</u></a></li>
+<li><a href="https://some-tips.techidaily.com/apples-latest-event-reveals-surprising-349-ipad-triumph-among-innovations/"><u>Apple's Latest Event Reveals Surprising $349 iPad Triumph Among Innovations</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/breaking-down-the-new-2023-samsung-bd-j5900-model-for-2024/"><u>Breaking Down the New 2023 Samsung BD-J5900 Model for 2024</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/discover-apples-hidden-gem-an-unseen-superior-function-of-the-latest-iphone-revealed/"><u>Discover Apple's Hidden Gem: An Unseen Superior Function of the Latest iPhone - Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/escape-from-tarkov-no-more-pc-crashes-expert-tips-and-solutions/"><u>Escape From Tarkov - No More PC Crashes! Expert Tips & Solutions</u></a></li>
+<li><a href="https://blog-min.techidaily.com/guia-expertos-transforma-archivos-de-video-avchdm2ts-en-formatos-mp4-sin-perdida-top-5-metodos/"><u>Guía Expertos: Transforma Archivos De Vídeo AVCHD/M2TS en Formatos MP4 Sin Pérdida - Top 5 Métodos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005328872-how-to-fix-discord-high-cpu-usage-2024-guide/"><u>How to Fix Discord High CPU Usage – 2024 Guide</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-how-does-the-stardust-trade-cost-in-pokemon-go-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, How does the stardust trade cost In pokemon go On Vivo X Fold 2? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013875677-overcome-the-hold-up-immortals-fenyx-rising-launch-issues-resolved/"><u>Overcome the Hold-Up: Immortals Fenyx Rising Launch Issues Resolved</u></a></li>
+<li><a href="https://win-blog.techidaily.com/razer-synapse-wont-launch-troubleshooting-tips-inside/"><u>Razer Synapse Won't Launch? Troubleshooting Tips Inside!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/top-tips-to-prevent-call-of-duty-warzone-lag-and-crashes-on-pcs-expert-advice/"><u>Top Tips to Prevent Call of Duty Warzone Lag and Crashes on PCs (Expert Advice, )</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-for-a-stable-doom-eternal-experience/"><u>Troubleshooting Steps for a Stable DOOM Eternal Experience</u></a></li>
+</ul></div>
 

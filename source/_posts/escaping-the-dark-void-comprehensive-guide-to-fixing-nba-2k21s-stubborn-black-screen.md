@@ -1,7 +1,7 @@
 ---
 title: "Escaping the Dark Void: Comprehensive Guide to Fixing NBA 2K21's Stubborn Black Screen"
-date: 2024-08-18T18:01:08.122Z
-updated: 2024-08-19T18:01:08.122Z
+date: 2025-03-01T16:28:18.232Z
+updated: 2025-03-04T16:10:45.900Z
 tags:
   - win11
   - win10
@@ -27,9 +27,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 8 GB                                                              |
 | **Video Card**   | NVIDIA GeForce GTX 670 or AMD Radeon R9 270 (or better)           |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ### Recommended requirement for Far Cry 5
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)  |
@@ -38,9 +35,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 8 GB                                                              |
 | **Video Card**   | NVIDIA GeForce GTX 1080 SLI or AMD RX Vega 56 CFX (or better)     |
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 4K configuration for Far Cry 5
 
 | **Supported OS** | Windows 10                                                              |
@@ -49,9 +43,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 16 GB                                                                   |
 | **Video Card**   | NVIDIA GeForce GTX 1070 or AMD RX Vega 56 (or better)                   |
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 6 fixes that have helped many gamers solve their problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -73,9 +64,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 3. Click**Change settings for all users** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay1.jpg)
 4. Under Settings, check**Run this program as an administrator** . Click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay2.jpg)
 5. Click**OK** then run Uplay and the game to check.
 
@@ -87,14 +75,8 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 
 1. Open Uplay Client.
 2. Click**Games** .  
-<!-- affiliate ads begin -->
-<a href="https://imp.i110150.net/c/5597632/924299/11305" target="_top" id="924299"><img src="//a.impactradius-go.com/display-ad/11305-924299" border="0" alt="" width="520" height="100"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/u.jpg)
 3. Right-click Far Cry 5 or click the little arrow button and click**Verify files** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
 4. Wait for Uplay to verify game files. Run Far Cry 5 to check.
 
@@ -134,9 +116,6 @@ OR
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update**  button next to the flagged driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)  
@@ -155,14 +134,8 @@ OR
 1. Open **Settings** in Far Cry 5, and click **Options** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40699cd971c.jpg)
 2. Click **Video** .  
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069c1c77c8.jpg)
 3. Click the **Monitor** tab, and set **Window Mode to Windowed Mode** , and adjust the **Display Resolution** to the display resolution of your computer display, or lower than that.  
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920047/21774" target="_top" id="1920047"><img src="//a.impactradius-go.com/display-ad/21774-1920047" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920047/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
 4. Click the **Quality** tab, and adjust the available settings to **Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
@@ -172,9 +145,6 @@ OR
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Stop overclocking
 
  If you’re overclocking your CPU or GPU, you need to stop doing this for a shot. Overclocking means setting your CPU and memory to run at speeds higher than their official speed grade. Almost all processors ship with a speed rating. However, this may cause your games stuck on loading or crashing, so you should **set your CPU clock speed rate back to default** to see if this could help.
@@ -191,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -200,4 +168,26 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-2024-approved-effective-streaming-strategies-facebook-crossposting/"><u>[New] 2024 Approved Effective Streaming Strategies Facebook Crossposting</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/new-discover-phones-that-take-your-gear-vr-adventure-to-the-next-level/"><u>[New] Discover Phones That Take Your Gear VR Adventure to the Next Level</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-prime-picks-top-10-unrivaled-digital-backdrop-switchers/"><u>[New] Prime Picks Top 10 Unrivaled Digital Backdrop Switchers</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/new-step-by-step-assembling-impactful-insta-colleagues/"><u>[New] Step-by-Step Assembling Impactful Insta Colleagues</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-the-411-on-building-sports-video-gold-for-2024/"><u>[Updated] The 411 on Building Sports Video Gold for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/contemplating-if-video-selfies-need-validation-on-instagram/"><u>Contemplating if Video Selfies Need Validation On Instagram</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-free-gaming-optimizing-your-pc-to-enhance-forza-horizon-4-play-experience/"><u>Crash-Free Gaming: Optimizing Your PC to Enhance Forza Horizon 4 Play Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/davinci-resolve-trouble-solutions-to-opening-issues-on-a-windows-machine/"><u>DaVinci Resolve Trouble: Solutions to Opening Issues on a Windows Machine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/division-2-stuck-on-loading-expert-advice-to-solve-launch-problems-2024-edition/"><u>Division 2 Stuck on Loading? Expert Advice to Solve Launch Problems - 2024 Edition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/double-trouble-heres-how-to-tackle-your-pc-games-two-fps-drops-problem/"><u>Double Trouble? Here's How to Tackle Your PC Game's Two FPS Drops Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-ui-error-27711-in-call-of-duty-black-ops-cold-war-solved/"><u>How to Fix UI Error 27711 in Call of Duty: Black Ops Cold War - Solved</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-asus-rog-phone-7-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Asus ROG Phone 7 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/in-2024-master-guide-convert-youtube-videos-seamlessly-to-mpeg/"><u>In 2024, Master Guide Convert YouTube Videos Seamlessly to MPEG</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-prime-choices-in-cinema-cameras-from-newbies-to-professionals/"><u>In 2024, Prime Choices in Cinema Cameras From Newbies to Professionals</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-crashes-and-stuttering-in-bloodhunt-for-a-smoother-gaming-experience/"><u>Overcoming Crashes & Stuttering in Bloodhunt for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-challenges-of-an-uninitialized-vanguard-tips-and-tricks-for-valorant-players/"><u>Overcoming the Challenges of an Uninitialized Vanguard - Tips & Tricks for Valorant Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723002451818-sea-of-thieves-no-more-freezing-eliminating-the-crash-factor/"><u>Sea of Thieves No More Freezing: Eliminating the Crash Factor</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-non-working-steam-remote-play-problem-with-these-helpful-fixes/"><u>Solve Your Non-Working Steam Remote Play Problem with These Helpful Fixes!</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/why-the-acer-aspire-e-15-is-a-must-have-for-savvy-shoppers-on-a-budget/"><u>Why the Acer Aspire E 15 Is a Must-Have for Savvy Shoppers on a Budget</u></a></li>
+</ul></div>
 

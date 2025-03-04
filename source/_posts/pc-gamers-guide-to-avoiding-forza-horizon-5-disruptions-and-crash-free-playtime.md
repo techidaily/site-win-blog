@@ -1,7 +1,7 @@
 ---
 title: PC Gamers Guide to Avoiding 'Forza Horizon 5' Disruptions and Crash-Free Playtime
-date: 2024-08-18T18:06:16.462Z
-updated: 2024-08-19T18:06:16.462Z
+date: 2025-03-02T16:32:34.439Z
+updated: 2025-03-04T16:25:08.280Z
 tags:
   - win11
   - win10
@@ -32,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 
  Note: the screenshots below come from Windows 10, and fixes apply to Windows 8 and Windows 7.
 
-<!-- affiliate ads begin -->
-<a href="https://funwhole.sjv.io/c/5597632/1702887/17189" target="_top" id="1702887"><img src="//a.impactradius-go.com/display-ad/17189-1702887" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1702887/17189" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Install the latest patch
 
  Since many technical problems can be resolved by restarting, it never hurts to restart your computer and your game. Often this will be enough to fix the error.
@@ -60,9 +57,6 @@ thumbnail: https://thmb.techidaily.com/288c4a8a533b0f1094aca3a28c5db0188ea8b5a3c
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b336957ab.jpg)
 3. Click the**Update** button next to the flagged video card to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.  
  Or click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).  
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b351ec11a.jpg)
 4. Restart your computer to take effect.
 
@@ -70,9 +64,6 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 
  If WOW keeps crashing, don’t worry. There is something else to try.
 
-<!-- affiliate ads begin -->
-<a href="https://proteahair.pxf.io/c/5597632/1983634/23621" target="_top" id="1983634"><img src="//a.impactradius-go.com/display-ad/23621-1983634" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983634/23621" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Run Scan and Repair for your game
 
  If some problems occur to World of Warcraft, such as WOW crashes, you can try the Scan and Repair feature in Battle.net application, which automatically scans and repairs the problems in your game. To do so:
@@ -81,18 +72,12 @@ Open Word of Warcraft and see if the crashing issue has been resolved.
 2. Click the icon of**World of Warcraft** from the game list on the left.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6c02c345.jpg)
 3. Click the**Options** button and select**Scan and Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa6fe36d60.jpg)
 4. Click**Begin Scan** , and follow the on-screen instructions to finish. It may take a while.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fa7275b199.jpg)
 
 Once finish, restart your game and see if it works properly.
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Disable DVR app in Xbox
 
  Windows automatically enables DVR in Xbox app, but sometimes this is incompatible with games running in your computer. So you can disable DVR in Xbox, so World of Warcraft stops crashing.
@@ -102,15 +87,9 @@ Here’s what you can do:
 **If you’re using Windows 10 Build 14393 and earlier:**
 
 1. Search**Xbox** from the search box on your desktop, and click**Xbox** to open it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3940d874.jpg)
 2. You’ll need to log into your Microsoft account if it’s the first time you open it. If that’s the case, enter your Microsoft account to log in.
 3. Click the**Gear** button on the left to open**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3bdbf4aa.jpg)
 4. Click the**Game DVR** tab, and turn it**off** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b3e5954b9.png)
@@ -124,9 +103,6 @@ Here’s what you can do:
 2. Click the**Gaming** section.  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b8fab18ae4d5.jpg)
 3. Click**Game DVR** on the left, and make sure to turn off**Record** **in the background while I’m playing a game** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/10/img_5bd6b4223cc30.jpg)
 4. Restart your computer and launch World of Warcraft and see if it works.
 
@@ -143,8 +119,6 @@ Here’s what you can do:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -152,4 +126,23 @@ Here’s what you can do:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-tips.techidaily.com/new-cost-effective-cumulus-vault-for-colossal-archives/"><u>[New] Cost-Effective Cumulus Vault for Colossal Archives</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/new-in-2024-comprehensively-understanding-iphones-recording-feature/"><u>[New] In 2024, Comprehensively Understanding iPhone's Recording Feature</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-in-2024-unveiling-the-art-of-designing-captivating-valorant-thumbnails/"><u>[Updated] In 2024, Unveiling the Art of Designing Captivating Valorant Thumbnails</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/2024-approved-ideal-pc-recording-software-for-windows-enthusiasts/"><u>2024 Approved Ideal PC Recording Software for Windows Enthusiasts</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ark-survival-ascended-pc-crash-issues-discover-these-9-fixes-for-smooth-gameplay/"><u>ARK: Survival Ascended PC Crash Issues? Discover These 9 Fixes for Smooth Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/complete-guide-fixing-fifa-20-game-crashes-on-windows-pcs/"><u>Complete Guide: Fixing FIFA 20 Game Crashes on Windows PCs</u></a></li>
+<li><a href="https://facebook.techidaily.com/elite-engagements-unpacking-verified-metas-vs-blue-badges-battlegrounds/"><u>Elite Engagements: Unpacking Verified Metas Vs. Blue Badges Battlegrounds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/escape-from-tarkov-fps-boost-pro-level-guide-to-elevate-your-gameplay-speedily/"><u>Escape From Tarkov FPS Boost - Pro-Level Guide to Elevate Your Gameplay Speedily!</u></a></li>
+<li><a href="https://win11.techidaily.com/from-vanished-panes-to-visible-windows-essential-steps-for-recovering-hidden-screens-6-ways/"><u>From Vanished Panes to Visible Windows: Essential Steps for Recovering Hidden Screens (6 Ways)</u></a></li>
+<li><a href="https://fake-location.techidaily.com/how-to-find-ispoofer-pro-activation-key-on-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Find iSpoofer Pro Activation Key On Apple iPhone 14 Pro? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-repair-the-windows-11-taskbar-when-it-stops-responding/"><u>How to Repair the Windows 11 Taskbar When It Stops Responding</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-challenges-with-the-final-era-patch-launch-on-windowsmacs/"><u>Overcoming Challenges with The Final Era Patch Launch on Windows/Macs</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-puzzle-effective-fixes-for-when-assassins-creed-mirage-refuses-to-launch/"><u>Solving the Puzzle: Effective Fixes for When Assassin's Creed Mirage Refuses to Launch</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/step-by-step-guide-converting-and-editing-heic-images-in-photoshop-on-both-windows-and-macos/"><u>Step-by-Step Guide: Converting and Editing HEIC Images in Photoshop on Both Windows & macOS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tower-of-fantasy-pc-fix-effective-solutions-to-end-game-freezes-and-crashes/"><u>Tower of Fantasy PC Fix: Effective Solutions to End Game Freezes and Crashes</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/ultimate-guide-to-catch-the-regional-located-pokemon-for-motorola-g24-power-drfone-by-drfone-virtual-android/"><u>Ultimate Guide to Catch the Regional-Located Pokemon For Motorola G24 Power | Dr.fone</u></a></li>
+</ul></div>
 

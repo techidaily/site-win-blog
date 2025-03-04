@@ -1,7 +1,7 @@
 ---
 title: How to Fix Paradox Launcher Not Working
-date: 2024-08-18T18:02:51.004Z
-updated: 2024-08-19T18:02:51.004Z
+date: 2025-02-27T16:30:22.636Z
+updated: 2025-03-04T16:28:18.839Z
 tags:
   - win11
   - win10
@@ -19,10 +19,6 @@ thumbnail: https://thmb.techidaily.com/c8cc0b50d6a862024b28911d2e2409173d05c3a9f
 
 **Having trouble launching Outriders on PC?** You’re not alone. Hundreds of gamers have reported this exact issue. The good news is that there’re some known solutions to this problem. In this article, we’ll introduce some available fixes, read on and find out what they are…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## How do I fix the “Outriders Not Launching” issue?
 
  Not all solutions are necessary, just work the list down until you find the one that does the trick!
@@ -39,9 +35,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 [6: Reinstall Outriders](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Before we dive into anything advanced…
 
  Make sure you’ve tried to **restart your PC and your game launcher (Epic Games Launcher & Steam)** .
@@ -59,9 +52,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  You can also check out the[recommended specifications](https://tools.techidaily.com/drivereasy/download/) if needed.
 
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Run as administrator
 
  Sometimes your system doesn’t give your game enough permissions for it to launch. So you may want to grant the game administrative rights for it to function properly. To run as administrator:
@@ -75,9 +65,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 1. In your library, right-click**Outriders** , then click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-46-04.jpg)
 2. Under**LOCAL FILES** , click**Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-51-05.jpg)
 3. Once you locate your game files, right-click**OUTRIDERS-Win64-Shipping.exe** , then select**Run as administrator** . If prompted for permission, click Yes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_11-52-07.jpg)
@@ -104,9 +91,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Once complete, launch the game to see if the problem persists. If this doesn’t give you luck, move on to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  An outdated or faulty graphics driver is a common reason of game launching failure. You may want to update your graphics card driver, to make sure it’s functioning properly.
@@ -123,16 +107,10 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 **Automatic driver update** – If you don’t have the time, patience, or computer skills to update your driver manually, you can, instead, do it automatically with [Driver Easy](https://tools.techidaily.com/drivereasy/download/) . Driver Easy will automatically recognize your system, find the correct driver for your exact video card and your Windows version, then it will download and install the driver correctly:
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2021/04/1-5.jpg)
 3. Click the **Update**  button next to the flagged graphics card driver to automatically download the correct version of the driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/DE-scan-update-graphics.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -140,10 +118,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  Restart your PC for the new driver to take effect. Launch Outriders to see if it opens. If the problem returns, proceed to the next solution.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 4: Allow the game through firewall
 
  Sometimes Windows Defender will block your game if it assumes the game is a virus. Similarly, a third-party antivirus software could also conflict with your game. To stop your game from being blocked, there are two options:
@@ -155,18 +129,12 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
 #### Allow Outriders and your game launcher through firewall
 
 1. In the search bar next to the Start button, type**firewall** then click**Allow an app through Windows Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1596691/17882" target="_top" id="1596691"><img src="//a.impactradius-go.com/display-ad/17882-1596691" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1596691/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-35-56.jpg)
 2. Click**Change settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-38-43.jpg)
 3. Click**Allow another app** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-39-57.jpg)
 4. Click**Browse** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_15-07-37.jpg)
 5. Navigate to the folder containing your game files.  
 
@@ -177,9 +145,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
  Once you locate**OUTRIDERS-Win64-Shipping.exe** , select it then click**Open** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-50-02.jpg)
 6. Click**Add** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-11_14-49-01.jpg)
 7. Check the box of the network type you would allow Outriders to access. If you play at home or at friend’s, check**Private** . Then click**OK** .  
 
@@ -234,9 +199,6 @@ If this fix doesn’t help, try the next solution.
 2. Click**Uninstall** .
 3. Once the game is uninstalled, restart your Epic Games Launcher and reinstall the game.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Additional Notes
 
  1: Check out the**recommended PC specifications** to run Outriders below if needed:
@@ -267,8 +229,6 @@ If this fix doesn’t help, try the next solution.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -276,4 +236,26 @@ If this fix doesn’t help, try the next solution.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-from-monochrome-to-masterpiece-pro-photo-hue-harmony/"><u>[New] From Monochrome to Masterpiece Pro Photo Hue Harmony</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-the-virtual-reality-movies-in-the-cinema/"><u>[New] In 2024, The Virtual Reality Movies in the Cinema</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-discreetly-see-fb-snapshots/"><u>[Updated] In 2024, Discreetly See FB Snapshots</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/ed-in-2024-unlock-the-power-of-persuasion-perfecting-your-shorts-visual-hook/"><u>[Updated] In 2024, Unlock the Power of Persuasion Perfecting Your Shorts' Visual Hook</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/updated-in-2024-unlock-your-view-best-bargain-cam-recording-apps/"><u>[Updated] In 2024, Unlock Your View Best Bargain Cam Recording Apps</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-unlock-high-end-visuals-a-practical-guide-for-sdr-to-hdr-transition/"><u>[Updated] Unlock High-End Visuals A Practical Guide for SDR to HDR Transition</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722996909879-fix-your-fortnite-login-issues-fast-and-easy-step-by-step-guide/"><u>Fix Your Fortnite Login Issues Fast and Easy – Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grand-theft-auto-5-crashing-problems-resolved-a-step-by-step-guide/"><u>Grand Theft Auto 5 Crashing Problems Resolved: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-game-lag-issues-on-dying-light-action-survival-platformer/"><u>How to Overcome Game Lag Issues on Dying Light Action Survival Platformer</u></a></li>
+<li><a href="https://windows11.techidaily.com/how-to-tweak-the-mouse-pointer-accessibility-settings-on-windows-11/"><u>How to Tweak the Mouse Pointer Accessibility Settings on Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-your-pc-against-starfields-intensive-cpu-demands-proven-fixes-for-gamers/"><u>Optimizing Your PC Against Starfield's Intensive CPU Demands - Proven Fixes for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-fix-your-full-nightmare-aftermath-fna-security-glitch-in-windows-computers/"><u>Resolved: Fix Your Full-Nightmare-Aftermath (FNA) Security Glitch in Windows Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-total-war-warhammer-ii-fixes-for-common-system-crash-problems/"><u>Resolving TOTAL WAR: WARHAMMER II - Fixes for Common System Crash Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/revive-your-rpg-adventure-overcoming-stutter-and-freeze-problems-in-baldurs-gate-iii/"><u>Revive Your RPG Adventure: Overcoming Stutter and Freeze Problems in Baldur's Gate III</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-issues-with-starting-crusader-kings-2-and-effective-solutions-explored/"><u>Solved: Issues with Starting Crusader Kings 2 and Effective Solutions Explored</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steps-to-restore-your-utorrent-connection-and-resume-torrent-downloads/"><u>Steps to Restore Your uTorrent Connection and Resume Torrent Downloads</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/the-complete-business-guide-to-facebook-marketing-mastery-for-2024/"><u>The Complete Business Guide to Facebook Marketing Mastery for 2024</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/the-complete-guide-to-vivo-y02t-frp-bypass-everything-you-need-to-know-by-drfone-android/"><u>The Complete Guide to Vivo Y02T FRP Bypass Everything You Need to Know</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/twice-as-nice-sequential-video-playback-via-television-setup/"><u>Twice as Nice Sequential Video Playback via Television Setup</u></a></li>
+</ul></div>
 

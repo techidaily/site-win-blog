@@ -1,7 +1,7 @@
 ---
 title: Master the Fixes for Persistent Dota 2 Game Crashes
-date: 2024-08-18T18:09:02.782Z
-updated: 2024-08-19T18:09:02.782Z
+date: 2025-03-02T16:34:31.312Z
+updated: 2025-03-04T16:08:29.927Z
 tags:
   - win11
   - win10
@@ -37,9 +37,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 | Graphics  | NVIDIA GeForce GTX 1060 / AMD Radeon RX Vega 56 |
 | Storage   | 32 GB available space                           |
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
 1. [Download the latest patch](https://tools.techidaily.com/drivereasy/download/)
@@ -51,9 +48,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  If you haven’t been updated your game for a while, you can update your game. The official keeps releasing new patches, the latest version may solve the crashing issue.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Manage Virtual Memory
 
  If the game crashes happened in the loading screen, you can try this fix. By changing the setting of Virtual Memory, the crash should be gone.
@@ -78,18 +72,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 1. Run Steam.
 2. In the LIBRARY, right-click on the game and click**Properties** .
 3. Choose**LOCAL FILES** and click**BROWSE LOCAL FILES** .  
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/browse-2.jpg)
 4. Navigate to the save folder, delete Data(999).sav & Data(999).bak.
 5. Reboot your computer and check the issue is solved or not.
@@ -98,10 +80,6 @@ You won’t be happy when you’re playing Dragon Quest 11 with a random crashin
 
  The game is built with an old Unreal Engine version. This may be the reason for the random crashes. You can underclock your CPU speed by 100 MHz or 150 MHz to see whether it helps or not.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-spreadsheet-free-excel-editor-online-offline-1x.93e269d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Bonus: Update your drivers
 
  To get a better gaming experience, it’s very important to keep your drivers updated. There are two ways you can download your graphics and sound card drivers.
@@ -126,14 +104,8 @@ OR
 
 1. [Download](https://tools.techidaily.com/drivereasy/download/) and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-18.jpg)
 3. Click the **Update** button next to the driver to automatically download and install the correct version of this driver (you can do this with Free version). Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://store.absolute.com/order/checkout.php?PRODS=4601998&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/ef70e26a0b5da778eda3f48014d087cd/728x90_larger-shield.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/NVIDIA-Geoforce.jpg)
 
  Thanks for reading. Hope this article meets your need. And you are welcome to leave comments below.
@@ -146,8 +118,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -155,4 +125,23 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-files.techidaily.com/new-2024-approved-transforming-challenges-into-triumphs-with-these-30-tips/"><u>[New] 2024 Approved Transforming Challenges Into Triumphs with These 30 Tips</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-essential-iphones-dive-into-these-top-5-podcast-tools/"><u>[Updated] 2024 Approved Essential iPhones Dive Into These Top 5 Podcast Tools</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-your-world-transformed-youtubes-immersive-vr-collection-for-2024/"><u>[Updated] Your World Transformed Youtube's Immersive VR Collection for 2024</u></a></li>
+<li><a href="https://techno-recovery.techidaily.com/choosing-the-right-apple-notebook-macbook-pro-vs-macbook-air-deciding-factors-and-recommendations-techradar/"><u>Choosing the Right Apple Notebook: MacBook Pro Vs. MacBook Air - Deciding Factors and Recommendations | TechRadar</u></a></li>
+<li><a href="https://win-blog.techidaily.com/grounded-software-problems-effective-solutions-for-windows-in-the-year-2024/"><u>Grounded Software Problems: Effective Solutions for Windows in the Year 2024</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/guide-to-watching-netflix-originals-on-the-gaming-centric-switch-device/"><u>Guide to Watching Netflix Originals on the Gaming-Centric Switch Device</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/high-definition-dvd-extractor-convert-your-dvds-into-stunning-hd-videos/"><u>High Definition DVD Extractor: Convert Your DVDs Into Stunning HD Videos</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-madden-nfl-21-pc-gaming-how-to-eliminate-frustrating-game-crashes-for-good/"><u>Mastering Madden NFL 21 PC Gaming: How to Eliminate Frustrating Game Crashes for Good</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/resolve-missing-d3dcompiler43dll-file-error-on-your-pc/"><u>Resolve 'Missing' D3DCompiler_43.dll File Error on Your PC</u></a></li>
+<li><a href="https://win-forum.techidaily.com/1722915274991-social-media-success-strategies-for-facebook-twitter-instagram-and-you/"><u>Social Media Success Strategies for Facebook, Twitter, Instagram & You.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-ping-not-received-issue-in-halo-infinity-a-step-by-step-guide/"><u>Solving the 'Ping Not Received' Issue in Halo Infinity - A Step-by-Step Guide</u></a></li>
+<li><a href="https://solve-hot.techidaily.com/step-by-step-complete-tutorial-restoring-your-hp-laptop-with-windows-11-via-factory-reset-simple-yet-expert-methods/"><u>Step-by-Step Complete Tutorial: Restoring Your HP Laptop with Windows 11 via Factory Reset – Simple Yet Expert Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-ghostrunner-error-on-windows-10/"><u>Troubleshooting and Resolving Ghostrunner Error on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-necromunda-hired-gun-game-crashes-on-windows-fixes-and-tips/"><u>Troubleshooting Necromunda: Hired Gun Game Crashes on Windows - Fixes and Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-steps-resolving-server-connection-lost-issues-in-escape-from-tarkov/"><u>Troubleshooting Steps: Resolving 'Server Connection Lost' Issues in Escape From Tarkov</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-preventing-elex-ii-from-faulty-shutdowns-on-windowsmac/"><u>Ultimate Guide to Preventing Elex II From Faulty Shutdowns on Windows/Mac</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Expert Tips to Eliminate Frames Per Second Drops in Resident Evil Village While Gaming on Computer
-date: 2024-08-18T18:05:02.870Z
-updated: 2024-08-19T18:05:02.870Z
+date: 2025-02-27T16:36:14.774Z
+updated: 2025-03-04T16:04:44.817Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/6e815c1b64efb14276b71fc721777a9cc6b2edabd
 
 Lately, many players have been complaining about War Thunder low FPS after the new update. If you’re also troubled by this annoying problem, don’t worry. Read this guide to see how you can fix it easily & quickly!
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not try them all; simply work your way through the list until you find the one that does the trick.
@@ -43,9 +40,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **2)** Click**3D settings** \>**Manage 3D settings** in the left pane.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-4.jpg)
 
 **3)** Select the**Program Settings** tab and select**War Thunder** from the drop-down list. Then, select**High performance NVIDIA processor** .
@@ -58,9 +52,6 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics driver
 
  The War Thunder low FPS issue is possibly caused by an outdated or a faulty graphics driver. To gain a smooth and optimal gaming experience, you should update your graphics driver on a regular basis.
@@ -85,20 +76,12 @@ Lately, many players have been complaining about War Thunder low FPS after the n
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-1-1.jpg)
 
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).
 
  Or click**Update All** to automatically download and install the correct version of_all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click**Update All** .)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698824&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3pro-screenshot-homepage.png" border="0">PCDJ DEX 3 for Windows & MAC is the total entertainment DJ software solution, offering audio, video, and karaoke mixing ability. Automatic beat-sync, smart looping, 4 decks, DJ MIDI controller support, Karaoke Streaming and much more. 
-DEX 3 meets the demands of today’s versatile DJ, without compromise! 
-DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations and Free Updates)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/6-2-1.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -110,10 +93,6 @@ DEX 3 (Audio, Video and Karaoke Mixing Software for Windows/MAC | 3 Activations 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ### Fix 3 – Shut down unnecessary applications
 
  While you may not be aware, applications running in the background will consume much of your system resource and render War Thunder in low FPS. So, to let your game work without interruption, you can close all unneeded applications before you start a game.
@@ -138,29 +117,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run box. Then, type**control** in the field and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/w4-1.jpg)
 
 **2)** Select**Small icons** from the drop-down menu next to**View by** and click**Power Options** .
 
-<!-- affiliate ads begin -->
-<h3 id="200610"><a href="https://sentrypc.7eer.net/c/5597632/200610/3022">Parental Control Software</a></h3>
-<span class="text-ad-content">
-	#1 Rated Parental Control Software.<br/>
-	Monitor & Control all PC Activity!<br/>
-		<cite style="color:green">sentrypc.com/parental-controls/</cite>
-	</span><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/200610/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-2-1.jpg)
 
 **3)** Click**High performance** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-3.jpg)
 
  Restart your computer so that the changes will take effect. Then, launch War Thunder to check if the FPS drops are still there. If yes, there are two more fixes below.
@@ -201,9 +165,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **4)** On your keyboard, press the**Windows logo key** and**E** at the same time to open File Explorer. Then, Paste**C:\\Program Files (x86)\\Steam\\steamapps\\common** on the address bar and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475"><img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-6.jpg)
 
 **5)** Click the**War Thunder folder** and press**Delete** .
@@ -223,8 +184,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +191,26 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-webster.techidaily.com/024-approved-profit-potential-earning-from-your-youtube-mobile-subscribers/"><u>[New] 2024 Approved Profit Potential Earning From Your YouTube Mobile Subscribers</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/new-from-sound-to-words-a-free-guide-to-youtube-transcribing-mastery/"><u>[New] From Sound to Words A FREE Guide to YouTube Transcribing Mastery</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-in-2024-elevating-your-youtube-content-selecting-professional-gear/"><u>[New] In 2024, Elevating Your YouTube Content Selecting Professional Gear</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-in-2024-sharex-examined-evaluations-and-alternatives/"><u>[New] In 2024, ShareX Examined Evaluations & Alternatives</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-rhythmic-resonance-select-sites-for-downloading-tones/"><u>[New] Rhythmic Resonance Select Sites for Downloading Tones</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/2024-approved-spotify-how-to-exclude-recommended-podcasts/"><u>2024 Approved Spotify How to Exclude Recommended Podcasts</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/confidentiality-concerns-when-using-tools-such-as-chatgpt-online/"><u>Confidentiality Concerns When Using Tools Such as ChatGPT Online</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-pc-gameplay-with-higher-frames-per-second-fps-a-comprehensive-guide-to-troubleshooting-and-solutions/"><u>Elevate PC Gameplay with Higher Frames per Second (FPS): A Comprehensive Guide to Troubleshooting and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-stable-running-of-back-4-blood-game-on-your-pc/"><u>Fixes for Stable Running of 'Back 4 Blood' Game on Your PC</u></a></li>
+<li><a href="https://change-location.techidaily.com/in-2024-4-methods-to-turn-off-life-360-on-oppo-a59-5g-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, 4 Methods to Turn off Life 360 On Oppo A59 5G without Anyone Knowing | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-the-magnificent-art-of-pokemon-go-streaming-on-tecno-camon-20-premier-5g-drfone-by-drfone-virtual-android/"><u>In 2024, The Magnificent Art of Pokemon Go Streaming On Tecno Camon 20 Premier 5G? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722993280145-mastering-the-trick-to-kickstart-your-football-manager-2023-game-successfully/"><u>Mastering the Trick to Kickstart Your Football Manager 2023 Game Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-rocket-league-lag-and-freezing-glitches-for-smoother-play/"><u>Overcoming Rocket League Lag and Freezing Glitches for Smoother Play</u></a></li>
+<li><a href="https://win-blog.techidaily.com/payday-ngames-solved-overcoming-launch-problems-in-payday-2-for-windows-users/"><u>Payday nGames Solved: Overcoming Launch Problems in Payday 2 for Windows Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-persistent-dark-screen-issue-in-fortnite-for-pc-users/"><u>Resolving the Persistent Dark Screen Issue in Fortnite for PC Users</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/reviving-kernel32dll-on-your-pc/"><u>Reviving Kernel32.dll on Your PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-to-mount-and-blade-2-bannerlords-sudden-shutdown-glitches/"><u>Solution to Mount & Blade 2: Bannerlord's Sudden Shutdown Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/taming-the-beastly-bug-solving-dragon-age-origins-windows-10-crash-issues/"><u>Taming the Beastly Bug: Solving Dragon Age: Origins Windows 10 Crash Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-with-game-launching-heres-how-to-validate-and-fix-it/"><u>Trouble with Game Launching? Here's How to Validate and Fix It!</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Football Manager Game Stability Enhanced - No More Unexpected Shutdowns in Version #!
-date: 2024-08-18T18:02:42.606Z
-updated: 2024-08-19T18:02:42.606Z
+date: 2025-02-26T16:13:38.858Z
+updated: 2025-03-04T16:27:11.740Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/7031118575fc7c4b871e9bc0318e22904e8a5da64
 
 _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alone! Many players are reporting it, but the good news is that you can fix it. Here are 5 solutions to try.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -49,9 +45,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
  Or click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click Update All.)
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-22_12-00-59-2.jpg)
 
  You can do it for free if you like, but it’s partly manual.
@@ -72,16 +65,10 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
 
 **3)**  Right-click **Football Manager 2020**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-43-22.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-46-20.jpg)
 
 **5)**  Restart your game to test your issue.
@@ -94,9 +81,6 @@ If your game still crashes, then go ahead with the fix below.
 
 **1)**  Right-click**your taskbar** and select **Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-53-50.jpg)
 
 **2)**  Right-click the program you want to close and select **End task** .
@@ -115,32 +99,20 @@ If your game still crashes, then go ahead with the fix below.
 
 **2)**  On your keyboard, press the **Windows logo** key and**R** at the same time.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-09-03.jpg)
 
 **3)** Type**%LocalAppData%\\Sports Interactive\\Football Manager 2020** , then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-07-35.jpg)
 
 **4)**  Delete the **Preferences** and **Cache folder** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
 
 **5)** Restart your game to check if this worked for you.
 
 If your game is still unplayable, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Reinstall _FM20_  and/or Steam
 
  If your game or the game launcher is not properly installed on your PC, or if your game version is outdated, you’re likely to run into issues like game crashes. In this case, try reinstalling your game and your game launcher (if necessary).
@@ -158,9 +130,6 @@ If your game is still unplayable, move on to the next fix.
 
 **3)**  Right-click **Football Manager 2020** , and select **Manage > Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-20-09.jpg)
 
 **4)** Restart Steam to download and install _Football Manager 2020_ .
@@ -173,9 +142,6 @@ If your game is still unplayable, move on to the next fix.
 
 **1)** Right-click the Steam icon and select Open file location.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-22-59.jpg)
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up your game content.
@@ -192,9 +158,6 @@ If your game is still unplayable, move on to the next fix.
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://martinic.evyy.net/c/5597632/1422856/4482" target="_top" id="1422856"><img src="//a.impactradius-go.com/display-ad/4482-1422856" border="0" alt="" width="580" height="309"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -223,8 +186,6 @@ If your game is still unplayable, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -232,4 +193,26 @@ If your game is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/01851781-new-2024-approved-banner-bonanza-unlimited-50-free-youtube-designs/"><u>[New] 2024 Approved Banner Bonanza Unlimited 50 FREE YouTube Designs!</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-in-2024-capturing-a-full-view-iphone-filming-secrets-for-social-feeds/"><u>[New] In 2024, Capturing a Full View IPhone Filming Secrets for Social Feeds</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-2024-approved-ignite-social-success-discover-the-10-most-powerful-igtv-video-ideas-for-brands/"><u>[Updated] 2024 Approved Ignite Social Success Discover the 10 Most Powerful IGTV Video Ideas for Brands</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ed-2024-approved-your-stocks-your-screen-ideal-youtube-groups/"><u>[Updated] 2024 Approved Your Stocks, Your Screen Ideal YouTube Groups</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-blend-beats-and-bullets-in-microsofts-presentation-tool/"><u>[Updated] How to Blend Beats and Bullets in Microsoft's Presentation Tool</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-in-2024-understanding-why-your-shorts-thumbnails-dont-show-up/"><u>[Updated] In 2024, Understanding Why Your Shorts' Thumbnails Don't Show Up</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diagnosing-and-repairing-problems-with-your-paradox-launcher/"><u>Diagnosing and Repairing Problems with Your Paradox Launcher</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/discovering-the-covert-intelligent-communication-chips-in-macs-and-ipads-do-you-own-them/"><u>Discovering the Covert Intelligent Communication Chips in Macs and iPads - Do You Own Them?</u></a></li>
+<li><a href="https://screen-capture.techidaily.com/discovering-top-5-fluids-in-virtual-playgrounds/"><u>Discovering Top 5 Fluids in Virtual Playgrounds</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-overcoming-pc-freezes-during-manor-lords-gaming-sessions/"><u>Expert Advice on Overcoming PC Freezes During 'Manor Lords' Gaming Sessions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723010751685-fix-your-multiversus-issues-discover-the-ultimate-8-hacks/"><u>Fix Your MultiVersus Issues - Discover the Ultimate 8 Hacks!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-jurassic-world-evolution-game-crash-problems-step-by-step-solution/"><u>Fixed! Jurassic World Evolution Game Crash Problems: Step-by-Step Solution</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-your-playstation-4-when-it-stops-responding-a-complete-walkthrough/"><u>Fixing Your PlayStation 4 When It Stops Responding: A Complete Walkthrough</u></a></li>
+<li><a href="https://fox-that.techidaily.com/how-to-repair-your-iphone-microphone-malfunctioning-a-comprehensive-guide/"><u>How To Repair Your iPhone Microphone Malfunctioning: A Comprehensive Guide</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/resolving-disconnected-nvidia-graphics-top-tips-and-fixes/"><u>Resolving Disconnected Nvidia Graphics: Top Tips & Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/saints-row-wont-start-here-are-effective-fixes-for-your-pc/"><u>Saints Row Won’t Start? Here Are Effective Fixes for Your PC!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-lag-problems-in-rainbow-six-siege/"><u>Solving Lag Problems in Rainbow Six Siege</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-unresponsive-nvidia-settings-dashboard/"><u>Step-by-Step Solutions for Unresponsive NVIDIA Settings Dashboard</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-steps-resolving-the-battlenet-launch-issue/"><u>Ultimate Troubleshooting Steps: Resolving the Battle.net Launch Issue</u></a></li>
+</ul></div>
 

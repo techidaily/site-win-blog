@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2021 PC Crash Fix Guide - Stay in the Game Without Glitches
-date: 2024-08-18T18:04:35.013Z
-updated: 2024-08-19T18:04:35.013Z
+date: 2025-02-25T16:10:38.211Z
+updated: 2025-03-04T16:24:49.920Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
  Before you continue to the following fixes, please make sure your PC specs meet the **[minimum requirements](https://www.footballmanager.com/games/football-manager-2021)**  to play Football Manager 2021.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1 – Update your graphics driver
 
  If you’re using the wrong graphics driver or it’s outdated, it’s very likely that Football Manager 2021 will crash and malfunction. To run FM 21 smoothly, you should always keep your graphics driver up to date.
@@ -42,9 +39,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-8.jpg)
 3. Click the**Update** button next to the flagged graphics card driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
@@ -61,9 +55,6 @@ Football Manager 2021 is by far one of the most popular management simulator gam
  If something goes wrong with your PC games, it’s likely the game files are missing or damaged. You can perform an integrity check to get it fixed.
 
 1. Launch Steam and navigate to the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** from the game list and click**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
@@ -91,9 +82,6 @@ If this method doesn’t help, go ahead with the next fix below.
 
 1. On your keyboard, press the**Windows logo key** and**E** at the same time to open the File Explorer.
 2. Click the**View** tab and make sure**Hidden items** is ticked.  
-<!-- affiliate ads begin -->
-<a href="https://getlyla.pxf.io/c/5597632/1455723/15391" target="_top" id="1455723"><img src="//a.impactradius-go.com/display-ad/15391-1455723" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1455723/15391" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/4-2-5.jpg)
 3. Navigate to the following locations:  
  **C:\\Users\\\[Your Windows Username\]\\AppData\\Local\\Sports Interactive\\Football Manager 2021**
@@ -101,9 +89,6 @@ If this method doesn’t help, go ahead with the next fix below.
 
 So does the crash go away now? If not, there is the last fix to try.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5 – Set launch options
 
  If you receive a specific DXGI\_ERROR\_DEVICE error message or an application error, the Football Manager 2021 crashing issue is related to your graphics card. That’s especially true if you’re using Intel GPUs. And you can launch the game with lower graphics settings and see how it works.
@@ -111,19 +96,10 @@ So does the crash go away now? If not, there is the last fix to try.
 1. Open Steam and go to the**Library** tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-1-5.jpg)
 2. Right-click**Football Manager 2021** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/2-2-8.jpg)
 3. Click**Set Launch Options** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-1-3.jpg)
 4. Type**–config very\_low** in the text field and click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1638364/17190" target="_top" id="1638364"><img src="//a.impactradius-go.com/display-ad/17190-1638364" border="0" alt="" width="1280" height="720"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1638364/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/5-2-4.jpg)
 
  Such setting may render FM 2021 in lower performance, but it will mitigate the crashing effectively.
@@ -144,8 +120,6 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -153,4 +127,26 @@ So does the crash go away now? If not, there is the last fix to try.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-2024-approved-prime-choices-in-cinema-cameras-from-newbies-to-professionals/"><u>[New] 2024 Approved Prime Choices in Cinema Cameras From Newbies to Professionals</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/new-in-2024-instagram-insights-identifying-your-posts-audience/"><u>[New] In 2024, Instagram Insights Identifying Your Post's Audience</u></a></li>
+<li><a href="https://eaxpv-info.techidaily.com/new-transform-your-youtube-footage-into-cinematic-delight-with-imovie-expertise/"><u>[New] Transform Your YouTube Footage Into Cinematic Delight with iMovie Expertise</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-tropical-tango-toucan/"><u>[Updated] 2024 Approved Tropical Tango Toucan</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-best-12-motion-activated-cameras-featuring-location-tracking/"><u>[Updated] Best 12 Motion-Activated Cameras Featuring Location Tracking</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-building-your-own-studiopc-a-4k-video-editing-system-blueprint/"><u>2024 Approved Building Your Own StudioPC A 4K Video Editing System Blueprint</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-maplestory-bugs-in-windows-11-new-tips-and-tricks-2023/"><u>Beat MapleStory Bugs in Windows 11 (New Tips & Tricks, 2023)</u></a></li>
+<li><a href="https://fox-useful.techidaily.com/effective-strategies-to-troubleshoot-and-fix-android-file-transfer-problems/"><u>Effective Strategies to Troubleshoot and Fix Android File Transfer Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-fix-for-unstable-darkest-dungeon-gameplay-on-windows-computers/"><u>Expert Fix for Unstable Darkest Dungeon Ⅱ Gameplay on Windows Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improving-gameplay-frame-rates-mastering-tainted-grail-conquest/"><u>Improving Gameplay Frame Rates: Mastering Tainted Grail: Conquest</u></a></li>
+<li><a href="https://activate-lock.techidaily.com/in-2024-3-effective-ways-to-unlock-icloud-account-without-password-from-apple-iphone-12-by-drfone-ios/"><u>In 2024, 3 Effective Ways to Unlock iCloud Account Without Password From Apple iPhone 12</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-recommended-best-applications-for-mirroring-your-samsung-galaxy-s24-ultra-screen-drfone-by-drfone-android/"><u>In 2024, Recommended Best Applications for Mirroring Your Samsung Galaxy S24 Ultra Screen | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013876450-logitech-gaming-software-wont-opensolved/"><u>Logitech Gaming Software Won't Open[Solved]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maplestory-pc-troubleshooting-guide-stop-windows-10-crashes-and-enjoy-gaming/"><u>MapleStory PC Troubleshooting Guide - Stop Windows 10 Crashes & Enjoy Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/persistent-problems-with-remnant-from-the-ashes-game-keeps-crashing-down/"><u>Persistent Problems with 'Remnant: From the Ashes': Game Keeps Crashing Down</u></a></li>
+<li><a href="https://win-blog.techidaily.com/rest-avoid-activities-that-may-aggrave-the-injury-or-cause-further-damage-to-the-affected-area-allowing-the-body-time-to-rest-promotes-proper-healing/"><u>Rest: Avoid Activities that May Aggrave the Injury or Cause Further Damage to the Affected Area. Allowing the Body Time to Rest Promotes Proper Healing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-problem-how-to-get-monster-hunter-stories-2-wings-of-ruin-up-and-running-on-your-device/"><u>Solving the Problem: How to Get Monster Hunter Stories 2: Wings of Ruin Up and Running on Your Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-error-fix-conquering-code-130-with-these-easy-troubleshooting-tips/"><u>Steam Error Fix: Conquering Code 130 With These Easy Troubleshooting Tips</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/tactics-to-determine-igtv-viewership-success-for-2024/"><u>Tactics to Determine IGTV Viewership Success for 2024</u></a></li>
+</ul></div>
 

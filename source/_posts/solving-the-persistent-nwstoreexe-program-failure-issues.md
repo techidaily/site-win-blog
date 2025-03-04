@@ -1,7 +1,7 @@
 ---
 title: Solving the Persistent nw_store.exe Program Failure Issues
-date: 2024-08-18T18:07:22.738Z
-updated: 2024-08-19T18:07:22.738Z
+date: 2025-02-26T16:13:25.509Z
+updated: 2025-03-04T16:28:49.074Z
 tags:
   - win11
   - win10
@@ -24,9 +24,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 3. **[Delete temp files](https://tools.techidaily.com/drivereasy/download/)**
 4. **[Disable firewall and antivirus software](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 1\. Verify integrity of game files
 
  When you have trouble launching your game properly, you need to check whether your game files are corrupted or missing. To do this, you can utilize the tool of verifying integrity of game files by following the steps below:
@@ -37,18 +34,12 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  2) Select the**LOCAL FILES** tab and click on the**Verify integrity of game files…** button. And Steam will begin to verify your game files.  
   
-<!-- affiliate ads begin -->
-<a href="https://engwe.pxf.io/c/5597632/2093504/25579" target="_top" id="2093504"><img src="//a.impactradius-go.com/display-ad/25579-2093504" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2093504/25579" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/among-us-verify-integrity-of-game-files.png)
 
  This will take several minutes. Simply wait for the process to complete. Once finished, click on the Play button and check if you can bypass the loading screen.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 2\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. If the driver is outdated or corrupted, you’re more likely to run into issues like it takes an extremely long time to load into the main menu screen. To pinpoint the root cause, you’re supposed to update your graphics driver.
@@ -65,9 +56,6 @@ In general, the game **[Among Us](https://www.epicgames.com/store/en-US/p/among-
 
  Then find the driver corresponding with your Windows version and download it manually. Once you’ve downloaded the correct driver for your system, double-click on the downloaded file and follow the on-screen instructions to install it.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically update your graphics driver (recommended)
 
  If you don’t have the time, patience and computer skills to update your graphics driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . It’s a useful tool that automatically recognizes your system and finds the correct drivers for it. You don’t need to know exactly what system your computer is running or risk downloading and installing the wrong driver.
@@ -78,18 +66,6 @@ Here’s how to update drivers with Driver Easy:
 
  2) Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any devices with missing or outdated drivers.
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update drivers automatically with Driver Easy to fix Beyond Light FPS drops](https://images.drivereasy.com/wp-content/uploads/2020/11/scan-now-9-available.jpg)
 
  3) Click **Update All** . Driver Easy will then download and update all your outdated and missing device drivers, giving you the latest version of each, direct from the device manufacturer.  
@@ -111,9 +87,6 @@ Here’s how to update drivers with Driver Easy:
 
  2) Type **%temp%** and then press Enter on your keyboard.  
   
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/delete-temp-files-1.jpg)
 
  3) Delete all the files in the **temp**  folder. (Press **Ctrl**  and **A** at the same time to select all the files. Then right-click and select **Delete** .)  
@@ -124,10 +97,6 @@ Here’s how to update drivers with Driver Easy:
 
  5) Now go to your **Recycling Bin**  from your desktop. Right-click on it and select **Empty Recycle Bin** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/empty-recycle-bin.jpg)
 
  After deleting the temp files, click on the Play button and you should be able to get into the main screen instantly.
@@ -148,9 +117,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
  4) Select **Turn off Windows Defender Firewall (not recommended)**  for Domain network, Private Network and Public network. Then click **OK** .  
   
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![disable windows firewall](https://images.drivereasy.com/wp-content/uploads/2021/05/disable-firewall.png)
 
  This may put you at greater risk for malware attacks. To be advised, don’t visit any unknown websites. If necessary, repeat the similar steps to turn on the firewall.
@@ -169,8 +135,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -178,4 +142,19 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/new-an-exclusive-list-of-heartwarming-weddings-youtube-and-vimeo-edition-for-2024/"><u>[New] An Exclusive List of Heartwarming Weddings - Youtube & Vimeo Edition for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-gonetflixgo-master-screenrecording-on-mac-with-ease-and-excellence-for-2024/"><u>[New] GoNetflixGo Master ScreenRecording on Mac, With Ease & Excellence for 2024</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/new-in-2024-methods-to-rectify-obs-fullscreen-crash/"><u>[New] In 2024, Methods to Rectify OBS Fullscreen Crash</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/new-premier-playwriting-for-podcasts-and-radios/"><u>[New] Premier Playwriting for Podcasts & Radios</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-propel-your-instagram-content-techniques-for-higher-interaction/"><u>[New] Propel Your Instagram Content Techniques for Higher Interaction</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/new-step-by-step-guide-to-slow-mo-techniques-on-instagram-reels-for-2024/"><u>[New] Step-by-Step Guide to Slow Mo Techniques on Instagram Reels for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/updated-streamlining-your-instagram-storytelling-with-size-tweaks-for-2024/"><u>[Updated] Streamlining Your Instagram Storytelling with Size Tweaks for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-fortnite-running-low-on-ram-a-comprehensive-guide/"><u>How to Fix Fortnite Running Low on RAM: A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-tips-for-overcoming-game-crashes-in-armored-core-e-6-the-ultimate-pc-guide-to-a-smooth-playthrough/"><u>Master Tips for Overcoming Game Crashes in Armored Core E 6: The Ultimate PC Guide to a Smooth Playthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/seamless-avi-to-aac-file-conversion-fast-and-free-with-our-online-tool/"><u>Seamless AVI to AAC File Conversion - Fast & Free with Our Online Tool!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-continuous-crashes-in-your-dota-2-gameplay/"><u>Step-by-Step Solutions for Continuous Crashes in Your Dota 2 Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-fixing-non-responsive-voice-chat-feature-in-pc-version-of-among-us/"><u>Ultimate Guide: Fixing Non-Responsive Voice Chat Feature in PC Version of Among Us</u></a></li>
+</ul></div>
 

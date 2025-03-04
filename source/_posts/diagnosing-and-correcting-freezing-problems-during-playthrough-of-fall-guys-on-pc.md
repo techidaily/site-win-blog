@@ -1,7 +1,7 @@
 ---
 title: Diagnosing and Correcting Freezing Problems During Playthrough of Fall Guys on PC
-date: 2024-08-18T18:00:48.653Z
-updated: 2024-08-19T18:00:48.653Z
+date: 2025-03-02T16:22:53.383Z
+updated: 2025-03-04T16:28:40.600Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8581bfa31a5d038a1f8f5ee676586f0437981f1b9
 
 Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and you’re certainly not the only one who faces it. Many players are reporting this issue. But the good news is that you can fix it. This article is going to show you how to fix the error code 4128 quickly and easily.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892108/21290" target="_top" id="1892108"><img src="//a.impactradius-go.com/display-ad/21290-1892108" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892108/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Check server status
 
  When something went wrong with your game, the first thing you need to do is to check the[**server status for Call of Duty: WW2**](https://support.activision.com/onlineservices?gameTitle=Call+of+Duty%3A+WWII) .
@@ -36,9 +33,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 * **[Xbox One](https://tools.techidaily.com/drivereasy/download/)**
 * **[PlayStation 4](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fixes for COD PC Players
 
  Here are some fixes that are useful for many Windows users. You may not have to try them all. Just work your way down the list until you find the one that works for you.
@@ -57,16 +51,10 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 **1)** Click your account number on the top right corner, then click**Log out of account** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-109.png)
 
 **2)** Click**LOGOUT** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-110.png)
 
  Relaunch Steam and enter your account name and password. Then, try launching your game again to test your issue. If you still receive the error code, don’t worry. There are still 6 fixes to try.
@@ -91,9 +79,6 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 **3)** Click **Yes** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/06/image-353.png)
 
  Restart your game to check if this helped. If not, read on and check the fix, below.
@@ -126,30 +111,18 @@ Keep getting the error code 4128 in Call of Duty WW2? This is quite annoying and
 
 **1)**  If your Steam is running now, right-click the**Steam icon** on the taskbar and select **Exit** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-209.png)
 
 **2)** Right-click the**Steam icon** , and then select **Run as administrator** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-789.png)
 
 **3)** Click **Steam** , and then select **Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-788.png)
 
 **4)** Select **Web Browser** and click **DELETE WEB BROWSER CACHE** .
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/427477/5172" target="_top" id="427477"><img src="//a.impactradius-go.com/display-ad/5172-427477" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/427477/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-787.png)
 
 **5)** Click **OK** .
@@ -200,10 +173,6 @@ OR
 
 **3)** Click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[](https://tools.techidaily.com/drivereasy/download/) [Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-201.png)
 
  You can do it for free if you like, but it’s partly manual.
@@ -224,23 +193,14 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=32667153&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.coolmuster.com/uploads/image/20201228/feature02.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-887.png)
 
 **4)** Under **View by** , select **Category** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-888.png)
 
 **5)** Select **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793233/19578" target="_top" id="1793233"><img src="//a.impactradius-go.com/display-ad/19578-1793233" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793233/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-889.png)
 
 **6)**  Right-click **Steam** , and then click **Uninstall** .
@@ -255,25 +215,16 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 **9)** Right-click your **Steam icon**  and select **Open file location** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-892.png)
 
 **10)**  Move the backup **steamapps folder**  you create before to your current directory location.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-893.png)
 
 **11)** Restart your game to see if this fixed the error code issue.
 
 Hopefully, your game works correctly now. Enjoy!
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fixes for Xbox One Players
 
  If you’re gaming with your Xbox One and the error code 4128 appears while you’re gaming, check the fixes below.
@@ -318,9 +269,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 **4)** Select**Update console.**
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-93.png)
 
  After the update is complete, restart your game to see if it runs correctly now. If your problem still exists, move to the fix below.
@@ -331,9 +279,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 **1)** On the home screen, press the**Xbox** button to open the guide.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.zonealarm.com/order/checkout.php?PRODS=38658749&QTY=1&AFFILIATE=108875&CART=1"><img src="https://sc1.checkpoint.com/sc1/za/images/boxes/pa_500.png" border="0">ZoneAlarm Pro Antivirus + Firewall NextGen</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1024x671.jpg)
 
 **2)** Select**Settings** .
@@ -342,16 +287,10 @@ Hopefully, your game works correctly now. Enjoy!
 
 **3)** Select **System** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-90-1024x562.png)
 
 **4)** Select**Console info.**
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-94.png)
 
 **5)** Select**Reset console** .
@@ -378,9 +317,6 @@ Hopefully, your game works correctly now. Enjoy!
 
 **3)** Press the**A button** on your controller.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/xbox-one-controller-2206687_1920-1-1024x671.jpg)
 
 **4)** Highlight your game, press the**☰ button** .
@@ -438,16 +374,10 @@ Hope one of the fixes above worked for you.
 
 **2)** Select **Settings** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657397/16446" target="_top" id="1657397"><img src="//a.impactradius-go.com/display-ad/16446-1657397" border="0" alt="" width="336" height="280"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657397/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1077-1024x217.png)
 
 **3)** Select **System Software Update,** and then follow the on-screen instructions to update the system software for your PS4.
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1076.png)
 
 **4)** Restart your game to see if this resolved your issues.
@@ -468,9 +398,6 @@ Hope one of the fixes above worked for you.
 
 **4)** Connect your controller to your PS4 with a USB cable.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-1099.png)
 
 **5)**  Press the **PS button** on your controller.
@@ -500,8 +427,6 @@ Hope one of the fixes above worked for you.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -509,4 +434,24 @@ Hope one of the fixes above worked for you.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://vp-tips.techidaily.com/new-2024-approved-find-your-perfect-mac-live-streamer-from-here/"><u>[New] 2024 Approved Find Your Perfect Mac Live Streamer From Here</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/new-master-your-mix-essential-audio-devices-for-podcast-success/"><u>[New] Master Your Mix Essential Audio Devices for Podcast Success</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/avigating-the-path-stream-your-google-meet-chats-to-youtube-for-2024/"><u>[New] Navigating the Path Stream Your Google Meet Chats to YouTube for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-tips-of-recording-time-lapse-video-on-iphone/"><u>[New] Tips of Recording Time Lapse Video on iPhone</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/new-top-notch-apps-to-refine-your-iphone-and-android-gopro-videos/"><u>[New] Top-Notch Apps to Refine Your iPhone & Android GoPro Videos</u></a></li>
+<li><a href="https://network-issues.techidaily.com/advanced-displays-unseen-windows-11-issue/"><u>Advanced Displays Unseen: Windows 11 Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/apex-legends-error-resolution-dealing-with-error-code-23-effectively/"><u>Apex Legends Error Resolution: Dealing with Error Code 23 Effectively</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oneplus-nord-3-5g-without-the-home-button-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset OnePlus Nord 3 5G Without the Home Button | Dr.fone</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-atandt-apple-iphone-7-plus-with-3-methods-by-drfone-ios/"><u>How to Unlock AT&T Apple iPhone 7 Plus with 3 Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-fix-defeat-dragon-quest-xis-persistent-crash-glitch-once-and-for-all/"><u>Master the Fix: Defeat Dragon Quest XI's Persistent Crash Glitch Once and for All!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-madden-nfl-20-on-pc-eliminate-crashes-once-and-for-all/"><u>Mastering Madden NFL 20 on PC: Eliminate Crashes Once & For All</u></a></li>
+<li><a href="https://youtube-data.techidaily.com/ating-the-numbers-youtube-earnings-and-cpm-insights/"><u>Navigating the Numbers YouTube Earnings & CPM Insights</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723005946279-quick-fix-guide-for-uninterrupted-gaming-eliminating-control-malfunctions/"><u>Quick-Fix Guide for Uninterrupted Gaming - Eliminating Control Malfunctions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-the-error-code-0xc19001e1-on-your-windows-10-machine/"><u>Resolving the 'Error Code 0xC19001E1' On Your Windows 10 Machine</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-solve-your-persistent-minecraft-crash-issues-in-just-6-ways/"><u>Troubleshoot & Solve Your Persistent Minecraft Crash Issues in Just 6 Ways!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warframe-crashes-fixed-now-running-smoothly/"><u>Warframe Crashes Fixed: Now Running Smoothly!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/windows-11-and-civ-6-a-guide-to-overcoming-game-launch-obstacles/"><u>Windows 11 and Civ 6: A Guide to Overcoming Game Launch Obstacles</u></a></li>
+</ul></div>
 

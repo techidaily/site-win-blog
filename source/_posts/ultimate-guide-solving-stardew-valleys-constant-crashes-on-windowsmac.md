@@ -1,7 +1,7 @@
 ---
 title: "Ultimate Guide: Solving Stardew Valley's Constant Crashes on Windows/Mac"
-date: 2024-08-18T18:05:41.118Z
-updated: 2024-08-19T18:05:41.118Z
+date: 2025-03-01T16:25:39.982Z
+updated: 2025-03-04T16:12:56.998Z
 tags:
   - win11
   - win10
@@ -40,9 +40,6 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 1. Press the**Windows logo key + I** together to open the**Windows Settings** .
 2. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/troubleshoot.jpg)
 3. Click**Troubleshoot** on the left pane, scroll down and click**Windows Store Apps** .
 4. Click**Run the troubleshooter** .  
@@ -60,20 +57,11 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 1. Press the**Windows logo key + I** together to open the**Windows Settings** .
 2. Click**Apps** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app2.jpg)
 3. In the**Apps & features** tab, find and click**Microsoft Edge** . Then click**Advanced options** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app.jpg)
 4. Click**Repair** .
 5. Run Microsoft Edge to check the problem is resolved or not. If**Repair** doesn’t help, repeat the steps above and click**Reset** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/app1.jpg)
 6. Run Microsoft Edge to check the problem is resolved or not.
 
@@ -81,25 +69,14 @@ Even though Microsoft Edge browser is not very popular these days, as a product 
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 3: Clear cache and history
 
  If your Microsoft Edge opens but stops working, you can use this way to fix the problem. Clear browsing history and cache data has been proved useful by many users.
 
 1. Run Microsoft Edge. Click the three dots button in the upper right corner.
 2. Click History.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history.jpg)
 3. Click**Clear history** .  
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history1.jpg)
 4. Select all boxes and click**Clear** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/history2.jpg)
@@ -107,9 +84,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Uninstall Trusteer Rapport or Endpoint
 
  If you have installed Trusteer Rapport or Endpoint, you need to uninstall it. They might be the reason for Microsoft Edge crashing problem.
@@ -118,10 +92,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901369&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix 4K - Software based live production. vMix 4K includes everything in vMix HD plus 4K support, PTZ control, External/Fullscreen output, 4 Virtual Outputs, 1 Replay, 4 vMix Call, and 2 Recorders. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Method 5: Run a System File Checker
 
  The corrupted system file may cause Microsoft Edge to crash. To solve it, you can use the 2 ways to repair the broken system files.
@@ -152,9 +122,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
 1. On your keyboard, press the **Windows logo key** and **R** key at the same time to invoke the Run box.
 2. Type “cmd” and press **Shift** +**Ctrl** +**Enter** together to open Command Prompt in the administrator mode.  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/command-prompt-1.jpg)  
 **Note** : Do **NOT** click OK or just press the Enter key as that won’t allow you to open Command Prompt in the administrator mode.
 3. Type “sfc /scannow” in the window and press **Enter** . Then wait for the verification is 100% complete.  
@@ -176,8 +143,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -185,4 +150,26 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-zoom-crashing-on-windows-1110-2024-tips/"><u>[FIXED] Zoom Crashing on Windows 11/10 - 2024 Tips</u></a></li>
+<li><a href="https://screen-video-capture.techidaily.com/updated-in-2024-avoid-common-pitfalls-in-ppt-recording/"><u>[Updated] In 2024, Avoid Common Pitfalls in PPT Recording</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/updated-key-cutting-strategies-in-modern-cinema/"><u>[Updated] Key Cutting Strategies in Modern Cinema</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/approved-revolutionize-your-content-with-innovative-tagging-approaches/"><u>2024 Approved Revolutionize Your Content with Innovative Tagging Approaches</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-unleash-creative-vocal-power-access-free-audio-effects-here/"><u>2024 Approved Unleash Creative Vocal Power Access Free Audio Effects Here</u></a></li>
+<li><a href="https://howto.techidaily.com/7-fixes-for-unfortunately-phone-has-stopped-on-samsung-galaxy-xcover-7-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>7 Fixes for Unfortunately, Phone Has Stopped on Samsung Galaxy XCover 7 | Dr.fone</u></a></li>
+<li><a href="https://extra-information.techidaily.com/action-cam-battle-hero-4-against-hero-5-for-2024/"><u>Action Cam Battle Hero 4 Against Hero 5 for 2024</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/auto-writing-systems-skip-their-own-critiques/"><u>Auto-Writing Systems Skip Their Own Critiques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-methods-fixing-the-issue-when-zoom-starts-without-video/"><u>Effective Methods: Fixing the Issue When Zoom Starts Without Video</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-apex-legends-end-of-loading-screen-error-strategies/"><u>Fix Your Apex Legends: End of Loading Screen Error Strategies</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-3-methods-to-mirror-tecno-pop-8-to-roku-drfone-by-drfone-android/"><u>In 2024, 3 Methods to Mirror Tecno Pop 8 to Roku | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/leveraging-chatgpt-for-fluent-foreign-language-interaction/"><u>Leveraging ChatGPT for Fluent Foreign Language Interaction</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-fix-for-uninterrupted-play-assassins-creed-odyssey-on-pc/"><u>Master the Fix for Uninterrupted Play: Assassin's Creed Odyssey on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-for-the-vanguard-initialization-problem-on-valorant-gameplay/"><u>Quick Solutions for the Vanguard Initialization Problem on VALORANT Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-guide-how-to-repair-a-non-functioning-right-on-pathfinder-wrath-of-the-righteeous-controller/"><u>Solution Guide: How to Repair a Non-Functioning Right on Pathfinder Wrath of the Righteeous Controller</u></a></li>
+<li><a href="https://win-blog.techidaily.com/terraria-troubles-top-6-fixes-for-restoring-your-games-connection/"><u>Terraria Troubles? Top 6 Fixes for Restoring Your Game's Connection</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-constant-famine-glitches-for-stable-playback-on-desktop-computers/"><u>Troubleshooting Constant Famine Glitches for Stable Playback on Desktop Computers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-why-cant-i-play-monster-hunter-stories-2-wings-of-ruin/"><u>Troubleshooting Guide: Why Can't I Play Monster Hunter Stories 2: Wings of Ruin?</u></a></li>
+<li><a href="https://win-news.techidaily.com/yl-software-solution-for-determining-hard-drive-compatibility-with-your-computer-systems/"><u>YL Software Solution for Determining Hard Drive Compatibility With Your Computer Systems</u></a></li>
+</ul></div>
 

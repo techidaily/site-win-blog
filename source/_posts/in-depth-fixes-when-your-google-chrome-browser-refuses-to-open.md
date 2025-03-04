@@ -1,7 +1,7 @@
 ---
 title: In-Depth Fixes When Your Google Chrome Browser Refuses To Open
-date: 2024-08-18T18:01:28.452Z
-updated: 2024-08-19T18:01:28.452Z
+date: 2025-02-26T16:13:31.029Z
+updated: 2025-03-04T16:15:18.554Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  If you’re experiencing this frustrating issue now, take a deep breath and try the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not have to try them all. Just work your way down the list until you find the one that works.
@@ -40,10 +37,6 @@ Google Chrome is great. It’s easy to use, fast, and stable. But, occasionally,
 
  If your browser still won’t open after the reboot, read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Disable your antivirus temporarily
 
  Your problem is sometimes caused by interference from antivirus software. To see if that’s the problem for you, temporarily disable your antivirus program and firewall and check if the problem persists. (Consult your antivirus documentation for instructions on disabling it.)
@@ -52,9 +45,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Be extra careful about what sites you visit, what emails you open, and what files you download when your antivirus is disabled.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Hard reset Chrome
 
  In some cases, Chrome not opening issue happens when certain files are damaged or corrupted. To fix it, try clearing your Chrome profile to hard reset the browser. Here is how to do it:
@@ -63,16 +53,10 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  Verify there is no**Chrome-related** process running in the background. If there is, right-click the process and select**End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-491.png)
 
 **3)** On your keyboard, press the**Windows logo** key and**R** at the same time to invoke the Run dialog.
 
-<!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=4596923&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_468X60.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-61.png)
 
 **4)** Type**%USERPROFILE%\\AppData\\Local\\Google\\Chrome\\User Data** in the box and click**OK** .
@@ -95,24 +79,12 @@ Reset Chrome in safe mode
  Boot your PC into safe mode. (Click to see **[how to enter safe mode in Windows 10, 7, 8, 8.1, XP, or Vista](https://tools.techidaily.com/drivereasy/download/)**  .)
 2. **Open Chrome, then click the menu button and select Settings.**  
  Open Chrome, then click the **menu button** and select **Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-28-36.jpg)
 3. **Click Advanced at the bottom.**  
  Click **Advanced** at the bottom.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-10.jpg)
 4. **Select Restore settings to their original defaults.**  
  Select **Restore settings to their original defaults** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/2019-12-30_16-29-48.jpg)
 5. **Click Reset settings.**  
  Click **Reset settings** .  
@@ -132,9 +104,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
 
 **2)** Under**View by** , click**Category,** and then select**Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/05/image-499.png)
 
 **3)** Right-click**Google Chrome** and click**Uninstall** .
@@ -157,8 +126,6 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +133,26 @@ WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-information.techidaily.com/new-advanced-insights-fullscreen-perfection-with-adobe-premiere/"><u>[New] Advanced Insights Fullscreen Perfection with Adobe Premiere</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/new-in-2024-snapchat-to-device-the-step-by-step-process-explained/"><u>[New] In 2024, Snapchat to Device - The Step by Step Process Explained</u></a></li>
+<li><a href="https://fox-info.techidaily.com/2024-approved-video-to-photo-windows-11-methodology/"><u>2024 Approved Video to Photo Windows 11 Methodology</u></a></li>
+<li><a href="https://win-blog.techidaily.com/assassins-creed-unity-wont-launch-in-depth-guideline-on-how-to-fix-it/"><u>Assassin's Creed Unity Won’t Launch? In-Depth Guideline on How To Fix It</u></a></li>
+<li><a href="https://win-blog.techidaily.com/battlefield-2-the-modern-warfares-directx-mishaps-repairing-errors-for-smooth-gameplay/"><u>Battlefield 2 the Modern Warfare's DirectX Mishaps: Repairing Errors for Smooth Gameplay</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/cyber-monday-2022-exclusive-save-with-the-last-black-friday-offer-on-a-79-lenovo-chromebook-check-out-now/"><u>Cyber Monday 2022 Exclusive: Save with the Last Black Friday Offer on a $79 Lenovo Chromebook - Check Out Now!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diablo-ii-resurrected-wont-start-here-are-some-solutions/"><u>Diablo II: Resurrected Won’t Start? Here Are Some Solutions!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-refresh-tips-and-tricks-to-resolve-pixelated-graphics-in-call-of-duty-warzone-on-desktop/"><u>DIY Refresh: Tips and Tricks to Resolve Pixelated Graphics in Call of Duty: Warzone on Desktop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-eliminating-the-sims-4-error-messages-on-your-graphics-card/"><u>Expert Advice: Eliminating The Sims 4 Error Messages on Your Graphics Card</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013590253-hearthstone-update-resolves-pc-game-crashes-play-smoothly-now/"><u>Hearthstone Update Resolves PC Game Crashes - Play Smoothly Now!</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-a-motorola-razr-40-ultra-easily-by-drfone-android/"><u>How To Unlock a Motorola Razr 40 Ultra Easily?</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-most-asked-questions-about-pokemon-go-battle-league-rewards-on-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Most Asked Questions about Pokemon Go Battle League Rewards On Apple iPhone 8 Plus | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/loop-video-liftoff-engaging-audiences-on-ig/"><u>Loop Video Liftoff Engaging Audiences on IG</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-freezes-ensure-uninterrupted-play-in-your-fnaf-adventure-on-pc/"><u>No More Freezes: Ensure Uninterrupted Play in Your FNAF Adventure on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-overwatch-visual-errors-with-latest-driver-fixes/"><u>Resolving Overwatch Visual Errors with Latest Driver Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-solutions-for-resolving-csgo-frame-drops-and-lag/"><u>Simple Solutions for Resolving CS:GO Frame Drops and Lag</u></a></li>
+<li><a href="https://discover-amazing.techidaily.com/tutoriel-pratique-comment-gerer-les-operations-de-copie-dynamique-sur-disque-dur-sous-microsoft-windows-versions-11-a-7/"><u>Tutoriel Pratique : Comment Gérer Les Opérations De Copie Dynamique Sur Disque Dur Sous Microsoft Windows (Versions 11 À 7)</u></a></li>
+<li><a href="https://discover-deluxe.techidaily.com/ultimate-guide-selecting-the-ideal-dj-controller-for-unforgettable-karaoke-nights-with-pcdj/"><u>Ultimate Guide: Selecting the Ideal DJ Controller for Unforgettable Karaoke Nights with PCDJ</u></a></li>
+<li><a href="https://discover-bytes.techidaily.com/ultimate-troubleshooting-tip-how-to-securely-backup-your-apple-device-in-dfu-or-recovery-mode-models-iphone-13-iphone-14/"><u>Ultimate Troubleshooting Tip: How to Securely Backup Your Apple Device in DFU or Recovery Mode (Models: IPhone 13, iPhone 14)</u></a></li>
+</ul></div>
 

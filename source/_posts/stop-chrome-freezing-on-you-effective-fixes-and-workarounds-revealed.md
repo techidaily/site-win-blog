@@ -1,7 +1,7 @@
 ---
 title: Stop Chrome Freezing on You! Effective Fixes & Workarounds Revealed
-date: 2024-08-18T18:06:41.477Z
-updated: 2024-08-19T18:06:41.477Z
+date: 2025-02-26T16:07:08.727Z
+updated: 2025-03-04T16:15:34.014Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/b9c87935bcb636b8006c11267defd1b13d4f0a546
 
 It’s a lot of fun to immerse in the epic naval warfare in World of Warships. However, when the game keeps crashing, it could feel awful and annoying. If you’re one of the many plagued by the constant crashes, don’t frustrate as this problem is not hard to fix.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=1412049&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-200x200.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here are 5 fixes that helped other players solve World of Warships crashing. You don’t need to try them all; just work in order until you find the one that does the trick.
@@ -32,9 +29,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  The screenshots below come from Windows 10, but the fixes also apply to Windows 7 and Windows 8.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 1 – Repair the game files
 
  Corrupted and damaged game file is one of the most common causes of game crashes, so an integrity check should be your first step for troubleshooting. We’ll show you how to do this on[**Steam**](https://tools.techidaily.com/drivereasy/download/) and **[Wargaming launcher](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -61,9 +55,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **2)** Select**World of Warships** . Then, click**Game Settings** and click**Check and Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/1-1-8.jpg)
 
 **3)** Click**Continue** .
@@ -72,9 +63,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  Wait for the process to complete, and relaunch World of Warships to test this method. If it fails to cure the crash, move on to the fixes below.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2 – Update your graphics card driver
 
  Graphics card is important in determining the video game performance. If your GPU driver is wrong or outdated, you might get a lot of crashes when playing World of Warships. To solve this, you need to get the right and latest graphics driver safely. Here’re two options for you: **[manually](https://tools.techidaily.com/drivereasy/download/)**  or **[automatically](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -101,16 +89,10 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://imp.i357552.net/c/5597632/863039/11832" target="_top" id="863039"><img src="//a.impactradius-go.com/display-ad/11832-863039" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de-3.jpg)
 
 **3)** Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click**Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/de.jpg)
 
  You can click**Update** to do it for free if you like, but it’s partly manual.
@@ -128,9 +110,6 @@ It’s a lot of fun to immerse in the epic naval warfare in World of Warships. H
 
  If you’re playing WoWS on Steam, you may locate the preferences.xml file in: **C: > Program Files (x86) > Steam > steamapps > common** \>**World of Warships** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/3-1-10.jpg)
 
 **2)** Click the**preferences.xml file** and press the**Delete key** on your keyboard.
@@ -145,9 +124,6 @@ See if the crashing issue goes away. If not, try the fixes below.
 
 **2)** Click the**up arrow icon** next to Play and click**Launch the game in safe mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/4-1-4.jpg)
 
 Do the crashes disappear now? If not, continue to the next fix.
@@ -158,13 +134,6 @@ Do the crashes disappear now? If not, continue to the next fix.
 
 **1)** Type**control** in the search bar and click**Control Panel** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/5-1-3.jpg)
 
 **2)** Select**Category** next to View by, and click**Uninstall a program** .
@@ -196,8 +165,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -205,4 +172,20 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/new-2024-approved-streaming-sounds-into-your-social-story-arcs/"><u>[New] 2024 Approved Streaming Sounds Into Your Social Story Arcs</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-essential-guide-to-top-12-free-and-paid-gaming-introduction-creators-for-2024/"><u>[Updated] Essential Guide to Top 12 Free and Paid Gaming Introduction Creators for 2024</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/updated-in-2024-funimate-unraveled-your-path-to-mastery/"><u>[Updated] In 2024, Funimate Unraveled Your Path to Mastery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypassing-connection-problems-reactivating-your-steam-social-circle/"><u>Bypassing Connection Problems: Reactivating Your Steam Social Circle</u></a></li>
+<li><a href="https://common-error.techidaily.com/fix-guide-how-to-make-bluetooth-visible-in-windows-management-tools/"><u>Fix Guide: How to Make Bluetooth Visible in Windows Management Tools</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/how-to-get-the-newest-canon-mp250-printer-drivers-compatible-versions-and-instructions/"><u>How to Get the Newest Canon MP250 Printer Drivers: Compatible Versions & Instructions</u></a></li>
+<li><a href="https://common-error.techidaily.com/how-to-prevent-your-mouse-from-constantly-disconnecting-on-any-device/"><u>How To Prevent Your Mouse From Constantly Disconnecting on Any Device</u></a></li>
+<li><a href="https://win-blog.techidaily.com/modern-warfare-stutter-and-lag-issues-resolved-pc-optimization-tips/"><u>Modern Warfare Stutter and Lag Issues Resolved: PC Optimization Tips</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/planning-to-use-a-pokemon-go-joystick-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Planning to Use a Pokemon Go Joystick on Tecno Spark Go (2024)? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restore-your-roblox-worlds-sound-on-windows-11-and-10-the-ultimate-fix-guide/"><u>Restore Your Roblox World's Sound on Windows 11 & 10 - The Ultimate Fix Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-walkthrough-to-overcome-constant-crashes-in-metro-exodus-definitive-edition-pc-version/"><u>Step-by-Step Walkthrough to Overcome Constant Crashes in Metro Exodus Definitive Edition PC Version</u></a></li>
+<li><a href="https://fox-zero.techidaily.com/troubleshooting-your-scanners-error-messages-expert-solutions-from-yl-computing/"><u>Troubleshooting Your Scanner's Error Messages: Expert Solutions From YL Computing</u></a></li>
+<li><a href="https://fake-location.techidaily.com/which-is-the-best-fake-gps-joystick-app-on-realme-c67-4g-drfone-by-drfone-virtual-android/"><u>Which is the Best Fake GPS Joystick App On Realme C67 4G? | Dr.fone</u></a></li>
+</ul></div>
 

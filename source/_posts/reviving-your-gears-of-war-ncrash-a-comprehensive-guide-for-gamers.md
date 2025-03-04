@@ -1,7 +1,7 @@
 ---
 title: Reviving Your Gears of War nCrash - A Comprehensive Guide for Gamers
-date: 2024-08-18T18:00:54.021Z
-updated: 2024-08-19T18:00:54.021Z
+date: 2025-03-01T16:12:57.578Z
+updated: 2025-03-04T16:22:12.568Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/8852f9f0dff99dd98034c53ca9e7b84a75b979ac3
 
 Recently many players reported Star Wars Squadrons crashing on PC when they were flying the starfighters or completing a mission. If you also run into the game crashing issue, don’t worry. In this post, we’ll walk you through all the possible fixes and help you get back to the virtual spaces easily.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to fix Star Wars Squadrons crashing
 
  You don’t need to try them all; simply work your way down the list until you find the one that solves your problem.
@@ -39,9 +36,6 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 **1)** Right-click the**Star Wars Squadrons icon** on your desktop and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/1-1-14.jpg)
 
 **2)** Select the**Compatibility** tab. Then, tick**Run this program as an administrator** and click**OK** .
@@ -50,9 +44,6 @@ Recently many players reported Star Wars Squadrons crashing on PC when they were
 
 Check if the game runs normally now. If not, move on to the second fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Verify the integrity of your game files
 
  Star Wars Squadrons crashing may be caused by missing or corrupted game files. So an integrity check is necessary at the very start. We’ll show you how to do this both on **[Steam](https://tools.techidaily.com/drivereasy/download/)**  and **[Origin](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -69,9 +60,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 **3)** Select the**Local Files** tab, and click**Verify Integrity of Game Files** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729642&QTY=1&AFFILIATE=108875&CART=1">Advanced Find and Replace for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-3.jpg)
 
  Wait for the repair process to finish. Then launch the game to see how it works. If crashing persists, try **[Fix 3](https://tools.techidaily.com/drivereasy/download/)**  to update your GPU driver.
@@ -84,9 +72,6 @@ Check if the game runs normally now. If not, move on to the second fix.
 
 **2)** Select**Star Wars Squadrons** from the list. Then, click the**settings icon** and click**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0.jpg)
 
  Relaunch the game after repair finishes. If crashing remains, try the next fix below.
@@ -105,9 +90,6 @@ There are mainly two ways you can do the driver update:
 
 **2)** Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/de-1-9.jpg)
 
 **3)** Click the**Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the**FREE version** ).
@@ -133,17 +115,10 @@ There are mainly two ways you can do the driver update:
 
 **2)** Right-click**Star Wars Squadrons** and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.dbschema.com/order/checkout.php?PRODS=19867419&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/176b22bab4e94a28619ca2433b2ef241/products/1_icon256.png" border="0">
-DbSchema database designer for all databases, schema design in the team, schema deployment, interactive diagrams, documentation, data and query tools. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/2-2.jpg)
 
 **3)** Untick**Enable the Steam Overlay while in-game** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-1.jpg)
 
 #### On Origin
@@ -160,10 +135,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **4)** Untick**Enable Origin In Game for STAR WARS: Squadrons** and click**Save** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/5-4.jpg)
 
 #### On GeForce Experience
@@ -172,23 +143,14 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **2)** Click the**cogwheel icon** in the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726960&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/forexrobotronbox.gif" border="0">Forex Robotron Basic Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/7-1-1.jpg)
 
 **3)** Toggle off**In-Game Overlay** .
 
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1657399/16446" target="_top" id="1657399"><img src="//a.impactradius-go.com/display-ad/16446-1657399" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657399/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/0-00.jpg)
 
  Restart the game to see whether crashing is fixed or not. If not, head towards the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5 – Adjust the graphics settings
 
  Improper settings of Star Wars Squadrons can trigger unexpected crashing, especially if the setup is too demanding for your machine. By adjusting the settings appropriately, you can reduce the number of crashes and the game will still look beautiful. Here’s how:
@@ -201,9 +163,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
 
 **3)** Click the**Change** button next to Screen Settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/4-2.jpg)
 
 **4)** Set Fullscreen Mode to**Windowed** or**Borderless** .
@@ -232,8 +191,6 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -241,4 +198,21 @@ DbSchema database designer for all databases, schema design in the team, schema 
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/new-optimize-your-iphone-for-gif-saving-and-playing-like-a-pro-for-2024/"><u>[New] Optimize Your iPhone for GIF Saving & Playing Like a Pro for 2024</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/updated-how-to-reverse-video-on-instagram-complete-guide-for-2024/"><u>[Updated] How to Reverse Video on Instagram? [Complete Guide] for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-swift-sketches-of-fortnite-game-screenshots/"><u>[Updated] Swift Sketches of Fortnite Game Screenshots</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/44cm44k544og44ki44oq44oa44k344on44ok44or44oy44od44oj44ov44kp44oz44go44oe44kk44kv44gu6kiy6yyy5pa55rov77ya6kmz44gx44ge44ks44kk44oj44cn/"><u>「ステアリダショナルヘッドフォンとマイクの記録方法：詳しいガイド」</u></a></li>
+<li><a href="https://win-blog.techidaily.com/error-2024-in-cyberpunk-2077-understanding-and-fixing-the-issue/"><u>Error 2024 in Cyberpunk 2077: Understanding and Fixing the Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013611841-fix-the-problem-with-audio-configuration-message-from-itunes-easily/"><u>Fix the 'Problem with Audio Configuration' Message From iTunes Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-unplayable-dilemma-age-of-empires-4-wont-start/"><u>Fixing the Unplayable Dilemma – Age of Empires 4 Won't Start</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fortnite-troubleshooting-fixing-the-unknown-entry-point-error/"><u>Fortnite Troubleshooting: Fixing the Unknown Entry Point Error</u></a></li>
+<li><a href="https://win-net.techidaily.com/four-effective-strategies-to-recover-deleted-documents-from-your-usb-drive/"><u>Four Effective Strategies to Recover Deleted Documents From Your USB Drive</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-2024-audioscapes-weaving-music-into-imovie-narratives/"><u>In 2024, Audioscapes Weaving Music Into iMovie Narratives</u></a></li>
+<li><a href="https://win-blog.techidaily.com/maximizing-your-frame-rate-tips-and-tricks-for-enhanced-performance-in-ring-of-elysium/"><u>Maximizing Your Frame Rate: Tips & Tricks for Enhanced Performance in Ring of Elysium</u></a></li>
+<li><a href="https://facebook.techidaily.com/navigating-social-media-for-professional-success-5-ways/"><u>Navigating Social Media for Professional Success - #5 Ways</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-pc-issues-with-fifa-19-steps-to-prevent-unnecessary-game-crashes/"><u>Overcome PC Issues with FIFA 19: Steps to Prevent Unnecessary Game Crashes</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/the-cooler-master-ion-360-reviewed-examining-progress-and-setbacks-in-liquid-cpu-cooling/"><u>The Cooler Master ION 360 Reviewed: Examining Progress and Setbacks in Liquid CPU Cooling</u></a></li>
+</ul></div>
 

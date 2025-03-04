@@ -1,7 +1,7 @@
 ---
 title: "Effortless Image Editing: Mastering the Art of Photo Cropping Using Movavi Photo Editor"
-date: 2025-02-14T07:42:23.613Z
-updated: 2025-02-14T18:20:37.230Z
+date: 2025-03-03T16:15:25.226Z
+updated: 2025-03-04T16:36:56.701Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/e8268e497efdb6d8ea1a7969a9fa65d609c22667298076c75d393327469015e0.jpg
@@ -166,10 +166,6 @@ Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'u
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eMEJvwMM0vk?si=EQF_jo_4u9v5iJ_C" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Si votre jeu commence à ralentir et que l'image est saccadée, surtout lorsqu'elle bouge, c'est que votre taux d'images par seconde (IPS) est faible. Cela se produit lorsque le matériel de votre ordinateur a du mal à faire fonctionner votre jeu ou fait des heures supplémentaires. S'il travaille trop, la vitesse du jeu ralentit.
 
 La carte graphique travaille pour rendre les images fixes, ou frames, pendant que vous jouez à un jeu. Elle travaille en collaboration avec d'autres composants matériels tels que la RAM, le CPU et le GPU pour créer une expérience de jeu complète. En cas d'arrêt de l'un de ces composants, votre FPS commencera à baisser. La plupart des joueurs préfèrent un taux de 60 FPS en jouant, mais la plupart des jeux sont en fait très bien à 30 FPS.
@@ -213,10 +209,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 * [Pilotes AMD](https://www.amd.com/en/support)
 * [Pilotes NVIDIA](https://www.nvidia.com/Download/index.aspx)
 * [Pilotes Intel Graphics](https://www.intel.com/content/www/us/en/support/products/80939/graphics-drivers.html)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NTQGoOOiJzs?si=zbZwflEfXgBY3qbs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Installer DirectX 12
 
@@ -334,10 +326,6 @@ Comment améliorer les performances de jeu sur Windows 10 (corrections avancées
 
 Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ? Utilisez ces correctifs avancés pour une solution à long terme.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
@@ -345,10 +333,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HMuxjTCMX2E?si=ylRTMJuUstpjLsZc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez à niveau votre GPU/CPU
 
@@ -359,10 +343,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uSfA74aeYeA?si=HdJSMdeS7HVtS6-j" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -392,10 +372,6 @@ Pour overclocker :
 2. Utilisez un programme comme MSI Afterburner pour augmenter l'horloge centrale de la carte. Faites-le par intervalles de 10 MHz et réinitialisez les benchmarks au fur et à mesure.
 3. En option, vous pouvez également augmenter le voltage et l'horloge de la mémoire, mais surveillez de près la température de votre carte lorsque vous faites cela.
 4. Jouez à un jeu et vérifiez les performances.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LdVT_-3gESA?si=_HfjpbUEHSRKTXjt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Désactiver SysMain et Prefetch
 
@@ -430,10 +406,6 @@ Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur 
 ### Utiliser une alimentation externe
 
 Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordinateurs portables afin de les maintenir en vie pendant de plus longues durées. Cela affectera considérablement l'expérience de jeu car votre RAM, vos cartes graphiques et votre CPU ne fonctionneront pas à pleine capacité. Pour remédier à ce problème, connectez votre ordinateur portable à son alimentation externe et assurez-vous que vos paramètres de contrôle permettent d'obtenir des performances optimales lorsqu'il est connecté.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dn-24B6AURY?si=ErES2KWVnintY6h9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Utiliser un plan d'alimentation performant
 
@@ -483,10 +455,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Foire aux questions 
@@ -499,10 +467,6 @@ L'article ci-dessus énumère une série de mesures que vous pouvez prendre pour
 * Modifiez les paramètres de votre carte graphique
 * Mettez à niveau votre GPU et/ou votre CPU
 * Vérifiez les paramètres de performance de votre Windows.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Qu'est-ce qui ralentit mon ordinateur ?
 
@@ -527,10 +491,6 @@ Si vous voulez savoir comment rendre votre ordinateur plus rapide pour jouer, vo
 ### Windows 10 est-il meilleur pour les jeux ?
 
 Lorsque l'on compare l'expérience de jeu des versions précédentes de Windows à Windows 10, l'amélioration des performances est extraordinaire. Si vous n'êtes pas sûr de vouloir faire une mise à jour, la décision est simple. Windows 10 offrira toujours une meilleure expérience.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DBMTAJBx-X4?si=sje5pFJXiHzJJGbP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Comment obtenir 60 fps dans un jeu ?
 
@@ -585,21 +545,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-activity-recording.techidaily.com/new-step-by-step-guide-to-flawless-zoom-screen-sharing-for-2024/"><u>[New] Step-by-Step Guide to Flawless Zoom Screen Sharing for 2024</u></a></li>
-<li><a href="https://fox-blue.techidaily.com/updated-2024-approved-the-art-and-science-of-crafting-your-ideal-podcast-naming/"><u>[Updated] 2024 Approved The Art & Science of Crafting Your Ideal Podcast Naming</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/updated-in-2024-continuous-improvement-regularly-practice-and-evaluate-your-listening-skills-identifying-areas-for-improvement-30-new-titles-that-convey-sim/"><u>[Updated] In 2024, Continuous Improvement Regularly Practice and Evaluate Your Listening Skills, Identifying Areas for Improvement. 30 New Titles that Convey Similar Meanings to How to Change Your Voice in Free Fire Game? [Free Solution Included]</u></a></li>
-<li><a href="https://win-blog.techidaily.com/dying-light-2-on-pc-solving-the-common-lag-and-frame-rate-problems/"><u>Dying Light 2 on PC: Solving the Common Lag and Frame Rate Problems</u></a></li>
-<li><a href="https://tech-hub.techidaily.com/hands-on-review-of-the-apple-studio-display-a-stunning-yet-costly-27-5k-screen-for-professional-mac-users-perspective/"><u>Hands-On Review of the Apple Studio Display: A Stunning, Yet Costly 27 5K Screen for Professional Mac Users Perspective</u></a></li>
-<li><a href="https://win-blog.techidaily.com/how-to-repair-a-non-functional-logitech-software-suite-for-pc-users/"><u>How to Repair a Non-Functional Logitech Software Suite for PC Users</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/in-2024-taking-twitter-videos-from-regular-to-high-definition/"><u>In 2024, Taking Twitter Videos From Regular to High-Definition</u></a></li>
-<li><a href="https://win-blog.techidaily.com/masterful-guide-overcoming-outriders-lag-for-a-smoother-gaming-experience/"><u>Masterful Guide: Overcoming Outriders Lag for a Smoother Gaming Experience</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/navigating-the-path-to-igtv-fame-5-growth-strategies-explored-for-2024/"><u>Navigating the Path to IGTV Fame 5 Growth Strategies Explored for 2024</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/neural-network-vulnerability-a-defensive-guide/"><u>Neural Network Vulnerability: A Defensive Guide</u></a></li>
-<li><a href="https://win-blog.techidaily.com/overcoming-the-stuck-loader-challenge-in-your-minecraft-gameplay/"><u>Overcoming the 'Stuck Loader' Challenge in Your Minecraft Gameplay</u></a></li>
-<li><a href="https://win-blog.techidaily.com/pc-woes-solved-why-does-lost-ark-keep-quitting-and-how-you-can-stop-it-now/"><u>PC Woes Solved! Why Does 'Lost Ark' Keep Quitting and How You Can Stop It Now</u></a></li>
-<li><a href="https://discover-deluxe.techidaily.com/sd-card-management-mastery-step-by-step-instructions-for-deleting-formatting-and-performing-a-secure-wipe/"><u>SD Card Management Mastery: Step-by-Step Instructions for Deleting, Formatting, and Performing a Secure Wipe</u></a></li>
-<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-fixing-continuous-crashes-in-insurgency-sandstorm/"><u>Troubleshooting Guide: Fixing Continuous Crashes in 'Insurgency: Sandstorm'.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/ultimate-fix-guide-resolve-forza-horizon-3-pc-stability-problems/"><u>Ultimate Fix Guide: Resolve Forza Horizon 3 PC Stability Problems</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/-in-it-for-a-million-youtube-viewers-in-2024/"><u>What’s in It for a Million YouTube Viewers, In 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-xbox-expansion-top-5-external-hard-drives-ranked-for-2024/"><u>[New] Xbox Expansion Top 5 External Hard Drives Ranked for 2024</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-in-2024-detailed-syma-x8c-assessment/"><u>[Updated] In 2024, Detailed Syma X8C Assessment</u></a></li>
+<li><a href="https://tiktok-clips.techidaily.com/updated-secure-and-ethical-paths-to-increasing-your-tiktok-following-for-2024/"><u>[Updated] Secure & Ethical Paths to Increasing Your TikTok Following for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722987851385-conquer-the-crash-overcome-halo-infinite-keeps-freezing-on-your-computer-using-7-easy-fixes/"><u>Conquer the Crash: Overcome Halo Infinite Keeps Freezing on Your Computer Using 7 Easy Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/cracking-the-code-effective-strategies-for-fixing-warzone-20-not-starting-issue-pc-2024/"><u>Cracking the Code: Effective Strategies for Fixing 'Warzone 2.0' Not Starting Issue (PC, 2024)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/error-327-in-star-wars-battlefront-ii-diagnosis-and-fix-steps/"><u>Error 327 in Star Wars Battlefront II: Diagnosis and Fix Steps</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-check-if-your-poco-c65-is-unlocked-by-drfone-android/"><u>How To Check if Your Poco C65 Is Unlocked</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/rapid-methods-to-discover-windows-vocabulary/"><u>Rapid Methods to Discover Windows Vocabulary</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-getting-cyberpunk-2077-to-utilize-graphics-card-in-windows-11-environment/"><u>Solved: Getting Cyberpunk 2077 to Utilize Graphics Card in Windows 11 Environment</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/sony-unveils-the-mortal-instruments-city-of-bones-dvd-release/"><u>Sony Unveils 'The Mortal Instruments: City of Bones' DVD Release</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/step-by-step-solutions-for-the-advapi32dll-not-detected-issue/"><u>Step-by-Step Solutions for the 'Advapi32.dll Not Detected' Issue</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-continuous-breakdowns-of-content-warnings-in-pc-browsers-a-troubleshooting-guide/"><u>Tackling Continuous Breakdowns of Content Warnings in PC Browsers - A Troubleshooting Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-overcoming-halo-infinites-black-screen-problem/"><u>The Ultimate Guide to Overcoming Halo Infinite's Black Screen Problem</u></a></li>
+<li><a href="https://fox-tips.techidaily.com/two-simple-methods-for-safeguarding-your-windows-11-outlook-email-with-easy-backups/"><u>Two Simple Methods for Safeguarding Your Windows 11 Outlook Email with Easy Backups</u></a></li>
 </ul></div>
 

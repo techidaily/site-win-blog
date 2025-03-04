@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Guide to Correct Error ERR_GFX_STATE in Red Dead Redemption 2
-date: 2024-08-18T18:07:40.399Z
-updated: 2024-08-19T18:07:40.399Z
+date: 2025-02-27T16:37:38.142Z
+updated: 2025-03-04T16:11:34.189Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Arcadegeddon is finally out. Although this is an early access game, it still attracts tons of players. However, just like any other games launched recently, Arcadegeddon is not immune to unforseen issues and bugs. **Recently, many PC players are experiencing the game crashing issue** . If you’re on the same boat, don’t worry. You’ve come to the right place. After reading this article,**you should be able to fix this issue quickly and easily!**
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Although the causes of Arcadegeddon crashing issue vary, here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether Arcadegeddon crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -34,9 +31,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 4. **[Close CPU / memory hogging applications](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BEducational%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/educational-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 1: Verify integrity of game files
 
  One common cause of the Arcadegeddon crashing issue is the corrupted game files. If it’s the case, you just need to repiar the corrupted game files.
@@ -45,9 +39,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 1. Launch **Epic Games Launcher** and go to your **Library** .
 2. Click on the **three dots** under the **Arcadegeddon** game tile and select **Verify** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify game files in Epic Games Launcher](https://images.drivereasy.com/wp-content/uploads/2021/05/verify-game-files-in-Epic-Games-Launcher.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -74,9 +65,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ## Fix 3: Install the latest game patch
 
  The developer of Arcadegeddon releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -85,9 +73,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
  Launch Arcadegeddon again to check if the game crash issue has been resolved. If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Close CPU / memory hogging applications
 
  Insufficient memory would also leading to the Arcadegeddon crashing issue. If there’s too many applications running in the background while you’re playing Arcadegeddon, your computer may run out of RAM and the game may crash.
@@ -96,9 +81,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 
 1. On your keyboard, press **Ctrl** , **Shift** and **Esc** at the same time to open **Task Manager** . You will be prompted for permission. Click **Yes** to open Task Manager.
 2. Select any other applications and programs that take up a large amount of **CPU** or **memory** , then click **End task** to close it.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097466/26400?prodsku=B700" target="_top" id="2097466"><img src="//a.impactradius-go.com/display-ad/26400-2097466" border="0" alt="" width="2048" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097466/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Close CPU / memory hogging applications](https://images.drivereasy.com/wp-content/uploads/2021/05/Close-CPU-memory-hogging-applications.jpg)
 
  If Arcadegeddon works well after you closed those CPU / memory hogging applications, congratulations!
@@ -114,14 +96,8 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
 3. Select the **Startup** tab and click **Open Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration2.png)
 4. On the **Startup** tab in **Task Manager** , for **each** startup item, select the item and then click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration3.png)
 5. Go back to the **System Configuration** window and click **OK** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration4.png)
@@ -151,8 +127,6 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -160,4 +134,17 @@ thumbnail: https://thmb.techidaily.com/f190d8a7112798cba569b602f6c665fc16f642849
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/024-approved-navigating-earnings-skyward-youtube-analytics-and-advertising-guide/"><u>[New] 2024 Approved Navigating Earnings Skyward YouTube Analytics & Advertising Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-warzone-flickering-issues/"><u>[Solved] Warzone Flickering Issues</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-virtual-reality-archivists-handbook-for-game-recordings-for-2024/"><u>[Updated] The Virtual Reality Archivist's Handbook for Game Recordings for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-get-your-steam-titles-running-smoothly-on-windows-11/"><u>Expert Tips to Get Your Steam Titles Running Smoothly on Windows 11</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/211145213-9781801292733-heaven-sent/"><u>Heaven Sent | Free Book</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/in-2024-the-art-of-tall-videos-editing-vertical-media-for-impactful-insta-feeds/"><u>In 2024, The Art of Tall Videos Editing Vertical Media for Impactful Insta Feeds</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/is-your-iphone-7-plus-in-security-lockout-proper-ways-to-unlock-drfone-by-drfone-ios/"><u>Is Your iPhone 7 Plus in Security Lockout? Proper Ways To Unlock | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-latency-issues-optimizing-splitgates-frame-rate-and-smoothing-gameplay/"><u>Solving Latency Issues: Optimizing Splitgate's Frame Rate and Smoothing Gameplay</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/top-rated-ipad-gadgets-and-add-ons-a-comprehensive-guide-by-zdnet/"><u>Top-Rated iPad Gadgets and Add-Ons - A Comprehensive Guide by ZDNet</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-cyberpunk-2077-ignoring-gpu-performance-on-windows-11-systems/"><u>Troubleshooting Guide: Cyberpunk 2077 Ignoring GPU Performance on Windows 11 Systems</u></a></li>
+</ul></div>
 

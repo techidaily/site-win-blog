@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2023 - Issues with Game Startup Resolved
-date: 2024-08-18T18:06:04.828Z
-updated: 2024-08-19T18:06:04.828Z
+date: 2025-02-25T16:01:03.217Z
+updated: 2025-03-04T16:02:57.045Z
 tags:
   - win11
   - win10
@@ -35,15 +35,8 @@ Take Avast as an example:
 
 1. Open your Avast.
 2. Click**Menu** on the top right of the window.  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-03.jpg)
 3. Click**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-16-38.jpg)
 4. Click**Exception > Add Exception** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_15-15-52.jpg)
@@ -53,9 +46,6 @@ Take Avast as an example:
 
 If it’s not your antivirus software, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your graphic driver
 
  Updating your graphics driver can fix the issue most of the time, and it’s no harm to your PC but brings better performance.
@@ -80,9 +70,6 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075471/7443" target="_top" id="2075471"><img src="//a.impactradius-go.com/display-ad/7443-2075471" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075471/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -96,18 +83,11 @@ Visit the website of your GPU manufacturer and search for your GPU model.
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Go to**LOCAL FILES** and click**Verify integrity of game files…**  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 4. When the process is finished, relaunch the game to check.
 
 If this fix bring no luck, move to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ### Fix 4: Disable overlay and launch in Windowed mode
 
  This might be a temporarily fix for some people or doesn’t work, you can give it a try as you like.
@@ -116,9 +96,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 2. Go to LIBRARY, right-click on Football Manager 2023 and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. In the**GENERAL** tab, uncheck**Enable the Steam Overlay while in-game** and type**\-windowed** under**LAUNCH OPTIONS** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/2021-05-10_17-39-55.jpg)
 4. Relaunch the game to check.
 
@@ -134,8 +111,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -143,4 +118,24 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://eaxpv-info.techidaily.com/new-2024-approved-how-to-integrate-youtube-playlists-into-your-site/"><u>[New] 2024 Approved How to Integrate YouTube Playlists Into Your Site</u></a></li>
+<li><a href="https://discord-videos.techidaily.com/new-join-the-circle-easy-friend-request-steps-for-2024/"><u>[New] Join the Circle Easy Friend Request Steps for 2024</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-perfect-pairing-of-tiktok-bio-and-linktree-connection/"><u>2024 Approved Perfect Pairing of TikTok Bio & Linktree Connection</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/could-chatgpt-be-a-new-technique-for-digital-theft-against-banks/"><u>Could ChatGPT Be a New Technique for Digital Theft Against Banks?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-steps-to-overcome-initialization-errors-in-pathfinder-wrath-of-the-righteous/"><u>Easy Steps to Overcome Initialization Errors in Pathfinder: Wrath of the Righteous</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-smooth-play-resolve-low-fps-and-stuttering-in-new-world/"><u>Enhancing Smooth Play: Resolve Low FPS & Stuttering in 'New World'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-guide-resolving-farmsim-22s-fps-drops-for-a-smoother-gaming-experience/"><u>Expert Guide: Resolving Farmsim 22'S FPS Drops for a Smoother Gaming Experience</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-all-access-fb-melodic-streaming/"><u>In 2024, All-Access FB Melodic Streaming</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-zte-nubia-flip-5g-without-them-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track WhatsApp Messages on ZTE Nubia Flip 5G Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/resolve-iphone-connectivity-issues-by-resetting-network-settings/"><u>Resolve iPhone Connectivity Issues by Resetting Network Settings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-league-of-legends-connection-issue-loop-glitch-patched-update/"><u>Resolved: League of Legends Connection Issue Loop Glitch Patched Update</u></a></li>
+<li><a href="https://fox-that.techidaily.com/revitalize-your-iphone-or-ipad-updates-learn-these-6-proven-strategies-now/"><u>Revitalize Your iPhone or iPad Updates – Learn These 6 Proven Strategies Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722989508372-solve-your-steam-game-lag-effective-solutions-inside/"><u>Solve Your Steam Game Lag: Effective Solutions Inside!</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/step-by-step-guide-resizing-videos-perfectly-for-any-display/"><u>Step-by-Step Guide: Resizing Videos Perfectly for Any Display</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-fall-guys-solutions-for-game-crashes-on-startup/"><u>Troubleshooting Fall Guys: Solutions for Game Crashes on Startup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/valorant-optimization-101-effective-solutions-to-enhance-frame-rates-and-combat-low-fps-insights-for-players-in-2n4/"><u>Valorant Optimization 101: Effective Solutions to Enhance Frame Rates & Combat Low FPS – Insights for Players in 2N4</u></a></li>
+<li><a href="https://win-blog.techidaily.com/why-does-microsoft-outlook-continuously-fail-troubleshooting-tips-revealed/"><u>Why Does Microsoft Outlook Continuously Fail? Troubleshooting Tips Revealed</u></a></li>
+</ul></div>
 

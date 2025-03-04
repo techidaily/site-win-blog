@@ -1,7 +1,7 @@
 ---
 title: "5 Techniques Pour Photographier Avec Un PC : Guide Complet De L'Optimisation Des Clés SEO"
-date: 2025-02-10T08:05:02.040Z
-updated: 2025-02-14T21:06:26.135Z
+date: 2025-02-28T16:31:52.542Z
+updated: 2025-03-04T16:43:50.129Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/b92970fb02a09749baa6f2838ddd89dd174bd2bb3f33370dc3c96100a7eda776.jpg
@@ -29,10 +29,6 @@ Nous utilisons des cookies pour améliorer les services que nous vous proposons.
 
 ![](https://cdn.staticont.net/page_type/0023/57/3a45fddc2fda7d8feb51ac11d684aec7db796584.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment optimiser Windows 10 pour le jeu
@@ -49,10 +45,6 @@ Si vous avez besoin d'un enregistreur de jeu, essayez Gecata by Movavi.
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)
 
 [![](https://cdn.staticont.net/pages/0023/55/8e3299ceec11a282886103c3bfcf9215af3372c3.webp)](https://tools.techidaily.com/movavi/products/)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  Édité par [Elinor Zucchet](https://tools.techidaily.com/movavi/products/)
 
@@ -170,10 +162,6 @@ Afficher plus
 
 Un facteur clé qui peut ralentir votre expérience de jeu est l'utilisation d'un enregistreur de qualité inférieure pendant le jeu. C'est pourquoi notre choix spécial pour optimiser votre PC pour les jeux sur Windows 10 est Gecata by Movavi. Ce programme peut enregistrer le gameplay en 4K et jusqu'à 120 FPS sans perte de performance. Il est facile à utiliser et est livré avec une version d'essai gratuite.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Qu'est-ce qu'un FPS faible et comment puis-je le vérifier ?
 
 ![](https://cdn.staticont.net/pages/0013/24/1698d2ec33be3cf4f4bedd243e199c87dbd8ac34.webp)
@@ -234,10 +222,6 @@ Pour vérifier que vous disposez de la dernière version de DirectX, appuyez sur
 
 Si vous n'avez pas DirectX 12, allez-y et installez-le ; le processus ne prendra que quelques minutes. Appuyez sur la   **touche Windows** \+ **I**, choisissez **Mise à jour et sécurité** et cliquez sur **Vérifier les mises à jour** dans l'onglet **Windows. Mise à jour**. Attendez que l'installation se termine.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### 
 
 Utiliser le mode de jeu Windows 10
@@ -251,10 +235,6 @@ Pour localiser les paramètres du mode jeu, appuyez sur la   **touche Windows** 
 Dans le menu qui s'ouvre, cliquez sur **Mode Jeu**. Passez à **On** pour activer le Game Mode. Si votre PC prend en charge le Mode Jeu, le système optimisera les performances de votre PC pour les jeux.
 
 Si vous ne trouvez pas ces paramètres, cela signifie que la dernière Windows Creators Update n'est pas installée sur votre PC.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Gérez vos heures actives
 
@@ -298,10 +278,6 @@ Par ailleurs, les jeux sur Steam sont mis à jour en permanence et il arrive sou
 
 Pour ramener la version d'un jeu à celle dont vous avez besoin, ouvrez Steam, faites un clic droit sur le jeu, choisissez **Propriétés** et allez dans l'onglet **Bêta**. Choisissez la version souhaitée dans le menu déroulant.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Désactiver les notifications
 
 Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent nuire à votre champ de vision pendant le jeu. Suivez les étapes suivantes pour désactiver toutes les notifications avant de jouer :
@@ -310,10 +286,6 @@ Les notifications au milieu d'un jeu consomment de la puissance CPU et peuvent n
 2. Tapez "Notifications" dans la barre de recherche et sélectionnez **Notifications et paramètres d'actions** dans les résultats.
 3. Lorsque la nouvelle fenêtre s'ouvre, mettez le commutateur à bascule situé à côté de l'option **Obtenir des notifications d'applications et d'autres expéditeurs** sur **Désactivé**. Vos notifications sont maintenant désactivées.
 4. Vous pouvez également faire défiler la liste et désactiver les notifications par application.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2NU63YqpVqw?si=uoJs0-nZYAkILqXx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler le panneau de contrôle NVIDIA
 
@@ -338,10 +310,6 @@ Les cartes graphiques AMD ont également beaucoup de paramètres. Certains disen
 
 Cette solution entre facilement dans la catégorie des "solutions rapides". Parfois, votre système ne peut tout simplement pas gérer un jeu, et vous n'avez pas le temps de chercher des solutions à plus long terme. Allez dans les paramètres système du jeu et réduisez la résolution d'un niveau. Surveillez ensuite votre FPS jusqu'à ce que les choses s'améliorent.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Vfq0vw0Spz8?si=2EAk6hW-Gb-o33_L" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Désactiver l'accélération de la souris
 
 Celui-ci n'a rien à voir avec l'amélioration des performances de votre PC en matière de jeu, mais il s'agit plutôt d'un conseil pour vous permettre d'améliorer vos performances personnelles en matière de jeu. L'accélération de la souris est un paramètre qui fait bouger votre souris en se basant non seulement sur la détection des mouvements physiques mais aussi sur la vitesse. Cette option rend en fait les mouvements de votre souris moins précis, car elle ajoute un paramètre supplémentaire au mouvement que vous transmettez à la souris. Étant donné que la précision est cruciale pour la précision de la visée dans les jeux de tir à la première personne, si vous êtes un fan de Call of Duty, Counter-Strike ou Overwatch, vous devriez absolument désactiver cette option.
@@ -361,10 +329,6 @@ Vous ne savez toujours pas comment rendre Windows 10 plus rapide pour les jeux ?
 ### Optez pour un SSD
 
 ![](https://cdn.staticont.net/pages/0012/47/f8270db0638748de336b7f11de9f898510486d54.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XA_wP7rS9ww?si=LarMG3sEHAhSoL6q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les performances de vos jeux, mais cela peut vous aider à réduire considérablement les temps de chargement. Il est vrai que les disques durs SSD peuvent être assez chers et il peut sembler que les temps de chargement ne sont pas une question si importante pour investir votre argent. Mais si ce n'est probablement pas la première chose à laquelle vous pensez lorsque vous accélérez votre ordinateur portable, ce n'est pas non plus la dernière. Les jeux d'aujourd'hui prennent de plus en plus d'espace disque, donc si vous voulez jouer aux derniers jeux, passer d'un disque dur à un disque SSD peut être un véritable gain de temps et vos temps de chargement de jeu peuvent passer de 30-40 secondes à 2-3, ce qui est assez significatif.
 
@@ -397,10 +361,6 @@ Ouvrez votre Windows Éditeur de registre en cliquant sur la   **touche Windows*
 Pour trouver votre adresse IP, appuyez sur la   **touche Windows** \+ **X** et suivez ces étapes : **Panneau de configuration** \- **Réseau et Internet** \- **Centre Réseau et partage** \- **Connexions** \- **Détails** \- **Adresse IPv4**.
 
 Vous pouvez maintenant retrouver le dossier avec la bonne adresse IP. Cliquez avec le bouton droit de la souris sur ce dossier et sélectionnez **Nouveau** \- **Valeur DWORD (32 bits)**. Vous devrez créer deux de ces valeurs : **TcpAckFrequency** et **TCPNoDelay**. Double-cliquez sur chacune d'elles et réglez leurs paramètres sur **1**. L'algorithme de Nagle est maintenant désactivé.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/umvX4ZdWbxk?si=tPXL0-Kzf9SQaY8z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Surcadencez votre carte graphique
 
@@ -585,24 +545,19 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-decoding-music-copyright-rules-in-the-world-of-instagram/"><u>[New] Decoding Music Copyright Rules in the World of Instagram</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-step-by-step-building-a-profitable-instagram-empire-for-2024/"><u>[Updated] Step-by-Step Building a Profitable Instagram Empire for 2024</u></a></li>
-<li><a href="https://youtube-stream.techidaily.com/2024-approved-turbocharge-youtube-videos-efficient-rendering-fast-transfer/"><u>2024 Approved Turbocharge YouTube Videos Efficient Rendering, Fast Transfer</u></a></li>
-<li><a href="https://win-blog.techidaily.com/vobaiff-movavi/"><u>完美無縫VOB到AIFF改編 – Movavi提供卓越在線解決方案</u></a></li>
-<li><a href="https://win-blog.techidaily.com/conversion-cr2-vers-png-sans-frais-utilisation-du-site-web-de-movavi-pour-le-traitement-par-ligne-de-commande/"><u>Conversion CR2 Vers PNG Sans Frais - Utilisation Du Site Web De Movavi Pour Le Traitement Par Ligne De Commande</u></a></li>
-<li><a href="https://win-blog.techidaily.com/convertir-archivos-multimedia-3gpp-a-formato-wma-gratuito-mediante-la-herramienta-online-de-movavi/"><u>Convertir Archivos Multimedia 3GPP a Formato WMA Gratuito Mediante La Herramienta Online De Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/descargar-la-conversion-de-archivos-rmvb-a-m4v-sin-coste-con-movavi-online/"><u>Descargar La Conversión De Archivos RMVB a M4V Sin Coste Con Movavi Online</u></a></li>
-<li><a href="https://tech-revival.techidaily.com/how-to-transform-vob-files-into-mp4-format-a-comprehensive-guide-for-windows-and-macos/"><u>How to Transform VOB Files Into MP4 Format: A Comprehensive Guide for Windows and macOS</u></a></li>
-<li><a href="https://facebook-video-recording.techidaily.com/in-2024-pcandroid-tutorial-successful-facebook-video-sharing/"><u>In 2024, PC/Android Tutorial Successful Facebook Video Sharing</u></a></li>
-<li><a href="https://fox-that.techidaily.com/iphone-qr-code-scanner-issues-try-these-8-quick-fixes-for-immediate-results/"><u>IPhone QR Code Scanner Issues? Try These 8 Quick Fixes for Immediate Results</u></a></li>
-<li><a href="https://win-blog.techidaily.com/los-diez-mas-eficaces-programas-para-grabar-la-pantalla-en-tu-ordenador-opiniones-expertas/"><u>Los Diez Más Eficaces Programas Para Grabar La Pantalla en Tu Ordenador: Opiniones Expertas</u></a></li>
-<li><a href="https://win-blog.techidaily.com/m4a-naar-mp4-verwijderen-gratis-online-convertereertafels-movavi/"><u>M4A Naar MP4 Verwijderen Gratis: Online Convertereertafels - Movavi</u></a></li>
-<li><a href="https://tech-recovery.techidaily.com/migrating-your-memories-a-guide-to-shifting-from-google-photos-to-icloud/"><u>Migrating Your Memories: A Guide to Shifting From Google Photos to iCloud</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-wavmp3/"><u>Movavi: ウェブ上でフリーのWAVからMP3への直接変換機能</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mpeg-4m4vmp3web-movavi/"><u>Mpeg-4(M4V)とmp3に自動的に変換可能な無料のWebベースの音楽コンバーター - MOVAVI</u></a></li>
-<li><a href="https://audio-editing.techidaily.com/new-silent-capture-effective-strategies-to-remove-noise-from-iphone-videos-for-2024/"><u>New Silent Capture Effective Strategies to Remove Noise From iPhone Videos for 2024</u></a></li>
-<li><a href="https://twitter-videos.techidaily.com/the-clear-cut-guide-to-high-definition-twitter-videos-for-2024/"><u>The Clear-Cut Guide to High Definition Twitter Videos for 2024</u></a></li>
-<li><a href="https://win-blog.techidaily.com/top-tipos-de-ferramentas-melhores-para-identificar-musica-em-computador-e-smartphone/"><u>Top Tipos De Ferramentas Melhores Para Identificar Música Em Computador E Smartphone</u></a></li>
-<li><a href="https://games-able.techidaily.com/tricks-and-tips-staying-incognito-on-steam/"><u>Tricks and Tips: Staying Incognito on Steam</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/024-approved-expert-audio-guide-for-vloggers/"><u>[New] 2024 Approved Expert Audio Guide for Vloggers</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-tips-to-incorrante-tv-with-facebook-live-integration/"><u>[Updated] In 2024, Tips to Incorrante TV with Facebook Live Integration</u></a></li>
+<li><a href="https://extra-support.techidaily.com/updated-public-domain-zen-soundscape/"><u>[Updated] Public Domain Zen Soundscape</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-virtual-frontiers-the-most-wanted-vr-devices-for-2024/"><u>[Updated] Virtual Frontiers The Most Wanted VR Devices for 2024</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/2024-approved-amplify-your-iphones-secrets-to-great-silhouettes/"><u>2024 Approved Amplify Your iPhones Secrets to Great Silhouettes</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/2024-approved-the-ultimate-tutorial-creating-instagram-ready-videos-with-final-cut-pro-x/"><u>2024 Approved The Ultimate Tutorial Creating Instagram-Ready Videos with Final Cut Pro X</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-the-constant-crashes-top-strategies-to-stabilize-among-us/"><u>Fix the Constant Crashes: Top Strategies to Stabilize Among Us</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/how-to-fix-oem-unlock-missing-on-poco-f5-5g-by-drfone-android/"><u>How To Fix OEM Unlock Missing on Poco F5 5G?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-performance-reduce-street-fighter-6-ping-and-lag-issues-for-a-perfect-pc-gameplay/"><u>Optimizing Performance: Reduce Street Fighter 6 Ping and Lag Issues for a Perfect PC Gameplay</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-firefox-hiccups-the-definitive-fixes-to-prevent-freezing/"><u>Resolve Your Firefox Hiccups: The Definitive Fixes to Prevent Freezing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-common-issue-of-recurrent-kodi-system-failures-fixed/"><u>Solving the Common Issue of Recurrent Kodi System Failures - Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-tips-overcoming-persistent-loading-issues-in-red-dead-redemption-2/"><u>Troubleshooting Tips: Overcoming Persistent Loading Issues in Red Dead Redemption 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-no-rest-for-the-wicked-game-freezing-issues-on-your-computer/"><u>Ultimate Guide: Resolving 'No Rest for the Wicked' Game Freezing Issues on Your Computer</u></a></li>
+<li><a href="https://techidaily.com/your-complete-guide-to-reset-samsung-galaxy-s23plus-drfone-by-drfone-reset-android-reset-android/"><u>Your Complete Guide To Reset Samsung Galaxy S23+ | Dr.fone</u></a></li>
 </ul></div>
 

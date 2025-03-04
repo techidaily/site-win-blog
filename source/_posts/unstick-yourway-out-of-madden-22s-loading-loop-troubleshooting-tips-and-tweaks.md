@@ -1,7 +1,7 @@
 ---
 title: Unstick Yourway Out of Madden 22'S Loading Loop – Troubleshooting Tips & Tweaks
-date: 2024-08-18T18:04:57.433Z
-updated: 2024-08-19T18:04:57.433Z
+date: 2025-02-25T16:17:07.018Z
+updated: 2025-03-04T16:00:14.603Z
 tags:
   - win11
   - win10
@@ -15,9 +15,6 @@ thumbnail: https://thmb.techidaily.com/6af91e940bb187fedb6046d135c289160c909fca8
 
 ## Say Goodbye to Madden 22 Loading Deadlock: Proven Fixes & Tips Inside
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/madden-22.jpg)
 
  As the latest entry in the long-running Madden NFL series, Madden 22 is available now. However many players reported that the game is stuck on the loading screen when they try to launch Madden 22\. If you’re plagued by the same issue, don’t worry. Here are some quick fixes for you.
@@ -48,9 +45,6 @@ If you’ve already done these, go ahead with the fixes below.
 1. **Unplug** the modem and router from the power outlet.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/modem-1.jpg)  
  modem  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/router.jpg)  
  router
 2. **Wait** for one minute.
@@ -65,10 +59,6 @@ If not, check out more fixes below.
  Some programs need administrator rights to function properly. To ensure Madden 22 works properly, you can run the game as an administrator. Here’s how:
 
 1. On your desktop, right-click Madden NFL 22 icon and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/properties.jpg)
 2. Navigate to the**Compatibility** tab. Then check the box next to**Run this program as an administrator** and click**OK** to save changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/run-this-program-as-admin.jpg)
@@ -84,23 +74,8 @@ If not, check out more fixes below.
 #### Steam
 
 1. Go to your Steam**LIBRARY** .  
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-library.jpg)
 2. Right-click Madden NFL 22 and select**Properties…** .  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-properties.jpg)
 3. Select the**LOCAL FILES** tab, then click**Verify integrity of game files…** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/steam-verify-game-files.jpg)
@@ -109,14 +84,8 @@ If not, check out more fixes below.
 #### Origin
 
 1. Select**My Game Library** in Origin.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-my-game-library.jpg)
 2. Right-click Madden NFL 22 and select**Repair** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/origin-repair.jpg)
 3. Origin will check your game’s installation and then automatically download any replacement or missing files.
 
@@ -124,9 +93,6 @@ If not, check out more fixes below.
 
 If the issue persists, continue to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Update your network driver
 
  Being stuck on the loading screen could indicate that you have a poor connection, which can be caused by a broken or outdated network driver. To fix this issue, you need to make sure you’re using the latest network driver.
@@ -137,9 +103,6 @@ If the issue persists, continue to the next fix.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/de-scan-now-1.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/07/de-wifi6.jpg)
@@ -150,9 +113,6 @@ If the issue persists, continue to the next fix.
 
 If the issue remains, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Change your DNS settings
 
  If updating your network driver doesn’t solve your connection problem, you can try setting an alternate DNS, like Google DNS. This will improve the resolution speed and provide you with more security online. Here’s how to do it:
@@ -160,29 +120,16 @@ If the issue remains, try the next fix.
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open Windows Settings. Then click**Network & Internet** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-Internet.jpg)
 2. Under Advanced network settings, click**Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/change-adapter-options.jpg)
 3. Right-click your current network and select**Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/network-properties.jpg)
 4. Select**Internet Protocol Version 4 (TCP/IPv4)** and click**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713322&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVRadio1.90-300x188.jpg" border="0">OtsAV Radio Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/IPV4-properties.jpg)
 5. Select**Use the following DNS server addresses** . For**Preferred DNS server** , type**8.8.8.8** ; and for**Alternate DNS server** , type**8.8.4.4** . Click**OK** to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/8888-8844.jpg)
 6. Next, you need to clear the DNS cache for the changes to apply. On your keyboard, press the**Windows logo key** and type**cmd** in the search bar. Select**Run as administrator** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-admin-1.jpg)
 7. In the pop-up window, type**ipconfig /flushdns** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/cmd-ipconfig-flushdns.jpg)
 
 Try relaunching Madden 22 and see if it does load without issue now.
@@ -194,9 +141,6 @@ If this fix doesn’t work for you, proceed to the next one.
  For Xbox players, if you’re stuck on the loading screen when launching madden 22, you can try to fix this issue by deleting saved game data. Since this cannot be undone, it is highly recommended that you back up your saved game data to online storage before deleting it. Here’s how:
 
 1. On Xbox Home, select **My games & apps** .  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/my-games-apps.jpg)
 2. Highlight Madden NFL 22, press the **Menu** button on your controller, then select **Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/manage-game-add-ones.jpg)
@@ -207,9 +151,6 @@ Try launching Madden 22 again to check if it can load normally.
 
 If not, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 7: Perform a clean boot
 
  A clean boot can cut down the number of applications that run when you start your computer. This can help you to identify if there are any conflicts between Madden 22 and another program. Here’s how:
@@ -221,9 +162,6 @@ If not, take a look at the next fix.
 3. **Uncheck** all the services EXCEPT those belong to your video card or sound card manufacturer, such as**Realtek** ,**AMD** ,**NVIDIA** and**Intel** . Then click**OK** to save the changes.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/hide2.jpg)
 4. On your keyboard, press**Ctrl** ,**Shift** and**Esc** at the same time to open**Task Manager** , then navigate to the**Startup** tab.  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/startup.jpg)
 5. One at a time, select any programs you suspect might be interfering and click**Disable** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/08/disable-service.jpg)
@@ -257,8 +195,6 @@ If not, take a look at the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -266,4 +202,23 @@ If not, take a look at the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://screen-capture.techidaily.com/new-crafting-professional-ppt-video-content-for-2024/"><u>[New] Crafting Professional PPT Video Content for 2024</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-luminous-lore-of-video-production-expert-insights/"><u>[Updated] 2024 Approved Luminous Lore of Video Production Expert Insights</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/balancing-speed-and-quality-choosing-between-lower-and-higher-fps/"><u>Balancing Speed & Quality Choosing Between Lower and Higher FPS</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crusader-kings-ii-troubleshooting-how-to-fix-unsuccessful-boot-issues/"><u>Crusader Kings II Troubleshooting - How to Fix Unsuccessful Boot Issues</u></a></li>
+<li><a href="https://article-posts.techidaily.com/essential-steps-in-choosing-exceptional-video-makers/"><u>Essential Steps in Choosing Exceptional Video Makers</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/from-vision-to-reality-accessing-openais-personalized-gpt/"><u>From Vision to Reality: Accessing OpenAI’s Personalized GPT</u></a></li>
+<li><a href="https://games-able.techidaily.com/high-refresh-low-price-innocn-39g1r/"><u>High Refresh, Low Price: InnoCN 39G1R</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-vivo-v27-pro-drfone-by-drfone-virtual-android/"><u>In 2024, How to Detect and Remove Spyware on Vivo V27 Pro? | Dr.fone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-remove-the-two-factor-authentication-on-apple-iphone-se-2020-by-drfone-ios/"><u>In 2024, How To Remove the Two Factor Authentication On Apple iPhone SE (2020)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/obs-stability-issues-resolved-for-windows-1110-users-updated-guide/"><u>OBS Stability Issues Resolved for Windows 11/10 Users (Updated Guide )</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-the-outdated-minecraft-drivers-error-with-easy-fixes/"><u>Overcome the 'Outdated Minecraft Drivers' Error with Easy Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-tips-addressing-and-fixing-the-metro-exodus-crash-issue/"><u>PC Gaming Tips: Addressing and Fixing the Metro Exodus Crash Issue</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/pixel-perfecting-free-high-quality-mobile-photography-boost/"><u>Pixel Perfecting Free, High-Quality Mobile Photography Boost</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-solutions-unsticking-qbittorrent-from-a-halted-state/"><u>Quick Solutions: Unsticking qBittorrent From a Halted State</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-ghost-recon-breakpoint-crashing-effective-and-easy-troubleshooting-guide/"><u>Stop Ghost Recon Breakpoint Crashing - Effective & Easy Troubleshooting Guide!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-slow-performance-on-naraka-bladepoint-tips-and-tricks/"><u>Troubleshooting Slow Performance on Naraka Bladepoint: Tips & Tricks</u></a></li>
+</ul></div>
 

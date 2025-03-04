@@ -1,7 +1,7 @@
 ---
 title: Enhancing Performance & Fixing FPS Drops While Playing Dying Light 2 on PC
-date: 2024-08-18T18:02:21.840Z
-updated: 2024-08-19T18:02:21.840Z
+date: 2025-02-27T16:17:22.986Z
+updated: 2025-03-04T16:28:52.563Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/2ba6e093c71356d417ecac5da46572ca39801b84e
 
  If a patch is available, just download and install it to see if it can fix the game lag issue; if there’s no patches available, or if the issue persists after you installed the latest patch, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 ## Fix 2: Update your graphics driver
 
 The outdated or broken graphics driver may also lag the game.
@@ -60,9 +57,6 @@ The outdated or broken graphics driver may also lag the game.
 
 **Or**
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2: Automatically
 
  This is the quickest and easiest option. It’s all done with just a couple of mouse clicks – easy even if you’re a computer newbie.
@@ -94,30 +88,15 @@ The outdated or broken graphics driver may also lag the game.
 
  Modifying the graphics settings is another easy fix to reduce lags in Dying Light. You need to modify the graphics settings both in Nvidia Control Panel and in the game.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ### Modify the graphics settings in Nvidia Control Panel
 
 1. On your keyboard, press**the Windows logo key** and**R** at the same time to open the Run dialog. Then type**control** and press**Enter** to open Control Panel.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![run dialog control panel](https://images.drivereasy.com/wp-content/uploads/2019/09/run-dialog-control-panel.jpg)
 2. View Control Panel by**Large icons** .  
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![view control panel bycategory](https://images.drivereasy.com/wp-content/uploads/2019/09/control-panel-category.jpg)
 3. Click**NVIDIA Control Panel** to open it.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![Nvidia-control-panel](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvidia-control-panel.jpg)
 4. Click**3D Settings** and select**Adjust image settings with preview** . Then select**Use my preference emphasizing** and**drag the slider to the left** .  
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ![Nvida-control-panel-3D-settings](https://images.drivereasy.com/wp-content/uploads/2019/09/Nvida-control-panel-3D-settings.jpg)
 
 ### Lower the in-game graphics settings
@@ -153,9 +132,6 @@ See if the game lag issue persists. If not, try the next fix, below.
 2. **Right-click on Dying Light** and select**Properties** .  
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-properties.jpg)
 3. In the window that pops up, click**SET LAUNCH OPTIONS…** under the**GENERAL** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Steam set launch options](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-set-launch-options.jpg)
 4. Copy and paste the commands below and click**OK** .  
 `-nologos -high -useallavailablecores`  
@@ -173,14 +149,8 @@ See if the game lag issue persists. If not, try the next fix, below.
 3. On your keyboard, press**Alt** and**Tab** at the same time and switch to**Task Manager** .
 4. Navigate to the**Details** tab and locate**DyingLightGame.exe** .
 5. **Right-click** on**DyingLightGame.exe** and select**Set affinity** .  
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager.jpg)
 6. **Check CPU 0** and**uncheck the rest** . (The game will freeze in the background, but don’t worry)  
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Set affinity Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/04/Set-affinity-Task-Manager-1.jpg)
 7. If the Affinity window closes, right-click on**DyingLightGame.exe** and open it again, then re-enable. The game will start running again as before.
 
@@ -199,8 +169,6 @@ See if the game lag issue persists. If not, try the next fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -208,4 +176,22 @@ See if the game lag issue persists. If not, try the next fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-effortlessly-enrich-your-vids-with-inshots-music-feature/"><u>[New] In 2024, Effortlessly Enrich Your Vids with InShot's Music Feature</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-examining-realities-intertwined-what-is-mixed-reality/"><u>[Updated] Examining Realities Intertwined What Is Mixed Reality?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-thx-surround-sound-issues-on-both-windows-10-and-11-computers/"><u>How to Fix Thx Surround Sound Issues on Both Windows 10 and 11 Computers</u></a></li>
+<li><a href="https://howto.techidaily.com/how-to-resolve-realme-12-5g-screen-not-working-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>How to Resolve Realme 12 5G Screen Not Working | Dr.fone</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/in-2024-9-mind-blowing-tricks-to-hatch-eggs-in-pokemon-go-without-walking-on-oppo-a78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, 9 Mind-Blowing Tricks to Hatch Eggs in Pokemon Go Without Walking On Oppo A78 5G | Dr.fone</u></a></li>
+<li><a href="https://android-location.techidaily.com/in-2024-getting-the-pokemon-go-gps-signal-not-found-11-error-in-oppo-a1-5g-drfone-by-drfone-virtual/"><u>In 2024, Getting the Pokemon Go GPS Signal Not Found 11 Error in Oppo A1 5G | Dr.fone</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/in-2024-step-by-step-gopro-4k-editing-basics/"><u>In 2024, Step-by-Step GoPro 4K Editing Basics</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/maximizing-your-channels-earnings-a-guide-to-creating-impactful-trailers-for-2024/"><u>Maximizing Your Channel's Earnings A Guide to Creating Impactful Trailers for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resident-evil-village-and-pc-lag-here-are-the-ultimate-fixes-you-need-to-try/"><u>Resident Evil Village and PC Lag? Here Are the Ultimate Fixes You Need to Try!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-quest-for-smooth-gaming-fixing-new-world-slowdowns-and-connection-hiccups/"><u>Resolve Your Quest for Smooth Gaming: Fixing New World Slowdowns & Connection Hiccups</u></a></li>
+<li><a href="https://discover-cloud.techidaily.com/solving-your-pcs-audio-problems-how-to-fix-a-distorted-or-noiseless-sound-card-with-guidance-from-yl-software/"><u>Solving Your PC’s Audio Problems: How to Fix a Distorted or Noiseless Sound Card with Guidance From YL Software</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/ultimate-guide-from-zte-nubia-z60-ultra-frp-bypass-by-drfone-android/"><u>Ultimate Guide from ZTE Nubia Z60 Ultra FRP Bypass</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-gta-v-gears-game-crashing-issues/"><u>Ultimate Guide: Resolving GTA V Gear's Game-Crashing Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/understanding-and-solving-noticeable-frame-rate-reductions-a-step-by-step-guide/"><u>Understanding and Solving Noticeable Frame Rate Reductions: A Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unveiling-fixes-for-cyberpunk-2077s-ominous-black-screen-conundrum/"><u>Unveiling Fixes for Cyberpunk 2077'S Ominous Black Screen Conundrum</u></a></li>
+</ul></div>
 

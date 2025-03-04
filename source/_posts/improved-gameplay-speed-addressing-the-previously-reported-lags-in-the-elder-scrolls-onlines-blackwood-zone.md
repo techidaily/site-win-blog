@@ -1,7 +1,7 @@
 ---
 title: Improved Gameplay Speed - Addressing the Previously Reported Lags in The Elder Scrolls Online's Blackwood Zone
-date: 2024-08-18T18:02:07.373Z
-updated: 2024-08-19T18:02:07.373Z
+date: 2025-03-02T16:15:49.674Z
+updated: 2025-03-04T16:10:40.581Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 
  Back 4 Blood’s finally here! Players have been enjoying the game during beta, but many also reported some issues causing poor game performance. One of the returning issues in Back 4 Blood seems to be the**high ping and constant lag spikes** . If you also experience similar problems, no worries. We’ve prepared a few fixes for you to try!
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes…
 
 [1: Check the server status](https://tools.techidaily.com/drivereasy/download/)
@@ -38,16 +35,10 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 
  Before we dive into anything advanced, make sure you’ve installed all the game updates. The devs will be releasing patches to fix any known issues.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 1: Check the server status
 
  Crowded servers are common on launch days. If the game is too laggy to play, you can check the server status first to see if the problem is with the server-end. You can also visit[Back 4 Blood official site](https://www.back4blood.com/en-us/news) ,[Twitter](https://twitter.com/back4blood) ,[Discord](https://discord.com/invite/turtlerockstudios) or the[Steam forum](https://steamcommunity.com/app/924970/discussions/) to see if there’s any announcement.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 2: Test internet connection
 
  If there’s nothing wrong with the server, then you can start troubleshooting from your side. Since high ping and lag issues are network-related, you should first test your internet connection. Here’s a few general steps you can do:
@@ -59,9 +50,6 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 
  If you’ve checked your internet connection but the ping is still high, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/748964/4704" target="_top" id="748964"><img src="//a.impactradius-go.com/display-ad/4704-748964" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/748964/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 3: Close bandwidth-hogging programs
 
  You’re more likely to experience lag spikes and get a high ping in-game when other programs are hogging your bandwidth. If your browser is running with tons of tabs open or videos loading in the background, your connection will become very slow.
@@ -75,9 +63,6 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 
  If you’re still getting a high ping and game seems laggy, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 4: Update network driver
 
  An outdated or faulty network driver may cause connection problems. For example, it could affect the stability of game performance and therefore you may experience extreme lags. It’s important to make sure your network driver is up-to-date and functioning properly. If not, you would need to install the latest version.
@@ -101,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 
  Restart your PC for the new drivers to take effect. Launch Back 4 Blood to see if the problem persists. If your ping is still high and experiences lags in game, no worries, there’s one more fix you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ## Fix 5: Check your DNS settings
 
  Crowded or broken DNS cache could cause random connection issues. To solve the high ping problem and fix the lag spikes in Back 4 Blood, there are two things you can do:
@@ -112,9 +94,6 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 
 [2: Switch to a public DNS server](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 1: Flush your DNS
 
  The action of flushing DNS will clear the DNS cache from your PC. When the DNS cache is removed, your PC will need to obtain the address from the DNS server every time it needs to access a new website. This may solve the lagging issue in Back 4 Blood if it’s triggered by invalid or corrupt DNS cache data. Here’s how to do it:
@@ -134,16 +113,10 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 1. On your taskbar, right-click the **network icon** , then click **Open Network & Internet settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/10/2021-10-11_15-44-44.png)
 2. Click **Change adapter options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-adapter-options.png)
 3. Right-click **the network you’re using** , then click **Properties** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/click-ethernet.png)
 4. Select **Internet Protocol Version 4 (TCP/IPv4)** , then click **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://uperfect.sjv.io/c/5597632/1246754/15155" target="_top" id="1246754"><img src="//a.impactradius-go.com/display-ad/15155-1246754" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1246754/15155" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/ipv4.png)
 5. Select **Use the following DNS server addresses** , fill in the Google DNS server addresses as below, then click **OK** .  
 
@@ -152,9 +125,6 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/06/change-to-google-dns.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus tip: try with a VPN
 
  If you want to avoid peak time in your region or just want to play on other servers, you can try using a VPN. VPN grants you access to different servers, helps prevent bandwidth throttling, and builds a stable connection. As long as you use a secure and reliable VPN, you shouldn’t get a high ping.
@@ -178,8 +148,6 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -187,4 +155,26 @@ thumbnail: https://thmb.techidaily.com/495603458e45a32721f7a07e84d49ad0a4941ec40
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/new-2024-approved-navigating-slack-filmo-coordination-for-seamless-meetings/"><u>[New] 2024 Approved Navigating Slack-Filmo Coordination for Seamless Meetings</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/new-2024-approved-the-pinnacle-strategies-for-persuasive-client-centered-videography/"><u>[New] 2024 Approved The Pinnacle Strategies for Persuasive Client-Centered Videography</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-in-2024-harmonizing-hashtags-instagram-tiktok-collaborative-guide/"><u>[New] In 2024, Harmonizing Hashtags Instagram-TikTok Collaborative Guide</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-streamlining-your-digital-liftoffs-using-vlc-for-mp4-and-more/"><u>[Updated] 2024 Approved Streamlining Your Digital Liftoffs Using VLC for MP4 and More</u></a></li>
+<li><a href="https://youtube-clips.techidaily.com/updated-compreranzo-il-background-ottenere-video-piu-chiaro-su-youtube/"><u>[Updated] Compreranzo Il Background Ottenere Video Più Chiaro Su YouTube</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-pros-in-the-field-pick-their-favorite-asmr-mics/"><u>[Updated] Pros in the Field Pick Their Favorite ASMR Mics</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-zooms-screen-glitch-on-desktops-a-precise-solution-guide/"><u>Beat Zoom's Screen Glitch on Desktops - A Precise Solution Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/black-ops-cold-war-game-update-for-ui-bug-27711-what-you-need-to-know/"><u>Black Ops Cold War Game Update for UI Bug 27711 – What You Need to Know</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enable-routines-open-the-google-app-tap-on-more-three-horizontal-lines-then-go-to-routine-tap-on-add-more-routines-or-plus-add-new-routine-the-wording-may-v442/"><u>Enable Routines: Open the Google App, Tap on More (Three Horizontal Lines), Then Go to Routine. Tap on Add More Routines or + Add New Routine (the Wording May Vary Depending on Your Device). Here You Can Create Custom Routines for Your Assistant.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-once-problematic-overwatch-and-graphics-driver-conflict-now-stable/"><u>Fixing the Once Problematic Overwatch and Graphics Driver Conflict - Now Stable!</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-megafun-the-ultimate-funimate-manual/"><u>In 2024, MegaFun The Ultimate Funimate Manual</u></a></li>
+<li><a href="https://youtube-help.techidaily.com/in-2024-redefining-the-art-of-editing-a-deep-dive-into-youtube-studios-capabilities/"><u>In 2024, Redefining the Art of Editing A Deep Dive Into YouTube Studio's Capabilities</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/mastering-printer-settings-a-comprehensive-guide-using-adobe-photoshop/"><u>Mastering Printer Settings: A Comprehensive Guide Using Adobe Photoshop</u></a></li>
+<li><a href="https://win-blog.techidaily.com/metro-exodus-no-longer-crashing-ultimate-guide-to-smooth-play-on-your-computer/"><u>Metro Exodus No Longer Crashing: Ultimate Guide to Smooth Play on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-glitches-strategies-to-stop-tribes-of-midgard-from-crashing/"><u>Overcoming Glitches - Strategies to Stop 'Tribes of Midgard' From Crashing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gamers-guide-to-achieving-smooth-fps-boost-in-the-popular-ark-game-series/"><u>PC Gamer's Guide to Achieving Smooth FPS Boost in the Popular ARK Game Series</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-bluestacks-from-crashing-a-five-step-solution-guide/"><u>Stop BlueStacks From Crashing: A Five-Step Solution Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/the-best-of-the-best-in-open-world-gaming/"><u>The Best of the Best in Open World Gaming</u></a></li>
+<li><a href="https://win-blog.techidaily.com/utorrent-performance-tweaks-to-overcome-sluggish-download-speeds/"><u>UTorrent Performance Tweaks to Overcome Sluggish Download Speeds</u></a></li>
+</ul></div>
 

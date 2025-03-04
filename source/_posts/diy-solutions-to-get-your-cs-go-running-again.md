@@ -1,7 +1,7 @@
 ---
 title: "DIY Solutions to Get Your CS: GO Running Again"
-date: 2024-08-18T18:02:32.648Z
-updated: 2024-08-19T18:02:32.648Z
+date: 2025-03-03T16:13:44.629Z
+updated: 2025-03-04T16:03:17.095Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 
  Before you try any methods, please make sure you’ve met the game’s minimum system requirement.
 
-<!-- affiliate ads begin -->
-<a href="https://store.advancedwebranking.com/order/checkout.php?PRODS=4715051&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/14edc6ebfdae2e23bbed83d67f50e983/products/33_awr%20logo.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Minimum requirement for Far Cry 5
 
 | **Supported OS** | Windows 7, Windows 8.1, Windows 10 (64bit versions required)      |
@@ -30,9 +27,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 8 GB                                                              |
 | **Video Card**   | NVIDIA GeForce GTX 670 or AMD Radeon R9 270 (or better)           |
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Recommended requirement for Far Cry 5
 
 | **Supported OS** | Windows 7 SP1, Windows 8.1, Windows 10 (64bit versions required)  |
@@ -41,9 +35,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 8 GB                                                              |
 | **Video Card**   | NVIDIA GeForce GTX 1080 SLI or AMD RX Vega 56 CFX (or better)     |
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254762&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/11_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### 4K configuration for Far Cry 5
 
 | **Supported OS** | Windows 10                                                              |
@@ -52,9 +43,6 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 | **RAM**          | 16 GB                                                                   |
 | **Video Card**   | NVIDIA GeForce GTX 1070 or AMD RX Vega 56 (or better)                   |
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  There’re 6 fixes that have helped many gamers solve their problem. You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -71,24 +59,9 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
  The privilege issue might be the reason for the long loading time issue. With high integrity access, Uplay can make full use of its features and won’t be bothered by this issue. So run the game as an administrator to see if this fixes your issue.
 
 1. Right-click on the Uplay icon and click**Properties** .  
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay-1.jpg)
 2. Choose the**Compatibility** tab.
 3. Click**Change settings for all users** .  
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay1.jpg)
 4. Under Settings, check**Run this program as an administrator** . Click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/uplay2.jpg)
@@ -104,22 +77,11 @@ When you are ready to play**FAR CRY 5** but**stuck on the loading screen** , you
 2. Click**Games** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/u.jpg)
 3. Right-click Far Cry 5 or click the little arrow button and click**Verify files** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/verify.jpg)
 4. Wait for Uplay to verify game files. Run Far Cry 5 to check.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ### Fix 3: Install the latest patch
 
  To fix some bugs and improve the game experience, Ubisoft (the developer of Far Cry 5) keeps releasing patches. So you should check if there is any update in Far Cry 5\. If yes, you can install the latest patch to **keep your game up to date** .
@@ -170,16 +132,10 @@ OR
  If you were not stuck on the “beginning screen” but could enter the game, you could try this fix. The high graphics settings in your Far Cry 5 can take up many system resources, but it can slow down your gram or even crashing because insufficient system resource can be provided. With that, you should set the Graphics Options settings in Far Cry 5 in lower mode to make your game smoother and avoid stacking on the loading screen.
 
 1. Open **Settings** in Far Cry 5, and click **Options** .  
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b40699cd971c.jpg)
 2. Click **Video** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069c1c77c8.jpg)
 3. Click the **Monitor** tab, and set **Window Mode to Windowed Mode** , and adjust the **Display Resolution** to the display resolution of your computer display, or lower than that.  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BOST%2BRecovery"><img src="https://www.systoolsgroup.com/box/ost-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b4069fca7979.jpg)
 4. Click the **Quality** tab, and adjust the available settings to **Low** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2018/07/img_5b406d6fb59e8.jpg)
@@ -205,8 +161,6 @@ OR
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +168,24 @@ OR
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-sure.techidaily.com/treamline-your-screen-time-step-by-step-towards-a-well-curated-playlist-for-2024/"><u>[New] Streamline Your Screen Time Step-by-Step Towards a Well-Curated Playlist for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-enabling-instant-access-to-youtube-videos-in-your-facebook-browsing-for-2024/"><u>[Updated] Enabling Instant Access to YouTube Videos in Your Facebook Browsing for 2024</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/updated-learn-smart-circumventing-edgenuity-video-lessons-quickly-for-2024/"><u>[Updated] Learn Smart Circumventing Edgenuity Video Lessons Quickly for 2024</u></a></li>
+<li><a href="https://video-creation-software.techidaily.com/download-free-total-video-player-app-for-windows-11-supports-both-64-bit-and-32-bit-systems/"><u>Download Free Total Video Player App for Windows 11 - Supports Both 64-Bit and 32-Bit Systems</u></a></li>
+<li><a href="https://discover-dash.techidaily.com/how-to-extract-audio-from-videos-the-ultimate-7-tips/"><u>How To Extract Audio From Videos - The Ultimate 7 Tips</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-overcome-steam-buddy-connectivity-problems-successfully/"><u>How to Overcome Steam Buddy Connectivity Problems Successfully</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-solve-pc-crashes-for-diablo-immortal-gameplay-updated/"><u>How to Solve PC Crashes for Diablo Immortal Gameplay (Updated)</u></a></li>
+<li><a href="https://fox-access.techidaily.com/in-2024-top-16-best-free-video-players-for-pc/"><u>In 2024, Top 16 Best Free Video Players for PC</u></a></li>
+<li><a href="https://extra-information.techidaily.com/in-depth-study-simplified-hdr-mastery/"><u>In-Depth Study Simplified HDR Mastery</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-double-trouble-dissecting-the-phenomenon-of-paired-system-crashes/"><u>PC Double Trouble: Dissecting the Phenomenon of Paired System Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-issue-star-wars-jedi-fallen-order-wont-start-expert-tips-and-tricks/"><u>Resolved Issue: Star Wars Jedi: Fallen Order Won't Start - Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-mystery-of-recurring-crashes-in-diablo-3-a-complete-guide/"><u>Solving the Mystery of Recurring Crashes in Diablo 3 - A Complete Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-the-game-crashing-mastering-necromunda-hired-gun-performance-tweaks-on-pc/"><u>Stop the Game Crashing: Mastering 'Necromunda: Hired Gun' Performance Tweaks on PC</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-power-of-beyerdynamics-mmx-200-sound/"><u>The Power of Beyerdynamic's MMX 200 Sound</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-fixing-your-mouse-troubles-while-playing-resident-evil-village/"><u>Ultimate Guide to Fixing Your Mouse Troubles While Playing Resident Evil Village</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-resolving-playstation-4-hang-ups-a-detailed-walkthrough/"><u>Ultimate Guide: Resolving PlayStation 4 Hang-Ups - A Detailed Walkthrough</u></a></li>
+<li><a href="https://tech-recovery.techidaily.com/unleashing-the-potential-of-ai-to-revolutionize-society-and-technology/"><u>Unleashing the Potential of AI to Revolutionize Society and Technology</u></a></li>
+</ul></div>
 

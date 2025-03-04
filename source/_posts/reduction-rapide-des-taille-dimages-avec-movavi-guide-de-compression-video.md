@@ -1,7 +1,7 @@
 ---
 title: "Réduction Rapide Des Taille D'Images Avec Movavi : Guide De Compression Vidéo"
-date: 2025-02-10T03:29:53.020Z
-updated: 2025-02-14T23:04:03.916Z
+date: 2025-03-01T16:44:31.727Z
+updated: 2025-03-04T16:18:24.096Z
 categories:
   - movavi
 thumbnail: https://thmb.techidaily.com/690b7ff7f1263e02d5cef2b1949fcc420057ec1a31acc3d38403cea70e416774.jpg
@@ -176,25 +176,13 @@ Cet article vous présente les réglages de performance pour les jeux que vous p
 
 Avant de commencer, il est toujours bon d'avoir un compteur de FPS dans le jeu, afin de pouvoir suivre vos progrès et tester les réglages qui fonctionnent. De nombreux jeux les ont préinstallés, mais si vous installez [MSI Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards), vous ne serez jamais sans cet outil utile dans n'importe quel jeu.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KF793jv1LIc?si=fJOogQJ2f8JUfTzZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 
 
 Comment rendre Windows 10 plus rapide pour les jeux (corrections rapides)
 
 ![](https://cdn.staticont.net/pages/0013/24/d54a84e68415bc2949ca1ec30e4cf5f5b067a4e1.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/mMYEK2gtY5c?si=ytxNz_JHZkTrwb4b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment rendre Windows 10 plus rapide pour jouer avec une solution rapide ? Suivez ces conseils et recommencez à jouer !
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/May-pLCUkEA?si=PGlcFZAlsp3S3beI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Régler les paramètres graphiques d'un jeu
 
@@ -225,10 +213,6 @@ Voici quelques liens vers les mises à jour des pilotes des fabricants les plus 
 ### Installer DirectX 12
 
 ![](https://cdn.staticont.net/default/0012/47/72e52d810cb1f6f8d15a641fc4b287b8c43fbcd6.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 DirectX 12 est un outil indispensable pour quiconque souhaite jouer à des jeux sur Windows 10\. Pour faire simple, DirectX est l'application que le jeu utilise pour communiquer avec votre ordinateur et lui dire quoi faire. DirectX 12 est une grande amélioration par rapport à son prédécesseur, DirectX 11, car il permet aux cartes graphiques de tirer des ressources de plus d'un cœur du processeur d'un PC, ce qui augmente les fréquences d'images, améliore les effets graphiques et réduit la consommation d'énergie. Des tests ont montré une différence de 85 à 300 % dans les performances de jeu entre la version 11 et la version 12.
 
@@ -281,10 +265,6 @@ Si vous souhaitez conserver un minimum de graphismes pour que votre interface n'
 * Afficher les vignettes au lieu des icônes.
 * Afficher le contenu de la fenêtre pendant le glissement.
 * Lisser les bords des polices d'écran.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/yr0yS_Ywrjs?si=QxzYiX1KmUaExmlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Gérer les mises à jour automatiques de Steam
 
@@ -354,10 +334,6 @@ Passer d'un disque dur à un disque SSD n'améliorera pas radicalement les perfo
 
 Quant à l'aspect financier, si un gros SSD pour votre système d'exploitation et vos jeux est trop cher pour vous, prenez un petit SSD pour votre système d'exploitation et gardez un gros disque dur pour les jeux.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8Y-k_3N-0OI?si=1J-aFBXLJl5b3x4h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ### Mettez à niveau votre GPU/CPU
 
 ![](https://cdn.staticont.net/default/0012/47/4d8d362406e5747022cddcbbe642fe7d57c6a558.webp)
@@ -367,10 +343,6 @@ Mettez à niveau votre GPU et votre CPU environ tous les quatre ans pour que tou
 Le choix de la première mise à niveau dépend des types de jeux auxquels vous jouez. Si vous n'avez pas besoin de graphismes extrêmes et jouez à des jeux plus rapides, le processeur est le meilleur choix. Mais si vous aimez les histoires numériques ou les jeux basés sur le monde avec beaucoup de personnages et d'arrière-plans non jouables, un GPU pourrait vous être plus utile.
 
 Quoi qu'il en soit, assurez-vous que l'équilibre des performances entre les deux est délicat, car l'un ne fonctionne pas sans l'autre. Vérifiez la mémoire et la bande passante de toute mise à niveau potentielle.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Mettez votre RAM à niveau
 
@@ -429,10 +401,6 @@ Comment accélérer l'exécution des jeux sur un ordinateur portable Windows 10
 
 ![](https://cdn.staticont.net/pages/0013/24/e045d566ab9cee25f15459463af7614838747945.webp)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X18Dq7rV-xI?si=twFfXIPD0TFmC5EM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Vous voulez savoir comment améliorer les performances de jeu sur un ordinateur portable Windows 10 ? Ces conseils vous aideront à accélérer les choses !
 
 ### Utiliser une alimentation externe
@@ -442,10 +410,6 @@ Windows 10 dispose de nombreuses fonctions d'économie d'énergie pour les ordin
 ### Utiliser un plan d'alimentation performant
 
 Pour modifier votre plan d'alimentation, cliquez sur la   **touche Windows** \+ **I**, tapez "alimentation" dans la zone de recherche, choisissez **Paramètres d'alimentation et de veille**, puis **Paramètres d'alimentation supplémentaires**. Si vous ne voyez pas de plan d'alimentation haute performance dans la partie gauche de l'écran, cliquez sur **Créer un plan d'alimentation** et choisissez **Haute performance**.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gMS5pm0SQlQ?si=gasOo6p2agrVlIb7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ### Empêchez votre ordinateur portable de surchauffer
 
@@ -490,10 +454,6 @@ Logiciel d'enregistrement de jeux et de streaming gratuit et simple
 [Télécharger gratuitement](https://tools.techidaily.com/movavi/products/)[À propos de la version Windows](https://www.gecata.com/)
 
 ![Gecata&nbsp;by Movavi](https://cdn.staticont.net/products/0023/55/189f02c8904c7cafef6bd153dc2ff5755f569030.webp)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## 
 
@@ -585,22 +545,15 @@ En vous inscrivant, vous acceptez de recevoir nos courriels de marketing et acce
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://location-fake.techidaily.com/3-ways-to-change-location-on-facebook-marketplace-for-realme-narzo-60x-5g-drfone-by-drfone-virtual-android/"><u>3 Ways to Change Location on Facebook Marketplace for Realme Narzo 60x 5G | Dr.fone</u></a></li>
-<li><a href="https://win-blog.techidaily.com/movavi-avi-mjpeg/"><u>立即下載 Movavi AVI 到 MJPEG 自由轉換工具 - 線上無限制</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726228018591-gsm-movavi/"><u>無限制網路Gsm轉移服務 - Movavi</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726220310451-m4a-webm-movavi/"><u>在线无成本将 M4A 转换为 WebM - 利用 Movavi 媒体格式转换器</u></a></li>
-<li><a href="https://win-blog.techidaily.com/free-online-flv-to-mjpeg-convertor-with-movavi-your-gateway-to-smooth-video-graphics/"><u>Free Online FLV to MJPEG Convertor with Movavi: Your Gateway to Smooth Video Graphics!</u></a></li>
-<li><a href="https://win-blog.techidaily.com/get-movavi-video-studio-for-enterprise-shop-today-and-elevate-your-corporate-video-content-creation/"><u>Get Movavi Video Studio for Enterprise - Shop Today & Elevate Your Corporate Video Content Creation!</u></a></li>
-<li><a href="https://location-social.techidaily.com/how-to-activate-and-use-life360-ghost-mode-on-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>How To Activate and Use Life360 Ghost Mode On Apple iPhone 13 Pro | Dr.fone</u></a></li>
-<li><a href="https://easy-unlock-android.techidaily.com/how-to-change-nokia-c32-lock-screen-clock-in-seconds-by-drfone-android/"><u>How To Change Nokia C32 Lock Screen Clock in Seconds</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/24-your-guide-to-the-best-budget-friendly-editors/"><u>In 2024, Your Guide to the Best Budget-Friendly Editors</u></a></li>
-<li><a href="https://some-guidance.techidaily.com/lossless-4k-video-compression-reducing-gigabytes-to-megabytes-without-sacrificing-clarity/"><u>Lossless 4K Video Compression: Reducing Gigabytes to Megabytes Without Sacrificing Clarity</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mov-to-m4a-file-converter-web-service-upload-and-convert-instantly-without-costs/"><u>MOV to M4A File Converter Web Service - Upload and Convert Instantly Without Costs.</u></a></li>
-<li><a href="https://win-blog.techidaily.com/1726223962974-movavimp3/"><u>MovaviのスマートなMP3音楽ファイル変換ツール -無料版</u></a></li>
-<li><a href="https://win-blog.techidaily.com/mxf-naar-mkv-vervangen-kostenloos-online-zelf-betalen-met-movavi/"><u>MXF Naar MKV Vervangen - Kostenloos Online Zelf Betalen Met Movavi</u></a></li>
-<li><a href="https://games-able.techidaily.com/reach-new-dimensions-engage-playnite-on-large-televisions/"><u>Reach New Dimensions: Engage Playnite on Large Televisions</u></a></li>
-<li><a href="https://review-topics.techidaily.com/recover-lost-data-from-honor-70-lite-5g-by-fonelab-android-recover-data/"><u>Recover lost data from Honor 70 Lite 5G</u></a></li>
-<li><a href="https://on-screen-recording.techidaily.com/top-10-best-free-facetime-for-android-alternatives/"><u>Top 10 Best Free FaceTime for Android Alternatives</u></a></li>
-<li><a href="https://vp-tips.techidaily.com/ultimate-guide-connecting-your-oculus-quest-2-headset-to-your-television/"><u>Ultimate Guide: Connecting Your Oculus Quest 2 Headset to Your Television</u></a></li>
+<li><a href="https://fox-access.techidaily.com/new-2024-approved-finding-the-perfect-balance-mastering-iphone-photo-blurring/"><u>[New] 2024 Approved Finding the Perfect Balance Mastering iPhone Photo Blurring</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-in-2024-becoming-a-director-top-film-tips-and-tricks-on-youtube/"><u>[Updated] In 2024, Becoming a Director Top Film Tips & Tricks on YouTube</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/echo-dot-4th-generation-unveiled-exploring-the-fresh-design/"><u>Echo Dot 4Th Generation Unveiled: Exploring the Fresh Design</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-solutions-for-amd-radeon-application-not-opening-problems/"><u>Effective Solutions for AMD Radeon Application Not Opening Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fall-guys-launch-trouble-heres-how-to-fix-game-crashes-at-startup/"><u>Fall Guys Launch Trouble? Here’s How to Fix Game Crashes at Startup</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-and-solutions-stop-dread-hunger-game-from-crashing-on-your-computer/"><u>Fixes & Solutions: Stop 'Dread Hunger' Game From Crashing on Your Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/get-hevc-h265-codec-now-unlock-premium-4k8k-video-playback-experience-at-zero-cost/"><u>Get Hevc (H.265) Codec Now: Unlock Premium 4K/8K Video Playback Experience at Zero Cost</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-motorola-get-deleted-pictures-back-with-ease-and-safety-by-fonelab-android-recover-pictures/"><u>How to Motorola Get Deleted Pictures Back with Ease and Safety?</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/in-2024-what-are-location-permissions-life360-on-vivo-y78plus-drfone-by-drfone-virtual-android/"><u>In 2024, What are Location Permissions Life360 On Vivo Y78+? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-guide-correcting-the-minecraft-crossbow-error-codes/"><u>Step-by-Step Guide: Correcting the Minecraft Crossbow Error Codes</u></a></li>
 </ul></div>
 

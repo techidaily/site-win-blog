@@ -1,7 +1,7 @@
 ---
 title: "Biomutant PC Game: Troubleshooting & Solutions"
-date: 2024-08-18T18:05:00.598Z
-updated: 2024-08-19T18:05:00.598Z
+date: 2025-02-28T16:14:56.735Z
+updated: 2025-03-04T16:08:26.390Z
 tags:
   - win11
   - win10
@@ -38,19 +38,12 @@ To clear Steam cache:
 
 1. Launch Steam and sign into your account.
 2. Click**Steam** \>**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453720/17020" target="_top" id="1453720"><img src="//a.impactradius-go.com/display-ad/17020-1453720" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453720/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Web Browser** , then click**DELETE WEB BROWSER CACHE** and**DELETE ALL BROWSER COOKIES** respectively. Once finished, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/1234.png)
 4. Exit Steam.
 5. Re-launch into Steam, then click if your friends list loads up fine. If yes, then great! If the**Friends Network Unreachable** error still pops up, please move on to**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Join or exit Steam Beta programs
 
  Steam Beta is a program/mode players can opt into and try out game updates and client updates before they officially go live. Since it is a program for testing, it could be prone to bugs causing the friends list loading problem. But in other cases, it is the offical version where the glitch exists.
@@ -61,23 +54,14 @@ Here’s how to join or exit Steam Beta programs:
 
 1. Launch Steam and sign into your account.
 2. Click**Steam** \>**Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-2.png)
 3. Select**Account** , then in Beta participation section, click**Change…** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/change.png)
 4. In the window that pops up, choose an option that changes your participation state. Then, click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/123ok.png)
 5. Exit Steam.
 6. Fire up Steam and see if your friends list is accessible. If yes, then congrats! If the error persists, please try**Fix 3** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BBusiness%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/business-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your network adapter driver
 
  A network adapter driver is a piece of software that’s pivotal to the communication between your network adapter and your computer system. If the network adapter driver is wrong, outdated or corrupt, you may have unstable or poor internet, which potentially causes the Steam**Friends Network Unreachable** error. So you should update your network adapter driver to see if it solves the problem. If you don’t have the time, patience or skills to update the driver manually, you can do it automatically with[](https://tools.techidaily.com/drivereasy/download/) **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -90,17 +74,11 @@ Here’s how to join or exit Steam Beta programs:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the[**Pro version**](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/update-network-driver-2.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your computer for the changes to take effect.
 5. Sign into Steam to see if your friends list loads up properly. If yes, you’ve resolved the issue. If it’s no joy, please try**Fix 4** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033101&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Elite.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Revert Steam to an older version
 
 **Friends Network Unreachable** error could be a bug in the current version. As a workaround, you could modify the properties and revert the client to an older version to see if it is the case.
@@ -123,9 +101,6 @@ The steps are as below:
 The steps are pretty easy:
 
 1. Unplug your modem (and your router, if it’s a separate device) from the power socket.  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/modem.jpg) (a modem)  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/02/router.png) (a router)
 2. Wait **60 seconds**  for your modem (and your router) to cool off.
@@ -135,10 +110,6 @@ The steps are pretty easy:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599951&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-Epubor Ultimate for Win：Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ### Fix 6: Is it a server issue?
 
  If you’ve exhausted the options above and yet your chat list is still not coming up, it is likely that the Steam Friends servers are experiencing downtime. In this case, you might have to wait around as the developer staff work on recovering the function.
@@ -155,8 +126,6 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -164,4 +133,23 @@ Epubor Ultimate for Win：Helps you read books anywhere, including the best eBoo
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://snapchat-videos.techidaily.com/new-discover-15-superior-snap-strategies-for-2024/"><u>[New] Discover 15 Superior Snap Strategies for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-diy-football-viewing-watch-record-cut-on-the-cheap/"><u>[New] DIY Football Viewing Watch, Record, Cut on the Cheap</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-sharpsnap-recorder-for-windows-10-for-2024/"><u>[Updated] SharpSnap Recorder for Windows 10 for 2024</u></a></li>
+<li><a href="https://facebook-video-files.techidaily.com/2024-approved-the-insiders-view-advanced-strategies-for-successful-storytelling-in-social-media/"><u>2024 Approved The Insider’s View Advanced Strategies for Successful Storytelling in Social Media</u></a></li>
+<li><a href="https://win-blog.techidaily.com/eliminating-starfield-pc-freeze-issues-a-comprehensive-troubleshooting-guide/"><u>Eliminating Starfield PC Freeze Issues: A Comprehensive Troubleshooting Guide</u></a></li>
+<li><a href="https://blue-screen-error.techidaily.com/fixing-usb-driver-issues-resolve-blue-screen-errors-in-windows-11/"><u>Fixing USB Driver Issues: Resolve Blue Screen Errors in Windows 11</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/24-essential-steps-for-mp3-streams-on-youtube/"><u>In 2024, Essential Steps for MP3 Streams on Youtube</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-road-ahead-solving-forza-horizon-4s-pc-crash-issues/"><u>Master the Road Ahead: Solving Forza Horizon 4'S PC Crash Issues</u></a></li>
+<li><a href="https://common-error.techidaily.com/overcome-google-chrome-stalling-is-it-time-for-a-fresh-start/"><u>Overcome Google Chrome Stalling: Is It Time for a Fresh Start?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-camera-not-detected-error-on-snapchat-expert-advice-for-users/"><u>Overcoming 'Camera Not Detected' Error on Snapchat - Expert Advice for Users</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-pc-game-crashes-a-guide-for-playing-yakuza-3-remastered/"><u>Resolving PC Game Crashes: A Guide for Playing Yakuza 3 Remastered</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-how-to-resolve-the-issue-when-discord-wont-launch/"><u>Solved: How to Resolve the Issue When Discord Won't Launch</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-connectivity-resolved-tips-for-stable-server-link-up/"><u>Steam Connectivity Resolved: Tips for Stable Server Link-Up</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/step-by-step-guide-updating-your-sound-card-drivers-tech-solutions-by-yl/"><u>Step-by-Step Guide: Updating Your Sound Card Drivers - Tech Solutions by YL</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-overcoming-persistent-crashing-issues-in-beat-saber/"><u>Troubleshooting Guide: Overcoming Persistent Crashing Issues in Beat Saber</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/why-picshot-makes-photo-collage-easier-for-2024/"><u>Why Picshot Makes Photo Collage Easier for 2024</u></a></li>
+</ul></div>
 

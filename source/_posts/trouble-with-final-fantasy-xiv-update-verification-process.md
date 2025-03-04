@@ -1,7 +1,7 @@
 ---
 title: Trouble with Final Fantasy XIV Update Verification Process
-date: 2024-08-18T18:04:00.719Z
-updated: 2024-08-19T18:04:00.719Z
+date: 2025-03-03T16:25:56.943Z
+updated: 2025-03-04T16:25:12.638Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/57ebcefbd038d5518117756c100dd6989f85e0e6c
 
 NieR Replicant ver.1.22474487139…, the long-waiting remaster is finally here. But before gamers can relive Yoko Taro’s amazing tale, many start reporting a**game not launching** issue. If you’re one the same boat, don’t worry. There’re still ways you can fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try all of them. Simply walk down the list until you hit the one that gives you luck.
@@ -52,9 +49,6 @@ If you have a powerful gaming rig, simply continue to the next fix.
 Here’s how:
 
 1. Open your Steam client and go to**LIBRARY** . Right click**NieR Replicant ver.1.22474487139…** and select**Properties..** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Verify integrity of game files…** . Then wait for the checking to complete.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-2.jpg)
@@ -63,17 +57,11 @@ Once completed, you can try to launch NieR Replicant now.
 
  If this fix doesn’t do the trick for you, take a look at the next one below.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 3: Launch inside the game folder
 
  If you have trouble starting NieR Replicant from Steam, you can try launching it directly from the .exe file.
 
 1. Go to your Steam LIBRARY. Right click**NieR Replicant ver.1.22474487139…** and select**Properties..** .  
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=2069351&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-24_%282%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/verify-nier-1.jpg)
 2. In the left pane, select**LOCAL FILES** . Then click**Browse..** . This will open your game folder.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-launch-from-exe-1.jpg)
@@ -92,9 +80,6 @@ Once completed, you can try to launch NieR Replicant now.
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click **Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -113,19 +98,10 @@ Once completed, you can try to launch NieR Replicant now.
 Here’s an example for NVIDIA graphics cards:
 
 1. At the empty area of your desktop, right click and select**NVIDIA Control Panel** .  
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nvidia-control-panel.jpg)
 2. In the left pane, select**manage 3D settings** . In the right pane, navigate to the**Program Settings** and select the**.exe** file of NieR Replicant.  
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-3d-settings-1.jpg)
 3. Under the section of Specify the settings for this program, set**Max Frame Rate** to**60\~65 FPS** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/nier-3d-settings-1-1.jpg)
 4. Now you can try to launch NieR Replicant.
 
@@ -140,19 +116,12 @@ Here’s an example for NVIDIA graphics cards:
 Here’s an example of how you can disable Windows Security:
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to enter the Windows settings menu. Click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ![update & security](https://images.drivereasy.com/wp-content/uploads/2020/10/update-security-2.jpg)
 2. Select **Windows Security** in the left pane, and click **Virus & threat protection** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-2-5.jpg)
 3. In the pop-up window, click **Manage settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-3-4.jpg)
 4. Toggle off **Real-time protection** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/5-4-2.jpg)
 
  Now check if you can start NieR Replicant. (If this method doesn’t do the charm, remember to re-enable your antivirus.)
@@ -167,8 +136,6 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -176,4 +143,26 @@ EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code e
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/solved-battlefield-4-not-launching-on-pc/"><u>[SOLVED] Battlefield 4 Not Launching on PC</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-podcasting-made-simple-techniques-and-free-sample-scripts-inside/"><u>[Updated] Podcasting Made Simple Techniques and Free Sample Scripts Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723008413542-ascent-on-your-pc-overcome-those-annoying-crashes-with-this-step-by-step-guide/"><u>Ascent on Your PC? Overcome Those Annoying Crashes with This Step-by-Step Guide!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/avoiding-dota-2s-vac-ban-strategies-and-solutions/"><u>Avoiding Dota 2'S VAC Ban - Strategies and Solutions</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-dragons-dogma-2-gaming-experience-by-resolving-low-fps-and-freezing-problems/"><u>Boost Your Dragon's Dogma 2 Gaming Experience by Resolving Low FPS and Freezing Problems</u></a></li>
+<li><a href="https://fox-http.techidaily.com/digital-dreamscapes-compared-metaverse-vs-omniverse-in-the-limelight/"><u>Digital Dreamscapes Compared Metaverse Vs. Omniverse in the Limelight</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancing-gameplay-a-guide-to-overcoming-lag-in-rainbow-six-siege/"><u>Enhancing Gameplay: A Guide to Overcoming Lag in Rainbow Six Siege</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-photos-from-tecno-camon-20-to-samsung-galaxy-s21-ultra-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Photos From Tecno Camon 20 to Samsung Galaxy S21 Ultra | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-how-to-bypass-frp-on-itel-p40-by-drfone-android/"><u>In 2024, How to Bypass FRP on Itel P40?</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/in-2024-how-to-track-xiaomi-redmi-a2-location-without-installing-software-drfone-by-drfone-virtual-android/"><u>In 2024, How to Track Xiaomi Redmi A2 Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-unlock-a-infinix-smart-8-plus-easily-by-drfone-android/"><u>In 2024, How To Unlock a Infinix Smart 8 Plus Easily?</u></a></li>
+<li><a href="https://audio-editing.techidaily.com/new-next-gen-audio-transcription-technologies-and-their-applications-for-2024/"><u>New Next-Gen Audio Transcription Technologies and Their Applications for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-launch-problems-in-call-of-duty-black-ops-4-solutions-inside/"><u>Overcoming Launch Problems in Call of Duty Black Ops 4 - Solutions Inside</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-last-epoch-error-in-your-pc-top-strategies/"><u>Resolving 'Last Epoch Error' In Your PC: Top Strategies</u></a></li>
+<li><a href="https://win-luxury.techidaily.com/reversing-mistakes-a-comprehensive-tutorial-to-recover-lost-data-from-win-server-2012-r2/"><u>Reversing Mistakes: A Comprehensive Tutorial to Recover Lost Data From Win Server 2012 (R2)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-lag-in-fortnite-effective-strategies-for-optimal-performance/"><u>Say Goodbye to Lag in Fortnite: Effective Strategies for Optimal Performance</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solution-for-when-snap-camera-shows-no-input-detected/"><u>Step-by-Step Solution for When Snap Camera Shows No Input Detected</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/top-15-augmented-reality-games-like-pokemon-go-to-play-on-tecno-spark-go-2024-drfone-by-drfone-virtual-android/"><u>Top 15 Augmented Reality Games Like Pokémon GO To Play On Tecno Spark Go (2024) | Dr.fone</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/windows-best-camcorders-reviewed-and-rated-for-2024/"><u>Window's Best Camcorders Reviewed & Rated for 2024</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Personality Becomes Personalities
-date: 2024-08-18T18:05:45.034Z
-updated: 2024-08-19T18:05:45.034Z
+date: 2025-02-28T16:34:44.024Z
+updated: 2025-03-04T16:24:11.622Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  Avoid using the Windows \[**ALT** \]+\[**TAB** \] function as it can have an impact on the framerate.
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You don’t have to try them all; just work your way down the list until you find the one that works for you.
@@ -47,9 +44,6 @@ thumbnail: https://thmb.techidaily.com/d021ea19d35ef3673abfe0bc9bdff457eb34791e5
 
  Once you’ve confirmed that your device is good enough to run Deathloop, you can continue with the following fixes.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Use your primary graphics card
 
  If your game does not perform as well as you expect with your AMD or Nvidia graphics card, it may be running with the wrong GPU. To fix it, you can switch the game to your primary graphics card. Here’s how:
@@ -73,9 +67,6 @@ If this does not resolve the problem, proceed to Fix 3\.
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-scan-now-20.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/de-nvidia-gtx-1080.jpg)
 
  The **Pro version** of Driver Easy comes with **full technical support** . If you need assistance, please contact Driver Easy’s support team at [**support@drivereasy.com**](https://tools.techidaily.com/drivereasy/download/) .
@@ -84,17 +75,11 @@ If this does not resolve the problem, proceed to Fix 3\.
 
 If the game still keeps freezing, take a look at the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072200/17885" target="_top" id="2072200"><img src="//a.impactradius-go.com/display-ad/17885-2072200" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072200/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 4: Close background programs
 
  Too many programs running in the background will take up more sources and slow down your PC. You can free up your system resources by closing all the additional programs in the background. Here’s how:
 
 1. Right-click your**taskbar** and select**Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2087267/19272" target="_top" id="2087267"><img src="//a.impactradius-go.com/display-ad/19272-2087267" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2087267/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/task-manager.jpg)
 2. Under the**Processes** tab,**right-click** the processes that are CPU and memory-hogging, and select**End task** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/end-task.jpg)
@@ -102,24 +87,14 @@ If the game still keeps freezing, take a look at the next fix.
 
  If the freezing issue still occurs after closing all the background programs, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5: Switch to Performance Mode on PS5
 
  Some players reported that Deathloop has a smoother performance with Performance Mode selected on their PS5\. To set Performance Mode on your PS5, follow these steps:
 
 1. Go to the PS5 Home Screen and select the**Settings** icon (a small cog) on the top right side.
 2. Choose**Save Data and Game/App Settings** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-saved-data.jpg)
 3. Select**Game Presets** , then make sure**Performance Mode** is selected.  
-<!-- affiliate ads begin -->
-<a href="https://shop.emeditor.com/order/checkout.php?PRODS=4610657&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.emeditor.com/wp-content/uploads/2024/06/emeditor_chat_ai.png" border="0">
-EmEditor is a fast, lightweight, yet extensible, easy-to-use text editor, code editor, CSV editor, and large file viewer for Windows. Both native 64-bit and 32-bit builds are available, and moreover, the 64-bit includes separate builds for SSE2 (128-bit), AVX-2 (256-bit), and AVX-512 (512-bit) instruction sets. New versions support AI-assisted writing.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/09/ps5-performance-mode.jpg)
 
  Now you can enjoy your game with higher frame rates. Check if the freezing issue persists.
@@ -152,8 +127,6 @@ Check if the game freezes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -161,4 +134,20 @@ Check if the game freezes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-web.techidaily.com/ed-2024-approved-essential-science-youtube-networks-expand-your-mind/"><u>[Updated] 2024 Approved Essential Science YouTube Networks Expand Your Mind</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-in-2024-facebook-and-the-evolution-of-short-form-videos-a-2023-perspective/"><u>[Updated] In 2024, Facebook and the Evolution of Short-Form Videos A 2023 Perspective</u></a></li>
+<li><a href="https://win-tutorials.techidaily.com/1-troubleshooting-guide-how-to-fix-a-malfunctioning-sound-card-expert-advice-from-yl-computing/"><u>1. Troubleshooting Guide: How To Fix A Malfunctioning Sound Card - Expert Advice From YL Computing</u></a></li>
+<li><a href="https://instagram-videos.techidaily.com/2024-approved-mastering-instagram-a-guide-to-sharing-gifs-in-4-simple-steps/"><u>2024 Approved Mastering Instagram A Guide to Sharing GIFs in 4 Simple Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/comprehensive-fixes-for-the-cannot-initialize-the-debugger-issue-in-cs-go/"><u>Comprehensive Fixes for the 'Cannot Initialize the Debugger' Issue in CS: GO</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/enhance-your-wireless-experience-with-updated-mpow-bluetooth-drivers-for-win11win8win7-secure-download-now/"><u>Enhance Your Wireless Experience with Updated MPOW Bluetooth Drivers for Win11/Win8/Win7 - Secure Download Now</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixed-alert-your-itunes-audio-setup-needs-attention/"><u>Fixed Alert! Your iTunes Audio Setup Needs Attention</u></a></li>
+<li><a href="https://techidaily.com/how-to-reset-oppo-reno-10-5g-without-losing-data-drfone-by-drfone-reset-android-reset-android/"><u>How to Reset Oppo Reno 10 5G without Losing Data | Dr.fone</u></a></li>
+<li><a href="https://ai-video-apps.techidaily.com/new-green-screen-magic-in-fcp-x-a-beginners-guide-to-chroma-keying-for-2024/"><u>New Green Screen Magic in FCP X A Beginners Guide to Chroma Keying for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-frequent-shutdowns-in-beat-saber-for-smooth-gaming/"><u>Resolving Frequent Shutdowns in Beat Saber for Smooth Gaming</u></a></li>
+<li><a href="https://win-extraordinary.techidaily.com/the-chaotic-digital-transformation-how-google-is-reshaping-personal-computing/"><u>The Chaotic Digital Transformation: How Google Is Reshaping Personal Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-simple-guide-to-overcoming-directx-glitches-in-fifa-19/"><u>The Simple Guide to Overcoming DirectX Glitches in FIFA 19</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/top-picks-ultimate-guide-to-the-best-televisions/"><u>Top Picks: Ultimate Guide to the Best Televisions</u></a></li>
+</ul></div>
 

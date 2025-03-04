@@ -1,7 +1,7 @@
 ---
 title: Anthem Loading Screen Stuck? Here's How to Get Out of the Neverending Boot Sequence!
-date: 2024-08-18T18:00:50.723Z
-updated: 2024-08-19T18:00:50.723Z
+date: 2025-02-27T16:13:11.239Z
+updated: 2025-03-04T16:00:01.993Z
 tags:
   - win11
   - win10
@@ -30,9 +30,6 @@ thumbnail: https://thmb.techidaily.com/32db33815d8e5022081f3af40e2b0779f4b24f68e
 5. [Run Anthem as an administrator](https://tools.techidaily.com/drivereasy/download/)
 6. [Change your graphics settings](https://tools.techidaily.com/drivereasy/download/)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 1: Move your game to another drive
 
  Origin enables players to move games to another drive easily. Coping and pasting your game files and folders doesn’t move your games completely, so you’ll need to do it via Origin.
@@ -49,16 +46,10 @@ Make sure that Anthem is closed and not running in the background.
 
 3) Type**taskmgr** and click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-925.png)
 
  4) Task Manager opens. In the**Processes** tab, select the process(es) related to**Anthem** and**Origin** , and click**End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-926.png)
 
 5) After ending all the tasks with Anthem and Origin, close Task Manager.
@@ -86,9 +77,6 @@ Make sure that Anthem is closed and not running in the background.
 
 All good now? That’s great!
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ### Solution 2: Repair Anthem in Origin
 
  The Repair feature in the Origin client helps scan problems for games and try to fix any detected issues. So if Anthem is stuck on loading screen, you can try Repair to fix your problem.
@@ -105,9 +93,6 @@ Here’s how to do it:
 
  4) Right click on**Anthem** , and click**Repair** .
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-860.png)
 
  5) Origin starts scanning and repairing. Follow the on-screen instructions to finish the process.
@@ -116,9 +101,6 @@ Here’s how to do it:
 
  If Anthem loads up without any issue, congrats! If not, move on to the next method.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=19080710&QTY=1&AFFILIATE=108875&CART=1"><img src="https://smart-seo-tool.com/images/SmartSEOAuditorBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 3: Update your drivers
 
  A missing or outdated device driver in your computer can cause Anthem not loading, especially your graphics card driver and your network adapter driver. To rule it out as the cause, you should verify that the device drivers are up to date, and update those that aren’t.
@@ -137,9 +119,6 @@ OR
 
  2) Open Driver Easy and click**Scan Now** . Driver Easy will then scan the problem drivers in your computer.
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-856.png)
 
  3) Click the**Update** button next to the flagged video card and network adapter to automatically download the correct version of their driver (you can do this with the**FREE** version). Then install it in your computer.
@@ -166,9 +145,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
  3) Click the**Origin In-Game** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/image-209-1024x668.png)
 
  4) Switch it to**Off** .
@@ -179,9 +155,6 @@ Now launch Anthem on your computer, and your game should be loading.
 
 Hopefully this will fix your Anthem not loading issue.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Solution 5: Run Anthem as an administrator
 
  If Anthem keeps sticking on infinite loading screen, running it as an administrator will help.
@@ -192,9 +165,6 @@ Here’s what you need to do:
 
 2) Right click on Anthem setup file, and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/09/image-861.png)
 
  3) Click the**Compatibility** tab, and check the box for**Run this program as an administrator** . Then click**Apply** and**OK** .
@@ -205,18 +175,6 @@ Here’s what you need to do:
 
  Anthem runs without any problem? That’s great! Or your problem still persist? Don’t give up hope.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Solution 6: Change your graphics settings
 
  Many Anthem players have reported that modifying Anthem graphics settings helps with the Anthem loading issue, especially in reducing Anthem loading times. So you can change the graphics settings for Anthem in your computer.
@@ -248,8 +206,6 @@ Re-launch Anthem and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -257,4 +213,24 @@ Re-launch Anthem and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-knowledge.techidaily.com/new-prime-places-for-accessible-outstanding-vector-design-tools-for-2024/"><u>[New] Prime Places for Accessible, Outstanding Vector Design Tools for 2024</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-secrets-of-the-social-elite-6-actionable-tips-for-growing-instagram-followers/"><u>[New] Secrets of the Social Elite 6 Actionable Tips for Growing Instagram Followers</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-mac-efficiency-for-academics-audio-record-of-classroom-learning/"><u>[Updated] Mac Efficiency for Academics Audio Record of Classroom Learning</u></a></li>
+<li><a href="https://win11.techidaily.com/altering-network-addresses-on-win11/"><u>Altering Network Addresses on Win11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/banish-the-shadows-fixing-elden-rings-troublesome-boot-screen-issue/"><u>Banish the Shadows: Fixing Elden Ring's Troublesome Boot Screen Issue</u></a></li>
+<li><a href="https://iphone-transfer.techidaily.com/easy-methods-how-to-transfer-pictures-from-apple-iphone-7-plus-to-pc-drfone-by-drfone-transfer-from-ios/"><u>Easy Methods How To Transfer Pictures From Apple iPhone 7 Plus to PC | Dr.fone</u></a></li>
+<li><a href="https://fox-zaraz.techidaily.com/how-to-pre-test-your-graphics-cards-compatibility-with-pc-systems-insights-from-yl-computing/"><u>How to Pre-Test Your Graphics Card's Compatibility with PC Systems: Insights From YL Computing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-genshin-impact-from-continuously-crashing-on-windows-and-linux-systems/"><u>How to Stop Genshin Impact From Continuously Crashing on Windows and Linux Systems</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/how-to-switch-on-windows-11s-hdr-functionality-for-2024/"><u>How to Switch On Windows 11'S HDR Functionality for 2024</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/in-2024-5-techniques-to-transfer-data-from-asus-rog-phone-7-to-iphone-15141312-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 5 Techniques to Transfer Data from Asus ROG Phone 7 to iPhone 15/14/13/12 | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/in-2024-innovative-snapchat-strategies-the-ultimate-list/"><u>In 2024, Innovative Snapchat Strategies The Ultimate List</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-stability-in-your-streams-defeating-obs-crashes-on-windows-1011-new-solutions-2024/"><u>Mastering Stability in Your Streams: Defeating OBS Crashes on Windows 10/11 (New Solutions, 2024)</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-troubleshooting-fixing-persistent-crashes-in-age-of-wonders-planetfall/"><u>PC Troubleshooting: Fixing Persistent Crashes in 'Age of Wonders: Planetfall'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-and-simple-solutions-to-stop-chrome-from-crashing-on-windows-10/"><u>Quick & Simple Solutions to Stop Chrome From Crashing on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-relink-issue-in-granblue-fantasy-troubleshooting-steps/"><u>Solving the 'Relink' Issue in Granblue Fantasy - Troubleshooting Steps</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-ultimate-guide-to-resolving-call-of-duty-warzones-pc-crashing-problems/"><u>The Ultimate Guide to Resolving Call of Duty: Warzone's PC Crashing Problems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-when-itunes-cant-connect-with-your-iphone-on-windows-10/"><u>Troubleshooting Guide: When iTunes Can't Connect with Your iPhone on Windows 10</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Elden Ring's Launch Postponement Explained: Factors Affecting Gamers Worldwide"
-date: 2024-08-18T18:01:21.065Z
-updated: 2024-08-19T18:01:21.065Z
+date: 2025-03-01T16:12:56.702Z
+updated: 2025-03-04T16:25:27.571Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/7d60bd83471ce3aad62f7e36543b04c731bcd80b3
 
 The Outriders is finally out! However, many players encountered Outriders crashing when they accessed inventory or menu. If you have the same issue, don’t worry, and just try the fixes here to get it solved.
 
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You may not try them all. Just work from the top down until you find the one that does the trick.
@@ -30,9 +27,6 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 4. **[Enforce DX12](https://tools.techidaily.com/drivereasy/download/)**
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 1 – Run Outriders as an administrator
 
  When Outriders fails to obtain the necessary permissions to function properly, it will crash. In this case, you should run the game in the administrator mode. This method also works for the_Outriders-win64-shipping.exe system error_ that many players reported.
@@ -40,16 +34,10 @@ The Outriders is finally out! However, many players encountered Outriders crashi
 Here are the steps:
 
 1. Launch your Steam client and click the**Library** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. In the game list, right-click**Outriders** and click**Manage** \>**Browse local files** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/fix-1.jpg)
 3. Right-click the**OUTRIDERS-Win64-Shipping.exe file** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-1.jpg)
 4. Navigate to the**Compatibility** tab. Then tick**Run this program as an administrator** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/run-as-administrator-outriders.jpg)
@@ -77,9 +65,6 @@ There are mainly two ways you can update the graphics driver:
 3. Click the **Update** button next to the flagged graphics driver to automatically download the correct version of that driver, then you can manually install it (you can do this with the FREE version).  
 
  Or click **Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro versio](https://tools.techidaily.com/drivereasy/download/) [n](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money back guarantee. You’ll be prompted to upgrade when you click **Update All** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![update graphics driver for hitman 3](https://images.drivereasy.com/wp-content/uploads/2021/01/update-graphics-driver-de-2.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -93,9 +78,6 @@ There are mainly two ways you can update the graphics driver:
 
 1. Run your Outriders and go to the**Game Menu** .
 2. Select**Options** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/in-game-settings-1.jpg)
 3. Under the**Display** tab, set the parameters as follows:  
 **Windows Mode** :_Borderless_ or_Windowed_  
@@ -105,9 +87,6 @@ There are mainly two ways you can update the graphics driver:
 
  While doing this may decrease the visual performance, it’s an effective workaround for Outriders inventory/menu crashes before the full version launches.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4 – Enforce DX12
 
  Many players see a significant FPS boost when they run Outriders with DX12\. So we recommend you to force the DX12 mode to mitigate the crashing problem.
@@ -115,14 +94,8 @@ There are mainly two ways you can update the graphics driver:
 1. Open Steam and navigate to**Library** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/steam.jpg)
 2. Right-click**Outriders** in the left pane and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4530091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/cit_win/banScrn.jpg" border="0">CollageIt Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/verify-1.jpg)
 3. Under**Launch Option** , type**\-force-dx12** in the text field.  
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/03/enforce-dx12.jpg)
 4. Close the window and launch Outriders.
 
@@ -157,8 +130,6 @@ Once done, start Outriders and test the game.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -166,4 +137,21 @@ Once done, start Outriders and test the game.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/fixed-outriders-unreal-process-has-crashed-ue4-madness-error/"><u>[Fixed] Outriders ‘Unreal Process Has Crashed: UE4-Madness’ Error</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-2024-approved-camouflaged-consumer-of-facebook-feeds/"><u>[New] 2024 Approved Camouflaged Consumer of Facebook Feeds</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-can-you-receive-a-monthly-check-from-youtube/"><u>[Updated] 2024 Approved Can You Receive a Monthly Check From YouTube?</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/updated-in-2024-simplifying-your-snapchat-experience-3-essential-steps/"><u>[Updated] In 2024, Simplifying Your Snapchat Experience - 3 Essential Steps</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/ed-in-2024-streamlined-method-to-track-down-your-voice-in-youtube-threads/"><u>[Updated] In 2024, Streamlined Method to Track Down Your Voice in YouTube Threads</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bypass-maplestorys-initial-hurdles-and-dive-into-the-game-seamlessly/"><u>Bypass MapleStory's Initial Hurdles & Dive Into the Game Seamlessly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/google-chrome-not-responding-expert-tips-on-getting-your-browser-running-smoothly-again/"><u>Google Chrome Not Responding? Expert Tips on Getting Your Browser Running Smoothly Again</u></a></li>
+<li><a href="https://win-dash.techidaily.com/how-to-ensure-compatibility-with-updated-epson-xp-640-drivers-in-windows-environments/"><u>How to Ensure Compatibility with Updated Epson XP-640 Drivers in Windows Environments</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/in-2024-expert-tips-on-capturing-and-sharing-your-instagram-stories/"><u>In 2024, Expert Tips on Capturing and Sharing Your Instagram Stories</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-black-ops-cold-war-display-mishap-error-code-27711-fixed/"><u>Resolved: Black Ops Cold War Display Mishap (Error Code 27711) Fixed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steps-when-vanguard-doesnt-initialize-in-valorant/"><u>Resolved: Troubleshooting Steps When Vanguard Doesn't Initialize in Valorant</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/the-battle-of-intelligent-systems-does-forefront-ai-surpass-chatgpt-in-performance/"><u>The Battle of Intelligent Systems: Does Forefront AI Surpass ChatGPT in Performance?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-guide-resolving-frequent-crashes-in-battlefield-2042-for-windows-users/"><u>Troubleshooting Guide: Resolving Frequent Crashes in Battlefield 2042 for Windows Users</u></a></li>
+<li><a href="https://technical-tips.techidaily.com/xbox-one-expansion-how-to-set-up-and-play-games-from-an-external-hard-drive/"><u>Xbox One Expansion: How to Set Up and Play Games From an External Hard Drive</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "Optimize Elden Ring Experience: Solutions to Overcome Performance Hiccups"
-date: 2024-08-18T18:08:04.722Z
-updated: 2024-08-19T18:08:04.722Z
+date: 2025-03-01T16:28:38.791Z
+updated: 2025-03-04T16:13:37.400Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/a42282b650e186f3549f7d2aa960eb18debb612fb
 
 These days, **[Outriders](https://www.epicgames.com/store/en-US/p/outriders?epic%5Fcreator%5Fid=28725b529b5346a38a080b6a920aa97a&epic%5Fgame%5Fid=c6e54ebd92da4ee8819c1c0956cebdc4)**  has seen a thriving surge among gamers. Overall, it is a game that players are enjoying. But the performance issues such as the game stutters and freezes during cutscenes or normal gameplay are plaguing them. These definitely will affect the gaming experience. But you can fix it on your own.
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Before getting started
 
  Before taking any troubleshooting steps listed below, we recommend you switch to mouse and keyboard if you’re playing Outriders with a controller. Although it seems there’s nothing to do with your controller, many players did report on Reddit that switching to mouse and keyboard helped them mitigate their problems. So it’s worth a shot.
@@ -42,9 +39,6 @@ Here’s how you can download and install Windows updates:
 
  1) In the Search box, type in **check for updates** . Then click **Check for updates**  from the results.  
   
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 
  2) Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it.  
@@ -79,9 +73,6 @@ Here’s how you can download and install Windows updates:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958374/18409" target="_top" id="1958374"><img src="//a.impactradius-go.com/display-ad/18409-1958374" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958374/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 3\. Update your graphics driver
 
  Your graphics card is one of the core components of your computer. And your graphics driver is essential for getting top performance from your GPU. When you have performance issues on your game, your outdated or faulty graphics driver can be the culprit. To fix it, you need to update your graphics driver. This is pretty necessary, especially if you can’t remember when was the last time you updated it.
@@ -99,18 +90,12 @@ Here’s how you can download and install Windows updates:
  3) Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with **full support**  and a **30-day money-back**  guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.)
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![AMD driver with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2021/04/update-driver-AMD.png)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4699091&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bccefcc1b1eee9eca3ae4f5c1a281482/products/1_jutoh-logo-1200x1600.jpg" border="0">Jutoh Plus -  Jutoh is an ebook creator for Epub, Kindle and more. It's fast, runs on Windows, Mac, and Linux, comes with a cover design editor, and allows book variations to be created with alternate text, style sheets and cover designs. Jutoh Plus adds scripting so you can automate ebook import and creation operations. It also allows customisation of ebook HTML via templates and source code documents; and you can create Windows CHM and wxWidgets HTB help files. </a>
-<!-- affiliate ads end -->
 ## 4\. Switch to DX11
 
  DX12 was designed to bring performance boost, maximize frame rate and minimize latency by optimizing hardware utilization. Having said that, in some circumstances, some titles may not really get along well with DX12 and the truth is, for many games, DX11 is still a great option. Outriders developers also[post](https://steamcommunity.com/app/680420/discussions/2/3075370188227922699/) that switching to DX11 can fix the performance issues.
@@ -119,9 +104,6 @@ Here’s how you can do this:
 
  1) Open your Steam client. Under LIBRARY, right-click your game title and select **Properties** .  
   
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![outriders properties](https://images.drivereasy.com/wp-content/uploads/2021/04/outriders-Properties.png)
 
  2) Select the**GENERAL**  tab. Then under the**LAUNCH OPTIONS** section, type**\-force -dx11** in the text field. This command line will allow you to run your game in DX11 mode.  
@@ -132,9 +114,6 @@ Here’s how you can do this:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://aspironcom.sjv.io/c/5597632/1941789/21554" target="_top" id="1941789"><img src="//a.impactradius-go.com/display-ad/21554-1941789" border="0" alt="" width="650" height="800"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1941789/21554" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 5\. Verify integrity of game files
 
  The built-in tool “verify integrity of game files” on Steam should be utilized when you try to troubleshoot any issues you’re having with the game. It helps ensure that your game files are intact and if necessary, repair any bad or corrupted game data.
@@ -147,9 +126,6 @@ To verify the integrity of game files, take these steps:
 
  2) Select the **LOCAL FILES**  tab and then click on the **Verify integrity of game files…**  button.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify integrity of game files Outriders](https://images.drivereasy.com/wp-content/uploads/2021/03/outriders-verify-integrity-of-game-files.png)
 
  Steam will start verifying your game’s files and this may take several minutes. Simply wait for the process to complete.
@@ -174,9 +150,6 @@ Now play Outriders to see if you can get better gaming performance.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 7\. Close unnecessary programs
 
  Performance issues such as the game freezing and stuttering can be caused by your limited system resources or an interference from a program running in the background. To solve your issues, you can close those programs such as web browsers, Adobe apps when playing Outriders. Here’s how you can do this:
@@ -185,16 +158,10 @@ Now play Outriders to see if you can get better gaming performance.
 
  2) Type **taskmgr** , then press **Enter**  on your keyboard to open the Task Manager.  
   
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082526/7443" target="_top" id="2082526"><img src="//a.impactradius-go.com/display-ad/7443-2082526" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082526/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 
  3) Under the **Processes** tab, right-click on the programs that you don’t necessarily use when playing Outriders and select **End task** .
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![disable programs running in the background Call of Duty Black Ops Cold War crashing on PC](https://images.drivereasy.com/wp-content/uploads/2020/10/disable-programs-running-in-the-backgroundend-task.jpg)
 
  After you’ve done these, play Outriders to check if it should look better.
@@ -209,8 +176,6 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -218,4 +183,26 @@ Now play Outriders to see if you can get better gaming performance.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-next-gen-screen-leaders-best-4k-tvs/"><u>[Updated] 2024 Approved Next-Gen Screen Leaders Best 4K TVs</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-audio-respeeders-fast-fix-for-pace-modification/"><u>[Updated] Top Audio Respeeders Fast-Fix for Pace Modification</u></a></li>
+<li><a href="https://article-knowledge.techidaily.com/2024-approved-value-airborne-innovations-top-5-budget-drone-selections/"><u>2024 Approved Value Airborne Innovations Top 5 Budget Drone Selections</u></a></li>
+<li><a href="https://win-blog.techidaily.com/breaking-down-the-fix-effective-ways-to-resolve-dev-error-6634-warzone-strategies/"><u>Breaking Down the Fix: Effective Ways to Resolve Dev Error #6634 - Warzone Strategies</u></a></li>
+<li><a href="https://win-blog.techidaily.com/bug-fixes-preventing-frequent-shutdowns-while-playing-total-war-eternal-angels-pc-edition/"><u>Bug Fixes: Preventing Frequent Shutdowns While Playing Total War: ETERNAL ANGELS (PC Edition)</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210534602-9781667426839-donneio-vi-amo/"><u>Donne...io vi amo | Free Book</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/evaluating-language-precision-chatgpt-versus-google-translate/"><u>Evaluating Language Precision: ChatGPT Versus Google Translate</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-gpeditmsc-not-detected-enable-group-policy-editor-on-windows-home-systems/"><u>Fixing 'gpedit.msc Not Detected': Enable Group Policy Editor on Windows Home Systems</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-problems-with-armored-core-vi-fires-of-rubicon-during-launch-sequence/"><u>Fixing Problems with Armored Core VI: Fires of Rubicon During Launch Sequence</u></a></li>
+<li><a href="https://win-blog.techidaily.com/helldivers-ii-pc-stability-improvements-a-guide-to-addressing-game-crashes/"><u>Helldivers II PC Stability Improvements: A Guide to Addressing Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-optimize-and-enhance-gameplay-in-minecraft-2023s-guide-to-eliminating-pc-stutters/"><u>How to Optimize and Enhance Gameplay in Minecraft: 2023'S Guide to Eliminating PC Stutters</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-performance-problems-with-star-wars-jedi-fallen-order-on-pc/"><u>How to Resolve Performance Problems with Star Wars Jedi: Fallen Order on PC</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-unlock-motorola-defy-2-bootloader-easily-by-drfone-android/"><u>How to Unlock Motorola Defy 2 Bootloader Easily</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-full-tutorial-to-bypass-your-poco-f5-5g-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Poco F5 5G Face Lock?</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-how-to-fix-life360-shows-wrong-location-on-tecno-spark-10c-drfone-by-drfone-virtual-android/"><u>In 2024, How to Fix Life360 Shows Wrong Location On Tecno Spark 10C? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-discord-crashes-while-broadcasting-online/"><u>Resolving Discord Crashes While Broadcasting Online</u></a></li>
+<li><a href="https://buynow-tips.techidaily.com/unveiling-the-verdict-on-hitman-3s-epic-endgame/"><u>Unveiling the Verdict on Hitman 3'S Epic Endgame</u></a></li>
+<li><a href="https://win-blog.techidaily.com/update-patch-successfully-resolves-rainbow-six-siege-boot-up-problems/"><u>Update Patch Successfully Resolves Rainbow Six Siege Boot-Up Problems</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/ways-to-stop-parent-tracking-your-samsung-galaxy-f04-drfone-by-drfone-virtual-android/"><u>Ways to stop parent tracking your Samsung Galaxy F04 | Dr.fone</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting Steps to Get Outriders Running on PC This Year
-date: 2024-08-18T18:07:07.605Z
-updated: 2024-08-19T18:07:07.605Z
+date: 2025-03-02T16:19:10.698Z
+updated: 2025-03-04T16:09:50.115Z
 tags:
   - win11
   - win10
@@ -86,9 +86,6 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
  You can do it for free if you like, but it’s partly manual.
@@ -101,16 +98,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  1) On your keyboard, press**the Windows logo key** and**I** at the same time to open**Windows Settings** . Then click**Update & Security** .
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-62-1024x796.png)
 
  2) Click**Download** if Windows detects any new updates. If not, then click**Check for updates** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-63-1024x796.png)
 
 3) Wait until Windows downloaded and installed all the updates.
@@ -135,21 +126,10 @@ thumbnail: https://thmb.techidaily.com/29ac8237603a8a16889982067f296c3f071e4f84b
 
  4) Click**Yes** to continue. This may take a while.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ### Fix 5: Enable low spec mode
 
  If your PC fails to meet the recommended system requirements for League of Legends, but you still run it with the high spec graphics settings, the crashes may occur.
@@ -160,16 +140,10 @@ No advertising on the website.
 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
-<!-- affiliate ads begin -->
-<iframe id="iframe_672" src="//a.impactradius-go.com/gen-ad-code/5597632/1959812/17834/" width="720" height="300" scrolling="no" frameborder="0" marginheight="0" marginwidth="0"></iframe>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 Run League of Legends to see if you resolved this issue.
@@ -185,8 +159,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -194,4 +166,20 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://some-skills.techidaily.com/new-unparalleled-video-gear-top-5-slow-cams/"><u>[New] Unparalleled Video Gear Top 5 Slow Cams</u></a></li>
+<li><a href="https://data-wizards.techidaily.com/diy-software-solutions-unveiling-the-secrets-of-stellars-ultimate-programming-kit/"><u>DIY Software Solutions: Unveiling the Secrets of Stellar's Ultimate Programming Kit</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-solutions-for-handling-division-2-game-crashes-swiftly/"><u>Easy Solutions for Handling Division 2 Game Crashes Swiftly</u></a></li>
+<li><a href="https://fox-that.techidaily.com/get-your-iphone-back-on-track-resolving-5-common-issues-through-dfu-resetting-methods/"><u>Get Your iPhone Back on Track: Resolving 5 Common Issues Through DFU Resetting Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-resolve-fortnite-pc-crashes-tips-and-solutions-for-smooth-gaming/"><u>How to Resolve Fortnite PC Crashes - Tips & Solutions for Smooth Gaming</u></a></li>
+<li><a href="https://ios-pokemon-go.techidaily.com/in-2024-additional-tips-about-sinnoh-stone-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Additional Tips About Sinnoh Stone For Apple iPhone 14 Plus | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-change-itel-a70-lock-screen-password-by-drfone-android/"><u>In 2024, How To Change Itel A70 Lock Screen Password?</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/in-depth-solutions-for-fixing-your-unresponsive-turtle-beach-elite-atlas-mic/"><u>In-Depth Solutions For Fixing Your Unresponsive Turtle Beach Elite Atlas Mic</u></a></li>
+<li><a href="https://extra-information.techidaily.com/iphone-hdr-a-professionals-secret-weapon/"><u>IPhone HDR A Professional's Secret Weapon</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/macbook-pro-13-fintie-case-tested-unveiling-strengths-in-durability-and-cost-efficiency/"><u>MacBook Pro 13 Fintie Case Tested: Unveiling Strengths in Durability & Cost-Efficiency</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-resolution-for-frequent-kernelbasedll-malfunctions-a-step-by-step-approach/"><u>Quick Resolution for Frequent KernelBase.dll Malfunctions - A Step-by-Step Approach</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-continuous-malfunctions-in-immortals-fenyx-rising-now-tamed/"><u>Solved! Continuous Malfunctions in Immortals Fenyx Rising Now Tamed</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-steps-resolving-freezing-issues-in-path-of-exile/"><u>Troubleshooting Steps: Resolving Freezing Issues in Path of Exile</u></a></li>
+</ul></div>
 

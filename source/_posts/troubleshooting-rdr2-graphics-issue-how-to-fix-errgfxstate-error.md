@@ -1,7 +1,7 @@
 ---
 title: Troubleshooting RDR2 Graphics Issue - How to Fix ERR_GFX_STATE Error
-date: 2024-08-18T18:08:23.795Z
-updated: 2024-08-19T18:08:23.795Z
+date: 2025-03-02T16:00:37.899Z
+updated: 2025-03-04T16:02:41.870Z
 tags:
   - win11
   - win10
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/f795cb8f05b5f5e2a9428472b69cf514c64baf04e
 
 If you’re presented with the**Graphics Driver Crashed** error on Valorant and wonder how to fix it quickly, you’re in the right spot. No matter what graphics card (NVIDIA/AMD/Intel) you’re using, we’ve put together every possible fix for you.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Before you try any of the following fixes, please check the display settings and make sure you’re using the right GPU. If you’re using the dedicated GPU, you can start trying the following fixes:
@@ -51,9 +47,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 **Note:** Please uninstall the graphics driver first to make sure you’re using the right driver when you update a driver manually.
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Option 2 – Automatically
 
  Manual updating a driver is always time-consuming. Fortunately, though, you can do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . You can update the driver either with the FREE or the Pro version of Driver Easy.
@@ -89,9 +82,6 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
  2) Click**dxdiag** from the results.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/01/dxdiag.jpg)
 
  3) Check DirectX Version on lower right corner in the first page in first page (the**System** tab).
@@ -104,19 +94,12 @@ If you’re presented with the**Graphics Driver Crashed** error on Valorant and 
 
 To fix this, you can try resetting the software to default:
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### NVIDIA Control Panel
 
 * Right-click on your **Desktop** and select **NVIDIA Control Panel** .
 * Select **Manage 3D Settings** .
 * Click on **Restore Defaults** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ### CATALYST Control Center
 
 * Right-click on your **Desktop** and select **Catalyst Control Center** (also called **VISION** center).
@@ -131,16 +114,10 @@ To fix this, you can try resetting the software to default:
 
 2) On the loading screen, press**Alt** +**Enter** to set the game to windowed mode.
 
-<!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453721/17020" target="_top" id="1453721"><img src="//a.impactradius-go.com/display-ad/17020-1453721" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453721/17020" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 6: Stop overclocking
 
  Your device is not that sensitive to overclocking, but the game is, especially when you’re using third-party tools such as MSI Afterburner. This may not fix this error permanently, but it allows you to play the game with fewer crashes.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3546200&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.binteko.com/sites/default/files/banner01_468x60a.gif" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 7: Close all background apps
 
  Another possible cause of the error is application interference. You can press**Ctrl** +**Shift** +**Esc** to open Task Manager and close all unnecessary applications.
@@ -169,14 +146,6 @@ To fix this, you can try resetting the software to default:
 * Distortion: Off
 * First Person Shadows: Off
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.mirillis.com/order/checkout.php?PRODS=4704640&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/547a5a56d43f6d40f9a6a2f76501d013/products/1_mirillis_action_boxshot_store_1x.jpg" border="0">
-	Home Use license is dedicated for personal, non-commercial use only. 
-	If Action! is used for commercial gain or to further any commercial purpose, 
-	a Commercial Use license is required. Multi-license (volume discount) is intended for single 
- 
-	company, user or members of the same household. Action! - screen and game recorder</a>
-<!-- affiliate ads end -->
 ## Fix 9: Reinstall Riot Vanguard
 
  The game crashing might be caused by Vanguard. In that case, you can clean reinstall it, which has been proved helpful to many players.
@@ -205,8 +174,6 @@ To fix this, you can try resetting the software to default:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -214,4 +181,22 @@ To fix this, you can try resetting the software to default:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-content.techidaily.com/new-chrome-extensions-best-5-facebook-video-downloaders-for-chrome-for-2024/"><u>[New] Chrome Extensions | Best 5 Facebook Video Downloaders for Chrome for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/he-ultimate-guide-to-closing-videos-effectively/"><u>[New] The Ultimate Guide to Closing Videos Effectively</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-crafting-star-stirred-stories-for-your-whatsapp-bio/"><u>[Updated] 2024 Approved Crafting Star-Stirred Stories for Your WhatsApp Bio</u></a></li>
+<li><a href="https://article-posts.techidaily.com/updated-mastering-sound-shifts-in-free-fire/"><u>[Updated] Mastering Sound Shifts in Free Fire</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/2024-approved-layering-and-shifting-photo-letters/"><u>2024 Approved Layering & Shifting Photo Letters</u></a></li>
+<li><a href="https://win-best.techidaily.com/conversion-video-simple-comment-convertir-vos-mp4-en-wmv-a-laide-de-movavi-convertisseur/"><u>Conversion Vidéo Simple : Comment Convertir Vos MP4 en WMV À L'aide De Movavi Convertisseur</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixes-for-stuttering-issues-in-assassins-creed-valhalla-on-windows/"><u>Fixes for Stuttering Issues in Assassin's Creed Valhalla on Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-for-pc-a-guide-to-resolving-game-freezing-issues/"><u>Guilty Gear Strive for PC: A Guide to Resolving Game Freezing Issues</u></a></li>
+<li><a href="https://review-topics.techidaily.com/in-2024-complete-tutorial-to-use-gps-joystick-to-fake-gps-location-on-realme-c53-drfone-by-drfone-virtual-android/"><u>In 2024, Complete Tutorial to Use GPS Joystick to Fake GPS Location On Realme C53 | Dr.fone</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/in-2024-free-outro-scene-creation-made-simple/"><u>In 2024, Free Outro Scene Creation Made Simple</u></a></li>
+<li><a href="https://hardware-updates.techidaily.com/keeping-your-displays-clean-update-and-install-nvidiaamd-gpu-drivers-for-windows/"><u>Keeping Your Displays Clean: Update and Install Nvidia/AMD GPU Drivers for Windows</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-server-connection-lost-errors-during-your-adventure-in-escape-from-tarkov/"><u>Overcoming 'Server Connection Lost' Errors During Your Adventure in Escape From Tarkov</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-permission-errors-insights-from-civil-division-case-6-2024-proceedings/"><u>Overcoming Permission Errors: Insights From Civil Division, Case 6, 2024 Proceedings</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solutions-for-when-msi-rivatuner-statistics-server-stops-responding/"><u>Solutions for When MSI RivaTuner Statistics Server Stops Responding</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723013991827-ultimate-fix-for-far-cry-6s-black-screen-issue-expert-advice-included/"><u>Ultimate Fix for Far Cry 6'S Black Screen Issue – Expert Advice Included!</u></a></li>
+</ul></div>
 

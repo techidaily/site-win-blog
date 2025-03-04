@@ -1,7 +1,7 @@
 ---
 title: "Fixes Found! 'Century: Age of Ashes' Stabilization Tips for PC Versions"
-date: 2024-08-18T18:08:40.276Z
-updated: 2024-08-19T18:08:40.276Z
+date: 2025-02-25T16:14:14.673Z
+updated: 2025-03-04T16:27:57.459Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 
 **League of Legends keeps crashing?** Don’t worry… Although it’s incredibly frustrating, you’re definitely not the only person to experience this problem. Thousands of players have recently reported the very same issue. More importantly, you should be able to fix it pretty easily…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2067133&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pearlmountainsoft.com/n_img/product/gcb/banScrn.jpg" border="0">Greeting Card Builder</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here’s a list of fixes that have resolved this problem for other LoL players. You don’t have to try them all. Just work your way through the list until you find the one that does the trick for you.
@@ -63,9 +60,6 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 
  If your PC meets the system requirement for League of Legends but the game crashing issue persists, try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4559731&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.neowise.com/images/nd-ss-w200.jpg" border="0">NeoDownloader - Fast and fully automatic image/video/music downloader. </a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your drivers
 
  A missing or outdated driver may also trigger the game crashing issue. If it’s the case, this issue can be easily resolved after you update your drivers.
@@ -86,24 +80,12 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 
  2) Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4737285&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/b2f83c409ce63012229fb9cd465bdcfe/products/copy_reporting_system.png" border="0">  KoolReport Pro  is an advanced solution for creating data reports and dashboards in PHP. Equipped with all  extended packages , KoolReport Pro is able to connect to various datasources, perform advanced data analysis, construct stunning charts and graphs and export your beautiful work to PDF, Excel, JPG or other formats. Plus, it includes powerful built-in reports such as pivot report and drill-down report which will save your time in building ones. 
-
- It will help you to write dynamic data reports easily, to construct intuitive dashboards or to build a whole business intelligence cockpit. 
-
-  KoolReport Pro  package goes with Full Source Code, Royal Free, ONE (1) Year Priority Support, ONE (1) Year Free Upgrade and 30-Days Money Back Guarantee. 
-
-  Developer License  allows  Single Developer  to create Unlimited Reports, deploy on Unlimited Servers and able deliver the work to Unlimited Clients. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-83.png)
 
  3) Click**Update** next to any device to automatically download the correct version of its driver, then you can install it manually. Or click**Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click **Update All.**  You get **full support** and a **30-day money back** guarantee.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/07/image-84.png)
 
  You can do it for free if you like, but it’s partly manual.
@@ -144,9 +126,6 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 
  4) Click**Yes** to continue. This may take a while.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=22889392&QTY=1&AFFILIATE=108875&CART=1"><img src="http://webstatic.nero.com/nero2015-com-wAssets/img/affiliate/media/banner728-90eng.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap780.png)
 
  Run the game to see if you can play it without crashes. If not, try the next fix, below.
@@ -161,16 +140,10 @@ thumbnail: https://thmb.techidaily.com/021a636e7cb8e3ab80d8561e5ce2e4b597fd93ffb
 
 2) In the upper-right corner, click**the gear button**  to open the game settings.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068425/7443" target="_top" id="2068425"><img src="//a.impactradius-go.com/display-ad/7443-2068425" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068425/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap777.png)
 
  3)**Check the box** next to **Enable Low Spec Mode** and click **DONE** .
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2018/12/Snap778.png)
 
 Run League of Legends to see if you resolved this issue.
@@ -186,8 +159,6 @@ Run League of Legends to see if you resolved this issue.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -195,4 +166,26 @@ Run League of Legends to see if you resolved this issue.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-social-media-strategies-for-showcasing-your-video-content/"><u>2024 Approved Social Media Strategies for Showcasing Your Video Content</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/2024-approved-swiftsoundphone-apps-top-10-for-rapid-music/"><u>2024 Approved SwiftSoundphone Apps Top 10 for Rapid Music</u></a></li>
+<li><a href="https://buynow-marvelous.techidaily.com/comprehensive-evaluation-of-the-netgear-c3700-hybrid-modem-router-in-depth-analysis/"><u>Comprehensive Evaluation of the Netgear C3700 Hybrid Modem-Router: In Depth Analysis</u></a></li>
+<li><a href="https://win-cloud.techidaily.com/comprendre-le-processus-dassistance-pour-la-restauration-de-donnees-apres-une-panne-technique-soudaine/"><u>Comprendre Le Processus D'Assistance Pour La Restauration De Données Après Une Panne Technique Soudaine</u></a></li>
+<li><a href="https://discover-answers.techidaily.com/dealing-with-disturbing-clicks-a-guide-for-troubled-hard-drives-insights-by-yl-computers-yl-software-solutions/"><u>Dealing with Disturbing Clicks: A Guide for Troubled Hard Drives – Insights by YL Computers | YL Software Solutions</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-tecno-pop-8-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Tecno Pop 8 FRP Bypass With Best Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/elevate-your-play-strategies-to-achieve-higher-fps-and-less-lag-in-fall-guys/"><u>Elevate Your Play - Strategies to Achieve Higher FPS & Less Lag in Fall Guys</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhance-utorrent-performance-for-faster-smarter-downloading/"><u>Enhance uTorrent Performance for Faster, Smarter Downloading</u></a></li>
+<li><a href="https://android-transfer.techidaily.com/how-to-transfer-data-from-oneplus-ace-2-to-blackberry-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Data from OnePlus Ace 2 to BlackBerry | Dr.fone</u></a></li>
+<li><a href="https://android-frp.techidaily.com/in-2024-how-to-bypass-frp-from-oneplus-ace-3-by-drfone-android/"><u>In 2024, How to Bypass FRP from OnePlus Ace 3?</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-process-of-screen-sharing-vivo-y56-5g-to-pc-detailed-steps-drfone-by-drfone-android/"><u>In 2024, Process of Screen Sharing Vivo Y56 5G to PC- Detailed Steps | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/in-2024-top-5-vivo-s18-pro-bypass-frp-tools-for-pc-that-actually-work-by-drfone-android/"><u>In 2024, Top 5 Vivo S18 Pro Bypass FRP Tools for PC That Actually Work</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-guide-for-fixing-the-gta-5-failure-to-start-problem/"><u>Master Guide for Fixing the 'GTA 5 Failure to Start' Problem</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-crashes-overcoming-gameloop-problems-in-windows-11-and-windows-10-environments/"><u>No More Crashes: Overcoming GameLoop Problems in Windows 11 and Windows 10 Environments</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-minecraft-stutter-and-delays-for-an-uninterrupted-gaming-session-on-pc/"><u>Overcome Minecraft Stutter and Delays for an Uninterrupted Gaming Session on PC</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722992325634-quick-fix-guide-resolving-error-0xc19001e1-in-windows-10-easily/"><u>Quick Fix Guide: Resolving Error 0xC19001E1 in Windows 10 Easily!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-silence-in-pubg-a-guide-to-restoring-game-audio/"><u>Solving the Silence in PUBG: A Guide to Restoring Game Audio</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unlocking-the-secrets-behind-lowered-fps-in-fortnites-latest-season/"><u>Unlocking the Secrets Behind Lowered FPS in Fortnite's Latest Season</u></a></li>
+<li><a href="https://win-blog.techidaily.com/unstuck-from-intel-drivers-and-support-assistance-problems-expert-fixes-for-pc-users/"><u>Unstuck From Intel Drivers and Support Assistance Problems: Expert Fixes for PC Users</u></a></li>
+</ul></div>
 

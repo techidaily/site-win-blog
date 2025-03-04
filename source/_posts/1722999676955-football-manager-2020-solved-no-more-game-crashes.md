@@ -1,7 +1,7 @@
 ---
 title: "Football Manager 2020: Solved - No More Game Crashes"
-date: 2024-08-18T18:08:10.961Z
-updated: 2024-08-19T18:08:10.961Z
+date: 2025-02-26T16:02:58.226Z
+updated: 2025-03-04T16:14:37.390Z
 tags:
   - win11
   - win10
@@ -53,9 +53,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
  If your issue persists after updating your graphics driver, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600114&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Mac： Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ### Fix 2: Verify the integrity of your game files
 
  Game crashing issues are likely to occur when one or more game files are damaged or missing. To see if that’s the issue for you, try verifying the integrity of your game files from Steam. Here is how to do it:
@@ -68,9 +65,6 @@ _**Football Manager 2020 (FM20)**_ constantly crashes your PC? You’re not alon
 
 **3)**  Right-click **Football Manager 2020**  and select **Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-43-22.jpg)
 
 **4)** Click the **LOCAL FILES** tab, then click **VERIFY INTEGRITY OF GAME FILES** .
@@ -87,9 +81,6 @@ If your game still crashes, then go ahead with the fix below.
 
 **1)**  Right-click**your taskbar** and select **Task Manager** .
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-53-50.jpg)
 
 **2)**  Right-click the program you want to close and select **End task** .
@@ -112,16 +103,10 @@ If your game still crashes, then go ahead with the fix below.
 
 **3)** Type**%LocalAppData%\\Sports Interactive\\Football Manager 2020** , then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://united.elfm.net/c/5597632/517826/4704" target="_top" id="517826"><img src="//a.impactradius-go.com/display-ad/4704-517826" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://united.elfm.net/i/5597632/517826/4704" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-07-35.jpg)
 
 **4)**  Delete the **Preferences** and **Cache folder** .
 
-<!-- affiliate ads begin -->
-<a href="https://turbotech.pxf.io/c/5597632/1450763/17212" target="_top" id="1450763"><img src="//a.impactradius-go.com/display-ad/17212-1450763" border="0" alt="" width="2560" height="1440"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1450763/17212" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-02-15-1.jpg)
 
 **5)** Restart your game to check if this worked for you.
@@ -141,9 +126,6 @@ If your game is still unplayable, move on to the next fix.
 
 **2)** Click **LIBRARY** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_10-39-20-3.jpg)
 
 **3)**  Right-click **Football Manager 2020** , and select **Manage > Uninstall** .
@@ -160,46 +142,22 @@ If your game is still unplayable, move on to the next fix.
 
 **1)** Right-click the Steam icon and select Open file location.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-22-59.jpg)
 
 **2)** Right-click the **steamapps folder** and select **Copy.** Then, place the copy in another location to back up your game content.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-11.jpg)
 
 **3)** On your keyboard, press the **Windows logo** key and type **control** . Then, click **Control Panel** .
 
-<!-- affiliate ads begin -->
-<span id="1993650">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993650">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993650.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993650%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993650/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-36.jpg)
 
 **4)** Under **View by** , select **Category** . Then, click **Uninstall a program** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-23-51.jpg)
 
 **5)**  Right-click **Steam** , and then click **Uninstall** .
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-24-01.jpg)
 
  **6)[Download](https://store.steampowered.com/about/)**  and install Steam.
@@ -210,9 +168,6 @@ If your game is still unplayable, move on to the next fix.
 
 **8)**  Move the backup **steamapps folder**  you created to your current directory location.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/11/2019-11-25_11-25-16.jpg)
 
 **9)**  Restart Steam and your game.
@@ -231,8 +186,6 @@ If your game is still unplayable, move on to the next fix.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -240,4 +193,20 @@ If your game is still unplayable, move on to the next fix.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-change-screenshot-saving-location-on-mac/"><u>[Updated] Change Screenshot Saving Location on Mac</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-superior-mac-gif-saving-the-ultimate-guide-for-2024/"><u>[Updated] Superior Mac GIF Saving The Ultimate Guide for 2024</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/2024-approved-breaking-down-the-new-normal-facebook-short-videos/"><u>2024 Approved Breaking Down the New Normal Facebook Short Videos</u></a></li>
+<li><a href="https://article-tips.techidaily.com/2024-approved-uniting-sight-and-sound-perfecting-videography-voiceovers/"><u>2024 Approved Uniting Sight & Sound Perfecting Videography Voiceovers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/beat-the-glitch-ultimate-guide-to-stop-war-thunder-crashes/"><u>Beat the Glitch: Ultimate Guide to Stop War Thunder Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/clearing-up-the-mystery-diagnosing-and-fixing-black-screens-in-p5strikers/"><u>Clearing Up the Mystery: Diagnosing & Fixing Black Screens in P5Strikers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/destiny-ntips-restoring-your-connection-when-youve-lost-it-solved/"><u>Destiny nTips: Restoring Your Connection When You've Lost It [SOLVED]</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-tower-of-fantasy-from-continuously-crashing-on-your-computer/"><u>How To Stop Tower of Fantasy From Continuously Crashing On Your Computer</u></a></li>
+<li><a href="https://iphone-location.techidaily.com/in-2024-quick-steps-to-change-weather-location-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, Quick Steps to Change Weather Location on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/navigating-the-new-era-youtubes-shorts-fund-explained/"><u>Navigating the New Era YouTube's Shorts Fund Explained</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-and-resolving-the-red-dead-redemption-groblems-of-errgfxstate-error/"><u>Troubleshooting and Resolving the Red Dead Redemption Groblems of ERR_GFX_STATE Error</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/unlock-advanced-video-transformation-features-speedy-convert-and-edit-capabilities-with-winx-hd-deluxes-powerful-gpu-acceleration-technology/"><u>Unlock Advanced Video Transformation Features - Speedy Convert & Edit Capabilities with WinX HD Deluxe's Powerful GPU Acceleration Technology</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/unmasking-truthgpt-elons-ambition-exposed/"><u>Unmasking TruthGPT: Elon's Ambition Exposed</u></a></li>
+</ul></div>
 

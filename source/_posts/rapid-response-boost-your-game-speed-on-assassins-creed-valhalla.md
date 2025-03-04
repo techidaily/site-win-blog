@@ -1,7 +1,7 @@
 ---
 title: "Rapid Response: Boost Your Game Speed on Assassin's Creed: Valhalla"
-date: 2024-08-18T18:07:50.141Z
-updated: 2024-08-19T18:07:50.141Z
+date: 2025-02-26T16:40:48.064Z
+updated: 2025-03-04T16:10:47.750Z
 tags:
   - win11
   - win10
@@ -42,9 +42,6 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  2) Unplug the power cord from the back of the modem and router. Make sure all the lights on the modem/router are turned off (please don’t push the reset button).
 
-<!-- affiliate ads begin -->
-<a href="https://natural-cycles.sjv.io/c/5597632/2072199/17885" target="_top" id="2072199"><img src="//a.impactradius-go.com/display-ad/17885-2072199" border="0" alt="" width="300" height="300"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072199/17885" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/93354306_10157091808650060_3767062751000657920_n.png)
 
 3) Wait 1 minute, then plug the power cord back into the modem/router.
@@ -53,9 +50,6 @@ Many players are reporting that they’re getting terrible lagging in Assassin�
 
  Now you can reconnect the Internet and launch Assassin’s Creed Valhalla again to test the issue. If the game is still lagging a lot, check the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 – Update the device drivers
 
  Assassin’s Creed Valhalla lagging can be caused by an outdated or corrupt network driver. According to some players, they get a smoother game after updating their network driver. So make sure you always have the latest network driver.
@@ -91,9 +85,6 @@ There are two ways for you to update the device drivers:
 
 1) Right-click the desktop, and select Display settings.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Display-1.jpg)
 
  2) Scroll down and select**Graphics settings** (in the**Multiple displays** section).
@@ -114,9 +105,6 @@ There are two ways for you to update the device drivers:
 
  7) Scroll down until you see**Vertical Sync** , and choose**off** .
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Apply.jpg)
 
  8) Click**Apply** .
@@ -125,26 +113,16 @@ There are two ways for you to update the device drivers:
 
  Now you should have no problems playing Assassin’s Creed Valhalla. If this method didn’t reduce Assassin’s Creed Valhalla lagging, you can try the next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
 ## 5 – Change your DNS settings
 
  If you still find the game laggy, you can improve your network condition by switching to the Google Public DNS address. Here’s how:
 
  1) On your keyboard, press the**Windows logo** key and**R** at the same time to open the**Run** dialog box. Type**control** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/control.jpg)
 
  2) Expand**View by:** and select**Category** . Then, click**View network status and tasks** .
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296985&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9cea886b9f44a3c2df1163730ab64994/products/copy_nero_burning_rom_cart.png" border="0">
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/status.jpg)
 
  3) On the left pane, click**Change adapter settings** .
@@ -153,26 +131,16 @@ There are two ways for you to update the device drivers:
 
  4) Right-click on your network adapter and select**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Properties.jpg)
 
  5) Double-click Internet Protocol Version 4 (TCP/IPv4) to view its properties.
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/IPV4.jpg)
 
  6) Select**Use the following DNS server addresses** .
 
  For the Preferred DNS server, enter**8.8.8.8** ; for the Alternate DNS server, enter**8.8.4.4** . Then click**OK** .
 
-<!-- affiliate ads begin -->
-<a href="https://turtlebeachus.sjv.io/c/5597632/1988416/23719" target="_top" id="1988416"><img src="//a.impactradius-go.com/display-ad/23719-1988416" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1988416/23719" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/Version-4.jpg)
 
  7) Now you need to flush the DNS cache to let the changes take effect. Type cmd in the**Search** box, and run Command Prompt as administrator.
@@ -195,16 +163,10 @@ There are two ways for you to update the device drivers:
 
  1) On your keyboard, press the **Windows logo** key and **R** at the same time to invoke the Run dialog box. Type in **%temp%** and hit **Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/image-305.png)
 
  2) Press **Ctrl + A** to select all the files, then hit the **Delete** button on your keyboard to remove them. (This won’t delete your personal files.)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/delete.jpg)
 
  3) Tick**Do this for all current items** and click**Continue** if you’re presented with a warning that says “You’ll need to provide administrator permission to delete this folder”, and**Skip** if you see “the folder or a file in it is open in another program.”
@@ -237,8 +199,6 @@ There are two ways for you to update the device drivers:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -246,4 +206,23 @@ There are two ways for you to update the device drivers:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-video-recording.techidaily.com/updated-2024-approved-elevate-your-facebook-profile-with-these-11-superior-tools/"><u>[Updated] 2024 Approved Elevate Your Facebook Profile with These 11 Superior Tools</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/2024-approved-interactive-guide-twitter-and-facebook-synergy/"><u>2024 Approved Interactive Guide Twitter & Facebook Synergy</u></a></li>
+<li><a href="https://win-blog.techidaily.com/arcadegeddon-pc-issues-resolved-no-more-frequent-crashes/"><u>Arcadegeddon PC Issues Resolved: No More Frequent Crashes</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/cutting-edge-pc-architecture-expertly-engineered-for-efficient-air-cooling-at-the-heart-of-a-large-central-fan-conquer-centrifugal-dynamics/"><u>Cutting-Edge PC Architecture: Expertly Engineered for Efficient Air Cooling at the Heart of a Large Central Fan - Conquer Centrifugal Dynamics</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/digiarty-winxdvd-contact-information-and-support-options/"><u>Digiarty WinXDVD - Contact Information & Support Options</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/expert-advice-on-restoring-rust-microphone-functionality-the-definitive-2-of-troubleshooting-techniques/"><u>Expert Advice on Restoring Rust Microphone Functionality: The Definitive 2# of Troubleshooting Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1722995710809-improve-dota-2-gaming-experience-overcome-frame-rate-drops-on-windows-1110/"><u>Improve Dota 2 Gaming Experience: Overcome Frame Rate Drops on Windows 11/10!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/joint-ventures-in-action-the-story-of-a-powerhouse-team-launch/"><u>Joint Ventures in Action: The Story of a Powerhouse Team Launch</u></a></li>
+<li><a href="https://ai-live-streaming.techidaily.com/new-user-choice-top-free-streaming-sites-for-sports/"><u>New User Choice Top Free Streaming Sites for Sports</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pacific-drive-crash-prevention-and-recovery-methods-for-personal-computers/"><u>Pacific Drive Crash Prevention and Recovery Methods for Personal Computers</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-route-to-purchase-adobe-reader-in-microsoft-marketplace/"><u>Quick Route to Purchase Adobe Reader in Microsoft Marketplace</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resident-evil-5-not-launching-on-windows-systems-expert-tips-and-tricks/"><u>Resident Evil 5 Not Launching on Windows Systems? Expert Tips & Tricks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/tackling-high-cpu-demands-when-playing-new-world/"><u>Tackling High CPU Demands When Playing 'New World'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-fixes-for-smoother-gaming-boosting-nioh-2s-frames-per-second-fps/"><u>Ultimate Fixes for Smoother Gaming: Boosting Nioh 2'S Frames Per Second (FPS)</u></a></li>
+<li><a href="https://fox-sure.techidaily.com/ultimate-strategies-for-preserving-past-correspondence-in-microsoft-outlook-the-definitive-walkthrough/"><u>Ultimate Strategies for Preserving Past Correspondence in Microsoft Outlook - The Definitive Walkthrough</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y200e-5g-not-connecting-to-wi-fi-12-quick-ways-to-fix-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y200e 5G Not Connecting to Wi-Fi? 12 Quick Ways to Fix | Dr.fone</u></a></li>
+</ul></div>
 

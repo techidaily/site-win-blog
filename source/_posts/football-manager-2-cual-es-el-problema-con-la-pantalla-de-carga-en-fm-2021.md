@@ -1,7 +1,7 @@
 ---
 title: Football Manager 2 Cuál Es El Problema Con La Pantalla De Carga en Fm 2021
-date: 2024-08-18T18:05:33.629Z
-updated: 2024-08-19T18:05:33.629Z
+date: 2025-02-26T16:08:09.381Z
+updated: 2025-03-04T16:03:42.161Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
  Football Manager 2022 PC players are reporting that the game is crashing at launch or not starting at all. Here is how to fix Football Manager 2022 not launching issue.
 
-<!-- affiliate ads begin -->
-<a href="https://tokenmetrics.sjv.io/c/5597632/1864921/20702" target="_top" id="1864921"><img src="//a.impactradius-go.com/display-ad/20702-1864921" border="0" alt="" width="1251" height="1042"/></a>
-<!-- affiliate ads end -->
 ## How to fix Football Manager 2022 launch issues?
 
  Here are a few fixes that have helped other users resolve their Football Manager 2022 not launching problem. You may not need to try them all; just work your way down the list until you find the one that works for you.”
@@ -51,9 +48,6 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
  Or you can uninstall your antivirus temporarily (note that disabling it won’t work) and be very careful about the websites you’re visiting.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3\. Update your graphics driver
 
  If you are using the wrong or outdated graphics driver, it can cause launch issues especially in new game titles such as Football Manager 2022\. So, it is recommended to keep your graphics driver up to date. The updated driver should solve the crashing at launch issues and it can also help to boost up the overall game’s performance.
@@ -64,9 +58,6 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click**Scan Now** . Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/02/driver-easy-5.7.1.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)** [](https://tools.techidaily.com/drivereasy/download/) – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
 ![update all drivers](https://images.drivereasy.com/wp-content/uploads/2021/10/update-all.jpg)
@@ -76,9 +67,6 @@ thumbnail: https://thmb.techidaily.com/b75952ddf1d4af9f33bac9d924f7db98ead5f1ed4
 
 After updating your drivers, restart your PC and test the gameplay.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ### Fix 4\. Verify the integrity of game files
 
  Football Manager 2022 not launching can be caused by corrupt or missing game files. In that case, you can perform an integrity check to solve this issue. Here’s how:
@@ -93,9 +81,6 @@ After updating your drivers, restart your PC and test the gameplay.
 
 Once complete, launch the game to check if your game is working again.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 5\. Delete the Caches and Preferences folder
 
  According to some Football Manager 2022 players, you can delete certain game files and restart the game to fix the launch issue. Here’s how:
@@ -118,9 +103,6 @@ Once complete, launch the game to check if your game is working again.
 
  2) Select **Local Files** and then**Browse local files** .
 
-<!-- affiliate ads begin -->
-<a href="https://shop.mondly.com/affiliate.php?ACCOUNT=ATISTUDI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.mondly.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BGeneral%2B970x90%2B"><img src="https://secure.avangate.com/images/merchant/69c418c33ec2e1a4267fa9bb77fa1428/general-970x90.gif" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/image-9.png)
 
  3) Locate the game’s executable and run the game as an administrator.
@@ -137,18 +119,6 @@ Once complete, launch the game to check if your game is working again.
 
  Launch your Football Manager 2022 to check if your launch issues have been resolved successfully.
 
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="1080" height="1620" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:1080px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 8\. Repair your system files
 
  If you get an error message such as “vcruntime140\_1.dll or MSVCP140.dll was not found” or ” xinput1\_4.dll is missing”, it means that there’s certain system file missing on your PC, thus causing your Football Manager 2022 to not launch. Here’s how to fix it:
@@ -173,16 +143,10 @@ Once complete, launch the game to check if your game is working again.
 
  2) Open Fortect and run a free scan. This might take 3\~5 minutes to fully analyze your PC. Once complete, you will be able to review the detailed scan report.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-2.jpg)
 
  3) You’ll see the summary of detected issues on your PC. Click **START REPAIR** and all the issues will be fixed automatically. (You’ll need to purchase the full version. It comes with a 60-day Money-Back Guarantee so you can refund anytime if Fortect doesn’t fix your problem).
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2022/01/fortect-3.jpg)
 
 #### Option 2 – Manually
@@ -195,9 +159,6 @@ Once complete, launch the game to check if your game is working again.
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -208,9 +169,6 @@ sfc /scannow
 
  3) System File Check will begin to scan all system files and repair any corrupted or missing ones it detected. This may take 3-5 minutes.
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/scan-now.jpg)
 
  4) You may receive something like the following messages after the verification.
@@ -261,8 +219,6 @@ Feel free to drop us a line if you have any suggestions or questions.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -270,4 +226,24 @@ Feel free to drop us a line if you have any suggestions or questions.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/1723011310586-tower-of-fantasy-stability-secured-say-goodbye-to-pc-disruptions/"><u>'Tower of Fantasy' Stability Secured: Say Goodbye to PC Disruptions!</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/updated-mastering-cartoon-selfies-snapchats-fun-lens-guide/"><u>[Updated] Mastering Cartoon Selfies Snapchat's Fun Lens Guide</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-twitters-top-10-viral-tiktoks-uncovered/"><u>[Updated] Twitter's Top 10 Viral TikToks Uncovered</u></a></li>
+<li><a href="https://android-pokemon-go.techidaily.com/catch-or-beat-sleeping-snorlax-on-pokemon-go-for-lava-storm-5g-drfone-by-drfone-virtual-android/"><u>Catch or Beat Sleeping Snorlax on Pokemon Go For Lava Storm 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-game-nightmares-ultimate-guide-to-preventing-ark-splusa-pc-freezes-and-crashes/"><u>Fix Your Game Nightmares: Ultimate Guide to Preventing ARK: S+A PC Freezes and Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-graphics-glitches-understanding-the-directdraw-mistake-fix/"><u>Fixing Graphics Glitches: Understanding the DirectDraw Mistake Fix</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/future-of-smart-television-uncover-the-expected-features-and-pricing-for-the-new-google-tv-media-player/"><u>Future of Smart Television? Uncover the Expected Features and Pricing for the New Google TV Media Player</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-ensure-call-of-duty-warzone-harnesses-your-gpu-power-on-windows-10/"><u>How to Ensure Call of Duty: Warzone Harnesses Your GPU Power on Windows 10</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-stop-ghost-recon-breakpoint-from-freezing-simple-solutions/"><u>How to Stop Ghost Recon Breakpoint From Freezing - Simple Solutions</u></a></li>
+<li><a href="https://easy-unlock-android.techidaily.com/in-2024-how-to-unlock-a-oneplus-open-easily-by-drfone-android/"><u>In 2024, How To Unlock a OnePlus Open Easily?</u></a></li>
+<li><a href="https://video-capture.techidaily.com/in-2024-navigating-audio-capture-in-minecraft-a-mac-experts-handbook/"><u>In 2024, Navigating Audio Capture in Minecraft A Mac Expert's Handbook</u></a></li>
+<li><a href="https://win-blog.techidaily.com/master-the-fix-dealing-with-persistent-elex-ii-freezes-and-shutdowns-on-windows-machines/"><u>Master the Fix: Dealing with Persistent Elex II Freezes and Shutdowns on Windows Machines</u></a></li>
+<li><a href="https://win-blog.techidaily.com/preventing-and-resolving-intermittent-freezes-in-v-rising-on-desktop-platforms/"><u>Preventing and Resolving Intermittent Freezes in V Rising on Desktop Platforms</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/protect-your-privacy-learn-why-iphones-share-locations-in-apple-journal-and-how-to-turn-off-the-feature-techguide/"><u>Protect Your Privacy: Learn Why iPhones Share Locations in Apple Journal & How to Turn Off the Feature | TechGuide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-unexpected-dips-in-frames-per-second-for-gamers/"><u>Troubleshooting Unexpected Dips in Frames Per Second for Gamers</u></a></li>
+<li><a href="https://smart-video-creator.techidaily.com/updated-2024-approved-free-video-editing-made-easy-a-wax-tutorial-for-beginners/"><u>Updated 2024 Approved Free Video Editing Made Easy A Wax Tutorial for Beginners</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/mp3-movavi-m4awav/"><u>オンライン無料MP3変換サービス - Movavi M4A/WAVファイル変換</u></a></li>
+</ul></div>
 

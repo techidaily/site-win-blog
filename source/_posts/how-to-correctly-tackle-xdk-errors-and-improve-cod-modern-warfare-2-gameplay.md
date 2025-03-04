@@ -1,7 +1,7 @@
 ---
 title: How to Correctly Tackle XDK Errors and Improve CoD Modern Warfare 2 Gameplay
-date: 2024-08-18T18:06:14.366Z
-updated: 2024-08-19T18:06:14.366Z
+date: 2025-02-26T16:03:07.992Z
+updated: 2025-03-04T16:07:16.528Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
  It’s hard to locate the exact cause, but you can try the following workarounds to fix it.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Fix Modern Warfare Crashing
 
  No matter what causes your Modern Warfare to crash, you can troubleshoot and get rid of it easily:
@@ -79,9 +76,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
  2) Run Driver Easy and click the **Scan Now**  button. Driver Easy will then scan your computer and detect any problem drivers.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Driver-Easy-Scan-Now.jpg)
 
  3) Click the **Update**  button next to your graphics card to download the latest and correct driver for it, then you can manually install it.
@@ -90,9 +84,6 @@ Your Modern Warfare crashing can be caused by the following issues:
 
  Click the **Update All**  button at the bottom right to automatically update all outdated or missing drivers on your computer (this requires the [Pro version](https://tools.techidaily.com/drivereasy/download/) , which comes with**Full Support** and a**30-day Money Back Guarantee** . You will be prompted to upgrade when you click **Update All** ).
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/Free-Pro.jpg)
 
 4) Restart your PC for the changes to take full effect.
@@ -107,9 +98,6 @@ Here’s how to do it:
 
  2) Under the**Details & Texture** tab, set**Texture Resolution** to**High** or**Normal** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2337838&QTY=1&AFFILIATE=108875&CART=1"><iframe width="640" height="390" src="https://www.youtube.com/embed/rzZwphIv4RM" title="APFill - Ink and Toner Coverage Calculator" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/texture-resolution-to-normal-or-high-1200x628.jpg)
 
  You can keep everything else on the lowest settings, except Texture Filter Anisotropic on High. Also, make sure to turn off**Sync Every Frame (V-Sync)** , which is best left off within games.
@@ -130,9 +118,6 @@ Play Modern Warfare again to see if the crashing issue persists.
 
  If Call of Duty: Modern Warfare starts to crash after you overclock your GPU, you can try lowering it back to the default setting. This might be enough to prevent or reduce the number of Modern Warfare crashes you’re experiencing.
 
-<!-- affiliate ads begin -->
-<a href="https://thefitville.pxf.io/c/5597632/1526796/15852" target="_top" id="1526796"><img src="//a.impactradius-go.com/display-ad/15852-1526796" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1526796/15852" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable NVIDIA V-Sync for Modern Warfare
 
  The V-Sync in your game is G-Sync/FreeSync and it may interfere with Modern Warfare, so you can try turning it off to see if the crashing issue goes away. If you have in-game V-sync turned on, you can disable it in Modern Warfare graphics settings.
@@ -165,9 +150,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
  If you want to disable in-game overlay just for Call of Duty: Modern Warfare, go to the**Games Activity** tab and toggle off Call of Duty: Modern Warfare.
 
-<!-- affiliate ads begin -->
-<a href="https://checkout.abbyy.com/order/checkout.php?PRODS=39254549&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/0e5fb5c76fca16adbee503c9aff393cd/products/8_FR-Badges-NEW-FR-Standard-16-WIN-200.png" border="0"> PDF application, powered by AI-based OCR, for unified workflows with both digital and scanned documents. </a>
-<!-- affiliate ads end -->
 ### Fix 8: Change Priority
 
  Setting Call of Duty: Modern Warfare to high priority, according to a few players, reduces the number of crashes a little bit. To do it, you need to open your game first because you’re going to find it in the Task Manager.
@@ -178,16 +160,10 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
  3) Select**Priority** \>**High** .
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541"><img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/03/priority.jpg)
 
  4) When prompted for permission to make changes, select**Change Priority** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851655&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 9\. Repair your system files
 
  If the Modern Warfare shares the same system files with your operating system, and the specific file is corrupt or missing, thus causing your game to crash, you may need to restore it with one of the following:
@@ -213,10 +189,6 @@ Here’s how to turn off V-Sync in NVIDIA Control Panel:
 
  3) You’ll see the summary of detected issues on your PC. Click **Start Repair** and all the issues will be fixed automatically. (You’ll need to purchase the full version which comes with full technical support. )
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/fortect-start-repair.jpg)
 
 #### Option 2 – Manually
@@ -229,9 +201,6 @@ This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 a
 
  1) On your keyboard, press the Windows logo key and R at the same time to open the Run box. Type**cmd** and press**Ctrl+Shift+Enter** to run Command Prompt as administrator.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/12/cmd-1.jpg)
 
  Click**Yes** when prompted for permission to make changes to your device.
@@ -291,8 +260,6 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -300,4 +267,24 @@ Dism.exe /Online /Cleanup-Image /AnalyzeComponentStore
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-zero.techidaily.com/lavorful-faves-top-online-chefs-and-culinary-stars/"><u>[New] Flavorful Faves Top Online Chefs & Culinary Stars</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/new-in-2024-unveiling-the-power-of-consistency-in-your-tiktok-clone-journey/"><u>[New] In 2024, Unveiling the Power of Consistency in Your TikTok Clone Journey</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-ultimate-mac-users-guide-to-utilizing-preview-to-its-maximum/"><u>[New] The Ultimate Mac User's Guide to Utilizing Preview to Its Maximum</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solved-amazon-prime-video-not-working/"><u>[Solved] Amazon Prime Video Not Working</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-makeup-mastery-manual-starting-an-engaging-aesthetic-vlog-for-2024/"><u>[Updated] Makeup Mastery Manual Starting an Engaging Aesthetic Vlog for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-the-complete-nvidia-screenshot-user-manual/"><u>[Updated] The Complete NVIDIA Screenshot User Manual</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ing-to-youtube-zenith-a-step-by-step-guide-to-creative-studio-mastery/"><u>Climbing to YouTube Zenith A Step-by-Step Guide to Creative Studio Mastery</u></a></li>
+<li><a href="https://fox-blue.techidaily.com/cutting-edge-live-broadcast-solutions-for-2024/"><u>Cutting-Edge Live Broadcast Solutions for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-solutions-resolving-battlefield-1-game-crashes/"><u>Effortless Solutions: Resolving Battlefield 1 Game Crashes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-persistent-problems-r-type-final-2-game-now-running-smoothly-without-any-pc-crashing-concerns/"><u>Fix Persistent Problems: R-Type Final 2 Game Now Running Smoothly Without Any PC Crashing Concerns</u></a></li>
+<li><a href="https://blog-min.techidaily.com/how-to-restore-deleted-y36-pictures-an-easy-method-explained-by-fonelab-android-recover-pictures/"><u>How to Restore Deleted Y36 Pictures An Easy Method Explained.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-discord-slow-streams-the-latest-techniques/"><u>Resolve Your Discord Slow Streams: The Latest Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/trouble-accessing-oculus-setup-heres-what-you-can-do/"><u>Trouble Accessing Oculus Setup? Here's What You Can Do</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-persistent-crashes-in-the-surge-2/"><u>Troubleshooting Persistent Crashes in The Surge 2</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-troubleshooting-guide-how-to-fix-zoom-video-problems-quickly/"><u>Ultimate Troubleshooting Guide: How to Fix Zoom Video Problems Quickly</u></a></li>
+<li><a href="https://extra-tips.techidaily.com/1723262371746-unleash-powerful-performance-with-meteor-lake-cpu-onexplayers-new-mini-pc-featuring-intel-core-i9-and-up-to-among-other-features/"><u>Unleash Powerful Performance with Meteor Lake CPU: OneXPlayer's New Mini-PC Featuring Intel Core I9 and up to Among Other Features.</u></a></li>
+<li><a href="https://win-blog.techidaily.com/warzone-wont-start-troubleshooting-common-issues/"><u>Warzone Won't Start: Troubleshooting Common Issues</u></a></li>
+</ul></div>
 

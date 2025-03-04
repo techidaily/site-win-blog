@@ -1,7 +1,7 @@
 ---
 title: "Immediate Solutions for When You Can't Log Into Fortnite: A Step-by-Step Guide"
-date: 2024-08-18T18:06:59.654Z
-updated: 2024-08-19T18:06:59.654Z
+date: 2025-02-28T16:40:04.689Z
+updated: 2025-03-04T16:14:30.143Z
 tags:
   - win11
   - win10
@@ -17,13 +17,6 @@ thumbnail: https://thmb.techidaily.com/1e51a070d33ae9b31b39fd46bedbd90cddc68c490
 
 New Grounded patch is live! However, many players reported that Grounded keeps crashing and it’s literally unplayble. If you run into the same problem, don’t worry. Here’re 6 simple methods to fix it right away.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You may not try them all; just work from the top down until you find the one that does the trick for you.
@@ -35,9 +28,6 @@ No advertising on the website.
 5. **[Verify the integrity of game files](https://tools.techidaily.com/drivereasy/download/)**
 6. **[Play single-player in the offline mode](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=22741618&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.diskpart.com/resource/images/index/dp-index-img-banner-people@2x.png" border="0">Easy and Safe Partition Software & Hard Disk Manager</a>
-<!-- affiliate ads end -->
 ### Fix 1 – Make sure your PC meets the minimum specs for Grounded
 
  Game crashes will occur if your machine isn’t powerful enough to play Grounded. So before we move on to more in-depth fixes, it’s necessary to confirm your PC meets the game’s minimum system requirements.
@@ -59,9 +49,6 @@ Here are Grounded’s minimum specs:
 
 **2)** Check the information about your**operating system** ,**processor** , and**memory** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/1-1.jpg)
 
 **3)** Select the**Display** tab and check your graphics card’s information.
@@ -72,9 +59,6 @@ Here are Grounded’s minimum specs:
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3727260&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2 – Temporarily disable your anti-virus programs
 
  Anti-virus programs can interfere with Grounded and stop it from running properly. To test if they’re the causes, you could temporarily disable your anti-virus programs and relaunch Grounded.
@@ -126,18 +110,12 @@ If the problem persists, move towards the next fix.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713321&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVDJ1.90-300x188.jpg" border="0">OtsAV DJ Pro</a>
-<!-- affiliate ads end -->
 ### Fix 4 – Switch to DirectX 11 in the game setting
 
  Many players reported that Grounded crashes in the DirectX 12 mode. In this case, you can force the game to run on DirectX 11 and see if the problem is solved.
 
 **1)** On your keyboard, press the**Windows logo key** and**R** at the same time to open the Run box. Then, type**dxdiag** and press**Enter** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-0.jpg)
 
 **2)** Check your**DirectX version** . If it’s DirectX 12, continue to step 3, or if you have DirectX 11, you can jump to **[fix 5](https://tools.techidaily.com/drivereasy/download/)**  .
@@ -148,23 +126,14 @@ If the problem persists, move towards the next fix.
 
 **3)** Launch Steam, and click the**Library** tab.
 
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-1.jpg)
 
 **4)** Locate**Grounded** on the game list, right click it and click**Properties** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-2.jpg)
 
 **5)** Click the**General** tab and click**Set launch options** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4709458&QTY=1&AFFILIATE=108875&CART=1"><img src="https://3d-kstudio.com/wp-content/uploads/2014/02/Project-Manager-3D-Models-4-800x800.jpg" border="0">Project Manager - Asset Browser for 3Ds Max</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/4-3.jpg)
 
 **6)** Type**\-dxlevel 110** in the field and click**OK** .
@@ -193,10 +162,6 @@ If the problem persists, move towards the next fix.
 
 **3)** Click the**Local files** tab, and click**Verify integrity of game files** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/6-3.jpg)
 
  Wait for the process to complete. Then play Grounded to see whether the crashing problem goes away. If not, check out the fix below.
@@ -217,16 +182,10 @@ If the problem persists, move towards the next fix.
 
 **3)** Click**Steam** and click**Go offline** .
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/5-3.jpg)
 
 **4)** Click**Restart in offline mode** .
 
-<!-- affiliate ads begin -->
-<a href="https://estore.macxdvd.com/order/checkout.php?PRODS=4526659&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macxdvd.com/affiliate/new-banner/vcp-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/steam2.jpg)
 
 Launch Steam. Then, play the game in single-player and see how it works.
@@ -247,8 +206,6 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -256,4 +213,21 @@ Launch Steam. Then, play the game in single-player and see how it works.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-direct.techidaily.com/new-in-2024-adobe-audition-101-the-art-of-fading-on/"><u>[New] In 2024, Adobe Audition 101 The Art of Fading On</u></a></li>
+<li><a href="https://twitter-videos.techidaily.com/updated-in-2024-the-virality-equation-tiktok-vs-twitter/"><u>[Updated] In 2024, The Virality Equation TikTok Vs. Twitter</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/2024-approved-solo-journey-through-the-world-of-3d-printing-in-3dr/"><u>2024 Approved Solo Journey Through the World of 3D Printing in '3DR'</u></a></li>
+<li><a href="https://win-blog.techidaily.com/common-issues-and-solutions-for-paused-or-stopped-steam-downloads/"><u>Common Issues and Solutions for Paused or Stopped Steam Downloads</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/comprehensive-guide-to-troubleshooting-and-repairing-audio-problems-in-toshiba-laptops/"><u>Comprehensive Guide to Troubleshooting and Repairing Audio Problems in Toshiba Laptops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/easy-solutions-for-starting-starfield-on-steam-or-xbox-when-it-fails-to-load/"><u>Easy Solutions for Starting Starfield on Steam or Xbox When It Fails to Load</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-reset-your-htc-u23-pro-lock-screen-password-by-drfone-android/"><u>How to Reset your HTC U23 Pro Lock Screen Password</u></a></li>
+<li><a href="https://win-blog.techidaily.com/necromunda-hired-gun-software-compatibility-issues-on-desktop-systems-a-comprehensive-guide/"><u>Necromunda: Hired Gun Software Compatibility Issues on Desktop Systems – A Comprehensive Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-quickly-the-problem-of-a-non-opening-epic-games-launcher-step-by-step-guide/"><u>Overcome Quickly the Problem of a Non-Opening Epic Games Launcher: Step-by-Step Guide</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-the-challenge-outlook-not-opening-and-how-to-fix-it/"><u>Overcoming the Challenge: Outlook Not Opening and How To Fix It</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/restored-harmony-cyberpunk-2077-sound-solutions-for-windows-10-users/"><u>Restored Harmony: Cyberpunk 2077 Sound Solutions for Windows 10 Users</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/unlock-the-potential-of-chatgpt-for-optimal-health-top-strategies-inside/"><u>Unlock the Potential of ChatGPT for Optimal Health - Top Strategies Inside</u></a></li>
+<li><a href="https://howto.techidaily.com/vivo-y56-5g-camera-not-working-unexpected-error-fix-it-now-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>Vivo Y56 5G Camera Not Working Unexpected Error? Fix It Now | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/winning-against-game-glitches-resolving-fallout-3-crash-issues-in-windows-11/"><u>Winning Against Game Glitches: Resolving Fallout 3 Crash Issues in Windows 11</u></a></li>
+</ul></div>
 

@@ -1,7 +1,7 @@
 ---
 title: "[Fixed] Modern Warfare 3 Memory Error 12707"
-date: 2024-08-18T18:03:54.406Z
-updated: 2024-08-19T18:03:54.406Z
+date: 2025-02-28T16:17:49.630Z
+updated: 2025-03-04T16:07:24.992Z
 tags:
   - win11
   - win10
@@ -17,14 +17,6 @@ thumbnail: https://thmb.techidaily.com/cbb1e3102bf892cff8d3ec0a8653b920867c497d1
 
 A recent update of Warzone triggered a surge in reports of the**Dev Error 6034** issue, which keeps crashing the game, especially in battle royale. If you happen to be seeing the same error, worry not. According to our users, there’re already some fixes that can help you get rid of the error right away.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Fixes to try
 
  You might not need to try them all. Simply work down the list until you land on the one that fixes the issue.
@@ -34,10 +26,6 @@ A recent update of Warzone triggered a surge in reports of the**Dev Error 6034**
 3. **[Remove Multiplayer game packs (Xbox)](https://www.drivereasy.com/knowledge/how-to-fix-dev-error-6034-in-warzone-pc-xbox/#fix3)**
 4. **[Reinstall Warzone](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=39694080&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/nbr/fire/Screenshot_1red_gb.jpg" border="0">Nero Burning ROM:
-The ultimate burning program for all your needs!</a>
-<!-- affiliate ads end -->
 ### Fix 1: Update your graphics driver (PC)
 
  One of the most common causes of game crashing is that you’re using a**broken or outdated graphics driver** . So before you further into anything more complicated, make sure you’re using the latest GPU driver. This could help avoid a lot of strange issues.
@@ -64,9 +52,6 @@ To do so, first visit the website of your GPU manufacturer:
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.(This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
@@ -92,9 +77,6 @@ To do so, first visit the website of your GPU manufacturer:
 
  If this method doesn’t do the trick, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Remove Multiplayer game packs
 
  Soon after the Dev Error happens, console gamers discovered that they can fix the issue by**removing specific game packs** . This would be less painful than a complete reinstallation, so you can give it a shot. If you don’t know how, here’s a quick example on Xbox:
@@ -102,18 +84,8 @@ To do so, first visit the website of your GPU manufacturer:
 1. On your Xbox, select Call of Duty: Modern Warfare. Press the menu button and select**Manage game & add-ons** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-1.jpg)
 2. Select**Call of Duty: Modern Warfare** . (You might also need to select**Manage installation on External drive** .)  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-2.jpg)
 3. Scroll down and unselect**MP2 Pack** and**Multiplayer Pack 3.** Then select**Save changes** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633309&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/3_premium-icon.png" border="0"> Take advantage of PREMIUM features for 12 months. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Yearly Membership</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/6034-xbox-remove-packs-3.jpg)
 4. Now restart your Xbox and check if Warzone is working now.
 
@@ -135,8 +107,6 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -144,4 +114,24 @@ If this trick doesn’t help you, simply check out the next one.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-videos.techidaily.com/new-integrating-instant-video-playback-within-the-social-media-webspace-for-2024/"><u>[New] Integrating Instant Video Playback Within the Social Media Webspace for 2024</u></a></li>
+<li><a href="https://win-solutions.techidaily.com/a-users-handbook-corrective-measures-for-a-malfunctioning-paradox-launcher/"><u>A User’s Handbook: Corrective Measures for a Malfunctioning Paradox Launcher</u></a></li>
+<li><a href="https://vimeo-videos.techidaily.com/best-of-the-best-10-acclaimed-online-vimeo-downloaders/"><u>Best of the Best 10 Acclaimed Online Vimeo Downloaders</u></a></li>
+<li><a href="https://win-blog.techidaily.com/borderlands-3-stability-boosted-effortless-fixes-to-prevent-game-crashes/"><u>Borderlands 3 Stability Boosted: Effortless Fixes to Prevent Game Crashes</u></a></li>
+<li><a href="https://common-error.techidaily.com/effective-solutions-for-non-functional-aoc-video-adapters-on-pc-with-windows-10/"><u>Effective Solutions for Non-Functional AOC Video Adapters on PC with Windows 10</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/from-novice-to-expert-a-complete-guide-to-srt-creation-for-2024/"><u>From Novice to Expert A Complete Guide to SRT Creation for 2024</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/get-your-hands-on-amazing-savings-premier-roku-prices-this-prime-day/"><u>Get Your Hands-On Amazing Savings: Premier Roku Prices This Prime Day</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/how-to-unlock-apple-iphone-13-pro-max-with-imei-code-by-drfone-ios/"><u>How to Unlock Apple iPhone 13 Pro Max with IMEI Code?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/masterclass-overcoming-connection-loss-problems-in-escape-from-tarkov/"><u>Masterclass: Overcoming Connection Loss Problems in Escape From Tarkov</u></a></li>
+<li><a href="https://win-blog.techidaily.com/mastering-granblue-fantasy-overcoming-the-challenge-of-a-stuck-relink-feature/"><u>Mastering Granblue Fantasy: Overcoming the Challenge of a Stuck Relink Feature</u></a></li>
+<li><a href="https://win-blog.techidaily.com/no-more-muted-play-restoring-sound-to-your-roblox-experience-on-windows-systems/"><u>No More Muted Play: Restoring Sound to Your Roblox Experience on Windows Systems</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/e-approach-verifying-your-youtube-login-details/"><u>Secure Approach Verifying Your YouTube Login Details</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solution-found-fixing-modern-warfare-stutter-and-lag-issues-in-pc-version/"><u>Solution Found: Fixing 'Modern Warfare' Stutter and Lag Issues in PC Version</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solving-the-issue-when-granblue-fantasys-re-link-feature-wont-start/"><u>Solving the Issue When Granblue Fantasy's Re-Link Feature Won't Start</u></a></li>
+<li><a href="https://win-blog.techidaily.com/stop-chrome-stuttering-simple-solutions-for-a-smoother-windows-10-experience/"><u>Stop Chrome Stuttering: Simple Solutions for a Smoother Windows 10 Experience</u></a></li>
+<li><a href="https://win11.techidaily.com/the-essentials-of-managing-printers-in-windows-1011/"><u>The Essentials of Managing Printers in Windows 10/11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723001248811-watch-dogs-legion-and-the-unresolved-pc-stability-issues-solutions-at-hand/"><u>Watch Dogs Legion and the Unresolved PC Stability Issues - Solutions at Hand!</u></a></li>
+</ul></div>
 

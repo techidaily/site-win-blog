@@ -1,7 +1,7 @@
 ---
 title: "Master Uninterrupted Gaming: Overcome 'Halo Infinite' Freezing on Your PC Using Our Top Ebx Fix Strategies"
-date: 2024-08-18T18:03:32.100Z
-updated: 2024-08-19T18:03:32.100Z
+date: 2025-03-03T16:23:43.283Z
+updated: 2025-03-04T16:34:04.069Z
 tags:
   - win11
   - win10
@@ -33,9 +33,6 @@ thumbnail: https://thmb.techidaily.com/a05ae5ee6982c15ff3eed9139528bca4d5df10563
 
 1. Open your Steam client.
 2. Navigate to the**LIBRARY** tab. Right-click**Among Us** and select**Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152835&QTY=1&AFFILIATE=108875&CART=1"><img src="https://download.terabyteunlimited.com/banners/ad_800x450_d.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-verify-1.jpg)
 3. In the pop-up window, navigate to the**LOCAL FILES** tab. Click**VERIFY INTEGRITY OF GAME FILES** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-verify-2.jpg)
@@ -53,35 +50,12 @@ And here’s how you can do a clean boot:
 1. On your keyboard, press the**Win+R** (the Windows logo key and the r key) at the same time to invoke the Run box. Type or paste**msconfig** and click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/msconfig-clean-boot-1.jpg)
 2. In the pop-up window, navigate to the **Services**  tab and check the box next to **Hide all Microsoft services** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-hide-all-windows-services.jpg)
 3. **Uncheck**  all the services EXCEPT those belong to your video card or sound card manufacturer, such as **Realtek** , **AMD** , **NVIDIA**  and **Intel** . Then click **OK**  to save the changes.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4693127&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.videosoftdev.com/images/video_editor/screenshots/1.jpg" border="0">
-VSDC Pro Video Editor is a light professional non-linear video editing suite for creating a movie of any complexity. It supports the most popular video/audio formats and codecs, including 4K, HD and GoPro videos. Preconfigured profiles make the creation of videos for various multimedia and mobile devices absolutely hassle-free.
-
-Key features:
-
-•	Import from any devices and cams, including GoPro and drones. All formats supported. Сurrently the only free video editor that allows users to export in a new H265/HEVC codec, something essential for those working with 4K and HD.
-•	Everything for hassle-free basic editing: cut, crop and merge files, add titles and favorite music
-•	Visual effects, advanced color correction and trendy Instagram-like filters   
-•	All multimedia processing done from one app: video editing capabilities reinforced by  a video converter, a screen capture, a video capture, a disc burner and a YouTube uploader
-•	Non-linear editing: edit several files with simultaneously 
-•	Easy export to social networks: special profiles for YouTube, Facebook, Vimeo, Twitter and Instagram
-•	High quality export – no conversion quality loss, double export speed even of HD files due to hardware acceleration
-•	Stabilization tool will turn shaky or jittery footage into a more stable video automatically. 
-•	Essential toolset for professional video editing: blending modes, Mask tool, advanced multiple-color Chroma Key  
-</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/msconfig-disable-services-except-gpu-audio.jpg)
 4. On your keyboard, press **Ctrl** , **Shift**  and **Esc**  at the same time to open Task Manager, then navigate to the **Startup**  tab.  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup.jpg)
 5. One at a time, select any programs you suspect might be interfering, and click **Disable** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/task-manager-startup-disable-startup-program.jpg)
 6. Restart your computer.
 
@@ -89,9 +63,6 @@ Key features:
 
  If this trick doesn’t stop the crash, you can take a look at the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BConverter%2BBox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/8020c1dc-518e-3bdf-6e7b-e6d1bdf1597b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 3: Update your graphics driver
 
  In some cases, your game will keep crashing if you’re using a faulty or outdated graphics driver. Though Among Us is never a graphically demanding title, using the latest graphics driver could help you avoid lots of errors.
@@ -114,9 +85,6 @@ Key features:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4531356&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8fdd149fcaa7058caccc9c4ad5b0d89a/products/tss-box.JPG" border="0">The Tube Sites Submitter is a fast and efficient tool for anyone who needs to upload videos quickly, easily and automatically to hundreds of tube sites in mere minutes . </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/Scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system.  
  (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All. If you don’t want to pay for the Pro version, you can still download and install all the drivers you need with the free version; you just have to download them one at a time, and manually install them, the normal Windows way.)  
@@ -145,9 +113,6 @@ Here’s how:
 
  If this trick doesn’t solve your problem, simply move on to the next one.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082538/7443" target="_top" id="2082538"><img src="//a.impactradius-go.com/display-ad/7443-2082538" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082538/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 5: Run Among Us on another GPU
 
  According to some players, the crashing issue can be bypassed by shifting to another GPU. So if your gaming rig is equipped with dual GPU (e.g. PC/laptops with a built-in CPU graphics plus an additional AMD or NVIDIA graphics card), you can give this trick a shot and see how it goes.
@@ -161,19 +126,10 @@ Here’s how:
 1. At the empty area of your desktop, right-click and select **Display settings** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-1.jpg)
 2. Under the **Multiple displays** section, click **Graphics settings** .  
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006123/18460" target="_top" id="2006123"><img src="//a.impactradius-go.com/display-ad/18460-2006123" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006123/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/10/change-preferred-gpu-2.jpg)
 3. Click **Browse**  to specify the file location of the Among Us launcher.  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=38709260&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF Perpetual (2-PC)  Free upgrade. No monthly fees ever. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu.jpg)
 4. Click the launcher in the list, then click**Options** . Select**Power saving** and click**Save** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/11/among-us-change-gpu-2.jpg)
 
 Now you can launch Among Us and see if it crashes again.
@@ -188,8 +144,6 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -197,4 +151,24 @@ Now you can launch Among Us and see if it crashes again.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-2024-approved-dive-into-the-world-of-cosmetics-launching-a-beauty-channel/"><u>[Updated] 2024 Approved Dive Into the World of Cosmetics Launching a Beauty Channel</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-elevate-your-metaverse-experience-expert-tips-on-avatar-creation/"><u>[Updated] In 2024, Elevate Your Metaverse Experience Expert Tips on Avatar Creation</u></a></li>
+<li><a href="https://win-blog.techidaily.com/crash-free-gaming-your-guide-to-a-smoother-diablo-3-experience/"><u>Crash-Free Gaming: Your Guide to a Smoother Diablo 3 Experience</u></a></li>
+<li><a href="https://win-blog.techidaily.com/design-planning/"><u>Design Planning</u></a></li>
+<li><a href="https://win-blog.techidaily.com/diy-fixing-guide-restoring-your-ds4-controllers-functionality-on-windows-when-facing-driver-installation-issues/"><u>DIY Fixing Guide: Restoring Your DS4 Controller's Functionality on Windows When Facing Driver Installation Issues</u></a></li>
+<li><a href="https://driver-download.techidaily.com/download-and-install-nvidias-3d-vision-drivers-on-windows-without-cost/"><u>Download and Install Nvidia's 3D Vision Drivers on Windows Without Cost</u></a></li>
+<li><a href="https://buynow-info.techidaily.com/evaluating-tp-link-av2000-powerline-adapter-exceptional-connectivity-unremarkable-design-flaws-revealed/"><u>Evaluating TP-Link AV2000 Powerline Adapter: Exceptional Connectivity, Unremarkable Design Flaws Revealed</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-how-to-prevent-frequent-crashes-in-your-pcs-nox-player/"><u>Expert Advice: How to Prevent Frequent Crashes in Your PC's Nox Player</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-tips-to-resolve-the-critical-error-code-0xc0000005-in-call-of-duty-black-ops-cold-war/"><u>Expert Tips to Resolve the Critical Error Code 0Xc0000005 in Call of Duty: Black Ops Cold War</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-prevent-and-fix-risk-of-rain-2-crashing-issues-effectively/"><u>How to Prevent and Fix Risk of Rain 2 Crashing Issues Effectively</u></a></li>
+<li><a href="https://sim-unlock.techidaily.com/in-2024-easily-unlock-your-itel-device-sim-by-drfone-android/"><u>In 2024, Easily Unlock Your Itel Device SIM</u></a></li>
+<li><a href="https://driver-download.techidaily.com/install-the-newest-nvidia-quadro-rtx-8000-graphics-driver-on-win-10-8-and-7/"><u>Install the Newest Nvidia Quadro RTX 8000 Graphics Driver on Win 10, 8 & 7</u></a></li>
+<li><a href="https://win-blog.techidaily.com/investigating-fortnite-season-8-the-impact-on-gameplay-performance-and-fps/"><u>Investigating Fortnite Season 8: The Impact on Gameplay Performance and FPS</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/the-next-level-of-immersion-g-pro-x-reviewed/"><u>The Next Level of Immersion: G Pro X Reviewed</u></a></li>
+<li><a href="https://android-location-track.techidaily.com/top-10-best-spy-watches-for-your-tecno-spark-10-5g-drfone-by-drfone-virtual-android/"><u>Top 10 Best Spy Watches For your Tecno Spark 10 5G | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-success-how-to-eliminate-exit-code-0-error-in-minecraft/"><u>Troubleshooting Success: How to Eliminate Exit Code 0 Error in Minecraft</u></a></li>
+<li><a href="https://fake-location.techidaily.com/wondering-the-best-alternative-to-hola-on-vivo-g2-here-is-the-answer-drfone-by-drfone-virtual-android/"><u>Wondering the Best Alternative to Hola On Vivo G2? Here Is the Answer | Dr.fone</u></a></li>
+</ul></div>
 

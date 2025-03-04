@@ -1,7 +1,7 @@
 ---
 title: "Fixative Strategies: Addressing and Correcting Black Screens in SWBF2"
-date: 2024-08-18T18:05:13.981Z
-updated: 2024-08-19T18:05:13.981Z
+date: 2025-03-03T16:26:27.426Z
+updated: 2025-03-04T16:21:38.701Z
 tags:
   - win11
   - win10
@@ -19,9 +19,6 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
 
  Are you suffering**Fallout 4 stuttering** issue? It’s really frustrating and annoying. But there’s no need to panic. Certainly you’re not the only one having the problem. We’ve seen many PC gamers are reporting it. Luckily, it’s usually easy to fix. Read on and see how…
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872496/14483" target="_top" id="1872496"><img src="//a.impactradius-go.com/display-ad/14483-1872496" border="0" alt="" width="750" height="625"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872496/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## 6 fixes for Fallout 4 stuttering
 
  Here are a few easy-to-apply methods that have helped other users resolve their stuttering Fallout 4 problem. You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -35,9 +32,6 @@ thumbnail: https://thmb.techidaily.com/5c0564abc19ad999dbb49e540552fe121e13db8ef
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ### What you might concern…
 
  Before we go, check if your computer meets the requirements for running Fallout 4:
@@ -70,9 +64,6 @@ Hard disk space: 30 GB free HDD space
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620778&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/300__250banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 2: Update your video driver
 
  An old, corrupted or missing video driver on your system could also cause Fallout 4 to stutter. When you’re encountering Fallout 4 stuttering, we recommend**updating your video driver** for the best gaming experience.
@@ -90,9 +81,6 @@ You can update your video driver either manually or automatically.
  If you don’t have the time, patience or computer skills to update your video driver manually, you can, instead, do it automatically with **[Driver Easy](https://tools.techidaily.com/drivereasy/download/)**  . Driver Easy will automatically recognize your system and find the correct driver for your exact graphics card, and your Windows version, and it will download and install them correctly:
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 2. Run Driver Easy and click the**Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95d9711631c.jpg)
 3. Click**Update All** to automatically download and install the correct version of all the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with**full support** and a**30-day money back** guarantee. You’ll be prompted to upgrade when you click Update All.)  
  Note: You can do it**for free** if you like, but it’s partly manual.![](https://images.drivereasy.com/wp-content/uploads/2018/09/img_5b95da089dde0.jpg)
@@ -101,9 +89,6 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ### Fix 3: Change the resolutions back to your monitor size
 
  You probably run Fallout 4 in the borderless mode, it’s great. But there’s one thing you should check after setting the borderless mode — change the resolutions back to your monitor size:
@@ -127,9 +112,6 @@ Launch Fallout 4 to see if it runs smoothly.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Change your game mode and correct the resolutions by modifying your game file
 
  If the Fix 3 fails to help, you can try this method to change your game mode and correct the resolutions by modifying your game file.
@@ -198,8 +180,6 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -207,4 +187,18 @@ Run Fallout 4 to see if it goes smoothly.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win11-tips.techidaily.com/addressing-gpu-thermal-spikes-during-play/"><u>Addressing GPU Thermal Spikes During Play</u></a></li>
+<li><a href="https://hardware-help.techidaily.com/1722965699674-download-and-install-official-dell-wd19-driver-software/"><u>Download & Install: Official Dell WD19 Driver Software</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/driving-into-the-future-mercedes-voice-and-chatgpt-fusion/"><u>Driving Into the Future: Mercedes Voice & ChatGPT Fusion</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-overcoming-obs-lag-while-streaming-and-recording-video/"><u>Expert Advice on Overcoming OBS Lag While Streaming & Recording Video</u></a></li>
+<li><a href="https://win-blog.techidaily.com/final-fix-for-out-of-date-minecraft-drivers-update-guide-included/"><u>Final Fix for Out-of-Date Minecraft Drivers - Update Guide Included!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guide-to-setting-up-gamepadscontrollers-with-steam-software-on-windows-systems/"><u>Guide to Setting Up Gamepads/Controllers with Steam Software on Windows Systems</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-stepwise-steps-to-install-windows-movie-maker-6/"><u>In 2024, Stepwise Steps to Install Windows Movie Maker 6</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcoming-game-crashes-in-dead-by-daylight-addressing-error-8034/"><u>Overcoming Game Crashes in Dead by Daylight: Addressing Error 8034</u></a></li>
+<li><a href="https://win-blog.techidaily.com/solve-your-lag-and-connectivity-problems-in-gta-5-online/"><u>Solve Your Lag and Connectivity Problems in GTA 5 Online</u></a></li>
+<li><a href="https://common-error.techidaily.com/untangling-the-windows-10-update-mess-error-0xc1900208-fixed-here/"><u>Untangling the Windows 10 Update Mess - Error 0Xc1900208 Fixed Here</u></a></li>
+<li><a href="https://hardware-reviews.techidaily.com/unveiling-asrocks-latest-cutting-edge-amd-ryzen-9000-series-mobo-lineup/"><u>Unveiling ASRock's Latest: Cutting-Edge AMD Ryzen 9000 Series Mobo Lineup</u></a></li>
+</ul></div>
 

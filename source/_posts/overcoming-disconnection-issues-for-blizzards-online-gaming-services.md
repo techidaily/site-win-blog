@@ -1,7 +1,7 @@
 ---
 title: Overcoming Disconnection Issues for Blizzard's Online Gaming Services
-date: 2024-08-18T18:05:53.717Z
-updated: 2024-08-19T18:05:53.717Z
+date: 2025-02-27T16:13:14.060Z
+updated: 2025-03-04T16:38:28.706Z
 tags:
   - win11
   - win10
@@ -29,9 +29,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 [**Download Now**](https://www.fortect.com/go/route-dz.php?channel=dz&d=t&banner=drivereasyen87812)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes…
 
  You may not have to try them all; just work your way down the list until you find the one that works for you.
@@ -51,9 +48,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 1: Re-add your friend
 
  I believe you’ve already tried restarting Minecraft maybe even restart your computer. There is one more thing you can try: re-add your friend.
@@ -62,9 +56,6 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 2: Reload your private world
 
  Some players have reported that after reloading their private world, they’re able to connect to their friends’ world. Somehow it works for many users on all platforms.  
@@ -75,14 +66,8 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 3. Go to the**Worlds** tab and choose one of your Worlds.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-00-57.png)
 4. Evoke the menu and choose**Save & Quit** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4715391&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-01-51.png)
 5. Back to the main menu and click the**Friends** tab.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3922934&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/ripperpro.png" border="0">WonderFox DVD Ripper Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/2021-02-18_15-02-37.png)
 6. You should be able to join your friends’ world.
 
@@ -93,16 +78,10 @@ It’s quite annoying when you try to connect with your friends’ worlds but re
 1. Click the Windows start button, type**control panel** and press the**Enter** key on your keyboard to open Control Panel.  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c.jpg)
 2. Set Control Panel view by**Large icons** then click**Windows Defender Firewall** .  
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c2.jpg)
 3. Click**Allow an app or feature through Windows Defender Firewall** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/c3.jpg)
 4. Make sure the “javaw.exe” is checked. If not, click the Change settings button then check the “javaw.exe”. If you see more than one “javaw.exe” entries, check all of them. Ensure the Private box and the Publick box are checked too.  
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/img_5c260821a6772.png)
 
  If the Minecraft.exe is checked, this fix doesn’t work for you. Move on to the next fix.
@@ -144,9 +123,6 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Disable antivirus software
 
  Some antivirus software may block some features in Minecraft so that you can encounter the “unable to connect to world” issue. If you have installed antivirus software on your computer, you can disable it temporarily and check to see if the problem is resolved.
@@ -166,9 +142,6 @@ If this fix can’t help, you can move to the next.
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  NordVPN in your device.
 2. Run NordVPN and open it.
 3. Connect to a server in a chosen location.  
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2019/08/nord.jpg)
 
 **Coupon TIP** : Get a **[NordVPN coupon code](https://tools.techidaily.com/drivereasy/download/)**  before you buy it!
@@ -177,9 +150,6 @@ If this fix can’t help, you can move to the next.
 
 ---
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940317&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Bonus tips
 
 #### For iPad users
@@ -202,8 +172,6 @@ If this fix can’t help, you can move to the next.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -211,4 +179,20 @@ If this fix can’t help, you can move to the next.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-video-recordings.techidaily.com/new-deciphering-the-language-of-youtube-live-images/"><u>[New] Deciphering the Language of YouTube Live Images</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-leveraging-facebooks-potential-the-most-effective-video-ad-approaches-for-2024/"><u>[New] Leveraging Facebook's Potential The Most Effective Video Ad Approaches for 2024</u></a></li>
+<li><a href="https://youtube-docs.techidaily.com/avigating-youtube-networking-creating-powerful-channel-backlinks/"><u>[New] Navigating YouTube Networking Creating Powerful Channel Backlinks</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/2024-approved-viral-video-showdown-is-it-time-for-likee-to-outshine-tiktok/"><u>2024 Approved Viral Video Showdown Is It Time for Likee to Outshine TikTok?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-steps-to-bypass-palworlds-eos-login-hurdle-quick-fix-techniques-revealed/"><u>6 Steps to Bypass PalWorld's EOS Login Hurdle: Quick Fix Techniques Revealed</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-5-solutions-for-xiaomi-redmi-12-5g-unlock-without-password-by-drfone-android/"><u>In 2024, 5 Solutions For Xiaomi Redmi 12 5G Unlock Without Password</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/mastering-snapchat-flipping-videos-backwards-for-2024/"><u>Mastering Snapchat Flipping Videos Backwards for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolve-your-phasmophobia-vr-woes-step-by-step-correction-techniques/"><u>Resolve Your Phasmophobia VR Woes: Step-by-Step Correction Techniques</u></a></li>
+<li><a href="https://win-blog.techidaily.com/restoring-sounds-in-pubg-a-step-by-step-guide-for-gamers/"><u>Restoring Sounds in PUBG: A Step-by-Step Guide for Gamers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/say-goodbye-to-disruptions-effective-solutions-for-stabilizing-ready-or-not-on-your-computer/"><u>Say Goodbye to Disruptions: Effective Solutions for Stabilizing 'Ready or Not' On Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/simple-guide-for-correcting-discords-javascript-glitches/"><u>Simple Guide for Correcting Discord's JavaScript Glitches</u></a></li>
+<li><a href="https://fox-making.techidaily.com/simple-guide-to-converting-and-downloading-your-desired-videos-from-fapdu-as-mp4-mov-or-avi-files/"><u>Simple Guide to Converting and Downloading Your Desired Videos From Fapdu as MP4, MOV or AVI Files</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-repair-methods-for-fixing-madden-22-errors-fast/"><u>Step-by-Step Repair Methods for Fixing Madden 22 Errors Fast</u></a></li>
+</ul></div>
 

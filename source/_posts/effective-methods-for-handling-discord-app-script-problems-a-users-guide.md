@@ -1,7 +1,7 @@
 ---
 title: "Effective Methods for Handling Discord App Script Problems: A User’s Guide"
-date: 2024-08-18T18:02:43.639Z
-updated: 2024-08-19T18:02:43.639Z
+date: 2025-03-03T16:17:44.682Z
+updated: 2025-03-04T16:16:21.644Z
 tags:
   - win11
   - win10
@@ -37,10 +37,6 @@ If this is happening to you, don’t panic. Try the fixes below.
 
  You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## First Thing First…
 
  When something goes wrong with Discord, the first thing you need to check is the **[server status for Discord](https://status.discordapp.com/)**  . You can also follow [**@Discord**](https://twitter.com/discord) on Twitter to see if there are any ongoing issues.
@@ -57,9 +53,6 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 
  If that application fails, too, then you’ve found the core problem. Check **[this article](https://tools.techidaily.com/drivereasy/download/)**  to troubleshoot your network issue. If Discord is the only app that doesn’t work for you and the rest of your apps works just fine, read on and try the fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 3\. Run Discord as Administrator
 
  Discord should run perfectly fine without admin access in most cases. But occasionally, you might come up against something that requires admin access. Just close Discord and then run the program as Administrator (Make sure you kill all running Discord processes when you’re doing this.).
@@ -67,27 +60,17 @@ LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
 If you’re not sure how to do it, follow the instructions below:
 
 1. Right-click your taskbar and select**Task Manager** .  
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/open-task-manager.png)
 2. Right-click Discord then select**End Task** . (Ensure you right-click on the main Discord link, not the subdirectory entries)  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/close-discord.png)
 3. Right-click the Discord icon on your desktop, then select**Properties** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-properties.png)
 4. Under the**Compatibility** tab, check the box next to**Run this program as an administrator** , then click**OK** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/Discord-admin-access.png)
 5. Relaunch Discord.
 
 If your stream still gets stuck on loading, try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://ship7com.pxf.io/c/5597632/1509856/17634" target="_top" id="1509856"><img src="//a.impactradius-go.com/display-ad/17634-1509856" border="0" alt="" width="730" height="383"/></a>
-<!-- affiliate ads end -->
 ## Fix 4\. Turn off Hardware Acceleration
 
  Streaming is a heavy task and uses a lot of CPU. Discord Hardware acceleration setting allows the app to use other hardware components on your PC to let the app works more efficiently. But, if your hardware is weak, this feature may cause problems for you.
@@ -97,9 +80,6 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 1. Run Discord, then click the **Settings icon** .  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-settings.png)
 2. On the left side menu, select Advanced, then toggle**off** the option for**Hardware Acceleration** .  
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-hardware-acceleration.png)
 3. Click**Okay** to move on.  
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/discord-confirm.png)
@@ -107,9 +87,6 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 
  If Discord still won’t load streams correctly, read on and try the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BVideo%2BEditor%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/6d3207fd-9f15-4c21-f0ad-59c68e6a7e2a.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 5\. Update Your Graphics Driver
 
  Streaming issues are likely to occur when you’re using the faulty graphics driver. It’s essential that you have the latest correct driver for your GPU.
@@ -141,10 +118,6 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 1. Exit Discord.
 2. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run dialog.
 3. Type **%APPDATA%/Discord/Cache** and press **Enter**  on your keyboard.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=45152810&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/842ca578342915ccb8ae069595ba7233/products/copy_bootit-ss1_178x139.jpg" border="0">The BootIt Collection covers multi-booting, partitioning, and disk imaging on traditional PC's using the standard BIOS and  newer PC's using UEFI.   The collection includes BootIt Bare Metal (BIBM) for standard BIOS systems and BootIt UEFI (BIU) for UEFI system. 
-</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-00-39.jpg)
 4. On your keyboard, press the **Ctrl key** and **A**  to highlight all the files.  
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-01-07.jpg)
@@ -153,9 +126,6 @@ To see if this is the core issue, try turning off Hardware Acceleration:
 
 If your issue still exists, move on to the fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 7\. Switch to Windowed Mode
 
  If your Discord is stuck in fullscreen mode, try switching to Windowed Mode.
@@ -177,9 +147,6 @@ If your issue still exists, move on to the fix, below.
 1. **[Download NordVPN](https://tools.techidaily.com/drivereasy/download/)**  and install it on your device.
 2. Log into your account. If you don’t have an account, follow the on-screen instructions to create one.
 3. Click the **Quick Connect** , then the app will automatically choose a server that suits you best.  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/06/image-1.png)
 4. Open Discord to see if the issue still exists.
 
@@ -193,22 +160,13 @@ If your issue still exists, move on to the fix, below.
 
  In this case, you can contact Discord support for assistance or try[**Discord PTB**](https://support.discord.com/hc/en-us/articles/360035675191-Discord-Testing-Clients) , also called public test build, to see if the problem still exists.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ## Fix 10\. Reinstall Discord
 
  If Discord keeps getting stuck on loading, it could be that certain Discord files are corrupt, damaged, or missing. To run the program, you can restore these files through reinstallation.
 
 1. On your keyboard, press the **Windows logo**  and**R** keys. Type**appwiz.cpl** , and then press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2021/09/uninstall-apps.png)
 2. Right-click **Discord**  and click **Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082529/7443" target="_top" id="2082529"><img src="//a.impactradius-go.com/display-ad/7443-2082529" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082529/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://www.drivereasy.com/wp-content/uploads/2019/10/2019-10-31_19-04-30.jpg)
 3. Download and install **[Discord](https://discordapp.com/)**  .
 
@@ -224,8 +182,6 @@ If your issue still exists, move on to the fix, below.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -233,4 +189,26 @@ If your issue still exists, move on to the fix, below.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://win-blog.techidaily.com/unable-to-boot-into-resident-evil-village-solutions-unveiled/"><u>'Unable to Boot Into Resident Evil Village': Solutions Unveiled</u></a></li>
+<li><a href="https://youtube-zero.techidaily.com/reaking-down-the-process-for-youtube-comment-highlights/"><u>[New] Breaking Down the Process for YouTube Comment Highlights</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/updated-a-deep-dive-into-an-individuals-3dr-experience-for-2024/"><u>[Updated] A Deep Dive Into an Individual's '3DR' Experience for 2024</u></a></li>
+<li><a href="https://some-tips.techidaily.com/2024-approved-utilizing-netflixs-floating-window-feature-effectively/"><u>2024 Approved Utilizing Netflix's Floating Window Feature Effectively</u></a></li>
+<li><a href="https://win-blog.techidaily.com/boost-your-gaming-experience-update-graphic-drivers-in-forza-horizon-5/"><u>Boost Your Gaming Experience - Update Graphic Drivers in Forza Horizon 5</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effective-fixes-how-to-get-stray-running-again-top-picks/"><u>Effective Fixes: How to Get Stray Running Again – Top Picks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/expert-advice-on-solving-ready-or-not-game-instability-on-pc-setups/"><u>Expert Advice on Solving 'Ready or Not' Game Instability on PC Setups</u></a></li>
+<li><a href="https://win-wonderful.techidaily.com/guida-passo-passo-per-integrare-laccount-outlook-con-il-tuo-email-gmail/"><u>Guida Passo-Passo per Integrare L'Account Outlook Con Il Tuo Email Gmail</u></a></li>
+<li><a href="https://win-blog.techidaily.com/how-to-fix-battlefield-2042-directx-errors/"><u>How to Fix Battlefield 2042 DirectX Errors</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improving-performance-a-guide-to-resolve-lagging-issues-and-increase-fps-in-battle-royale-games-like-warzone/"><u>Improving Performance: A Guide to Resolve Lagging Issues and Increase FPS in Battle Royale Games Like Warzone</u></a></li>
+<li><a href="https://apple-account.techidaily.com/in-2024-how-to-delete-icloud-account-from-apple-iphone-12-pro-without-password-by-drfone-ios/"><u>In 2024, How to Delete iCloud Account From Apple iPhone 12 Pro without Password?</u></a></li>
+<li><a href="https://youtube-webster.techidaily.com/24-youtube-video-builder-how-to-create-video-ads-for-free/"><u>In 2024, YouTube Video Builder How to Create Video Ads for Free?</u></a></li>
+<li><a href="https://win-blog.techidaily.com/overcome-lag-and-glitches-fixing-call-of-duty-vanguard-for-seamless-playtime-for-free/"><u>Overcome Lag and Glitches: Fixing Call of Duty: Vanguard for Seamless Playtime for Free</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/overcoming-emotional-isolation-how-to-engage-with-chatgpt-for-companionship/"><u>Overcoming Emotional Isolation: How to Engage with ChatGPT for Companionship</u></a></li>
+<li><a href="https://win11.techidaily.com/quick-fix-tips-for-lunar-client-launch-failure-on-desktops/"><u>Quick-Fix Tips for Lunar Client Launch Failure on Desktops</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-helldivers-ii-pc-game-issues-top-troubleshooting-steps/"><u>Resolving Helldivers II PC Game Issues: Top Troubleshooting Steps</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/the-dynamic-duo-approach-using-two-photos-in-one-instagram-story-for-2024/"><u>The Dynamic Duo Approach Using Two Photos in One Instagram Story for 2024</u></a></li>
+<li><a href="https://win-blog.techidaily.com/the-players-handbook-to-overcome-counter-strike-erious-and-severe-requiring-immediate-medical-intervention-here-are-some-of-the-symptoms/"><u>The Player's Handbook to Overcome Counter-Strike Erious and Severe, Requiring Immediate Medical Intervention. Here Are some of the Symptoms:</u></a></li>
+<li><a href="https://meme-emoji.techidaily.com/updated-how-to-use-emojis-on-windows-10-and-windows-11-in-2024/"><u>Updated How to Use Emojis on Windows 10 and Windows 11, In 2024</u></a></li>
+</ul></div>
 

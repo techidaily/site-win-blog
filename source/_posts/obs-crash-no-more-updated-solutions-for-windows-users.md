@@ -1,7 +1,7 @@
 ---
 title: "OBS Crash No More: Updated Solutions for Windows Users"
-date: 2024-08-18T18:04:33.329Z
-updated: 2024-08-19T18:04:33.329Z
+date: 2025-02-28T16:32:10.885Z
+updated: 2025-03-04T16:08:54.811Z
 tags:
   - win11
   - win10
@@ -21,9 +21,6 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
  Released on 27 Aug, 2021,**Tormented Souls** has redefined classic survival horror. Although Tormented Souls has received lots of praise, the game still has some known errors and issues. **If Tormented Souls keeps crashing on your PC, don’t worry. You’ve landed in the right spot.** After reading this article, you should be able to fix the game crashing issues on your own quickly & easily!
 
-<!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BOutlook%2BRecovery"><img src="https://www.systoolsgroup.com/box/outlook-recovery.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  Here we’ve put together the latest fixes that solved this issue for many PC gamers. Whether Tormented Souls crashes on startup or crashes in the middle of the game, you can find a fix to try in this article.
@@ -38,9 +35,6 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 6. **[Stop overclocking](https://tools.techidaily.com/drivereasy/download/)**
 7. **[Perform a clean boot](https://tools.techidaily.com/drivereasy/download/)**
 
-<!-- affiliate ads begin -->
-<a href="https://caperobbin.sjv.io/c/5597632/2006118/18460" target="_top" id="2006118"><img src="//a.impactradius-go.com/display-ad/18460-2006118" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2006118/18460" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Verify and repair the game files
 
  Before trying anything more complicated, you should verify the integrity of the game files first, as the game file corruption would lead to the game crashing issues.
@@ -49,14 +43,8 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
 1. Launch **Steam** and go to your **Library** .
 2. **Right-click** on **Tormented Souls** and select **Properties** .  
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Steam game properties](https://images.drivereasy.com/wp-content/uploads/2021/04/Steam-game-F1-2020-properties.jpg)
 3. Click **LOCAL FILES** on the left, then click **Verify integrity of game files…** . It may take some time to finish verifying the game files. If Steam finds anything wrong with the game files, it will re-download them from its official server.  
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2027209/17108" target="_top" id="2027209"><img src="//a.impactradius-go.com/display-ad/17108-2027209" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2027209/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![verify the integrity of game files](https://images.drivereasy.com/wp-content/uploads/2021/04/F1-2020-verify-the-integrity-of-game-files.jpg)
 
  Depending on the size of the game files, it may take some time to verify all your game files.
@@ -77,23 +65,14 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://homestyler.sjv.io/c/5597632/2044747/22993" target="_top" id="2044747"><img src="//a.impactradius-go.com/display-ad/22993-2044747" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2044747/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Driver Easy scan now](https://images.drivereasy.com/wp-content/uploads/2020/11/Driver-Easy-scan-now.jpg)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system. (This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All.)  
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35408920&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/FR-200-1.png" border="0">Glarysoft File Recovery Pro - Helps to recover your lost file/data, even permanently deleted data. </a>
-<!-- affiliate ads end -->
 ![Update graphics drivers with Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/09/de-update-all-rtx-3080.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 
 **The Pro version of Driver Easy** comes with _full technical support_ . If you need assistance, please contact **Driver Easy’s support team** at **[support@drivereasy.com](https://tools.techidaily.com/drivereasy/download/) .**
 
-<!-- affiliate ads begin -->
-
-<!-- affiliate ads end -->
 ## Install the latest game patch
 
  The developer of Tormented Souls releases regular game patches to fix bugs and improve gaming performance. It’s possible that a recent patch has caused the game crash issue, and that a new patch is required to fix it.
@@ -104,10 +83,6 @@ thumbnail: https://thmb.techidaily.com/b52695e8d8e71746809895655de9f8c6acd7b0659
 
  If it didn’t work, or there was no new game patch available, move on to next fix, below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ## Disable the Steam overlay
 
  The Steam Overlay is an in-game interface that allows players to access many Steam Community features while playing. The overlay features are handy, but sometimes they may interfere with the game.
@@ -141,17 +116,11 @@ If this fix didn’t work, try the next fix to perform a clean boot.
 
 See if the game crashing issue persists.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Perform a clean boot
 
  The game will crash if there is certain applications conlicting with it. You can perform a clean boot to find out the problematic application that crashes the game. Here’s how to do it:
 
 1. On your keyboard, press the **Windows logo key** and **R** at the same time to open the Run Dialog. Type **msconfig** and press **Enter** to open the **System Configuration** window.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=195080&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.blumentals.net/scrwonder/images/screensaver-software.png" border="0">With Screensaver Wonder you can easily make a screensaver from your own pictures and video files. Create screensavers for your own computer or create standalone, self-installing screensavers for easy sharing with your friends. Together with its sister product Screensaver Factory, Screensaver Wonder is one of the most popular screensaver software products in the world, helping thousands of users decorate their computer screens quickly and easily.</a>
-<!-- affiliate ads end -->
 ![msconfig-win-10](https://images.drivereasy.com/wp-content/uploads/2016/11/msconfig-win-10.png)
 2. Navigate to the **Services** tab, check **Hide all Microsoft services** and then click **Disable all** .  
 ![system configuration](https://images.drivereasy.com/wp-content/uploads/2019/08/system-configuration.png)
@@ -189,8 +158,6 @@ See if the game crashing issue persists.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -198,4 +165,22 @@ See if the game crashing issue persists.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-trendsetting-hashes-optimizing-hashtags-to-amplify-short-video-impact/"><u>[New] 2024 Approved Trendsetting Hashes Optimizing Hashtags to Amplify Short Video Impact</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-zooms-true-power-tripled-transformation-techniques/"><u>[New] Zoom's True Power Tripled Transformation Techniques</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-2024-approved-unleashing-viral-potential-a-curated-list-of-tiktok-usernames/"><u>[Updated] 2024 Approved Unleashing Viral Potential A Curated List of TikTok Usernames</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1726222928865-pngtiff-movavi/"><u>「フリーチェンジサービス: PNGとTIFFのオンライン変換 - Movavi」</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/15-tips-for-effective-auto-gpt-utilization/"><u>15 Tips for Effective Auto-GPT Utilization</u></a></li>
+<li><a href="https://win-blog.techidaily.com/6-proven-tweaks-to-minimize-resource-drain-in-baldurs-gate-3-a-step-by-step-guide-for-pc-players-2024-version/"><u>6 Proven Tweaks to Minimize Resource Drain in Baldur's Gate 3: A Step-by-Step Guide for PC Players (2024 Version)</u></a></li>
+<li><a href="https://hardware-tips.techidaily.com/capture-the-savings-amazon-continues-to-offer-a-steep-36-off-on-samsungs-8tb-t5-ssd-after-prime-day-bonanza-expert-analysis-by-zdnet/"><u>Capture the Savings: Amazon Continues to Offer a Steep 36% Off on Samsung's 8TB T5 SSD After Prime Day Bonanza | Expert Analysis by ZDNet</u></a></li>
+<li><a href="https://youtube-video-recordings.techidaily.com/elevating-visual-experience-youtubes-quality-boosting-guide-for-2024/"><u>Elevating Visual Experience YouTube's Quality Boosting Guide for 2024</u></a></li>
+<li><a href="https://win11.techidaily.com/how-to-disable-rounded-corners-in-windows-11/"><u>How to Disable Rounded Corners in Windows 11</u></a></li>
+<li><a href="https://win-blog.techidaily.com/improve-counter-strike-2-performance-tips-to-increase-fps-and-reduce-lag/"><u>Improve Counter-Strike 2 Performance: Tips to Increase FPS & Reduce Lag</u></a></li>
+<li><a href="https://win-blog.techidaily.com/1723003538293-master-the-art-of-stable-gaming-overcome-yakuza-6-pc-faults-easily/"><u>Master the Art of Stable Gaming: Overcome Yakuza 6 PC Faults Easily</u></a></li>
+<li><a href="https://win-blog.techidaily.com/optimizing-connectivity-effective-solutions-to-address-new-world-server-delays-and-connection-issues/"><u>Optimizing Connectivity: Effective Solutions to Address 'New World' Server Delays and Connection Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-gaming-fixes-enjoy-a-smooth-run-with-the-latest-patch-of-wrc-10-by-fia-world-rally-championship/"><u>PC Gaming Fixes: Enjoy a Smooth Run with the Latest Patch of WRC 10 by FIA World Rally Championship</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolving-network-issues-troubleshooting-guide-for-apex-legends-players/"><u>Resolving Network Issues: Troubleshooting Guide for Apex Legends Players</u></a></li>
+<li><a href="https://win-blog.techidaily.com/steam-remote-play-malfunctions-proven-fixes-for-a-seamless-gaming-experience/"><u>Steam Remote Play Malfunctions: Proven Fixes for a Seamless Gaming Experience!</u></a></li>
+</ul></div>
 

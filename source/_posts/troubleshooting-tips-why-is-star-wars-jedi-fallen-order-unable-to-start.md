@@ -1,7 +1,7 @@
 ---
 title: "Troubleshooting Tips: Why Is Star Wars Jedi: Fallen Order Unable to Start?"
-date: 2024-08-18T18:05:42.149Z
-updated: 2024-08-19T18:05:42.149Z
+date: 2025-02-26T16:17:02.482Z
+updated: 2025-03-04T16:19:41.421Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/afe8f045484617e9f5a2ca5a0fbc786ffaec7f39c
 
 For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occurrence. The error pops up when Riot’s anti-cheat program Vanguard fails to start for some reason, causing Valorant to crash. If you, too, are being shut out of the game by the error, don’t worry. This post may help…
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40203538&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/cc4b82e826b52ec41c810301548e8f48/products/audio-to-text-transcription-software.png" border="0">EaseText Audio to Text Converter for Windows (Personal Edition) - An intelligent tool to transcribe & convert audio to text freely </a>
-<!-- affiliate ads end -->
 ## How to fix Vanguard Not Initialized
 
  Here are five fixes that have helped other players resolve the**Vanguard Not Initialized** game crash on PC error. You may not have to try them all; just work your way down the list until you find the one that does the trick for you.
@@ -42,22 +39,13 @@ For many**Valorant** players,**Vanguard Not Initialized** is not an uncommon occ
 
 1. **[Download](https://tools.techidaily.com/drivereasy/download/)**  and install Driver Easy.
 2. Run Driver Easy and click the **Scan Now** button. Driver Easy will then scan your computer and detect any problem drivers.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537547&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/vcfpro.png" border="0">Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/12/last-scan-never.png)
 3. Click **Update All** to automatically download and install the correct version of _all_ the drivers that are missing or out of date on your system (this requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  – you’ll be prompted to upgrade when you click Update All).  
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048972/16384" target="_top" id="2048972"><img src="//a.impactradius-go.com/display-ad/16384-2048972" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048972/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/04/1650-super-de-update-all-1.jpg)  
 **Note** : You can do it for free if you like, but it’s partly manual.
 4. Restart your PC for the changes to take effect.
 5. Launch Valorant, then check to see if the game crashing problem has been resolved. If yes, then great! If the issue still persist, please try**Fix 2** , below.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068411/7443" target="_top" id="2068411"><img src="//a.impactradius-go.com/display-ad/7443-2068411" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068411/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Fix 2: Re-launch Riot Vanguard
 
  Sometimes a simple restart could help fix lots of hiccups. So as an empirical method, you can force quit the program and give Riot Vanguard a re-launch. Then restart your computer and check to see if the game still crashes.
@@ -73,9 +61,6 @@ To do so:
 1. On your keyboard, press the Windows logo key and type**Add or Remove Programs** , then click on**Add or Remove Programs** as it pops up as a result.  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/Add-or-Remove-Programs.png)
 2. In the list of apps and features, locate Riot Vanguard. Then click on it and choose**Uninstall** .  
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/RV.png)
 3. Launch the VALORANT client to prompt Vanguard to reinstall.
 4. Check to see if the Vanguard anti-cheat has not been initialized issue has been resolved. If yes, congrats! If it’s still no joy, please move on to**Fix 4** , below.
@@ -88,9 +73,6 @@ To do so:
 2. Type**services.msc** and press**Enter** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/services.msc_.png)
 3. Scroll down to**Virtual Disk** and double-click on it.  
-<!-- affiliate ads begin -->
-<a href="https://shop.copernic.com/order/checkout.php?PRODS=41033095&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.2checkout.com/images/merchant/8d30aa96e72440759f74bd2306c1fa3d/Copernic-2023-Affiliate-728x90-Advanced-3YR.png" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/VD.png)
 4. In Startup type, choose**Automatic** . Then click**OK** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/11/AUT.png)
@@ -103,9 +85,6 @@ To do so:
 The steps are pretty easy:
 
 1. On your keyboard, press**the Windows logo key** and type**check for updates** , then click on**Check for updates** as it pops up as a matching result.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/12-1.png)
 2. Click**Check for updates** .  
 ![](https://images.drivereasy.com/wp-content/uploads/2021/05/cc.png)
@@ -127,8 +106,6 @@ The steps are pretty easy:
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -136,4 +113,20 @@ The steps are pretty easy:
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-helps.techidaily.com/new-2024-approved-accelerating-or-slowing-down-video-playback-on-insta-stories/"><u>[New] 2024 Approved Accelerating or Slowing Down Video Playback on Insta Stories</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/updated-how-to-add-motion-blur-to-photos-in-adobe-illustrator/"><u>[Updated] How to Add Motion Blur to Photos In Adobe Illustrator</u></a></li>
+<li><a href="https://video-capture.techidaily.com/2024-approved-top-ultra-short-timelapse-capture-methods/"><u>2024 Approved Top Ultra-Short Timelapse Capture Methods</u></a></li>
+<li><a href="https://win-blog.techidaily.com/death-stranding-fixed-pc-version-stability-improvements/"><u>Death Stranding Fixed: PC Version Stability Improvements!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/effortless-solutions-to-debugging-discords-javascript-glitches/"><u>Effortless Solutions to Debugging Discord's JavaScript Glitches</u></a></li>
+<li><a href="https://win-blog.techidaily.com/enhancements-made-to-eliminate-stutter-and-disruption-in-starfield-gameplay-audio/"><u>Enhancements Made to Eliminate Stutter and Disruption in Starfield Gameplay Audio</u></a></li>
+<li><a href="https://some-tips.techidaily.com/how-to-install-third-party-ios-apps-without-jailbreaking-your-iphone-insights/"><u>How to Install Third-Party iOS Apps Without Jailbreaking Your iPhone - Insights</u></a></li>
+<li><a href="https://review-topics.techidaily.com/how-to-transfer-whatsapp-from-iphone-xs-max-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-whatsapp-from-ios-transfer-whatsapp-from-ios/"><u>How To Transfer WhatsApp From iPhone XS Max to other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://win-blog.techidaily.com/increase-fps-in-titanfall-2-speedy-fixes-and-simple-hacks/"><u>Increase FPS in Titanfall 2: Speedy Fixes and Simple Hacks</u></a></li>
+<li><a href="https://win-dash.techidaily.com/master-the-art-of-webcam-driver-updates-for-windows-7-with-these-steps/"><u>Master the Art of Webcam Driver Updates for Windows 7 with These Steps</u></a></li>
+<li><a href="https://tech-renaissance.techidaily.com/master-the-fix-for-non-operational-gadgets-addressing-and-repairing-error-code-10-issues/"><u>Master the Fix for Non-Operational Gadgets: Addressing and Repairing Error Code 10 Issues</u></a></li>
+<li><a href="https://win-blog.techidaily.com/necromundas-hired-gun-still-suffering-pc-crashes-heres-how-to-overcome-that/"><u>Necromunda's Hired Gun Still Suffering PC Crashes? Here’s How to Overcome That!</u></a></li>
+<li><a href="https://win-blog.techidaily.com/pc-troubleshooting-for-smashing-itinerant-dragons-a-comprehensive-walkthrough-of-tiny-tinas-wonderlands/"><u>PC Troubleshooting for Smashing Itinerant Dragons: A Comprehensive Walkthrough of Tiny Tinas Wonderlands</u></a></li>
+</ul></div>
 

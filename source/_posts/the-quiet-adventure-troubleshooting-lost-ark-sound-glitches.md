@@ -1,7 +1,7 @@
 ---
 title: The Quiet Adventure? Troubleshooting Lost Ark Sound Glitches
-date: 2024-08-18T18:07:47.895Z
-updated: 2024-08-19T18:07:47.895Z
+date: 2025-02-26T16:07:52.437Z
+updated: 2025-03-04T16:00:53.377Z
 tags:
   - win11
   - win10
@@ -45,18 +45,12 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
  However, if the error message “Unable to launch game, please verify your game data. ” still appears, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## 2\. Download and install all Windows updates
 
  Before tweaking any settings within the launcher, you should check if there are Windows updates available. Windows updates come with bug fixes and new features. Downloading and installing all Windows updates is probably the best shot to fix any issues you’re having.
 
 1. In the Search box, type**check for updates** . Then click **Check for updates**  from results.  
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4727541&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/5f4f7141b65a730b4efb0e0d51f63e94/products/copy_copy_forexrobotronbox.gif" border="0">Forex Robotron Gold Package</a>
-<!-- affiliate ads end -->
 ![how to download and install Windows updates](https://images.drivereasy.com/wp-content/uploads/2021/01/check-for-updates.png)
 2. Click on the **Check for updates**  tab. If there are any updates available, it’ll automatically start to download and install it. Simply wait for it to complete and you should be asked to restart your computer.  
 
@@ -64,13 +58,6 @@ Wondering how you can fix the error “Unable to launch game, please verify your
 
  Upon restart, launch your game and check if this works for you. If the error message still pops up, try the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.textstudio.com/order/checkout.php?PRODS=35633281&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/d6eb8222c9718486bdabce8b897380f7/products/2_premium-icon.png" border="0"> Take advantage of PREMIUM features. 
-Create your texts / logos without any limitation. 
-No attribution required when downloading. 
-No advertising on the website. 
- TextStudio.com  PREMIUM - Monthly Membership</a>
-<!-- affiliate ads end -->
 ## 3\. Update your drivers
 
  After you’ve confirmed the integrity of your game files is intact and you have the latest Windows version, it’s time you check if your drivers,**especially your graphics driver** , are up-to-date. Using outdated drivers can cause a wide variety of issues with your programs. Therefore, you should check if there are any driver updates available.
@@ -85,9 +72,6 @@ No advertising on the website.
 
  This requires the **[Pro version](https://tools.techidaily.com/drivereasy/download/)**  which comes with full support and a 30-day money-back guarantee. You’ll be prompted to upgrade when you click Update All. If you don’t want to upgrade to the Pro version, you can also update your drivers with the FREE version. All you need to do is to download them one at a time and manually install them.  
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082532/7443" target="_top" id="2082532"><img src="//a.impactradius-go.com/display-ad/7443-2082532" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082532/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![update graphics driver using Driver Easy](https://images.drivereasy.com/wp-content/uploads/2020/08/3080.jpg)
 
 **The Pro version of Driver Easy** comes with full technical support.  
@@ -102,9 +86,6 @@ No advertising on the website.
 1. On your keyboard, press the **Windows logo + R**  keys simultaneously to open the Run box.
 2. Type **taskmgr** and press Enter.  
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![open Task Manager](https://images.drivereasy.com/wp-content/uploads/2021/01/open-task-manager.png)
 3. Under the Processes tab, right-click on the programs that you don’t necessarily use and select **End task** .  
 
@@ -112,9 +93,6 @@ No advertising on the website.
 
  Then relaunch your game. If this doesn’t do the trick, move on to the next fix.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4599952&QTY=1&AFFILIATE=108875&CART=1"><iframe width="864" height="500" src="https://www.youtube.com/embed/jVnfr5HudQw" title="The Latest and Easiest Solution to Remove Kindle DRM on Windows (without Degrading)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>Epubor Ultimate for Mac:Helps you read books anywhere, including the best eBook Converter + eBook DRM Removal functions.</a>
-<!-- affiliate ads end -->
 ## 5\. Run the launcher as administrator
 
  If your game fails to launch properly, it could be due to the lack of administrative rights. To fix it, try to run the Rockstar Games Launcher as an administrator by following the instructions below.
@@ -124,27 +102,18 @@ No advertising on the website.
 ![run Rockstar Games Launcher with compatibility mode with administrator priviledges](https://images.drivereasy.com/wp-content/uploads/2020/12/select-Properties.png)
 2. In the Properties window, select the**Compatibility** tab. Then check the box next to**Run the program as an administrator** .  
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![rockstar games launcher run as administrator](https://images.drivereasy.com/wp-content/uploads/2021/12/run-as-administrator.png)
 
  Then click**Apply > OK** to save the changes.
 
  If your problem persists, don’t worry. Below are some other fixes you can try.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## 6\. Delete the Rockstar Games folders
 
  If none of the fixes listed above help, you should try deleting the Social Club folder from**Program Files** and**Program Files (x86)** . It’s usually located on**C:\\Program Files\\Rockstar Games** and**C:\\Program Files (x86)\\Rockstar Games** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4600113&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/drm-removal-feature2.png" border="0">Any DRM Removal for Win：Remove DRM from Adobe, Kindle, Sony eReader, Kobo, etc, read your ebooks anywhere.</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2021/12/delete-social-club-folder-rockstar-games-launcher-2.png)
 
  Then try to run your game from the Rockstar Games Launcher. If the error message still pops up, it’s time to delete the Rockstar Games folder from OneDrive.
@@ -163,8 +132,6 @@ No advertising on the website.
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +139,22 @@ No advertising on the website.
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://extra-hints.techidaily.com/new-android-essentials-for-immersive-video-and-vr-content/"><u>[New] Android Essentials for Immersive Video and VR Content</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-2024-approved-behind-the-scenes-with-top-influencers-insights-into-their-fb-stories/"><u>[Updated] 2024 Approved Behind the Scenes with Top Influencers – Insights Into Their FB Stories</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/updated-2024-approved-mastering-webinar-recording-on-a-budget/"><u>[Updated] 2024 Approved Mastering Webinar Recording on a Budget</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/updated-in-2024-elite-no-price-fb-photovideo-magic-maker/"><u>[Updated] In 2024, Elite No-Price FB Photo/Video Magic Maker</u></a></li>
+<li><a href="https://driver-download.techidaily.com/1722978305495-efficient-printing-with-epson-wf-7710-secure-driver-downloads-for-windows-10-81-etc/"><u>Efficient Printing with Epson WF-7710 - Secure Driver Downloads for Windows 10, 8.1, Etc</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/experience-enhanced-ai-assistance-the-9-key-reasons-to-choose-chatgpt-plus/"><u>Experience Enhanced AI Assistance: The 9 Key Reasons to Choose ChatGPT Plus</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/family-adventure-on-wheels-the-ultimate-guide-to-maisto-rc-rock-crawlers/"><u>Family Adventure on Wheels: The Ultimate Guide to Maisto RC Rock Crawlers</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fixing-the-issue-when-your-copy-of-modern-warfare-2-fails-to-load/"><u>Fixing the Issue When Your Copy of Modern Warfare 2 Fails to Load</u></a></li>
+<li><a href="https://win-blog.techidaily.com/outriders-freezing-woes-a-step-by-step-fix-for-smooth-gaming-on-your-computer/"><u>Outriders Freezing Woes? A Step-by-Step Fix for Smooth Gaming on Your Computer</u></a></li>
+<li><a href="https://win-blog.techidaily.com/quick-fixes-for-steam-delays-boosting-your-gaming-flow-instantly/"><u>Quick Fixes for Steam Delays – Boosting Your Gaming Flow Instantly</u></a></li>
+<li><a href="https://win-blog.techidaily.com/repair-guide-what-to-do-when-your-internet-explorer-keeps-freezing/"><u>Repair Guide: What To Do When Your Internet Explorer Keeps Freezing</u></a></li>
+<li><a href="https://win-blog.techidaily.com/resolved-troubleshooting-steam-login-issues/"><u>Resolved: Troubleshooting Steam Login Issues</u></a></li>
+<li><a href="https://games-able.techidaily.com/the-ultimate-guide-to-maximizing-your-joystick-juice/"><u>The Ultimate Guide to Maximizing Your Joystick Juice</u></a></li>
+<li><a href="https://win-blog.techidaily.com/ultimate-guide-to-resolving-persistent-war-thunder-game-crashes/"><u>Ultimate Guide to Resolving Persistent War Thunder Game Crashes</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/1723212303022-windows-10-update-stuck-or-frozen-how-do-i-fix-it/"><u>Windows 10 Update Stuck or Frozen – How Do I Fix It?</u></a></li>
+</ul></div>
 

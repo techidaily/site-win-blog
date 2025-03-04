@@ -1,7 +1,7 @@
 ---
 title: How to Fix Call of Duty Modern Warfare 3'S FPS Stuttering Issue in Early 2024
-date: 2024-08-18T18:08:12.009Z
-updated: 2024-08-19T18:08:12.009Z
+date: 2025-03-02T16:25:51.109Z
+updated: 2025-03-04T16:25:28.390Z
 tags:
   - win11
   - win10
@@ -17,9 +17,6 @@ thumbnail: https://thmb.techidaily.com/aca28fbc907b3b2134a063785955f99d7ee87845f
 
 Many shooter aficionados are reporting**FPS drops** in Call of Duty: Modern Warfare. If you happen to be one of them, don’t worry. Here’re some useful tips you can try to boost your FPS, easily & quickly.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Try these fixes
 
  You might not need to try all of them. Simply work through the list until you find the one that works for you.
@@ -87,9 +84,6 @@ You can do it with only 2 steps:
 
  If updating the driver doesn’t do the trick for you, take a look at the next fix below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.bitdefender.com/affiliate.php?ACCOUNT=BITLATIN&AFFILIATE=108875&PATH=http%3A%2F%2Fwww.bitdefender.com%2Fbusiness%3FAFFILIATE%3D108875%26RESOURCE%3D30%2525%2BOff%2Ball%2BGravityZone%2BProducts"><img src="https://www.bitdefender.com/content/dam/bitdefender/business/campaign/1200X628.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Fix 4: Check for Windows updates
 
  If the last time you check for windows updates feel like ages ago, you need to do it right now. Every once in a while, aside from regular security patches, Windows updates install some edgy features on your computer, which might be a potential fix to your Modern Warfare FPS issue.
@@ -97,14 +91,8 @@ You can do it with only 2 steps:
 And it’s quite easy to update too:
 
 1. On your keyboard, press the**Windows logo key** and**I** at the same time to open the**Settings** app. Then click**Update & Security** .  
-<!-- affiliate ads begin -->
-<a href="https://bluettide.pxf.io/c/5597632/2042332/17092" target="_top" id="2042332"><img src="//a.impactradius-go.com/display-ad/17092-2042332" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="960" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042332/17092" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-setting-app-security-update.jpg)
 2. Click**Check for updates** . Windows will then check and install updates automatically. This might take a while depending on your Internet speed.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=3851691&QTY=1&AFFILIATE=108875&CART=1"><img src="http://www.aiseesoft.com/avangate/30p/banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/windows-security-update-click-check-for-update.jpg)
 3. Once you’ve installed the updates, restart the computer.
 
@@ -120,9 +108,6 @@ And it’s quite easy to update too:
 
  If you’re sure you’ve left enough resources for Modern Warfare and the FPS issue is still there, check out the next fix to change your power plan.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Fix 6: Change your power plan to Ultimate Performance
 
  Microsoft has added a new power plan called “**Ultimate Performance** ” to Windows 10 April 2018 Update. This plan aims to fully exploit the potential of your computer, so it might be a solution to your FPS dropping issue.
@@ -130,21 +115,10 @@ And it’s quite easy to update too:
 Here’s how to enable this power plan:
 
 1. On your keyboard, press the**Windows logo key** and**R** at the same time to invoke the Run command box. Type**powercfg.cpl** and press**Enter** .  
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/09/cmd-run-power-option.jpg)
 2. Select**Ultimate Performance** . If you don’t see this power plan, please continue to the next step to unhide it.  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=30901410&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/copy_1_copy_vMixCallScreenshot1-large.jpg" border="0"> vMix Pro - Software based live production. vMix Pro includes everything in vMix 4K plus 8 channels of Replay and 8 vMix Call 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/change-power-plan-ultimate-performance.jpg)
 3. On your keyboard, press the**Windows logo key** and type**cmd** . Select**Run as Administrator** .  
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-writer-free-word-processor-1x.3d9c80d.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![](https://images.drivereasy.com/wp-content/uploads/2020/08/run-cmd-as-administrator.jpg)
 4. In the command prompt, type or paste the following command and press**Enter** .  
 powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61  
@@ -163,8 +137,6 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-client="ca-pub-7571918770474297"
      data-ad-slot="1223367746"></ins>
 
-
-
 <ins class="adsbygoogle"
      style="display:block"
      data-ad-client="ca-pub-7571918770474297"
@@ -172,4 +144,21 @@ powercfg -duplicatescheme e9a42b02-d5df-448d-aa00-03f14749eb61
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-links.techidaily.com/new-tutorial-for-downloading-movie-maker-6-on-windows-for-2024/"><u>[New] Tutorial for Downloading Movie Maker 6 on Windows for 2024</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-unlock-your-phone-camera-free-and-easy/"><u>[Updated] Unlock Your Phone Camera, Free & Easy</u></a></li>
+<li><a href="https://win-dash.techidaily.com/comprehensive-walkthrough-get-the-latest-version-of-the-epson-et-3760-driver-for-microsoft-windows-systems/"><u>Comprehensive Walkthrough: Get the Latest Version of the Epson ET-3760 Driver for Microsoft Windows Systems</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-data-from-v27e-by-fonelab-android-recover-data/"><u>Easy steps to recover deleted data from V27e</u></a></li>
+<li><a href="https://win-blog.techidaily.com/fix-your-helldivers-2-startup-problems-with-these-simple-steam-tweaks/"><u>Fix Your Helldivers 2 Startup Problems with These Simple Steam Tweaks</u></a></li>
+<li><a href="https://win-blog.techidaily.com/get-back-to-haunting-solutions-for-non-functional-phasmophobia-vr/"><u>Get Back to Haunting: Solutions for Non-Functional Phasmophobia VR</u></a></li>
+<li><a href="https://win-blog.techidaily.com/guilty-gear-strive-release-delayed-exclusive-update-and-resolution-insights/"><u>Guilty Gear Strive Release Delayed: Exclusive Update & Resolution Insights</u></a></li>
+<li><a href="https://tech-savvy.techidaily.com/reimagined-search-bing-embraces-ai/"><u>Reimagined Search: Bing Embraces AI</u></a></li>
+<li><a href="https://techidaily.com/simple-ways-to-get-lost-music-back-from-nubia-red-magic-9-proplus-by-fonelab-android-recover-music/"><u>Simple ways to get lost music back from Nubia Red Magic 9 Pro+</u></a></li>
+<li><a href="https://win-blog.techidaily.com/step-by-step-solutions-for-when-your-logitech-c920-webcam-stops-working/"><u>Step-by-Step Solutions for When Your Logitech C920 Webcam Stops Working</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/210936859-9781914613357-the-witchs-survival-guide/"><u>The Witch's Survival Guide | Free Book</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshoot-and-resolve-multiversus-freezing-issues-with-these-8-expert-fixes/"><u>Troubleshoot & Resolve MultiVersus Freezing Issues with These 8 Expert Fixes</u></a></li>
+<li><a href="https://win-blog.techidaily.com/troubleshooting-the-last-epoch-pc-launch-issues-comprehensive-guide/"><u>Troubleshooting The Last Epoch PC Launch Issues - Comprehensive Guide</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/unveiling-top-5-easy-to-use-cost-effective-zoom-transcription-tools/"><u>Unveiling Top 5 Easy-to-Use, Cost-Effective Zoom Transcription Tools</u></a></li>
+</ul></div>
 
